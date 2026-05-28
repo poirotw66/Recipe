@@ -1,0 +1,26 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  canonicalPath?: string;
+}
+
+const {
+  title,
+  description,
+  canonicalPath = Astro.url.pathname
+} = Astro.props;
+
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || "https://example.com";
+const canonical = new URL(canonicalPath, siteUrl).toString();
+const fullTitle = title.includes("今天煮什麼") ? title : `${title}｜今天煮什麼`;
+---
+
+<title>{fullTitle}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonical} />
+<meta property="og:title" content={fullTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:type" content="website" />
+<meta property="og:url" content={canonical} />
+<meta name="twitter:card" content="summary_large_image" />

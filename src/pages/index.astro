@@ -1,0 +1,72 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const quickIngredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "菇類", "白飯"];
+const scenarios = ["一人料理", "租屋料理", "10 分鐘料理", "電鍋料理", "氣炸鍋料理", "減脂高蛋白"];
+const recipes = [
+  { title: "豆腐炒蛋", meta: "13 分鐘 · 1 人份 · 平底鍋", tags: ["雞蛋", "豆腐", "高蛋白"] },
+  { title: "番茄雞蛋飯", meta: "15 分鐘 · 1 人份 · 平底鍋", tags: ["番茄", "雞蛋", "白飯"] },
+  { title: "電鍋雞胸便當", meta: "25 分鐘 · 2 餐 · 電鍋", tags: ["雞胸肉", "便當", "減脂"] }
+];
+---
+
+<BaseLayout
+  title="今天煮什麼"
+  description="用冰箱現有食材，快速找到今天能煮的簡單料理。"
+  canonicalPath="/"
+>
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">台灣一人份與租屋料理</p>
+      <h1 class="page-title">用冰箱現有食材，找今天能煮的料理。</h1>
+      <p class="page-copy">輸入雞蛋、豆腐、高麗菜這類手邊食材，先從簡單、快速、少浪費的料理開始。</p>
+      <div class="search-panel">
+        <form class="search-form" action="/tools/fridge-recipe" method="get">
+          <label>
+            <span class="eyebrow">你有什麼食材？</span>
+            <input name="ingredients" type="search" placeholder="雞蛋、豆腐、高麗菜" />
+          </label>
+          <button class="button primary" type="submit">找今天能煮的料理</button>
+        </form>
+        <div class="chip-row" aria-label="熱門食材">
+          {quickIngredients.map((item) => <a class="chip note" href={`/tools/fridge-recipe?ingredients=${item}`}>{item}</a>)}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">料理情境</p>
+      <div class="grid">
+        {scenarios.map((scenario) => (
+          <a class="note-card card-body" href="/scenarios">
+            <h2>{scenario}</h2>
+            <p>先建立入口，後續接上情境頁與推薦食譜。</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">熱門食譜</p>
+      <div class="grid">
+        {recipes.map((recipe) => (
+          <article class="card recipe-card">
+            <div class="recipe-image" aria-hidden="true"></div>
+            <div class="card-body">
+              <h2>{recipe.title}</h2>
+              <p>{recipe.meta}</p>
+              <div class="chip-row">
+                {recipe.tags.map((tag) => <span class="chip">{tag}</span>)}
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+      <p><a class="button" href="/recipes">看全部食譜</a></p>
+    </div>
+  </section>
+</BaseLayout>

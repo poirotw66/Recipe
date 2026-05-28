@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const preferences = ["10 分鐘", "高蛋白", "電鍋", "氣炸鍋", "少油"];
+---
+
+<BaseLayout title="冰箱剩料工具" description="輸入你手邊有的食材，找到今天可能能煮的料理。" canonicalPath="/tools/fridge-recipe">
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">Fridge Recipe Tool</p>
+      <h1 class="page-title">冰箱剩料工具</h1>
+      <p class="page-copy">第一階段先建立工具頁外殼，後續會接本地 JSON 比對與推薦排序。</p>
+      <div class="search-panel">
+        <label>
+          <span class="eyebrow">輸入手邊食材</span>
+          <textarea class="tool-input" name="ingredients" placeholder="雞蛋、豆腐、高麗菜"></textarea>
+        </label>
+        <div class="chip-row">
+          {preferences.map((item) => <button class="chip" type="button">{item}</button>)}
+        </div>
+        <p><button class="button primary" type="button">找能煮的料理</button></p>
+      </div>
+      <section class="section">
+        <div class="note-card card-body">
+          <h2>工具邏輯即將完成</h2>
+          <p>之後會顯示命中食材最多、缺少食材最少、10 分鐘內可完成的食譜。</p>
+        </div>
+      </section>
+    </div>
+  </section>
+</BaseLayout>

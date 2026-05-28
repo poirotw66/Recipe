@@ -1,0 +1,32 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const scenarios = [
+  "一人料理",
+  "租屋料理",
+  "10 分鐘料理",
+  "電鍋料理",
+  "氣炸鍋料理",
+  "冰箱剩料料理",
+  "減脂料理",
+  "便當菜"
+];
+---
+
+<BaseLayout title="料理情境" description="依一人料理、租屋料理、10 分鐘料理、電鍋料理等情境快速找食譜。" canonicalPath="/scenarios">
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">Scenarios</p>
+      <h1 class="page-title">料理情境</h1>
+      <p class="page-copy">先從生活情境切入，讓使用者用「現在的狀況」找到適合的料理。</p>
+      <div class="grid">
+        {scenarios.map((scenario) => (
+          <a class="card card-body" href="/scenarios">
+            <h2>{scenario}</h2>
+            <p>情境詳細頁與推薦食譜會在後續階段接上。</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

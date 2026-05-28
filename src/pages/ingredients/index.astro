@@ -1,0 +1,24 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const ingredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "洋蔥", "青蔥", "番茄", "菇類", "白飯", "麵條"];
+---
+
+<BaseLayout title="食材列表" description="從台灣常見食材開始找食譜，包含雞蛋、豆腐、雞胸肉與高麗菜。" canonicalPath="/ingredients">
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">Ingredients</p>
+      <h1 class="page-title">食材列表</h1>
+      <p class="page-copy">長尾食材頁會在後續接上保存方式、營養與相關食譜。</p>
+      <div class="search-panel">
+        <form class="search-form" action="/ingredients" method="get">
+          <input name="keyword" type="search" placeholder="搜尋食材，例如雞蛋" />
+          <button class="button primary" type="submit">搜尋食材</button>
+        </form>
+      </div>
+      <div class="chip-row">
+        {ingredients.map((ingredient) => <a class="chip note" href="/ingredients">{ingredient}</a>)}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,34 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const filters = ["全部", "10 分鐘", "電鍋", "氣炸鍋", "高蛋白", "便當菜"];
+---
+
+<BaseLayout title="食譜列表" description="整理適合一人份、租屋族與台灣常見食材的簡單食譜。" canonicalPath="/recipes">
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">Recipes</p>
+      <h1 class="page-title">食譜列表</h1>
+      <p class="page-copy">食譜內容系統會在下一階段接上。這裡先保留篩選與卡片版型。</p>
+      <div class="filter-bar">
+        {filters.map((filter) => <button class="chip" type="button">{filter}</button>)}
+      </div>
+      <div class="grid">
+        {["豆腐炒蛋", "番茄雞蛋飯", "電鍋雞胸便當"].map((title) => (
+          <article class="card recipe-card">
+            <div class="recipe-image" aria-hidden="true"></div>
+            <div class="card-body">
+              <h2>{title}</h2>
+              <p>食譜資料即將接上，目前為 placeholder。</p>
+              <div class="meta-row">
+                <span class="chip">15 分鐘</span>
+                <span class="chip">1 人份</span>
+                <span class="chip">家常</span>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
