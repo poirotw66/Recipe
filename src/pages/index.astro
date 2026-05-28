@@ -1,35 +1,60 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 
-const quickIngredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "菇類", "白飯"];
-const scenarios = ["一人料理", "租屋料理", "10 分鐘料理", "電鍋料理", "氣炸鍋料理", "減脂高蛋白"];
+const quickIngredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "番茄", "電鍋料理"];
+const scenarios = ["一人料理", "租屋料理", "10 分鐘料理", "電鍋料理", "氣炸鍋料理", "減脂料理"];
 const recipes = [
-  { title: "豆腐炒蛋", meta: "13 分鐘 · 1 人份 · 平底鍋", tags: ["雞蛋", "豆腐", "高蛋白"] },
-  { title: "番茄雞蛋飯", meta: "15 分鐘 · 1 人份 · 平底鍋", tags: ["番茄", "雞蛋", "白飯"] },
-  { title: "電鍋雞胸便當", meta: "25 分鐘 · 2 餐 · 電鍋", tags: ["雞胸肉", "便當", "減脂"] }
+  {
+    title: "番茄豆腐炒蛋",
+    meta: "15 分鐘・1 人份・家常快炒",
+    tags: ["雞蛋", "豆腐", "番茄"]
+  },
+  {
+    title: "電鍋雞胸便當菜",
+    meta: "20 分鐘・2 份・便當友善",
+    tags: ["雞胸肉", "電鍋", "高蛋白"]
+  },
+  {
+    title: "高麗菜菇菇拌麵",
+    meta: "12 分鐘・1 人份・冰箱清菜",
+    tags: ["高麗菜", "菇類", "麵條"]
+  }
 ];
+const popularIngredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "洋蔥", "青蔥", "馬鈴薯", "白飯"];
 ---
 
 <BaseLayout
   title="今天煮什麼"
-  description="用冰箱現有食材，快速找到今天能煮的簡單料理。"
+  description="用冰箱現有食材，快速找到今晚能煮的簡單料理，從雞蛋、豆腐、高麗菜一路找到適合的一人份家常菜。"
   canonicalPath="/"
 >
   <section class="hero">
     <div class="container">
-      <p class="eyebrow">台灣一人份與租屋料理</p>
-      <h1 class="page-title">用冰箱現有食材，找今天能煮的料理。</h1>
-      <p class="page-copy">輸入雞蛋、豆腐、高麗菜這類手邊食材，先從簡單、快速、少浪費的料理開始。</p>
+      <p class="eyebrow">冰箱裡有什麼，就從那裡開始</p>
+      <h1 class="page-title">用手邊食材，找今天能煮的簡單料理</h1>
+      <p class="page-copy">
+        首頁先幫你從冰箱剩料出發，不用先想菜名。輸入 1-3 樣你現在有的食材，就能前往工具頁看適合的料理方向。
+      </p>
+
       <div class="search-panel">
-        <form class="search-form" action="/tools/fridge-recipe" method="get">
-          <label>
-            <span class="eyebrow">你有什麼食材？</span>
-            <input name="ingredients" type="search" placeholder="雞蛋、豆腐、高麗菜" />
+        <form class="search-form" data-home-search>
+          <label class="field">
+            <span class="eyebrow">輸入手邊食材</span>
+            <input
+              name="ingredients"
+              type="search"
+              placeholder="雞蛋、豆腐、高麗菜"
+              autocomplete="off"
+            />
           </label>
           <button class="button primary" type="submit">找今天能煮的料理</button>
         </form>
-        <div class="chip-row" aria-label="熱門食材">
-          {quickIngredients.map((item) => <a class="chip note" href={`/tools/fridge-recipe?ingredients=${item}`}>{item}</a>)}
+        <p class="form-error" data-home-search-error hidden>先輸入 1-3 樣你手邊有的食材。</p>
+
+        <div class="chip-row" aria-label="熱門快速食材">
+          {quickIngredients.map((item) => (
+            <a class="chip note" href={`/tools/fridge-recipe?ingredients=${encodeURIComponent(item)}`}>{item}</a>
+          ))}
         </div>
       </div>
     </div>
@@ -37,12 +62,13 @@ const recipes = [
 
   <section class="section">
     <div class="container">
-      <p class="eyebrow">料理情境</p>
+      <p class="eyebrow">情境入口</p>
+      <h2>先從你今天的烹飪情境挑起</h2>
       <div class="grid">
         {scenarios.map((scenario) => (
           <a class="note-card card-body" href="/scenarios">
-            <h2>{scenario}</h2>
-            <p>先建立入口，後續接上情境頁與推薦食譜。</p>
+            <h3>{scenario}</h3>
+            <p>保留情境列表入口，後續會接上對應的食譜群組與長尾 SEO 頁。</p>
           </a>
         ))}
       </div>
@@ -52,12 +78,13 @@ const recipes = [
   <section class="section">
     <div class="container">
       <p class="eyebrow">熱門食譜</p>
+      <h2>先看看現在最適合延伸成內容的料理方向</h2>
       <div class="grid">
         {recipes.map((recipe) => (
           <article class="card recipe-card">
             <div class="recipe-image" aria-hidden="true"></div>
             <div class="card-body">
-              <h2>{recipe.title}</h2>
+              <h3>{recipe.title}</h3>
               <p>{recipe.meta}</p>
               <div class="chip-row">
                 {recipe.tags.map((tag) => <span class="chip">{tag}</span>)}
@@ -66,7 +93,35 @@ const recipes = [
           </article>
         ))}
       </div>
-      <p><a class="button" href="/recipes">看全部食譜</a></p>
+      <p class="section-action"><a class="button" href="/recipes">看全部食譜</a></p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">熱門食材</p>
+      <h2>從常見食材切進去，也能很快開始找菜</h2>
+      <div class="chip-row" aria-label="熱門食材入口">
+        {popularIngredients.map((ingredient) => (
+          <a class="chip note" href="/ingredients">{ingredient}</a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="card tool-promo">
+        <div class="card-body">
+          <p class="eyebrow">冰箱剩料工具</p>
+          <h2>不想先想菜名時，直接用冰箱現況找方向</h2>
+          <p>
+            工具頁已先完成輸入面與 placeholder 結果流程，下一階段會接上本地 JSON 比對，依命中食材與缺少食材數量排序。
+          </p>
+          <a class="button note" href="/tools/fridge-recipe">用冰箱剩料找食譜</a>
+        </div>
+      </div>
     </div>
   </section>
 </BaseLayout>
+<script is:inline src="/scripts/home-search.js"></script>

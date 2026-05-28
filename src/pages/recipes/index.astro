@@ -1,33 +1,101 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 
-const filters = ["全部", "10 分鐘", "電鍋", "氣炸鍋", "高蛋白", "便當菜"];
+const categories = ["全部", "家常菜", "便當菜", "早餐", "湯品"];
+const times = ["全部", "10 分鐘", "15 分鐘", "30 分鐘內"];
+const tools = ["全部", "電鍋", "氣炸鍋", "微波爐", "平底鍋"];
+const recipes = [
+  {
+    title: "豆腐炒蛋",
+    description: "豆腐、雞蛋和蔥花就能完成的平日快手菜。",
+    meta: ["12 分鐘", "1 人份", "平底鍋"],
+    ingredients: ["豆腐", "雞蛋", "青蔥"],
+    scenarios: ["一人料理", "家常菜"]
+  },
+  {
+    title: "番茄雞蛋飯",
+    description: "剩飯加番茄和雞蛋，做成濕潤好入口的一盤飯。",
+    meta: ["15 分鐘", "1 人份", "快速料理"],
+    ingredients: ["白飯", "番茄", "雞蛋"],
+    scenarios: ["10 分鐘料理", "租屋料理"]
+  },
+  {
+    title: "電鍋雞胸便當菜",
+    description: "用電鍋先把主菜做起來，適合週中便當準備。",
+    meta: ["20 分鐘", "2 份", "高蛋白"],
+    ingredients: ["雞胸肉", "菇類", "青花菜"],
+    scenarios: ["便當菜", "減脂料理"]
+  }
+];
 ---
 
-<BaseLayout title="食譜列表" description="整理適合一人份、租屋族與台灣常見食材的簡單食譜。" canonicalPath="/recipes">
+<BaseLayout
+  title="食譜列表"
+  description="整理適合一人份、租屋族與台灣常見食材的簡單食譜，保留後續 content collection 與篩選擴充空間。"
+  canonicalPath="/recipes"
+>
   <section class="section">
     <div class="container">
       <p class="eyebrow">Recipes</p>
       <h1 class="page-title">食譜列表</h1>
-      <p class="page-copy">食譜內容系統會在下一階段接上。這裡先保留篩選與卡片版型。</p>
-      <div class="filter-bar">
-        {filters.map((filter) => <button class="chip" type="button">{filter}</button>)}
+      <p class="page-copy">
+        這一頁先建立可延伸的搜尋與篩選骨架。後續 spec-002 會把 placeholder 卡片改成實際食譜資料與 slug 路由。
+      </p>
+
+      <div class="search-panel">
+        <label class="field">
+          <span class="eyebrow">關鍵字</span>
+          <input type="search" name="keyword" placeholder="搜尋食譜名稱或食材，例如 雞蛋" />
+        </label>
+        <div class="filter-group">
+          <p class="filter-label">分類</p>
+          <div class="filter-bar">
+            {categories.map((filter) => <button class="chip" type="button">{filter}</button>)}
+          </div>
+        </div>
+        <div class="filter-group">
+          <p class="filter-label">時間</p>
+          <div class="filter-bar">
+            {times.map((filter) => <button class="chip" type="button">{filter}</button>)}
+          </div>
+        </div>
+        <div class="filter-group">
+          <p class="filter-label">設備</p>
+          <div class="filter-bar">
+            {tools.map((filter) => <button class="chip" type="button">{filter}</button>)}
+          </div>
+        </div>
       </div>
+
       <div class="grid">
-        {["豆腐炒蛋", "番茄雞蛋飯", "電鍋雞胸便當"].map((title) => (
+        {recipes.map((recipe) => (
           <article class="card recipe-card">
             <div class="recipe-image" aria-hidden="true"></div>
             <div class="card-body">
-              <h2>{title}</h2>
-              <p>食譜資料即將接上，目前為 placeholder。</p>
+              <h2>{recipe.title}</h2>
+              <p>{recipe.description}</p>
               <div class="meta-row">
-                <span class="chip">15 分鐘</span>
-                <span class="chip">1 人份</span>
-                <span class="chip">家常</span>
+                {recipe.meta.map((item) => <span class="chip">{item}</span>)}
+              </div>
+              <div class="chip-row">
+                {recipe.ingredients.map((item) => <span class="chip note">{item}</span>)}
+                {recipe.scenarios.map((item) => <span class="chip">{item}</span>)}
               </div>
             </div>
           </article>
         ))}
+      </div>
+
+      <div class="card empty-panel">
+        <div class="card-body">
+          <h2>目前還沒有完整食譜資料</h2>
+          <p>先保留搜尋與篩選結構，接下來會由 Markdown content collection 補上實際內容。</p>
+        </div>
+      </div>
+
+      <div class="section-links">
+        <a class="button" href="/ingredients">先看熱門食材</a>
+        <a class="button note" href="/scenarios">改從料理情境找</a>
       </div>
     </div>
   </section>

@@ -1,24 +1,81 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 
-const ingredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "洋蔥", "青蔥", "番茄", "菇類", "白飯", "麵條"];
+const ingredientCategories = [
+  { name: "蛋類", items: ["雞蛋", "鹹蛋", "皮蛋"] },
+  { name: "豆製品", items: ["板豆腐", "嫩豆腐", "豆乾"] },
+  { name: "肉類", items: ["雞胸肉", "絞肉", "豬里肌"] },
+  { name: "蔬菜", items: ["高麗菜", "洋蔥", "青花菜"] },
+  { name: "罐頭", items: ["鮪魚罐頭", "玉米粒", "番茄罐"] },
+  { name: "主食", items: ["白飯", "麵條", "冬粉"] }
+];
+const popularIngredients = [
+  "雞蛋",
+  "豆腐",
+  "雞胸肉",
+  "高麗菜",
+  "洋蔥",
+  "青蔥",
+  "番茄",
+  "馬鈴薯",
+  "白飯",
+  "麵條"
+];
+const relatedScenarios = ["一人料理", "10 分鐘料理", "冰箱剩料料理"];
 ---
 
-<BaseLayout title="食材列表" description="從台灣常見食材開始找食譜，包含雞蛋、豆腐、雞胸肉與高麗菜。" canonicalPath="/ingredients">
+<BaseLayout
+  title="食材列表"
+  description="從台灣常見食材開始找食譜，先用分類、熱門食材與情境入口建立長尾 SEO 的起點。"
+  canonicalPath="/ingredients"
+>
   <section class="section">
     <div class="container">
       <p class="eyebrow">Ingredients</p>
       <h1 class="page-title">食材列表</h1>
-      <p class="page-copy">長尾食材頁會在後續接上保存方式、營養與相關食譜。</p>
+      <p class="page-copy">
+        這裡先建立食材入口骨架，保留後續 spec-003 接上食材資料、保存方式與相關食譜的空間。
+      </p>
+
       <div class="search-panel">
         <form class="search-form" action="/ingredients" method="get">
-          <input name="keyword" type="search" placeholder="搜尋食材，例如雞蛋" />
+          <label class="field">
+            <span class="eyebrow">搜尋食材</span>
+            <input name="keyword" type="search" placeholder="搜尋食材，例如 雞蛋" />
+          </label>
           <button class="button primary" type="submit">搜尋食材</button>
         </form>
       </div>
-      <div class="chip-row">
-        {ingredients.map((ingredient) => <a class="chip note" href="/ingredients">{ingredient}</a>)}
-      </div>
+
+      <section class="section section-compact">
+        <p class="eyebrow">分類區塊</p>
+        <div class="grid">
+          {ingredientCategories.map((category) => (
+            <article class="card">
+              <div class="card-body">
+                <h2>{category.name}</h2>
+                <div class="chip-row">
+                  {category.items.map((item) => <a class="chip note" href="/ingredients">{item}</a>)}
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <p class="eyebrow">熱門食材</p>
+        <div class="chip-row" aria-label="熱門食材">
+          {popularIngredients.map((ingredient) => <a class="chip" href="/ingredients">{ingredient}</a>)}
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <p class="eyebrow">相關情境入口</p>
+        <div class="chip-row" aria-label="相關情境入口">
+          {relatedScenarios.map((scenario) => <a class="chip note" href="/scenarios">{scenario}</a>)}
+        </div>
+      </section>
     </div>
   </section>
 </BaseLayout>

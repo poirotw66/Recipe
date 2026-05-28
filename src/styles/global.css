@@ -46,6 +46,10 @@ body {
   line-height: 1.7;
 }
 
+main {
+  display: block;
+}
+
 a {
   color: inherit;
 }
@@ -88,6 +92,11 @@ textarea {
 .page-copy {
   max-width: 680px;
   color: var(--mushroom);
+}
+
+.field {
+  display: grid;
+  gap: var(--space-2);
 }
 
 .button {
@@ -189,6 +198,13 @@ textarea {
   color: var(--soy-ink);
 }
 
+.form-error {
+  margin: var(--space-2) 0 0;
+  color: var(--danger);
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
 .hero {
   padding: var(--space-12) 0 var(--space-8);
 }
@@ -229,7 +245,57 @@ textarea {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-2);
-  margin: var(--space-6) 0;
+  margin: var(--space-2) 0 0;
+}
+
+.filter-group + .filter-group {
+  margin-top: var(--space-4);
+}
+
+.filter-label {
+  margin: 0;
+  color: var(--mushroom);
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.section-compact {
+  padding: var(--space-6) 0 0;
+}
+
+.section-action {
+  margin: var(--space-6) 0 0;
+}
+
+.section-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  margin-top: var(--space-6);
+}
+
+.empty-panel {
+  margin-top: var(--space-6);
+}
+
+.tool-promo {
+  background:
+    radial-gradient(circle at top right, rgba(242, 184, 75, 0.18), transparent 35%),
+    var(--porcelain);
+}
+
+.tool-layout {
+  display: grid;
+  gap: var(--space-6);
+}
+
+.results-column {
+  display: grid;
+  gap: var(--space-4);
+}
+
+.result-summary {
+  margin-bottom: var(--space-4);
 }
 
 .site-header {
@@ -294,5 +360,12 @@ textarea {
 
   .search-form {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 960px) {
+  .tool-layout {
+    grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.95fr);
+    align-items: start;
   }
 }

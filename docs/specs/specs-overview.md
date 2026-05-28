@@ -16,7 +16,7 @@
 
 | # | 名稱 | 領域 | 狀態 | PRD | 依賴 | 備註 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 001 | 專案骨架與部署 | site/platform | 🚧 | prd-001 | - | 建立 Astro 專案、Cloudflare Pages 部署、自訂網域、基礎 layout、Header/Footer 與 SEO head。 |
+| 001 | 專案骨架與部署 | site/platform | ✅ | prd-001 | - | 建立 Astro 專案、Cloudflare Pages 部署、自訂網域、基礎 layout、Header/Footer 與 SEO head。 |
 | 002 | 內容模型與食譜頁 | content/recipes | — | prd-001 | 001 | 建立 Markdown 食譜 content collection、食譜列表、食譜詳細頁與食譜資料欄位。 |
 | 003 | 食材與情境頁 | content/taxonomy | — | prd-001 | 001, 002 | 建立食材 JSON、情境 JSON、列表頁、詳細頁與關聯食譜導流。 |
 | 004 | SEO 與 structured data | seo | — | prd-001 | 002, 003 | 建立 canonical、Open Graph、Twitter Card、sitemap、robots、Recipe JSON-LD、FAQ JSON-LD、Breadcrumb JSON-LD。 |

@@ -1,31 +1,118 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 
-const preferences = ["10 分鐘", "高蛋白", "電鍋", "氣炸鍋", "少油"];
+const preferences = ["10 分鐘", "高蛋白", "電鍋", "氣炸鍋"];
+const quickIngredients = ["雞蛋", "豆腐", "高麗菜", "雞胸肉", "洋蔥"];
+const placeholderRecipes = [
+  {
+    title: "雞蛋豆腐蒸碗",
+    hits: "命中食材：雞蛋、豆腐",
+    miss: "還少：青蔥"
+  },
+  {
+    title: "高麗菜雞胸炒鍋",
+    hits: "命中食材：高麗菜、雞胸肉",
+    miss: "還少：蒜頭"
+  },
+  {
+    title: "番茄豆腐快手鍋",
+    hits: "命中食材：豆腐",
+    miss: "還少：番茄、洋蔥"
+  }
+];
 ---
 
-<BaseLayout title="冰箱剩料工具" description="輸入你手邊有的食材，找到今天可能能煮的料理。" canonicalPath="/tools/fridge-recipe">
+<BaseLayout
+  title="冰箱剩料工具"
+  description="輸入你手邊有的食材，先用 placeholder 流程找到今天可能能煮的料理方向。"
+  canonicalPath="/tools/fridge-recipe"
+>
   <section class="section">
-    <div class="container">
-      <p class="eyebrow">Fridge Recipe Tool</p>
-      <h1 class="page-title">冰箱剩料工具</h1>
-      <p class="page-copy">第一階段先建立工具頁外殼，後續會接本地 JSON 比對與推薦排序。</p>
-      <div class="search-panel">
-        <label>
-          <span class="eyebrow">輸入手邊食材</span>
-          <textarea class="tool-input" name="ingredients" placeholder="雞蛋、豆腐、高麗菜"></textarea>
-        </label>
-        <div class="chip-row">
-          {preferences.map((item) => <button class="chip" type="button">{item}</button>)}
-        </div>
-        <p><button class="button primary" type="button">找能煮的料理</button></p>
+    <div class="container tool-layout">
+      <div>
+        <p class="eyebrow">Fridge Recipe Tool</p>
+        <h1 class="page-title">冰箱剩料工具</h1>
+        <p class="page-copy">
+          第一階段先把輸入流程與結果區骨架建立好。這一頁會先顯示 placeholder 推薦，下一階段再接上真實比對與排序邏輯。
+        </p>
+
+        <form class="search-panel" data-fridge-form>
+          <label class="field">
+            <span class="eyebrow">輸入手邊食材</span>
+            <textarea
+              class="tool-input"
+              name="ingredients"
+              placeholder="雞蛋、豆腐、高麗菜"
+              data-fridge-input
+            ></textarea>
+          </label>
+          <p class="form-error" data-fridge-error hidden>先輸入至少 1 樣食材。</p>
+
+          <div class="filter-group">
+            <p class="filter-label">偏好條件</p>
+            <div class="chip-row">
+              {preferences.map((item) => <button class="chip" type="button">{item}</button>)}
+            </div>
+          </div>
+
+          <div class="filter-group">
+            <p class="filter-label">快速食材</p>
+            <div class="chip-row">
+              {quickIngredients.map((item) => (
+                <button class="chip note" type="button" data-quick-ingredient={item}>{item}</button>
+              ))}
+            </div>
+          </div>
+
+          <div class="section-links">
+            <button class="button primary" type="submit">找能煮的料理</button>
+            <button class="button" type="button" data-fridge-clear hidden>清空</button>
+          </div>
+        </form>
       </div>
-      <section class="section">
-        <div class="note-card card-body">
-          <h2>工具邏輯即將完成</h2>
-          <p>之後會顯示命中食材最多、缺少食材最少、10 分鐘內可完成的食譜。</p>
-        </div>
-      </section>
+
+      <div class="results-column">
+        <section class="card empty-panel" data-fridge-empty>
+          <div class="card-body">
+            <p class="eyebrow">結果區</p>
+            <h2>工具邏輯即將完成</h2>
+            <p>送出食材後，這裡會先顯示 placeholder 推薦卡。之後會依命中食材、缺少食材與偏好條件排序。</p>
+          </div>
+        </section>
+
+        <section class="section section-compact" data-fridge-results hidden>
+          <p class="eyebrow">Placeholder 結果</p>
+          <div class="card result-summary">
+            <div class="card-body">
+              <h2>先用目前手邊食材，縮小今晚要煮的方向</h2>
+              <p data-result-summary-copy>你輸入的食材會顯示在這裡。</p>
+            </div>
+          </div>
+          <div class="grid">
+            {placeholderRecipes.map((recipe) => (
+              <article class="card recipe-card">
+                <div class="card-body">
+                  <h3>{recipe.title}</h3>
+                  <div class="chip-row">
+                    <span class="chip note">{recipe.hits}</span>
+                    <span class="chip">{recipe.miss}</span>
+                  </div>
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+
+        <section class="section section-compact">
+          <p class="eyebrow">延伸入口</p>
+          <div class="chip-row">
+            <a class="chip note" href="/recipes">先看全部食譜</a>
+            <a class="chip note" href="/ingredients">改從食材入口找</a>
+            <a class="chip note" href="/scenarios">改從情境入口找</a>
+          </div>
+        </section>
+      </div>
     </div>
   </section>
 </BaseLayout>
+<script is:inline src="/scripts/fridge-tool.js"></script>

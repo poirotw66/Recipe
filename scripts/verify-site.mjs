@@ -54,4 +54,33 @@ if (!ads.includes("google.com") && !ads.includes("PLACEHOLDER")) {
   process.exit(1);
 }
 
+const pageExpectations = [
+  {
+    file: "src/pages/index.astro",
+    markers: ["熱門食材", "冰箱剩料工具", "data-home-search-error"]
+  },
+  {
+    file: "src/pages/recipes/index.astro",
+    markers: ["關鍵字", "設備", "先看熱門食材"]
+  },
+  {
+    file: "src/pages/ingredients/index.astro",
+    markers: ["分類區塊", "熱門食材", "相關情境入口"]
+  },
+  {
+    file: "src/pages/tools/fridge-recipe.astro",
+    markers: ["data-fridge-error", "Placeholder 結果", "data-fridge-results"]
+  }
+];
+
+for (const page of pageExpectations) {
+  const source = readFileSync(join(root, page.file), "utf8");
+  const missingMarkers = page.markers.filter((marker) => !source.includes(marker));
+
+  if (missingMarkers.length) {
+    console.error(`${page.file} is missing required spec markers: ${missingMarkers.join(", ")}`);
+    process.exit(1);
+  }
+}
+
 console.log("Site skeleton verification passed.");

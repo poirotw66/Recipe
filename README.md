@@ -14,16 +14,19 @@
 This environment currently has no Node.js/npm installed, so commands must be run on a machine with Node.js 20 or 22.
 
 ```bash
+export PATH="$PATH:/c/Users/00896102/Desktop/node"
+
 npm install
+npm run dev
 npm test
 npm run build
 ```
 
-### Git Bash on the network drive
+### Git Bash on the old network drive
 
-This repo is on a UNC network path. On Windows, `npm run ...` may fall back to `C:\Windows` because `cmd.exe` does not support UNC current directories.
+If this repo is opened from a UNC network path, `npm run ...` may fall back to `C:\Windows` because `cmd.exe` does not support UNC current directories.
 
-Use these Git Bash scripts instead:
+On the local copy, prefer the normal npm commands above. On the old network-drive copy, use these Git Bash scripts instead:
 
 ```bash
 ./scripts/dev-gitbash.sh
