@@ -242,6 +242,12 @@ textarea {
   color: var(--soy-ink);
 }
 
+.chip-active {
+  border-color: var(--scallion);
+  background: rgba(47, 125, 79, 0.12);
+  color: var(--soy-ink);
+}
+
 .form-error {
   margin: var(--space-2) 0 0;
   color: var(--danger);
@@ -336,6 +342,11 @@ textarea {
 .results-column {
   display: grid;
   gap: var(--space-4);
+}
+
+.fridge-result-card .card-body {
+  display: grid;
+  gap: var(--space-3);
 }
 
 .result-summary {

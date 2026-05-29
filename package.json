@@ -7,7 +7,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "test": "node scripts/verify-site.mjs",
+    "test": "node scripts/verify-site.mjs && node scripts/test-fridge-logic.mjs",
     "lint": "node scripts/verify-site.mjs",
     "typecheck": "astro check"
   },

@@ -15,6 +15,7 @@ const requiredFiles = [
   "src/components/RecipeCard.astro",
   "src/components/JsonLd.astro",
   "src/components/AdSlot.astro",
+  "src/lib/fridge.js",
   "src/pages/index.astro",
   "src/pages/recipes/index.astro",
   "src/pages/recipes/[slug].astro",
@@ -37,6 +38,7 @@ const requiredFiles = [
   "src/lib/site.ts",
   "src/lib/taxonomy.ts",
   "public/ads.txt",
+  "public/scripts/fridge-tool.js",
   "public/images/.gitkeep",
   "src/content/recipes/tofu-scrambled-eggs.md",
   "src/content/recipes/tomato-egg-rice.md",
@@ -59,6 +61,7 @@ const recipeLayout = readFileSync(join(root, "src/layouts/RecipeLayout.astro"), 
 const staticLayout = readFileSync(join(root, "src/layouts/StaticArticleLayout.astro"), "utf8");
 const adSlot = readFileSync(join(root, "src/components/AdSlot.astro"), "utf8");
 const siteConfig = readFileSync(join(root, "src/lib/site.ts"), "utf8");
+const fridgeLogic = readFileSync(join(root, "src/lib/fridge.js"), "utf8");
 const robotsRoute = readFileSync(join(root, "src/pages/robots.txt.ts"), "utf8");
 const ads = readFileSync(join(root, "public/ads.txt"), "utf8");
 const contentConfig = readFileSync(join(root, "src/content.config.ts"), "utf8");
@@ -111,6 +114,11 @@ if (!contentConfig.includes("defineCollection") || !contentConfig.includes("tota
   process.exit(1);
 }
 
+if (!fridgeLogic.includes("rankRecipesForFridge") || !fridgeLogic.includes("resolveInputIngredients")) {
+  console.error("src/lib/fridge.js must provide fridge matching helpers.");
+  process.exit(1);
+}
+
 const pageExpectations = [
   {
     file: "src/pages/index.astro",
@@ -158,7 +166,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/tools/fridge-recipe.astro",
-    markers: ["data-fridge-error", "data-fridge-results"]
+    markers: ["data-fridge-error", "data-fridge-results", "data-fridge-no-results", "fridge-tool-data"]
   }
 ];
 
