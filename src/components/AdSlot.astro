@@ -1,0 +1,46 @@
+---
+import { adsenseClient, adsenseReady } from "../lib/site";
+
+interface Props {
+  slot: string;
+  label?: string;
+  format?: "auto" | "rectangle" | "horizontal";
+  minHeight?: number;
+}
+
+const {
+  slot,
+  label = "廣告版位",
+  format = "auto",
+  minHeight = 180
+} = Astro.props;
+---
+
+<aside class="ad-slot card" aria-label={label}>
+  <div class="card-body">
+    <div class="ad-slot__meta">
+      <p class="eyebrow">AdSense</p>
+      <span class="ad-slot__badge">{adsenseReady ? "ready" : "placeholder"}</span>
+    </div>
+    {adsenseReady ? (
+      <>
+        <ins
+          class="adsbygoogle ad-slot__unit"
+          style={`display:block; min-height:${minHeight}px;`}
+          data-ad-client={adsenseClient}
+          data-ad-slot={slot}
+          data-ad-format={format}
+          data-full-width-responsive="true"
+        />
+        <script is:inline>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </>
+    ) : (
+      <div class="ad-slot__placeholder">
+        <strong>{label}</strong>
+        <p>尚未設定正式 AdSense publisher id。部署前請設定 `PUBLIC_ADSENSE_CLIENT`，並同步更新 `/ads.txt`。</p>
+      </div>
+    )}
+  </div>
+</aside>

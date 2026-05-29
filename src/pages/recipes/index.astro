@@ -1,26 +1,27 @@
 ---
 import { getCollection } from "astro:content";
+import AdSlot from "../../components/AdSlot.astro";
 import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { buildCollectionPageJsonLd } from "../../lib/seo";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 
-const categories = ["全部", "家常菜", "便當菜", "早餐", "湯品"];
-const times = ["全部", "10 分鐘", "15 分鐘", "30 分鐘內"];
-const tools = ["全部", "電鍋", "氣炸鍋", "微波爐", "平底鍋"];
+const categories = ["全部", "家常快炒", "便當菜", "一鍋到底", "早餐"];
+const times = ["全部", "10 分鐘內", "15 分鐘內", "30 分鐘內"];
+const tools = ["全部", "平底鍋", "電鍋", "湯鍋", "氣炸鍋"];
 
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
 const collectionJsonLd = buildCollectionPageJsonLd(
   "食譜列表",
-  "整理適合一人份、租屋族與台灣常見食材的簡單食譜。",
+  "整理適合台灣小廚房的一人份與家常料理，快速查看時間、工具與常見食材。",
   "/recipes/"
 );
 ---
 
 <BaseLayout
   title="食譜列表"
-  description="整理適合一人份、租屋族與台灣常見食材的簡單食譜，改由 Markdown content collection 驅動。"
+  description="整理適合台灣小廚房的一人份與家常料理，快速查看時間、工具與常見食材。"
   canonicalPath="/recipes"
 >
   <JsonLd data={collectionJsonLd} />
@@ -29,16 +30,16 @@ const collectionJsonLd = buildCollectionPageJsonLd(
       <p class="eyebrow">Recipes</p>
       <h1 class="page-title">食譜列表</h1>
       <p class="page-copy">
-        這一頁已接上 recipe content collection。第一版先提供真實食譜卡與靜態篩選入口，後續再補更完整的篩選互動。
+        這裡收錄目前站上的 recipe content collection，方便依料理型態、準備時間與常用工具快速掃讀。
       </p>
 
       <div class="search-panel">
         <label class="field">
-          <span class="eyebrow">關鍵字</span>
-          <input type="search" name="keyword" placeholder="搜尋食譜名稱或食材，例如 雞蛋" />
+          <span class="eyebrow">關鍵字搜尋</span>
+          <input type="search" name="keyword" placeholder="例如：蛋、豆腐、便當" />
         </label>
         <div class="filter-group">
-          <p class="filter-label">分類</p>
+          <p class="filter-label">類型</p>
           <div class="filter-bar">
             {categories.map((filter) => <button class="chip" type="button">{filter}</button>)}
           </div>
@@ -50,7 +51,7 @@ const collectionJsonLd = buildCollectionPageJsonLd(
           </div>
         </div>
         <div class="filter-group">
-          <p class="filter-label">設備</p>
+          <p class="filter-label">工具</p>
           <div class="filter-bar">
             {tools.map((filter) => <button class="chip" type="button">{filter}</button>)}
           </div>
@@ -61,9 +62,13 @@ const collectionJsonLd = buildCollectionPageJsonLd(
         {recipes.map((recipe) => <RecipeCard recipe={recipe} />)}
       </div>
 
+      <section class="section section-compact">
+        <AdSlot slot="1000000001" label="食譜列表廣告位" minHeight={220} />
+      </section>
+
       <div class="section-links">
-        <a class="button" href="/ingredients">先看熱門食材</a>
-        <a class="button note" href="/scenarios">改從料理情境找</a>
+        <a class="button" href="/ingredients">查看食材索引</a>
+        <a class="button note" href="/scenarios">查看情境分類</a>
       </div>
     </div>
   </section>

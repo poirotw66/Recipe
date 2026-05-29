@@ -1,13 +1,36 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
+import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
+import { contactEmail, legalLastUpdated } from "../lib/site";
 ---
 
-<BaseLayout title="聯絡我們" description="聯絡今天煮什麼，回報內容問題或合作需求。" canonicalPath="/contact">
-  <article class="article">
-    <p class="eyebrow">Contact</p>
-    <h1 class="page-title">聯絡我們</h1>
-    <p>若你想回報食譜內容、營養資訊或合作需求，可以透過 email 聯絡我們。</p>
-    <p><a class="button" href="mailto:hello@example.com">hello@example.com</a></p>
-    <p>正式上線前，請將此信箱替換為本站實際聯絡信箱。</p>
-  </article>
-</BaseLayout>
+<StaticArticleLayout
+  title="聯絡我們"
+  description="透過 email 聯絡今天煮什麼，回報內容問題、合作需求或站務建議。"
+  canonicalPath="/contact"
+  eyebrow="Contact"
+  updatedAt={legalLastUpdated}
+>
+  <section>
+    <h2>主要聯絡方式</h2>
+    <p>第一階段不提供表單後端，所有站務與內容回饋都透過 email 收件。</p>
+    <p><a class="button" href={`mailto:${contactEmail}`}>{contactEmail}</a></p>
+  </section>
+
+  <section>
+    <h2>可以來信的內容</h2>
+    <ul class="article-list">
+      <li>食譜步驟、食材名稱、時間資訊有誤。</li>
+      <li>合作提案、授權詢問或內容引用通知。</li>
+      <li>隱私權、廣告顯示或政策頁相關問題。</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>來信前提醒</h2>
+    <ul class="article-list">
+      <li>請不要寄送身分證號、金融資料、健康病歷等敏感個資。</li>
+      <li>若是內容修正需求，建議附上頁面網址與問題描述，方便快速處理。</li>
+      <li>隱私處理方式可另參考 <a href="/privacy-policy">隱私權政策</a>。</li>
+    </ul>
+  </section>
+</StaticArticleLayout>

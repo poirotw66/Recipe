@@ -1,13 +1,46 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
+import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
+import { contactEmail, legalLastUpdated } from "../lib/site";
 ---
 
-<BaseLayout title="關於本站" description="今天煮什麼聚焦台灣一人份、租屋族與懶人料理。" canonicalPath="/about">
-  <article class="article">
-    <p class="eyebrow">About</p>
-    <h1 class="page-title">關於本站</h1>
-    <p>今天煮什麼是一個給台灣人的一人份、租屋族、懶人料理食譜站。</p>
-    <p>我們希望你打開冰箱，看見雞蛋、豆腐、高麗菜，就能快速知道今晚能煮什麼。</p>
-    <p>第一階段內容會以靜態整理為主，營養與熱量資訊皆為估算，實際仍需依食材品牌與份量調整。</p>
-  </article>
-</BaseLayout>
+<StaticArticleLayout
+  title="關於本站"
+  description="今天煮什麼專注整理台灣一人份、租屋族與想快速開飯的家常料理靈感。"
+  canonicalPath="/about"
+  eyebrow="About"
+  updatedAt={legalLastUpdated}
+>
+  <section>
+    <h2>本站在做什麼</h2>
+    <p>
+      今天煮什麼是一個以靜態內容為主的食譜 SEO 站，整理適合台灣家庭廚房、小套房廚具與忙碌生活節奏的家常料理。
+      我們希望讓讀者在 10 到 30 分鐘內，快速找到今天能煮、冰箱裡也可能有材料的做法。
+    </p>
+  </section>
+
+  <section>
+    <h2>適合哪些人</h2>
+    <ul class="article-list">
+      <li>一人份、兩人份的小家庭日常料理需求。</li>
+      <li>租屋族、學生、上班族想降低備料與清理負擔。</li>
+      <li>想用常見台灣食材快速完成家常菜的人。</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>內容原則</h2>
+    <ul class="article-list">
+      <li>優先提供容易掃讀的步驟、時間、份量與替代建議。</li>
+      <li>營養、保存與食材搭配資訊屬整理與估算用途，不構成醫療建議。</li>
+      <li>第一階段站點以 Markdown 與 JSON 靜態內容建置，會持續擴充與修正。</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>聯絡方式</h2>
+    <p>
+      如果你想回報內容錯誤、提出合作需求或補充建議，可以寄信到
+      <a href={`mailto:${contactEmail}`}>{contactEmail}</a>，或直接前往 <a href="/contact">聯絡我們</a>。
+    </p>
+  </section>
+</StaticArticleLayout>

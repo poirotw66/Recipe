@@ -2,6 +2,7 @@
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import SeoHead from "../components/SeoHead.astro";
+import { adsenseClient, adsenseReady } from "../lib/site";
 import "../styles/global.css";
 
 interface Props {
@@ -27,6 +28,14 @@ const { title, description, canonicalPath, ogImage, type } = Astro.props;
       ogImage={ogImage}
       type={type}
     />
+    {adsenseReady && (
+      <script
+        is:inline
+        async
+        src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
+        crossorigin="anonymous"
+      />
+    )}
   </head>
   <body>
     <Header />

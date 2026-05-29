@@ -1,3 +1,4 @@
 # PLACEHOLDER: replace with the real AdSense publisher entry before submission.
+# Keep exactly one valid Google line after approval.
 # Example:
 # google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

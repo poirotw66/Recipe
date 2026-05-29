@@ -20,7 +20,7 @@
 | 002 | 內容模型與食譜頁 | content/recipes | ✅ | prd-001 | 001 | 建立 Markdown 食譜 content collection、食譜列表、食譜詳細頁與食譜資料欄位。 |
 | 003 | 食材與情境頁 | content/taxonomy | ✅ | prd-001 | 001, 002 | 建立食材 JSON、情境 JSON、列表頁、詳細頁與關聯食譜導流。 |
 | 004 | SEO 與 structured data | seo | ✅ | prd-001 | 002, 003 | 建立 canonical、Open Graph、Twitter Card、sitemap、robots、Recipe JSON-LD、FAQ JSON-LD、Breadcrumb JSON-LD。 |
-| 005 | AdSense 與政策頁 | monetization/ads | — | prd-001 | 001, 002 | 建立 about、contact、privacy policy、terms、ads.txt 與 AdSlot 元件。 |
+| 005 | AdSense 與政策頁 | monetization/ads | ✅ | prd-001 | 001, 002 | 建立 about、contact、privacy policy、terms、ads.txt 與 AdSlot 元件。 |
 | 006 | 冰箱剩料工具 | tools/fridge-recipe | — | prd-001 | 002, 003 | 建立純前端食材輸入、本地 JSON 比對、推薦排序與缺少食材提示。 |
 | 007 | 第一批內容資料 | content/production | — | prd-001 | 002, 003 | 建立 MVP 所需的食譜、食材、情境內容批次與命名/SEO 規則。 |
 
