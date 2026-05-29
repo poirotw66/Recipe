@@ -8,9 +8,11 @@ interface Props {
   title: string;
   description: string;
   canonicalPath?: string;
+  ogImage?: string;
+  type?: "website" | "article";
 }
 
-const { title, description, canonicalPath } = Astro.props;
+const { title, description, canonicalPath, ogImage, type } = Astro.props;
 ---
 
 <!doctype html>
@@ -18,7 +20,13 @@ const { title, description, canonicalPath } = Astro.props;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <SeoHead title={title} description={description} canonicalPath={canonicalPath} />
+    <SeoHead
+      title={title}
+      description={description}
+      canonicalPath={canonicalPath}
+      ogImage={ogImage}
+      type={type}
+    />
   </head>
   <body>
     <Header />

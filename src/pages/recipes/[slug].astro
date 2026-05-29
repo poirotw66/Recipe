@@ -1,8 +1,10 @@
 ---
 import { getCollection, getEntry } from "astro:content";
+import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import RecipeLayout from "../../layouts/RecipeLayout.astro";
 import { getRelatedRecipes } from "../../lib/recipes";
+import { buildBreadcrumbJsonLd, buildFaqJsonLd, buildRecipeJsonLd } from "../../lib/seo";
 import { getIngredientByName, getScenarioByName } from "../../lib/taxonomy";
 
 export async function getStaticPaths() {
@@ -31,9 +33,21 @@ const primaryIngredients = recipe.data.ingredients.slice(0, 4);
 const scenarioLinks = recipe.data.scenarios
   .map((scenarioName) => getScenarioByName(scenarioName))
   .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: "首頁", path: "/" },
+  { name: "食譜", path: "/recipes/" },
+  { name: recipe.data.title, path: `/recipes/${recipe.slug}/` }
+]);
+const recipeJsonLd = buildRecipeJsonLd(recipe);
+const faqJsonLd = recipe.data.faqs.length > 0 ? buildFaqJsonLd(recipe.data.faqs) : null;
 ---
 
 <RecipeLayout recipe={recipe}>
+  <Fragment slot="structured-data">
+    <JsonLd data={breadcrumbJsonLd} />
+    <JsonLd data={recipeJsonLd} />
+    {faqJsonLd && <JsonLd data={faqJsonLd} />}
+  </Fragment>
   <section class="section">
     <div class="container">
       <nav class="breadcrumb" aria-label="Breadcrumb">

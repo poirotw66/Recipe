@@ -24,7 +24,12 @@ const requiredFiles = [
   "src/pages/contact.astro",
   "src/pages/privacy-policy.astro",
   "src/pages/terms.astro",
-  "public/robots.txt",
+  "src/pages/robots.txt.ts",
+  "src/pages/sitemap-index.xml.ts",
+  "src/pages/sitemap-pages.xml.ts",
+  "src/pages/sitemap-recipes.xml.ts",
+  "src/pages/sitemap-ingredients.xml.ts",
+  "src/pages/sitemap-scenarios.xml.ts",
   "public/ads.txt",
   "public/images/.gitkeep",
   "src/content/recipes/tofu-scrambled-eggs.md",
@@ -54,9 +59,9 @@ if (missingHeadParts.length) {
   process.exit(1);
 }
 
-const robots = readFileSync(join(root, "public/robots.txt"), "utf8");
-if (!robots.includes("User-agent: *") || !robots.includes("Sitemap:")) {
-  console.error("robots.txt must allow crawlers and include a Sitemap line.");
+const robotsRoute = readFileSync(join(root, "src/pages/robots.txt.ts"), "utf8");
+if (!robotsRoute.includes("User-agent: *") || !robotsRoute.includes("sitemap-index.xml")) {
+  console.error("robots.txt route must allow crawlers and include a sitemap-index reference.");
   process.exit(1);
 }
 
@@ -77,7 +82,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/recipes/[slug].astro",
-    markers: ["常見問題", "相關食譜", "相關食材", "getStaticPaths"]
+    markers: ["常見問題", "相關食譜", "相關食材", "buildRecipeJsonLd", "buildFaqJsonLd"]
   },
   {
     file: "src/pages/ingredients/index.astro",
@@ -85,7 +90,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/ingredients/[slug].astro",
-    markers: ["保存方式", "相關食譜", "相關情境", "getStaticPaths"]
+    markers: ["保存方式", "相關食譜", "相關情境", "buildDefinedTermJsonLd", "getStaticPaths"]
   },
   {
     file: "src/pages/tools/fridge-recipe.astro",
@@ -97,13 +102,21 @@ const pageExpectations = [
   },
   {
     file: "src/pages/scenarios/[slug].astro",
-    markers: ["推薦食譜", "常見食材", "相關情境", "getStaticPaths"]
+    markers: ["推薦食譜", "常見食材", "相關情境", "buildThingJsonLd", "getStaticPaths"]
   }
 ];
 
 const contentConfig = readFileSync(join(root, "src/content.config.ts"), "utf8");
 if (!contentConfig.includes("defineCollection") || !contentConfig.includes("totalTime")) {
   console.error("src/content.config.ts must define the recipes collection schema.");
+  process.exit(1);
+}
+
+const seoMarkers = ['property="og:image"', 'name="twitter:title"', 'name="twitter:image"'];
+const missingSeoMarkers = seoMarkers.filter((marker) => !seoHead.includes(marker));
+
+if (missingSeoMarkers.length) {
+  console.error(`src/components/SeoHead.astro is missing SEO markers: ${missingSeoMarkers.join(", ")}`);
   process.exit(1);
 }
 

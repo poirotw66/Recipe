@@ -1,7 +1,9 @@
 ---
 import { getCollection } from "astro:content";
+import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import { buildCollectionPageJsonLd } from "../../lib/seo";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 
 const categories = ["全部", "家常菜", "便當菜", "早餐", "湯品"];
@@ -9,6 +11,11 @@ const times = ["全部", "10 分鐘", "15 分鐘", "30 分鐘內"];
 const tools = ["全部", "電鍋", "氣炸鍋", "微波爐", "平底鍋"];
 
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+const collectionJsonLd = buildCollectionPageJsonLd(
+  "食譜列表",
+  "整理適合一人份、租屋族與台灣常見食材的簡單食譜。",
+  "/recipes/"
+);
 ---
 
 <BaseLayout
@@ -16,6 +23,7 @@ const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
   description="整理適合一人份、租屋族與台灣常見食材的簡單食譜，改由 Markdown content collection 驅動。"
   canonicalPath="/recipes"
 >
+  <JsonLd data={collectionJsonLd} />
   <section class="section">
     <div class="container">
       <p class="eyebrow">Recipes</p>

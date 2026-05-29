@@ -11,6 +11,13 @@ const description = recipe.data.description;
 const canonicalPath = `/recipes/${recipe.slug}/`;
 ---
 
-<BaseLayout title={recipe.data.title} description={description} canonicalPath={canonicalPath}>
+<BaseLayout
+  title={recipe.data.title}
+  description={description}
+  canonicalPath={canonicalPath}
+  ogImage={recipe.data.coverImage}
+  type="article"
+>
+  <slot name="structured-data" />
   <slot />
 </BaseLayout>

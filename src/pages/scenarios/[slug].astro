@@ -1,8 +1,10 @@
 ---
 import { getCollection } from "astro:content";
+import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
+import { buildBreadcrumbJsonLd, buildThingJsonLd } from "../../lib/seo";
 import {
   getIngredientBySlug,
   getRecipesByScenario,
@@ -36,6 +38,12 @@ const commonIngredients = scenario.commonIngredients
 const relatedScenarios = scenario.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((relatedScenario): relatedScenario is NonNullable<typeof relatedScenario> => Boolean(relatedScenario));
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: "首頁", path: "/" },
+  { name: "情境", path: "/scenarios/" },
+  { name: scenario.name, path: `/scenarios/${scenario.slug}/` }
+]);
+const scenarioJsonLd = buildThingJsonLd(scenario);
 ---
 
 <BaseLayout
@@ -43,6 +51,8 @@ const relatedScenarios = scenario.relatedScenarios
   description={scenario.seoDescription}
   canonicalPath={`/scenarios/${scenario.slug}/`}
 >
+  <JsonLd data={breadcrumbJsonLd} />
+  <JsonLd data={scenarioJsonLd} />
   <section class="section">
     <div class="container">
       <nav class="breadcrumb" aria-label="Breadcrumb">

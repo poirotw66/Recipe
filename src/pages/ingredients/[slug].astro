@@ -1,8 +1,10 @@
 ---
 import { getCollection } from "astro:content";
+import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
+import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd } from "../../lib/seo";
 import {
   getIngredientBySlug,
   getRecipesByIngredient,
@@ -33,6 +35,12 @@ const relatedRecipes = getRecipesByIngredient(recipes, ingredient.slug).slice(0,
 const relatedScenarios = ingredient.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: "首頁", path: "/" },
+  { name: "食材", path: "/ingredients/" },
+  { name: ingredient.name, path: `/ingredients/${ingredient.slug}/` }
+]);
+const ingredientJsonLd = buildDefinedTermJsonLd(ingredient);
 ---
 
 <BaseLayout
@@ -40,6 +48,8 @@ const relatedScenarios = ingredient.relatedScenarios
   description={`${ingredient.description} 這裡整理保存方式、營養資訊、搭配建議與相關食譜入口。`}
   canonicalPath={`/ingredients/${ingredient.slug}/`}
 >
+  <JsonLd data={breadcrumbJsonLd} />
+  <JsonLd data={ingredientJsonLd} />
   <section class="section">
     <div class="container">
       <nav class="breadcrumb" aria-label="Breadcrumb">

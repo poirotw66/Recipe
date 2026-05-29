@@ -3,17 +3,22 @@ interface Props {
   title: string;
   description: string;
   canonicalPath?: string;
+  ogImage?: string;
+  type?: "website" | "article";
 }
 
 const {
   title,
   description,
-  canonicalPath = Astro.url.pathname
+  canonicalPath = Astro.url.pathname,
+  ogImage = "/images/og-default.jpg",
+  type = "website"
 } = Astro.props;
 
 const siteUrl = import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || "https://example.com";
 const canonical = new URL(canonicalPath, siteUrl).toString();
 const fullTitle = title.includes("今天煮什麼") ? title : `${title}｜今天煮什麼`;
+const ogImageUrl = new URL(ogImage, siteUrl).toString();
 ---
 
 <title>{fullTitle}</title>
@@ -21,6 +26,11 @@ const fullTitle = title.includes("今天煮什麼") ? title : `${title}｜今天
 <link rel="canonical" href={canonical} />
 <meta property="og:title" content={fullTitle} />
 <meta property="og:description" content={description} />
-<meta property="og:type" content="website" />
+<meta property="og:type" content={type} />
 <meta property="og:url" content={canonical} />
+<meta property="og:image" content={ogImageUrl} />
+<meta property="og:locale" content="zh_TW" />
+<meta name="twitter:title" content={fullTitle} />
+<meta name="twitter:description" content={description} />
 <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content={ogImageUrl} />
