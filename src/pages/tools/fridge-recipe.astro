@@ -4,7 +4,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { ingredientItems } from "../../lib/taxonomy";
 import { preferenceDefinitions } from "../../lib/fridge.js";
 
-const quickIngredients = ["雞蛋", "豆腐", "番茄", "雞胸肉", "蘑菇"];
+const quickIngredients = ["雞蛋", "豆腐", "番茄", "雞胸肉", "高麗菜", "菇類"];
 const recipes = (await getCollection("recipes")).map((recipe) => ({
   slug: recipe.slug,
   title: recipe.data.title,
@@ -26,7 +26,7 @@ const toolData = {
 
 <BaseLayout
   title="冰箱剩料工具"
-  description="輸入你手邊有的食材，用本地 recipe 與 taxonomy 資料找出今天最接近能煮的料理。"
+  description="輸入冰箱裡現有的食材，快速找出可以直接開煮的家常食譜。"
   canonicalPath="/tools/fridge-recipe"
 >
   <section class="section">
@@ -35,20 +35,20 @@ const toolData = {
         <p class="eyebrow">Fridge Recipe Tool</p>
         <h1 class="page-title">冰箱剩料工具</h1>
         <p class="page-copy">
-          輸入你冰箱裡現有的食材，工具會依命中食材數、缺少食材數與偏好條件，幫你排序目前最接近能煮的料理。
+          不想再放到食材過期，就把手邊有的雞蛋、豆腐、青菜或肉類丟進來。工具會依照命中食材、缺少食材、料理時間與偏好排序，幫你挑出最順手的一餐。
         </p>
 
         <form class="search-panel" data-fridge-form>
           <label class="field">
-            <span class="eyebrow">輸入你手邊的食材</span>
+            <span class="eyebrow">輸入冰箱裡的食材</span>
             <textarea
               class="tool-input"
               name="ingredients"
-              placeholder="雞蛋、豆腐、高麗菜"
+              placeholder="例如：雞蛋、豆腐、番茄"
               data-fridge-input
             ></textarea>
           </label>
-          <p class="form-error" data-fridge-error hidden>先輸入至少 1 樣食材。</p>
+          <p class="form-error" data-fridge-error hidden>請至少輸入 1 個食材。</p>
 
           <div class="filter-group">
             <p class="filter-label">偏好條件</p>
@@ -60,7 +60,7 @@ const toolData = {
           </div>
 
           <div class="filter-group">
-            <p class="filter-label">快速加入食材</p>
+            <p class="filter-label">常用食材快捷</p>
             <div class="chip-row">
               {quickIngredients.map((item) => (
                 <button class="chip note" type="button" data-quick-ingredient={item}>{item}</button>
@@ -69,7 +69,7 @@ const toolData = {
           </div>
 
           <div class="section-links">
-            <button class="button primary" type="submit">找能煮的料理</button>
+            <button class="button primary" type="submit">找可以煮的料理</button>
             <button class="button" type="button" data-fridge-clear hidden>清空</button>
           </div>
         </form>
@@ -78,17 +78,17 @@ const toolData = {
       <div class="results-column">
         <section class="card empty-panel" data-fridge-empty>
           <div class="card-body">
-            <p class="eyebrow">開始比對</p>
-            <h2>先把冰箱裡有的東西列出來</h2>
-            <p>送出後會依命中食材、缺少食材和偏好條件顯示最接近的料理，並補上還差哪些材料。</p>
+            <p class="eyebrow">先從食材開始</p>
+            <h2>把冰箱清一清，也能變成一餐</h2>
+            <p>輸入後會看到最接近的食譜、還缺哪些主食材，以及符合偏好的條件。第一階段先用本地食譜資料，不需要登入或連後端。</p>
           </div>
         </section>
 
         <section class="card empty-panel" data-fridge-no-results hidden>
           <div class="card-body">
-            <p class="eyebrow">沒有直接命中</p>
-            <h2>目前沒有對上的食譜</h2>
-            <p data-no-result-copy>試著換成更常見的食材名稱，或回食材索引找相近材料。</p>
+            <p class="eyebrow">沒有結果</p>
+            <h2>目前沒有符合的食譜</h2>
+            <p data-no-result-copy>可以改輸入更常見的食材，或到食材頁看看目前支援的分類。</p>
           </div>
         </section>
 
@@ -96,19 +96,19 @@ const toolData = {
           <p class="eyebrow">推薦結果</p>
           <div class="card result-summary">
             <div class="card-body">
-              <h2>目前最接近能煮的料理</h2>
-              <p data-result-summary-copy>工具會在這裡整理你已命中的食材與偏好。</p>
+              <h2>最適合現在開煮</h2>
+              <p data-result-summary-copy>工具會列出命中食材與偏好條件。</p>
             </div>
           </div>
           <div class="grid" data-result-grid></div>
         </section>
 
         <section class="section section-compact">
-          <p class="eyebrow">延伸入口</p>
+          <p class="eyebrow">繼續探索</p>
           <div class="chip-row">
-            <a class="chip note" href="/recipes">看全部食譜</a>
-            <a class="chip note" href="/ingredients">從食材索引找靈感</a>
-            <a class="chip note" href="/scenarios">從情境列表找方向</a>
+            <a class="chip note" href="/recipes">全部食譜</a>
+            <a class="chip note" href="/ingredients">看食材分類</a>
+            <a class="chip note" href="/scenarios">看料理情境</a>
           </div>
         </section>
       </div>

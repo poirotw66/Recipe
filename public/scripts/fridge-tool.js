@@ -17,7 +17,7 @@ const selectedPreferences = new Set();
 
 const splitIngredientInput = (value) =>
   value
-    .split(/[,\n、，/]+/)
+    .split(/[,\n\u3001\uFF0C/]+/)
     .map((item) => item.trim())
     .filter(Boolean);
 
@@ -63,7 +63,7 @@ const resolveInputIngredients = (tokens) => {
 
 const preferenceMatchers = {
   quick: (recipe) => recipe.totalTime <= 15 || recipe.scenarios.includes("10 分鐘料理"),
-  protein: (recipe) => (recipe.protein ?? 0) >= 20 || recipe.scenarios.includes("高蛋白菜單"),
+  protein: (recipe) => (recipe.protein ?? 0) >= 20 || recipe.scenarios.includes("高蛋白料理"),
   electricPot: (recipe) => recipe.equipment.includes("電鍋"),
   airFryer: (recipe) => recipe.equipment.includes("氣炸鍋")
 };
@@ -111,8 +111,8 @@ const syncClearButton = () => {
 };
 
 const renderRecipeCard = (recipe) => {
-  const matchedLabel = recipe.matchedIngredientNames.length > 0 ? recipe.matchedIngredientNames.join("、") : "尚無";
-  const missingLabel = recipe.missingIngredients.length > 0 ? recipe.missingIngredients.join("、") : "沒有缺少";
+  const matchedLabel = recipe.matchedIngredientNames.length > 0 ? recipe.matchedIngredientNames.join("、") : "沒有命中";
+  const missingLabel = recipe.missingIngredients.length > 0 ? recipe.missingIngredients.join("、") : "不缺主食材";
   const preferenceMarkup = recipe.matchedPreferences.length > 0
     ? `<div class="chip-row">${recipe.matchedPreferences.map((item) => `<span class="chip">${item}</span>`).join("")}</div>`
     : "";
@@ -131,7 +131,7 @@ const renderRecipeCard = (recipe) => {
           </div>
           <div class="chip-row">
             <span class="chip note">命中：${matchedLabel}</span>
-            <span class="chip">還差：${missingLabel}</span>
+            <span class="chip">還缺：${missingLabel}</span>
           </div>
           ${preferenceMarkup}
         </div>
@@ -213,7 +213,7 @@ const submitValue = (value) => {
   syncClearButton();
 
   const summary = [
-    matched.length > 0 ? `已辨識食材：${matched.map((item) => item.name).join("、")}` : "尚未辨識到站內食材",
+    matched.length > 0 ? `已辨識食材：${matched.map((item) => item.name).join("、")}` : "還沒有辨識到可用食材",
     unresolved.length > 0 ? `未辨識：${unresolved.join("、")}` : "",
     selectedPreferences.size > 0
       ? `偏好：${Array.from(selectedPreferences).map((key) => preferenceLabels[key] ?? key).join("、")}`
@@ -227,8 +227,8 @@ const submitValue = (value) => {
   if (rankedRecipes.length === 0) {
     showNoResults(
       unresolved.length > 0
-        ? `目前沒有和「${unresolved.join("、")}」直接對上的食譜，試著改成更常見的食材名稱，或加入雞蛋、豆腐、番茄這類常見材料。`
-        : "目前沒有直接命中的食譜，試著加入更多主要食材，或改從食材索引找相近材料。"
+        ? `目前沒有找到含有 ${unresolved.join("、")} 的食譜。可以改輸入常見食材，像是雞蛋、豆腐、番茄或雞胸肉。`
+        : "目前沒有符合這組食材的食譜。可以再加一個主食材，或回到食譜列表找靈感。"
     );
   } else {
     showResults(summary, rankedRecipes);

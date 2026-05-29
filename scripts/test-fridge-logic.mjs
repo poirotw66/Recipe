@@ -17,7 +17,7 @@ const recipeFixtures = [
     slug: "tofu-scrambled-eggs",
     title: "豆腐炒蛋",
     ingredients: ["雞蛋", "豆腐", "青蔥"],
-    scenarios: ["一人份料理", "10 分鐘料理"],
+    scenarios: ["一人料理", "10 分鐘料理"],
     equipment: ["平底鍋"],
     totalTime: 12,
     protein: 24
@@ -33,9 +33,9 @@ const recipeFixtures = [
   },
   {
     slug: "steamed-chicken-bento",
-    title: "電鍋雞胸便當",
-    ingredients: ["雞胸肉", "蘑菇", "花椰菜"],
-    scenarios: ["高蛋白菜單", "便當菜"],
+    title: "電鍋雞胸便當菜",
+    ingredients: ["雞胸肉", "青花菜", "胡蘿蔔"],
+    scenarios: ["高蛋白料理", "便當菜"],
     equipment: ["電鍋"],
     totalTime: 20,
     protein: 34

@@ -54,7 +54,7 @@ export const resolveInputIngredients = (tokens, ingredientLookup) => {
 
 const preferenceMatchers = {
   quick: (recipe) => recipe.totalTime <= 15 || recipe.scenarios.includes("10 分鐘料理"),
-  protein: (recipe) => (recipe.protein ?? 0) >= 20 || recipe.scenarios.includes("高蛋白菜單"),
+  protein: (recipe) => (recipe.protein ?? 0) >= 20 || recipe.scenarios.includes("高蛋白料理"),
   electricPot: (recipe) => recipe.equipment.includes("電鍋"),
   airFryer: (recipe) => recipe.equipment.includes("氣炸鍋")
 };
@@ -104,12 +104,12 @@ export const rankRecipesForFridge = (recipes, matchedIngredients, selectedPrefer
 export const summarizeMatches = (matchedIngredients, unresolvedIngredients, selectedPreferences = []) => {
   const matchedLabel = matchedIngredients.length > 0
     ? matchedIngredients.map((item) => item.name).join("、")
-    : "無";
+    : "沒有命中食材";
   const unresolvedLabel = unresolvedIngredients.length > 0
-    ? `；未辨識：${unresolvedIngredients.join("、")}`
+    ? `，未辨識：${unresolvedIngredients.join("、")}`
     : "";
   const preferenceLabel = selectedPreferences.length > 0
-    ? `；偏好：${preferenceDefinitions
+    ? `，偏好：${preferenceDefinitions
         .filter((item) => selectedPreferences.includes(item.key))
         .map((item) => item.label)
         .join("、")}`

@@ -3,10 +3,11 @@ import { getCollection } from "astro:content";
 import RecipeCard from "../components/RecipeCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getFeaturedRecipes, getLatestRecipes } from "../lib/recipes";
+import { ingredientItems, scenarioItems } from "../lib/taxonomy";
 
-const quickIngredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "番茄", "電鍋料理"];
-const scenarios = ["一人料理", "租屋料理", "10 分鐘料理", "電鍋料理", "氣炸鍋料理", "減脂料理"];
-const popularIngredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "洋蔥", "青蔥", "馬鈴薯", "白飯"];
+const quickIngredients = ingredientItems.slice(0, 6).map((item) => item.name);
+const featuredScenarios = scenarioItems.slice(0, 6);
+const popularIngredients = ingredientItems.slice(0, 8);
 
 const allRecipes = await getCollection("recipes");
 const featuredRecipes = getFeaturedRecipes(allRecipes, 3);
@@ -21,15 +22,15 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
   <section class="hero">
     <div class="container">
       <p class="eyebrow">冰箱裡有什麼，就從那裡開始</p>
-      <h1 class="page-title">用手邊食材，找今天能煮的簡單料理</h1>
+      <h1 class="page-title">今天晚餐不用先想菜名，先看你手邊有什麼</h1>
       <p class="page-copy">
-        首頁先幫你從冰箱剩料出發，不用先想菜名。輸入 1-3 樣你現在有的食材，就能前往工具頁看適合的料理方向。
+        首頁先幫你從冰箱剩料出發，不用先想菜名。輸入 1 到 3 樣你現在有的食材，就能前往工具頁看最接近能煮的料理。
       </p>
 
       <div class="search-panel">
         <form class="search-form" data-home-search>
           <label class="field">
-            <span class="eyebrow">輸入手邊食材</span>
+            <span class="eyebrow">輸入你有的食材</span>
             <input
               name="ingredients"
               type="search"
@@ -39,9 +40,9 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
           </label>
           <button class="button primary" type="submit">找今天能煮的料理</button>
         </form>
-        <p class="form-error" data-home-search-error hidden>先輸入 1-3 樣你手邊有的食材。</p>
+        <p class="form-error" data-home-search-error hidden>請先輸入 1 到 3 樣食材。</p>
 
-        <div class="chip-row" aria-label="熱門快速食材">
+        <div class="chip-row" aria-label="快速食材入口">
           {quickIngredients.map((item) => (
             <a class="chip note" href={`/tools/fridge-recipe?ingredients=${encodeURIComponent(item)}`}>{item}</a>
           ))}
@@ -52,13 +53,13 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
 
   <section class="section">
     <div class="container">
-      <p class="eyebrow">情境入口</p>
-      <h2>先從你今天的烹飪情境挑起</h2>
+      <p class="eyebrow">料理情境入口</p>
+      <h2>先從你今天的做飯情境開始找方向</h2>
       <div class="grid">
-        {scenarios.map((scenario) => (
-          <a class="note-card card-body" href="/scenarios">
-            <h3>{scenario}</h3>
-            <p>保留情境列表入口，後續會接上對應的食譜群組與長尾 SEO 頁。</p>
+        {featuredScenarios.map((scenario) => (
+          <a class="note-card card-body" href={`/scenarios/${scenario.slug}/`}>
+            <h3>{scenario.name}</h3>
+            <p>{scenario.description}</p>
           </a>
         ))}
       </div>
@@ -68,7 +69,7 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
   <section class="section">
     <div class="container">
       <p class="eyebrow">熱門食譜</p>
-      <h2>先看看現在最適合延伸成內容的料理方向</h2>
+      <h2>先看最近適合小廚房的一批家常料理</h2>
       <div class="grid">
         {popularRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
       </div>
@@ -79,10 +80,10 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
   <section class="section">
     <div class="container">
       <p class="eyebrow">熱門食材</p>
-      <h2>從常見食材切進去，也能很快開始找菜</h2>
+      <h2>從常備食材直接展開，找保存方式與相關做法</h2>
       <div class="chip-row" aria-label="熱門食材入口">
         {popularIngredients.map((ingredient) => (
-          <a class="chip note" href="/ingredients">{ingredient}</a>
+          <a class="chip note" href={`/ingredients/${ingredient.slug}/`}>{ingredient.name}</a>
         ))}
       </div>
     </div>
@@ -95,7 +96,8 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
           <p class="eyebrow">冰箱剩料工具</p>
           <h2>不想先想菜名時，直接用冰箱現況找方向</h2>
           <p>
-            工具頁已先完成輸入面與 placeholder 結果流程，下一階段會接上本地 JSON 比對，依命中食材與缺少食材數量排序。
+            工具頁現在已接上本地 recipe 與 taxonomy 資料，會依命中食材、缺少食材與偏好條件排序，
+            幫你快速縮小今天晚餐的選擇。
           </p>
           <a class="button note" href="/tools/fridge-recipe">用冰箱剩料找食譜</a>
         </div>

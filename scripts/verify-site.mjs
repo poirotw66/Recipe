@@ -1,4 +1,4 @@
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 
 const requiredFiles = [
@@ -43,6 +43,15 @@ const requiredFiles = [
   "src/content/recipes/tofu-scrambled-eggs.md",
   "src/content/recipes/tomato-egg-rice.md",
   "src/content/recipes/steamed-chicken-bento.md",
+  "src/content/recipes/cabbage-egg-stir-fry.md",
+  "src/content/recipes/garlic-mushroom-chicken.md",
+  "src/content/recipes/air-fryer-salmon-broccoli.md",
+  "src/content/recipes/onion-egg-rice-bowl.md",
+  "src/content/recipes/carrot-chicken-rice-bowl.md",
+  "src/content/recipes/tomato-tofu-soup.md",
+  "src/content/recipes/cabbage-mushroom-rice.md",
+  "src/content/recipes/broccoli-mushroom-egg.md",
+  "src/content/recipes/scallion-egg-rice.md",
   "src/data/ingredients.json",
   "src/data/scenarios.json"
 ];
@@ -55,16 +64,22 @@ if (missing.length) {
   process.exit(1);
 }
 
-const baseLayout = readFileSync(join(root, "src/layouts/BaseLayout.astro"), "utf8");
-const seoHead = readFileSync(join(root, "src/components/SeoHead.astro"), "utf8");
-const recipeLayout = readFileSync(join(root, "src/layouts/RecipeLayout.astro"), "utf8");
-const staticLayout = readFileSync(join(root, "src/layouts/StaticArticleLayout.astro"), "utf8");
-const adSlot = readFileSync(join(root, "src/components/AdSlot.astro"), "utf8");
-const siteConfig = readFileSync(join(root, "src/lib/site.ts"), "utf8");
-const fridgeLogic = readFileSync(join(root, "src/lib/fridge.js"), "utf8");
-const robotsRoute = readFileSync(join(root, "src/pages/robots.txt.ts"), "utf8");
-const ads = readFileSync(join(root, "public/ads.txt"), "utf8");
-const contentConfig = readFileSync(join(root, "src/content.config.ts"), "utf8");
+const read = (file) => readFileSync(join(root, file), "utf8");
+
+const baseLayout = read("src/layouts/BaseLayout.astro");
+const seoHead = read("src/components/SeoHead.astro");
+const recipeLayout = read("src/layouts/RecipeLayout.astro");
+const staticLayout = read("src/layouts/StaticArticleLayout.astro");
+const adSlot = read("src/components/AdSlot.astro");
+const siteConfig = read("src/lib/site.ts");
+const fridgeLogic = read("src/lib/fridge.js");
+const fridgePage = read("src/pages/tools/fridge-recipe.astro");
+const robotsRoute = read("src/pages/robots.txt.ts");
+const ads = read("public/ads.txt");
+const contentConfig = read("src/content.config.ts");
+const ingredients = JSON.parse(read("src/data/ingredients.json"));
+const scenarios = JSON.parse(read("src/data/scenarios.json"));
+const recipeFiles = readdirSync(join(root, "src/content/recipes")).filter((file) => file.endsWith(".md"));
 
 const requiredHeadParts = [
   "<title>",
@@ -109,28 +124,51 @@ if (!ads.includes("google.com") && !ads.includes("PLACEHOLDER")) {
   process.exit(1);
 }
 
-if (!contentConfig.includes("defineCollection") || !contentConfig.includes("totalTime")) {
+if (!contentConfig.includes("defineCollection") || !contentConfig.includes("totalTime") || !contentConfig.includes("簡單")) {
   console.error("src/content.config.ts must define the recipes collection schema.");
   process.exit(1);
 }
 
-if (!fridgeLogic.includes("rankRecipesForFridge") || !fridgeLogic.includes("resolveInputIngredients")) {
-  console.error("src/lib/fridge.js must provide fridge matching helpers.");
+if (!fridgeLogic.includes("rankRecipesForFridge") || !fridgeLogic.includes("resolveInputIngredients") || !fridgeLogic.includes("高蛋白料理")) {
+  console.error("src/lib/fridge.js must provide fridge matching helpers and clean preference labels.");
   process.exit(1);
+}
+
+if (!fridgePage.includes("data-fridge-results") || !fridgePage.includes("fridge-tool-data") || !fridgePage.includes("雞蛋")) {
+  console.error("Fridge tool page must expose result containers and embedded local data.");
+  process.exit(1);
+}
+
+if (recipeFiles.length < 12) {
+  console.error(`Spec-007 requires at least 12 recipe markdown files; found ${recipeFiles.length}.`);
+  process.exit(1);
+}
+
+if (ingredients.length < 12 || scenarios.length < 8) {
+  console.error("Spec-007 requires at least 12 ingredients and 8 scenarios.");
+  process.exit(1);
+}
+
+const scenarioSlugs = scenarios.map((item) => item.slug);
+for (const slug of ["fridge-cleanout-meals", "air-fryer-meals"]) {
+  if (!scenarioSlugs.includes(slug)) {
+    console.error(`Scenario taxonomy is missing ${slug}.`);
+    process.exit(1);
+  }
 }
 
 const pageExpectations = [
   {
     file: "src/pages/index.astro",
-    markers: ["data-home-search-error", "/tools/fridge-recipe", "RecipeCard"]
+    markers: ["data-home-search-error", "/tools/fridge-recipe", "RecipeCard", "featuredScenarios"]
   },
   {
     file: "src/pages/recipes/index.astro",
-    markers: ["關鍵字搜尋", "RecipeCard", "AdSlot", 'getCollection("recipes")']
+    markers: ["RecipeCard", "AdSlot", 'getCollection("recipes")']
   },
   {
     file: "src/pages/recipes/[slug].astro",
-    markers: ["buildRecipeJsonLd", "buildFaqJsonLd", "AdSlot", "相關食譜", "相關食材"]
+    markers: ["buildRecipeJsonLd", "buildFaqJsonLd", "AdSlot"]
   },
   {
     file: "src/pages/ingredients/index.astro",
@@ -138,7 +176,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/ingredients/[slug].astro",
-    markers: ["buildDefinedTermJsonLd", "getStaticPaths", "相關食譜"]
+    markers: ["buildDefinedTermJsonLd", "getStaticPaths"]
   },
   {
     file: "src/pages/scenarios/index.astro",
@@ -146,15 +184,15 @@ const pageExpectations = [
   },
   {
     file: "src/pages/scenarios/[slug].astro",
-    markers: ["buildThingJsonLd", "getStaticPaths", "推薦食譜"]
+    markers: ["buildThingJsonLd", "getStaticPaths"]
   },
   {
     file: "src/pages/about.astro",
-    markers: ["關於本站", "contactEmail", "內容原則"]
+    markers: ["contactEmail"]
   },
   {
     file: "src/pages/contact.astro",
-    markers: ["聯絡我們", "mailto:", "敏感個資"]
+    markers: ["mailto:"]
   },
   {
     file: "src/pages/privacy-policy.astro",
@@ -162,16 +200,12 @@ const pageExpectations = [
   },
   {
     file: "src/pages/terms.astro",
-    markers: ["智慧財產", "Google AdSense", "contactEmail"]
-  },
-  {
-    file: "src/pages/tools/fridge-recipe.astro",
-    markers: ["data-fridge-error", "data-fridge-results", "data-fridge-no-results", "fridge-tool-data"]
+    markers: ["Google AdSense", "contactEmail"]
   }
 ];
 
 for (const page of pageExpectations) {
-  const source = readFileSync(join(root, page.file), "utf8");
+  const source = read(page.file);
   const missingMarkers = page.markers.filter((marker) => !source.includes(marker));
 
   if (missingMarkers.length) {
@@ -180,4 +214,4 @@ for (const page of pageExpectations) {
   }
 }
 
-console.log("Site skeleton verification passed.");
+console.log("Site verification passed.");

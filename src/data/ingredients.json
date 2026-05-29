@@ -12,7 +12,7 @@
     "storage": "冷藏保存，避免放在冰箱門邊溫度變化大的位置。",
     "commonPairings": ["豆腐", "番茄", "青蔥", "白飯"],
     "substitutes": ["豆腐", "雞胸肉"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals"]
+    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals", "fridge-cleanout-meals"]
   },
   {
     "name": "豆腐",
@@ -24,10 +24,10 @@
     "proteinPer100g": 8,
     "fatPer100g": 4.8,
     "carbsPer100g": 1.9,
-    "storage": "開封後請以清水冷藏並於 1-2 天內用完。",
+    "storage": "開封後冷藏浸泡清水，1 到 2 天內食用完畢風味較穩定。",
     "commonPairings": ["雞蛋", "番茄", "青蔥"],
     "substitutes": ["雞蛋", "豆乾"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals"]
+    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals", "fridge-cleanout-meals"]
   },
   {
     "name": "雞胸肉",
@@ -39,10 +39,10 @@
     "proteinPer100g": 31,
     "fatPer100g": 3.6,
     "carbsPer100g": 0,
-    "storage": "冷藏建議 2 天內料理完畢；若短期不煮可直接冷凍分裝。",
+    "storage": "冷藏可保存 2 天，若當日不煮建議分裝後冷凍。",
     "commonPairings": ["青花菜", "菇類", "白飯"],
     "substitutes": ["雞里肌", "豆腐"],
-    "relatedScenarios": ["high-protein-meals", "bento-meals", "weight-loss-meals"]
+    "relatedScenarios": ["high-protein-meals", "bento-meals", "weight-loss-meals", "air-fryer-meals"]
   },
   {
     "name": "番茄",
@@ -54,10 +54,10 @@
     "proteinPer100g": 0.9,
     "fatPer100g": 0.2,
     "carbsPer100g": 3.9,
-    "storage": "常溫熟成後可冷藏，避免久放造成口感粉掉。",
+    "storage": "熟成後冷藏保存，避免壓傷；想保留風味可先放室溫再入冰箱。",
     "commonPairings": ["雞蛋", "豆腐", "白飯"],
     "substitutes": ["小番茄", "番茄罐"],
-    "relatedScenarios": ["ten-minute-meals", "one-person-meal"]
+    "relatedScenarios": ["ten-minute-meals", "one-person-meal", "fridge-cleanout-meals"]
   },
   {
     "name": "白飯",
@@ -69,54 +69,129 @@
     "proteinPer100g": 2.7,
     "fatPer100g": 0.3,
     "carbsPer100g": 28,
-    "storage": "煮熟後請冷藏保存，並於 1 天內回熱食用。",
+    "storage": "煮熟後放涼再冷藏，1 天內回鍋風味最佳。",
     "commonPairings": ["雞蛋", "番茄", "雞胸肉"],
-    "substitutes": ["麵條", "冬粉"],
-    "relatedScenarios": ["one-person-meal", "bento-meals"]
+    "substitutes": ["糙米飯", "烏龍麵"],
+    "relatedScenarios": ["one-person-meal", "bento-meals", "budget-meals"]
   },
   {
     "name": "青蔥",
     "slug": "scallion",
     "aliases": ["蔥", "蔥花"],
     "category": "蔬菜",
-    "description": "青蔥是最常見的提香配角，能讓快手料理更有完成度。",
+    "description": "青蔥能快速補香氣，讓簡單料理更有完成感。",
     "caloriesPer100g": 32,
     "proteinPer100g": 1.8,
     "fatPer100g": 0.2,
     "carbsPer100g": 7.3,
-    "storage": "可包紙巾冷藏，減少水氣避免軟爛。",
+    "storage": "包上廚房紙巾後冷藏，可延長新鮮度並減少水氣。",
     "commonPairings": ["雞蛋", "豆腐", "雞胸肉"],
-    "substitutes": ["蒜苗", "洋蔥"],
-    "relatedScenarios": ["ten-minute-meals", "budget-meals"]
+    "substitutes": ["洋蔥", "蒜頭"],
+    "relatedScenarios": ["ten-minute-meals", "budget-meals", "one-person-meal"]
   },
   {
     "name": "菇類",
     "slug": "mushroom",
-    "aliases": ["鴻喜菇", "香菇"],
+    "aliases": ["蘑菇", "香菇"],
     "category": "蔬菜",
     "description": "菇類能補足鮮味，常用在便當菜、電鍋料理和減脂菜色。",
     "caloriesPer100g": 22,
     "proteinPer100g": 3.1,
     "fatPer100g": 0.3,
     "carbsPer100g": 3.3,
-    "storage": "保持乾燥冷藏，避免密封過度悶濕。",
+    "storage": "冷藏保存並保持乾燥，避免悶住後出水影響口感。",
     "commonPairings": ["雞胸肉", "高麗菜", "青花菜"],
-    "substitutes": ["木耳", "洋蔥"],
-    "relatedScenarios": ["bento-meals", "weight-loss-meals"]
+    "substitutes": ["杏鮑菇", "洋蔥"],
+    "relatedScenarios": ["bento-meals", "weight-loss-meals", "fridge-cleanout-meals"]
   },
   {
     "name": "青花菜",
     "slug": "broccoli",
-    "aliases": ["花椰菜", "綠花椰"],
+    "aliases": ["綠花椰", "青花椰"],
     "category": "蔬菜",
     "description": "青花菜常出現在便當菜與減脂料理，能補足纖維和份量感。",
     "caloriesPer100g": 35,
     "proteinPer100g": 2.8,
     "fatPer100g": 0.4,
     "carbsPer100g": 7.2,
-    "storage": "冷藏保存並盡快食用，避免花球轉黃。",
+    "storage": "冷藏保存時先保持乾燥，料理前再清洗能延長保存。",
     "commonPairings": ["雞胸肉", "菇類", "白飯"],
-    "substitutes": ["高麗菜", "小松菜"],
-    "relatedScenarios": ["high-protein-meals", "bento-meals", "weight-loss-meals"]
+    "substitutes": ["高麗菜", "花椰菜"],
+    "relatedScenarios": ["high-protein-meals", "bento-meals", "weight-loss-meals", "air-fryer-meals"]
+  },
+  {
+    "name": "高麗菜",
+    "slug": "cabbage",
+    "aliases": ["高麗菜絲", "高麗菜料理"],
+    "category": "蔬菜",
+    "description": "高麗菜耐放又好搭，適合快炒、湯煮與清冰箱料理。",
+    "caloriesPer100g": 25,
+    "proteinPer100g": 1.3,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 5.8,
+    "storage": "整顆冷藏保濕可放較久，切開後建議先包好並在 3 天內用完。",
+    "commonPairings": ["雞蛋", "蒜頭", "菇類"],
+    "substitutes": ["白菜", "青花菜"],
+    "relatedScenarios": ["one-person-meal", "budget-meals", "fridge-cleanout-meals"]
+  },
+  {
+    "name": "洋蔥",
+    "slug": "onion",
+    "aliases": ["白洋蔥", "黃洋蔥"],
+    "category": "蔬菜",
+    "description": "洋蔥能提供甜味和香氣，是平底鍋快炒、氣炸鍋與湯品的常見底味。",
+    "caloriesPer100g": 40,
+    "proteinPer100g": 1.1,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 9.3,
+    "storage": "完整洋蔥放陰涼通風處即可，切開後改冷藏並盡快使用。",
+    "commonPairings": ["雞蛋", "番茄", "鮭魚"],
+    "substitutes": ["青蔥", "蒜頭"],
+    "relatedScenarios": ["ten-minute-meals", "air-fryer-meals", "fridge-cleanout-meals"]
+  },
+  {
+    "name": "胡蘿蔔",
+    "slug": "carrot",
+    "aliases": ["紅蘿蔔", "胡蘿蔔料理"],
+    "category": "蔬菜",
+    "description": "胡蘿蔔耐放、好切配，適合湯品、便當配菜與家常炒菜。",
+    "caloriesPer100g": 41,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 9.6,
+    "storage": "去除表面水氣後冷藏保存，可延長脆度與甜味。",
+    "commonPairings": ["雞胸肉", "洋蔥", "白飯"],
+    "substitutes": ["南瓜", "馬鈴薯"],
+    "relatedScenarios": ["bento-meals", "budget-meals", "weight-loss-meals"]
+  },
+  {
+    "name": "蒜頭",
+    "slug": "garlic",
+    "aliases": ["大蒜", "蒜末"],
+    "category": "辛香料",
+    "description": "蒜頭能快速拉高香氣層次，是清冰箱快炒與高蛋白主菜的好幫手。",
+    "caloriesPer100g": 149,
+    "proteinPer100g": 6.4,
+    "fatPer100g": 0.5,
+    "carbsPer100g": 33,
+    "storage": "未剝皮蒜頭放陰涼通風處即可，切碎後建議盡快使用。",
+    "commonPairings": ["高麗菜", "菇類", "雞胸肉"],
+    "substitutes": ["洋蔥", "薑末"],
+    "relatedScenarios": ["ten-minute-meals", "fridge-cleanout-meals", "budget-meals"]
+  },
+  {
+    "name": "鮭魚",
+    "slug": "salmon",
+    "aliases": ["鮭魚排", "鮭魚料理"],
+    "category": "海鮮",
+    "description": "鮭魚適合做成簡單主菜，搭配氣炸鍋或烤箱就能快速完成一餐。",
+    "caloriesPer100g": 208,
+    "proteinPer100g": 20,
+    "fatPer100g": 13,
+    "carbsPer100g": 0,
+    "storage": "冷藏建議當天或隔天料理，若要延後食用可先分裝冷凍。",
+    "commonPairings": ["青花菜", "洋蔥", "白飯"],
+    "substitutes": ["鯖魚", "雞胸肉"],
+    "relatedScenarios": ["high-protein-meals", "air-fryer-meals", "bento-meals"]
   }
 ]
