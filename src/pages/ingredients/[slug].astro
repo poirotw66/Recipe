@@ -1,0 +1,114 @@
+---
+import { getCollection } from "astro:content";
+import RecipeCard from "../../components/RecipeCard.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { sortRecipesByPublishedDate } from "../../lib/recipes";
+import {
+  getIngredientBySlug,
+  getRecipesByIngredient,
+  getScenarioBySlug,
+  ingredientItems
+} from "../../lib/taxonomy";
+
+export async function getStaticPaths() {
+  return ingredientItems.map((ingredient) => ({
+    params: { slug: ingredient.slug }
+  }));
+}
+
+const { slug } = Astro.params;
+
+if (!slug) {
+  throw new Error("Ingredient slug is required.");
+}
+
+const ingredient = getIngredientBySlug(slug);
+
+if (!ingredient) {
+  return Astro.redirect("/404");
+}
+
+const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+const relatedRecipes = getRecipesByIngredient(recipes, ingredient.slug).slice(0, 3);
+const relatedScenarios = ingredient.relatedScenarios
+  .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
+  .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
+---
+
+<BaseLayout
+  title={`${ingredient.name} 食材料理`}
+  description={`${ingredient.description} 這裡整理保存方式、營養資訊、搭配建議與相關食譜入口。`}
+  canonicalPath={`/ingredients/${ingredient.slug}/`}
+>
+  <section class="section">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">首頁</a>
+        <span>/</span>
+        <a href="/ingredients">食材</a>
+        <span>/</span>
+        <span>{ingredient.name}</span>
+      </nav>
+
+      <section class="recipe-hero">
+        <div>
+          <p class="eyebrow">{ingredient.category}</p>
+          <h1 class="page-title">{ingredient.name}</h1>
+          <p class="page-copy">{ingredient.description}</p>
+          <div class="chip-row">
+            {ingredient.aliases.map((alias) => <span class="chip note">{alias}</span>)}
+          </div>
+        </div>
+        <div class="card card-body taxonomy-summary">
+          <p class="eyebrow">營養資訊</p>
+          <ul class="detail-list">
+            <li><span>熱量</span><strong>{ingredient.caloriesPer100g} kcal / 100g</strong></li>
+            <li><span>蛋白質</span><strong>{ingredient.proteinPer100g} g</strong></li>
+            <li><span>脂肪</span><strong>{ingredient.fatPer100g} g</strong></li>
+            <li><span>碳水</span><strong>{ingredient.carbsPer100g} g</strong></li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <div class="recipe-content-grid">
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">保存方式</p>
+              <h2>怎麼放比較穩</h2>
+              <p>{ingredient.storage}</p>
+            </div>
+          </article>
+
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">常見搭配</p>
+              <h2>一起出現的食材</h2>
+              <div class="chip-row">
+                {ingredient.commonPairings.map((item) => <span class="chip note">{item}</span>)}
+              </div>
+              <h3>可替代食材</h3>
+              <div class="chip-row">
+                {ingredient.substitutes.map((item) => <span class="chip">{item}</span>)}
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <p class="eyebrow">相關食譜</p>
+        <div class="grid">
+          {relatedRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <p class="eyebrow">相關情境</p>
+        <div class="chip-row">
+          {relatedScenarios.map((scenario) => <a class="chip note" href={`/scenarios/${scenario.slug}/`}>{scenario.name}</a>)}
+        </div>
+      </section>
+    </div>
+  </section>
+</BaseLayout>

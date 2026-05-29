@@ -1,0 +1,101 @@
+---
+import { getCollection } from "astro:content";
+import RecipeCard from "../../components/RecipeCard.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { sortRecipesByPublishedDate } from "../../lib/recipes";
+import {
+  getIngredientBySlug,
+  getRecipesByScenario,
+  getScenarioBySlug,
+  scenarioItems
+} from "../../lib/taxonomy";
+
+export async function getStaticPaths() {
+  return scenarioItems.map((scenario) => ({
+    params: { slug: scenario.slug }
+  }));
+}
+
+const { slug } = Astro.params;
+
+if (!slug) {
+  throw new Error("Scenario slug is required.");
+}
+
+const scenario = getScenarioBySlug(slug);
+
+if (!scenario) {
+  return Astro.redirect("/404");
+}
+
+const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+const relatedRecipes = getRecipesByScenario(recipes, scenario.slug).slice(0, 6);
+const commonIngredients = scenario.commonIngredients
+  .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+  .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient));
+const relatedScenarios = scenario.relatedScenarios
+  .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
+  .filter((relatedScenario): relatedScenario is NonNullable<typeof relatedScenario> => Boolean(relatedScenario));
+---
+
+<BaseLayout
+  title={scenario.seoTitle}
+  description={scenario.seoDescription}
+  canonicalPath={`/scenarios/${scenario.slug}/`}
+>
+  <section class="section">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">首頁</a>
+        <span>/</span>
+        <a href="/scenarios">情境</a>
+        <span>/</span>
+        <span>{scenario.name}</span>
+      </nav>
+
+      <section class="recipe-hero">
+        <div>
+          <p class="eyebrow">情境料理</p>
+          <h1 class="page-title">{scenario.name}</h1>
+          <p class="page-copy">{scenario.description}</p>
+          <div class="chip-row">
+            {scenario.tags.map((tag) => <span class="chip note">{tag}</span>)}
+          </div>
+        </div>
+        <div class="card card-body taxonomy-summary">
+          <p class="eyebrow">怎麼用這個入口找菜</p>
+          <p>{scenario.seoDescription}</p>
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <p class="eyebrow">推薦食譜</p>
+        <div class="grid">
+          {relatedRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <div class="recipe-content-grid">
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">常見食材</p>
+              <div class="chip-row">
+                {commonIngredients.map((ingredient) => <a class="chip note" href={`/ingredients/${ingredient.slug}/`}>{ingredient.name}</a>)}
+              </div>
+            </div>
+          </article>
+
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">相關情境</p>
+              <div class="chip-row">
+                {relatedScenarios.map((item) => <a class="chip" href={`/scenarios/${item.slug}/`}>{item.name}</a>)}
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+    </div>
+  </section>
+</BaseLayout>

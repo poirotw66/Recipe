@@ -1,37 +1,19 @@
 ---
+import { getCollection } from "astro:content";
+import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import { sortRecipesByPublishedDate } from "../../lib/recipes";
 
 const categories = ["全部", "家常菜", "便當菜", "早餐", "湯品"];
 const times = ["全部", "10 分鐘", "15 分鐘", "30 分鐘內"];
 const tools = ["全部", "電鍋", "氣炸鍋", "微波爐", "平底鍋"];
-const recipes = [
-  {
-    title: "豆腐炒蛋",
-    description: "豆腐、雞蛋和蔥花就能完成的平日快手菜。",
-    meta: ["12 分鐘", "1 人份", "平底鍋"],
-    ingredients: ["豆腐", "雞蛋", "青蔥"],
-    scenarios: ["一人料理", "家常菜"]
-  },
-  {
-    title: "番茄雞蛋飯",
-    description: "剩飯加番茄和雞蛋，做成濕潤好入口的一盤飯。",
-    meta: ["15 分鐘", "1 人份", "快速料理"],
-    ingredients: ["白飯", "番茄", "雞蛋"],
-    scenarios: ["10 分鐘料理", "租屋料理"]
-  },
-  {
-    title: "電鍋雞胸便當菜",
-    description: "用電鍋先把主菜做起來，適合週中便當準備。",
-    meta: ["20 分鐘", "2 份", "高蛋白"],
-    ingredients: ["雞胸肉", "菇類", "青花菜"],
-    scenarios: ["便當菜", "減脂料理"]
-  }
-];
+
+const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
 ---
 
 <BaseLayout
   title="食譜列表"
-  description="整理適合一人份、租屋族與台灣常見食材的簡單食譜，保留後續 content collection 與篩選擴充空間。"
+  description="整理適合一人份、租屋族與台灣常見食材的簡單食譜，改由 Markdown content collection 驅動。"
   canonicalPath="/recipes"
 >
   <section class="section">
@@ -39,7 +21,7 @@ const recipes = [
       <p class="eyebrow">Recipes</p>
       <h1 class="page-title">食譜列表</h1>
       <p class="page-copy">
-        這一頁先建立可延伸的搜尋與篩選骨架。後續 spec-002 會把 placeholder 卡片改成實際食譜資料與 slug 路由。
+        這一頁已接上 recipe content collection。第一版先提供真實食譜卡與靜態篩選入口，後續再補更完整的篩選互動。
       </p>
 
       <div class="search-panel">
@@ -68,29 +50,7 @@ const recipes = [
       </div>
 
       <div class="grid">
-        {recipes.map((recipe) => (
-          <article class="card recipe-card">
-            <div class="recipe-image" aria-hidden="true"></div>
-            <div class="card-body">
-              <h2>{recipe.title}</h2>
-              <p>{recipe.description}</p>
-              <div class="meta-row">
-                {recipe.meta.map((item) => <span class="chip">{item}</span>)}
-              </div>
-              <div class="chip-row">
-                {recipe.ingredients.map((item) => <span class="chip note">{item}</span>)}
-                {recipe.scenarios.map((item) => <span class="chip">{item}</span>)}
-              </div>
-            </div>
-          </article>
-        ))}
-      </div>
-
-      <div class="card empty-panel">
-        <div class="card-body">
-          <h2>目前還沒有完整食譜資料</h2>
-          <p>先保留搜尋與篩選結構，接下來會由 Markdown content collection 補上實際內容。</p>
-        </div>
+        {recipes.map((recipe) => <RecipeCard recipe={recipe} />)}
       </div>
 
       <div class="section-links">

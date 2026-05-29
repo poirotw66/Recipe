@@ -5,14 +5,20 @@ const requiredFiles = [
   "package.json",
   "astro.config.mjs",
   "tsconfig.json",
+  "src/content.config.ts",
   "src/layouts/BaseLayout.astro",
+  "src/layouts/RecipeLayout.astro",
   "src/components/SeoHead.astro",
   "src/components/Header.astro",
   "src/components/Footer.astro",
+  "src/components/RecipeCard.astro",
   "src/pages/index.astro",
   "src/pages/recipes/index.astro",
+  "src/pages/recipes/[slug].astro",
   "src/pages/ingredients/index.astro",
+  "src/pages/ingredients/[slug].astro",
   "src/pages/scenarios/index.astro",
+  "src/pages/scenarios/[slug].astro",
   "src/pages/tools/fridge-recipe.astro",
   "src/pages/about.astro",
   "src/pages/contact.astro",
@@ -20,7 +26,13 @@ const requiredFiles = [
   "src/pages/terms.astro",
   "public/robots.txt",
   "public/ads.txt",
-  "public/images/.gitkeep"
+  "public/images/.gitkeep",
+  "src/content/recipes/tofu-scrambled-eggs.md",
+  "src/content/recipes/tomato-egg-rice.md",
+  "src/content/recipes/steamed-chicken-bento.md",
+  "src/data/ingredients.json",
+  "src/data/scenarios.json",
+  "src/lib/taxonomy.ts"
 ];
 
 const root = process.cwd();
@@ -61,17 +73,39 @@ const pageExpectations = [
   },
   {
     file: "src/pages/recipes/index.astro",
-    markers: ["關鍵字", "設備", "先看熱門食材"]
+    markers: ["關鍵字", "設備", "RecipeCard", "getCollection(\"recipes\")"]
+  },
+  {
+    file: "src/pages/recipes/[slug].astro",
+    markers: ["常見問題", "相關食譜", "相關食材", "getStaticPaths"]
   },
   {
     file: "src/pages/ingredients/index.astro",
-    markers: ["分類區塊", "熱門食材", "相關情境入口"]
+    markers: ["分類區塊", "熱門食材", "相關情境入口", "getIngredientsByCategory"]
+  },
+  {
+    file: "src/pages/ingredients/[slug].astro",
+    markers: ["保存方式", "相關食譜", "相關情境", "getStaticPaths"]
   },
   {
     file: "src/pages/tools/fridge-recipe.astro",
     markers: ["data-fridge-error", "Placeholder 結果", "data-fridge-results"]
+  },
+  {
+    file: "src/pages/scenarios/index.astro",
+    markers: ["精選情境", "全部情境", "scenarioItems"]
+  },
+  {
+    file: "src/pages/scenarios/[slug].astro",
+    markers: ["推薦食譜", "常見食材", "相關情境", "getStaticPaths"]
   }
 ];
+
+const contentConfig = readFileSync(join(root, "src/content.config.ts"), "utf8");
+if (!contentConfig.includes("defineCollection") || !contentConfig.includes("totalTime")) {
+  console.error("src/content.config.ts must define the recipes collection schema.");
+  process.exit(1);
+}
 
 for (const page of pageExpectations) {
   const source = readFileSync(join(root, page.file), "utf8");

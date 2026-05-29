@@ -1,0 +1,197 @@
+---
+import { getCollection, getEntry } from "astro:content";
+import RecipeCard from "../../components/RecipeCard.astro";
+import RecipeLayout from "../../layouts/RecipeLayout.astro";
+import { getRelatedRecipes } from "../../lib/recipes";
+import { getIngredientByName, getScenarioByName } from "../../lib/taxonomy";
+
+export async function getStaticPaths() {
+  const recipes = await getCollection("recipes");
+
+  return recipes.map((recipe) => ({
+    params: { slug: recipe.slug }
+  }));
+}
+
+const { slug } = Astro.params;
+
+if (!slug) {
+  throw new Error("Recipe slug is required.");
+}
+
+const recipe = await getEntry("recipes", slug);
+
+if (!recipe) {
+  return Astro.redirect("/404");
+}
+
+const allRecipes = await getCollection("recipes");
+const relatedRecipes = getRelatedRecipes(allRecipes, recipe.slug, 3);
+const primaryIngredients = recipe.data.ingredients.slice(0, 4);
+const scenarioLinks = recipe.data.scenarios
+  .map((scenarioName) => getScenarioByName(scenarioName))
+  .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
+---
+
+<RecipeLayout recipe={recipe}>
+  <section class="section">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">首頁</a>
+        <span>/</span>
+        <a href="/recipes">食譜</a>
+        <span>/</span>
+        <span>{recipe.data.title}</span>
+      </nav>
+
+      <section class="recipe-hero">
+        <div>
+          <p class="eyebrow">{recipe.data.category}</p>
+          <h1 class="page-title">{recipe.data.title}</h1>
+          <p class="page-copy">{recipe.data.description}</p>
+
+          <div class="meta-row" aria-label="食譜資訊">
+            <span class="chip note">總時間 {recipe.data.totalTime} 分鐘</span>
+            <span class="chip">備料 {recipe.data.prepTime} 分鐘</span>
+            <span class="chip">烹調 {recipe.data.cookTime} 分鐘</span>
+            <span class="chip">{recipe.data.servings} 人份</span>
+            <span class="chip">{recipe.data.difficulty}</span>
+          </div>
+
+          <div class="chip-row">
+            {recipe.data.equipment.map((item) => <span class="chip note">{item}</span>)}
+            {scenarioLinks.map((item) => <a class="chip" href={`/scenarios/${item.slug}/`}>{item.name}</a>)}
+          </div>
+
+          <div class="section-links">
+            <a class="button" href="/recipes">看全部食譜</a>
+            <a class="button note" href={`/tools/fridge-recipe?ingredients=${encodeURIComponent(primaryIngredients.map((item) => item.name).join("、"))}`}>
+              用這些食材找更多料理
+            </a>
+          </div>
+        </div>
+
+        <div class="card recipe-hero__image">
+          <div class="recipe-image recipe-image--large" aria-hidden="true"></div>
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <div class="article recipe-intro">
+          <p>{recipe.data.intro}</p>
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <div class="recipe-content-grid">
+          <aside class="recipe-aside">
+            <article class="card">
+              <div class="card-body">
+                <p class="eyebrow">食材清單</p>
+                <h2>主要食材</h2>
+                <ul class="detail-list">
+                  {recipe.data.ingredients.map((item) => (
+                    <li>
+                      <span>{item.name}</span>
+                      <strong>{item.amount}{item.unit}</strong>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </article>
+
+            <article class="card">
+              <div class="card-body">
+                <p class="eyebrow">調味料</p>
+                <h2>調味準備</h2>
+                <ul class="detail-list">
+                  {recipe.data.seasonings.map((item) => (
+                    <li>
+                      <span>{item.name}</span>
+                      <strong>{item.amount}{item.unit}</strong>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </article>
+          </aside>
+
+          <div class="recipe-main">
+            <article class="card">
+              <div class="card-body">
+                <p class="eyebrow">料理步驟</p>
+                <h2>照著做就能完成</h2>
+                <ol class="steps-list">
+                  {recipe.data.steps.map((step) => <li>{step}</li>)}
+                </ol>
+              </div>
+            </article>
+
+            <article class="card">
+              <div class="card-body">
+                <p class="eyebrow">小技巧與保存</p>
+                <h2>讓成品更穩定的細節</h2>
+                <ul class="tips-list">
+                  {recipe.data.tips.map((tip) => <li>{tip}</li>)}
+                </ul>
+                <p class="note-block">{recipe.data.storage}</p>
+                {recipe.data.substitutions.length > 0 && (
+                  <>
+                    <h3>可替代食材</h3>
+                    <div class="chip-row">
+                      {recipe.data.substitutions.map((item) => <span class="chip note">{item}</span>)}
+                    </div>
+                  </>
+                )}
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      {recipe.data.faqs.length > 0 && (
+        <section class="section section-compact">
+          <div class="article">
+            <p class="eyebrow">常見問題</p>
+            <div class="faq-list">
+              {recipe.data.faqs.map((faq) => (
+                <article class="card">
+                  <div class="card-body">
+                    <h3>{faq.question}</h3>
+                    <p>{faq.answer}</p>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {relatedRecipes.length > 0 && (
+        <section class="section section-compact">
+          <div class="container">
+            <p class="eyebrow">相關食譜</p>
+            <h2>同情境或相近食材的延伸料理</h2>
+            <div class="grid">
+              {relatedRecipes.map((relatedRecipe) => <RecipeCard recipe={relatedRecipe} />)}
+            </div>
+          </div>
+        </section>
+      )}
+
+      <section class="section section-compact">
+        <div class="container">
+          <p class="eyebrow">相關食材</p>
+          <div class="chip-row">
+            {recipe.data.relatedIngredients.map((item) => {
+              const ingredient = getIngredientByName(item);
+              return (
+                <a class="chip note" href={ingredient ? `/ingredients/${ingredient.slug}/` : "/ingredients"}>{item}</a>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+    </div>
+  </section>
+</RecipeLayout>

@@ -153,11 +153,21 @@ textarea {
   overflow: hidden;
 }
 
+.recipe-card__link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
 .recipe-image {
   aspect-ratio: 4 / 3;
   background:
     linear-gradient(135deg, rgba(47, 125, 79, 0.14), rgba(242, 184, 75, 0.22)),
     var(--note);
+}
+
+.recipe-image--large {
+  min-height: 280px;
 }
 
 .card-body {
@@ -298,6 +308,81 @@ textarea {
   margin-bottom: var(--space-4);
 }
 
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-bottom: var(--space-6);
+  color: var(--mushroom);
+  font-size: 0.92rem;
+}
+
+.recipe-hero {
+  display: grid;
+  gap: var(--space-6);
+}
+
+.recipe-hero__image {
+  overflow: hidden;
+}
+
+.recipe-intro {
+  padding-top: 0;
+}
+
+.recipe-content-grid {
+  display: grid;
+  gap: var(--space-4);
+}
+
+.recipe-aside,
+.recipe-main,
+.faq-list {
+  display: grid;
+  gap: var(--space-4);
+}
+
+.detail-list,
+.steps-list,
+.tips-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.detail-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.detail-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-3);
+  padding: var(--space-2) 0;
+  border-bottom: 1px solid var(--bran-line);
+}
+
+.detail-list li:last-child {
+  border-bottom: 0;
+}
+
+.steps-list li,
+.tips-list li {
+  margin-bottom: var(--space-3);
+}
+
+.note-block {
+  margin: var(--space-4) 0 0;
+  padding: var(--space-3);
+  border-radius: var(--radius-md);
+  background: var(--note);
+  color: var(--soy-ink);
+}
+
+.taxonomy-summary {
+  align-self: start;
+}
+
 .site-header {
   border-bottom: 1px solid var(--bran-line);
   background: rgba(255, 253, 247, 0.92);
@@ -366,6 +451,16 @@ textarea {
 @media (min-width: 960px) {
   .tool-layout {
     grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.95fr);
+    align-items: start;
+  }
+
+  .recipe-hero {
+    grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.9fr);
+    align-items: start;
+  }
+
+  .recipe-content-grid {
+    grid-template-columns: minmax(280px, 0.9fr) minmax(0, 1.1fr);
     align-items: start;
   }
 }

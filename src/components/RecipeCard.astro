@@ -1,0 +1,28 @@
+---
+import type { RecipeEntry } from "../lib/recipes";
+import { getRecipeMeta } from "../lib/recipes";
+
+interface Props {
+  recipe: RecipeEntry;
+}
+
+const { recipe } = Astro.props;
+const meta = getRecipeMeta(recipe);
+---
+
+<article class="card recipe-card">
+  <a class="recipe-card__link" href={`/recipes/${recipe.slug}/`}>
+    <div class="recipe-image" aria-hidden="true"></div>
+    <div class="card-body">
+      <h3>{recipe.data.title}</h3>
+      <p>{recipe.data.description}</p>
+      <div class="meta-row">
+        {meta.map((item) => <span class="chip">{item}</span>)}
+      </div>
+      <div class="chip-row">
+        {recipe.data.ingredients.slice(0, 3).map((item) => <span class="chip note">{item.name}</span>)}
+        {recipe.data.scenarios.slice(0, 2).map((item) => <span class="chip">{item}</span>)}
+      </div>
+    </div>
+  </a>
+</article>

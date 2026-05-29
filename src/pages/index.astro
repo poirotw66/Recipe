@@ -1,26 +1,16 @@
 ---
+import { getCollection } from "astro:content";
+import RecipeCard from "../components/RecipeCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { getFeaturedRecipes, getLatestRecipes } from "../lib/recipes";
 
 const quickIngredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "番茄", "電鍋料理"];
 const scenarios = ["一人料理", "租屋料理", "10 分鐘料理", "電鍋料理", "氣炸鍋料理", "減脂料理"];
-const recipes = [
-  {
-    title: "番茄豆腐炒蛋",
-    meta: "15 分鐘・1 人份・家常快炒",
-    tags: ["雞蛋", "豆腐", "番茄"]
-  },
-  {
-    title: "電鍋雞胸便當菜",
-    meta: "20 分鐘・2 份・便當友善",
-    tags: ["雞胸肉", "電鍋", "高蛋白"]
-  },
-  {
-    title: "高麗菜菇菇拌麵",
-    meta: "12 分鐘・1 人份・冰箱清菜",
-    tags: ["高麗菜", "菇類", "麵條"]
-  }
-];
 const popularIngredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "洋蔥", "青蔥", "馬鈴薯", "白飯"];
+
+const allRecipes = await getCollection("recipes");
+const featuredRecipes = getFeaturedRecipes(allRecipes, 3);
+const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestRecipes(allRecipes, 3);
 ---
 
 <BaseLayout
@@ -80,18 +70,7 @@ const popularIngredients = ["雞蛋", "豆腐", "雞胸肉", "高麗菜", "洋�
       <p class="eyebrow">熱門食譜</p>
       <h2>先看看現在最適合延伸成內容的料理方向</h2>
       <div class="grid">
-        {recipes.map((recipe) => (
-          <article class="card recipe-card">
-            <div class="recipe-image" aria-hidden="true"></div>
-            <div class="card-body">
-              <h3>{recipe.title}</h3>
-              <p>{recipe.meta}</p>
-              <div class="chip-row">
-                {recipe.tags.map((tag) => <span class="chip">{tag}</span>)}
-              </div>
-            </div>
-          </article>
-        ))}
+        {popularRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
       </div>
       <p class="section-action"><a class="button" href="/recipes">看全部食譜</a></p>
     </div>

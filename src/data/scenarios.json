@@ -1,0 +1,62 @@
+[
+  {
+    "name": "一人料理",
+    "slug": "one-person-meal",
+    "description": "適合一個人吃、份量剛好、不想洗太多鍋的簡單料理。",
+    "seoTitle": "一人料理食譜｜適合租屋族的簡單晚餐",
+    "seoDescription": "整理適合一個人吃的一人料理，包含雞蛋、豆腐、剩飯與快手晚餐。",
+    "tags": ["一人份", "家常", "省事"],
+    "relatedScenarios": ["ten-minute-meals", "budget-meals"],
+    "commonIngredients": ["egg", "tofu", "rice"]
+  },
+  {
+    "name": "10 分鐘料理",
+    "slug": "ten-minute-meals",
+    "description": "留給下班後或不想花太多時間時的快手料理入口。",
+    "seoTitle": "10 分鐘料理食譜｜快速完成的家常晚餐",
+    "seoDescription": "想快速做飯時，可以從 10 分鐘料理開始找，適合雞蛋、番茄、豆腐這類常備食材。",
+    "tags": ["快手", "下班晚餐", "懶人料理"],
+    "relatedScenarios": ["one-person-meal", "budget-meals"],
+    "commonIngredients": ["egg", "tofu", "tomato"]
+  },
+  {
+    "name": "高蛋白料理",
+    "slug": "high-protein-meals",
+    "description": "優先考慮蛋白質攝取與飽足感的料理情境。",
+    "seoTitle": "高蛋白料理食譜｜雞胸肉與豆腐的簡單做法",
+    "seoDescription": "整理高蛋白料理，適合用雞胸肉、雞蛋、豆腐做出簡單但有飽足感的餐點。",
+    "tags": ["高蛋白", "健身", "主菜"],
+    "relatedScenarios": ["weight-loss-meals", "bento-meals"],
+    "commonIngredients": ["chicken-breast", "egg", "tofu"]
+  },
+  {
+    "name": "減脂料理",
+    "slug": "weight-loss-meals",
+    "description": "偏清爽、份量穩定、適合規律飲食安排的料理情境。",
+    "seoTitle": "減脂料理食譜｜清爽又有飽足感的家常菜",
+    "seoDescription": "想找減脂料理時，可以從雞胸肉、青花菜、菇類等食材出發。",
+    "tags": ["減脂", "清爽", "高纖"],
+    "relatedScenarios": ["high-protein-meals", "bento-meals"],
+    "commonIngredients": ["chicken-breast", "broccoli", "mushroom"]
+  },
+  {
+    "name": "便當菜",
+    "slug": "bento-meals",
+    "description": "適合提前準備、隔天帶出門也能維持口感的料理。",
+    "seoTitle": "便當菜食譜｜提早準備也好吃的家常主菜",
+    "seoDescription": "整理適合便當的料理情境，包含電鍋雞胸肉、菇類配菜與穩定主食搭配。",
+    "tags": ["便當", "可分裝", "工作日"],
+    "relatedScenarios": ["high-protein-meals", "weight-loss-meals"],
+    "commonIngredients": ["chicken-breast", "broccoli", "rice"]
+  },
+  {
+    "name": "省錢料理",
+    "slug": "budget-meals",
+    "description": "用常見、單價低、好取得的食材，做出撐得住平日的晚餐。",
+    "seoTitle": "省錢料理食譜｜用雞蛋豆腐做出家常晚餐",
+    "seoDescription": "當你想控制餐費時，可以先從雞蛋、豆腐、剩飯這些常備食材找菜。",
+    "tags": ["省錢", "家常", "常備菜"],
+    "relatedScenarios": ["one-person-meal", "ten-minute-meals"],
+    "commonIngredients": ["egg", "tofu", "rice"]
+  }
+]

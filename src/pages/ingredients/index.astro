@@ -1,27 +1,17 @@
 ---
+import { getCollection } from "astro:content";
+import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import { sortRecipesByPublishedDate } from "../../lib/recipes";
+import { getIngredientsByCategory, ingredientItems, scenarioItems } from "../../lib/taxonomy";
 
-const ingredientCategories = [
-  { name: "蛋類", items: ["雞蛋", "鹹蛋", "皮蛋"] },
-  { name: "豆製品", items: ["板豆腐", "嫩豆腐", "豆乾"] },
-  { name: "肉類", items: ["雞胸肉", "絞肉", "豬里肌"] },
-  { name: "蔬菜", items: ["高麗菜", "洋蔥", "青花菜"] },
-  { name: "罐頭", items: ["鮪魚罐頭", "玉米粒", "番茄罐"] },
-  { name: "主食", items: ["白飯", "麵條", "冬粉"] }
-];
-const popularIngredients = [
-  "雞蛋",
-  "豆腐",
-  "雞胸肉",
-  "高麗菜",
-  "洋蔥",
-  "青蔥",
-  "番茄",
-  "馬鈴薯",
-  "白飯",
-  "麵條"
-];
-const relatedScenarios = ["一人料理", "10 分鐘料理", "冰箱剩料料理"];
+const groupedIngredients = getIngredientsByCategory();
+const popularIngredients = ingredientItems.slice(0, 8);
+const relatedScenarios = scenarioItems.slice(0, 3);
+const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+const featuredRecipes = recipes.filter((recipe) =>
+  recipe.data.ingredients.some((item) => popularIngredients.some((ingredient) => ingredient.name === item.name))
+).slice(0, 3);
 ---
 
 <BaseLayout
@@ -34,7 +24,7 @@ const relatedScenarios = ["一人料理", "10 分鐘料理", "冰箱剩料料理
       <p class="eyebrow">Ingredients</p>
       <h1 class="page-title">食材列表</h1>
       <p class="page-copy">
-        這裡先建立食材入口骨架，保留後續 spec-003 接上食材資料、保存方式與相關食譜的空間。
+        這裡已接上食材資料檔，先從分類、熱門食材與相關情境開始找，再慢慢縮小到適合今晚的料理方向。
       </p>
 
       <div class="search-panel">
@@ -50,12 +40,12 @@ const relatedScenarios = ["一人料理", "10 分鐘料理", "冰箱剩料料理
       <section class="section section-compact">
         <p class="eyebrow">分類區塊</p>
         <div class="grid">
-          {ingredientCategories.map((category) => (
+          {Object.entries(groupedIngredients).map(([category, items]) => (
             <article class="card">
               <div class="card-body">
-                <h2>{category.name}</h2>
+                <h2>{category}</h2>
                 <div class="chip-row">
-                  {category.items.map((item) => <a class="chip note" href="/ingredients">{item}</a>)}
+                  {items.map((item) => <a class="chip note" href={`/ingredients/${item.slug}/`}>{item.name}</a>)}
                 </div>
               </div>
             </article>
@@ -66,14 +56,21 @@ const relatedScenarios = ["一人料理", "10 分鐘料理", "冰箱剩料料理
       <section class="section section-compact">
         <p class="eyebrow">熱門食材</p>
         <div class="chip-row" aria-label="熱門食材">
-          {popularIngredients.map((ingredient) => <a class="chip" href="/ingredients">{ingredient}</a>)}
+          {popularIngredients.map((ingredient) => <a class="chip" href={`/ingredients/${ingredient.slug}/`}>{ingredient.name}</a>)}
         </div>
       </section>
 
       <section class="section section-compact">
         <p class="eyebrow">相關情境入口</p>
         <div class="chip-row" aria-label="相關情境入口">
-          {relatedScenarios.map((scenario) => <a class="chip note" href="/scenarios">{scenario}</a>)}
+          {relatedScenarios.map((scenario) => <a class="chip note" href={`/scenarios/${scenario.slug}/`}>{scenario.name}</a>)}
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <p class="eyebrow">熱門食譜</p>
+        <div class="grid">
+          {featuredRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
         </div>
       </section>
     </div>

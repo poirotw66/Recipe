@@ -1,0 +1,16 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import type { RecipeEntry } from "../lib/recipes";
+
+interface Props {
+  recipe: RecipeEntry;
+}
+
+const { recipe } = Astro.props;
+const description = recipe.data.description;
+const canonicalPath = `/recipes/${recipe.slug}/`;
+---
+
+<BaseLayout title={recipe.data.title} description={description} canonicalPath={canonicalPath}>
+  <slot />
+</BaseLayout>
