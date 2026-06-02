@@ -2,7 +2,7 @@
 title: "胡蘿蔔雞胸飯"
 slug: "carrot-chicken-rice-bowl"
 description: "胡蘿蔔雞胸飯把雞胸肉、胡蘿蔔和白飯組成簡單便當，蛋白質充足。"
-coverImage: "/images/recipes/carrot-chicken-rice-bowl.webp"
+coverImage: "/images/recipes/carrot-chicken-rice-bowl.svg"
 servings: 2
 prepTime: 8
 cookTime: 15

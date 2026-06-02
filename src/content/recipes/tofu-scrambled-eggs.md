@@ -2,7 +2,7 @@
 title: "豆腐炒蛋"
 slug: "tofu-scrambled-eggs"
 description: "豆腐炒蛋是適合一人晚餐的 12 分鐘料理，只需要豆腐、雞蛋和蔥花就能完成。"
-coverImage: "/images/recipes/tofu-scrambled-eggs.webp"
+coverImage: "/images/recipes/tofu-scrambled-eggs.svg"
 servings: 1
 prepTime: 4
 cookTime: 8

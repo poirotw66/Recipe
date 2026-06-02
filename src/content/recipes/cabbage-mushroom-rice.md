@@ -2,7 +2,7 @@
 title: "高麗菜菇菇炊飯"
 slug: "cabbage-mushroom-rice"
 description: "高麗菜菇菇炊飯用電鍋完成，適合清冰箱與省錢備餐。"
-coverImage: "/images/recipes/cabbage-mushroom-rice.webp"
+coverImage: "/images/recipes/cabbage-mushroom-rice.svg"
 servings: 3
 prepTime: 8
 cookTime: 25

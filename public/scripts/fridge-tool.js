@@ -117,10 +117,15 @@ const renderRecipeCard = (recipe) => {
     ? `<div class="chip-row">${recipe.matchedPreferences.map((item) => `<span class="chip">${item}</span>`).join("")}</div>`
     : "";
 
+  const imageAlt = `${recipe.title}成品圖`;
+  const imageMarkup = recipe.coverImage
+    ? `<div class="recipe-image"><img src="${recipe.coverImage}" alt="${imageAlt}" loading="lazy" decoding="async" width="800" height="600" /></div>`
+    : `<div class="recipe-image" aria-hidden="true"></div>`;
+
   return `
     <article class="card recipe-card fridge-result-card">
       <a class="recipe-card__link" href="/recipes/${recipe.slug}/">
-        <div class="recipe-image" aria-hidden="true"></div>
+        ${imageMarkup}
         <div class="card-body">
           <h3>${recipe.title}</h3>
           <p>${recipe.description}</p>

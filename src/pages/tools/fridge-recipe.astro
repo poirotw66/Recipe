@@ -8,6 +8,7 @@ const quickIngredients = ["雞蛋", "豆腐", "番茄", "雞胸肉", "高麗菜"
 const recipes = (await getCollection("recipes")).map((recipe) => ({
   slug: recipe.slug,
   title: recipe.data.title,
+  coverImage: recipe.data.coverImage,
   description: recipe.data.description,
   totalTime: recipe.data.totalTime,
   protein: recipe.data.protein ?? 0,

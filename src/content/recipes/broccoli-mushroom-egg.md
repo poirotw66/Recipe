@@ -2,7 +2,7 @@
 title: "青花菜菇菇炒蛋"
 slug: "broccoli-mushroom-egg"
 description: "青花菜菇菇炒蛋是高纖高蛋白的快炒菜，適合減脂晚餐。"
-coverImage: "/images/recipes/broccoli-mushroom-egg.webp"
+coverImage: "/images/recipes/broccoli-mushroom-egg.svg"
 servings: 2
 prepTime: 7
 cookTime: 10

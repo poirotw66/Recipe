@@ -1,0 +1,14 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  large?: boolean;
+}
+
+const { src, alt, large = false } = Astro.props;
+const classNames = large ? "recipe-image recipe-image--large" : "recipe-image";
+---
+
+<div class={classNames}>
+  <img src={src} alt={alt} loading="lazy" decoding="async" width="800" height="600" />
+</div>

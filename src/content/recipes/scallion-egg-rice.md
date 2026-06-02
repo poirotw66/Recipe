@@ -2,7 +2,7 @@
 title: "蔥蛋拌飯"
 slug: "scallion-egg-rice"
 description: "蔥蛋拌飯只需要白飯、雞蛋和青蔥，10 分鐘完成一人份快速晚餐。"
-coverImage: "/images/recipes/scallion-egg-rice.webp"
+coverImage: "/images/recipes/scallion-egg-rice.svg"
 servings: 1
 prepTime: 3
 cookTime: 7

@@ -3,6 +3,7 @@ import { getCollection, getEntry } from "astro:content";
 import AdSlot from "../../components/AdSlot.astro";
 import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
+import RecipeImage from "../../components/RecipeImage.astro";
 import RecipeLayout from "../../layouts/RecipeLayout.astro";
 import { getRelatedRecipes } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildFaqJsonLd, buildRecipeJsonLd } from "../../lib/seo";
@@ -88,7 +89,7 @@ const faqJsonLd = recipe.data.faqs.length > 0 ? buildFaqJsonLd(recipe.data.faqs)
         </div>
 
         <div class="card recipe-hero__image">
-          <div class="recipe-image recipe-image--large" aria-hidden="true"></div>
+          <RecipeImage src={recipe.data.coverImage} alt={`${recipe.data.title}成品圖`} large />
         </div>
       </section>
 

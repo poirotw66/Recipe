@@ -1,4 +1,5 @@
 ---
+import RecipeImage from "./RecipeImage.astro";
 import type { RecipeEntry } from "../lib/recipes";
 import { getRecipeMeta } from "../lib/recipes";
 
@@ -12,7 +13,7 @@ const meta = getRecipeMeta(recipe);
 
 <article class="card recipe-card">
   <a class="recipe-card__link" href={`/recipes/${recipe.slug}/`}>
-    <div class="recipe-image" aria-hidden="true"></div>
+    <RecipeImage src={recipe.data.coverImage} alt={`${recipe.data.title}成品圖`} />
     <div class="card-body">
       <h3>{recipe.data.title}</h3>
       <p>{recipe.data.description}</p>

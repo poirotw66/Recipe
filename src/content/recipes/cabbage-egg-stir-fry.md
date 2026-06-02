@@ -2,7 +2,7 @@
 title: "高麗菜炒蛋"
 slug: "cabbage-egg-stir-fry"
 description: "高麗菜炒蛋是 15 分鐘內能完成的省錢家常菜，適合一人晚餐或便當配菜。"
-coverImage: "/images/recipes/cabbage-egg-stir-fry.webp"
+coverImage: "/images/recipes/cabbage-egg-stir-fry.svg"
 servings: 2
 prepTime: 5
 cookTime: 10

@@ -2,7 +2,7 @@
 title: "氣炸鮭魚青花菜"
 slug: "air-fryer-salmon-broccoli"
 description: "氣炸鮭魚青花菜是一道少油高蛋白料理，20 分鐘完成主菜和蔬菜。"
-coverImage: "/images/recipes/air-fryer-salmon-broccoli.webp"
+coverImage: "/images/recipes/air-fryer-salmon-broccoli.svg"
 servings: 1
 prepTime: 6
 cookTime: 14
