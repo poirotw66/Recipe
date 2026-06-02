@@ -49,7 +49,7 @@ Node.js version: 20 or 22
 Environment variables:
 
 ```text
-PUBLIC_SITE_URL=https://your-domain.example
+PUBLIC_SITE_URL=https://recipe.bloss0m.com
 PUBLIC_SITE_NAME=今天煮什麼
 PUBLIC_ADSENSE_CLIENT=ca-pub-xxxxxxxxxxxxxxxx
 ```
