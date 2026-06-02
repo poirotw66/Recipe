@@ -9,9 +9,27 @@ interface Props {
 
 const { recipe } = Astro.props;
 const meta = getRecipeMeta(recipe);
+const equipmentText = recipe.data.equipment.join(",");
+const searchableText = [
+  recipe.data.title,
+  recipe.data.description,
+  recipe.data.category,
+  ...recipe.data.scenarios,
+  ...recipe.data.equipment,
+  ...recipe.data.tags,
+  ...recipe.data.ingredients.map((item) => item.name)
+]
+  .join(" ")
+  .toLowerCase();
 ---
 
-<article class="card recipe-card">
+<article
+  class="card recipe-card"
+  data-recipe-search={searchableText}
+  data-recipe-category={recipe.data.category}
+  data-recipe-time={String(recipe.data.totalTime)}
+  data-recipe-equipment={equipmentText}
+>
   <a class="recipe-card__link" href={`/recipes/${recipe.slug}/`}>
     <RecipeImage src={recipe.data.coverImage} alt={`${recipe.data.title}成品圖`} />
     <div class="card-body">

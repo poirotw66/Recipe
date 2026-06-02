@@ -250,6 +250,10 @@ textarea {
   color: var(--soy-ink);
 }
 
+.is-hidden {
+  display: none !important;
+}
+
 .chip-active {
   border-color: var(--scallion);
   background: rgba(47, 125, 79, 0.12);

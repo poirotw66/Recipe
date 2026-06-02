@@ -31,7 +31,10 @@ if (!scenario) {
 }
 
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
-const relatedRecipes = getRecipesByScenario(recipes, scenario.slug).slice(0, 6);
+const allRelatedRecipes = getRecipesByScenario(recipes, scenario.slug);
+const relatedRecipePreviewLimit = 12;
+const relatedRecipes = allRelatedRecipes.slice(0, relatedRecipePreviewLimit);
+const hasMoreRelatedRecipes = allRelatedRecipes.length > relatedRecipePreviewLimit;
 const commonIngredients = scenario.commonIngredients
   .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
   .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient));
@@ -83,6 +86,13 @@ const scenarioJsonLd = buildThingJsonLd(scenario);
         <div class="grid">
           {relatedRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
         </div>
+        {hasMoreRelatedRecipes && (
+          <div class="section-links">
+            <a class="button note" href={`/recipes?keyword=${encodeURIComponent(scenario.name)}`}>
+              看更多同情境食譜
+            </a>
+          </div>
+        )}
       </section>
 
       <section class="section section-compact">

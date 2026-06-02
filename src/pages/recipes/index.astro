@@ -7,7 +7,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { buildCollectionPageJsonLd } from "../../lib/seo";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 
-const categories = ["全部", "家常快炒", "便當菜", "一鍋到底", "早餐"];
+const categories = ["全部", "家常菜", "飯麵", "主菜", "湯品", "便當菜"];
 const times = ["全部", "10 分鐘內", "15 分鐘內", "30 分鐘內"];
 const tools = ["全部", "平底鍋", "電鍋", "湯鍋", "氣炸鍋"];
 
@@ -36,29 +36,53 @@ const collectionJsonLd = buildCollectionPageJsonLd(
       <div class="search-panel">
         <label class="field">
           <span class="eyebrow">關鍵字搜尋</span>
-          <input type="search" name="keyword" placeholder="例如：蛋、豆腐、便當" />
+          <input
+            type="search"
+            name="keyword"
+            placeholder="例如：蛋、豆腐、便當"
+            data-recipe-keyword
+            autocomplete="off"
+          />
         </label>
         <div class="filter-group">
           <p class="filter-label">類型</p>
           <div class="filter-bar">
-            {categories.map((filter) => <button class="chip" type="button">{filter}</button>)}
+            {categories.map((filter) => (
+              <button class="chip" type="button" data-filter-group="category" data-filter-value={filter}>
+                {filter}
+              </button>
+            ))}
           </div>
         </div>
         <div class="filter-group">
           <p class="filter-label">時間</p>
           <div class="filter-bar">
-            {times.map((filter) => <button class="chip" type="button">{filter}</button>)}
+            {times.map((filter) => (
+              <button class="chip" type="button" data-filter-group="time" data-filter-value={filter}>
+                {filter}
+              </button>
+            ))}
           </div>
         </div>
         <div class="filter-group">
           <p class="filter-label">工具</p>
           <div class="filter-bar">
-            {tools.map((filter) => <button class="chip" type="button">{filter}</button>)}
+            {tools.map((filter) => (
+              <button class="chip" type="button" data-filter-group="tool" data-filter-value={filter}>
+                {filter}
+              </button>
+            ))}
           </div>
+        </div>
+        <div class="section-links">
+          <button class="button" type="button" data-reset-filters hidden>清除全部篩選</button>
         </div>
       </div>
 
-      <div class="grid">
+      <p class="caption" data-recipe-result-count>目前共 {recipes.length} 道食譜</p>
+      <p class="form-error" data-recipe-empty hidden>找不到符合條件的食譜，請換一個關鍵字。</p>
+
+      <div class="grid" data-recipe-grid>
         {recipes.map((recipe) => <RecipeCard recipe={recipe} />)}
       </div>
 
@@ -72,4 +96,153 @@ const collectionJsonLd = buildCollectionPageJsonLd(
       </div>
     </div>
   </section>
+
+  <script>
+    const keywordInput = document.querySelector("[data-recipe-keyword]");
+    const resultCount = document.querySelector("[data-recipe-result-count]");
+    const emptyState = document.querySelector("[data-recipe-empty]");
+    const recipeCards = Array.from(document.querySelectorAll("[data-recipe-search]"));
+    const filterButtons = Array.from(document.querySelectorAll("[data-filter-group]"));
+    const resetButton = document.querySelector("[data-reset-filters]");
+
+    if (
+      keywordInput instanceof HTMLInputElement &&
+      resultCount instanceof HTMLElement &&
+      emptyState instanceof HTMLElement &&
+      recipeCards.length > 0 &&
+      filterButtons.length > 0
+    ) {
+      const normalize = (value) => value.trim().toLowerCase();
+      const state = {
+        keyword: "",
+        category: "全部",
+        time: "全部",
+        tool: "全部"
+      };
+
+      const timeMatched = (timeLabel, totalTime) => {
+        if (timeLabel === "全部") return true;
+        if (timeLabel === "10 分鐘內") return totalTime <= 10;
+        if (timeLabel === "15 分鐘內") return totalTime <= 15;
+        if (timeLabel === "30 分鐘內") return totalTime <= 30;
+        return true;
+      };
+
+      const markActiveChip = () => {
+        filterButtons.forEach((button) => {
+          if (!(button instanceof HTMLElement)) return;
+          const group = button.dataset.filterGroup;
+          const value = button.dataset.filterValue ?? "";
+          const activeValue = group ? state[group] : "";
+          button.classList.toggle("chip-active", value === activeValue);
+        });
+
+        if (resetButton instanceof HTMLButtonElement) {
+          const hasActiveFilters =
+            state.keyword.length > 0 ||
+            state.category !== "全部" ||
+            state.time !== "全部" ||
+            state.tool !== "全部";
+          resetButton.hidden = !hasActiveFilters;
+        }
+      };
+
+      const syncParams = () => {
+        const url = new URL(window.location.href);
+        if (state.keyword.length > 0) {
+          url.searchParams.set("keyword", state.keyword);
+        } else {
+          url.searchParams.delete("keyword");
+        }
+        if (state.category !== "全部") {
+          url.searchParams.set("category", state.category);
+        } else {
+          url.searchParams.delete("category");
+        }
+        if (state.time !== "全部") {
+          url.searchParams.set("time", state.time);
+        } else {
+          url.searchParams.delete("time");
+        }
+        if (state.tool !== "全部") {
+          url.searchParams.set("tool", state.tool);
+        } else {
+          url.searchParams.delete("tool");
+        }
+        window.history.replaceState({}, "", `${url.pathname}${url.search}`);
+      };
+
+      const applyFilter = () => {
+        const keyword = normalize(state.keyword);
+        let visibleCount = 0;
+
+        recipeCards.forEach((card) => {
+          const haystack = (card.getAttribute("data-recipe-search") ?? "").toLowerCase();
+          const category = card.getAttribute("data-recipe-category") ?? "";
+          const totalTime = Number(card.getAttribute("data-recipe-time") ?? "0");
+          const equipment = card.getAttribute("data-recipe-equipment") ?? "";
+
+          const keywordMatched = keyword.length === 0 || haystack.includes(keyword);
+          const categoryMatched = state.category === "全部" || category === state.category;
+          const timeFilterMatched = timeMatched(state.time, totalTime);
+          const toolMatched = state.tool === "全部" || equipment.includes(state.tool);
+          const matched = keywordMatched && categoryMatched && timeFilterMatched && toolMatched;
+
+          card.classList.toggle("is-hidden", !matched);
+          if (matched) visibleCount += 1;
+        });
+
+        const activeFilters = [];
+        if (state.keyword.length > 0) activeFilters.push(`關鍵字「${state.keyword}」`);
+        if (state.category !== "全部") activeFilters.push(`類型「${state.category}」`);
+        if (state.time !== "全部") activeFilters.push(`時間「${state.time}」`);
+        if (state.tool !== "全部") activeFilters.push(`工具「${state.tool}」`);
+
+        resultCount.textContent = activeFilters.length > 0
+          ? `${activeFilters.join("、")}共找到 ${visibleCount} 道食譜`
+          : `目前共 ${recipeCards.length} 道食譜`;
+        emptyState.hidden = visibleCount > 0;
+        markActiveChip();
+      };
+
+      const params = new URLSearchParams(window.location.search);
+      state.keyword = params.get("keyword")?.trim() ?? "";
+      state.category = params.get("category")?.trim() || "全部";
+      state.time = params.get("time")?.trim() || "全部";
+      state.tool = params.get("tool")?.trim() || "全部";
+      keywordInput.value = state.keyword;
+      applyFilter();
+
+      keywordInput.addEventListener("input", () => {
+        state.keyword = keywordInput.value.trim();
+        applyFilter();
+        syncParams();
+      });
+
+      filterButtons.forEach((button) => {
+        if (!(button instanceof HTMLElement)) return;
+        button.addEventListener("click", () => {
+          const group = button.dataset.filterGroup;
+          const value = button.dataset.filterValue;
+          if (!group || !value) return;
+          state[group] = value;
+          applyFilter();
+          syncParams();
+        });
+      });
+
+      if (resetButton instanceof HTMLButtonElement) {
+        resetButton.addEventListener("click", () => {
+          state.keyword = "";
+          state.category = "全部";
+          state.time = "全部";
+          state.tool = "全部";
+          keywordInput.value = "";
+          applyFilter();
+          syncParams();
+          keywordInput.focus();
+        });
+      }
+    }
+  </script>
 </BaseLayout>
