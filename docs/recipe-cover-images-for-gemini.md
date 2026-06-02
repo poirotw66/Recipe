@@ -144,12 +144,12 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 
 ## 圖片進度狀態
 
-- ✅ **已完成（前 12 篇）**：1 ~ 12
-- 🟡 **待新增（後 38 篇）**：13 ~ 50
+- ✅ **已完成（前 29 篇）**：1 ~ 29
+- 🟡 **待新增（後 21 篇）**：30 ~ 50
 
 ---
 
-## 已完成（1~12）純文字條列
+## 已完成（1~29）純文字條列
 
 1. 番茄雞蛋飯  
 2. 蔥蛋拌飯  
@@ -163,29 +163,23 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 10. 番茄豆腐湯  
 11. 氣炸鮭魚青花菜  
 12. 電鍋雞胸便當菜  
-
----
-
-## 待新增（13~22）
-
-（既有 12 張已補齊；以下為新一批待補 10 張。）
-
-### 第二批待補圖（10）
-
-| # | 食譜名稱 | slug | 建議檔名 |
-| --- | --- | --- | --- |
-| 13 | 蒜香番茄豆腐炒蛋 | `garlic-tomato-tofu-eggs` | `garlic-tomato-tofu-eggs.webp` |
-| 14 | 高麗菜洋蔥炒蛋 | `cabbage-onion-eggs` | `cabbage-onion-eggs.webp` |
-| 15 | 菇菇青蔥滑蛋 | `mushroom-scallion-soft-eggs` | `mushroom-scallion-soft-eggs.webp` |
-| 16 | 蒜頭高麗菜豆腐煮 | `garlic-cabbage-tofu-braise` | `garlic-cabbage-tofu-braise.webp` |
-| 17 | 洋蔥番茄蛋炒飯 | `onion-tomato-egg-fried-rice` | `onion-tomato-egg-fried-rice.webp` |
-| 18 | 青蔥雞胸拌飯 | `scallion-chicken-rice-bowl` | `scallion-chicken-rice-bowl.webp` |
-| 19 | 菇菇高麗菜燴飯 | `mushroom-cabbage-rice-bowl` | `mushroom-cabbage-rice-bowl.webp` |
-| 20 | 氣炸蒜香雞胸佐青花菜 | `airfryer-garlic-chicken-broccoli` | `airfryer-garlic-chicken-broccoli.webp` |
-| 21 | 番茄洋蔥豆腐湯 | `tomato-onion-tofu-soup` | `tomato-onion-tofu-soup.webp` |
-| 22 | 電鍋青花菜雞胸便當菜 | `electricpot-broccoli-chicken-bento` | `electricpot-broccoli-chicken-bento.webp` |
-
-> 你之後補圖時，優先把上述 10 篇的 `coverImage` 從 `placeholder-recipe.svg` 改成對應 `.webp` 路徑。
+13. 蒜香番茄豆腐炒蛋  
+14. 高麗菜洋蔥炒蛋  
+15. 菇菇青蔥滑蛋  
+16. 蒜頭高麗菜豆腐煮  
+17. 洋蔥番茄蛋炒飯  
+18. 青蔥雞胸拌飯  
+19. 菇菇高麗菜燴飯  
+20. 氣炸蒜香雞胸佐青花菜  
+21. 番茄洋蔥豆腐湯  
+22. 電鍋青花菜雞胸便當菜  
+23. 麻油洋蔥雞胸拌飯  
+24. 番茄青花菜蛋炒飯  
+25. 蒜香菇豆腐拌飯  
+26. 高麗菜胡蘿蔔雞胸飯  
+27. 醬香蒜煎雞胸  
+28. 洋蔥香煎鮭魚排  
+29. 氣炸豆腐菇菇主菜  
 
 ---
 
@@ -255,19 +249,12 @@ A highly appetizing Taiwanese electric-pot steamed chicken and broccoli bento, s
 
 ---
 
-## 待新增（23~35）
+## 待新增（30~35）
 
-### 第三批待補圖（13）
+### 第三批待補圖（剩餘 6 張）
 
 | # | 食譜名稱 | slug | 建議檔名 |
 | --- | --- | --- | --- |
-| 23 | 麻油洋蔥雞胸拌飯 | `sesame-onion-chicken-rice-bowl` | `sesame-onion-chicken-rice-bowl.webp` |
-| 24 | 番茄青花菜蛋炒飯 | `tomato-broccoli-egg-rice` | `tomato-broccoli-egg-rice.webp` |
-| 25 | 蒜香菇豆腐拌飯 | `garlic-mushroom-tofu-rice-bowl` | `garlic-mushroom-tofu-rice-bowl.webp` |
-| 26 | 高麗菜胡蘿蔔雞胸飯 | `cabbage-carrot-chicken-rice-bowl` | `cabbage-carrot-chicken-rice-bowl.webp` |
-| 27 | 醬香蒜煎雞胸 | `soy-garlic-chicken-breast-pan` | `soy-garlic-chicken-breast-pan.webp` |
-| 28 | 洋蔥香煎鮭魚排 | `onion-salmon-pan-steak` | `onion-salmon-pan-steak.webp` |
-| 29 | 氣炸豆腐菇菇主菜 | `airfryer-tofu-mushroom-main` | `airfryer-tofu-mushroom-main.webp` |
 | 30 | 高麗菜豆腐蛋花湯 | `cabbage-tofu-egg-drop-soup` | `cabbage-tofu-egg-drop-soup.webp` |
 | 31 | 青花菜洋蔥雞湯 | `broccoli-onion-chicken-soup` | `broccoli-onion-chicken-soup.webp` |
 | 32 | 電鍋菇菇雞胸便當菜 | `electricpot-mushroom-chicken-bento` | `electricpot-mushroom-chicken-bento.webp` |
