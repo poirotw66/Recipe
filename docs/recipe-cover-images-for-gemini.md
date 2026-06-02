@@ -144,12 +144,12 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 
 ## 圖片進度狀態
 
-- ✅ **已完成（前 29 篇）**：1 ~ 29
-- 🟡 **待新增（後 21 篇）**：30 ~ 50
+- ✅ **已完成（前 35 篇）**：1 ~ 35
+- 🟡 **待新增（後 15 篇）**：36 ~ 50
 
 ---
 
-## 已完成（1~29）純文字條列
+## 已完成（1~35）純文字條列
 
 1. 番茄雞蛋飯  
 2. 蔥蛋拌飯  
@@ -180,6 +180,12 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 27. 醬香蒜煎雞胸  
 28. 洋蔥香煎鮭魚排  
 29. 氣炸豆腐菇菇主菜  
+30. 高麗菜豆腐蛋花湯  
+31. 青花菜洋蔥雞湯  
+32. 電鍋菇菇雞胸便當菜  
+33. 蒜香蛋炒高麗菜便當菜  
+34. 番茄洋蔥滑蛋  
+35. 豆腐高麗菜菇菇炒  
 
 ---
 
@@ -248,19 +254,6 @@ A highly appetizing Taiwanese electric-pot steamed chicken and broccoli bento, s
 ```
 
 ---
-
-## 待新增（30~35）
-
-### 第三批待補圖（剩餘 6 張）
-
-| # | 食譜名稱 | slug | 建議檔名 |
-| --- | --- | --- | --- |
-| 30 | 高麗菜豆腐蛋花湯 | `cabbage-tofu-egg-drop-soup` | `cabbage-tofu-egg-drop-soup.webp` |
-| 31 | 青花菜洋蔥雞湯 | `broccoli-onion-chicken-soup` | `broccoli-onion-chicken-soup.webp` |
-| 32 | 電鍋菇菇雞胸便當菜 | `electricpot-mushroom-chicken-bento` | `electricpot-mushroom-chicken-bento.webp` |
-| 33 | 蒜香蛋炒高麗菜便當菜 | `garlic-egg-cabbage-bento-side` | `garlic-egg-cabbage-bento-side.webp` |
-| 34 | 番茄洋蔥滑蛋 | `tomato-onion-scrambled-eggs` | `tomato-onion-scrambled-eggs.webp` |
-| 35 | 豆腐高麗菜菇菇炒 | `tofu-cabbage-mushroom-stirfry` | `tofu-cabbage-mushroom-stirfry.webp` |
 
 ## 待新增 13 篇 Gemini Prompt（23~35）
 
