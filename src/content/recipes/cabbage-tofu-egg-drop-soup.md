@@ -2,7 +2,7 @@
 title: "高麗菜豆腐蛋花湯"
 slug: "cabbage-tofu-egg-drop-soup"
 description: "高麗菜煮軟後加入豆腐與蛋花，口味清淡但有飽足感，適合晚餐配菜。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/cabbage-tofu-egg-drop-soup.webp"
 servings: 2
 prepTime: 7
 cookTime: 12

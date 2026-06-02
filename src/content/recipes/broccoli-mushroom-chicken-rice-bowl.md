@@ -2,7 +2,7 @@
 title: "青花菜菇菇雞胸飯"
 slug: "broccoli-mushroom-chicken-rice-bowl"
 description: "雞胸肉、青花菜與菇類一次炒好，直接配飯就是完整一餐。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/broccoli-mushroom-chicken-rice-bowl.webp"
 servings: 2
 prepTime: 10
 cookTime: 12

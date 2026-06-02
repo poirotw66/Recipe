@@ -2,7 +2,7 @@
 title: "高麗菜洋蔥炒蛋"
 slug: "cabbage-onion-eggs"
 description: "高麗菜和洋蔥先炒出甜味，再和雞蛋一起收汁，是省錢又下飯的平日菜。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/cabbage-onion-eggs.webp"
 servings: 2
 prepTime: 8
 cookTime: 9

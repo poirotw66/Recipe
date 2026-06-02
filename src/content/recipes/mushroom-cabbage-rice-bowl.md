@@ -2,7 +2,7 @@
 title: "菇菇高麗菜燴飯"
 slug: "mushroom-cabbage-rice-bowl"
 description: "菇類和高麗菜一起燴煮後淋在白飯上，口味溫和、份量感足，適合平日晚餐。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/mushroom-cabbage-rice-bowl.webp"
 servings: 2
 prepTime: 8
 cookTime: 12

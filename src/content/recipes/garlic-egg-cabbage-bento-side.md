@@ -2,7 +2,7 @@
 title: "蒜香蛋炒高麗菜便當菜"
 slug: "garlic-egg-cabbage-bento-side"
 description: "高麗菜和雞蛋快炒後加蒜香提味，做成便當配菜很耐吃，也不容易失水。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/garlic-egg-cabbage-bento-side.webp"
 servings: 2
 prepTime: 7
 cookTime: 8

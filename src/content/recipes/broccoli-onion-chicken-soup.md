@@ -2,7 +2,7 @@
 title: "青花菜洋蔥雞湯"
 slug: "broccoli-onion-chicken-soup"
 description: "雞胸肉和洋蔥先煮出湯底，再放青花菜提味，做成一鍋清爽又有蛋白質的家常湯。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/broccoli-onion-chicken-soup.webp"
 servings: 2
 prepTime: 9
 cookTime: 14

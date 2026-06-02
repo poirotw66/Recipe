@@ -196,61 +196,61 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 ### 13. 蒜香番茄豆腐炒蛋 — `garlic-tomato-tofu-eggs.webp`
 
 ```text
-A delicious plate of Taiwanese garlic tomato tofu scrambled eggs, single-serving size, with soft tofu cubes, juicy tomato pieces, and silky eggs. Composition: warm home kitchen stovetop scene, shallow pan just off the flame, medium close-up with gentle steam, evening ambient light from the side. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese garlic tomato tofu scrambled eggs, single-serving size, featuring delicate cubes of soft white tofu, juicy red tomato chunks, and fluffy golden egg curds cooked with minced garlic. Composition: served in a rustic shallow pan just off the stove, warm kitchen evening light from the side, with gentle rising steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 14. 高麗菜洋蔥炒蛋 — `cabbage-onion-eggs.webp`
 
 ```text
-A delicious plate of Taiwanese stir-fried cabbage and onion with eggs, family-style small portion, with glossy cabbage ribbons and golden egg curds. Composition: matte ceramic plate on a light wood dining table, slight top-angled view, natural noon light, chopsticks resting beside the plate. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese stir-fried cabbage and onion with eggs, single-serving size, with crisp glossy cabbage ribbons, sweet caramelized onion strands, and fluffy golden egg curds. Composition: served on a matte ceramic plate on a light wood dining table, slight top-angled three-quarter view, natural bright noon light, chopsticks resting beside the plate. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 15. 菇菇青蔥滑蛋 — `mushroom-scallion-soft-eggs.webp`
 
 ```text
-A delicious plate of Taiwanese mushroom and scallion soft scrambled eggs, single-serving size, with tender mushrooms and creamy half-set eggs. Composition: compact apartment kitchen counter, round plate centered, close-up framing, soft morning side light and subtle shadows. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese mushroom and scallion soft scrambled eggs, single-serving size, featuring sliced tender shiitake mushrooms and creamy, glossy half-set eggs sprinkled with vibrant green scallions. Composition: served on a simple round ceramic plate centered on a clean tiled kitchen counter, close-up view under soft morning side light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 16. 蒜頭高麗菜豆腐煮 — `garlic-cabbage-tofu-braise.webp`
 
 ```text
-A delicious bowl of Taiwanese garlic braised cabbage and tofu, single-serving size, with soft tofu blocks and lightly translucent cabbage in savory broth. Composition: rustic clay bowl on a woven table mat, three-quarter view, gentle afternoon light, a wooden spoon near the bowl edge. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese garlic braised cabbage and tofu, single-serving size, with tender tofu blocks and sweet, translucent cabbage simmered in a savory broth with visible garlic cloves. Composition: served in a rustic ceramic bowl on a woven straw mat, three-quarter view under gentle afternoon window light, with a wooden spoon near the bowl edge. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 17. 洋蔥番茄蛋炒飯 — `onion-tomato-egg-fried-rice.webp`
 
 ```text
-A delicious bowl of Taiwanese onion tomato egg fried rice, single-serving size, with fluffy rice grains, soft egg pieces, and bright tomato chunks. Composition: deep rice bowl on a stone-textured table, 45-degree angle, late afternoon kitchen light, spoon placed on the side. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese onion tomato egg fried rice, single-serving size, with fluffy golden rice grains, soft egg ribbons, sweet caramelized onion bits, and juicy tomato chunks. Composition: served in a deep ceramic bowl on a dark slate-textured tabletop, 45-degree angle under late afternoon kitchen light, with a spoon resting on the side. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 18. 青蔥雞胸拌飯 — `scallion-chicken-rice-bowl.webp`
 
 ```text
-A delicious bowl of Taiwanese scallion chicken breast rice, single-serving size, with sliced tender chicken and fresh green scallions over steamed rice. Composition: simple lunch setup on a neutral tabletop, bowl centered with slight overhead perspective, clean daylight from the right, minimal props. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese scallion chicken breast rice, single-serving size, featuring tender sliced chicken breast drizzled with a savory scallion oil sauce and garnished with plenty of fresh green scallions over fluffy steamed rice. Composition: simple lunch setup on a neutral tabletop, bowl centered with slight overhead three-quarter view, clean natural daylight from the right. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 19. 菇菇高麗菜燴飯 — `mushroom-cabbage-rice-bowl.webp`
 
 ```text
-A delicious bowl of Taiwanese mushroom cabbage rice bowl with thick savory sauce, single-serving size, with sautéed mushrooms and tender cabbage over hot rice. Composition: broad ceramic bowl on a linen placemat, close-to-table eye level, soft indoor tungsten light blended with window fill. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese mushroom cabbage rice bowl, single-serving size, with sautéed mushrooms and tender cabbage coated in a rich, glossy savory gravy poured over hot steamed rice. Composition: served in a broad ceramic bowl on a linen placemat, close-up eye-level view, soft indoor tungsten light blended with window fill light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 20. 氣炸蒜香雞胸佐青花菜 — `airfryer-garlic-chicken-broccoli.webp`
 
 ```text
-A delicious plate of Taiwanese air-fried garlic chicken breast with broccoli, single-serving size, with browned chicken edges and vibrant green broccoli. Composition: modern kitchen island scene, parchment-lined tray partly visible, cool-neutral lighting with crisp highlights, diagonal composition. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese air-fried garlic chicken breast with broccoli, single-serving size, featuring tender chicken breast cubes with golden-browned garlic edges and vibrant green broccoli florets. Composition: served on a plate next to a parchment-lined air fryer basket edge on a light-colored kitchen island stone surface, cool-neutral lighting with crisp highlights, diagonal composition. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 21. 番茄洋蔥豆腐湯 — `tomato-onion-tofu-soup.webp`
 
 ```text
-A delicious bowl of Taiwanese tomato onion tofu soup, single-serving size, with clear red broth, soft tofu cubes, and gently cooked onion slices. Composition: deep soup bowl on a small round side table, soft rainy-day window light, visible steam swirl, cozy home mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese tomato onion tofu soup, single-serving size, featuring a clear reddish broth, soft white tofu cubes, and sweet tender onion slices. Composition: served in a deep ceramic soup bowl placed on a small round wooden side table, soft rainy-day window light, with gentle steam swirling upward. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 22. 電鍋青花菜雞胸便當菜 — `electricpot-broccoli-chicken-bento.webp`
 
 ```text
-A delicious Taiwanese electric-pot broccoli chicken bento dish, single-serving size, with sliced chicken breast, broccoli florets, and carrot pieces arranged neatly. Composition: open meal-prep container on a tidy desk, top-down composition with balanced compartments, soft overhead light, practical weekday lunch vibe. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing Taiwanese electric-pot steamed chicken and broccoli bento, single-serving size, featuring sliced tender chicken breast, bright green broccoli florets, and sweet carrot coins arranged neatly. Composition: open wooden bento box on a clean work desk, top-down view showing partitioned compartments, soft overhead office light, practical weekday lunch vibe. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ---
@@ -280,79 +280,79 @@ A delicious Taiwanese electric-pot broccoli chicken bento dish, single-serving s
 ### 23. 麻油洋蔥雞胸拌飯 — `sesame-onion-chicken-rice-bowl.webp`
 
 ```text
-A delicious bowl of Taiwanese sesame onion chicken breast rice, single-serving size, with glossy onion slices and tender chicken over steamed rice. Composition: warm dinner table scene, slight overhead angle, soft tungsten light with subtle kitchen background blur. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese sesame-oil onion chicken breast rice, single-serving size, featuring sliced chicken breast and glossy caramelized onion strands cooked in fragrant sesame oil over a bowl of hot steamed rice. Composition: warm dinner table scene, three-quarter overhead angle, soft tungsten glow with a cozy blurred kitchen background. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 24. 番茄青花菜蛋炒飯 — `tomato-broccoli-egg-rice.webp`
 
 ```text
-A delicious bowl of Taiwanese tomato broccoli egg fried rice, single-serving size, with bright red tomato chunks, green broccoli bits, and golden egg pieces. Composition: ceramic bowl on a pale stone tabletop, 45-degree top view, fresh daylight from window side. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese tomato broccoli egg fried rice, single-serving size, with fluffy rice grains beautifully tossed with red tomato pieces, small green broccoli florets, and golden scrambled eggs. Composition: served in a rustic ceramic bowl on a pale stone tabletop, 45-degree top view, soft daylight from a nearby window. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 25. 蒜香菇豆腐拌飯 — `garlic-mushroom-tofu-rice-bowl.webp`
 
 ```text
-A delicious bowl of Taiwanese garlic mushroom tofu rice, single-serving size, with seared tofu cubes and sautéed mushrooms over fluffy rice. Composition: rustic bowl on linen cloth, close-up table-level framing, gentle noon light and clean background. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese garlic mushroom tofu rice, single-serving size, with golden seared tofu cubes and savory sautéed mushrooms seasoned with garlic over fluffy steamed rice. Composition: served in a simple ceramic bowl on a linen cloth, close-up table-level framing, gentle afternoon light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 26. 高麗菜胡蘿蔔雞胸飯 — `cabbage-carrot-chicken-rice-bowl.webp`
 
 ```text
-A delicious bowl of Taiwanese cabbage carrot chicken breast rice, two-serving style, with sliced chicken, shredded cabbage, and carrot strips on rice. Composition: lunch-prep tray setting, side angle with balanced colors, natural soft daylight. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese cabbage carrot chicken breast rice, single-serving size, with sliced tender chicken breast, shredded sweet cabbage, and orange carrot strips over fluffy steamed rice. Composition: served in a large ceramic bowl on a lunch tray, side angle showing balanced colors, soft natural daylight. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 27. 醬香蒜煎雞胸 — `soy-garlic-chicken-breast-pan.webp`
 
 ```text
-A delicious plate of Taiwanese soy garlic pan-seared chicken breast, single-serving main dish, with glossy sauce coating and lightly charred edges. Composition: dark ceramic plate on wood table, medium close-up, warm kitchen side light and subtle steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese soy garlic pan-seared chicken breast, single-serving size, featuring tender chicken breast slices coated in a glossy savory soy-garlic glaze with lightly charred edges. Composition: served on a dark ceramic plate on a rustic wooden table, close-up view under warm kitchen side light, with gentle steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 28. 洋蔥香煎鮭魚排 — `onion-salmon-pan-steak.webp`
 
 ```text
-A delicious plate of Taiwanese pan-seared salmon steak with onion, single-serving size, with golden salmon surface and soft onion ribbons. Composition: modern home kitchen plate-up, diagonal composition, cool-neutral highlight on salmon skin, 3/4 angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese pan-seared salmon steak, single-serving size, with a golden-crisped salmon fillet topped with sweet, translucent caramelized onion ribbons. Composition: served on an elegant oval porcelain plate on a kitchen counter, diagonal composition showing crisp textures, cool-neutral daylight. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 29. 氣炸豆腐菇菇主菜 — `airfryer-tofu-mushroom-main.webp`
 
 ```text
-A delicious plate of Taiwanese air-fried tofu and mushroom main dish, single-serving size, with browned tofu corners and roasted mushrooms. Composition: parchment-lined tray beside a serving plate, kitchen island background, clean cool lighting. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese air-fried tofu and mushrooms, single-serving size, featuring golden-browned crispy tofu cubes and roasted savory mushrooms. Composition: served on a white square plate next to a small air fryer tray on a clean marble countertop, clean cool lighting. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 30. 高麗菜豆腐蛋花湯 — `cabbage-tofu-egg-drop-soup.webp`
 
 ```text
-A delicious bowl of Taiwanese cabbage tofu egg drop soup, single-serving size, with silky egg ribbons, tofu cubes, and tender cabbage. Composition: deep soup bowl on a small round wooden table, side light through soft curtain, visible steam curls. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese cabbage tofu egg drop soup, single-serving size, with silky yellow egg ribbons, soft white tofu cubes, and sweet green cabbage in a clear hot broth. Composition: served in a deep ceramic bowl on a small round wooden table, side light through a soft window curtain, with rising steam curls. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 31. 青花菜洋蔥雞湯 — `broccoli-onion-chicken-soup.webp`
 
 ```text
-A delicious bowl of Taiwanese broccoli onion chicken soup, single-serving size, with sliced chicken, broccoli florets, and light clear broth. Composition: home kitchen serving scene, bowl centered, slight overhead view, calm afternoon light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese broccoli onion chicken soup, single-serving size, with sliced chicken breast, vibrant green broccoli florets, and sweet onion slices in a clear golden broth. Composition: served in a large ceramic bowl on a wooden tabletop, bowl centered with a three-quarter overhead view, calm afternoon daylight. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 32. 電鍋菇菇雞胸便當菜 — `electricpot-mushroom-chicken-bento.webp`
 
 ```text
-A delicious Taiwanese electric-pot mushroom chicken bento dish, single-serving size, with sliced chicken breast and mixed mushrooms arranged in meal-prep style. Composition: open bento container on a desk, top-down framing with clean compartments, soft overhead light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing Taiwanese electric-pot steamed chicken and mushroom bento, single-serving size, featuring sliced tender chicken breast and sautéed mixed mushrooms arranged neatly with rice. Composition: open wooden bento container on a study desk, top-down framing showing clean partitioned compartments, soft overhead desk light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 33. 蒜香蛋炒高麗菜便當菜 — `garlic-egg-cabbage-bento-side.webp`
 
 ```text
-A delicious plate of Taiwanese garlic egg stir-fried cabbage bento side dish, small serving size, with glossy cabbage strips and fluffy egg pieces. Composition: compact side-dish plate next to bento box edge, warm lunch setting, slight top angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese garlic egg stir-fried cabbage bento side dish, small portion, featuring glossy green cabbage ribbons and fluffy scrambled eggs cooked with garlic. Composition: served in a small round side-dish plate next to a closed bento box, warm afternoon light, slight top angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 34. 番茄洋蔥滑蛋 — `tomato-onion-scrambled-eggs.webp`
 
 ```text
-A delicious plate of Taiwanese tomato onion soft scrambled eggs, single-serving size, with juicy tomato pieces and creamy egg texture. Composition: simple ceramic plate on pale wood table, close-up focus, natural morning light from left. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese tomato onion soft scrambled eggs, single-serving size, featuring juicy red tomato chunks, sweet caramelized onions, and silky, creamy half-set eggs. Composition: served on a simple ceramic plate on a pale wooden dining table, close-up focus, natural morning side light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 35. 豆腐高麗菜菇菇炒 — `tofu-cabbage-mushroom-stirfry.webp`
 
 ```text
-A delicious plate of Taiwanese tofu cabbage mushroom stir-fry, single-serving size, with seared tofu cubes, tender cabbage, and sautéed mushrooms. Composition: home-style dinner plate on woven placemat, 3/4 view, warm evening side light and cozy atmosphere. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese stir-fried tofu, cabbage, and mushrooms, single-serving size, with golden-edged seared tofu cubes, sweet cabbage ribbons, and savory sliced mushrooms. Composition: served on a home-style ceramic plate on a woven placemat, three-quarter view under warm evening side light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ---
@@ -384,89 +384,89 @@ A delicious plate of Taiwanese tofu cabbage mushroom stir-fry, single-serving si
 ### 36. 洋蔥蒜香豆腐炒蛋 — `onion-garlic-tofu-eggs.webp`
 
 ```text
-A delicious plate of Taiwanese onion garlic tofu scrambled eggs, single-serving size, with golden egg curds, soft tofu cubes, and translucent onion slices. Composition: cozy stovetop plating scene, medium close-up from 45 degrees, warm home kitchen light and subtle steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese onion garlic tofu scrambled eggs, single-serving size, featuring soft white tofu cubes, sweet translucent onion strands, and fluffy golden egg curds. Composition: served on a simple ceramic plate with a floral pattern, resting on a clean green checkered tablecloth, close-up view from 45 degrees, soft morning window light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 37. 番茄高麗菜滑蛋 — `tomato-cabbage-soft-eggs.webp`
 
 ```text
-A delicious plate of Taiwanese tomato cabbage soft scrambled eggs, single-serving size, with juicy tomato pieces and tender cabbage ribbons. Composition: matte ceramic plate on light wooden table, slightly overhead framing, fresh midday daylight from window side. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese tomato cabbage soft scrambled eggs, single-serving size, with juicy tomato chunks, tender sweet cabbage, and silky creamy eggs. Composition: served on a dark stoneware dish resting on a round rattan placemat, three-quarter view, cozy afternoon light casting soft shadows. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 38. 青蔥菇菇蛋煎盤 — `scallion-mushroom-egg-pan.webp`
 
 ```text
-A delicious plate of Taiwanese scallion mushroom egg pan-fry, single-serving size, with browned mushroom slices and soft egg texture. Composition: compact apartment dining setup, close-up top-angled shot, gentle morning light and clean neutral background. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing Taiwanese scallion mushroom egg pan-fry, single-serving size, featuring savory sliced mushrooms and golden egg curds garnished with fresh green scallions. Composition: served directly in a small seasoned cast-iron skillet resting on a round cork trivet, rustic wooden kitchen tabletop background, close-up top-angled view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 39. 青花菜豆腐蒜炒 — `broccoli-tofu-garlic-stirfry.webp`
 
 ```text
-A delicious plate of Taiwanese broccoli tofu garlic stir-fry, single-serving size, with vibrant broccoli florets and lightly seared tofu cubes. Composition: shallow plate on woven placemat, 3/4 table-level angle, soft afternoon side light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese stir-fried broccoli and tofu with garlic, single-serving size, featuring vibrant green broccoli florets and lightly seared soft tofu cubes. Composition: served on an octagonal white ceramic plate on a light green linen runner, three-quarter view, bright morning daylight. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 40. 洋蔥高麗菜菇菇炒 — `onion-cabbage-mushroom-saute.webp`
 
 ```text
-A delicious plate of Taiwanese onion cabbage mushroom sauté, single-serving size, with glossy cabbage and aromatic onion strands. Composition: home dinner plate on a simple tablecloth, slight diagonal framing, warm evening light and minimal props. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese onion cabbage mushroom sauté, single-serving size, featuring glossy cabbage ribbons, sweet caramelized onion, and tender mushroom slices. Composition: served on a white oval plate on a dark wooden bar counter, cozy bar-counter lighting, close-up view with slight diagonal framing. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 41. 蒜香番茄雞胸飯 — `garlic-tomato-chicken-rice-bowl.webp`
 
 ```text
-A delicious bowl of Taiwanese garlic tomato chicken breast rice, single-serving size, with tender chicken pieces over fluffy rice and tomato sauce glaze. Composition: deep rice bowl centered on stone-textured tabletop, 45-degree angle, bright neutral daylight. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese garlic tomato chicken breast rice, single-serving size, featuring tender sliced chicken breast over fluffy steamed rice, glazed with a glossy garlic tomato sauce. Composition: served in a high-rimmed ceramic plate on a light bamboo table mat, three-quarter view, soft morning daylight. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 42. 豆腐蛋香拌飯 — `tofu-egg-savory-rice-bowl.webp`
 
 ```text
-A delicious bowl of Taiwanese tofu egg savory rice, single-serving size, with soft tofu and creamy egg mixture over steamed rice. Composition: simple lunch setting on pale wood table, slight overhead perspective, gentle side light and clean backdrop. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese tofu egg savory rice, single-serving size, featuring soft white tofu cubes and a rich creamy egg mixture over steamed rice. Composition: served in a deep pottery bowl resting on a dark slate coaster, cozy evening mood with a soft warm side light, three-quarter view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 43. 青花菜菇菇雞胸飯 — `broccoli-mushroom-chicken-rice-bowl.webp`
 
 ```text
-A delicious bowl of Taiwanese broccoli mushroom chicken breast rice, two-serving style, with sliced chicken, mushrooms, and broccoli over rice. Composition: meal-prep friendly bowl composition, top-right light source, balanced color contrast and tidy plating. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese broccoli mushroom chicken breast rice, single-serving size, with sliced tender chicken breast, sautéed mushroom slices, and vibrant green broccoli over steamed rice. Composition: served in a clean modern ceramic bowl, top-right light source, neat and tidy plating showing balanced color contrast. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 44. 蒜香豆腐雞胸主菜 — `garlic-tofu-chicken-pan-main.webp`
 
 ```text
-A delicious plate of Taiwanese garlic tofu chicken breast main dish, single-serving size, with seared tofu edges and juicy chicken chunks. Composition: dark ceramic plate near stovetop, medium close-up with slight steam and warm amber kitchen light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese garlic tofu chicken breast, single-serving size, featuring seared golden tofu cubes and juicy sautéed chicken breast chunks. Composition: served on a round wooden serving board on a clean kitchen island counter, bright neutral daylight, overhead perspective. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 45. 蒜香鮭魚青花菜主菜 — `salmon-broccoli-garlic-main.webp`
 
 ```text
-A delicious plate of Taiwanese garlic salmon and broccoli main dish, single-serving size, with golden salmon surface and bright green broccoli. Composition: modern kitchen plating scene, 3/4 angle, cool-neutral highlights with gentle warm fill light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese garlic salmon and broccoli, single-serving size, featuring a pan-seared salmon fillet with a golden-crisped skin and vibrant green broccoli florets. Composition: served in a shallow white porcelain bowl on a rustic wooden dining table, warm ambient evening light, three-quarter view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 46. 番茄蛋豆腐清湯 — `tomato-egg-tofu-light-soup.webp`
 
 ```text
-A delicious bowl of Taiwanese tomato egg tofu light soup, single-serving size, with delicate egg ribbons, tofu cubes, and red tomato broth. Composition: deep soup bowl on a small round table, side window light with visible steam and calm rainy-day mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese tomato egg tofu light soup, single-serving size, with delicate golden egg ribbons, soft white tofu cubes, and tomato slices in a clear red broth. Composition: served in a rustic ceramic soup tureen with a soup ladle resting nearby on a wooden kitchen counter, warm afternoon light beams. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 47. 高麗菜菇菇清湯 — `cabbage-mushroom-clear-soup.webp`
 
 ```text
-A delicious bowl of Taiwanese cabbage mushroom clear soup, single-serving size, with tender cabbage pieces and sliced mushrooms in clear broth. Composition: rustic ceramic bowl on linen table mat, top-angled close framing, soft daylight with minimal background. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing bowl of Taiwanese cabbage mushroom clear soup, single-serving size, with tender sweet cabbage pieces and sliced shiitake mushrooms in a light clear broth. Composition: served in a rustic ceramic bowl on a sturdy wood table mat, close-up top-angled view, soft morning daylight. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 48. 電鍋豆腐蛋便當菜 — `electricpot-tofu-egg-bento-side.webp`
 
 ```text
-A delicious Taiwanese electric-pot tofu egg bento side dish, single-serving size, with soft tofu-egg texture cut into neat portions. Composition: open bento layout on desk, top-down view showing compartment arrangement, soft overhead office lunch lighting. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing Taiwanese electric-pot steamed tofu-egg bento side dish, single-serving portion, featuring soft and savory tofu-egg custard cut into neat square portions. Composition: served in a small square glass meal-prep container on a wooden kitchen counter, side view under natural window daylight. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 49. 洋蔥胡蘿蔔炒蛋便當菜 — `onion-carrot-egg-bento-side.webp`
 
 ```text
-A delicious plate of Taiwanese onion carrot scrambled egg bento side dish, small serving size, with bright carrot strips and fluffy egg pieces. Composition: side-dish plate next to meal box, slight overhead angle, warm noon light and practical lunch vibe. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese onion carrot scrambled egg bento side dish, small portion, with sweet caramelized onion strands, bright orange carrot strips, and fluffy scrambled eggs. Composition: served in a small round stainless-steel bento compartment on a linen kitchen cloth, natural soft light, close-up three-quarter view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 50. 番茄蒜香高麗菜炒蛋 — `tomato-garlic-cabbage-eggs.webp`
 
 ```text
-A delicious plate of Taiwanese tomato garlic cabbage scrambled eggs, single-serving size, with glossy cabbage strips, softened tomato chunks, and tender egg curds. Composition: everyday home table setting, 45-degree close framing, warm evening side light and subtle steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of Taiwanese tomato garlic cabbage scrambled eggs, single-serving size, with glossy green cabbage ribbons, soft red tomato chunks, and tender scrambled egg curds. Composition: served on a retro floral-patterned ceramic plate on a wooden dining table, close-up 45-degree framing, warm evening side light and subtle steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```

@@ -2,7 +2,7 @@
 title: "豆腐蛋香拌飯"
 slug: "tofu-egg-savory-rice-bowl"
 description: "豆腐和雞蛋做成濕潤拌料蓋在白飯上，做法簡單、口味溫和。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/tofu-egg-savory-rice-bowl.webp"
 servings: 1
 prepTime: 7
 cookTime: 9

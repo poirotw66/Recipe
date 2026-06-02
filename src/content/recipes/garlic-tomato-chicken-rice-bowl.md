@@ -2,7 +2,7 @@
 title: "蒜香番茄雞胸飯"
 slug: "garlic-tomato-chicken-rice-bowl"
 description: "雞胸肉配番茄和蒜香醬汁，拌飯後酸鹹平衡，適合一人快手主食。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/garlic-tomato-chicken-rice-bowl.webp"
 servings: 1
 prepTime: 8
 cookTime: 11

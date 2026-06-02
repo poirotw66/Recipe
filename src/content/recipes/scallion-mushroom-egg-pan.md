@@ -2,7 +2,7 @@
 title: "青蔥菇菇蛋煎盤"
 slug: "scallion-mushroom-egg-pan"
 description: "把菇類煎香後和青蔥蛋液結合，香氣明顯，做法簡潔。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/scallion-mushroom-egg-pan.webp"
 servings: 1
 prepTime: 6
 cookTime: 8

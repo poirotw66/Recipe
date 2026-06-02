@@ -2,7 +2,7 @@
 title: "青花菜豆腐蒜炒"
 slug: "broccoli-tofu-garlic-stirfry"
 description: "青花菜與豆腐一起快炒，蒜香明顯，清爽又有蛋白質。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/broccoli-tofu-garlic-stirfry.webp"
 servings: 2
 prepTime: 9
 cookTime: 10

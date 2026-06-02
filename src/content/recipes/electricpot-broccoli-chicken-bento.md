@@ -2,7 +2,7 @@
 title: "電鍋青花菜雞胸便當菜"
 slug: "electricpot-broccoli-chicken-bento"
 description: "用電鍋一次蒸熟雞胸和青花菜，搭配簡單調味就能完成隔天便當主菜。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/electricpot-broccoli-chicken-bento.webp"
 servings: 2
 prepTime: 10
 cookTime: 18

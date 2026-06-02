@@ -2,7 +2,7 @@
 title: "洋蔥番茄蛋炒飯"
 slug: "onion-tomato-egg-fried-rice"
 description: "用剩飯、洋蔥與番茄炒出酸甜蛋香，屬於材料簡單但很有完成感的炒飯。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/onion-tomato-egg-fried-rice.webp"
 servings: 1
 prepTime: 7
 cookTime: 9

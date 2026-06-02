@@ -2,7 +2,7 @@
 title: "番茄洋蔥豆腐湯"
 slug: "tomato-onion-tofu-soup"
 description: "番茄和洋蔥先煮出甜味後加入豆腐，湯底清爽，適合一人晚餐搭配主食。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/tomato-onion-tofu-soup.webp"
 servings: 2
 prepTime: 8
 cookTime: 14

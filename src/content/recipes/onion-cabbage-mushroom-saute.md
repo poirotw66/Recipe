@@ -2,7 +2,7 @@
 title: "洋蔥高麗菜菇菇炒"
 slug: "onion-cabbage-mushroom-saute"
 description: "洋蔥甜味和菇類鮮味結合，搭高麗菜做成經濟又耐吃的家常菜。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/onion-cabbage-mushroom-saute.webp"
 servings: 2
 prepTime: 9
 cookTime: 10

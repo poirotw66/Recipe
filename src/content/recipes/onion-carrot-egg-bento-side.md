@@ -2,7 +2,7 @@
 title: "洋蔥胡蘿蔔炒蛋便當菜"
 slug: "onion-carrot-egg-bento-side"
 description: "洋蔥和胡蘿蔔炒出甜味後拌入雞蛋，顏色漂亮也很適合便當配菜。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/onion-carrot-egg-bento-side.webp"
 servings: 2
 prepTime: 8
 cookTime: 9

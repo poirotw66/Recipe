@@ -2,7 +2,7 @@
 title: "麻油洋蔥雞胸拌飯"
 slug: "sesame-onion-chicken-rice-bowl"
 description: "用洋蔥炒出甜味後拌入雞胸肉與麻油香，搭白飯就是一碗有飽足感的平日晚餐。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/sesame-onion-chicken-rice-bowl.webp"
 servings: 1
 prepTime: 8
 cookTime: 11

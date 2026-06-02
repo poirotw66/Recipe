@@ -2,7 +2,7 @@
 title: "豆腐高麗菜菇菇炒"
 slug: "tofu-cabbage-mushroom-stirfry"
 description: "豆腐、高麗菜和菇類一起快炒，清爽但有份量，適合想吃蔬菜又要有蛋白質的晚餐。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/tofu-cabbage-mushroom-stirfry.webp"
 servings: 2
 prepTime: 9
 cookTime: 10

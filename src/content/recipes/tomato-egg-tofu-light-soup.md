@@ -2,7 +2,7 @@
 title: "番茄蛋豆腐清湯"
 slug: "tomato-egg-tofu-light-soup"
 description: "番茄、蛋花和豆腐組合成輕盈湯品，酸甜開胃，適合晚餐搭配。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/tomato-egg-tofu-light-soup.webp"
 servings: 2
 prepTime: 8
 cookTime: 12

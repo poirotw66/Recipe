@@ -2,7 +2,7 @@
 title: "番茄青花菜蛋炒飯"
 slug: "tomato-broccoli-egg-rice"
 description: "番茄提供酸甜、青花菜增加口感，和雞蛋白飯一起炒成清爽不膩的家常炒飯。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/tomato-broccoli-egg-rice.webp"
 servings: 1
 prepTime: 7
 cookTime: 10

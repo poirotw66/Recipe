@@ -2,7 +2,7 @@
 title: "洋蔥香煎鮭魚排"
 slug: "onion-salmon-pan-steak"
 description: "鮭魚排先煎出表皮香氣，再和洋蔥一起收汁，做法簡單但有餐廳感。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/onion-salmon-pan-steak.webp"
 servings: 2
 prepTime: 8
 cookTime: 12

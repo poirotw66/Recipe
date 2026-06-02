@@ -2,7 +2,7 @@
 title: "氣炸豆腐菇菇主菜"
 slug: "airfryer-tofu-mushroom-main"
 description: "豆腐和菇類拌蒜香後進氣炸鍋，外酥內嫩，適合無肉日晚餐主菜。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/airfryer-tofu-mushroom-main.webp"
 servings: 2
 prepTime: 9
 cookTime: 14

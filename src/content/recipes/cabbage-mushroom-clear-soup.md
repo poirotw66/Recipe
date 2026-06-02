@@ -2,7 +2,7 @@
 title: "高麗菜菇菇清湯"
 slug: "cabbage-mushroom-clear-soup"
 description: "以高麗菜甜味和菇類鮮味煮成清湯，材料少但口味不單薄。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/cabbage-mushroom-clear-soup.webp"
 servings: 2
 prepTime: 7
 cookTime: 11

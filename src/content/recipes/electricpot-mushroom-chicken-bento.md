@@ -2,7 +2,7 @@
 title: "電鍋菇菇雞胸便當菜"
 slug: "electricpot-mushroom-chicken-bento"
 description: "雞胸肉與菇類用電鍋一次蒸熟，調味簡單，適合提前分裝成工作日便當。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/electricpot-mushroom-chicken-bento.webp"
 servings: 2
 prepTime: 10
 cookTime: 18

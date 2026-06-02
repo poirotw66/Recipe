@@ -2,7 +2,7 @@
 title: "高麗菜胡蘿蔔雞胸飯"
 slug: "cabbage-carrot-chicken-rice-bowl"
 description: "雞胸肉搭配高麗菜與胡蘿蔔一起快炒，顏色和口感都完整，適合便當或晚餐。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/cabbage-carrot-chicken-rice-bowl.webp"
 servings: 2
 prepTime: 10
 cookTime: 12

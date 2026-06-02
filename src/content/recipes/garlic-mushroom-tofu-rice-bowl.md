@@ -2,7 +2,7 @@
 title: "蒜香菇豆腐拌飯"
 slug: "garlic-mushroom-tofu-rice-bowl"
 description: "菇類和豆腐先煎香再淋上蒜香醬汁，拌白飯後就是一碗清爽的無肉主食。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/garlic-mushroom-tofu-rice-bowl.webp"
 servings: 1
 prepTime: 8
 cookTime: 10

@@ -2,7 +2,7 @@
 title: "蒜頭高麗菜豆腐煮"
 slug: "garlic-cabbage-tofu-braise"
 description: "把高麗菜與豆腐用蒜頭和少量醬油燉煮，清爽但有飽足感，適合清冰箱。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/garlic-cabbage-tofu-braise.webp"
 servings: 2
 prepTime: 8
 cookTime: 12

@@ -2,7 +2,7 @@
 title: "蒜香豆腐雞胸主菜"
 slug: "garlic-tofu-chicken-pan-main"
 description: "把雞胸肉和豆腐同鍋煎炒，蒜香與醬香融合，是高蛋白的家常主菜。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/garlic-tofu-chicken-pan-main.webp"
 servings: 2
 prepTime: 9
 cookTime: 12

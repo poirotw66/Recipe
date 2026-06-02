@@ -2,7 +2,7 @@
 title: "蒜香鮭魚青花菜主菜"
 slug: "salmon-broccoli-garlic-main"
 description: "鮭魚與青花菜同盤上桌，蒜香收汁後鹹香清爽，適合想吃魚的日子。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/salmon-broccoli-garlic-main.webp"
 servings: 2
 prepTime: 9
 cookTime: 12

@@ -2,7 +2,7 @@
 title: "番茄高麗菜滑蛋"
 slug: "tomato-cabbage-soft-eggs"
 description: "番茄酸甜搭配高麗菜脆度，再用滑蛋收尾，是很下飯的快炒。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/tomato-cabbage-soft-eggs.webp"
 servings: 1
 prepTime: 7
 cookTime: 9

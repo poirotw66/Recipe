@@ -2,7 +2,7 @@
 title: "菇菇青蔥滑蛋"
 slug: "mushroom-scallion-soft-eggs"
 description: "菇類先煎出香氣後拌入滑嫩蛋液，最後加青蔥提味，適合一人快手晚餐。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/mushroom-scallion-soft-eggs.webp"
 servings: 1
 prepTime: 5
 cookTime: 8

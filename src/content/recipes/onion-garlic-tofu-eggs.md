@@ -2,7 +2,7 @@
 title: "洋蔥蒜香豆腐炒蛋"
 slug: "onion-garlic-tofu-eggs"
 description: "洋蔥和蒜頭先炒香，再拌入豆腐與蛋液，口味扎實又不油膩。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/onion-garlic-tofu-eggs.webp"
 servings: 1
 prepTime: 8
 cookTime: 10

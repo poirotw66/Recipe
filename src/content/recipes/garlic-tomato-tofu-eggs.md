@@ -2,7 +2,7 @@
 title: "蒜香番茄豆腐炒蛋"
 slug: "garlic-tomato-tofu-eggs"
 description: "用番茄、豆腐和雞蛋做出一盤濕潤帶蒜香的家常菜，10 多分鐘就能上桌。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/garlic-tomato-tofu-eggs.webp"
 servings: 1
 prepTime: 6
 cookTime: 10

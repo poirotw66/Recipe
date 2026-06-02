@@ -2,7 +2,7 @@
 title: "青蔥雞胸拌飯"
 slug: "scallion-chicken-rice-bowl"
 description: "雞胸肉切丁快炒後拌進蔥香醬汁，搭配白飯就能完成一碗高蛋白主食。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/scallion-chicken-rice-bowl.webp"
 servings: 1
 prepTime: 8
 cookTime: 10

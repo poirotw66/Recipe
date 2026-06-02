@@ -2,7 +2,7 @@
 title: "醬香蒜煎雞胸"
 slug: "soy-garlic-chicken-breast-pan"
 description: "雞胸肉用蒜頭和醬油簡單調味後乾煎，鹹香扎實，適合搭菜或做便當主菜。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/soy-garlic-chicken-breast-pan.webp"
 servings: 2
 prepTime: 8
 cookTime: 12

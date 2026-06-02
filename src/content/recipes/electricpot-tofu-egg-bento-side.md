@@ -2,7 +2,7 @@
 title: "電鍋豆腐蛋便當菜"
 slug: "electricpot-tofu-egg-bento-side"
 description: "豆腐和雞蛋用電鍋蒸成柔軟配菜，低油清爽，適合搭主食便當。"
-coverImage: "/images/recipes/placeholder-recipe.svg"
+coverImage: "/images/recipes/electricpot-tofu-egg-bento-side.webp"
 servings: 2
 prepTime: 8
 cookTime: 15
