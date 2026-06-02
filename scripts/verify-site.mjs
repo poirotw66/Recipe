@@ -80,6 +80,14 @@ const contentConfig = read("src/content.config.ts");
 const ingredients = JSON.parse(read("src/data/ingredients.json"));
 const scenarios = JSON.parse(read("src/data/scenarios.json"));
 const recipeFiles = readdirSync(join(root, "src/content/recipes")).filter((file) => file.endsWith(".md"));
+const phase2RecipeThreshold = 50;
+const phase2CategoryTargets = {
+  "家常菜": 16,
+  "飯麵": 14,
+  "主菜": 8,
+  "湯品": 6,
+  "便當菜": 6
+};
 
 const requiredHeadParts = [
   "<title>",
@@ -142,6 +150,36 @@ if (!fridgePage.includes("data-fridge-results") || !fridgePage.includes("fridge-
 if (recipeFiles.length < 12) {
   console.error(`Spec-007 requires at least 12 recipe markdown files; found ${recipeFiles.length}.`);
   process.exit(1);
+}
+
+if (recipeFiles.length >= phase2RecipeThreshold) {
+  const categoryCounts = Object.fromEntries(Object.keys(phase2CategoryTargets).map((name) => [name, 0]));
+
+  for (const file of recipeFiles) {
+    const source = read(`src/content/recipes/${file}`);
+    const categoryMatch = source.match(/^category:\s*"([^"]+)"\s*$/m);
+
+    if (!categoryMatch) {
+      console.error(`Recipe ${file} is missing category frontmatter.`);
+      process.exit(1);
+    }
+
+    const category = categoryMatch[1];
+    if (Object.hasOwn(categoryCounts, category)) {
+      categoryCounts[category] += 1;
+    }
+  }
+
+  const failedCategories = Object.entries(phase2CategoryTargets)
+    .filter(([category, expected]) => (categoryCounts[category] ?? 0) < expected)
+    .map(([category, expected]) => `${category} (${categoryCounts[category] ?? 0}/${expected})`);
+
+  if (failedCategories.length) {
+    console.error(
+      `Spec-008 category distribution is below target:\n${failedCategories.map((item) => `- ${item}`).join("\n")}`
+    );
+    process.exit(1);
+  }
 }
 
 if (ingredients.length < 12 || scenarios.length < 8) {

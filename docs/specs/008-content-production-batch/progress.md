@@ -8,7 +8,7 @@
 
 ## Phase Checklist
 
-- [ ] Phase 1: Spec aligned
+- [x] Phase 1: Spec aligned
 - [ ] Phase 2: Develop
 - [ ] Phase 3: Verify
 - [ ] Phase 4: Review
@@ -16,12 +16,16 @@
 
 ## Phase 1
 
-- [ ] Align content rules（recipes 數量、coverImage 規則、驗證門檻）
-- [ ] 確認圖片存在性驗證的實作方式（在 `scripts/verify-site.mjs`）
+- [x] Align content rules（recipes 數量、coverImage 規則、驗證門檻）
+- [x] 確認圖片存在性驗證的實作方式（在 `scripts/verify-site.mjs`）
 
 ## Phase 2
+- [ ] Batch content generation (50+) pending quality-first rewrite.
+- [ ] Image mapping for new recipes pending curated copy + prompt pass.
+- [x] Rolled back low-quality auto-generated batch to preserve content quality baseline.
 
 ## Phase 3
+- [ ] Re-run verification after curated recipe batch is completed.
 
 ## Phase 4
 

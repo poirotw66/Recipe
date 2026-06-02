@@ -57,24 +57,43 @@
 
 ## 6. 任務清單
 
-1. [ ] 擴充 `src/lib/seo.ts`：新增 `buildItemListJsonLd(...)` helper
-2. [ ] 修改清單頁：
-   - [ ] `/recipes` 注入 ItemList
-   - [ ] `/ingredients` 注入 ItemList
-   - [ ] `/scenarios` 注入 ItemList
-3. [ ] 修改 detail 頁（可選）：
-   - [ ] `/ingredients/[slug]` 注入相關食譜 ItemList
-   - [ ] `/scenarios/[slug]` 注入推薦食譜 ItemList
-4. [ ] 擴充 `scripts/verify-site.mjs`：
-   - [ ] 清單頁檢查 `ItemList` structured data 注入 markers
-   - [ ] 需要時加入 detail 頁 markers
-5. [ ] 跑 `npm test`、`npx astro check`、`npm run build`
+### 依賴圖
+
+```text
+task-1 -> task-2 -> task-3 -> task-4
+```
+
+### Task 詳細拆解
+
+1. [ ] 擴充 SEO helper
+   - 影響：`src/lib/seo.ts`
+   - 新增：`buildItemListJsonLd(...)`（輸入 title/path/items，輸出 `@type: "ItemList"`）
+2. [ ] 清單頁注入 ItemList
+   - 影響：
+     - `src/pages/recipes/index.astro`
+     - `src/pages/ingredients/index.astro`
+     - `src/pages/scenarios/index.astro`
+   - 規則：
+     - `itemListElement` 需包含 position/name/url
+     - url 需由既有 absoluteUrl 邏輯輸出
+3. [ ] detail 頁補強（可選但建議）
+   - 影響：
+     - `src/pages/ingredients/[slug].astro`
+     - `src/pages/scenarios/[slug].astro`
+   - 目標：將頁內推薦食譜以 ItemList 呈現，增強內鏈語義
+4. [ ] 擴充驗證腳本與建置驗證
+   - 影響：`scripts/verify-site.mjs`
+   - 變更：
+     - 加入 `ItemList` marker 檢查
+     - 保持既有 SEO markers 不退化
+   - 指令：`npm test`、`npx astro check`、`npm run build`
 
 ## 7. 驗收條件（Acceptance Criteria）
 
-- Given 清單頁載入，When 讀取 HTML 內 JSON-LD，Then structured data 中包含 `@type: "ItemList"`，且每個 item 有 `name` 與 `url`。
-- Given `npm test`，When 驗證執行完成，Then structured data markers 檢查通過（不破壞 Phase-1/Phase-2 既有驗證）。
-- Given `npm run build`，When 完成 build，Then `/recipes`、`/ingredients`、`/scenarios` 清單頁與（可選的）detail 頁可靜態輸出。
+- [ ] Given `/recipes`、`/ingredients`、`/scenarios` 清單頁載入，When 讀取 JSON-LD，Then 每頁至少包含一組 `@type: "ItemList"`，且 item 具備 `position`、`name`、`url`
+- [ ] Given `PUBLIC_SITE_URL=https://recipe.bloss0m.com`，When 產生 ItemList `url`，Then host 必須與 canonical host 一致
+- [ ] Given `npm test`，When 驗證腳本執行完成，Then `ItemList` markers 與既有 SEO markers 全部通過
+- [ ] Given `npm run build`，When build 完成，Then 清單頁與（若有實作）detail 頁可正常靜態輸出
 
 ## 8. Exit Condition
 

@@ -8,7 +8,7 @@
 
 ## Phase Checklist
 
-- [ ] Phase 1: Spec aligned
+- [x] Phase 1: Spec aligned
 - [ ] Phase 2: Develop
 - [ ] Phase 3: Verify
 - [ ] Phase 4: Review
@@ -16,8 +16,8 @@
 
 ## Phase 1
 
-- [ ] Align structured data targets（/recipes /ingredients /scenarios）
-- [ ] 確認驗證腳本中要檢查的 markers（例如 `ItemList`）
+- [x] Align structured data targets（/recipes /ingredients /scenarios）
+- [x] 確認驗證腳本中要檢查的 markers（例如 `ItemList`）
 
 ## Phase 2
 
