@@ -144,12 +144,12 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 
 ## 圖片進度狀態
 
-- ✅ **已完成（前 35 篇）**：1 ~ 35
-- 🟡 **待新增（後 15 篇）**：36 ~ 50
+- ✅ **已完成（前 41 篇）**：1 ~ 41
+- 🟡 **待新增（後 9 篇）**：42 ~ 50
 
 ---
 
-## 已完成（1~35）純文字條列
+## 已完成（1~41）純文字條列
 
 1. 番茄雞蛋飯  
 2. 蔥蛋拌飯  
@@ -186,6 +186,12 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 33. 蒜香蛋炒高麗菜便當菜  
 34. 番茄洋蔥滑蛋  
 35. 豆腐高麗菜菇菇炒  
+36. 洋蔥蒜香豆腐炒蛋  
+37. 番茄高麗菜滑蛋  
+38. 青蔥菇菇蛋煎盤  
+39. 青花菜豆腐蒜炒  
+40. 洋蔥高麗菜菇菇炒  
+41. 蒜香番茄雞胸飯  
 
 ---
 
