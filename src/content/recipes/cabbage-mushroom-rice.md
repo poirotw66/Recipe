@@ -49,7 +49,7 @@ tips:
 storage: "冷藏可保存 2 天，分裝後冷凍可保存 1 週。"
 substitutions:
   - "洋蔥"
-  - "胡蘿蔔"
+  - "紅蘿蔔"
 faqs:
   - question: "可以加肉嗎？"
     answer: "可以加入切丁雞胸肉，但要確認完全熟透。"

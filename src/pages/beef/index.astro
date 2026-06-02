@@ -1,0 +1,160 @@
+---
+import { getCollection } from "astro:content";
+import JsonLd from "../../components/JsonLd.astro";
+import RecipeCard from "../../components/RecipeCard.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { sortRecipesByPublishedDate } from "../../lib/recipes";
+import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../../lib/seo";
+import {
+  getIngredientBySlug,
+  getRecipesByTopicHub,
+  getScenarioBySlug,
+  getTopicHubBySlug
+} from "../../lib/taxonomy";
+
+const hub = getTopicHubBySlug("beef");
+
+if (!hub) {
+  throw new Error("Beef topic hub is not configured.");
+}
+
+const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+const beefRecipes = getRecipesByTopicHub(recipes, hub.slug);
+const riceBowlRecipes = beefRecipes.filter((recipe) => recipe.data.tags.includes("炒飯蓋飯"));
+const stirFryRecipes = beefRecipes.filter((recipe) => recipe.data.tags.includes("快炒"));
+const soupRecipes = beefRecipes.filter(
+  (recipe) => recipe.data.tags.includes("湯品") || recipe.data.tags.includes("燉煮")
+);
+const mainDishRecipes = beefRecipes.filter((recipe) => recipe.data.tags.includes("主菜"));
+const commonIngredients = hub.commonIngredients
+  .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+  .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient));
+const relatedScenarios = hub.relatedScenarios
+  .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
+  .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
+const collectionJsonLd = buildCollectionPageJsonLd(hub.seoTitle, hub.seoDescription, "/beef/");
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: "首頁", path: "/" },
+  { name: hub.name, path: "/beef/" }
+]);
+const hubJsonLd = buildThingJsonLd(hub, "/beef/");
+---
+
+<BaseLayout title={hub.seoTitle} description={hub.seoDescription} canonicalPath="/beef">
+  <JsonLd data={collectionJsonLd} />
+  <JsonLd data={breadcrumbJsonLd} />
+  <JsonLd data={hubJsonLd} />
+  <section class="section">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">首頁</a>
+        <span>/</span>
+        <span>{hub.name}</span>
+      </nav>
+
+      <section class="recipe-hero">
+        <div>
+          <p class="eyebrow">Beef</p>
+          <h1 class="page-title">{hub.name}</h1>
+          <p class="page-copy">{hub.description}</p>
+          <div class="chip-row">
+            {hub.tags.map((tag) => <span class="chip note">{tag}</span>)}
+          </div>
+        </div>
+        <div class="card card-body taxonomy-summary">
+          <p class="eyebrow">怎麼用這個專區</p>
+          <p>{hub.seoDescription}</p>
+        </div>
+      </section>
+
+      {beefRecipes.length === 0 ? (
+        <section class="section section-compact">
+          <article class="card empty-panel">
+            <div class="card-body">
+              <h2>食譜整理中</h2>
+              <p>牛肉食譜會陸續上架，你也可以先從常見食材或料理情境找靈感。</p>
+            </div>
+          </article>
+        </section>
+      ) : (
+        <>
+          {riceBowlRecipes.length > 0 && (
+            <section class="section section-compact">
+              <p class="eyebrow">炒飯蓋飯</p>
+              <h2>牛肉炒飯、燴飯與一碗飯主餐</h2>
+              <div class="grid">
+                {riceBowlRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {stirFryRecipes.length > 0 && (
+            <section class="section section-compact">
+              <p class="eyebrow">快炒配菜</p>
+              <h2>牛肉與蔬菜的快炒家常菜</h2>
+              <div class="grid">
+                {stirFryRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {soupRecipes.length > 0 && (
+            <section class="section section-compact">
+              <p class="eyebrow">湯品燉煮</p>
+              <h2>暖胃牛肉湯與燉煮料理</h2>
+              <div class="grid">
+                {soupRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {mainDishRecipes.length > 0 && (
+            <section class="section section-compact">
+              <p class="eyebrow">煎烤主菜</p>
+              <h2>牛肉片與麵食主菜</h2>
+              <div class="grid">
+                {mainDishRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+        </>
+      )}
+
+      <section class="section section-compact">
+        <div class="recipe-content-grid">
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">常用食材</p>
+              <div class="chip-row">
+                {commonIngredients.map((ingredient) => (
+                  <a class="chip note" href={`/ingredients/${ingredient.slug}/`}>
+                    {ingredient.name}
+                  </a>
+                ))}
+              </div>
+            </div>
+          </article>
+
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">相關情境</p>
+              <div class="chip-row">
+                {relatedScenarios.map((scenario) => (
+                  <a class="chip" href={`/scenarios/${scenario.slug}/`}>
+                    {scenario.name}
+                  </a>
+                ))}
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <div class="section-links">
+        <a class="button" href="/ingredients/beef/">牛肉食材說明</a>
+        <a class="button note" href="/ingredients/noodles/">麵條食材說明</a>
+        <a class="button note" href="/recipes">看全部食譜</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

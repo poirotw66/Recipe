@@ -1,7 +1,7 @@
 ---
-title: "洋蔥胡蘿蔔炒蛋便當菜"
+title: "洋蔥紅蘿蔔炒蛋便當菜"
 slug: "onion-carrot-egg-bento-side"
-description: "洋蔥和胡蘿蔔炒出甜味後拌入雞蛋，顏色漂亮也很適合便當配菜。"
+description: "洋蔥和紅蘿蔔炒出甜味後拌入雞蛋，顏色漂亮也很適合便當配菜。"
 coverImage: "/images/recipes/onion-carrot-egg-bento-side.webp"
 servings: 2
 prepTime: 8
@@ -22,7 +22,7 @@ ingredients:
   - name: "洋蔥"
     amount: "0.5"
     unit: "顆"
-  - name: "胡蘿蔔"
+  - name: "紅蘿蔔"
     amount: "80"
     unit: "克"
   - name: "雞蛋"
@@ -38,13 +38,13 @@ seasonings:
 tags:
   - "便當配菜"
   - "蛋料理"
-intro: "洋蔥和胡蘿蔔先炒軟再加蛋液，甜味會更集中，冷掉也不會太油膩。"
+intro: "洋蔥和紅蘿蔔先炒軟再加蛋液，甜味會更集中，冷掉也不會太油膩。"
 steps:
-  - "洋蔥切絲、胡蘿蔔切細條、雞蛋打散。"
-  - "平底鍋先炒洋蔥和胡蘿蔔至軟。"
+  - "洋蔥切絲、紅蘿蔔切細條、雞蛋打散。"
+  - "平底鍋先炒洋蔥和紅蘿蔔至軟。"
   - "倒入蛋液翻拌至全熟，加鹽和醬油調味。"
 tips:
-  - "胡蘿蔔切薄一點，熟得更快。"
+  - "紅蘿蔔切薄一點，熟得更快。"
 storage: "冷藏可放 1 到 2 天。"
 substitutions:
   - "可加青蔥末增加香氣。"
@@ -55,11 +55,11 @@ faqs:
     answer: "不建議，口感會變差。"
 relatedIngredients:
   - "洋蔥"
-  - "胡蘿蔔"
+  - "紅蘿蔔"
   - "雞蛋"
 featured: false
 publishedAt: "2026-07-14"
 updatedAt: "2026-07-14"
 ---
 
-洋蔥胡蘿蔔炒蛋便當菜適合忙碌平日，食材取得容易，流程清楚，重複製作也穩定。
+洋蔥紅蘿蔔炒蛋便當菜適合忙碌平日，食材取得容易，流程清楚，重複製作也穩定。

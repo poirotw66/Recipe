@@ -1,0 +1,62 @@
+---
+title: "蔥花牛肉炒飯"
+slug: "scallion-beef-fried-rice"
+description: "蔥花與牛肉絲快炒後拌入白飯，香氣足、步驟短，是專區裡最實用的牛肉炒飯。"
+coverImage: "/images/recipes/scallion-beef-fried-rice.webp"
+servings: 1
+prepTime: 8
+cookTime: 12
+totalTime: 20
+difficulty: "簡單"
+calories: 580
+protein: 28
+fat: 18
+carbs: 72
+category: "飯麵"
+scenarios:
+  - "一人料理"
+equipment:
+  - "平底鍋"
+ingredients:
+  - name: "白飯"
+    amount: "1"
+    unit: "碗"
+  - name: "牛肉"
+    amount: "100"
+    unit: "公克"
+  - name: "青蔥"
+    amount: "2"
+    unit: "根"
+seasonings:
+  - name: "醬油"
+    amount: "1.5"
+    unit: "大匙"
+  - name: "鹽"
+    amount: "少許"
+    unit: ""
+tags:
+  - "牛肉"
+  - "炒飯蓋飯"
+intro: "蔥花牛肉炒飯先把牛肉炒至變色再起鍋，最後與白飯大火快炒，米粒較不容易黏鍋。"
+steps:
+  - "牛肉切絲，青蔥切蔥花；白飯建議用隔夜飯或放涼的飯。"
+  - "平底鍋下油，牛肉炒至變色盛起。"
+  - "同鍋炒香蔥白，加入白飯與醬油快炒，最後放回牛肉與蔥花拌勻。"
+tips:
+  - "火夠大、動作快，炒飯會比較粒粒分明。"
+storage: "建議現炒現吃；若要帶便當，牛肉需炒熟。"
+substitutions:
+  - "豬絲"
+faqs:
+  - question: "沒有隔夜飯可以嗎？"
+    answer: "可以，新飯先鋪平放涼再炒，水分較少。"
+relatedIngredients:
+  - "牛肉"
+  - "白飯"
+  - "青蔥"
+featured: true
+publishedAt: "2026-06-03"
+updatedAt: "2026-06-03"
+---
+
+蔥花牛肉炒飯適合想把剩飯快速變成主餐的晚上。

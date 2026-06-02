@@ -1,7 +1,7 @@
 ---
-title: "高麗菜胡蘿蔔雞胸飯"
+title: "高麗菜紅蘿蔔雞胸飯"
 slug: "cabbage-carrot-chicken-rice-bowl"
-description: "雞胸肉搭配高麗菜與胡蘿蔔一起快炒，顏色和口感都完整，適合便當或晚餐。"
+description: "雞胸肉搭配高麗菜與紅蘿蔔一起快炒，顏色和口感都完整，適合便當或晚餐。"
 coverImage: "/images/recipes/cabbage-carrot-chicken-rice-bowl.webp"
 servings: 2
 prepTime: 10
@@ -29,7 +29,7 @@ ingredients:
     amount: "2"
     unit: "碗"
 seasonings:
-  - name: "胡蘿蔔"
+  - name: "紅蘿蔔"
     amount: "80"
     unit: "克"
   - name: "醬油"
@@ -43,11 +43,11 @@ tags:
   - "便當主食"
 intro: "先炒雞胸再下蔬菜，能避免高麗菜出水太多，整體口感更乾爽。"
 steps:
-  - "雞胸切條，高麗菜切絲，胡蘿蔔切細條，蒜頭切末。"
+  - "雞胸切條，高麗菜切絲，紅蘿蔔切細條，蒜頭切末。"
   - "熱鍋炒香蒜末，先下雞胸炒至熟，再加入蔬菜拌炒 3 到 4 分鐘。"
   - "加醬油調味後關火，搭配白飯分裝即可。"
 tips:
-  - "胡蘿蔔切細一點會更快熟。"
+  - "紅蘿蔔切細一點會更快熟。"
 storage: "可冷藏 1 到 2 天，回鍋時加少量水避免過乾。"
 substitutions:
   - "高麗菜可改青花菜。"
@@ -58,7 +58,7 @@ faqs:
     answer: "可以，建議分兩次炒比較均勻。"
 relatedIngredients:
   - "高麗菜"
-  - "胡蘿蔔"
+  - "紅蘿蔔"
   - "雞胸肉"
 featured: false
 publishedAt: "2026-06-16"

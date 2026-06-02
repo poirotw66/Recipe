@@ -83,10 +83,13 @@ export const buildDefinedTermJsonLd = (ingredient: IngredientItem) => ({
   termCode: ingredient.slug
 });
 
-export const buildThingJsonLd = (scenario: ScenarioItem) => ({
+export const buildThingJsonLd = (
+  item: Pick<ScenarioItem, "name" | "description" | "slug">,
+  path?: string
+) => ({
   "@context": "https://schema.org",
   "@type": "Thing",
-  name: scenario.name,
-  description: scenario.description,
-  url: absoluteUrl(`/scenarios/${scenario.slug}/`)
+  name: item.name,
+  description: item.description,
+  url: absoluteUrl(path ?? `/scenarios/${item.slug}/`)
 });

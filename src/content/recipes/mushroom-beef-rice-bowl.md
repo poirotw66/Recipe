@@ -1,0 +1,63 @@
+---
+title: "香菇牛肉蓋飯"
+slug: "mushroom-beef-rice-bowl"
+description: "菇類與牛肉一起炒出鮮甜醬汁，蓋在白飯上簡單又有層次。"
+coverImage: "/images/recipes/mushroom-beef-rice-bowl.webp"
+servings: 1
+prepTime: 8
+cookTime: 14
+totalTime: 22
+difficulty: "簡單"
+calories: 535
+protein: 30
+fat: 15
+carbs: 66
+category: "飯麵"
+scenarios:
+  - "一人料理"
+  - "高蛋白料理"
+equipment:
+  - "平底鍋"
+ingredients:
+  - name: "白飯"
+    amount: "1"
+    unit: "碗"
+  - name: "牛肉"
+    amount: "100"
+    unit: "公克"
+  - name: "菇類"
+    amount: "80"
+    unit: "公克"
+seasonings:
+  - name: "醬油"
+    amount: "1.5"
+    unit: "大匙"
+  - name: "蒜頭"
+    amount: "2"
+    unit: "瓣"
+  - name: "水"
+    amount: "60"
+    unit: "毫升"
+tags:
+  - "牛肉"
+  - "炒飯蓋飯"
+intro: "香菇牛肉蓋飯先把菇類炒到香，再下牛肉，鮮味會更明顯。"
+steps:
+  - "牛肉切絲，菇類切片，蒜頭切末；白飯盛碗。"
+  - "平底鍋下油，爆香蒜末與菇類。"
+  - "加入牛肉、醬油與水快炒，熟透後淋在飯上。"
+tips:
+  - "菇類出水後多炒一會，醬汁會更香。"
+storage: "建議現做現吃。"
+substitutions:
+  - "杏鮑菇"
+relatedIngredients:
+  - "牛肉"
+  - "菇類"
+  - "白飯"
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-06-03"
+---
+
+香菇牛肉蓋飯很適合冰箱有盒裝菇類、想快速完成晚餐的時候。

@@ -1,6 +1,6 @@
 # 食譜成品圖繪製清單（給 Gemini）
 
-本站目前內容庫收錄 **50 篇**食譜（既有 12 篇 + 待補 38 篇）。請依下表各產出一張成品圖；圖檔放入 `public/images/recipes/` 後，更新對應 Markdown 的 `coverImage` 為 `.webp` 路徑。
+本站目前內容庫收錄 **80 篇**食譜（原有 50 篇 + 義大利麵專區 16 篇 + 牛肉專區 14 篇）。請依下表各產出一張成品圖；圖檔放入 `public/images/recipes/` 後，對應 Markdown 已預設 `coverImage` 為 `.webp` 路徑，產圖完成即可上線。
 
 ## 輸出規格建議
 
@@ -145,7 +145,7 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 ## 圖片進度狀態
 
 - ✅ **已完成（共 50 篇）**：1 ~ 50
-- 🟡 **待新增（無）**
+- 🟡 **待新增（共 30 篇）**：51 ~ 80（義大利麵專區 16 + 牛肉專區 14）
 
 ---
 
@@ -465,3 +465,302 @@ A highly appetizing plate of Taiwanese onion carrot scrambled egg bento side dis
 ```text
 A highly appetizing plate of Taiwanese tomato garlic cabbage scrambled eggs, single-serving size, with glossy green cabbage ribbons, soft red tomato chunks, and tender scrambled egg curds. Composition: served on a retro floral-patterned ceramic plate on a wooden dining table, close-up 45-degree framing, warm evening side light and subtle steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
+
+---
+
+## 待新增：義大利麵專區 + 牛肉專區（51~80）
+
+> **51~66** 為義大利麵專區；**67~80** 為牛肉專區。格式與前 50 篇一致：**料理描述 + 獨立場景構圖 + 風格尾段**。每張構圖刻意不同，避免重複木桌＋窗光組合。
+
+### 清單與檔名（30）
+
+| # | 食譜名稱 | slug | 建議檔名 |
+| --- | --- | --- | --- |
+| 51 | 蒜香義大利麵 | `garlic-oil-pasta` | `garlic-oil-pasta.webp` |
+| 52 | 番茄蒜香義大利麵 | `tomato-garlic-pasta` | `tomato-garlic-pasta.webp` |
+| 53 | 青蔥蒜香義大利麵 | `scallion-garlic-pasta` | `scallion-garlic-pasta.webp` |
+| 54 | 奶香菇類義大利麵 | `creamy-mushroom-pasta` | `creamy-mushroom-pasta.webp` |
+| 55 | 豆腐番茄義大利麵 | `tofu-tomato-pasta` | `tofu-tomato-pasta.webp` |
+| 56 | 洋蔥蛋香義大利麵 | `onion-bacon-style-egg-pasta` | `onion-bacon-style-egg-pasta.webp` |
+| 57 | 青醬風青蔥義大利麵 | `pesto-style-scallion-pasta` | `pesto-style-scallion-pasta.webp` |
+| 58 | 白醬雞肉義大利麵 | `white-sauce-chicken-pasta` | `white-sauce-chicken-pasta.webp` |
+| 59 | 雞胸青花義大利麵 | `chicken-broccoli-pasta` | `chicken-broccoli-pasta.webp` |
+| 60 | 青醬雞胸義大利麵 | `pesto-chicken-pasta` | `pesto-chicken-pasta.webp` |
+| 61 | 青醬雞肉青花義大利麵 | `pesto-chicken-broccoli-pasta` | `pesto-chicken-broccoli-pasta.webp` |
+| 62 | 青醬雞肉菇類義大利麵 | `pesto-chicken-mushroom-pasta` | `pesto-chicken-mushroom-pasta.webp` |
+| 63 | 青醬蝦仁義大利麵 | `pesto-shrimp-pasta` | `pesto-shrimp-pasta.webp` |
+| 64 | 青醬鮭魚義大利麵 | `pesto-salmon-pasta` | `pesto-salmon-pasta.webp` |
+| 65 | 青醬鮭魚青花義大利麵 | `pesto-salmon-broccoli-pasta` | `pesto-salmon-broccoli-pasta.webp` |
+| 66 | 蒜香鮭魚義大利麵 | `salmon-garlic-pasta` | `salmon-garlic-pasta.webp` |
+| 67 | 蔥花牛肉炒飯 | `scallion-beef-fried-rice` | `scallion-beef-fried-rice.webp` |
+| 68 | 洋蔥牛肉蓋飯 | `onion-beef-rice-bowl` | `onion-beef-rice-bowl.webp` |
+| 69 | 番茄牛肉燴飯 | `tomato-beef-rice-bowl` | `tomato-beef-rice-bowl.webp` |
+| 70 | 香菇牛肉蓋飯 | `mushroom-beef-rice-bowl` | `mushroom-beef-rice-bowl.webp` |
+| 71 | 咖哩牛肉飯 | `curry-beef-rice` | `curry-beef-rice.webp` |
+| 72 | 蔥爆牛肉 | `scallion-beef-stirfry` | `scallion-beef-stirfry.webp` |
+| 73 | 牛肉青花快炒 | `beef-broccoli-stirfry` | `beef-broccoli-stirfry.webp` |
+| 74 | 蒜香牛肉炒高麗菜 | `garlic-beef-cabbage-stirfry` | `garlic-beef-cabbage-stirfry.webp` |
+| 75 | 牛肉炒香菇 | `beef-mushroom-stirfry` | `beef-mushroom-stirfry.webp` |
+| 76 | 洋蔥牛肉片 | `onion-beef-slices` | `onion-beef-slices.webp` |
+| 77 | 醬蒜牛肉片 | `soy-garlic-beef-slices` | `soy-garlic-beef-slices.webp` |
+| 78 | 番茄牛肉麵 | `beef-tomato-noodles` | `beef-tomato-noodles.webp` |
+| 79 | 紅蘿蔔牛肉湯 | `beef-carrot-soup` | `beef-carrot-soup.webp` |
+| 80 | 牛肉豆腐燉煮 | `beef-tofu-braise` | `beef-tofu-braise.webp` |
+
+### 構圖變化對照（51~80 摘要）
+
+| # | 食譜 | 場景／角度／光線（摘要） |
+| --- | --- | --- |
+| 51 | 蒜香義大利麵 | 深碗捲麵、蒜片金黃、大理石檯面、叉子斜置 |
+| 52 | 番茄蒜香義大利麵 | 淺盤紅醬麵、小餐桌檯燈、夜晚暖光 |
+| 53 | 青蔥蒜香義大利麵 | 竹墊俯視、蔥綠蒜香對比、午後柔光 |
+| 54 | 奶香菇類義大利麵 | 奶白醬汁、鍋邊盛盤、蒸氣與暖色廚房光 |
+| 55 | 豆腐番茄義大利麵 | 煎豆腐塊＋紅醬、淺色砧板、側光 |
+| 56 | 洋蔥蛋香義大利麵 | 濃潤蛋醬光澤、深色石板、低角度 |
+| 57 | 青醬風青蔥義大利麵 | 翠綠醬汁、靠窗綠植氛圍、清新日光 |
+| 58 | 白醬雞肉義大利麵 | 奶油白醬＋雞丁、圓瓷盤、黃昏側光 |
+| 59 | 雞胸青花義大利麵 | 健身午餐托盤、綠花椰＋麵、平視 |
+| 60 | 青醬雞胸義大利麵 | 週末小餐桌、青醬裹麵＋煎雞、斜角 |
+| 61 | 青醬雞肉青花義大利麵 | 三色均衡盤、分區俯視、自然光 |
+| 62 | 青醬雞肉菇類義大利麵 | 木勺入畫、菇片與綠醬、鄉村廚房感 |
+| 63 | 青醬蝦仁義大利麵 | 粉蝦＋綠醬、冷調海鮮光、近景 |
+| 64 | 青醬鮭魚義大利麵 | 煎鮭魚塊、燭光晚餐氛圍、低飽和 |
+| 65 | 青醬鮭魚青花義大利麵 | 魚＋花椰＋麵、橫向長盤、午後光斑 |
+| 66 | 蒜香鮭魚義大利麵 | 蒜油麵＋鮭魚、檸檬角、黃銅餐具點綴 |
+| 67 | 蔥花牛肉炒飯 | 鐵鍋快炒感、米粒分明、蒸氣與暖光 |
+| 68 | 洋蔥牛肉蓋飯 | 丼碗俯視、洋蔥牛肉醬汁淋飯 |
+| 69 | 番茄牛肉燴飯 | 紅陶碗、番茄濃汁牛肉、側光 |
+| 70 | 香菇牛肉蓋飯 | 深褐色醬汁、菇片可見、亞麻餐墊 |
+| 71 | 咖哩牛肉飯 | 黃咖哩色調、深碗、香料溫暖光 |
+| 72 | 蔥爆牛肉 | 大火快炒盤、蔥段牛肉、鍋氣蒸氣 |
+| 73 | 牛肉青花快炒 | 綠花椰＋牛肉條、外帶紙盒感、斜角 |
+| 74 | 蒜香牛肉炒高麗菜 | 脆高麗菜絲、蒜香牛肉、石板墊 |
+| 75 | 牛肉炒香菇 | 深色醬光澤、菇片厚實、中島檯面 |
+| 76 | 洋蔥牛肉片 | 鐵板餘溫感、洋蔥牛肉片、低角度 |
+| 77 | 醬蒜牛肉片 | 醬色亮面牛肉、白瓷盤、晨光 |
+| 78 | 番茄牛肉麵 | 湯麵大碗、番茄湯頭蒸氣、筷子搁碗沿 |
+| 79 | 紅蘿蔔牛肉湯 | 陶鍋清湯、紅蘿蔔塊與牛肉、冬日窗光 |
+| 80 | 牛肉豆腐燉煮 | 砂鍋燉煮、豆腐與牛肉、燭光與蒸氣 |
+
+---
+
+## 待新增 30 篇 Gemini Prompt（51~80）
+
+### 義大利麵專區（51~66）
+
+#### 51. 蒜香義大利麵 — `garlic-oil-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese aglio e olio style garlic spaghetti, single-serving size, with glossy spaghetti strands, thin golden garlic chips, and a light olive-oil sheen with black pepper specks. Composition: twirled in a deep ceramic pasta bowl on a cool marble kitchen counter, stainless fork resting diagonally, crisp neutral daylight from the left, minimalist modern small-kitchen mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 52. 番茄蒜香義大利麵 — `tomato-garlic-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese tomato garlic spaghetti, single-serving size, with al dente pasta coated in bright red tomato sauce, visible minced garlic, and juicy tomato pieces. Composition: served in a wide shallow bowl on a small bistro table, warm desk-lamp glow at night, cozy rental-kitchen dinner mood, three-quarter eye-level view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 53. 青蔥蒜香義大利麵 — `scallion-garlic-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese scallion garlic spaghetti, single-serving size, with spaghetti tossed in savory sauce, vibrant green scallion segments, and aromatic garlic bits. Composition: centered on a bamboo placemat, straight top-down view, crisp color contrast between greens and golden noodles, soft diffused afternoon light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 54. 奶香菇類義大利麵 — `creamy-mushroom-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese creamy mushroom spaghetti, single-serving size, with silky white cream sauce, sliced sautéed mushrooms, and lightly glossed pasta strands. Composition: just lifted from a saucepan edge into a shallow bowl, gentle steam, warm tungsten kitchen light mixed with window fill, homestyle stovetop mood, medium close-up. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 55. 豆腐番茄義大利麵 — `tofu-tomato-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese tofu tomato spaghetti, single-serving size, with golden-edged tofu cubes, chunky tomato sauce, and well-coated spaghetti. Composition: on a light wooden cutting board near a tiled backsplash, fresh side daylight, airy framing with negative space, practical budget-cooking vibe. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 56. 洋蔥蛋香義大利麵 — `onion-bacon-style-egg-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese onion egg spaghetti (no bacon), single-serving size, with caramelized onion strands and a rich creamy egg sauce coating glossy pasta. Composition: served on dark slate stone, low dramatic angle, subtle steam, evening side light emphasizing sauce shine, indulgent comfort-food mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 57. 青醬風青蔥義大利麵 — `pesto-style-scallion-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese scallion pesto-style spaghetti, single-serving size, with vivid green scallion-garlic pesto coating every strand and a fresh herbaceous look. Composition: near a bright window with soft houseplant bokeh, clean morning daylight, refreshing spring-dinner mood, 45-degree three-quarter view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 58. 白醬雞肉義大利麵 — `white-sauce-chicken-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese white sauce chicken spaghetti, single-serving size, with creamy ivory sauce, tender chicken cubes, and lightly peppered pasta. Composition: round white ceramic plate on a dining table at dusk, golden hour side light, cozy weekend-at-home feeling, gentle steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 59. 雞胸青花義大利麵 — `chicken-broccoli-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese chicken breast broccoli spaghetti, single-serving size, with sliced seared chicken, bright green broccoli florets, and lightly seasoned pasta. Composition: on a simple lunch tray with speckled laminate surface, eye-level side view, bright neutral daylight, balanced meal-prep mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 60. 青醬雞胸義大利麵 — `pesto-chicken-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese pesto chicken spaghetti, single-serving size, with green scallion pesto sauce, golden pan-seared chicken strips, and glossy coated pasta. Composition: small weekend dinner table setting, soft angled view, warm ambient light, relaxed celebratory mood without wine labels or readable text. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 61. 青醬雞肉青花義大利麵 — `pesto-chicken-broccoli-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese pesto chicken broccoli spaghetti, single-serving size, showing green pesto pasta, tender chicken pieces, and crisp broccoli in balanced portions. Composition: oval plate top-down three-quarter view, natural daylight emphasizing red-green-white color balance, clean healthy dinner mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 62. 青醬雞肉菇類義大利麵 — `pesto-chicken-mushroom-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese pesto chicken mushroom spaghetti, single-serving size, with green pesto-coated pasta, sliced mushrooms, and juicy chicken pieces. Composition: rustic wooden spoon partly in frame, countryside kitchen tabletop, warm afternoon sun patch, earthy homestyle mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 63. 青醬蝦仁義大利麵 — `pesto-shrimp-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese pesto shrimp spaghetti, single-serving size, with pink curled shrimp, bright green scallion pesto sauce, and glossy pasta strands. Composition: close-up hero framing, slightly cool seafood-friendly lighting, fresh coastal-dinner mood, shallow depth of field. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 64. 青醬鮭魚義大利麵 — `pesto-salmon-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese pesto salmon spaghetti, single-serving size, with pan-seared salmon chunks, green pesto-coated pasta, and a hint of lemon brightness. Composition: intimate candlelit dinner table (soft glow only, no readable labels), low saturation romantic mood, three-quarter view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 65. 青醬鮭魚青花義大利麵 — `pesto-salmon-broccoli-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese pesto salmon broccoli spaghetti, single-serving size, featuring flaky salmon, green broccoli florets, and vibrant pesto pasta in one harmonious plate. Composition: long horizontal plate on a table with afternoon sun dapples, calm balanced-nutrition mood, gentle side angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 66. 蒜香鮭魚義大利麵 — `salmon-garlic-pasta.webp`
+
+```text
+A highly appetizing plate of Taiwanese garlic salmon spaghetti, single-serving size, with golden salmon pieces, garlic-infused olive oil pasta, and a small lemon wedge on the side. Composition: brass-toned fork beside the plate on a linen napkin, crisp highlights on fish skin, modern apartment kitchen island, 45-degree angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+### 牛肉專區（67~80）
+
+#### 67. 蔥花牛肉炒飯 — `scallion-beef-fried-rice.webp`
+
+```text
+A highly appetizing bowl of Taiwanese scallion beef fried rice, single-serving size, with fluffy separated rice grains, tender beef bits, and plenty of green scallion. Composition: wok-to-plate impression with subtle steam, warm high-heat kitchen glow, dynamic slight tilt angle, energetic weeknight dinner mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 68. 洋蔥牛肉蓋飯 — `onion-beef-rice-bowl.webp`
+
+```text
+A highly appetizing bowl of Taiwanese onion beef rice bowl, single-serving size, with glossy savory onion beef topping over hot steamed rice. Composition: classic donburi bowl top-down view, clean neutral tabletop, soft noon daylight, simple lunch-at-home mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 69. 番茄牛肉燴飯 — `tomato-beef-rice-bowl.webp`
+
+```text
+A highly appetizing bowl of Taiwanese tomato beef rice bowl, single-serving size, with juicy tomato chunks, tender beef, and thick reddish gravy over rice. Composition: served in a warm terracotta-colored ceramic bowl, side window light, rich red tones, comforting homestyle mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 70. 香菇牛肉蓋飯 — `mushroom-beef-rice-bowl.webp`
+
+```text
+A highly appetizing bowl of Taiwanese mushroom beef rice bowl, single-serving size, with sliced mushrooms, savory beef, and deep brown glossy sauce over fluffy rice. Composition: on a linen placemat with earthy tones, eye-level three-quarter view, soft indoor blended light, umami-rich mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 71. 咖哩牛肉飯 — `curry-beef-rice.webp`
+
+```text
+A highly appetizing bowl of Taiwanese curry beef rice, single-serving size, with golden curry sauce, small beef pieces, onion and carrot bits over steamed rice. Composition: deep bowl centered on a spice-toned wooden table, warm amber lighting suggesting cozy curry-night mood, gentle steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 72. 蔥爆牛肉 — `scallion-beef-stirfry.webp`
+
+```text
+A highly appetizing plate of Taiwanese scallion beef stir-fry, single-serving size, with wok-seared beef strips, long green scallion sections, and a light glossy sauce. Composition: hot plate just off the stove, rising steam, warm kitchen tungsten, energetic high-heat stir-fry mood, medium close-up low angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 73. 牛肉青花快炒 — `beef-broccoli-stirfry.webp`
+
+```text
+A highly appetizing plate of Taiwanese beef broccoli stir-fry, single-serving size, with tender beef strips and vibrant green broccoli florets in savory sauce. Composition: served in a shallow takeout-style paper tray on a desk lunch scene, bright overhead office light, practical weekday mood, diagonal framing. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 74. 蒜香牛肉炒高麗菜 — `garlic-beef-cabbage-stirfry.webp`
+
+```text
+A highly appetizing plate of Taiwanese garlic beef cabbage stir-fry, single-serving size, with crisp glossy cabbage ribbons, garlic aroma cues, and juicy beef slices. Composition: on a dark slate placemat with a wooden spatula edge in frame, warm side light, fresh-from-wok homestyle mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 75. 牛肉炒香菇 — `beef-mushroom-stirfry.webp`
+
+```text
+A highly appetizing plate of Taiwanese beef mushroom stir-fry, single-serving size, with thick mushroom slices, tender beef, and dark savory soy glaze. Composition: light kitchen island stone surface, cool-neutral daylight with crisp highlights on sauce, modern small-apartment cooking mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 76. 洋蔥牛肉片 — `onion-beef-slices.webp`
+
+```text
+A highly appetizing plate of Taiwanese onion beef slices, single-serving size, with thin tender beef, sweet translucent onion, and light brown pan sauce. Composition: sizzling-plate impression on a dark tabletop, low angle emphasizing steam and juice sheen, warm dinner mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 77. 醬蒜牛肉片 — `soy-garlic-beef-slices.webp`
+
+```text
+A highly appetizing plate of Taiwanese soy garlic beef slices, single-serving size, with glossy soy-glazed beef, visible garlic, and lightly charred edges. Composition: white porcelain plate on a pale counter, fresh morning side light, clean simple plating, appetizing shine on meat surface. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 78. 番茄牛肉麵 — `beef-tomato-noodles.webp`
+
+```text
+A highly appetizing bowl of Taiwanese tomato beef noodle soup, single-serving size, with wavy noodles in reddish tomato broth, tender beef slices, and tomato chunks, gentle steam rising. Composition: large soup bowl on a noodle-shop-style laminate table, chopsticks resting on the bowl rim, eye-level view, comforting rainy-day lunch mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 79. 紅蘿蔔牛肉湯 — `beef-carrot-soup.webp`
+
+```text
+A highly appetizing bowl of Taiwanese carrot beef soup, single-serving size, with clear golden broth, chunky orange carrot pieces, and tender beef cubes. Composition: rustic clay pot or deep ceramic bowl near a frosted winter window, soft cool daylight, gentle steam curls, soothing soup-night mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 80. 牛肉豆腐燉煮 — `beef-tofu-braise.webp`
+
+```text
+A highly appetizing pot of Taiwanese beef tofu braise for one person, with soft tofu blocks, onion, and simmered beef in savory brown broth, visible gentle bubbles and steam. Composition: small clay pot on a trivet at the dining table, warm candle-adjacent glow (no readable text), cozy slow-cooked dinner mood, three-quarter view into the pot. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+---
+
+## 待新增（51~80）純文字條列
+
+51. 蒜香義大利麵  
+52. 番茄蒜香義大利麵  
+53. 青蔥蒜香義大利麵  
+54. 奶香菇類義大利麵  
+55. 豆腐番茄義大利麵  
+56. 洋蔥蛋香義大利麵  
+57. 青醬風青蔥義大利麵  
+58. 白醬雞肉義大利麵  
+59. 雞胸青花義大利麵  
+60. 青醬雞胸義大利麵  
+61. 青醬雞肉青花義大利麵  
+62. 青醬雞肉菇類義大利麵  
+63. 青醬蝦仁義大利麵  
+64. 青醬鮭魚義大利麵  
+65. 青醬鮭魚青花義大利麵  
+66. 蒜香鮭魚義大利麵  
+67. 蔥花牛肉炒飯  
+68. 洋蔥牛肉蓋飯  
+69. 番茄牛肉燴飯  
+70. 香菇牛肉蓋飯  
+71. 咖哩牛肉飯  
+72. 蔥爆牛肉  
+73. 牛肉青花快炒  
+74. 蒜香牛肉炒高麗菜  
+75. 牛肉炒香菇  
+76. 洋蔥牛肉片  
+77. 醬蒜牛肉片  
+78. 番茄牛肉麵  
+79. 紅蘿蔔牛肉湯  
+80. 牛肉豆腐燉煮  

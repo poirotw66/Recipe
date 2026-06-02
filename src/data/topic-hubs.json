@@ -1,0 +1,24 @@
+[
+  {
+    "name": "義大利麵專區",
+    "slug": "pasta",
+    "description": "收錄蒜香、番茄、青醬、白醬與肉類海鮮義大利麵，含多道青醬雞肉與鮭魚、蝦仁做法，適合小廚房快煮。",
+    "seoTitle": "義大利麵食譜專區｜青醬肉類海鮮與家常快煮麵",
+    "seoDescription": "義大利麵專區收錄青醬雞肉、青醬鮭魚、青醬蝦仁與蒜香番茄等做法，適合一人份平日晚餐。",
+    "tags": ["一人份", "快煮", "青醬", "海鮮"],
+    "recipeTags": ["義大利麵"],
+    "commonIngredients": ["pasta", "chicken-breast", "salmon", "shrimp", "scallion", "garlic"],
+    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals"]
+  },
+  {
+    "name": "牛肉專區",
+    "slug": "beef",
+    "description": "收錄 14 道一人份牛肉料理，從炒飯蓋飯、快炒配菜到湯品與煎烤主菜，適合小廚房與平日晚餐。",
+    "seoTitle": "牛肉食譜專區｜14 道炒飯快炒湯品家常牛肉料理",
+    "seoDescription": "牛肉專區收錄蔥花牛肉炒飯、洋蔥牛肉蓋飯、蒜香牛肉片與紅蘿蔔牛肉湯等 14 道做法，適合一人份晚餐。",
+    "tags": ["一人份", "高蛋白", "家常牛肉"],
+    "recipeTags": ["牛肉"],
+    "commonIngredients": ["beef", "noodles", "onion", "scallion", "tomato", "garlic"],
+    "relatedScenarios": ["one-person-meal", "high-protein-meals", "bento-meals"]
+  }
+]

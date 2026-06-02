@@ -34,7 +34,7 @@ const recipeFixtures = [
   {
     slug: "steamed-chicken-bento",
     title: "電鍋雞胸便當菜",
-    ingredients: ["雞胸肉", "青花菜", "胡蘿蔔"],
+    ingredients: ["雞胸肉", "青花菜", "紅蘿蔔"],
     scenarios: ["高蛋白料理", "便當菜"],
     equipment: ["電鍋"],
     totalTime: 20,

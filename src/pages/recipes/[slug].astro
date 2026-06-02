@@ -7,7 +7,7 @@ import RecipeImage from "../../components/RecipeImage.astro";
 import RecipeLayout from "../../layouts/RecipeLayout.astro";
 import { getRelatedRecipes } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildFaqJsonLd, buildRecipeJsonLd } from "../../lib/seo";
-import { getIngredientByName, getScenarioByName } from "../../lib/taxonomy";
+import { getIngredientByName, getScenarioByName, getTopicHubLinksForRecipe } from "../../lib/taxonomy";
 
 export async function getStaticPaths() {
   const recipes = await getCollection("recipes");
@@ -43,6 +43,7 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
 ]);
 const recipeJsonLd = buildRecipeJsonLd(recipe);
 const faqJsonLd = recipe.data.faqs.length > 0 ? buildFaqJsonLd(recipe.data.faqs) : null;
+const topicHubLinks = getTopicHubLinksForRecipe(recipe);
 ---
 
 <RecipeLayout recipe={recipe}>
@@ -78,6 +79,11 @@ const faqJsonLd = recipe.data.faqs.length > 0 ? buildFaqJsonLd(recipe.data.faqs)
           <div class="chip-row">
             {recipe.data.equipment.map((item) => <span class="chip note">{item}</span>)}
             {scenarioLinks.map((item) => <a class="chip" href={`/scenarios/${item.slug}/`}>{item.name}</a>)}
+            {topicHubLinks.map((hub) => (
+              <a class="chip note" href={`/${hub.slug}/`}>
+                {hub.name}
+              </a>
+            ))}
           </div>
 
           <div class="section-links">

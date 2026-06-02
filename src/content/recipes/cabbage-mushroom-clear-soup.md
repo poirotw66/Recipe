@@ -49,7 +49,7 @@ storage: "冷藏可放 1 天。"
 substitutions:
   - "可加入豆腐增加蛋白質。"
 faqs:
-  - question: "可以加胡蘿蔔嗎？"
+  - question: "可以加紅蘿蔔嗎？"
     answer: "可以，湯會更甜。"
   - question: "需要高湯粉嗎？"
     answer: "不用也可以有自然鮮味。"
