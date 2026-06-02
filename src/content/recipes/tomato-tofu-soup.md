@@ -2,7 +2,7 @@
 title: "番茄豆腐湯"
 slug: "tomato-tofu-soup"
 description: "番茄豆腐湯是清爽的一人湯品，番茄酸甜、豆腐補蛋白質。"
-coverImage: "/images/recipes/tomato-tofu-soup.svg"
+coverImage: "/images/recipes/tomato-tofu-soup.webp"
 servings: 2
 prepTime: 6
 cookTime: 12

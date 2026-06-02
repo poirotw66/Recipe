@@ -2,7 +2,7 @@
 title: "番茄雞蛋飯"
 slug: "tomato-egg-rice"
 description: "把剩飯、番茄和雞蛋變成一盤濕潤好入口的快手料理，適合忙碌平日晚餐。"
-coverImage: "/images/recipes/tomato-egg-rice.svg"
+coverImage: "/images/recipes/tomato-egg-rice.webp"
 servings: 1
 prepTime: 5
 cookTime: 10

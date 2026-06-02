@@ -2,7 +2,7 @@
 title: "蒜香菇菇雞胸"
 slug: "garlic-mushroom-chicken"
 description: "蒜香菇菇雞胸用雞胸肉和菇類做出高蛋白主菜，適合減脂晚餐與便當。"
-coverImage: "/images/recipes/garlic-mushroom-chicken.svg"
+coverImage: "/images/recipes/garlic-mushroom-chicken.webp"
 servings: 2
 prepTime: 8
 cookTime: 12
