@@ -144,12 +144,12 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 
 ## 圖片進度狀態
 
-- ✅ **已完成（共 80 篇）**：1 ~ 80（原有 50 篇 + 義大利麵專區 16 篇 + 牛肉專區 14 篇）
-- 🟡 **待新增（共 20 篇）**：81 ~ 100（新菜單提案；網站暫用 SVG 佔位）
+- ✅ **已完成（共 84 篇）**：1 ~ 67（原有 50 篇 + 義大利麵專區 16 篇 + 牛肉專區 67 號 1 篇），81 ~ 97（新菜單提案 17 篇）
+- 🟡 **待新增（共 16 篇）**：68 ~ 80（牛肉專區 13 篇），98 ~ 100（新菜單提案 3 篇，受限於模型配額暫時搁置）
 
 ---
 
-## 已完成（1~70）純文字條列
+## 已完成（1~67）純文字條列
 
 1. 番茄雞蛋飯  
 2. 蔥蛋拌飯  
@@ -218,9 +218,6 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 65. 青醬鮭魚青花義大利麵  
 66. 蒜香鮭魚義大利麵  
 67. 蔥花牛肉炒飯  
-68. 洋蔥牛肉蓋飯  
-69. 番茄牛肉燴飯  
-70. 香菇牛肉蓋飯  
 
 ---
 
@@ -747,23 +744,30 @@ A comforting bowl of Taiwanese clear beef and carrot soup, single-serving size. 
 #### 80. 牛肉豆腐燉煮 — `beef-tofu-braise.webp`
 
 ```text
-A comforting pot of Taiwanese simmered beef and tofu, single-serving size. Soft white tofu blocks, tender beef slices, and sweet onions are slow-cooked in a savory brown broth, garnished with scallion rings. Composition: served in a small ceramic pot on a trivet, with a warm amber candlelight glow nearby. Subtle steam and bubbling broth evoke a cozy, slow-cooked winter dinner. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A comforting pot of Taiwanese simmered beef and tofu, single-serving size. Soft white tofu blocks, tender beef slices, and sweet onions are slow-cooked in a savory brown broth, garnished with fresh green scallion rings. Composition: served in a small ceramic clay pot on a trivet at the dining table, with a warm amber candlelight glow nearby. Subtle steam and bubbling broth evoke a cozy, slow-cooked winter dinner. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ---
 
-## 已完成（71~80）純文字條列
+## 已完成（81~97）純文字條列
 
-71. 咖哩牛肉飯  
-72. 蔥爆牛肉  
-73. 牛肉青花快炒  
-74. 蒜香牛肉炒高麗菜  
-75. 牛肉炒香菇  
-76. 洋蔥牛肉片  
-77. 醬蒜牛肉片  
-78. 番茄牛肉麵  
-79. 紅蘿蔔牛肉湯  
-80. 牛肉豆腐燉煮  
+81. 澎湃海陸早午餐  
+82. 香煎翼板牛排早午餐  
+83. 金黃酥炸鱈魚早午餐  
+84. 爐烤檸香鮭魚早午餐  
+85. 煙燻鮭魚早午餐  
+86. 野菇嫩蛋早午餐  
+87. 香草煎雞胸早午餐  
+88. 經典凱薩嫩雞沙拉  
+89. 煙燻鮭魚凱薩沙拉  
+90. 蒜香奶油鮮蝦麵  
+91. 黑松露野菇蝴蝶麵  
+92. 蒜辣培根橄欖油麵  
+93. 田園時蔬義大利麵  
+94. 海鮮番茄辣麵  
+95. 肯瓊香辣薯條  
+96. 英式炸魚薯條  
+97. 炸物三重奏  
 
 ---
 
@@ -830,43 +834,43 @@ A comforting pot of Taiwanese simmered beef and tofu, single-serving size. Soft 
 #### 81. 澎湃海陸早午餐 — `surf-turf-brunch.webp`
 
 ```text
-A lavish Taiwanese-style surf-and-turf brunch plate for one person, featuring sliced medium-rare steak, pink garlic shrimp, soft scrambled eggs, and pan-seared tomato wedges arranged in neat sections on a large round plate. Composition: weekend brunch table with linen napkin and juice glass (no logos), three-quarter overhead angle, bright late-morning window light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A lavish, highly appetizing Taiwanese-style surf-and-turf brunch platter for one person. Placed on a large, round cream-colored ceramic plate are neatly arranged sections of juicy, medium-rare sliced steak with grilled lines, plump pink garlic shrimp glistening with oil, fluffy golden soft scrambled eggs, and lightly charred red tomato wedges. Composition: set on a rustic wooden dining table during a weekend brunch, with a folded linen napkin and a glass of fresh orange juice nearby. Bright, warm late-morning window daylight streams in, creating soft long shadows and highlighting the rich textures. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 82. 香煎翼板牛排早午餐 — `pan-seared-flap-steak-brunch.webp`
 
 ```text
-A highly appetizing Taiwanese pan-seared flap steak brunch for one person, with juicy sliced steak, a runny-yolk fried egg, and blanched broccoli florets on the side. Composition: cast-iron skillet edge visible on a rustic wooden board, soft morning side light, eye-level three-quarter view with gentle steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A mouth-watering Taiwanese pan-seared flap steak brunch plate for one person. Slices of tender, juicy medium-rare steak are fanned out, showcasing a pink center. Next to the steak is a perfectly fried sunny-side-up egg with a runny golden yolk, and vibrant green blanched broccoli florets. Composition: served in a seasoned black cast-iron skillet resting on a rustic wooden board. Warm morning daylight streams in from the side, illuminating gentle curls of steam rising from the hot food, captured from an eye-level three-quarter angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 83. 金黃酥炸鱈魚早午餐 — `crispy-cod-brunch.webp`
 
 ```text
-A golden crispy fried cod brunch plate for one person, with crunchy battered cod fillet, creamy tartar-style yogurt sauce, lemon wedge, and a few cherry tomato halves. Composition: served on a shallow basket-lined plate on a light blue tabletop, crisp side lighting emphasizing crunch texture, 45-degree angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A beautiful, crispy fried cod brunch plate, single-serving size. Features a golden-brown, crunchy battered cod fillet, topped with a dollop of creamy white tartar sauce. Arranged neatly beside it are fresh lemon wedges, a small heap of crisp salad greens, and sweet cherry tomato halves. Composition: served on a shallow basket-lined plate on a light blue pastel tabletop. Crisp afternoon side lighting accentuates the crunchy texture of the batter, captured from a 45-degree angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 84. 爐烤檸香鮭魚早午餐 — `roasted-lemon-salmon-brunch.webp`
 
 ```text
-A healthy Taiwanese roasted lemon salmon brunch for one person, with golden-edged baked salmon fillet, roasted broccoli and onion chunks on parchment-lined sheet pan style plating. Composition: modern kitchen counter near oven warmth glow, soft amber light, diagonal composition showing glistening fish skin. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing, healthy oven-roasted lemon salmon brunch for one person. A thick salmon fillet with golden-crisped skin is baked to perfection, garnished with charred lemon wheels and fresh dill. It is surrounded by roasted broccoli florets and sweet red onion chunks, served on parchment-lined sheet pan style plating. Composition: placed on a modern stone kitchen counter near the warm amber glow of a kitchen light, with a diagonal composition highlighting the glistening salmon surface. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 85. 煙燻鮭魚早午餐 — `smoked-salmon-brunch.webp`
 
 ```text
-An elegant Taiwanese smoked salmon brunch for one person, with silky soft scrambled eggs, folded smoked salmon slices, and fresh tomato rounds on a wide shallow plate. Composition: bright breakfast table near window, airy cool morning light, minimalist styling without readable text on props. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+An elegant, fresh smoked salmon brunch plate, single-serving size. Featuring delicate folds of silky, pink-orange smoked salmon, served alongside creamy, fluffy soft scrambled eggs and fresh, bright red tomato slices. Composition: arranged on a wide, shallow white ceramic plate on a bright breakfast table. Light, airy morning daylight filters through a window, creating a serene, minimalist weekend breakfast scene. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 86. 野菇嫩蛋早午餐 — `mushroom-soft-egg-brunch.webp`
 
 ```text
-A vegetarian-friendly Taiwanese mushroom soft-scrambled egg brunch for one person, with glossy sautéed mixed mushrooms and creamy half-set eggs sprinkled with scallions in a dark ceramic bowl. Composition: rustic farmhouse wooden table, warm afternoon sun patch, close-up three-quarter view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing, vegetarian-friendly mushroom soft-scrambled egg brunch for one person. Creamy, glossy half-set eggs are cooked with a rich mix of golden-brown sautéed shiitake and button mushrooms, sprinkled with fresh green scallion rings. Composition: served in a textured dark ceramic bowl on a rustic farmhouse wooden table. A patch of warm afternoon sun shines on the bowl, capturing the comforting textures from a close-up three-quarter angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 87. 香草煎雞胸早午餐 — `herb-pan-chicken-brunch.webp`
 
 ```text
-A lean Taiwanese herb pan-seared chicken breast brunch for one person, with sliced lemon-herb chicken, tender broccoli, and a sunny-side egg on a simple lunch tray. Composition: speckled laminate tray surface, neutral daylight, balanced meal-prep framing at eye level. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A healthy, appetizing herb pan-seared chicken breast brunch for one person. Features tender, juicy slices of chicken breast seasoned with green herbs, served beside bright green broccoli florets and a golden sunny-side-up egg. Composition: presented neatly in a divided ceramic dish on a speckled laminate lunch tray. Bright, neutral daylight highlights the balanced colors from an eye-level perspective. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 特色菜（88~89）
@@ -874,13 +878,13 @@ A lean Taiwanese herb pan-seared chicken breast brunch for one person, with slic
 #### 88. 經典凱薩嫩雞沙拉 — `classic-caesar-chicken-salad.webp`
 
 ```text
-A classic Taiwanese Caesar chicken salad for one person, with crisp romaine lettuce, sliced grilled chicken breast, shaved cheese, and creamy Caesar dressing gloss in a wide bowl. Composition: marble-pattern tabletop, fresh noon top-angled view, chrome fork beside bowl (no branding). Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A classic, fresh Caesar chicken salad, single-serving size. Features a mountain of crisp, vibrant green romaine lettuce leaves tossed in a glossy creamy Caesar dressing, topped with tender sliced grilled chicken breast with subtle char marks, and shaved parmesan cheese. Composition: served in a large ceramic bowl on a grey marble-patterned tabletop, under soft midday daylight, with a simple fork resting beside the bowl. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 89. 煙燻鮭魚凱薩沙拉 — `smoked-salmon-caesar-salad.webp`
 
 ```text
-A refined Taiwanese smoked salmon Caesar salad for one person, with curly smoked salmon ribbons, crunchy lettuce, crouton cubes, and light Caesar dressing. Composition: served in a shallow white bowl on grey linen cloth, cool soft daylight, close-up hero framing. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing, refined smoked salmon Caesar salad for one person. Features delicate, curly ribbons of pink smoked salmon nestled among crisp, crunchy green romaine lettuce, crouton cubes, and a drizzle of rich Caesar dressing. Composition: served in a shallow white bowl on a soft grey linen cloth. Cool, diffused daylight emphasizes the fresh colors and textures from a close-up angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 義大利麵（90~94）
@@ -888,31 +892,31 @@ A refined Taiwanese smoked salmon Caesar salad for one person, with curly smoked
 #### 90. 蒜香奶油鮮蝦麵 — `garlic-cream-shrimp-pasta.webp`
 
 ```text
-A rich Taiwanese garlic cream shrimp pasta for one person, with plump pink shrimp and spaghetti coated in silky ivory garlic cream sauce. Composition: deep pasta bowl on warm-toned kitchen counter, gentle steam, evening tungsten mixed with window fill, medium close-up. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of rich garlic cream shrimp pasta, single-serving size. Neatly twirled al dente spaghetti is coated in a velvety, silky ivory garlic cream sauce, topped with plump, pink-orange seared shrimp and a sprinkle of chopped parsley. Composition: served in a deep ceramic pasta bowl on a warm-toned wooden kitchen island. Soft ambient tungsten light mixes with window daylight, capturing gentle curls of steam rising from the dish. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 91. 黑松露野菇蝴蝶麵 — `truffle-mushroom-farfalle.webp`
 
 ```text
-An aromatic Taiwanese truffle mushroom farfalle pasta for one person, with bow-tie pasta tossed in cream sauce, golden sautéed mushroom slices, and subtle truffle oil sheen. Composition: straight top-down view on slate plate, earthy mood lighting, scattered parsley garnish. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+An aromatic plate of black truffle mushroom farfalle pasta, single-serving size. Bow-tie farfalle pasta is tossed in a light cream sauce with tender sautéed wild mushrooms, glistening with a subtle black truffle oil sheen, and garnished with fresh parsley. Composition: presented on a flat dark slate plate, viewed from a straight top-down perspective, under moody, soft dining room lighting. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 92. 蒜辣培根橄欖油麵 — `spicy-garlic-bacon-pasta.webp`
 
 ```text
-A bold Taiwanese spicy garlic bacon spaghetti for one person, with crispy bacon bits, chili flakes, garlic chips, and glossy olive-oil coated pasta in a shallow pan. Composition: bistro table with small desk lamp at night, warm highlights on bacon edges, dynamic low angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A bold and savory spicy garlic bacon spaghetti, single-serving size. Spaghetti is tossed in a glossy garlic-infused olive oil, mixed with crispy, golden-brown bacon bits, red chili flakes, and toasted garlic chips. Composition: served in a shallow ceramic dish on a dark bistro table at night. Bathed in the warm, cozy glow of a desk lamp, emphasizing the crispy bacon textures from a dynamic low angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 93. 田園時蔬義大利麵 — `garden-vegetable-pasta.webp`
 
 ```text
-A colorful Taiwanese garden vegetable pasta for one person, with spaghetti tossed in light tomato sauce, diced zucchini, bell pepper, and cherry tomato halves. Composition: white ceramic plate on garden-green placemat, bright afternoon window light, fresh vegetarian lunch mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A colorful, vibrant plate of garden vegetable pasta, single-serving size. Golden spaghetti is tossed in a light, sweet tomato marinara sauce, loaded with sautéed zucchini wheels, red bell pepper strips, and juicy cherry tomato halves. Composition: served on a clean white ceramic plate on a light green linen placemat, under bright, natural afternoon window light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 94. 海鮮番茄辣麵 — `spicy-seafood-tomato-pasta.webp`
 
 ```text
-A zesty Taiwanese spicy seafood tomato pasta (puttanesca-inspired) for one person, with shrimp, chunky tomato sauce, olives, garlic, and chili-kissed spaghetti. Composition: wide shallow bowl on dark wooden table, dramatic side light, visible steam and sauce gloss, 45-degree view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A rich and savory plate of spicy seafood tomato pasta, single-serving size. Al dente spaghetti is coated in a thick, glossy red tomato sauce with chili flakes, topped with plump shrimp, calamari rings, and black olives. Composition: served in a wide, shallow ceramic bowl on a dark wooden table. Dramatic side window light highlights the glossy sauce and a wisp of rising steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ### 小點 Sides（95~100）
@@ -920,37 +924,37 @@ A zesty Taiwanese spicy seafood tomato pasta (puttanesca-inspired) for one perso
 #### 95. 肯瓊香辣薯條 — `cajun-fries.webp`
 
 ```text
-A tempting bowl of Taiwanese Cajun spiced french fries for one serving, with thick golden fries dusted in reddish spice blend in a paper-lined basket. Composition: pub-style wooden table, warm amber pendant light, slight overhead angle showing crisp edges. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly tempting bowl of crispy Cajun spiced french fries, single-serving size. Thick-cut, golden-brown fries are dusted with a reddish Cajun spice blend, served in a rustic paper-lined wire basket. Composition: set on a dark pub-style wooden table, under a warm amber pendant light that highlights the crunchy textures from a slight overhead angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 96. 英式炸魚薯條 — `fish-and-chips.webp`
 
 ```text
-A classic British-style fish and chips for one person, with crispy battered cod fillet, thick fries, lemon wedge, and small sauce cup on faux newspaper-style liner (no readable text). Composition: seaside cafe table mood, cool overcast daylight, eye-level side view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A classic, comforting fish and chips platter for one person. Features a large, golden-brown crispy battered cod fish fillet and a pile of thick-cut fries, served with a lemon wedge and a small cup of tartar sauce. Composition: placed on a rustic wood table with a faux newspaper-style liner (no readable text), under soft, cool overcast daylight suggesting a cozy seaside cafe mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 97. 炸物三重奏 — `fried-trio-platter.webp`
 
 ```text
-A Taiwanese fried trio platter for sharing size shown as one generous portion, with french fries, fried cod pieces, and golden mozzarella sticks arranged in three compartments on a wooden board. Composition: party-table setting, mixed warm indoor light, three-quarter overhead view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing fried platter for sharing, presented as one generous portion. Arranged neatly in three sections of a divided wooden platter are golden-brown french fries, crispy battered cod nuggets, and melted mozzarella sticks with a stretchy cheese pull. Composition: set on a casual party table under warm, mixed indoor lighting, viewed from a three-quarter overhead angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 98. 主廚每日例湯 — `chefs-daily-soup.webp`
 
 ```text
-A comforting Taiwanese chef's daily vegetable soup for one bowl, with clear golden broth, carrot cubes, cabbage, tomato, and gentle steam. Composition: handmade ceramic bowl on knitted wool mat near frosted winter window, soft cool daylight, calm homestyle mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A comforting, steaming bowl of chef's daily vegetable soup, single-serving size. A clear, golden broth is filled with tender carrot cubes, sweet cabbage ribbons, and juicy tomato chunks. Composition: served in a textured, handmade ceramic bowl resting on a knitted wool coaster near a frosted winter window. Soft, cool winter daylight captures the gentle steam curls rising upward. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 99. 蜜汁紐澳良雞翅 — `honey-cajun-chicken-wings.webp`
 
 ```text
-Glazed Taiwanese honey Cajun chicken wings for one serving, with sticky caramelized sauce, charred grill marks, and glossy spice crust on a dark plate. Composition: backyard grill-party table at dusk, warm fire-like glow, close-up low angle with rising steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A highly appetizing plate of honey Cajun chicken wings, single-serving size. Features glossy, sticky caramelized chicken wings with subtle charred grill marks and a rich honey-glaze sheen. Composition: placed on a dark stoneware plate on an outdoor party table at dusk. Bathed in a warm, fire-like ambient glow, captured from a close-up low angle with rising steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 #### 100. 季節鮮蔬沙拉碗 — `seasonal-greens-salad-bowl.webp`
 
 ```text
-A fresh Taiwanese seasonal greens salad bowl for one person, with mixed lettuce, cucumber ribbons, carrot shreds, tomato wedges, and glossy lemon vinaigrette. Composition: large ceramic bowl on light bamboo mat, bright top-down view, clean summer lunch atmosphere. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+A fresh and vibrant seasonal greens salad bowl, single-serving size. Features a mixture of crispy green lettuce leaves, cucumber ribbons, carrot shreds, and red tomato wedges, glistening with a light lemon vinaigrette. Composition: served in a large ceramic salad bowl on a light bamboo table mat, captured from a bright top-down perspective to highlight the fresh summer lunch atmosphere. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
 ---
