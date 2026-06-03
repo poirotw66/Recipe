@@ -1,7 +1,7 @@
 ---
 title: "田園時蔬義大利麵"
 description: "番茄、櫛瓜與甜椒快炒後拌麵，色彩繽紛、口味清爽，素食也適合。"
-coverImage: /images/recipes/garden-vegetable-pasta.svg
+coverImage: /images/recipes/garden-vegetable-pasta.webp
 servings: 1
 prepTime: 10
 cookTime: 14

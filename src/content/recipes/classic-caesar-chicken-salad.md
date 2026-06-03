@@ -1,7 +1,7 @@
 ---
 title: "經典凱薩嫩雞沙拉"
 description: "煎香的雞胸肉切片鋪在爽脆生菜上，淋上自製凱薩醬，清爽又有飽足感。"
-coverImage: /images/recipes/classic-caesar-chicken-salad.svg
+coverImage: /images/recipes/classic-caesar-chicken-salad.webp
 servings: 1
 prepTime: 10
 cookTime: 10

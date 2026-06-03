@@ -1,0 +1,175 @@
+---
+import { getCollection } from "astro:content";
+import JsonLd from "../../components/JsonLd.astro";
+import RecipeCard from "../../components/RecipeCard.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { sortRecipesByPublishedDate } from "../../lib/recipes";
+import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../../lib/seo";
+import {
+  getIngredientBySlug,
+  getRecipesByTopicHub,
+  getScenarioBySlug,
+  getTopicHubBySlug
+} from "../../lib/taxonomy";
+
+const hub = getTopicHubBySlug("brunch");
+
+if (!hub) {
+  throw new Error("Brunch topic hub is not configured.");
+}
+
+const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+const brunchRecipes = getRecipesByTopicHub(recipes, hub.slug);
+const surfTurfRecipes = brunchRecipes.filter((recipe) => recipe.slug === "surf-turf-brunch");
+const steakRecipes = brunchRecipes.filter(
+  (recipe) => recipe.data.tags.includes("牛排") && recipe.slug !== "surf-turf-brunch"
+);
+const seafoodRecipes = brunchRecipes.filter(
+  (recipe) =>
+    recipe.slug !== "surf-turf-brunch" &&
+    (recipe.data.tags.includes("鮭魚料理") || recipe.data.tags.includes("炸魚"))
+);
+const chickenRecipes = brunchRecipes.filter((recipe) => recipe.data.tags.includes("雞肉料理"));
+const vegetarianRecipes = brunchRecipes.filter((recipe) => recipe.data.tags.includes("蛋奶素"));
+const commonIngredients = hub.commonIngredients
+  .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+  .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient));
+const relatedScenarios = hub.relatedScenarios
+  .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
+  .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
+const collectionJsonLd = buildCollectionPageJsonLd(hub.seoTitle, hub.seoDescription, "/brunch/");
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: "首頁", path: "/" },
+  { name: hub.name, path: "/brunch/" }
+]);
+const hubJsonLd = buildThingJsonLd(hub, "/brunch/");
+---
+
+<BaseLayout title={hub.seoTitle} description={hub.seoDescription} canonicalPath="/brunch">
+  <JsonLd data={collectionJsonLd} />
+  <JsonLd data={breadcrumbJsonLd} />
+  <JsonLd data={hubJsonLd} />
+  <section class="section">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">首頁</a>
+        <span>/</span>
+        <span>{hub.name}</span>
+      </nav>
+
+      <section class="recipe-hero">
+        <div>
+          <p class="eyebrow">Brunch</p>
+          <h1 class="page-title">{hub.name}</h1>
+          <p class="page-copy">{hub.description}</p>
+          <div class="chip-row">
+            {hub.tags.map((tag) => <span class="chip note">{tag}</span>)}
+          </div>
+        </div>
+        <div class="card card-body taxonomy-summary">
+          <p class="eyebrow">怎麼用這個專區</p>
+          <p>{hub.seoDescription}</p>
+        </div>
+      </section>
+
+      {brunchRecipes.length === 0 ? (
+        <section class="section section-compact">
+          <article class="card empty-panel">
+            <div class="card-body">
+              <h2>食譜整理中</h2>
+              <p>早午餐食譜會陸續上架，你也可以先從常見食材或料理情境找靈感。</p>
+            </div>
+          </article>
+        </section>
+      ) : (
+        <>
+          {surfTurfRecipes.length > 0 && (
+            <section class="section section-compact">
+              <p class="eyebrow">澎湃海陸</p>
+              <h2>牛排與蝦仁同盤的週末主菜感</h2>
+              <div class="grid">
+                {surfTurfRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {steakRecipes.length > 0 && (
+            <section class="section section-compact">
+              <p class="eyebrow">牛排主盤</p>
+              <h2>香煎牛排與荷包蛋的經典組合</h2>
+              <div class="grid">
+                {steakRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {seafoodRecipes.length > 0 && (
+            <section class="section section-compact">
+              <p class="eyebrow">海鮮早午餐</p>
+              <h2>爐烤、煙燻與酥炸的魚類主盤</h2>
+              <div class="grid">
+                {seafoodRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {chickenRecipes.length > 0 && (
+            <section class="section section-compact">
+              <p class="eyebrow">雞肉均衡</p>
+              <h2>香草煎雞胸與蔬菜配菜</h2>
+              <div class="grid">
+                {chickenRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {vegetarianRecipes.length > 0 && (
+            <section class="section section-compact">
+              <p class="eyebrow">蛋奶素</p>
+              <h2>野菇嫩蛋的清爽早午餐</h2>
+              <div class="grid">
+                {vegetarianRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+        </>
+      )}
+
+      <section class="section section-compact">
+        <div class="recipe-content-grid">
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">常用食材</p>
+              <div class="chip-row">
+                {commonIngredients.map((ingredient) => (
+                  <a class="chip note" href={`/ingredients/${ingredient.slug}/`}>
+                    {ingredient.name}
+                  </a>
+                ))}
+              </div>
+            </div>
+          </article>
+
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">相關情境</p>
+              <div class="chip-row">
+                {relatedScenarios.map((scenario) => (
+                  <a class="chip" href={`/scenarios/${scenario.slug}/`}>
+                    {scenario.name}
+                  </a>
+                ))}
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <div class="section-links">
+        <a class="button" href="/ingredients/beef/">牛肉食材說明</a>
+        <a class="button note" href="/ingredients/salmon/">鮭魚食材說明</a>
+        <a class="button note" href="/recipes">看全部食譜</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

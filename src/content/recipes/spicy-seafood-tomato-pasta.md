@@ -1,7 +1,7 @@
 ---
 title: "海鮮番茄辣麵"
 description: "番茄酸香搭配蝦仁與辣椒，做出煙花女風味的海鮮辣麵，開胃又飽足。"
-coverImage: /images/recipes/spicy-seafood-tomato-pasta.svg
+coverImage: /images/recipes/spicy-seafood-tomato-pasta.webp
 servings: 1
 prepTime: 9
 cookTime: 16

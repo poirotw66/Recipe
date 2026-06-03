@@ -1,7 +1,7 @@
 ---
 title: "炸物三重奏"
 description: "薯條、炸鱈魚與起司條一次完成，適合分享或當主菜配菜的小點拼盤。"
-coverImage: /images/recipes/fried-trio-platter.svg
+coverImage: /images/recipes/fried-trio-platter.webp
 servings: 2
 prepTime: 15
 cookTime: 22

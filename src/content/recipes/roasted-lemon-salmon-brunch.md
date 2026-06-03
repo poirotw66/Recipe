@@ -1,7 +1,7 @@
 ---
 title: "爐烤檸香鮭魚早午餐"
 description: "鮭魚以檸檬與香草簡單調味後爐烤，肉質油潤，搭配烤蔬菜就是完整早午餐。"
-coverImage: /images/recipes/roasted-lemon-salmon-brunch.svg
+coverImage: /images/recipes/roasted-lemon-salmon-brunch.webp
 servings: 1
 prepTime: 8
 cookTime: 16

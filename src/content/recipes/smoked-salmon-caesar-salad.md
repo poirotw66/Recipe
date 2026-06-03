@@ -1,7 +1,7 @@
 ---
 title: "煙燻鮭魚凱薩沙拉"
 description: "冷燻鮭魚搭配凱薩醬與爽脆生菜，免開大火也能完成一道精緻沙拉。"
-coverImage: /images/recipes/smoked-salmon-caesar-salad.svg
+coverImage: /images/recipes/smoked-salmon-caesar-salad.webp
 servings: 1
 prepTime: 8
 cookTime: 5

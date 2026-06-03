@@ -1,7 +1,7 @@
 ---
 title: "金黃酥炸鱈魚早午餐"
 description: "鱈魚裹粉酥炸到金黃，外脆內嫩，搭配塔塔醬風味優格與檸檬，早午餐很吸睛。"
-coverImage: /images/recipes/crispy-cod-brunch.svg
+coverImage: /images/recipes/crispy-cod-brunch.webp
 servings: 1
 prepTime: 10
 cookTime: 12

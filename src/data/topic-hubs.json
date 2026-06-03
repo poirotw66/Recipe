@@ -20,5 +20,16 @@
     "recipeTags": ["牛肉"],
     "commonIngredients": ["beef", "noodles", "onion", "scallion", "tomato", "garlic"],
     "relatedScenarios": ["one-person-meal", "high-protein-meals", "bento-meals"]
+  },
+  {
+    "name": "早午餐專區",
+    "slug": "brunch",
+    "description": "收錄 7 道一人份早午餐主盤，從澎湃海陸、牛排煎烤到鮭魚、鱈魚與蛋奶素，適合週末或想在家吃出餐廳感。",
+    "seoTitle": "早午餐食譜專區｜7 道牛排海鮮雞肉家常 Brunch",
+    "seoDescription": "早午餐專區收錄澎湃海陸、香煎翼板牛排、爐烤鮭魚、煙燻鮭魚與野菇嫩蛋等做法，適合一人份週末早午餐。",
+    "tags": ["一人份", "週末", "Brunch"],
+    "recipeTags": ["早午餐"],
+    "commonIngredients": ["beef", "salmon", "shrimp", "egg", "chicken-breast", "mushroom"],
+    "relatedScenarios": ["one-person-meal", "high-protein-meals", "ten-minute-meals"]
   }
 ]

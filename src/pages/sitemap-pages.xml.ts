@@ -6,6 +6,7 @@ const staticPages = [
   "/recipes/",
   "/ingredients/",
   "/scenarios/",
+  "/brunch/",
   "/pasta/",
   "/beef/",
   "/tools/fridge-recipe/",

@@ -1,7 +1,7 @@
 ---
 title: "蒜辣培根橄欖油麵"
 description: "培根油脂與蒜、辣椒炒出香氣，拌入義大利麵就是經典的 aglio olio 進階版。"
-coverImage: /images/recipes/spicy-garlic-bacon-pasta.svg
+coverImage: /images/recipes/spicy-garlic-bacon-pasta.webp
 servings: 1
 prepTime: 6
 cookTime: 14

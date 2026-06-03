@@ -1,7 +1,7 @@
 ---
 title: "肯瓊香辣薯條"
 description: "馬鈴薯切條後先炸再拌肯瓊香料，外酥內軟，當配菜或小點都很合適。"
-coverImage: /images/recipes/cajun-fries.svg
+coverImage: /images/recipes/cajun-fries.webp
 servings: 1
 prepTime: 12
 cookTime: 18

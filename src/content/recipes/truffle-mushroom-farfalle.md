@@ -1,7 +1,7 @@
 ---
 title: "黑松露野菇蝴蝶麵"
 description: "蝴蝶麵搭配多種菇類與松露風味，香氣濃郁，素食者也可省略起司享用。"
-coverImage: /images/recipes/truffle-mushroom-farfalle.svg
+coverImage: /images/recipes/truffle-mushroom-farfalle.webp
 servings: 1
 prepTime: 7
 cookTime: 15

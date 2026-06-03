@@ -1,7 +1,7 @@
 ---
 title: "蒜香奶油鮮蝦麵"
 description: "蝦仁與蒜香奶油醬汁包裹義大利麵，濃潤不膩，是菜單上的經典海鮮麵。"
-coverImage: /images/recipes/garlic-cream-shrimp-pasta.svg
+coverImage: /images/recipes/garlic-cream-shrimp-pasta.webp
 servings: 1
 prepTime: 8
 cookTime: 16

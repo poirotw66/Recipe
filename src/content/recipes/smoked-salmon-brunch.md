@@ -1,7 +1,7 @@
 ---
 title: "煙燻鮭魚早午餐"
 description: "煙燻鮭魚不需開火加熱，搭配炒蛋、酪梨與麵包，10 分鐘就能完成精緻早午餐。"
-coverImage: /images/recipes/smoked-salmon-brunch.svg
+coverImage: /images/recipes/smoked-salmon-brunch.webp
 servings: 1
 prepTime: 8
 cookTime: 5

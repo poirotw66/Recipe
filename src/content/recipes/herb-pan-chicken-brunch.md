@@ -1,7 +1,7 @@
 ---
 title: "香草煎雞胸早午餐"
 description: "雞胸以香草與檸檬醃過再煎，肉質較嫩，搭配半熟蛋與蔬菜就是均衡早午餐。"
-coverImage: /images/recipes/herb-pan-chicken-brunch.svg
+coverImage: /images/recipes/herb-pan-chicken-brunch.webp
 servings: 1
 prepTime: 10
 cookTime: 12

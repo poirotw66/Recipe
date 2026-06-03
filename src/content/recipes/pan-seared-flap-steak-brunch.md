@@ -1,7 +1,7 @@
 ---
 title: "香煎翼板牛排早午餐"
 description: "翼板牛排以乾煎方式鎖住肉汁，搭配半熟荷包蛋與簡單時蔬，是經典早午餐組合。"
-coverImage: /images/recipes/pan-seared-flap-steak-brunch.svg
+coverImage: /images/recipes/pan-seared-flap-steak-brunch.webp
 servings: 1
 prepTime: 8
 cookTime: 14

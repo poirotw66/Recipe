@@ -1,7 +1,7 @@
 ---
 title: "澎湃海陸早午餐"
 description: "翼板牛排與蒜香蝦仁同盤，搭配炒蛋與時蔬，在家也能做出早午餐店的澎湃感。"
-coverImage: /images/recipes/surf-turf-brunch.svg
+coverImage: /images/recipes/surf-turf-brunch.webp
 servings: 1
 prepTime: 12
 cookTime: 18

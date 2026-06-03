@@ -1,7 +1,7 @@
 ---
 title: "野菇嫩蛋早午餐"
 description: "多種菇類炒香後與滑嫩炒蛋結合，蛋奶素也能吃得飽，是清爽系早午餐。"
-coverImage: /images/recipes/mushroom-soft-egg-brunch.svg
+coverImage: /images/recipes/mushroom-soft-egg-brunch.webp
 servings: 1
 prepTime: 7
 cookTime: 10
