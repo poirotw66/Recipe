@@ -19,12 +19,18 @@ export const getSiteUrl = (): string => {
   return recipeSiteUrl.replace(/\/$/, "");
 };
 
-export const bloss0mEcosystemLinks = [
+export type EcosystemLink = {
+  label: string;
+  href: string;
+  current?: boolean;
+};
+
+export const bloss0mEcosystemLinks: EcosystemLink[] = [
   { label: "bloss0m", href: bloss0mSiteUrl },
   { label: "Bloom Picker", href: bloomPickerUrl },
   { label: "Bloom Render", href: bloomRenderUrl },
   { label: brandName, href: recipeSiteUrl, current: true }
-] as const;
+];
 
 export const legalLastUpdated = "2026-06-03";
 

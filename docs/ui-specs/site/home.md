@@ -1,10 +1,10 @@
-﻿---
+---
 name: 首頁
 description: 今天煮什麼的首頁，提供食材搜尋、熱門分類與核心 SEO 導流入口。
 domain: site
 module: foundation
 spec: spec-001
-status: approved
+status: implemented
 route: /
 apis: []
 ---
@@ -129,3 +129,4 @@ Footer
 
 - 後續 spec-002 會接入真實食譜資料。
 - 後續 spec-006 會實作冰箱剩料工具的比對邏輯。
+- **PRD-003 / spec-012（2026-06-03）**：首頁區塊順序為 hero 搜尋 → 情境 → 精選食譜 → 主題專區（牛肉/義大利麵）→ 常用食材；搜尋成功跳轉 `/tools/fridge-recipe?ingredients=...#fridge-results`。

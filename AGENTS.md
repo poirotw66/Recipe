@@ -14,20 +14,15 @@
 
 ## 開發流程
 
-PRD-001～002 的 spec-001～009 已完成。PRD-003（Bloom Kitchen 與 UX）已 approved，下一步從 spec-010 進入 `/vif-spec`。
+PRD-001～003 的 spec-001～013 已全部結案（✔️）。第三階段（Bloom Kitchen 品牌 + UX）於 2026-06-03 完成。
 
-第三階段建議順序：
-
-1. `spec-010` Bloom Kitchen 品牌識別與站內文案
-2. `spec-011` 導覽與行動版 UX
-3. `spec-012` 首頁與冰箱工具動線
-4. `spec-013` 食譜瀏覽體驗強化
+若需第四階段，請先撰寫 **PRD-004**（`/vif-prd`），再從 `docs/specs/specs-overview.md` 展開新 spec。
 
 已完成批次：
 
 1. `spec-001`～`spec-007`：第一階段 MVP。
-2. `spec-008`：內容擴充至 50+ 食譜與 coverImage 驗證。
-3. `spec-009`：集合頁 ItemList structured data。
+2. `spec-008`～`spec-009`：第二階段內容與 SEO。
+3. `spec-010`～`spec-013`：第三階段 Bloom Kitchen 品牌與 UX。
 
 ## 技術方向
 

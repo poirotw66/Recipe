@@ -1,10 +1,10 @@
-﻿---
+---
 name: 食譜列表
 description: 顯示全部食譜與靜態篩選入口的列表頁 placeholder。
 domain: recipes
 module: foundation
 spec: spec-001
-status: approved
+status: implemented
 route: /recipes
 apis: []
 ---
@@ -87,3 +87,7 @@ Footer
 ## API 清單
 
 無。
+
+## 備註
+
+- **PRD-003 / spec-013（2026-06-03）**：篩選狀態同步至 URL query（`keyword`、`category`、`time`、`tool`），可分享與重新整理保留；腳本為 `public/scripts/recipe-list-filter.js`。
