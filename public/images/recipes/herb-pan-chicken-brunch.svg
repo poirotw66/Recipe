@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="香草煎雞胸早午餐">
+  <defs>
+    <linearGradient id="bg-herb-pan-chicken-brunch" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3e8f0"/>
+      <stop offset="100%" stop-color="#fde8f3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg-herb-pan-chicken-brunch)"/>
+  <circle cx="180" cy="160" r="72" fill="#7d2f5c" opacity="0.14"/>
+  <circle cx="1020" cy="740" r="96" fill="#f2b84b" opacity="0.18"/>
+  <text x="600" y="420" text-anchor="middle" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="44" font-weight="700" fill="#2f3a34">香草煎雞胸早午餐</text>
+  <text x="600" y="520" text-anchor="middle" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="22" fill="#6b7a72">成品照片準備中</text>
+</svg>

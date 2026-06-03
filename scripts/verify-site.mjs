@@ -230,15 +230,18 @@ if (recipeFiles.length >= phase2RecipeThreshold) {
     }
 
     const coverImage = coverMatch[1].trim();
-    const expectedCover = `/images/recipes/${slug}.webp`;
+    const expectedWebp = `/images/recipes/${slug}.webp`;
+    const expectedSvg = `/images/recipes/${slug}.svg`;
 
     if (!coverImage.startsWith("/images/recipes/")) {
       console.error(`Spec-008: recipe ${file} coverImage must start with /images/recipes/.`);
       process.exit(1);
     }
 
-    if (coverImage !== expectedCover) {
-      console.error(`Spec-008: recipe ${file} coverImage must be ${expectedCover}, found ${coverImage}.`);
+    if (coverImage !== expectedWebp && coverImage !== expectedSvg) {
+      console.error(
+        `Spec-008: recipe ${file} coverImage must be ${expectedWebp} or ${expectedSvg}, found ${coverImage}.`
+      );
       process.exit(1);
     }
 

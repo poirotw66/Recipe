@@ -1,6 +1,6 @@
 # 食譜成品圖繪製清單（給 Gemini）
 
-本站目前內容庫收錄 **80 篇**食譜（原有 50 篇 + 義大利麵專區 16 篇 + 牛肉專區 14 篇）。請依下表各產出一張成品圖；圖檔放入 `public/images/recipes/` 後，對應 Markdown 已預設 `coverImage` 為 `.webp` 路徑，產圖完成即可上線。
+本站目前內容庫收錄 **100 篇**食譜（原有 50 篇 + 義大利麵專區 16 篇 + 牛肉專區 14 篇 + 新菜單提案 20 篇）。請依下表各產出一張成品圖；圖檔放入 `public/images/recipes/` 後，將 `coverImage` 由 `.svg` 佔位改為 `.webp` 即可上線。
 
 ## 輸出規格建議
 
@@ -14,7 +14,7 @@
 | 存放路徑 | `public/images/recipes/` |
 | 檔名 | 與下表「檔名」欄一致（slug + `.webp`） |
 
-上線後每篇食譜 frontmatter：`coverImage: "/images/recipes/{檔名}"`
+上線後每篇食譜 frontmatter：`coverImage: "/images/recipes/{slug}.webp"`（新菜單 20 篇目前為 `{slug}.svg` 佔位）
 
 ---
 
@@ -145,7 +145,7 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 ## 圖片進度狀態
 
 - ✅ **已完成（共 80 篇）**：1 ~ 80（原有 50 篇 + 義大利麵專區 16 篇 + 牛肉專區 14 篇）
-- 🟡 **待新增（共 0 篇）**：無
+- 🟡 **待新增（共 20 篇）**：81 ~ 100（新菜單提案；網站暫用 SVG 佔位）
 
 ---
 
@@ -764,3 +764,216 @@ A comforting pot of Taiwanese simmered beef and tofu, single-serving size. Soft 
 78. 番茄牛肉麵  
 79. 紅蘿蔔牛肉湯  
 80. 牛肉豆腐燉煮  
+
+---
+
+## 待新增：新菜單提案（81~100）
+
+> 對應 `new-menu.md` 與 `src/content/recipes/` 新增之 20 篇（Brunch 7 + 特色菜 2 + 義大利麵 5 + 小點 6）。格式與前 80 篇一致；**每張構圖需與 51~80 專區食譜區隔**，避免重複。
+
+### 清單與檔名（20）
+
+| # | 食譜名稱 | slug | 建議檔名 |
+| --- | --- | --- | --- |
+| 81 | 澎湃海陸早午餐 | `surf-turf-brunch` | `surf-turf-brunch.webp` |
+| 82 | 香煎翼板牛排早午餐 | `pan-seared-flap-steak-brunch` | `pan-seared-flap-steak-brunch.webp` |
+| 83 | 金黃酥炸鱈魚早午餐 | `crispy-cod-brunch` | `crispy-cod-brunch.webp` |
+| 84 | 爐烤檸香鮭魚早午餐 | `roasted-lemon-salmon-brunch` | `roasted-lemon-salmon-brunch.webp` |
+| 85 | 煙燻鮭魚早午餐 | `smoked-salmon-brunch` | `smoked-salmon-brunch.webp` |
+| 86 | 野菇嫩蛋早午餐 | `mushroom-soft-egg-brunch` | `mushroom-soft-egg-brunch.webp` |
+| 87 | 香草煎雞胸早午餐 | `herb-pan-chicken-brunch` | `herb-pan-chicken-brunch.webp` |
+| 88 | 經典凱薩嫩雞沙拉 | `classic-caesar-chicken-salad` | `classic-caesar-chicken-salad.webp` |
+| 89 | 煙燻鮭魚凱薩沙拉 | `smoked-salmon-caesar-salad` | `smoked-salmon-caesar-salad.webp` |
+| 90 | 蒜香奶油鮮蝦麵 | `garlic-cream-shrimp-pasta` | `garlic-cream-shrimp-pasta.webp` |
+| 91 | 黑松露野菇蝴蝶麵 | `truffle-mushroom-farfalle` | `truffle-mushroom-farfalle.webp` |
+| 92 | 蒜辣培根橄欖油麵 | `spicy-garlic-bacon-pasta` | `spicy-garlic-bacon-pasta.webp` |
+| 93 | 田園時蔬義大利麵 | `garden-vegetable-pasta` | `garden-vegetable-pasta.webp` |
+| 94 | 海鮮番茄辣麵 | `spicy-seafood-tomato-pasta` | `spicy-seafood-tomato-pasta.webp` |
+| 95 | 肯瓊香辣薯條 | `cajun-fries` | `cajun-fries.webp` |
+| 96 | 英式炸魚薯條 | `fish-and-chips` | `fish-and-chips.webp` |
+| 97 | 炸物三重奏 | `fried-trio-platter` | `fried-trio-platter.webp` |
+| 98 | 主廚每日例湯 | `chefs-daily-soup` | `chefs-daily-soup.webp` |
+| 99 | 蜜汁紐澳良雞翅 | `honey-cajun-chicken-wings` | `honey-cajun-chicken-wings.webp` |
+| 100 | 季節鮮蔬沙拉碗 | `seasonal-greens-salad-bowl` | `seasonal-greens-salad-bowl.webp` |
+
+### 構圖變化對照（81~100 摘要）
+
+| # | 食譜 | 場景／角度／光線（摘要） |
+| --- | --- | --- |
+| 81 | 澎湃海陸早午餐 | 大圓盤分區、牛排片＋蝦仁、週末早午餐桌、斜俯 |
+| 82 | 香煎翼板牛排早午餐 | 牛排切片＋流心蛋、鑄鐵鍋邊、晨光 |
+| 83 | 金黃酥炸鱴魚早午餐 | 酥炸魚排＋塔塔醬、淺籃墊、側光 |
+| 84 | 爐烤檸香鮭魚早午餐 | 烤盤鮭魚＋烤蔬菜、烘焙紙、烤箱暖光 |
+| 85 | 煙燻鮭魚早午餐 | 冷燻鮭魚＋炒蛋、大淺盤、清新晨光 |
+| 86 | 野菇嫩蛋早午餐 | 菇類滑蛋、黑陶碗、鄉村木桌 |
+| 87 | 香草煎雞胸早午餐 | 香草雞胸＋花椰菜、托盤平視 |
+| 88 | 經典凱薩嫩雞沙拉 | 高碗生菜＋雞肉片、凱薩醬光澤 |
+| 89 | 煙燻鮭魚凱薩沙拉 | 捲曲鮭魚片＋脆生菜、冷調光 |
+| 90 | 蒜香奶油鮮蝦麵 | 奶白醬蝦仁麵、深盤、暖色廚房光 |
+| 91 | 黑松露野菇蝴蝶麵 | 蝴蝶麵＋野菇、黑松露點綴、俯視 |
+| 92 | 蒜辣培根橄欖油麵 | 培根蒜辣麵、淺鍋、夜晚檯燈 |
+| 93 | 田園時蔬義大利麵 | 彩色蔬菜麵、白盤、午後窗光 |
+| 94 | 海鮮番茄辣麵 | 番茄辣醬麵＋蝦、橄欖點綴 |
+| 95 | 肯瓊香辣薯條 | 粗薯條＋香料粉、牛皮紙袋感 |
+| 96 | 英式炸魚薯條 | 魚排＋薯條、報紙墊、啤酒杯旁（無 logo） |
+| 97 | 炸物三重奏 | 三格木盤、薯條魚排起司條 |
+| 98 | 主廚每日例湯 | 陶碗清湯、蔬菜塊、蒸氣與冬光 |
+| 99 | 蜜汁紐澳良雞翅 | 烤翅＋焦糖蜜汁、烤架痕跡 |
+| 100 | 季節鮮蔬沙拉碗 | 大沙拉碗、油醋光澤、俯視 |
+
+---
+
+## 待新增 20 篇 Gemini Prompt（81~100）
+
+### Brunch 早午餐（81~87）
+
+#### 81. 澎湃海陸早午餐 — `surf-turf-brunch.webp`
+
+```text
+A lavish Taiwanese-style surf-and-turf brunch plate for one person, featuring sliced medium-rare steak, pink garlic shrimp, soft scrambled eggs, and pan-seared tomato wedges arranged in neat sections on a large round plate. Composition: weekend brunch table with linen napkin and juice glass (no logos), three-quarter overhead angle, bright late-morning window light. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 82. 香煎翼板牛排早午餐 — `pan-seared-flap-steak-brunch.webp`
+
+```text
+A highly appetizing Taiwanese pan-seared flap steak brunch for one person, with juicy sliced steak, a runny-yolk fried egg, and blanched broccoli florets on the side. Composition: cast-iron skillet edge visible on a rustic wooden board, soft morning side light, eye-level three-quarter view with gentle steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 83. 金黃酥炸鱈魚早午餐 — `crispy-cod-brunch.webp`
+
+```text
+A golden crispy fried cod brunch plate for one person, with crunchy battered cod fillet, creamy tartar-style yogurt sauce, lemon wedge, and a few cherry tomato halves. Composition: served on a shallow basket-lined plate on a light blue tabletop, crisp side lighting emphasizing crunch texture, 45-degree angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 84. 爐烤檸香鮭魚早午餐 — `roasted-lemon-salmon-brunch.webp`
+
+```text
+A healthy Taiwanese roasted lemon salmon brunch for one person, with golden-edged baked salmon fillet, roasted broccoli and onion chunks on parchment-lined sheet pan style plating. Composition: modern kitchen counter near oven warmth glow, soft amber light, diagonal composition showing glistening fish skin. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 85. 煙燻鮭魚早午餐 — `smoked-salmon-brunch.webp`
+
+```text
+An elegant Taiwanese smoked salmon brunch for one person, with silky soft scrambled eggs, folded smoked salmon slices, and fresh tomato rounds on a wide shallow plate. Composition: bright breakfast table near window, airy cool morning light, minimalist styling without readable text on props. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 86. 野菇嫩蛋早午餐 — `mushroom-soft-egg-brunch.webp`
+
+```text
+A vegetarian-friendly Taiwanese mushroom soft-scrambled egg brunch for one person, with glossy sautéed mixed mushrooms and creamy half-set eggs sprinkled with scallions in a dark ceramic bowl. Composition: rustic farmhouse wooden table, warm afternoon sun patch, close-up three-quarter view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 87. 香草煎雞胸早午餐 — `herb-pan-chicken-brunch.webp`
+
+```text
+A lean Taiwanese herb pan-seared chicken breast brunch for one person, with sliced lemon-herb chicken, tender broccoli, and a sunny-side egg on a simple lunch tray. Composition: speckled laminate tray surface, neutral daylight, balanced meal-prep framing at eye level. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+### 特色菜（88~89）
+
+#### 88. 經典凱薩嫩雞沙拉 — `classic-caesar-chicken-salad.webp`
+
+```text
+A classic Taiwanese Caesar chicken salad for one person, with crisp romaine lettuce, sliced grilled chicken breast, shaved cheese, and creamy Caesar dressing gloss in a wide bowl. Composition: marble-pattern tabletop, fresh noon top-angled view, chrome fork beside bowl (no branding). Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 89. 煙燻鮭魚凱薩沙拉 — `smoked-salmon-caesar-salad.webp`
+
+```text
+A refined Taiwanese smoked salmon Caesar salad for one person, with curly smoked salmon ribbons, crunchy lettuce, crouton cubes, and light Caesar dressing. Composition: served in a shallow white bowl on grey linen cloth, cool soft daylight, close-up hero framing. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+### 義大利麵（90~94）
+
+#### 90. 蒜香奶油鮮蝦麵 — `garlic-cream-shrimp-pasta.webp`
+
+```text
+A rich Taiwanese garlic cream shrimp pasta for one person, with plump pink shrimp and spaghetti coated in silky ivory garlic cream sauce. Composition: deep pasta bowl on warm-toned kitchen counter, gentle steam, evening tungsten mixed with window fill, medium close-up. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 91. 黑松露野菇蝴蝶麵 — `truffle-mushroom-farfalle.webp`
+
+```text
+An aromatic Taiwanese truffle mushroom farfalle pasta for one person, with bow-tie pasta tossed in cream sauce, golden sautéed mushroom slices, and subtle truffle oil sheen. Composition: straight top-down view on slate plate, earthy mood lighting, scattered parsley garnish. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 92. 蒜辣培根橄欖油麵 — `spicy-garlic-bacon-pasta.webp`
+
+```text
+A bold Taiwanese spicy garlic bacon spaghetti for one person, with crispy bacon bits, chili flakes, garlic chips, and glossy olive-oil coated pasta in a shallow pan. Composition: bistro table with small desk lamp at night, warm highlights on bacon edges, dynamic low angle. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 93. 田園時蔬義大利麵 — `garden-vegetable-pasta.webp`
+
+```text
+A colorful Taiwanese garden vegetable pasta for one person, with spaghetti tossed in light tomato sauce, diced zucchini, bell pepper, and cherry tomato halves. Composition: white ceramic plate on garden-green placemat, bright afternoon window light, fresh vegetarian lunch mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 94. 海鮮番茄辣麵 — `spicy-seafood-tomato-pasta.webp`
+
+```text
+A zesty Taiwanese spicy seafood tomato pasta (puttanesca-inspired) for one person, with shrimp, chunky tomato sauce, olives, garlic, and chili-kissed spaghetti. Composition: wide shallow bowl on dark wooden table, dramatic side light, visible steam and sauce gloss, 45-degree view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+### 小點 Sides（95~100）
+
+#### 95. 肯瓊香辣薯條 — `cajun-fries.webp`
+
+```text
+A tempting bowl of Taiwanese Cajun spiced french fries for one serving, with thick golden fries dusted in reddish spice blend in a paper-lined basket. Composition: pub-style wooden table, warm amber pendant light, slight overhead angle showing crisp edges. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 96. 英式炸魚薯條 — `fish-and-chips.webp`
+
+```text
+A classic British-style fish and chips for one person, with crispy battered cod fillet, thick fries, lemon wedge, and small sauce cup on faux newspaper-style liner (no readable text). Composition: seaside cafe table mood, cool overcast daylight, eye-level side view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 97. 炸物三重奏 — `fried-trio-platter.webp`
+
+```text
+A Taiwanese fried trio platter for sharing size shown as one generous portion, with french fries, fried cod pieces, and golden mozzarella sticks arranged in three compartments on a wooden board. Composition: party-table setting, mixed warm indoor light, three-quarter overhead view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 98. 主廚每日例湯 — `chefs-daily-soup.webp`
+
+```text
+A comforting Taiwanese chef's daily vegetable soup for one bowl, with clear golden broth, carrot cubes, cabbage, tomato, and gentle steam. Composition: handmade ceramic bowl on knitted wool mat near frosted winter window, soft cool daylight, calm homestyle mood. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 99. 蜜汁紐澳良雞翅 — `honey-cajun-chicken-wings.webp`
+
+```text
+Glazed Taiwanese honey Cajun chicken wings for one serving, with sticky caramelized sauce, charred grill marks, and glossy spice crust on a dark plate. Composition: backyard grill-party table at dusk, warm fire-like glow, close-up low angle with rising steam. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+#### 100. 季節鮮蔬沙拉碗 — `seasonal-greens-salad-bowl.webp`
+
+```text
+A fresh Taiwanese seasonal greens salad bowl for one person, with mixed lettuce, cucumber ribbons, carrot shreds, tomato wedges, and glossy lemon vinaigrette. Composition: large ceramic bowl on light bamboo mat, bright top-down view, clean summer lunch atmosphere. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
+```
+
+---
+
+## 待新增（81~100）純文字條列
+
+81. 澎湃海陸早午餐  
+82. 香煎翼板牛排早午餐  
+83. 金黃酥炸鱴魚早午餐  
+84. 爐烤檸香鮭魚早午餐  
+85. 煙燻鮭魚早午餐  
+86. 野菇嫩蛋早午餐  
+87. 香草煎雞胸早午餐  
+88. 經典凱薩嫩雞沙拉  
+89. 煙燻鮭魚凱薩沙拉  
+90. 蒜香奶油鮮蝦麵  
+91. 黑松露野菇蝴蝶麵  
+92. 蒜辣培根橄欖油麵  
+93. 田園時蔬義大利麵  
+94. 海鮮番茄辣麵  
+95. 肯瓊香辣薯條  
+96. 英式炸魚薯條  
+97. 炸物三重奏  
+98. 主廚每日例湯  
+99. 蜜汁紐澳良雞翅  
+100. 季節鮮蔬沙拉碗  
