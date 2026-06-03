@@ -1,6 +1,6 @@
 ---
 import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
-import { bloss0mSiteUrl, brandName, brandTagline, contactEmail, legalLastUpdated, recipeSiteUrl } from "../lib/site";
+import { bloss0mBrandName, bloss0mSiteUrl, brandName, brandTagline, contactEmail, legalLastUpdated, recipeSiteUrl } from "../lib/site";
 ---
 
 <StaticArticleLayout
@@ -14,7 +14,7 @@ import { bloss0mSiteUrl, brandName, brandTagline, contactEmail, legalLastUpdated
     <h2>主要聯絡方式</h2>
     <p>
       本站為
-      <a href={bloss0mSiteUrl} rel="noopener noreferrer">bloss0m</a>
+      <a href={bloss0mSiteUrl} rel="noopener noreferrer">{bloss0mBrandName}</a>
       生態中的 {brandName}（{brandTagline}）食譜站（
       <a href={recipeSiteUrl}>{recipeSiteUrl}</a>）。不提供表單後端，所有站務與內容回饋都透過 email 收件。
     </p>

@@ -10,6 +10,8 @@ export const bloomPickerUrl = "https://www.bloss0m.com/bloom-picker/";
 export const bloomRenderUrl = "https://www.bloss0m.com/bloom-render/";
 export const recipeSiteUrl = "https://recipe.bloss0m.com/";
 
+export const bloss0mBrandName = "Bloss0m";
+
 /** Canonical origin: env override, then astro.config site, then recipeSiteUrl. */
 export const getSiteUrl = (): string => {
   const fromEnv = import.meta.env.PUBLIC_SITE_URL?.trim();
@@ -26,7 +28,7 @@ export type EcosystemLink = {
 };
 
 export const bloss0mEcosystemLinks: EcosystemLink[] = [
-  { label: "bloss0m", href: bloss0mSiteUrl },
+  { label: bloss0mBrandName, href: bloss0mSiteUrl },
   { label: "Bloom Picker", href: bloomPickerUrl },
   { label: "Bloom Render", href: bloomRenderUrl },
   { label: brandName, href: recipeSiteUrl, current: true }
