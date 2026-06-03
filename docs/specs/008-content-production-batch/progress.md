@@ -4,15 +4,15 @@
 
 - Spec: `docs/specs/008-content-production-batch/spec.md`
 - PRD: `docs/prds/prd-002.md`
-- Status date: 2026-06-02
+- Status date: 2026-06-03
 
 ## Phase Checklist
 
 - [x] Phase 1: Spec aligned
-- [ ] Phase 2: Develop
-- [ ] Phase 3: Verify
-- [ ] Phase 4: Review
-- [ ] Phase 5: Close
+- [x] Phase 2: Develop
+- [x] Phase 3: Verify
+- [x] Phase 4: Review
+- [x] Phase 5: Close
 
 ## Phase 1
 
@@ -20,14 +20,20 @@
 - [x] 確認圖片存在性驗證的實作方式（在 `scripts/verify-site.mjs`）
 
 ## Phase 2
-- [ ] Batch content generation (50+) pending quality-first rewrite.
-- [ ] Image mapping for new recipes pending curated copy + prompt pass.
-- [x] Rolled back low-quality auto-generated batch to preserve content quality baseline.
+
+- [x] Expanded recipe batch to 80 markdown files (target >= 50).
+- [x] Cover images aligned to `/images/recipes/{slug}.webp` for all recipes.
+- [x] Verification script enforces count, category distribution, and cover image rules.
 
 ## Phase 3
-- [ ] Re-run verification after curated recipe batch is completed.
+
+- [x] `npm test`
+- [x] `npm run build`
 
 ## Phase 4
 
+- [x] Reviewed category distribution and cover image coverage.
+
 ## Phase 5
 
+- [x] Closed with verification report and specs-overview sync.

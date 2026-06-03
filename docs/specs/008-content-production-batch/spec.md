@@ -3,7 +3,7 @@
 ## Meta
 
 - 類型：Content / Pages / QA
-- 狀態：draft
+- 狀態：done
 - PRD：`docs/prds/prd-002.md`
 - 行為規格：N/A（以資料與驗證腳本為核心）
 - 依賴：`spec-002`, `spec-003`, `spec-007`
@@ -85,35 +85,35 @@ task-1 -> task-2 -> task-3 -> task-4
 
 ### Task 詳細拆解
 
-1. [ ] 擴充 recipe 內容批次到 50+（依類型配額）
+1. [x] 擴充 recipe 內容批次到 50+（依類型配額）
    - 影響：`src/content/recipes/*.md`
    - 規則：
      - `slug` 唯一且與檔名一致
      - `coverImage` 使用 `/images/recipes/{slug}.webp`
      - `ingredients/scenarios/equipment` 維持與 taxonomy 可對接
      - `category` 必須符合本 spec 的類型配額
-2. [ ] 補齊對應圖片檔（至少可被站點正常載入）
+2. [x] 補齊對應圖片檔（至少可被站點正常載入）
    - 影響：`public/images/recipes/*.webp`
    - 規則：
      - 每篇 recipe 的 `coverImage` 必有同名檔
      - 暫時可用 placeholder，但不可缺檔
-3. [ ] 擴充驗證腳本門檻
+3. [x] 擴充驗證腳本門檻
    - 影響：`scripts/verify-site.mjs`
    - 變更：
      - recipe 數量門檻由 12 提升到 50
      - 新增 `category` 分布門檻檢查（家常菜/飯麵/主菜/湯品/便當菜）
      - 逐篇檢查 `coverImage` path 格式與檔案存在性
-4. [ ] 驗證整體建置
+4. [x] 驗證整體建置
    - 指令：`npm test`、`npx astro check`、`npm run build`
    - 目的：確保內容擴充不破壞路由、schema 與既有檢查
 
 ## 8. 驗收條件（Acceptance Criteria）
 
-- [ ] Given 第二階段驗證執行，When `npm test` 跑完，Then `src/content/recipes` markdown 檔數量 >= 50
-- [ ] Given 第二階段驗證執行，When 解析所有 recipe frontmatter，Then `category` 分布符合目標（16/14/8/6/6）
-- [ ] Given 任一 recipe frontmatter，When 驗證腳本檢查 `coverImage`，Then path 必須以 `/images/recipes/` 開頭且對應檔案存在
-- [ ] Given 內容擴充完成，When `npm run build`，Then `dist` 生成成功且 `/recipes/{slug}` 皆能靜態輸出
-- [ ] Given 任一 recipe 被開啟，When 瀏覽器載入封面圖，Then 請求不應出現圖片 404
+- [x] Given 第二階段驗證執行，When `npm test` 跑完，Then `src/content/recipes` markdown 檔數量 >= 50
+- [x] Given 第二階段驗證執行，When 解析所有 recipe frontmatter，Then `category` 分布符合目標（16/14/8/6/6）
+- [x] Given 任一 recipe frontmatter，When 驗證腳本檢查 `coverImage`，Then path 必須以 `/images/recipes/` 開頭且對應檔案存在
+- [x] Given 內容擴充完成，When `npm run build`，Then `dist` 生成成功且 `/recipes/{slug}` 皆能靜態輸出
+- [x] Given 任一 recipe 被開啟，When 瀏覽器載入封面圖，Then 請求不應出現圖片 404
 
 ## 9. Exit Condition
 

@@ -21,8 +21,8 @@
 | 005 | AdSense 與政策頁 | monetization/ads | ✅ | prd-001 | 001, 002 | 建立 about、contact、privacy policy、terms、ads.txt 與 AdSlot。 |
 | 006 | 冰箱剩料工具 | tools/fridge-recipe | ✅ | prd-001 | 002, 003 | 建立本地食材比對、偏好排序、結果顯示與工具測試。 |
 | 007 | 第一批內容資料 | content/production | ✅ | prd-001 | 002, 003 | 補齊 MVP 食譜、食材、情境資料，並更新首頁與驗證門檻。 |
-| 008 | 內容擴充批次（新增食譜至 50+） | content/production | ⏳ | prd-002 | 002, 003, 007 | 擴充食譜數量至 50+，並加入 coverImage 存在性驗證。 |
-| 009 | 網頁 SEO 強化（集合與 taxonomy structured data） | seo | ⏳ | prd-002 | 002, 003, 008 | 為清單/索引頁補上 ItemList/集合型 structured data，強化索引與內鏈訊號。 |
+| 008 | 內容擴充批次（新增食譜至 50+） | content/production | ✅ | prd-002 | 002, 003, 007 | 擴充食譜數量至 50+，並加入 coverImage 存在性驗證。 |
+| 009 | 網頁 SEO 強化（集合與 taxonomy structured data） | seo | ✅ | prd-002 | 002, 003, 008 | 為清單/索引頁補上 ItemList/集合型 structured data，強化索引與內鏈訊號。 |
 
 ## Suggested Order
 

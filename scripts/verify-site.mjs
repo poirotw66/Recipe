@@ -76,6 +76,7 @@ const fridgeLogic = read("src/lib/fridge.js");
 const fridgePage = read("src/pages/tools/fridge-recipe.astro");
 const robotsRoute = read("src/pages/robots.txt.ts");
 const ads = read("public/ads.txt");
+const seoLib = read("src/lib/seo.ts");
 const contentConfig = read("src/content.config.ts");
 const ingredients = JSON.parse(read("src/data/ingredients.json"));
 const scenarios = JSON.parse(read("src/data/scenarios.json"));
@@ -137,6 +138,11 @@ if (!contentConfig.includes("defineCollection") || !contentConfig.includes("tota
   process.exit(1);
 }
 
+if (!seoLib.includes("buildItemListJsonLd") || !seoLib.includes('"ItemList"')) {
+  console.error("src/lib/seo.ts must provide buildItemListJsonLd for spec-009.");
+  process.exit(1);
+}
+
 if (!fridgeLogic.includes("rankRecipesForFridge") || !fridgeLogic.includes("resolveInputIngredients") || !fridgeLogic.includes("高蛋白料理")) {
   console.error("src/lib/fridge.js must provide fridge matching helpers and clean preference labels.");
   process.exit(1);
@@ -180,6 +186,37 @@ if (recipeFiles.length >= phase2RecipeThreshold) {
     );
     process.exit(1);
   }
+
+  for (const file of recipeFiles) {
+    const source = read(`src/content/recipes/${file}`);
+    const slug = file.replace(/\.md$/, "");
+    const coverMatch = source.match(/^coverImage:\s*(.+)$/m);
+
+    if (!coverMatch) {
+      console.error(`Spec-008: recipe ${file} is missing coverImage frontmatter.`);
+      process.exit(1);
+    }
+
+    const coverImage = coverMatch[1].trim();
+    const expectedCover = `/images/recipes/${slug}.webp`;
+
+    if (!coverImage.startsWith("/images/recipes/")) {
+      console.error(`Spec-008: recipe ${file} coverImage must start with /images/recipes/.`);
+      process.exit(1);
+    }
+
+    if (coverImage !== expectedCover) {
+      console.error(`Spec-008: recipe ${file} coverImage must be ${expectedCover}, found ${coverImage}.`);
+      process.exit(1);
+    }
+
+    const imagePath = join(root, "public", coverImage.replace(/^\//, ""));
+
+    if (!existsSync(imagePath)) {
+      console.error(`Spec-008: recipe ${file} coverImage file is missing at ${imagePath}.`);
+      process.exit(1);
+    }
+  }
 }
 
 if (ingredients.length < 12 || scenarios.length < 8) {
@@ -202,7 +239,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/recipes/index.astro",
-    markers: ["RecipeCard", "AdSlot", 'getCollection("recipes")']
+    markers: ["RecipeCard", "AdSlot", 'getCollection("recipes")', "buildItemListJsonLd"]
   },
   {
     file: "src/pages/recipes/[slug].astro",
@@ -210,19 +247,19 @@ const pageExpectations = [
   },
   {
     file: "src/pages/ingredients/index.astro",
-    markers: ["RecipeCard", "getIngredientsByCategory", "scenarioItems"]
+    markers: ["RecipeCard", "getIngredientsByCategory", "scenarioItems", "buildItemListJsonLd"]
   },
   {
     file: "src/pages/ingredients/[slug].astro",
-    markers: ["buildDefinedTermJsonLd", "getStaticPaths"]
+    markers: ["buildDefinedTermJsonLd", "getStaticPaths", "buildItemListJsonLd"]
   },
   {
     file: "src/pages/scenarios/index.astro",
-    markers: ["scenarioItems", "buildCollectionPageJsonLd"]
+    markers: ["scenarioItems", "buildCollectionPageJsonLd", "buildItemListJsonLd"]
   },
   {
     file: "src/pages/scenarios/[slug].astro",
-    markers: ["buildThingJsonLd", "getStaticPaths"]
+    markers: ["buildThingJsonLd", "getStaticPaths", "buildItemListJsonLd"]
   },
   {
     file: "src/pages/about.astro",

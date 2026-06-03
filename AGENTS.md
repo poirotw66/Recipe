@@ -14,17 +14,13 @@
 
 ## 開發流程
 
-目前 PRD 已 approved，下一步從 `docs/specs/specs-overview.md` 挑選 spec 進入技術規格撰寫。
+PRD-001 與 PRD-002 的 spec-001～009 已完成。後續新需求請從 `docs/specs/specs-overview.md` 新增 spec 或 PRD。
 
-建議順序：
+已完成批次：
 
-1. `spec-001` 專案骨架與部署。
-2. `spec-002` 內容模型與食譜頁。
-3. `spec-003` 食材與情境頁。
-4. `spec-004` SEO 與 structured data。
-5. `spec-005` AdSense 與政策頁。
-6. `spec-006` 冰箱剩料工具。
-7. `spec-007` 第一批內容資料。
+1. `spec-001`～`spec-007`：第一階段 MVP。
+2. `spec-008`：內容擴充至 50+ 食譜與 coverImage 驗證。
+3. `spec-009`：集合頁 ItemList structured data。
 
 ## 技術方向
 

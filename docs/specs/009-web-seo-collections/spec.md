@@ -3,7 +3,7 @@
 ## Meta
 
 - 類型：SEO / Pages / QA
-- 狀態：draft
+- 狀態：done
 - PRD：`docs/prds/prd-002.md`
 - 行為規格：以 structured data 與內鏈訊號強化為主
 - 依賴：`spec-002`, `spec-003`, `spec-008`
@@ -65,10 +65,10 @@ task-1 -> task-2 -> task-3 -> task-4
 
 ### Task 詳細拆解
 
-1. [ ] 擴充 SEO helper
+1. [x] 擴充 SEO helper
    - 影響：`src/lib/seo.ts`
    - 新增：`buildItemListJsonLd(...)`（輸入 title/path/items，輸出 `@type: "ItemList"`）
-2. [ ] 清單頁注入 ItemList
+2. [x] 清單頁注入 ItemList
    - 影響：
      - `src/pages/recipes/index.astro`
      - `src/pages/ingredients/index.astro`
@@ -76,12 +76,12 @@ task-1 -> task-2 -> task-3 -> task-4
    - 規則：
      - `itemListElement` 需包含 position/name/url
      - url 需由既有 absoluteUrl 邏輯輸出
-3. [ ] detail 頁補強（可選但建議）
+3. [x] detail 頁補強（可選但建議）
    - 影響：
      - `src/pages/ingredients/[slug].astro`
      - `src/pages/scenarios/[slug].astro`
    - 目標：將頁內推薦食譜以 ItemList 呈現，增強內鏈語義
-4. [ ] 擴充驗證腳本與建置驗證
+4. [x] 擴充驗證腳本與建置驗證
    - 影響：`scripts/verify-site.mjs`
    - 變更：
      - 加入 `ItemList` marker 檢查
@@ -90,10 +90,10 @@ task-1 -> task-2 -> task-3 -> task-4
 
 ## 7. 驗收條件（Acceptance Criteria）
 
-- [ ] Given `/recipes`、`/ingredients`、`/scenarios` 清單頁載入，When 讀取 JSON-LD，Then 每頁至少包含一組 `@type: "ItemList"`，且 item 具備 `position`、`name`、`url`
-- [ ] Given `PUBLIC_SITE_URL=https://recipe.bloss0m.com`，When 產生 ItemList `url`，Then host 必須與 canonical host 一致
-- [ ] Given `npm test`，When 驗證腳本執行完成，Then `ItemList` markers 與既有 SEO markers 全部通過
-- [ ] Given `npm run build`，When build 完成，Then 清單頁與（若有實作）detail 頁可正常靜態輸出
+- [x] Given `/recipes`、`/ingredients`、`/scenarios` 清單頁載入，When 讀取 JSON-LD，Then 每頁至少包含一組 `@type: "ItemList"`，且 item 具備 `position`、`name`、`url`
+- [x] Given `PUBLIC_SITE_URL=https://recipe.bloss0m.com`，When 產生 ItemList `url`，Then host 必須與 canonical host 一致
+- [x] Given `npm test`，When 驗證腳本執行完成，Then `ItemList` markers 與既有 SEO markers 全部通過
+- [x] Given `npm run build`，When build 完成，Then 清單頁與（若有實作）detail 頁可正常靜態輸出
 
 ## 8. Exit Condition
 

@@ -5,6 +5,24 @@ const getSiteUrl = () => import.meta.env.PUBLIC_SITE_URL || "https://example.com
 
 export const absoluteUrl = (path: string) => new URL(path, getSiteUrl()).toString();
 
+export interface ItemListEntry {
+  name: string;
+  path: string;
+}
+
+export const buildItemListJsonLd = (name: string, path: string, items: ItemListEntry[]) => ({
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name,
+  url: absoluteUrl(path),
+  itemListElement: items.map((item, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    name: item.name,
+    url: absoluteUrl(item.path)
+  }))
+});
+
 export const buildBreadcrumbJsonLd = (
   items: Array<{ name: string; path: string }>
 ) => ({

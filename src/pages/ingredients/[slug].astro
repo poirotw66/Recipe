@@ -4,7 +4,7 @@ import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
-import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd } from "../../lib/seo";
+import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd } from "../../lib/seo";
 import {
   getIngredientBySlug,
   getRecipesByIngredient,
@@ -41,6 +41,17 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: ingredient.name, path: `/ingredients/${ingredient.slug}/` }
 ]);
 const ingredientJsonLd = buildDefinedTermJsonLd(ingredient);
+const relatedRecipeListJsonLd =
+  relatedRecipes.length > 0
+    ? buildItemListJsonLd(
+        `${ingredient.name} 相關食譜`,
+        `/ingredients/${ingredient.slug}/`,
+        relatedRecipes.map((recipe) => ({
+          name: recipe.data.title,
+          path: `/recipes/${recipe.slug}/`
+        }))
+      )
+    : null;
 ---
 
 <BaseLayout
@@ -50,6 +61,7 @@ const ingredientJsonLd = buildDefinedTermJsonLd(ingredient);
 >
   <JsonLd data={breadcrumbJsonLd} />
   <JsonLd data={ingredientJsonLd} />
+  {relatedRecipeListJsonLd && <JsonLd data={relatedRecipeListJsonLd} />}
   <section class="section">
     <div class="container">
       <nav class="breadcrumb" aria-label="Breadcrumb">

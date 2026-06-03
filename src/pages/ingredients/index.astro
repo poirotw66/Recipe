@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { buildCollectionPageJsonLd } from "../../lib/seo";
+import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../lib/seo";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { getIngredientsByCategory, ingredientItems, scenarioItems } from "../../lib/taxonomy";
 
@@ -19,6 +19,14 @@ const collectionJsonLd = buildCollectionPageJsonLd(
   "從台灣常見食材開始找食譜，先用分類、熱門食材與情境入口建立長尾 SEO 的起點。",
   "/ingredients/"
 );
+const ingredientListJsonLd = buildItemListJsonLd(
+  "食材列表",
+  "/ingredients/",
+  ingredientItems.map((ingredient) => ({
+    name: ingredient.name,
+    path: `/ingredients/${ingredient.slug}/`
+  }))
+);
 ---
 
 <BaseLayout
@@ -27,6 +35,7 @@ const collectionJsonLd = buildCollectionPageJsonLd(
   canonicalPath="/ingredients"
 >
   <JsonLd data={collectionJsonLd} />
+  <JsonLd data={ingredientListJsonLd} />
   <section class="section">
     <div class="container">
       <p class="eyebrow">Ingredients</p>

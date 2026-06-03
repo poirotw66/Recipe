@@ -2,7 +2,7 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import JsonLd from "../../components/JsonLd.astro";
-import { buildCollectionPageJsonLd } from "../../lib/seo";
+import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../lib/seo";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { scenarioItems } from "../../lib/taxonomy";
 
@@ -13,6 +13,14 @@ const collectionJsonLd = buildCollectionPageJsonLd(
   "依一人料理、租屋料理、10 分鐘料理、電鍋料理等情境快速找食譜。",
   "/scenarios/"
 );
+const scenarioListJsonLd = buildItemListJsonLd(
+  "料理情境",
+  "/scenarios/",
+  scenarioItems.map((scenario) => ({
+    name: scenario.name,
+    path: `/scenarios/${scenario.slug}/`
+  }))
+);
 ---
 
 <BaseLayout
@@ -21,6 +29,7 @@ const collectionJsonLd = buildCollectionPageJsonLd(
   canonicalPath="/scenarios"
 >
   <JsonLd data={collectionJsonLd} />
+  <JsonLd data={scenarioListJsonLd} />
   <section class="section">
     <div class="container">
       <p class="eyebrow">Scenarios</p>

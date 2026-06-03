@@ -4,18 +4,27 @@ import AdSlot from "../../components/AdSlot.astro";
 import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { buildCollectionPageJsonLd } from "../../lib/seo";
+import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../lib/seo";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 
 const categories = ["全部", "家常菜", "飯麵", "主菜", "湯品", "便當菜"];
 const times = ["全部", "10 分鐘內", "15 分鐘內", "30 分鐘內"];
 const tools = ["全部", "平底鍋", "電鍋", "湯鍋", "氣炸鍋"];
+const recipeListItemLimit = 20;
 
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
 const collectionJsonLd = buildCollectionPageJsonLd(
   "食譜列表",
   "整理適合台灣小廚房的一人份與家常料理，快速查看時間、工具與常見食材。",
   "/recipes/"
+);
+const recipeListJsonLd = buildItemListJsonLd(
+  "食譜列表",
+  "/recipes/",
+  recipes.slice(0, recipeListItemLimit).map((recipe) => ({
+    name: recipe.data.title,
+    path: `/recipes/${recipe.slug}/`
+  }))
 );
 ---
 
@@ -25,6 +34,7 @@ const collectionJsonLd = buildCollectionPageJsonLd(
   canonicalPath="/recipes"
 >
   <JsonLd data={collectionJsonLd} />
+  <JsonLd data={recipeListJsonLd} />
   <section class="section">
     <div class="container">
       <p class="eyebrow">Recipes</p>
