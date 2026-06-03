@@ -120,8 +120,11 @@ const topicHubLinks = getTopicHubLinksForRecipe(recipe);
                 <h2>主要食材</h2>
                 <ul class="detail-list">
                   {recipe.data.ingredients.map((item) => (
-                    <li>
-                      <span>{item.name}</span>
+                    <li class={item.isCore ? "core-ingredient" : ""}>
+                      <span>
+                        {item.name}
+                        {item.isCore && <span class="badge-core">核心</span>}
+                      </span>
                       <strong>{item.amount}{item.unit}</strong>
                     </li>
                   ))}
@@ -169,6 +172,16 @@ const topicHubLinks = getTopicHubLinksForRecipe(recipe);
                     <h3>可替換做法</h3>
                     <div class="chip-row">
                       {recipe.data.substitutions.map((item) => <span class="chip note">{item}</span>)}
+                    </div>
+                  </>
+                )}
+                {recipe.data.customAdditions && recipe.data.customAdditions.length > 0 && (
+                  <>
+                    <h3 style="margin-top: var(--space-4);">推薦加料（自由搭配）</h3>
+                    <div class="chip-row">
+                      {recipe.data.customAdditions.map((item) => (
+                        <span class="chip custom-addition">+{item}</span>
+                      ))}
                     </div>
                   </>
                 )}

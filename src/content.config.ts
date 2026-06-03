@@ -24,7 +24,8 @@ const recipes = defineCollection({
           z.object({
             name: z.string().min(1),
             amount: z.string().min(1),
-            unit: z.string()
+            unit: z.string(),
+            isCore: z.boolean().default(false)
           })
         )
         .min(1),
@@ -41,6 +42,7 @@ const recipes = defineCollection({
       tips: z.array(z.string().min(1)).default([]),
       storage: z.string().min(1),
       substitutions: z.array(z.string().min(1)).default([]),
+      customAdditions: z.array(z.string()).default([]),
       faqs: z
         .array(
           z.object({
