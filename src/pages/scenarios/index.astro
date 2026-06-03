@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
 import JsonLd from "../../components/JsonLd.astro";
 import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../lib/seo";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
@@ -32,6 +33,7 @@ const scenarioListJsonLd = buildItemListJsonLd(
   <JsonLd data={scenarioListJsonLd} />
   <section class="section">
     <div class="container">
+      <Breadcrumb items={[{ name: "首頁", href: "/" }, { name: "料理情境" }]} />
       <p class="eyebrow">Scenarios</p>
       <h1 class="page-title">料理情境</h1>
       <p class="page-copy">先從生活情境切入，讓使用者用「現在的狀況」找到適合的料理。</p>

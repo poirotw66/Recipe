@@ -36,9 +36,12 @@ const requiredFiles = [
   "src/pages/sitemap-scenarios.xml.ts",
   "src/lib/seo.ts",
   "src/lib/site.ts",
+  "src/lib/navigation.ts",
   "src/lib/taxonomy.ts",
+  "src/components/Breadcrumb.astro",
   "public/ads.txt",
   "public/scripts/fridge-tool.js",
+  "public/scripts/site-nav.js",
   "public/images/.gitkeep",
   "src/content/recipes/tofu-scrambled-eggs.md",
   "src/content/recipes/tomato-egg-rice.md",
@@ -133,6 +136,34 @@ if (!ads.includes("google.com") && !ads.includes("PLACEHOLDER")) {
   process.exit(1);
 }
 
+if (!siteConfig.includes('brandDisplayName') || !siteConfig.includes("bloom-picker")) {
+  console.error("Spec-010 requires Bloom Kitchen brand constants and Bloss0m ecosystem URLs in site.ts.");
+  process.exit(1);
+}
+
+const header = read("src/components/Header.astro");
+const footer = read("src/components/Footer.astro");
+
+if (!header.includes("brandDisplayName") || !header.includes('class="brand"')) {
+  console.error("Header must render single-line Bloom Kitchen brand (spec-010).");
+  process.exit(1);
+}
+
+if (!header.includes("nav-toggle") || !header.includes("site-nav__group") || !header.includes("site-nav.js")) {
+  console.error("Header must provide layered mobile navigation (spec-011).");
+  process.exit(1);
+}
+
+if (!footer.includes("footer-ecosystem") || !footer.includes("bloss0mEcosystemLinks")) {
+  console.error("Footer must include Bloss0m ecosystem links (spec-010).");
+  process.exit(1);
+}
+
+if (!seoHead.includes("siteTitleSuffix") || !seoHead.includes("og:site_name")) {
+  console.error("SeoHead must use Bloom Kitchen title suffix (spec-010).");
+  process.exit(1);
+}
+
 if (!contentConfig.includes("defineCollection") || !contentConfig.includes("totalTime") || !contentConfig.includes("簡單")) {
   console.error("src/content.config.ts must define the recipes collection schema.");
   process.exit(1);
@@ -148,7 +179,7 @@ if (!fridgeLogic.includes("rankRecipesForFridge") || !fridgeLogic.includes("reso
   process.exit(1);
 }
 
-if (!fridgePage.includes("data-fridge-results") || !fridgePage.includes("fridge-tool-data") || !fridgePage.includes("雞蛋")) {
+if (!fridgePage.includes("data-fridge-results") || !fridgePage.includes("fridge-tool-data") || !fridgePage.includes("雞蛋") || !fridgePage.includes("Breadcrumb")) {
   console.error("Fridge tool page must expose result containers and embedded local data.");
   process.exit(1);
 }
@@ -239,7 +270,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/recipes/index.astro",
-    markers: ["RecipeCard", "AdSlot", 'getCollection("recipes")', "buildItemListJsonLd"]
+    markers: ["RecipeCard", "AdSlot", 'getCollection("recipes")', "buildItemListJsonLd", "Breadcrumb"]
   },
   {
     file: "src/pages/recipes/[slug].astro",
@@ -247,7 +278,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/ingredients/index.astro",
-    markers: ["RecipeCard", "getIngredientsByCategory", "scenarioItems", "buildItemListJsonLd"]
+    markers: ["RecipeCard", "getIngredientsByCategory", "scenarioItems", "buildItemListJsonLd", "Breadcrumb"]
   },
   {
     file: "src/pages/ingredients/[slug].astro",
@@ -255,7 +286,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/scenarios/index.astro",
-    markers: ["scenarioItems", "buildCollectionPageJsonLd", "buildItemListJsonLd"]
+    markers: ["scenarioItems", "buildCollectionPageJsonLd", "buildItemListJsonLd", "Breadcrumb"]
   },
   {
     file: "src/pages/scenarios/[slug].astro",

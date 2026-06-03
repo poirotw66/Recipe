@@ -1,4 +1,4 @@
-# 今天煮什麼
+# Bloom Kitchen（今天煮什麼）
 
 台灣一人份、租屋族、懶人料理食譜 SEO 站。
 
@@ -50,7 +50,7 @@ Environment variables:
 
 ```text
 PUBLIC_SITE_URL=https://recipe.bloss0m.com
-PUBLIC_SITE_NAME=今天煮什麼
+PUBLIC_SITE_NAME=Bloom Kitchen
 PUBLIC_ADSENSE_CLIENT=ca-pub-xxxxxxxxxxxxxxxx
 ```
 

@@ -1,11 +1,11 @@
 ---
 import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
-import { contactEmail, legalLastUpdated } from "../lib/site";
+import { brandName, brandTagline, contactEmail, legalLastUpdated } from "../lib/site";
 ---
 
 <StaticArticleLayout
   title="使用條款"
-  description="說明今天煮什麼的內容用途、免責聲明、外部連結與廣告顯示原則。"
+  description={`說明 ${brandName}（${brandTagline}）的內容用途、免責聲明、外部連結與廣告顯示原則。`}
   canonicalPath="/terms"
   eyebrow="Terms"
   updatedAt={legalLastUpdated}

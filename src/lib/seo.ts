@@ -1,7 +1,6 @@
 import type { RecipeEntry } from "./recipes";
 import type { IngredientItem, ScenarioItem } from "./taxonomy";
-
-const getSiteUrl = () => import.meta.env.PUBLIC_SITE_URL || "https://example.com";
+import { brandName, getSiteUrl } from "./site";
 
 export const absoluteUrl = (path: string) => new URL(path, getSiteUrl()).toString();
 
@@ -44,7 +43,7 @@ export const buildRecipeJsonLd = (recipe: RecipeEntry) => ({
   image: [absoluteUrl(recipe.data.coverImage)],
   author: {
     "@type": "Organization",
-    name: "今天煮什麼"
+    name: brandName
   },
   datePublished: recipe.data.publishedAt.toISOString().slice(0, 10),
   dateModified: recipe.data.updatedAt.toISOString().slice(0, 10),

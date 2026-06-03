@@ -1,11 +1,20 @@
 ---
 import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
-import { bloss0mSiteUrl, contactEmail, legalLastUpdated } from "../lib/site";
+import {
+  bloss0mSiteUrl,
+  bloomPickerUrl,
+  bloomRenderUrl,
+  brandName,
+  brandTagline,
+  contactEmail,
+  legalLastUpdated,
+  recipeSiteUrl
+} from "../lib/site";
 ---
 
 <StaticArticleLayout
   title="關於本站"
-  description="今天煮什麼專注整理台灣一人份、租屋族與想快速開飯的家常料理靈感。"
+  description={`${brandName}（${brandTagline}）專注整理台灣一人份、租屋族與想快速開飯的家常料理靈感。`}
   canonicalPath="/about"
   eyebrow="About"
   updatedAt={legalLastUpdated}
@@ -13,7 +22,7 @@ import { bloss0mSiteUrl, contactEmail, legalLastUpdated } from "../lib/site";
   <section>
     <h2>本站在做什麼</h2>
     <p>
-      今天煮什麼是一個以靜態內容為主的食譜 SEO 站，整理適合台灣家庭廚房、小套房廚具與忙碌生活節奏的家常料理。
+      {brandName}（{brandTagline}）是一個以靜態內容為主的食譜 SEO 站，整理適合台灣家庭廚房、小套房廚具與忙碌生活節奏的家常料理。
       我們希望讓讀者在 10 到 30 分鐘內，快速找到今天能煮、冰箱裡也可能有材料的做法。
     </p>
   </section>
@@ -32,21 +41,25 @@ import { bloss0mSiteUrl, contactEmail, legalLastUpdated } from "../lib/site";
     <ul class="article-list">
       <li>優先提供容易掃讀的步驟、時間、份量與替代建議。</li>
       <li>營養、保存與食材搭配資訊屬整理與估算用途，不構成醫療建議。</li>
-      <li>第一階段站點以 Markdown 與 JSON 靜態內容建置，會持續擴充與修正。</li>
+      <li>站點以 Markdown 與 JSON 靜態內容建置，會持續擴充與修正。</li>
     </ul>
   </section>
 
   <section>
     <h2>與 Bloss0m 的關係</h2>
     <p>
-      「今天煮什麼」是
-      <a href={bloss0mSiteUrl} rel="noopener noreferrer">bloss0m.com</a>
-      旗下的料理內容站，網址為
-      <a href="https://recipe.bloss0m.com">recipe.bloss0m.com</a>。
-      Bloss0m 是我個人網路內容與實驗專案的集合入口；這裡專注在台灣家常、一人份與租屋族能實際開做的食譜整理，與主站其他主題分開，方便你專心找「今天煮什麼」。
+      {brandName} 是
+      <a href={bloss0mSiteUrl} rel="noopener noreferrer">bloss0m</a>
+      生態中的食譜站，中文口號為「{brandTagline}」，網址為
+      <a href={recipeSiteUrl}>{recipeSiteUrl}</a>。
+      同系列產品還包含
+      <a href={bloomPickerUrl} rel="noopener noreferrer">Bloom Picker</a>
+      （色票推薦）與
+      <a href={bloomRenderUrl} rel="noopener noreferrer">Bloom Render</a>
+      （繪圖入口）。
     </p>
     <p>
-      若你想了解 Bloss0m 其他作品或站務脈絡，可先造訪主站；若只想回報食譜、合作或站務問題，請直接用下方的聯絡方式。
+      Bloss0m 是我個人網路內容與實驗專案的集合入口；這裡專注在台灣家常、一人份與租屋族能實際開做的食譜整理，與主站其他主題分開，方便你專心找今晚要煮什麼。
     </p>
   </section>
 

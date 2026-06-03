@@ -1,11 +1,11 @@
 ---
 import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
-import { bloss0mSiteUrl, contactEmail, legalLastUpdated } from "../lib/site";
+import { bloss0mSiteUrl, brandName, brandTagline, contactEmail, legalLastUpdated, recipeSiteUrl } from "../lib/site";
 ---
 
 <StaticArticleLayout
   title="聯絡我們"
-  description="透過 email 聯絡今天煮什麼，回報內容問題、合作需求或站務建議。"
+  description={`透過 email 聯絡 ${brandName}（${brandTagline}），回報內容問題、合作需求或站務建議。`}
   canonicalPath="/contact"
   eyebrow="Contact"
   updatedAt={legalLastUpdated}
@@ -14,8 +14,9 @@ import { bloss0mSiteUrl, contactEmail, legalLastUpdated } from "../lib/site";
     <h2>主要聯絡方式</h2>
     <p>
       本站為
-      <a href={bloss0mSiteUrl} rel="noopener noreferrer">bloss0m.com</a>
-      旗下的「今天煮什麼」食譜站（recipe.bloss0m.com）。第一階段不提供表單後端，所有站務與內容回饋都透過 email 收件。
+      <a href={bloss0mSiteUrl} rel="noopener noreferrer">bloss0m</a>
+      生態中的 {brandName}（{brandTagline}）食譜站（
+      <a href={recipeSiteUrl}>{recipeSiteUrl}</a>）。不提供表單後端，所有站務與內容回饋都透過 email 收件。
     </p>
     <p><a class="button" href={`mailto:${contactEmail}`}>{contactEmail}</a></p>
   </section>

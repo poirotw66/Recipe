@@ -375,9 +375,10 @@ textarea {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-2);
-  margin-bottom: var(--space-6);
+  align-items: center;
+  margin: 0 0 var(--space-4);
   color: var(--mushroom);
-  font-size: 0.92rem;
+  font-size: 0.88rem;
 }
 
 .recipe-hero {
@@ -514,33 +515,105 @@ textarea {
 }
 
 .site-header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
   border-bottom: 1px solid var(--bran-line);
-  background: rgba(255, 253, 247, 0.92);
+  background: rgba(255, 253, 247, 0.96);
+  backdrop-filter: blur(8px);
 }
 
 .site-header__inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 64px;
   gap: var(--space-4);
+  min-height: 64px;
 }
 
 .brand {
+  color: var(--soy-ink);
+  font-size: clamp(1.15rem, 2.8vw, 1.45rem);
   font-weight: 800;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
   text-decoration: none;
+  white-space: nowrap;
 }
 
-.nav {
-  display: flex;
+.nav-toggle {
+  display: inline-flex;
   align-items: center;
-  gap: var(--space-4);
-  color: var(--mushroom);
-  font-size: 0.95rem;
+  justify-content: center;
+  min-height: 40px;
+  padding: 0 var(--space-4);
+  border: 1px solid var(--bran-line);
+  border-radius: var(--radius-md);
+  background: var(--porcelain);
+  color: var(--soy-ink);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
 }
 
-.nav a {
+.site-nav {
+  position: fixed;
+  inset: 64px 0 0;
+  display: none;
+  padding: var(--space-4);
+  background: rgba(45, 38, 32, 0.28);
+}
+
+.site-header[data-open="true"] .site-nav {
+  display: block;
+}
+
+.site-nav__panel {
+  display: grid;
+  gap: var(--space-6);
+  max-height: calc(100vh - 96px);
+  padding: var(--space-6);
+  overflow: auto;
+  border: 1px solid var(--bran-line);
+  border-radius: var(--radius-md);
+  background: var(--rice);
+  box-shadow: var(--shadow-md);
+}
+
+.site-nav__label {
+  margin: 0 0 var(--space-3);
+  color: var(--sesame);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.site-nav__links {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.site-nav__links a,
+.site-nav__group--utility a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 var(--space-3);
+  border-radius: var(--radius-sm);
+  color: var(--soy-ink);
+  font-size: 1rem;
+  font-weight: 600;
   text-decoration: none;
+}
+
+.site-nav__links a.is-current,
+.site-nav__group--utility a.is-current {
+  background: var(--note);
+}
+
+body.nav-open {
+  overflow: hidden;
 }
 
 .site-footer {
@@ -559,20 +632,103 @@ textarea {
   font-size: 0.9rem;
 }
 
+.site-footer__brand {
+  display: grid;
+  gap: var(--space-3);
+  max-width: 36rem;
+}
+
+.site-footer__lead {
+  margin: 0;
+}
+
+.footer-ecosystem {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  font-size: 0.88rem;
+}
+
+.footer-ecosystem a,
+.footer-ecosystem__current {
+  text-decoration: none;
+}
+
+.footer-ecosystem__current {
+  color: var(--soy-ink);
+  font-weight: 700;
+}
+
 .footer-links {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-3);
 }
 
-@media (max-width: 720px) {
-  .site-header__inner,
-  .nav {
-    align-items: flex-start;
-    flex-direction: column;
-    padding: var(--space-3) 0;
+@media (min-width: 721px) {
+  .nav-toggle {
+    display: none;
   }
 
+  .site-nav {
+    position: static;
+    inset: auto;
+    display: block;
+    padding: 0;
+    background: transparent;
+  }
+
+  .site-nav__panel {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+    max-height: none;
+    padding: 0;
+    overflow: visible;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .site-nav__group {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+  }
+
+  .site-nav__group--utility {
+    margin-left: var(--space-2);
+  }
+
+  .site-nav__label {
+    display: none;
+  }
+
+  .site-nav__links {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+  }
+
+  .site-nav__links a,
+  .site-nav__group--utility a {
+    min-height: auto;
+    padding: 0;
+    color: var(--mushroom);
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+
+  .site-nav__links a.is-current,
+  .site-nav__group--utility a.is-current {
+    background: transparent;
+    color: var(--soy-ink);
+    font-weight: 700;
+  }
+}
+
+@media (max-width: 720px) {
   .search-form {
     grid-template-columns: 1fr;
   }

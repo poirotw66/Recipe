@@ -1,11 +1,11 @@
 ---
 import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
-import { contactEmail, legalLastUpdated } from "../lib/site";
+import { brandName, brandTagline, contactEmail, legalLastUpdated } from "../lib/site";
 ---
 
 <StaticArticleLayout
   title="隱私權政策"
-  description="說明今天煮什麼如何處理基本流量資料、Cookie、第三方廣告與聯絡資訊。"
+  description={`說明 ${brandName}（${brandTagline}）如何處理基本流量資料、Cookie、第三方廣告與聯絡資訊。`}
   canonicalPath="/privacy-policy"
   eyebrow="Privacy"
   updatedAt={legalLastUpdated}
@@ -13,7 +13,7 @@ import { contactEmail, legalLastUpdated } from "../lib/site";
   <section>
     <h2>我們收集哪些資料</h2>
     <p>
-      今天煮什麼目前以靜態網站形式提供內容，不提供會員登入與站內留言功能。網站營運過程中，可能會透過主機服務、
+      {brandName} 目前以靜態網站形式提供內容，不提供會員登入與站內留言功能。網站營運過程中，可能會透過主機服務、
       基礎流量分析工具或錯誤紀錄收集匿名技術資訊，例如瀏覽器類型、造訪時間、裝置類型與瀏覽頁面。
     </p>
   </section>

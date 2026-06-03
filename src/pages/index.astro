@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import RecipeCard from "../components/RecipeCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { brandDisplayName } from "../lib/site";
 import { getFeaturedRecipes, getLatestRecipes } from "../lib/recipes";
 import { ingredientItems, scenarioItems } from "../lib/taxonomy";
 
@@ -15,8 +16,8 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
 ---
 
 <BaseLayout
-  title="今天煮什麼"
-  description="用冰箱現有食材，快速找到今晚能煮的簡單料理，從雞蛋、豆腐、高麗菜一路找到適合的一人份家常菜。"
+  title={brandDisplayName}
+  description={`${brandDisplayName} 用冰箱現有食材，快速找到今晚能煮的簡單料理，從雞蛋、豆腐、高麗菜一路找到適合的一人份家常菜。`}
   canonicalPath="/"
 >
   <section class="hero">

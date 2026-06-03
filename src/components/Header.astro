@@ -1,13 +1,62 @@
-<header class="site-header">
+---
+import { brandDisplayName } from "../lib/site";
+import { primaryNavLinks, topicNavLinks, utilityNavLinks } from "../lib/navigation";
+
+const currentPath = Astro.url.pathname.replace(/\/$/, "") || "/";
+const isCurrent = (href: string) => currentPath === href.replace(/\/$/, "");
+---
+
+<header class="site-header" data-site-header>
   <div class="container site-header__inner">
-    <a class="brand" href="/">今天煮什麼</a>
-    <nav class="nav" aria-label="主要導覽">
-      <a href="/recipes">食譜</a>
-      <a href="/ingredients">食材</a>
-      <a href="/scenarios">情境</a>
-      <a href="/pasta">義大利麵</a>
-      <a href="/beef">牛肉</a>
-      <a class="button note" href="/tools/fridge-recipe">冰箱剩料</a>
+    <a class="brand" href="/">{brandDisplayName}</a>
+
+    <button
+      type="button"
+      class="nav-toggle"
+      aria-expanded="false"
+      aria-controls="site-nav"
+      data-nav-toggle
+    >
+      <span class="nav-toggle__label">選單</span>
+    </button>
+
+    <nav id="site-nav" class="site-nav" aria-label="主要導覽" data-site-nav>
+      <div class="site-nav__panel">
+        <div class="site-nav__group">
+          <p class="site-nav__label">瀏覽</p>
+          <div class="site-nav__links">
+            {primaryNavLinks.map((link) => (
+              <a class:list={[{ "is-current": isCurrent(link.href) }]} href={link.href}>
+                {link.label}
+              </a>
+            ))}
+          </div>
+        </div>
+
+        <div class="site-nav__group">
+          <p class="site-nav__label">主題專區</p>
+          <div class="site-nav__links">
+            {topicNavLinks.map((link) => (
+              <a class:list={[{ "is-current": isCurrent(link.href) }]} href={link.href}>
+                {link.label}
+              </a>
+            ))}
+          </div>
+        </div>
+
+        <div class="site-nav__group site-nav__group--utility">
+          {utilityNavLinks.map((link) => (
+            <a
+              class:list={["button", "note", { "is-current": isCurrent(link.href) }]}
+              href={link.href}
+            >
+              {link.label}
+            </a>
+          ))}
+        </div>
+      </div>
     </nav>
   </div>
 </header>
+
+<script src="/scripts/site-nav.js" defer></script>

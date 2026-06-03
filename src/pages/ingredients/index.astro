@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import JsonLd from "../../components/JsonLd.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../lib/seo";
@@ -38,6 +39,7 @@ const ingredientListJsonLd = buildItemListJsonLd(
   <JsonLd data={ingredientListJsonLd} />
   <section class="section">
     <div class="container">
+      <Breadcrumb items={[{ name: "首頁", href: "/" }, { name: "食材列表" }]} />
       <p class="eyebrow">Ingredients</p>
       <h1 class="page-title">食材列表</h1>
       <p class="page-copy">
