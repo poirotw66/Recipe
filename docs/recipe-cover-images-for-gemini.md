@@ -144,8 +144,8 @@ A delicious Taiwanese electric-pot steamed chicken bento for one person, with sl
 
 ## 圖片進度狀態
 
-- ✅ **已完成（共 70 篇）**：1 ~ 70（原有 50 篇 + 義大利麵專區 16 篇 + 牛肉專區 67 ~ 70）
-- 🟡 **待新增（共 10 篇）**：71 ~ 80（牛肉專區，受限於模型配額暫時搁置）
+- ✅ **已完成（共 80 篇）**：1 ~ 80（原有 50 篇 + 義大利麵專區 16 篇 + 牛肉專區 14 篇）
+- 🟡 **待新增（共 0 篇）**：無
 
 ---
 
@@ -752,7 +752,7 @@ A comforting pot of Taiwanese simmered beef and tofu, single-serving size. Soft 
 
 ---
 
-## 待新增（71~80）純文字條列
+## 已完成（71~80）純文字條列
 
 71. 咖哩牛肉飯  
 72. 蔥爆牛肉  
