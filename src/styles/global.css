@@ -335,6 +335,16 @@ textarea {
   margin: var(--space-6) 0 0;
 }
 
+.topic-hub-grid {
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.form-hint {
+  margin: 0;
+  color: var(--mushroom);
+  font-size: 0.92rem;
+}
+
 .section-links {
   display: flex;
   flex-wrap: wrap;

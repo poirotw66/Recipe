@@ -78,7 +78,7 @@ const toolData = {
         </form>
       </div>
 
-      <div class="results-column">
+      <div class="results-column" id="fridge-results" data-fridge-results-anchor>
         <section class="card empty-panel" data-fridge-empty>
           <div class="card-body">
             <p class="eyebrow">先從食材開始</p>
@@ -92,8 +92,16 @@ const toolData = {
             <p class="eyebrow">沒有結果</p>
             <h2>目前沒有符合的食譜</h2>
             <p data-no-result-copy>可以改輸入更常見的食材，或到食材頁看看目前支援的分類。</p>
+            <div class="chip-row" data-no-result-actions>
+              <a class="chip note" href="/tools/fridge-recipe?ingredients=%E9%9B%9E%E8%9B%8B#fridge-results">試試雞蛋</a>
+              <a class="chip note" href="/tools/fridge-recipe?ingredients=%E8%B1%86%E8%85%90#fridge-results">試試豆腐</a>
+              <a class="chip note" href="/tools/fridge-recipe?ingredients=%E7%95%AA%E8%8C%84#fridge-results">試試番茄</a>
+              <a class="chip note" href="/recipes">瀏覽全部食譜</a>
+            </div>
           </div>
         </section>
+
+        <p class="form-hint" data-fridge-low-hit hidden>命中較少，可再加一樣主食材，或取消部分偏好條件。</p>
 
         <section class="section section-compact" data-fridge-results hidden>
           <p class="eyebrow">推薦結果</p>

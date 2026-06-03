@@ -179,7 +179,7 @@ if (!fridgeLogic.includes("rankRecipesForFridge") || !fridgeLogic.includes("reso
   process.exit(1);
 }
 
-if (!fridgePage.includes("data-fridge-results") || !fridgePage.includes("fridge-tool-data") || !fridgePage.includes("雞蛋") || !fridgePage.includes("Breadcrumb")) {
+if (!fridgePage.includes("data-fridge-results") || !fridgePage.includes("fridge-tool-data") || !fridgePage.includes("雞蛋") || !fridgePage.includes("Breadcrumb") || !fridgePage.includes('id="fridge-results"') || !fridgePage.includes("data-fridge-low-hit")) {
   console.error("Fridge tool page must expose result containers and embedded local data.");
   process.exit(1);
 }
@@ -266,7 +266,7 @@ for (const slug of ["fridge-cleanout-meals", "air-fryer-meals"]) {
 const pageExpectations = [
   {
     file: "src/pages/index.astro",
-    markers: ["data-home-search-error", "/tools/fridge-recipe", "RecipeCard", "featuredScenarios"]
+    markers: ["data-home-search-error", "data-home-search-input", "/tools/fridge-recipe", "RecipeCard", "topic-hub-grid", "#fridge-results"]
   },
   {
     file: "src/pages/recipes/index.astro",

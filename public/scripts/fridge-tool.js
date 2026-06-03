@@ -8,6 +8,7 @@ const fridgeClearButton = document.querySelector("[data-fridge-clear]");
 const fridgeSummaryCopy = document.querySelector("[data-result-summary-copy]");
 const fridgeNoResultCopy = document.querySelector("[data-no-result-copy]");
 const fridgeResultGrid = document.querySelector("[data-result-grid]");
+const fridgeLowHitHint = document.querySelector("[data-fridge-low-hit]");
 const quickIngredientButtons = document.querySelectorAll("[data-quick-ingredient]");
 const preferenceButtons = document.querySelectorAll("[data-preference]");
 const dataElement = document.querySelector("#fridge-tool-data");
@@ -154,6 +155,10 @@ const showNoResults = (copy) => {
   fridgeResults.hidden = true;
   fridgeNoResults.hidden = false;
 
+  if (fridgeLowHitHint instanceof HTMLElement) {
+    fridgeLowHitHint.hidden = true;
+  }
+
   if (fridgeNoResultCopy instanceof HTMLElement) {
     fridgeNoResultCopy.textContent = copy;
   }
@@ -161,6 +166,13 @@ const showNoResults = (copy) => {
   if (fridgeResultGrid instanceof HTMLElement) {
     fridgeResultGrid.innerHTML = "";
   }
+
+  scrollToResultsAnchor();
+};
+
+const scrollToResultsAnchor = () => {
+  const anchor = document.querySelector("[data-fridge-results-anchor]");
+  anchor?.scrollIntoView({ behavior: "smooth", block: "start" });
 };
 
 const showResults = (summary, recipes) => {
@@ -179,6 +191,12 @@ const showResults = (summary, recipes) => {
   fridgeResults.hidden = false;
   fridgeSummaryCopy.textContent = summary;
   fridgeResultGrid.innerHTML = recipes.slice(0, 6).map(renderRecipeCard).join("");
+
+  if (fridgeLowHitHint instanceof HTMLElement) {
+    fridgeLowHitHint.hidden = recipes.length >= 3;
+  }
+
+  scrollToResultsAnchor();
 };
 
 const syncPreferenceButtons = () => {
@@ -279,6 +297,11 @@ fridgeClearButton?.addEventListener("click", () => {
   fridgeEmptyState.hidden = false;
   fridgeNoResults.hidden = true;
   fridgeResults.hidden = true;
+
+  if (fridgeLowHitHint instanceof HTMLElement) {
+    fridgeLowHitHint.hidden = true;
+  }
+
   selectedPreferences.clear();
   syncPreferenceButtons();
   syncClearButton();
