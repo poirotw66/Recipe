@@ -193,6 +193,49 @@ textarea {
   text-decoration: none;
 }
 
+.recipe-card__facts,
+.recipe-key-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-bottom: var(--space-3);
+}
+
+.recipe-card__lede {
+  margin: 0;
+  color: var(--mushroom);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.recipe-card__ingredients {
+  margin-top: var(--space-3);
+}
+
+.chip-emphasis {
+  border-color: var(--scallion);
+  background: rgba(47, 125, 79, 0.12);
+  color: var(--soy-ink);
+  font-weight: 600;
+}
+
+.chip-tool {
+  border-color: var(--egg-yolk);
+  background: rgba(242, 184, 75, 0.16);
+  color: var(--soy-ink);
+  font-weight: 600;
+}
+
+.recipe-detail-tags {
+  margin-top: var(--space-4);
+}
+
+.recipe-timing-note {
+  margin: 0 0 var(--space-4);
+  color: var(--mushroom);
+  font-size: 0.92rem;
+}
+
 .recipe-image {
   aspect-ratio: 4 / 3;
   overflow: hidden;
@@ -462,6 +505,43 @@ textarea {
 .steps-list li,
 .tips-list li {
   margin-bottom: var(--space-3);
+}
+
+.steps-list--numbered {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: recipe-step;
+}
+
+.steps-list--numbered li {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: var(--space-3);
+  align-items: start;
+  counter-increment: recipe-step;
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-4);
+  border-bottom: 1px solid var(--bran-line);
+}
+
+.steps-list--numbered li:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.steps-list--numbered li::before {
+  content: counter(recipe-step);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 999px;
+  background: var(--scallion);
+  color: #fff;
+  font-size: 0.875rem;
+  font-weight: 700;
 }
 
 .note-block {

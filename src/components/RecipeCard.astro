@@ -1,14 +1,14 @@
 ---
 import RecipeImage from "./RecipeImage.astro";
 import type { RecipeEntry } from "../lib/recipes";
-import { getRecipeMeta } from "../lib/recipes";
+import { getRecipeCardHighlights } from "../lib/recipes";
 
 interface Props {
   recipe: RecipeEntry;
 }
 
 const { recipe } = Astro.props;
-const meta = getRecipeMeta(recipe);
+const highlights = getRecipeCardHighlights(recipe);
 const equipmentText = recipe.data.equipment.join(",");
 const searchableText = [
   recipe.data.title,
@@ -33,14 +33,15 @@ const searchableText = [
   <a class="recipe-card__link" href={`/recipes/${recipe.slug}/`}>
     <RecipeImage src={recipe.data.coverImage} alt={`${recipe.data.title}成品圖`} />
     <div class="card-body">
-      <h3>{recipe.data.title}</h3>
-      <p>{recipe.data.description}</p>
-      <div class="meta-row">
-        {meta.map((item) => <span class="chip">{item}</span>)}
+      <div class="recipe-card__facts" aria-label="快速資訊">
+        <span class="chip chip-emphasis">{highlights.timeLabel}</span>
+        <span class="chip chip-tool">{highlights.equipmentLabel}</span>
+        <span class="chip">{highlights.difficultyLabel}</span>
       </div>
-      <div class="chip-row">
-        {recipe.data.ingredients.slice(0, 3).map((item) => <span class="chip note">{item.name}</span>)}
-        {recipe.data.scenarios.slice(0, 2).map((item) => <span class="chip">{item}</span>)}
+      <h3>{recipe.data.title}</h3>
+      <p class="recipe-card__lede">{recipe.data.description}</p>
+      <div class="chip-row recipe-card__ingredients" aria-label="核心食材">
+        {highlights.ingredientNames.map((name) => <span class="chip note">{name}</span>)}
       </div>
     </div>
   </a>

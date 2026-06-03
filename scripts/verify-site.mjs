@@ -41,6 +41,7 @@ const requiredFiles = [
   "src/components/Breadcrumb.astro",
   "public/ads.txt",
   "public/scripts/fridge-tool.js",
+  "public/scripts/recipe-list-filter.js",
   "public/scripts/site-nav.js",
   "public/images/.gitkeep",
   "src/content/recipes/tofu-scrambled-eggs.md",
@@ -270,11 +271,11 @@ const pageExpectations = [
   },
   {
     file: "src/pages/recipes/index.astro",
-    markers: ["RecipeCard", "AdSlot", 'getCollection("recipes")', "buildItemListJsonLd", "Breadcrumb"]
+    markers: ["RecipeCard", "AdSlot", 'getCollection("recipes")', "buildItemListJsonLd", "Breadcrumb", "recipe-list-filter.js", "data-reset-filters"]
   },
   {
     file: "src/pages/recipes/[slug].astro",
-    markers: ["buildRecipeJsonLd", "buildFaqJsonLd", "AdSlot"]
+    markers: ["buildRecipeJsonLd", "buildFaqJsonLd", "AdSlot", "recipe-key-facts", "steps-list--numbered"]
   },
   {
     file: "src/pages/ingredients/index.astro",

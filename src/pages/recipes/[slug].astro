@@ -68,15 +68,14 @@ const topicHubLinks = getTopicHubLinksForRecipe(recipe);
           <h1 class="page-title">{recipe.data.title}</h1>
           <p class="page-copy">{recipe.data.description}</p>
 
-          <div class="meta-row" aria-label="食譜資訊">
-            <span class="chip note">總時間 {recipe.data.totalTime} 分鐘</span>
-            <span class="chip">準備 {recipe.data.prepTime} 分鐘</span>
-            <span class="chip">烹調 {recipe.data.cookTime} 分鐘</span>
-            <span class="chip">{recipe.data.servings} 人份</span>
+          <div class="recipe-key-facts" aria-label="快速判斷資訊">
+            <span class="chip chip-emphasis">總時間 {recipe.data.totalTime} 分鐘</span>
+            <span class="chip chip-tool">{recipe.data.equipment[0] ?? recipe.data.category}</span>
             <span class="chip">{recipe.data.difficulty}</span>
+            <span class="chip note">{recipe.data.servings} 人份</span>
           </div>
 
-          <div class="chip-row">
+          <div class="chip-row recipe-detail-tags">
             {recipe.data.equipment.map((item) => <span class="chip note">{item}</span>)}
             {scenarioLinks.map((item) => <a class="chip" href={`/scenarios/${item.slug}/`}>{item.name}</a>)}
             {topicHubLinks.map((hub) => (
@@ -88,7 +87,7 @@ const topicHubLinks = getTopicHubLinksForRecipe(recipe);
 
           <div class="section-links">
             <a class="button" href="/recipes">返回食譜列表</a>
-            <a class="button note" href={`/tools/fridge-recipe?ingredients=${encodeURIComponent(ingredientQuery)}`}>
+            <a class="button note" href={`/tools/fridge-recipe?ingredients=${encodeURIComponent(ingredientQuery)}#fridge-results`}>
               用這些食材試算冰箱料理
             </a>
           </div>
@@ -153,7 +152,8 @@ const topicHubLinks = getTopicHubLinksForRecipe(recipe);
               <div class="card-body">
                 <p class="eyebrow">料理步驟</p>
                 <h2>實際做法</h2>
-                <ol class="steps-list">
+                <p class="recipe-timing-note">準備 {recipe.data.prepTime} 分鐘 · 烹調 {recipe.data.cookTime} 分鐘</p>
+                <ol class="steps-list steps-list--numbered">
                   {recipe.data.steps.map((step) => <li>{step}</li>)}
                 </ol>
               </div>

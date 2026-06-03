@@ -17,6 +17,20 @@ export const getRecipeMeta = (recipe: RecipeEntry) => [
   recipe.data.equipment[0] ?? recipe.data.category
 ];
 
+export const getRecipeCardHighlights = (recipe: RecipeEntry) => {
+  const coreIngredients = recipe.data.ingredients.filter((item) => item.isCore);
+  const ingredientNames = (coreIngredients.length > 0 ? coreIngredients : recipe.data.ingredients)
+    .slice(0, 3)
+    .map((item) => item.name);
+
+  return {
+    timeLabel: `${recipe.data.totalTime} 分鐘`,
+    equipmentLabel: recipe.data.equipment[0] ?? recipe.data.category,
+    difficultyLabel: recipe.data.difficulty,
+    ingredientNames
+  };
+};
+
 export const getRelatedRecipes = (recipes: RecipeEntry[], currentSlug: string, limit = 3) => {
   const currentRecipe = recipes.find((recipe) => recipe.slug === currentSlug);
 
