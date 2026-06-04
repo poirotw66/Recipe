@@ -28,6 +28,7 @@
 | 011 | 導覽與行動版 UX | site/navigation | ✔️ | prd-003 | 010 | 收合主選單、導覽分層、麵包屑一致性；改善窄螢幕導覽體驗。 |
 | 012 | 首頁與冰箱工具動線 | ux/home-tools | ✔️ | prd-003 | 006, 010 | 首頁區塊重排、首頁搜尋至冰箱工具動線、空結果引導。 |
 | 013 | 食譜瀏覽體驗強化 | ux/recipes | ✔️ | prd-003 | 002, 010 | 列表篩選 URL state、RecipeCard 資訊層級、食譜詳情可掃讀性。 |
+| 014 | 內容擴充第四批（100 篇、早午餐、WEBP） | content/production | ✔️ | prd-004 | 002, 008, 011 | 100 篇食譜、早午餐專區、20 篇新菜單、全站 WEBP 封面。 |
 
 ## Suggested Order
 
@@ -44,7 +45,12 @@
 11. `spec-011` 導覽與行動版 UX
 12. `spec-012` 首頁與冰箱工具動線
 13. `spec-013` 食譜瀏覽體驗強化
+14. `spec-014` 內容擴充第四批（100 篇、早午餐、WEBP）
 
 ## PRD-003 Close Note
 
-PRD-003（spec-010～013）已於 2026-06-03 完成 God Mode Verify / Review / Close。待部署後執行 Manual Testing Checklist（見各 spec 的 god-mode-report.md）。
+PRD-003（spec-010～013）已於 2026-06-03 完成 God Mode Verify / Review / Close。
+
+## PRD-004 Import Note
+
+PRD-004（spec-014）於 2026-06-03 **回溯登錄**：100 篇食譜、早午餐專區、WEBP 封面已先合併至 `master`。詳見 `docs/prds/prd-004-import-note.md`。
