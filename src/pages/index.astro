@@ -10,6 +10,30 @@ const quickIngredients = ingredientItems.slice(0, 6).map((item) => item.name);
 const featuredScenarios = scenarioItems.slice(0, 6);
 const popularIngredients = ingredientItems.slice(0, 8);
 
+const topicHubCards = [
+  {
+    href: "/brunch/",
+    label: "Brunch",
+    title: "早午餐專區",
+    description: "牛排、海鮮、雞肉與蛋奶素主盤，週末在家也能吃出餐廳感。",
+    cover: "/images/recipes/surf-turf-brunch.webp"
+  },
+  {
+    href: "/beef/",
+    label: "Beef",
+    title: "牛肉專區",
+    description: "炒飯、快炒、湯品與蓋飯，一人份晚餐與便當都適合。",
+    cover: "/images/recipes/scallion-beef-fried-rice.webp"
+  },
+  {
+    href: "/pasta/",
+    label: "Pasta",
+    title: "義大利麵專區",
+    description: "青醬、蒜香、番茄與白醬麵，從雞肉到海鮮一次找齊。",
+    cover: "/images/recipes/garlic-cream-shrimp-pasta.webp"
+  }
+];
+
 const allRecipes = await getCollection("recipes");
 const featuredRecipes = getFeaturedRecipes(allRecipes, 3);
 const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestRecipes(allRecipes, 3);
@@ -22,11 +46,11 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
 >
   <section class="hero">
     <div class="container">
-      <p class="eyebrow">今晚煮什麼</p>
-      <h1 class="page-title">先看冰箱，再決定晚餐</h1>
-      <p class="page-copy">
-        輸入 1 到 3 樣現有食材，直接跳到冰箱剩料工具看推薦結果。
-      </p>
+      <div class="hero-intro">
+        <p class="eyebrow">今晚煮什麼</p>
+        <h1 class="page-title">先看冰箱，再決定晚餐</h1>
+        <p class="page-copy">輸入 1 到 3 樣現有食材，為你挑選今晚適合的簡單料理。</p>
+      </div>
 
       <div class="search-panel">
         <form class="search-form" data-home-search>
@@ -55,8 +79,10 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
 
   <section class="section">
     <div class="container">
-      <p class="eyebrow">料理情境</p>
-      <h2>依今晚狀況挑方向</h2>
+      <div class="section-head">
+        <p class="eyebrow">料理情境</p>
+        <h2>依今晚狀況挑方向</h2>
+      </div>
       <div class="grid">
         {featuredScenarios.map((scenario) => (
           <a class="note-card card-body" href={`/scenarios/${scenario.slug}/`}>
@@ -68,10 +94,12 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
     </div>
   </section>
 
-  <section class="section">
+  <section class="section section--soft">
     <div class="container">
-      <p class="eyebrow">精選食譜</p>
-      <h2>小廚房也能快速開飯</h2>
+      <div class="section-head">
+        <p class="eyebrow">精選食譜</p>
+        <h2>今晚，從這幾道開始</h2>
+      </div>
       <div class="grid">
         {popularRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
       </div>
@@ -81,29 +109,37 @@ const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestR
 
   <section class="section">
     <div class="container">
-      <p class="eyebrow">主題專區</p>
-      <h2>想吃早午餐、牛肉或義大利麵，從這裡進</h2>
+      <div class="section-head">
+        <p class="eyebrow">主題專區</p>
+        <h2>依心情，走進不同的小廚房角落</h2>
+      </div>
       <div class="grid topic-hub-grid">
-        <a class="note-card card-body" href="/brunch/">
-          <h3>早午餐專區</h3>
-          <p>牛排、海鮮、雞肉與蛋奶素主盤，週末在家也能吃出餐廳感。</p>
-        </a>
-        <a class="note-card card-body" href="/beef/">
-          <h3>牛肉專區</h3>
-          <p>炒飯、快炒、湯品與蓋飯，一人份晚餐與便當都適合。</p>
-        </a>
-        <a class="note-card card-body" href="/pasta/">
-          <h3>義大利麵專區</h3>
-          <p>青醬、蒜香、番茄與白醬麵，從雞肉到海鮮一次找齊。</p>
-        </a>
+        {topicHubCards.map((card) => (
+          <a class="topic-card" href={card.href}>
+            <span class="topic-card__label">{card.label}</span>
+            <div
+              class="topic-card__media"
+              style={`background-image: url('${card.cover}')`}
+              role="img"
+              aria-label={`${card.title}預覽`}
+            />
+            <div class="topic-card__body">
+              <h3>{card.title}</h3>
+              <p>{card.description}</p>
+              <span class="topic-card__cta">進入專區 →</span>
+            </div>
+          </a>
+        ))}
       </div>
     </div>
   </section>
 
   <section class="section">
     <div class="container">
-      <p class="eyebrow">常用食材</p>
-      <h2>從常備食材找做法</h2>
+      <div class="section-head">
+        <p class="eyebrow">常用食材</p>
+        <h2>從常備食材找做法</h2>
+      </div>
       <div class="chip-row" aria-label="熱門食材入口">
         {popularIngredients.map((ingredient) => (
           <a class="chip note" href={`/ingredients/${ingredient.slug}/`}>{ingredient.name}</a>

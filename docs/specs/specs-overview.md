@@ -29,6 +29,8 @@
 | 012 | 首頁與冰箱工具動線 | ux/home-tools | ✔️ | prd-003 | 006, 010 | 首頁區塊重排、首頁搜尋至冰箱工具動線、空結果引導。 |
 | 013 | 食譜瀏覽體驗強化 | ux/recipes | ✔️ | prd-003 | 002, 010 | 列表篩選 URL state、RecipeCard 資訊層級、食譜詳情可掃讀性。 |
 | 014 | 內容擴充第四批（100 篇、早午餐、WEBP） | content/production | ✔️ | prd-004 | 002, 008, 011 | 100 篇食譜、早午餐專區、20 篇新菜單、全站 WEBP 封面。 |
+| 015 | 視覺系統與共用元件收斂 | ui/design-system | ✔️ | prd-005 | 010, 013 | global.css token、字型、按鈕／chip／卡片、guideline v1.2。 |
+| 016 | 首頁與主題專區視覺升級 | ui/pages | ✔️ | prd-005 | 012, 014, 015 | 首頁 hero／專區三卡；brunch／beef／pasta 專區頁視覺。 |
 
 ## Suggested Order
 
@@ -46,6 +48,12 @@
 12. `spec-012` 首頁與冰箱工具動線
 13. `spec-013` 食譜瀏覽體驗強化
 14. `spec-014` 內容擴充第四批（100 篇、早午餐、WEBP）
+15. `spec-015` 視覺系統與共用元件收斂（PRD-005）
+16. `spec-016` 首頁與主題專區視覺升級（PRD-005，依賴 015）
+
+## PRD-005 Close Note
+
+PRD-005（spec-015～016）已於 2026-06-03 完成 Verify / Review / Close。視覺方向：溫馨 · 精緻 · 高級；原型 `docs/prototypes/prd-005-*.html`。
 
 ## PRD-003 Close Note
 

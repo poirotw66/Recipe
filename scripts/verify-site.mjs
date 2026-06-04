@@ -270,7 +270,23 @@ for (const slug of ["fridge-cleanout-meals", "air-fryer-meals"]) {
 const pageExpectations = [
   {
     file: "src/pages/index.astro",
-    markers: ["data-home-search-error", "data-home-search-input", "/tools/fridge-recipe", "RecipeCard", "topic-hub-grid", "#fridge-results"]
+    markers: ["data-home-search-error", "data-home-search-input", "/tools/fridge-recipe", "RecipeCard", "topic-hub-grid", "topic-card", "#fridge-results"]
+  },
+  {
+    file: "src/pages/brunch/index.astro",
+    markers: ["TopicHubIntro", "hub-section"]
+  },
+  {
+    file: "src/pages/beef/index.astro",
+    markers: ["TopicHubIntro", "hub-section"]
+  },
+  {
+    file: "src/pages/pasta/index.astro",
+    markers: ["TopicHubIntro", "hub-section"]
+  },
+  {
+    file: "src/components/TopicHubIntro.astro",
+    markers: ["hub-hero", "hub-hero__bg", "featured-card"]
   },
   {
     file: "src/pages/recipes/index.astro",
