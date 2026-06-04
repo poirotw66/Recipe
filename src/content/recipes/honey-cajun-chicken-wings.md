@@ -1,7 +1,7 @@
 ---
 title: "蜜汁紐澳良雞翅"
 description: "雞翅先烤至金黃，再刷上蜂蜜與紐澳良香料，甜辣帶焦香，派對小點首選。"
-coverImage: /images/recipes/honey-cajun-chicken-wings.svg
+coverImage: /images/recipes/honey-cajun-chicken-wings.webp
 servings: 2
 prepTime: 10
 cookTime: 28
