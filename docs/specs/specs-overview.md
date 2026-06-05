@@ -10,6 +10,7 @@
 | 📝 | draft |
 | ✅ | approved / implemented (in progress) |
 | ✔️ | done (closed) |
+| ⏸️ | paused（暫時中止，規格保留） |
 
 ## Spec List
 
@@ -31,6 +32,9 @@
 | 014 | 內容擴充第四批（100 篇、早午餐、WEBP） | content/production | ✔️ | prd-004 | 002, 008, 011 | 100 篇食譜、早午餐專區、20 篇新菜單、全站 WEBP 封面。 |
 | 015 | 視覺系統與共用元件收斂 | ui/design-system | ✔️ | prd-005 | 010, 013 | global.css token、字型、按鈕／chip／卡片、guideline v1.2。 |
 | 016 | 首頁與主題專區視覺升級 | ui/pages | ✔️ | prd-005 | 012, 014, 015 | 首頁 hero／專區三卡；brunch／beef／pasta 專區頁視覺。 |
+| 017 | 多語系平台（路由、UI、taxonomy、SEO） | site/i18n | ⏸️ | prd-006 | 001, 003, 004, 010, 011 | Astro i18n、UI 字典、語言切換、hreflang、sitemap、政策頁四語。 |
+| 018 | 多語食譜內容與試點批次 | content/i18n | ⏸️ | prd-006 | 002, 008, 014, 017 | 15 篇旗艦食譜 en/ja/ko；Gemini Flash 翻譯產線（見 gemini-translation.md）。 |
+| 019 | 冰箱剩料工具多語 | tools/i18n | ⏸️ | prd-006 | 006, 017 | 食材 slug 比對、工具頁 UI 與結果多語標題。 |
 
 ## Suggested Order
 
@@ -50,6 +54,13 @@
 14. `spec-014` 內容擴充第四批（100 篇、早午餐、WEBP）
 15. `spec-015` 視覺系統與共用元件收斂（PRD-005）
 16. `spec-016` 首頁與主題專區視覺升級（PRD-005，依賴 015）
+17. `spec-017` 多語系平台（PRD-006）— **⏸️ 暫停**
+18. `spec-018` 多語食譜試點（PRD-006，依賴 017）— **⏸️ 暫停**
+19. `spec-019` 冰箱工具多語（PRD-006，依賴 017）— **⏸️ 暫停**
+
+## PRD-006 Pause Note
+
+PRD-006（多語系）於 2026-06-03 **approved** 後，同日 **Human 決定暫時中止** spec-017～019（未進入 develop）。已核准策略（子路徑、共用 slug、Gemini Flash 翻譯等）寫在 `docs/prds/prd-006.md` 與各 spec，**恢復時接續即可**。現行站點：**繁中單語**。
 
 ## PRD-005 Close Note
 

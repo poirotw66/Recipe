@@ -9,6 +9,8 @@
     "preview": "astro preview",
     "test": "node scripts/verify-site.mjs && node scripts/test-fridge-logic.mjs",
     "lint": "node scripts/verify-site.mjs",
+    "recipe-review:precheck": "node scripts/recipe-review-precheck.mjs --write",
+    "recipe-review:full": "node scripts/recipe-review-full.mjs",
     "typecheck": "astro check"
   },
   "dependencies": {

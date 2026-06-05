@@ -7,10 +7,11 @@
 ## 文件結構
 
 - `Spec.md`: 原始第一階段規格。
-- `docs/prds/prd-001.md`～`prd-005.md`: 產品需求文件（**prd-004** 為內容第四批回溯登錄）。
+- `docs/prds/prd-001.md`～`prd-006.md`: 產品需求文件（**prd-004** 為內容第四批回溯登錄；**prd-006** 為多語系）。
 - `docs/specs/specs-overview.md`: 全專案 spec 清單與狀態追蹤。
 - `guideline/ui/ui-guideline.md`: Codex 使用的 UI/UX 設計基礎。
 - `velnex.md`: 已安裝 Velnex skills 的使用說明。
+- `.cursor/skills/recipe-review/`: 食譜內容審查（**recipe-review** skill）；報告輸出 `docs/reviews/recipe-audit/`。
 
 ## 開發流程
 
@@ -19,8 +20,9 @@ PRD-001～005 的 spec-001～016 已全部結案（✔️）。
 - **PRD-003**（Bloom Kitchen 品牌 + UX）：2026-06-03
 - **PRD-004**（100 篇、早午餐、WEBP）：2026-06-03 回溯登錄
 - **PRD-005**（視覺質感 + 首頁／專區）：2026-06-03
+- **PRD-006**（多語系 zh/en/ja/ko）：2026-06-03 approved，**2026-06-03 起暫停**（spec-017～019 ⏸️，規格保留、無程式實作）
 
-新需求請從 **PRD-006**（`/vif-prd`）開始。
+新需求請另開 PRD，或恢復多語時將 PRD-006 改回進行中並自 `spec-017` 開發。
 
 已完成批次：
 
