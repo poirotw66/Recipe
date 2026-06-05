@@ -1,0 +1,61 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../../components/Breadcrumb.astro";
+import JsonLd from "../../../components/JsonLd.astro";
+import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../../lib/seo";
+import { localePath, t } from "../../../lib/i18n";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
+import { getScenarioLabel, scenarioItems } from "../../../lib/taxonomy";
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const canonical = localePath(locale, "/scenarios");
+const collectionJsonLd = buildCollectionPageJsonLd(
+  t(locale, "nav.scenarios"),
+  t(locale, "nav.scenarios"),
+  canonical
+);
+const scenarioListJsonLd = buildItemListJsonLd(
+  t(locale, "nav.scenarios"),
+  canonical,
+  scenarioItems.map((scenario) => ({
+    name: getScenarioLabel(scenario, locale),
+    path: localePath(locale, `/scenarios/${scenario.slug}`)
+  }))
+);
+---
+
+<BaseLayout
+  title={t(locale, "nav.scenarios")}
+  description={t(locale, "nav.scenarios")}
+  canonicalPath={canonical}
+  alternatePath="/scenarios"
+  locale={locale}
+>
+  <JsonLd data={collectionJsonLd} />
+  <JsonLd data={scenarioListJsonLd} />
+  <section class="section">
+    <div class="container">
+      <Breadcrumb
+        items={[
+          { name: t(locale, "nav.home"), href: localePath(locale, "/") },
+          { name: t(locale, "nav.scenarios") }
+        ]}
+      />
+      <p class="eyebrow">Scenarios</p>
+      <h1 class="page-title">{t(locale, "nav.scenarios")}</h1>
+      <div class="grid">
+        {
+          scenarioItems.map((scenario) => (
+            <a class="note-card card-body" href={localePath(locale, `/scenarios/${scenario.slug}`)}>
+              <h2 class="card-title">{getScenarioLabel(scenario, locale)}</h2>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+</BaseLayout>

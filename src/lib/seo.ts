@@ -1,4 +1,5 @@
-import type { RecipeEntry } from "./recipes";
+import type { Locale } from "./i18n";
+import type { LocalizedRecipeEntry } from "./recipe-locale";
 import type { IngredientItem, ScenarioItem } from "./taxonomy";
 import { brandName, getSiteUrl } from "./site";
 
@@ -35,7 +36,21 @@ export const buildBreadcrumbJsonLd = (
   }))
 });
 
-export const buildRecipeJsonLd = (recipe: RecipeEntry) => ({
+const recipeYieldByLocale: Record<Locale, string> = {
+  "zh-TW": "人份",
+  en: "servings",
+  ja: "人分",
+  ko: "인분"
+};
+
+const recipeCuisineByLocale: Record<Locale, string> = {
+  "zh-TW": "台灣家常料理",
+  en: "Taiwanese home cooking",
+  ja: "台湾の家庭料理",
+  ko: "대만 가정 요리"
+};
+
+export const buildRecipeJsonLd = (recipe: LocalizedRecipeEntry, locale: Locale = "zh-TW") => ({
   "@context": "https://schema.org",
   "@type": "Recipe",
   name: recipe.data.title,
@@ -50,9 +65,9 @@ export const buildRecipeJsonLd = (recipe: RecipeEntry) => ({
   prepTime: `PT${recipe.data.prepTime}M`,
   cookTime: `PT${recipe.data.cookTime}M`,
   totalTime: `PT${recipe.data.totalTime}M`,
-  recipeYield: `${recipe.data.servings} 人份`,
+  recipeYield: `${recipe.data.servings} ${recipeYieldByLocale[locale]}`,
   recipeCategory: recipe.data.category,
-  recipeCuisine: "台灣家常料理",
+  recipeCuisine: recipeCuisineByLocale[locale],
   keywords: recipe.data.tags.join(", "),
   recipeIngredient: recipe.data.ingredients.map((item) => `${item.name} ${item.amount}${item.unit}`),
   recipeInstructions: recipe.data.steps.map((step) => ({

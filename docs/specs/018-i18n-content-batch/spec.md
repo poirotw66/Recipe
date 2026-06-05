@@ -3,7 +3,7 @@
 ## Meta
 
 - 類型：Content / i18n / QA
-- 狀態：**paused**（2026-06-03 Human 暫停多語系專案）
+- 狀態：**implemented**（2026-06-05 試點完成；待 `/vif-close`）
 - PRD：`docs/prds/prd-006.md`
 - 依賴：`spec-002`, `spec-008`, `spec-014`, **`spec-017`**
 - 建立：2026-06-03

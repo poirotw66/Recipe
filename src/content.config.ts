@@ -1,64 +1,29 @@
-import { defineCollection, z } from "astro:content";
+import { defineCollection } from "astro:content";
+import { defineRecipeSchema } from "./lib/recipe-schema";
 
 const recipes = defineCollection({
   type: "content",
-  schema: z
-    .object({
-      title: z.string().min(1),
-      description: z.string().min(1),
-      coverImage: z.string().min(1),
-      servings: z.number().int().positive(),
-      prepTime: z.number().int().nonnegative(),
-      cookTime: z.number().int().nonnegative(),
-      totalTime: z.number().int().positive(),
-      difficulty: z.enum(["簡單", "中等", "進階"]),
-      calories: z.number().int().positive().optional(),
-      protein: z.number().positive().optional(),
-      fat: z.number().positive().optional(),
-      carbs: z.number().positive().optional(),
-      category: z.string().min(1),
-      scenarios: z.array(z.string().min(1)).min(1),
-      equipment: z.array(z.string().min(1)).min(1),
-      ingredients: z
-        .array(
-          z.object({
-            name: z.string().min(1),
-            amount: z.string().min(1),
-            unit: z.string(),
-            isCore: z.boolean().default(false)
-          })
-        )
-        .min(1),
-      seasonings: z.array(
-        z.object({
-          name: z.string().min(1),
-          amount: z.string().min(1),
-          unit: z.string()
-        })
-      ),
-      tags: z.array(z.string().min(1)).default([]),
-      intro: z.string().min(1),
-      steps: z.array(z.string().min(1)).min(3),
-      tips: z.array(z.string().min(1)).default([]),
-      storage: z.string().min(1),
-      substitutions: z.array(z.string().min(1)).default([]),
-      customAdditions: z.array(z.string()).default([]),
-      faqs: z
-        .array(
-          z.object({
-            question: z.string().min(1),
-            answer: z.string().min(1)
-          })
-        )
-        .default([]),
-      relatedIngredients: z.array(z.string().min(1)).default([]),
-      featured: z.boolean().default(false),
-      publishedAt: z.coerce.date(),
-      updatedAt: z.coerce.date()
-    })
-    .refine((recipe) => recipe.totalTime >= recipe.prepTime + recipe.cookTime, {
-      message: "totalTime must be greater than or equal to prepTime + cookTime"
-    })
+  schema: defineRecipeSchema(["簡單", "中等", "進階"] as const, false)
 });
 
-export const collections = { recipes };
+const recipesEn = defineCollection({
+  type: "content",
+  schema: defineRecipeSchema(["Easy", "Medium", "Advanced"] as const, true)
+});
+
+const recipesJa = defineCollection({
+  type: "content",
+  schema: defineRecipeSchema(["かんたん", "普通", "むずかしい"] as const, true)
+});
+
+const recipesKo = defineCollection({
+  type: "content",
+  schema: defineRecipeSchema(["쉬움", "보통", "어려움"] as const, true)
+});
+
+export const collections = {
+  recipes,
+  "recipes-en": recipesEn,
+  "recipes-ja": recipesJa,
+  "recipes-ko": recipesKo
+};

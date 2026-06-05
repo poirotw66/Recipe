@@ -1,0 +1,33 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { brandDisplayName } from "../../lib/site";
+import { localePath, t } from "../../lib/i18n";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../lib/i18n-routes";
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const canonical = localePath(locale, "/");
+---
+
+<BaseLayout
+  title={brandDisplayName}
+  description={t(locale, "recipes.emptyLocale")}
+  canonicalPath={canonical}
+  alternatePath="/"
+  locale={locale}
+>
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">Bloom Kitchen</p>
+      <h1 class="page-title">{brandDisplayName}</h1>
+      <p class="page-copy">{t(locale, "recipes.emptyLocale")}</p>
+      <div class="section-links">
+        <a class="button note" href={localePath(locale, "/recipes")}>{t(locale, "nav.recipes")}</a>
+        <a class="button" href="/recipes/">{t(locale, "recipes.viewZh")}</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

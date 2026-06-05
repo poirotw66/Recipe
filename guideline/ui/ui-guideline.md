@@ -12,6 +12,7 @@
 | --- | --- | --- |
 | v1.1 | 2026-06-03 | spec-010：Bloom Kitchen 品牌名與 Bloss0m 生態對齊 |
 | v1.2 | 2026-06-03 | spec-015/016：溫馨精緻高級視覺、champagne token、Noto Serif/Sans TC |
+| v1.3 | 2026-06-05 | spec-017：子路徑多語、語言切換器、字典驅動導覽；詳見 `docs/specs/017-i18n-platform/spec.md` |
 
 ## Intent First
 
@@ -409,6 +410,12 @@ Token 名稱如 `--rice`、`--scallion`、`--soy-ink`、`--egg-yolk`、`--cooker
   --shadow-md: 0 8px 20px rgba(45, 38, 32, 0.10);
 }
 ```
+
+## 多語與語言切換（spec-017）
+
+- 繁中維持根路徑；`en`／`ja`／`ko` 使用子路徑前綴。語言切換保留 path suffix（同一 slug／列表路徑）。
+- 導覽、footer、空狀態等殼層文案以 `src/i18n/ui/*.json` 為準；taxonomy 顯示名用 `labels[locale]`。
+- 語言切換器：header 右側單一 `<select>`（`.lang-switcher__select`），勿在導覽列並排四個語言連結。
 
 ## 備註
 

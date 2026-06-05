@@ -1,43 +1,63 @@
 ---
 import { brandDisplayName } from "../lib/site";
-import { primaryNavLinks, topicNavLinks, utilityNavLinks } from "../lib/navigation";
+import {
+  detectLocaleFromPath,
+  localePath,
+  t,
+  type Locale
+} from "../lib/i18n";
+import { getPrimaryNavLinks, getTopicNavLinks, getUtilityNavLinks } from "../lib/navigation";
+import LanguageSwitcher from "./LanguageSwitcher.astro";
+
+interface Props {
+  locale?: Locale;
+}
+
+const locale = Astro.props.locale ?? detectLocaleFromPath(Astro.url.pathname);
+const primaryNavLinks = getPrimaryNavLinks(locale);
+const topicNavLinks = getTopicNavLinks(locale);
+const utilityNavLinks = getUtilityNavLinks(locale);
 
 const currentPath = Astro.url.pathname.replace(/\/$/, "") || "/";
 const isCurrent = (href: string) => currentPath === href.replace(/\/$/, "");
+const menuLabel = t(locale, "nav.menu");
+const linkClass = (href: string) =>
+  ["site-nav__link", { "is-current": isCurrent(href) }] as const;
 ---
 
 <header class="site-header" data-site-header>
   <div class="container site-header__inner">
-    <a class="brand" href="/">{brandDisplayName}</a>
-
-    <button
-      type="button"
-      class="nav-toggle"
-      aria-expanded="false"
-      aria-controls="site-nav"
-      data-nav-toggle
-    >
-      <span class="nav-toggle__label">選單</span>
-    </button>
+    <a class="brand" href={localePath(locale, "/")}>{brandDisplayName}</a>
 
     <nav id="site-nav" class="site-nav" aria-label="主要導覽" data-site-nav>
       <div class="site-nav__panel">
-        <div class="site-nav__group">
-          <p class="site-nav__label">瀏覽</p>
+        <div class="site-nav__group site-nav__group--primary">
+          <p class="site-nav__label">{t(locale, "nav.browse")}</p>
           <div class="site-nav__links">
             {primaryNavLinks.map((link) => (
-              <a class:list={[{ "is-current": isCurrent(link.href) }]} href={link.href}>
+              <a class:list={linkClass(link.href)} href={link.href}>
                 {link.label}
               </a>
             ))}
           </div>
         </div>
 
-        <div class="site-nav__group">
-          <p class="site-nav__label">主題專區</p>
+        <details class="site-nav__topics site-nav__topics--desktop">
+          <summary class="site-nav__link site-nav__link--menu">{t(locale, "nav.topicsMenu")}</summary>
+          <div class="site-nav__topics-panel">
+            {topicNavLinks.map((link) => (
+              <a class:list={[...linkClass(link.href), "site-nav__link--sub"]} href={link.href}>
+                {link.label}
+              </a>
+            ))}
+          </div>
+        </details>
+
+        <div class="site-nav__group site-nav__group--topics site-nav__topics--mobile">
+          <p class="site-nav__label">{t(locale, "nav.topics")}</p>
           <div class="site-nav__links">
             {topicNavLinks.map((link) => (
-              <a class:list={[{ "is-current": isCurrent(link.href) }]} href={link.href}>
+              <a class:list={linkClass(link.href)} href={link.href}>
                 {link.label}
               </a>
             ))}
@@ -46,16 +66,28 @@ const isCurrent = (href: string) => currentPath === href.replace(/\/$/, "");
 
         <div class="site-nav__group site-nav__group--utility">
           {utilityNavLinks.map((link) => (
-            <a
-              class:list={["button", "note", { "is-current": isCurrent(link.href) }]}
-              href={link.href}
-            >
+            <a class:list={[...linkClass(link.href), "site-nav__link--cta"]} href={link.href}>
               {link.label}
             </a>
           ))}
         </div>
       </div>
     </nav>
+
+    <div class="site-header__toolbar">
+      <LanguageSwitcher locale={locale} />
+      <button
+        type="button"
+        class="nav-toggle"
+        aria-expanded="false"
+        aria-controls="site-nav"
+        aria-label={menuLabel}
+        data-nav-toggle
+      >
+        <span class="nav-toggle__icon" aria-hidden="true"></span>
+        <span class="visually-hidden">{menuLabel}</span>
+      </button>
+    </div>
   </div>
 </header>
 

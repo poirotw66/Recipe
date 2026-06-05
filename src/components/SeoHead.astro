@@ -1,5 +1,13 @@
 ---
 import { brandDisplayName, brandName, brandTagline, getSiteUrl, siteTitleSuffix } from "../lib/site";
+import {
+  alternateUrlsForPath,
+  detectLocaleFromPath,
+  hreflangCode,
+  localeToOgLocale,
+  stripLocalePrefix,
+  type Locale
+} from "../lib/i18n";
 
 interface Props {
   title: string;
@@ -7,6 +15,10 @@ interface Props {
   canonicalPath?: string;
   ogImage?: string;
   type?: "website" | "article";
+  locale?: Locale;
+  alternatePath?: string;
+  /** When set, only emit hreflang for these locales (e.g. translated recipe slugs). */
+  alternateLocales?: Locale[];
 }
 
 const {
@@ -14,26 +26,38 @@ const {
   description,
   canonicalPath = Astro.url.pathname,
   ogImage = "/images/og-default.jpg",
-  type = "website"
+  type = "website",
+  locale: localeProp,
+  alternatePath,
+  alternateLocales
 } = Astro.props;
 
+const locale = localeProp ?? detectLocaleFromPath(Astro.url.pathname);
 const siteUrl = getSiteUrl();
 const canonical = new URL(canonicalPath, siteUrl).toString();
 const includesBrand = title.includes(brandName) || title.includes(brandTagline) || title.includes(brandDisplayName);
 const fullTitle = includesBrand ? title : `${title}｜${siteTitleSuffix}`;
 const ogImageUrl = new URL(ogImage, siteUrl).toString();
+const hreflangBase = alternatePath ?? stripLocalePrefix(canonicalPath);
+const alternates = alternateUrlsForPath(siteUrl, hreflangBase, alternateLocales);
 ---
 
 <title>{fullTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
+{
+  alternates.map((item) => (
+    <link rel="alternate" hreflang={hreflangCode(item.locale)} href={item.href} />
+  ))
+}
+<link rel="alternate" hreflang="x-default" href={alternates.find((a) => a.locale === "zh-TW")?.href ?? canonical} />
 <meta property="og:title" content={fullTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:type" content={type} />
 <meta property="og:url" content={canonical} />
 <meta property="og:image" content={ogImageUrl} />
 <meta property="og:site_name" content={siteTitleSuffix} />
-<meta property="og:locale" content="zh_TW" />
+<meta property="og:locale" content={localeToOgLocale[locale]} />
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:card" content="summary_large_image" />

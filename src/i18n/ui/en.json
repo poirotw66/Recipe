@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "browse": "Browse",
+    "topics": "Topic hubs",
+    "topicsMenu": "Topics",
+    "recipes": "Recipes",
+    "ingredients": "Ingredients",
+    "scenarios": "Scenarios",
+    "brunch": "Brunch",
+    "pasta": "Pasta",
+    "beef": "Beef",
+    "fridge": "Fridge finder",
+    "home": "Home"
+  },
+  "lang": {
+    "switch": "Language",
+    "current": "Current language"
+  },
+  "recipes": {
+    "emptyLocale": "Recipes in this language are coming soon. Browse Traditional Chinese recipes for now.",
+    "viewZh": "View Traditional Chinese recipes",
+    "listDescription": "Taiwanese home cooking for small kitchens—quick times and familiar ingredients."
+  },
+  "recipe": {
+    "factsAria": "Quick facts",
+    "totalTime": "Total",
+    "minutes": "min",
+    "servings": "servings",
+    "backToList": "Back to recipes",
+    "fridgeCta": "Match with fridge finder",
+    "adLabel": "In-content ad",
+    "ingredientsEyebrow": "Ingredients",
+    "ingredientsTitle": "Main ingredients",
+    "core": "Core",
+    "seasoningsEyebrow": "Seasonings",
+    "seasoningsTitle": "Seasonings & sauces",
+    "stepsEyebrow": "Steps",
+    "stepsTitle": "How to make it",
+    "prep": "Prep",
+    "cook": "Cook",
+    "tipsEyebrow": "Tips & storage",
+    "tipsTitle": "Make it easier",
+    "substitutions": "Substitutions",
+    "additions": "Optional add-ins",
+    "faqEyebrow": "FAQ",
+    "relatedEyebrow": "Related",
+    "relatedTitle": "More recipes like this",
+    "relatedIngredients": "Related ingredients"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  }
+}

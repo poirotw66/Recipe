@@ -1,23 +1,43 @@
+import { localePath, t, type Locale } from "./i18n";
+
 export interface NavLink {
   href: string;
   label: string;
   emphasis?: "button";
 }
 
-export const primaryNavLinks: NavLink[] = [
-  { href: "/recipes/", label: "食譜" },
-  { href: "/ingredients/", label: "食材" },
-  { href: "/scenarios/", label: "情境" }
-];
+export function getPrimaryNavLinks(locale: Locale): NavLink[] {
+  return [
+    { href: localePath(locale, "/recipes"), label: t(locale, "nav.recipes") },
+    { href: localePath(locale, "/ingredients"), label: t(locale, "nav.ingredients") },
+    { href: localePath(locale, "/scenarios"), label: t(locale, "nav.scenarios") }
+  ];
+}
 
-export const topicNavLinks: NavLink[] = [
-  { href: "/brunch/", label: "早午餐" },
-  { href: "/pasta/", label: "義大利麵" },
-  { href: "/beef/", label: "牛肉" }
-];
+export function getTopicNavLinks(locale: Locale): NavLink[] {
+  return [
+    { href: localePath(locale, "/brunch"), label: t(locale, "nav.brunch") },
+    { href: localePath(locale, "/pasta"), label: t(locale, "nav.pasta") },
+    { href: localePath(locale, "/beef"), label: t(locale, "nav.beef") }
+  ];
+}
 
-export const utilityNavLinks: NavLink[] = [
-  { href: "/tools/fridge-recipe/", label: "冰箱剩料", emphasis: "button" }
-];
+export function getUtilityNavLinks(locale: Locale): NavLink[] {
+  return [
+    {
+      href: localePath(locale, "/tools/fridge-recipe"),
+      label: t(locale, "nav.fridge"),
+      emphasis: "button"
+    }
+  ];
+}
 
-export const allNavLinks: NavLink[] = [...primaryNavLinks, ...topicNavLinks, ...utilityNavLinks];
+export function getAllNavLinks(locale: Locale): NavLink[] {
+  return [...getPrimaryNavLinks(locale), ...getTopicNavLinks(locale), ...getUtilityNavLinks(locale)];
+}
+
+/** @deprecated Use getPrimaryNavLinks(locale) — default zh-TW paths for legacy imports */
+export const primaryNavLinks: NavLink[] = getPrimaryNavLinks("zh-TW");
+export const topicNavLinks: NavLink[] = getTopicNavLinks("zh-TW");
+export const utilityNavLinks: NavLink[] = getUtilityNavLinks("zh-TW");
+export const allNavLinks: NavLink[] = getAllNavLinks("zh-TW");

@@ -1,0 +1,72 @@
+---
+import JsonLd from "../../../components/JsonLd.astro";
+import Breadcrumb from "../../../components/Breadcrumb.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../../lib/seo";
+import { localePath, t } from "../../../lib/i18n";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
+import {
+  getIngredientLabel,
+  getIngredientsByCategoryLocalized,
+  ingredientItems
+} from "../../../lib/taxonomy";
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const canonical = localePath(locale, "/ingredients");
+const grouped = getIngredientsByCategoryLocalized(locale);
+const collectionJsonLd = buildCollectionPageJsonLd(
+  t(locale, "nav.ingredients"),
+  t(locale, "nav.ingredients"),
+  canonical
+);
+const ingredientListJsonLd = buildItemListJsonLd(
+  t(locale, "nav.ingredients"),
+  canonical,
+  ingredientItems.map((ingredient) => ({
+    name: getIngredientLabel(ingredient, locale),
+    path: localePath(locale, `/ingredients/${ingredient.slug}`)
+  }))
+);
+---
+
+<BaseLayout
+  title={t(locale, "nav.ingredients")}
+  description={t(locale, "nav.ingredients")}
+  canonicalPath={canonical}
+  alternatePath="/ingredients"
+  locale={locale}
+>
+  <JsonLd data={collectionJsonLd} />
+  <JsonLd data={ingredientListJsonLd} />
+  <section class="section">
+    <div class="container">
+      <Breadcrumb
+        items={[
+          { name: t(locale, "nav.home"), href: localePath(locale, "/") },
+          { name: t(locale, "nav.ingredients") }
+        ]}
+      />
+      <p class="eyebrow">Ingredients</p>
+      <h1 class="page-title">{t(locale, "nav.ingredients")}</h1>
+
+      {
+        Object.entries(grouped).map(([category, items]) => (
+          <section class="section">
+            <h2 class="section-title">{category}</h2>
+            <div class="chip-row">
+              {items.map((item) => (
+                <a class="chip" href={localePath(locale, `/ingredients/${item.slug}`)}>
+                  {getIngredientLabel(item, locale)}
+                </a>
+              ))}
+            </div>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

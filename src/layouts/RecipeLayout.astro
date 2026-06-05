@@ -1,14 +1,18 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
-import type { RecipeEntry } from "../lib/recipes";
+import type { Locale } from "../lib/i18n";
+import { localePath } from "../lib/i18n";
+import type { LocalizedRecipeEntry } from "../lib/recipe-locale";
 
 interface Props {
-  recipe: RecipeEntry;
+  recipe: LocalizedRecipeEntry;
+  locale?: Locale;
+  alternateLocales?: Locale[];
 }
 
-const { recipe } = Astro.props;
+const { recipe, locale = "zh-TW", alternateLocales } = Astro.props;
 const description = recipe.data.description;
-const canonicalPath = `/recipes/${recipe.slug}/`;
+const canonicalPath = localePath(locale, `/recipes/${recipe.slug}`);
 ---
 
 <BaseLayout
@@ -17,6 +21,9 @@ const canonicalPath = `/recipes/${recipe.slug}/`;
   canonicalPath={canonicalPath}
   ogImage={recipe.data.coverImage}
   type="article"
+  locale={locale}
+  alternatePath={`/recipes/${recipe.slug}`}
+  alternateLocales={alternateLocales}
 >
   <slot name="structured-data" />
   <slot />

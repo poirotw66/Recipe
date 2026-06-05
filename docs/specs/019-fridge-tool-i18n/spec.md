@@ -3,7 +3,7 @@
 ## Meta
 
 - 類型：Tools / i18n
-- 狀態：**paused**（2026-06-03 Human 暫停多語系專案）
+- 狀態：**draft**（依賴 spec-017；PRD-006 已恢復）
 - PRD：`docs/prds/prd-006.md`
 - 依賴：`spec-006`, **`spec-017`**（建議在 spec-018 試點後或並行）
 - 建立：2026-06-03

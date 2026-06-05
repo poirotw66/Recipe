@@ -5,9 +5,27 @@
     "description": "適合一個人快速完成、不需要準備太多鍋具與配菜的家常料理。",
     "seoTitle": "一人料理食譜｜適合租屋族的簡單晚餐",
     "seoDescription": "整理適合一個人吃的一人料理，包含雞蛋、豆腐、剩飯與快手晚餐。",
-    "tags": ["一人份", "家常", "省事"],
-    "relatedScenarios": ["ten-minute-meals", "budget-meals", "fridge-cleanout-meals"],
-    "commonIngredients": ["egg", "tofu", "rice"]
+    "tags": [
+      "一人份",
+      "家常",
+      "省事"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals",
+      "fridge-cleanout-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "tofu",
+      "rice"
+    ],
+    "labels": {
+      "zh-TW": "一人料理",
+      "en": "Cooking for one",
+      "ja": "一人分の料理",
+      "ko": "1인 요리"
+    }
   },
   {
     "name": "10 分鐘料理",
@@ -15,9 +33,27 @@
     "description": "當天很忙、想快速開飯時最適合的短流程料理集合。",
     "seoTitle": "10 分鐘料理食譜｜快速完成的家常晚餐",
     "seoDescription": "想快速做飯時，可以從 10 分鐘料理開始找，適合雞蛋、番茄、豆腐這類常備食材。",
-    "tags": ["快速", "平日晚餐", "省時"],
-    "relatedScenarios": ["one-person-meal", "budget-meals", "air-fryer-meals"],
-    "commonIngredients": ["egg", "tofu", "tomato"]
+    "tags": [
+      "快速",
+      "平日晚餐",
+      "省時"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals",
+      "air-fryer-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "tofu",
+      "tomato"
+    ],
+    "labels": {
+      "zh-TW": "10 分鐘料理",
+      "en": "10-minute meals",
+      "ja": "10分でできる料理",
+      "ko": "10분 요리"
+    }
   },
   {
     "name": "高蛋白料理",
@@ -25,9 +61,27 @@
     "description": "以雞胸肉、豆腐、雞蛋等高蛋白食材為主的日常主菜方向。",
     "seoTitle": "高蛋白料理食譜｜雞胸肉與豆腐的簡單做法",
     "seoDescription": "整理高蛋白料理，適合用雞胸肉、雞蛋、豆腐做出簡單但有飽足感的餐點。",
-    "tags": ["高蛋白", "健身", "主菜"],
-    "relatedScenarios": ["weight-loss-meals", "bento-meals", "air-fryer-meals"],
-    "commonIngredients": ["chicken-breast", "egg", "tofu"]
+    "tags": [
+      "高蛋白",
+      "健身",
+      "主菜"
+    ],
+    "relatedScenarios": [
+      "weight-loss-meals",
+      "bento-meals",
+      "air-fryer-meals"
+    ],
+    "commonIngredients": [
+      "chicken-breast",
+      "egg",
+      "tofu"
+    ],
+    "labels": {
+      "zh-TW": "高蛋白料理",
+      "en": "High-protein meals",
+      "ja": "高タンパク料理",
+      "ko": "고단백 요리"
+    }
   },
   {
     "name": "減脂料理",
@@ -35,9 +89,27 @@
     "description": "以清爽、份量感足、較低負擔的主菜與配菜為主的料理情境。",
     "seoTitle": "減脂料理食譜｜清爽又有飽足感的家常菜",
     "seoDescription": "想找減脂料理時，可以從雞胸肉、青花菜、菇類等食材出發。",
-    "tags": ["減脂", "清爽", "高纖"],
-    "relatedScenarios": ["high-protein-meals", "bento-meals", "air-fryer-meals"],
-    "commonIngredients": ["chicken-breast", "broccoli", "mushroom"]
+    "tags": [
+      "減脂",
+      "清爽",
+      "高纖"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "bento-meals",
+      "air-fryer-meals"
+    ],
+    "commonIngredients": [
+      "chicken-breast",
+      "broccoli",
+      "mushroom"
+    ],
+    "labels": {
+      "zh-TW": "減脂料理",
+      "en": "Light & lean meals",
+      "ja": "低脂質の料理",
+      "ko": "다이어트 요리"
+    }
   },
   {
     "name": "便當菜",
@@ -45,9 +117,27 @@
     "description": "適合提前準備、分裝帶走，也能在隔天加熱後維持口感的料理。",
     "seoTitle": "便當菜食譜｜提早準備也好吃的家常主菜",
     "seoDescription": "整理適合便當的料理情境，包含電鍋雞胸肉、菇類配菜與穩定主食搭配。",
-    "tags": ["便當", "可分裝", "工作日"],
-    "relatedScenarios": ["high-protein-meals", "weight-loss-meals", "air-fryer-meals"],
-    "commonIngredients": ["chicken-breast", "broccoli", "rice"]
+    "tags": [
+      "便當",
+      "可分裝",
+      "工作日"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "weight-loss-meals",
+      "air-fryer-meals"
+    ],
+    "commonIngredients": [
+      "chicken-breast",
+      "broccoli",
+      "rice"
+    ],
+    "labels": {
+      "zh-TW": "便當菜",
+      "en": "Bento-friendly dishes",
+      "ja": "お弁当向けのおかず",
+      "ko": "도시락 반찬"
+    }
   },
   {
     "name": "省錢料理",
@@ -55,9 +145,27 @@
     "description": "用常備食材與少量調味就能完成，適合控制餐費的平日菜色。",
     "seoTitle": "省錢料理食譜｜用雞蛋豆腐做出家常晚餐",
     "seoDescription": "當你想控制餐費時，可以先從雞蛋、豆腐、剩飯這些常備食材找菜。",
-    "tags": ["省錢", "家常", "常備菜"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "fridge-cleanout-meals"],
-    "commonIngredients": ["egg", "tofu", "rice"]
+    "tags": [
+      "省錢",
+      "家常",
+      "常備菜"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "fridge-cleanout-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "tofu",
+      "rice"
+    ],
+    "labels": {
+      "zh-TW": "省錢料理",
+      "en": "Budget-friendly meals",
+      "ja": "節約料理",
+      "ko": "알뜰 요리"
+    }
   },
   {
     "name": "冰箱清庫存",
@@ -65,9 +173,27 @@
     "description": "優先消化冰箱裡零散食材，靠現有材料也能拼出一餐的料理情境。",
     "seoTitle": "清冰箱料理食譜｜用現有食材湊出今天的一餐",
     "seoDescription": "當冰箱裡只剩幾樣零散食材時，可以從清冰箱料理開始找，減少浪費也降低備料壓力。",
-    "tags": ["清冰箱", "剩料", "靈活搭配"],
-    "relatedScenarios": ["one-person-meal", "budget-meals", "ten-minute-meals"],
-    "commonIngredients": ["egg", "tofu", "cabbage"]
+    "tags": [
+      "清冰箱",
+      "剩料",
+      "靈活搭配"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals",
+      "ten-minute-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "tofu",
+      "cabbage"
+    ],
+    "labels": {
+      "zh-TW": "冰箱清庫存",
+      "en": "Use up the fridge",
+      "ja": "冷蔵庫使い切り",
+      "ko": "냉장고 정리 요리"
+    }
   },
   {
     "name": "氣炸鍋料理",
@@ -75,8 +201,26 @@
     "description": "用氣炸鍋降低顧鍋時間，快速做出主菜與配菜的料理方向。",
     "seoTitle": "氣炸鍋料理食譜｜少顧鍋也能完成的快速主菜",
     "seoDescription": "想用氣炸鍋加快做飯流程時，可以從鮭魚、雞胸肉、青花菜等常見組合開始。",
-    "tags": ["氣炸鍋", "少顧鍋", "快速主菜"],
-    "relatedScenarios": ["high-protein-meals", "bento-meals", "ten-minute-meals"],
-    "commonIngredients": ["salmon", "chicken-breast", "broccoli"]
+    "tags": [
+      "氣炸鍋",
+      "少顧鍋",
+      "快速主菜"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "bento-meals",
+      "ten-minute-meals"
+    ],
+    "commonIngredients": [
+      "salmon",
+      "chicken-breast",
+      "broccoli"
+    ],
+    "labels": {
+      "zh-TW": "氣炸鍋料理",
+      "en": "Air fryer meals",
+      "ja": "ノンフライヤー料理",
+      "ko": "에어프라이어 요리"
+    }
   }
 ]

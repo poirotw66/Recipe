@@ -1,7 +1,5 @@
 # Spec-019 Progress
 
-> **⏸️ Paused**（2026-06-03）：多語系專案暫時中止；以下 checklist 凍結，恢復時再接續。
-
 ## Scope
 
 - Spec: `docs/specs/019-fridge-tool-i18n/spec.md`

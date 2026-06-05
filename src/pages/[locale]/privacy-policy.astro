@@ -1,0 +1,49 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import { legalLastUpdated } from "../../lib/site";
+import { localePath, t } from "../../lib/i18n";
+import { getLegalPage } from "../../i18n/legal-pages";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../lib/i18n-routes";
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const content = getLegalPage(locale, "privacy");
+const canonical = localePath(locale, "/privacy-policy");
+---
+
+<BaseLayout
+  title={content.title}
+  description={content.description}
+  canonicalPath={canonical}
+  alternatePath="/privacy-policy"
+  locale={locale}
+>
+  <article class="article article-shell">
+    <Breadcrumb
+      items={[
+        { name: t(locale, "nav.home"), href: localePath(locale, "/") },
+        { name: content.title }
+      ]}
+    />
+    <p class="eyebrow">{content.eyebrow}</p>
+    <h1 class="page-title">{content.title}</h1>
+    <p class="page-copy">{content.description}</p>
+    <p class="caption">Updated: {legalLastUpdated}</p>
+    <div class="article-sections">
+      {
+        content.sections.map((section) => (
+          <section>
+            <h2>{section.heading}</h2>
+            {section.paragraphs.map((p) => (
+              <p>{p}</p>
+            ))}
+          </section>
+        ))
+      }
+    </div>
+  </article>
+</BaseLayout>
