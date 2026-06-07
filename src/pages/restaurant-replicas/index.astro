@@ -1,0 +1,150 @@
+---
+import { getCollection } from "astro:content";
+import JsonLd from "../../components/JsonLd.astro";
+import RecipeCard from "../../components/RecipeCard.astro";
+import TopicHubIntro from "../../components/TopicHubIntro.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import catalog from "../../data/restaurant-replica-catalog.json";
+import { sortRecipesByPublishedDate } from "../../lib/recipes";
+import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../../lib/seo";
+import {
+  getIngredientBySlug,
+  getRecipesByTopicHub,
+  getTopicHubBySlug
+} from "../../lib/taxonomy";
+
+const hub = getTopicHubBySlug("restaurant-replicas");
+
+if (!hub) {
+  throw new Error("Restaurant replicas topic hub is not configured.");
+}
+
+const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+const replicaRecipes = getRecipesByTopicHub(recipes, hub.slug);
+const commonIngredients = hub.commonIngredients
+  .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+  .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient));
+const collectionJsonLd = buildCollectionPageJsonLd(
+  hub.seoTitle,
+  hub.seoDescription,
+  "/restaurant-replicas/"
+);
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: "首頁", path: "/" },
+  { name: hub.name, path: "/restaurant-replicas/" }
+]);
+const hubJsonLd = buildThingJsonLd(hub, "/restaurant-replicas/");
+const featuredEntry = replicaRecipes[0];
+const featuredRecipe = featuredEntry
+  ? {
+      slug: featuredEntry.slug,
+      title: featuredEntry.data.title,
+      description: featuredEntry.data.description,
+      coverImage: featuredEntry.data.coverImage,
+      totalTime: featuredEntry.data.totalTime
+    }
+  : undefined;
+
+const tierLabels: Record<string, string> = {
+  "michelin-3": "米其林三星",
+  "michelin-1": "米其林一星",
+  "bib-gourmand": "必比登",
+  classic: "經典名店"
+};
+---
+
+<BaseLayout title={hub.seoTitle} description={hub.seoDescription} canonicalPath="/restaurant-replicas">
+  <JsonLd data={collectionJsonLd} />
+  <JsonLd data={breadcrumbJsonLd} />
+  <JsonLd data={hubJsonLd} />
+  <section class="section">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">首頁</a>
+        <span>/</span>
+        <span>{hub.name}</span>
+      </nav>
+
+      <TopicHubIntro
+        hub={{ name: hub.name, description: hub.description }}
+        label="Restaurant Replica"
+        heroCover="/images/recipes/solo-three-cup-chicken-rice.webp"
+        recipeCount={replicaRecipes.length}
+        secondaryStat="盡力還原名店風味"
+        featured={featuredRecipe}
+      />
+
+      <section class="hub-section">
+        <div class="hub-section__head">
+          <div>
+            <p class="eyebrow">已上線還原食譜</p>
+            <h2>照步驟還原，不刻意簡化</h2>
+          </div>
+          <span>{replicaRecipes.length} 道</span>
+        </div>
+        {replicaRecipes.length === 0 ? (
+          <article class="card empty-panel">
+            <div class="card-body">
+              <h2>還原食譜撰寫中</h2>
+              <p>
+                第一批將從富錦樹樹子水蓮、欣葉菜脯蛋、明福鳳梨苦瓜雞湯與鼎泰豐苦瓜排骨湯開始。下方可預覽規劃中的餐廳與菜色。
+              </p>
+            </div>
+          </article>
+        ) : (
+          <div class="grid">
+            {replicaRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+          </div>
+        )}
+      </section>
+
+      {
+        catalog.categories.map((category) => (
+          <section class="hub-section">
+            <div class="hub-section__head">
+              <div>
+                <p class="eyebrow">{category.name}</p>
+                <h2>{category.description}</h2>
+              </div>
+              <span>{category.restaurants.length} 家</span>
+            </div>
+            <div class="grid">
+              {category.restaurants.map((restaurant) => (
+                <article class="card card-body">
+                  <div class="chip-row">
+                    <span class="chip note">{restaurant.region}</span>
+                    <span class="chip">{tierLabels[restaurant.tier] ?? restaurant.tier}</span>
+                  </div>
+                  <h3>{restaurant.name}</h3>
+                  <p class="eyebrow">規劃還原菜色</p>
+                  <ul>
+                    {restaurant.signatureDishes.map((dish) => (
+                      <li>
+                        {dish.name}
+                        {dish.status === "planned" && <span class="chip note"> 規劃中</span>}
+                      </li>
+                    ))}
+                  </ul>
+                </article>
+              ))}
+            </div>
+          </section>
+        ))
+      }
+
+      <div class="ingredient-pills" aria-label="常用食材">
+        <p class="ingredient-pills__title">還原食譜常用食材</p>
+        {commonIngredients.map((ingredient) => (
+          <a class="chip note" href={`/ingredients/${ingredient.slug}/`}>
+            {ingredient.name}
+          </a>
+        ))}
+      </div>
+
+      <div class="section-links">
+        <a class="button" href="/recipes">看全部食譜</a>
+        <a class="button note" href="/scenarios/">瀏覽料理情境</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

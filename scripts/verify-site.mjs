@@ -304,6 +304,11 @@ if (!topicHubs.some((hub) => hub.slug === "air-fryer") || !topicHubs.some((hub) 
   process.exit(1);
 }
 
+if (!topicHubs.some((hub) => hub.slug === "restaurant-replicas")) {
+  console.error("Restaurant replicas topic hub is missing from topic-hubs.json.");
+  process.exit(1);
+}
+
 const scenarioSlugs = scenarios.map((item) => item.slug);
 for (const slug of ["fridge-cleanout-meals", "air-fryer-meals"]) {
   if (!scenarioSlugs.includes(slug)) {
@@ -324,7 +329,8 @@ const pageExpectations = [
       "topic-card",
       "#fridge-results",
       "/quick-meals/",
-      "/air-fryer/"
+      "/air-fryer/",
+      "/restaurant-replicas/"
     ]
   },
   {
@@ -346,6 +352,10 @@ const pageExpectations = [
   {
     file: "src/pages/pasta/index.astro",
     markers: ["TopicHubIntro", "hub-section"]
+  },
+  {
+    file: "src/pages/restaurant-replicas/index.astro",
+    markers: ["getTopicHubBySlug", "restaurant-replica-catalog.json", "/restaurant-replicas/"]
   },
   {
     file: "src/components/TopicHubIntro.astro",

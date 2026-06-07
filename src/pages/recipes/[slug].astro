@@ -72,6 +72,15 @@ const topicHubLinks = getTopicHubLinksForRecipe(recipe);
           <p class="eyebrow">{recipe.data.category}</p>
           <h1 class="page-title">{recipe.data.title}</h1>
           <p class="page-copy">{recipe.data.description}</p>
+          {
+            recipe.data.restaurantSource && (
+              <p class="page-copy note">
+                參考還原：{recipe.data.restaurantSource.restaurant}
+                {recipe.data.restaurantSource.dishName ? ` — ${recipe.data.restaurantSource.dishName}` : ""}
+                {recipe.data.restaurantSource.region ? `（${recipe.data.restaurantSource.region}）` : ""}
+              </p>
+            )
+          }
 
           <div class="recipe-key-facts" aria-label="快速判斷資訊">
             <span class="chip chip-emphasis">總時間 {recipe.data.totalTime} 分鐘</span>
