@@ -1,7 +1,7 @@
 ---
 title: "高蛋白豆腐排"
 description: "板豆腐壓水後煎成排，蛋白質高、油脂低，素食者也能吃飽。"
-coverImage: /images/recipes/high-protein-tofu-steak-plate.svg
+coverImage: /images/recipes/high-protein-tofu-steak-plate.webp
 servings: 1
 prepTime: 12
 cookTime: 10

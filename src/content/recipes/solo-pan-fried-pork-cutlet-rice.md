@@ -1,7 +1,7 @@
 ---
 title: "煎豬排蓋飯"
 description: "里肌排乾煎後切片蓋飯，搭配半熟蛋，一人份剛好，簡單卻有满足感。"
-coverImage: /images/recipes/solo-pan-fried-pork-cutlet-rice.svg
+coverImage: /images/recipes/solo-pan-fried-pork-cutlet-rice.webp
 servings: 1
 prepTime: 8
 cookTime: 14

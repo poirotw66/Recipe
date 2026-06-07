@@ -1,7 +1,7 @@
 ---
 title: "芝麻雞蓋飯"
 description: "雞胸以醬油與芝麻調味快炒，蓋在白飯上，香氣足又高蛋白。"
-coverImage: /images/recipes/solo-sesame-chicken-rice.svg
+coverImage: /images/recipes/solo-sesame-chicken-rice.webp
 servings: 1
 prepTime: 10
 cookTime: 12

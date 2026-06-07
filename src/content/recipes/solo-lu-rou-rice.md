@@ -1,7 +1,7 @@
 ---
 title: "滷肉飯一人份"
 description: "絞肉滷至濃稠，淋在白飯上，經典台灣味道，一人份剛好。"
-coverImage: /images/recipes/solo-lu-rou-rice.svg
+coverImage: /images/recipes/solo-lu-rou-rice.webp
 servings: 1
 prepTime: 8
 cookTime: 25

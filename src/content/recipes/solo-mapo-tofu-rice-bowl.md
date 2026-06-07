@@ -1,7 +1,7 @@
 ---
 title: "麻婆豆腐蓋飯"
 description: "豆腐與絞肉做成麻婆風味，淋在白飯上，一人份剛好，夠味下飯。"
-coverImage: /images/recipes/solo-mapo-tofu-rice-bowl.svg
+coverImage: /images/recipes/solo-mapo-tofu-rice-bowl.webp
 servings: 1
 prepTime: 8
 cookTime: 12

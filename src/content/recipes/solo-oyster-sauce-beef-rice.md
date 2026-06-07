@@ -1,7 +1,7 @@
 ---
 title: "蠔油牛肉蓋飯"
 description: "牛肉片以蠔油快炒，蓋在白飯上，滑嫩下飯，一人份剛好。"
-coverImage: /images/recipes/solo-oyster-sauce-beef-rice.svg
+coverImage: /images/recipes/solo-oyster-sauce-beef-rice.webp
 servings: 1
 prepTime: 10
 cookTime: 8
