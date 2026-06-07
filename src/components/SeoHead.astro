@@ -1,5 +1,12 @@
 ---
-import { brandDisplayName, brandName, brandTagline, getSiteUrl, siteTitleSuffix } from "../lib/site";
+import {
+  brandDisplayName,
+  brandName,
+  brandTagline,
+  getSiteUrl,
+  gscVerification,
+  siteTitleSuffix
+} from "../lib/site";
 
 interface Props {
   title: string;
@@ -13,7 +20,7 @@ const {
   title,
   description,
   canonicalPath = Astro.url.pathname,
-  ogImage = "/images/og-default.jpg",
+  ogImage = "/images/og-default.svg",
   type = "website"
 } = Astro.props;
 
@@ -24,6 +31,7 @@ const fullTitle = includesBrand ? title : `${title}｜${siteTitleSuffix}`;
 const ogImageUrl = new URL(ogImage, siteUrl).toString();
 ---
 
+{gscVerification && <meta name="google-site-verification" content={gscVerification} />}
 <title>{fullTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />

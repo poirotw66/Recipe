@@ -28,6 +28,12 @@
 | 011 | 導覽與行動版 UX | site/navigation | ✔️ | prd-003 | 010 | 收合主選單、導覽分層、麵包屑一致性；改善窄螢幕導覽體驗。 |
 | 012 | 首頁與冰箱工具動線 | ux/home-tools | ✔️ | prd-003 | 006, 010 | 首頁區塊重排、首頁搜尋至冰箱工具動線、空結果引導。 |
 | 013 | 食譜瀏覽體驗強化 | ux/recipes | ✔️ | prd-003 | 002, 010 | 列表篩選 URL state、RecipeCard 資訊層級、食譜詳情可掃讀性。 |
+| 014 | 流量觀測與 SEO 衛生基礎 | growth/analytics | ✔️ | prd-004 | 001, 004 | Search Console 流程、analytics 上線、og-default、404 頁、月度複盤模板。 |
+| 015 | 既有頁面 SEO 優化批次 | growth/seo | ⏳ | prd-004 | 014 | 精選與核心頁 title/description 優化、webp 封面補齊、featured 主軸調整。 |
+| 016 | taxonomy 擴充（食材與情境） | content/taxonomy | ⏳ | prd-004 | 003, 015 | 食材 20→30、情境 8→12、食材頁最低食譜連結門檻。 |
+| 017 | 長尾食譜內容批次（101～150） | content/production | ⏳ | prd-004 | 002, 016 | 新增 50 篇主軸長尾食譜、封面 prompt 擴充、schema 驗收。 |
+| 018 | 內鏈與主題權威強化 | growth/seo | ⏳ | prd-004 | 016, 017 | 新 Hub（氣炸鍋、10 分鐘）、情境/食材內鏈模組、相關食譜邏輯。 |
+| 019 | AdSense 與 Bloss0m 生態導流 | monetization/growth | ⏳ | prd-004 | 005, 017 | 真實 ads.txt、AdSense client、主站入口協作清單。 |
 
 ## Suggested Order
 
@@ -44,7 +50,17 @@
 11. `spec-011` 導覽與行動版 UX
 12. `spec-012` 首頁與冰箱工具動線
 13. `spec-013` 食譜瀏覽體驗強化
+14. `spec-014` 流量觀測與 SEO 衛生基礎
+15. `spec-015` 既有頁面 SEO 優化批次
+16. `spec-016` taxonomy 擴充（食材與情境）
+17. `spec-017` 長尾食譜內容批次（101～150）
+18. `spec-018` 內鏈與主題權威強化
+19. `spec-019` AdSense 與 Bloss0m 生態導流
 
 ## PRD-003 Close Note
 
 PRD-003（spec-010～013）已於 2026-06-03 完成 God Mode Verify / Review / Close。待部署後執行 Manual Testing Checklist（見各 spec 的 god-mode-report.md）。
+
+## PRD-004 Draft Note
+
+PRD-004（流量成長路線圖）已於 2026-06-03 核准。spec-014 已結案；下一步 `spec-015`（既有頁面 SEO 優化批次）。

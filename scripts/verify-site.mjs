@@ -28,6 +28,10 @@ const requiredFiles = [
   "src/pages/contact.astro",
   "src/pages/privacy-policy.astro",
   "src/pages/terms.astro",
+  "src/pages/404.astro",
+  "public/images/og-default.svg",
+  "docs/ops/search-console-setup.md",
+  "docs/ops/monthly-traffic-review.md",
   "src/pages/robots.txt.ts",
   "src/pages/sitemap-index.xml.ts",
   "src/pages/sitemap-pages.xml.ts",
@@ -139,6 +143,25 @@ if (!ads.includes("google.com") && !ads.includes("PLACEHOLDER")) {
 
 if (!siteConfig.includes('brandDisplayName') || !siteConfig.includes("bloom-picker")) {
   console.error("Spec-010 requires Bloom Kitchen brand constants and Bloss0m ecosystem URLs in site.ts.");
+  process.exit(1);
+}
+
+if (
+  !siteConfig.includes("PUBLIC_GA_MEASUREMENT_ID") ||
+  !siteConfig.includes("gaReady") ||
+  !baseLayout.includes("googletagmanager.com/gtag/js")
+) {
+  console.error("Spec-014 requires GA4 measurement ID support in site.ts and BaseLayout.");
+  process.exit(1);
+}
+
+if (!seoHead.includes("google-site-verification") || !seoHead.includes("gscVerification")) {
+  console.error("SeoHead must support optional Search Console verification meta (spec-014).");
+  process.exit(1);
+}
+
+if (!seoHead.includes("/images/og-default.svg")) {
+  console.error("SeoHead must default to /images/og-default.svg (spec-014).");
   process.exit(1);
 }
 
@@ -306,7 +329,11 @@ const pageExpectations = [
   },
   {
     file: "src/pages/privacy-policy.astro",
-    markers: ["Google AdSense", "Cookie", "contactEmail"]
+    markers: ["Google Analytics", "Google AdSense", "Cookie", "contactEmail"]
+  },
+  {
+    file: "src/pages/404.astro",
+    markers: ["找不到頁面", "/recipes/", "/tools/fridge-recipe/"]
   },
   {
     file: "src/pages/terms.astro",

@@ -38,3 +38,10 @@ export const legalLastUpdated = "2026-06-03";
 
 export const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT?.trim() ?? "";
 export const adsenseReady = /^ca-pub-\d{16}$/.test(adsenseClient);
+
+/** Google Analytics 4 measurement ID, e.g. G-XXXXXXXXXX */
+export const gaMeasurementId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID?.trim() ?? "";
+export const gaReady = /^G-[A-Z0-9]+$/.test(gaMeasurementId);
+
+/** Optional Search Console HTML tag verification content value */
+export const gscVerification = import.meta.env.PUBLIC_GSC_VERIFICATION?.trim() ?? "";
