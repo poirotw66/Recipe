@@ -31,5 +31,29 @@
     "recipeTags": ["早午餐"],
     "commonIngredients": ["beef", "salmon", "shrimp", "egg", "chicken-breast", "mushroom"],
     "relatedScenarios": ["one-person-meal", "high-protein-meals", "ten-minute-meals"]
+  },
+  {
+    "name": "氣炸鍋專區",
+    "slug": "air-fryer",
+    "description": "收錄氣炸鍋一人份主菜與配菜，少顧鍋也能快速完成晚餐或便當。",
+    "seoTitle": "氣炸鍋料理食譜專區｜少顧鍋的一人份主菜",
+    "seoDescription": "氣炸鍋專區收錄鮭魚、雞胸肉、雞翅、豆腐與蔬菜等做法，適合租屋族平日晚餐。",
+    "tags": ["氣炸鍋", "少顧鍋", "一人份"],
+    "recipeTags": ["氣炸鍋"],
+    "recipeScenarios": ["氣炸鍋料理"],
+    "commonIngredients": ["chicken-breast", "salmon", "broccoli", "chicken-wings"],
+    "relatedScenarios": ["air-fryer-meals", "high-protein-meals", "bento-meals"]
+  },
+  {
+    "name": "10 分鐘專區",
+    "slug": "quick-meals",
+    "description": "收錄 10 到 15 分鐘就能完成的一人份料理，適合忙碌平日晚餐與宵夜。",
+    "seoTitle": "10 分鐘料理食譜專區｜快速完成的一人份晚餐",
+    "seoDescription": "10 分鐘專區收錄炒飯、拌麵、湯品與快手主菜，從雞蛋、豆腐與常備食材快速開飯。",
+    "tags": ["10 分鐘", "快手", "一人份"],
+    "recipeTags": [],
+    "recipeScenarios": ["10 分鐘料理"],
+    "commonIngredients": ["egg", "tofu", "rice", "scallion"],
+    "relatedScenarios": ["ten-minute-meals", "one-person-meal", "late-night-meals"]
   }
 ]

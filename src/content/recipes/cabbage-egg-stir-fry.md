@@ -1,7 +1,7 @@
 ---
 title: 高麗菜炒蛋
 slug: cabbage-egg-stir-fry
-description: 高麗菜炒蛋是 15 分鐘內能完成的省錢家常菜，適合一人晚餐或便當配菜。
+description: 高麗菜炒蛋一人份，10 分鐘清冰箱快手菜，高麗菜與雞蛋適合租屋族平日晚餐。
 coverImage: /images/recipes/cabbage-egg-stir-fry.webp
 servings: 2
 prepTime: 5
@@ -42,7 +42,7 @@ seasonings:
 tags:
 - 省錢
 - 便當菜
-intro: 高麗菜炒蛋很適合用來消耗冰箱剩菜，蛋香能把清甜的高麗菜撐起來。
+intro: 高麗菜炒蛋很適合用來清掉冰箱裡的高麗菜，蛋香能把清甜的高麗菜撐起來。
 steps:
 - 高麗菜切粗絲，蒜頭拍碎，雞蛋打入碗中，加入少許鹽與 1 小匙水，充分攪打攪散至表面微起細泡（加水能讓炒出來的蛋質地更蓬鬆滑嫩）備用。
 - 平底鍋熱油後先炒蒜頭，再放高麗菜炒到微軟。
@@ -60,7 +60,7 @@ relatedIngredients:
 - 高麗菜
 - 雞蛋
 - 蒜頭
-featured: false
+featured: true
 publishedAt: '2026-05-29'
 updatedAt: '2026-05-29'
 customAdditions:

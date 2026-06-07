@@ -33,6 +33,13 @@ if (!scenario) {
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
 const allRelatedRecipes = getRecipesByScenario(recipes, scenario.slug);
 const relatedRecipePreviewLimit = 12;
+const popularRecipes = [...allRelatedRecipes]
+  .sort(
+    (left, right) =>
+      Number(right.data.featured) - Number(left.data.featured) ||
+      right.data.publishedAt.getTime() - left.data.publishedAt.getTime()
+  )
+  .slice(0, 6);
 const relatedRecipes = allRelatedRecipes.slice(0, relatedRecipePreviewLimit);
 const hasMoreRelatedRecipes = allRelatedRecipes.length > relatedRecipePreviewLimit;
 const commonIngredients = scenario.commonIngredients
@@ -92,6 +99,16 @@ const relatedRecipeListJsonLd =
           <p>{scenario.seoDescription}</p>
         </div>
       </section>
+
+      {popularRecipes.length > 0 && (
+        <section class="section section-compact">
+          <p class="eyebrow">本情境熱門</p>
+          <h2>先從這 6 道開始找</h2>
+          <div class="grid">
+            {popularRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+          </div>
+        </section>
+      )}
 
       <section class="section section-compact">
         <p class="eyebrow">推薦食譜</p>

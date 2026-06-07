@@ -1,7 +1,7 @@
 ---
 title: 蒜香義大利麵
 slug: garlic-oil-pasta
-description: 用蒜頭、橄欖油與義大利麵做出清爽蒜香麵，15 分鐘內就能完成一人份晚餐。
+description: 一人份蒜香義大利麵，15 分鐘租屋族快手晚餐，蒜頭與橄欖油做出簡單鹹香麵食。
 coverImage: /images/recipes/garlic-oil-pasta.webp
 servings: 1
 prepTime: 5
@@ -59,7 +59,7 @@ faqs:
 relatedIngredients:
 - 義大利麵
 - 蒜頭
-featured: true
+featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-06-03'
 customAdditions:

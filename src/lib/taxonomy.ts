@@ -38,6 +38,8 @@ export interface TopicHubItem {
   seoDescription: string;
   tags: string[];
   recipeTags: string[];
+  /** Match recipes whose scenarios frontmatter includes these scenario names */
+  recipeScenarios?: string[];
   commonIngredients: string[];
   relatedScenarios: string[];
 }
@@ -100,7 +102,13 @@ export const getRecipesByTopicHub = (recipes: RecipeEntry[], hubSlug: string) =>
     return [];
   }
 
-  return recipes.filter((recipe) => hub.recipeTags.some((tag) => recipe.data.tags.includes(tag)));
+  return recipes.filter((recipe) => {
+    const tagMatch = hub.recipeTags.length > 0 && hub.recipeTags.some((tag) => recipe.data.tags.includes(tag));
+    const scenarioMatch =
+      (hub.recipeScenarios?.length ?? 0) > 0 &&
+      hub.recipeScenarios!.some((scenarioName) => recipe.data.scenarios.includes(scenarioName));
+    return tagMatch || scenarioMatch;
+  });
 };
 
 export const recipeBelongsToTopicHub = (recipe: RecipeEntry, hubSlug: string) => {
@@ -110,7 +118,11 @@ export const recipeBelongsToTopicHub = (recipe: RecipeEntry, hubSlug: string) =>
     return false;
   }
 
-  return hub.recipeTags.some((tag) => recipe.data.tags.includes(tag));
+  const tagMatch = hub.recipeTags.some((tag) => recipe.data.tags.includes(tag));
+  const scenarioMatch =
+    (hub.recipeScenarios?.length ?? 0) > 0 &&
+    hub.recipeScenarios!.some((scenarioName) => recipe.data.scenarios.includes(scenarioName));
+  return tagMatch || scenarioMatch;
 };
 
 export const getTopicHubLinksForRecipe = (recipe: RecipeEntry) =>

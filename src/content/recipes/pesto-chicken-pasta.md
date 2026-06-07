@@ -1,7 +1,7 @@
 ---
 title: 青醬雞胸義大利麵
 slug: pesto-chicken-pasta
-description: 雞胸肉煎香後拌入青蔥蒜味青醬，做出清爽又有蛋白質的雞肉義大利麵。
+description: 一人份青醬雞肉義大利麵，20 分鐘快手麵食，雞胸肉與青醬適合平日晚餐。
 coverImage: /images/recipes/pesto-chicken-pasta.webp
 servings: 1
 prepTime: 9
@@ -56,8 +56,7 @@ tags:
 - 雞肉料理
 intro: 青醬雞胸義大利麵先把雞肉煎到表面金黃，再拌入現做的青蔥青醬，肉香與蔥香會很合拍。
 steps:
-- 雞胸肉切條，以鹽與黑胡椒抓味；義大利麵煮至彈牙（中心仍保有些許硬度，即 al dente 狀態，這樣後續與醬汁翻拌時才不會過於軟爛）（中心仍保有些許硬度，即 al
-  dente 狀態，這樣後續與醬汁翻拌時才不會過於軟爛），保留半杯煮麵水。
+- 雞胸肉切條，以鹽與黑胡椒抓味；義大利麵煮至彈牙（中心仍保有些許硬度，即 al dente 狀態，這樣後續與醬汁翻拌時才不會過於軟爛），保留半杯煮麵水。
 - 青蔥蔥綠與蒜末、1.5 大匙橄欖油、起司粉打成青醬泥（或切極碎拌勻）。
 - 平底鍋下剩餘油煎熟雞胸肉，加入麵條、青醬泥與少量煮麵水拌炒均勻。
 tips:
@@ -72,7 +71,7 @@ relatedIngredients:
 - 義大利麵
 - 雞胸肉
 - 青蔥
-featured: true
+featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-06-03'
 customAdditions:

@@ -1,7 +1,7 @@
 ---
 title: 牛肉青花快炒
 slug: beef-broccoli-stirfry
-description: 青花菜與牛肉快炒，蛋白質與纖維兼具，適合想吃得均衡的平日晚餐。
+description: 牛肉青花菜快炒一人份，20 分鐘租屋族家常菜，高蛋白又適合平日晚餐。
 coverImage: /images/recipes/beef-broccoli-stirfry.webp
 servings: 1
 prepTime: 8

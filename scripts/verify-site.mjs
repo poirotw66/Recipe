@@ -282,6 +282,22 @@ if (ingredients.length < 12 || scenarios.length < 8) {
   process.exit(1);
 }
 
+if (ingredients.length < 30) {
+  console.error(`Spec-016 requires at least 30 ingredients; found ${ingredients.length}.`);
+  process.exit(1);
+}
+
+if (scenarios.length < 12) {
+  console.error(`Spec-016 requires at least 12 scenarios; found ${scenarios.length}.`);
+  process.exit(1);
+}
+
+const topicHubs = JSON.parse(read("src/data/topic-hubs.json"));
+if (!topicHubs.some((hub) => hub.slug === "air-fryer") || !topicHubs.some((hub) => hub.slug === "quick-meals")) {
+  console.error("Spec-018 requires air-fryer and quick-meals topic hubs.");
+  process.exit(1);
+}
+
 const scenarioSlugs = scenarios.map((item) => item.slug);
 for (const slug of ["fridge-cleanout-meals", "air-fryer-meals"]) {
   if (!scenarioSlugs.includes(slug)) {
@@ -293,7 +309,15 @@ for (const slug of ["fridge-cleanout-meals", "air-fryer-meals"]) {
 const pageExpectations = [
   {
     file: "src/pages/index.astro",
-    markers: ["data-home-search-error", "data-home-search-input", "/tools/fridge-recipe", "RecipeCard", "topic-hub-grid", "#fridge-results"]
+    markers: ["data-home-search-error", "data-home-search-input", "/tools/fridge-recipe", "RecipeCard", "topic-hub-grid", "#fridge-results", "/quick-meals/", "/air-fryer/"]
+  },
+  {
+    file: "src/pages/air-fryer/index.astro",
+    markers: ["getTopicHubBySlug", "RecipeCard", "/air-fryer/"]
+  },
+  {
+    file: "src/pages/quick-meals/index.astro",
+    markers: ["getTopicHubBySlug", "RecipeCard", "/quick-meals/"]
   },
   {
     file: "src/pages/recipes/index.astro",
@@ -308,16 +332,16 @@ const pageExpectations = [
     markers: ["RecipeCard", "getIngredientsByCategory", "scenarioItems", "buildItemListJsonLd", "Breadcrumb"]
   },
   {
-    file: "src/pages/ingredients/[slug].astro",
-    markers: ["buildDefinedTermJsonLd", "getStaticPaths", "buildItemListJsonLd"]
-  },
-  {
     file: "src/pages/scenarios/index.astro",
     markers: ["scenarioItems", "buildCollectionPageJsonLd", "buildItemListJsonLd", "Breadcrumb"]
   },
   {
     file: "src/pages/scenarios/[slug].astro",
-    markers: ["buildThingJsonLd", "getStaticPaths", "buildItemListJsonLd"]
+    markers: ["本情境熱門", "buildThingJsonLd", "getStaticPaths", "buildItemListJsonLd"]
+  },
+  {
+    file: "src/pages/ingredients/[slug].astro",
+    markers: ["用這個食材還能做", "buildDefinedTermJsonLd"]
   },
   {
     file: "src/pages/about.astro",

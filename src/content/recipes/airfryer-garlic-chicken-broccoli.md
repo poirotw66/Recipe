@@ -1,7 +1,7 @@
 ---
 title: 氣炸蒜香雞胸佐青花菜
 slug: airfryer-garlic-chicken-broccoli
-description: 雞胸肉用蒜香簡單醃過後氣炸，搭配青花菜就是一份乾淨俐落的主菜。
+description: 氣炸鍋蒜香雞胸青花菜一人份，25 分鐘少顧鍋高蛋白主菜，適合減脂與便當準備。
 coverImage: /images/recipes/airfryer-garlic-chicken-broccoli.webp
 servings: 2
 prepTime: 10

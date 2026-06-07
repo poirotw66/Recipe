@@ -1,7 +1,7 @@
 ---
 title: 番茄蒜香高麗菜炒蛋
 slug: tomato-garlic-cabbage-eggs
-description: 番茄和蒜頭先炒出香氣，再拌入高麗菜與雞蛋，是酸甜平衡的家常快炒。
+description: 番茄蒜香高麗菜炒蛋一人份，15 分鐘快手蔬菜料理，適合清冰箱與平日晚餐。
 coverImage: /images/recipes/tomato-garlic-cabbage-eggs.webp
 servings: 1
 prepTime: 7

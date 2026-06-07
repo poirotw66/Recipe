@@ -11,6 +11,8 @@ export const primaryNavLinks: NavLink[] = [
 ];
 
 export const topicNavLinks: NavLink[] = [
+  { href: "/quick-meals/", label: "10 分鐘" },
+  { href: "/air-fryer/", label: "氣炸鍋" },
   { href: "/brunch/", label: "早午餐" },
   { href: "/pasta/", label: "義大利麵" },
   { href: "/beef/", label: "牛肉" }

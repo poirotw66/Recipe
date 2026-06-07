@@ -1,7 +1,7 @@
 ---
 title: 蔥花牛肉炒飯
 slug: scallion-beef-fried-rice
-description: 蔥花與牛肉絲快炒後拌入白飯，香氣足、步驟短，是專區裡最實用的牛肉炒飯。
+description: 蔥花牛肉炒飯一人份，10 分鐘用剩飯與牛肉片清冰箱，租屋族快手晚餐首選。
 coverImage: /images/recipes/scallion-beef-fried-rice.webp
 servings: 1
 prepTime: 8

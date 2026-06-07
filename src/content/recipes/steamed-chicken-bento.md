@@ -1,7 +1,7 @@
 ---
 title: 電鍋雞胸便當菜
 slug: steamed-chicken-bento
-description: 用電鍋一次把雞胸肉蒸熟，搭配菇類與青花菜，適合做成一到兩份便當主菜。
+description: 電鍋蒸雞胸便當菜一人份，30 分鐘可分裝帶走，適合工作日準備高蛋白便當。
 coverImage: /images/recipes/steamed-chicken-bento.webp
 servings: 2
 prepTime: 8

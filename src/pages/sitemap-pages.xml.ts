@@ -9,6 +9,8 @@ const staticPages = [
   "/brunch/",
   "/pasta/",
   "/beef/",
+  "/air-fryer/",
+  "/quick-meals/",
   "/tools/fridge-recipe/",
   "/about/",
   "/contact/",

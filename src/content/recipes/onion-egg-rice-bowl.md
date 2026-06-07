@@ -1,7 +1,7 @@
 ---
 title: 洋蔥滑蛋飯
 slug: onion-egg-rice-bowl
-description: 洋蔥滑蛋飯用白飯、洋蔥和雞蛋做成快速一碗飯，適合一人料理。
+description: 洋蔥蛋蓋飯一人份，15 分鐘租屋族快手晚餐，洋蔥與雞蛋做出簡單鹹香蓋飯。
 coverImage: /images/recipes/onion-egg-rice-bowl.webp
 servings: 1
 prepTime: 5
@@ -60,7 +60,7 @@ relatedIngredients:
 - 白飯
 - 洋蔥
 - 雞蛋
-featured: false
+featured: true
 publishedAt: '2026-05-29'
 updatedAt: '2026-05-29'
 customAdditions:
