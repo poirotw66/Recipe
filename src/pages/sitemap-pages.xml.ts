@@ -1,7 +1,8 @@
 import type { APIRoute } from "astro";
+import { localePath } from "../lib/i18n";
 import { absoluteUrl } from "../lib/seo";
 
-const staticPages = [
+const defaultPages = [
   "/",
   "/recipes/",
   "/ingredients/",
@@ -16,6 +17,15 @@ const staticPages = [
   "/contact/",
   "/privacy-policy/",
   "/terms/"
+];
+
+const localizedShellPages = ["", "/recipes/", "/ingredients/", "/scenarios/", "/about/", "/contact/", "/privacy-policy/", "/terms/"];
+
+const staticPages = [
+  ...defaultPages,
+  ...(["en", "ja", "ko"] as const).flatMap((locale) =>
+    localizedShellPages.map((path) => localePath(locale, path === "" ? "/" : path.replace(/\/$/, "")))
+  )
 ];
 
 const renderUrlSet = (paths: string[]) => `<?xml version="1.0" encoding="UTF-8"?>

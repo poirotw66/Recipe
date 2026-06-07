@@ -1,7 +1,7 @@
 ---
 title: "季節鮮蔬沙拉碗"
 description: "依季節蔬菜搭配清爽油醋醬，一碗就能補足纖維，也可當主餐配菜。"
-coverImage: /images/recipes/seasonal-greens-salad-bowl.svg
+coverImage: /images/recipes/seasonal-greens-salad-bowl.webp
 servings: 1
 prepTime: 10
 cookTime: 0

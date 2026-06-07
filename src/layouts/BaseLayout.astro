@@ -3,6 +3,7 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import SeoHead from "../components/SeoHead.astro";
 import { adsenseClient, adsenseReady, gaMeasurementId, gaReady } from "../lib/site";
+import { detectLocaleFromPath, localeToHtmlLang, type Locale } from "../lib/i18n";
 import "../styles/global.css";
 
 interface Props {
@@ -11,22 +12,46 @@ interface Props {
   canonicalPath?: string;
   ogImage?: string;
   type?: "website" | "article";
+  locale?: Locale;
+  /** Path without locale prefix, for hreflang alternates */
+  alternatePath?: string;
+  alternateLocales?: import("../lib/i18n").Locale[];
 }
 
-const { title, description, canonicalPath, ogImage, type } = Astro.props;
+const {
+  title,
+  description,
+  canonicalPath,
+  ogImage,
+  type,
+  locale: localeProp,
+  alternatePath,
+  alternateLocales
+} = Astro.props;
+const locale = localeProp ?? detectLocaleFromPath(Astro.url.pathname);
+const htmlLang = localeToHtmlLang[locale];
 ---
 
 <!doctype html>
-<html lang="zh-Hant">
+<html lang={htmlLang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&family=Noto+Serif+TC:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <SeoHead
       title={title}
       description={description}
       canonicalPath={canonicalPath}
       ogImage={ogImage}
       type={type}
+      locale={locale}
+      alternatePath={alternatePath}
+      alternateLocales={alternateLocales}
     />
     {gaReady && (
       <>
@@ -51,10 +76,10 @@ const { title, description, canonicalPath, ogImage, type } = Astro.props;
     )}
   </head>
   <body>
-    <Header />
+    <Header locale={locale} />
     <main>
       <slot />
     </main>
-    <Footer />
+    <Footer locale={locale} />
   </body>
 </html>

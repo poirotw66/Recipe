@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "hooks": {
+    "beforeSubmitPrompt": [
+      {
+        "command": ".cursor/hooks/recipe-review.sh",
+        "matcher": "/recipe-review|recipe-review",
+        "timeout": 120
+      }
+    ]
+  }
+}

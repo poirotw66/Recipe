@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
+import TopicHubIntro from "../../components/TopicHubIntro.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../../lib/seo";
@@ -39,6 +40,17 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: hub.name, path: "/pasta/" }
 ]);
 const hubJsonLd = buildThingJsonLd(hub, "/pasta/");
+const featuredEntry =
+  pastaRecipes.find((recipe) => recipe.slug === "garlic-cream-shrimp-pasta") ?? pastaRecipes[0];
+const featuredRecipe = featuredEntry
+  ? {
+      slug: featuredEntry.slug,
+      title: featuredEntry.data.title,
+      description: featuredEntry.data.description,
+      coverImage: featuredEntry.data.coverImage,
+      totalTime: featuredEntry.data.totalTime
+    }
+  : undefined;
 ---
 
 <BaseLayout title={hub.seoTitle} description={hub.seoDescription} canonicalPath="/pasta">
@@ -53,20 +65,13 @@ const hubJsonLd = buildThingJsonLd(hub, "/pasta/");
         <span>{hub.name}</span>
       </nav>
 
-      <section class="recipe-hero">
-        <div>
-          <p class="eyebrow">Pasta</p>
-          <h1 class="page-title">{hub.name}</h1>
-          <p class="page-copy">{hub.description}</p>
-          <div class="chip-row">
-            {hub.tags.map((tag) => <span class="chip note">{tag}</span>)}
-          </div>
-        </div>
-        <div class="card card-body taxonomy-summary">
-          <p class="eyebrow">怎麼用這個專區</p>
-          <p>{hub.seoDescription}</p>
-        </div>
-      </section>
+      <TopicHubIntro
+        hub={{ name: hub.name, description: hub.description }}
+        label="Pasta"
+        heroCover="/images/recipes/garlic-cream-shrimp-pasta.webp"
+        recipeCount={pastaRecipes.length}
+        featured={featuredRecipe}
+      />
 
       {pastaRecipes.length === 0 ? (
         <section class="section section-compact">
@@ -80,9 +85,14 @@ const hubJsonLd = buildThingJsonLd(hub, "/pasta/");
       ) : (
         <>
           {pestoMeatRecipes.length > 0 && (
-            <section class="section section-compact">
-              <p class="eyebrow">青醬肉類</p>
-              <h2>雞肉搭配青醬的飽足主餐麵</h2>
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">青醬肉類</p>
+                  <h2>雞肉搭配青醬的飽足主餐麵</h2>
+                </div>
+                <span>{pestoMeatRecipes.length} 道</span>
+              </div>
               <div class="grid">
                 {pestoMeatRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
               </div>
@@ -90,9 +100,14 @@ const hubJsonLd = buildThingJsonLd(hub, "/pasta/");
           )}
 
           {pestoSeafoodRecipes.length > 0 && (
-            <section class="section section-compact">
-              <p class="eyebrow">青醬海鮮</p>
-              <h2>鮭魚、蝦仁與青醬的鮮甜組合</h2>
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">青醬海鮮</p>
+                  <h2>鮭魚、蝦仁與青醬的鮮甜組合</h2>
+                </div>
+                <span>{pestoSeafoodRecipes.length} 道</span>
+              </div>
               <div class="grid">
                 {pestoSeafoodRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
               </div>
@@ -100,9 +115,14 @@ const hubJsonLd = buildThingJsonLd(hub, "/pasta/");
           )}
 
           {pestoBaseRecipes.length > 0 && (
-            <section class="section section-compact">
-              <p class="eyebrow">青醬基礎</p>
-              <h2>不需肉海鮮也能完成的青醬麵</h2>
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">青醬基礎</p>
+                  <h2>不需肉海鮮也能完成的青醬麵</h2>
+                </div>
+                <span>{pestoBaseRecipes.length} 道</span>
+              </div>
               <div class="grid">
                 {pestoBaseRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
               </div>
@@ -110,9 +130,14 @@ const hubJsonLd = buildThingJsonLd(hub, "/pasta/");
           )}
 
           {otherPastaRecipes.length > 0 && (
-            <section class="section section-compact">
-              <p class="eyebrow">其他醬汁</p>
-              <h2>蒜香、番茄、白醬與奶香義大利麵</h2>
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">其他醬汁</p>
+                  <h2>蒜香、番茄、白醬與奶香義大利麵</h2>
+                </div>
+                <span>{otherPastaRecipes.length} 道</span>
+              </div>
               <div class="grid">
                 {otherPastaRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
               </div>
@@ -121,35 +146,20 @@ const hubJsonLd = buildThingJsonLd(hub, "/pasta/");
         </>
       )}
 
-      <section class="section section-compact">
-        <div class="recipe-content-grid">
-          <article class="card">
-            <div class="card-body">
-              <p class="eyebrow">常用食材</p>
-              <div class="chip-row">
-                {commonIngredients.map((ingredient) => (
-                  <a class="chip note" href={`/ingredients/${ingredient.slug}/`}>
-                    {ingredient.name}
-                  </a>
-                ))}
-              </div>
-            </div>
-          </article>
-
-          <article class="card">
-            <div class="card-body">
-              <p class="eyebrow">相關情境</p>
-              <div class="chip-row">
-                {relatedScenarios.map((scenario) => (
-                  <a class="chip" href={`/scenarios/${scenario.slug}/`}>
-                    {scenario.name}
-                  </a>
-                ))}
-              </div>
-            </div>
-          </article>
-        </div>
-      </section>
+      <div class="ingredient-pills" aria-label="常用食材與情境">
+        <p class="ingredient-pills__title">常用食材</p>
+        {commonIngredients.map((ingredient) => (
+          <a class="chip note" href={`/ingredients/${ingredient.slug}/`}>
+            {ingredient.name}
+          </a>
+        ))}
+        <p class="ingredient-pills__title">相關情境</p>
+        {relatedScenarios.map((scenario) => (
+          <a class="chip" href={`/scenarios/${scenario.slug}/`}>
+            {scenario.name}
+          </a>
+        ))}
+      </div>
 
       <div class="section-links">
         <a class="button" href="/ingredients/pasta/">義大利麵食材說明</a>

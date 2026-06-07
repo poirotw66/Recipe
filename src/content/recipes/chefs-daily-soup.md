@@ -1,7 +1,7 @@
 ---
 title: "主廚每日例湯"
 description: "以當季蔬菜與雞骨高湯慢煮，清爽不油膩，可隨冰箱食材靈活調整。"
-coverImage: /images/recipes/chefs-daily-soup.svg
+coverImage: /images/recipes/chefs-daily-soup.webp
 servings: 2
 prepTime: 10
 cookTime: 25

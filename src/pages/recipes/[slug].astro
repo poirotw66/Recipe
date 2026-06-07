@@ -5,6 +5,8 @@ import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import RecipeImage from "../../components/RecipeImage.astro";
 import RecipeLayout from "../../layouts/RecipeLayout.astro";
+import { I18N_PILOT_SLUG_SET } from "../../lib/i18n-pilot-slugs";
+import { localesWithRecipeTranslation } from "../../lib/recipe-locale";
 import { getRelatedRecipes } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildFaqJsonLd, buildRecipeJsonLd } from "../../lib/seo";
 import { getIngredientByName, getScenarioByName, getTopicHubLinksForRecipe } from "../../lib/taxonomy";
@@ -41,12 +43,15 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: "食譜", path: "/recipes/" },
   { name: recipe.data.title, path: `/recipes/${recipe.slug}/` }
 ]);
-const recipeJsonLd = buildRecipeJsonLd(recipe);
+const alternateLocales = I18N_PILOT_SLUG_SET.has(recipe.slug)
+  ? await localesWithRecipeTranslation(recipe.slug)
+  : undefined;
+const recipeJsonLd = buildRecipeJsonLd(recipe, "zh-TW");
 const faqJsonLd = recipe.data.faqs.length > 0 ? buildFaqJsonLd(recipe.data.faqs) : null;
 const topicHubLinks = getTopicHubLinksForRecipe(recipe);
 ---
 
-<RecipeLayout recipe={recipe}>
+<RecipeLayout recipe={recipe} alternateLocales={alternateLocales}>
   <Fragment slot="structured-data">
     <JsonLd data={breadcrumbJsonLd} />
     <JsonLd data={recipeJsonLd} />

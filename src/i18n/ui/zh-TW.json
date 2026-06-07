@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "menu": "選單",
+    "browse": "瀏覽",
+    "topics": "主題專區",
+    "topicsMenu": "專區",
+    "recipes": "食譜",
+    "ingredients": "食材",
+    "scenarios": "情境",
+    "quickMeals": "10 分鐘",
+    "airFryer": "氣炸鍋",
+    "brunch": "早午餐",
+    "pasta": "義大利麵",
+    "beef": "牛肉",
+    "fridge": "冰箱剩料",
+    "home": "首頁"
+  },
+  "lang": {
+    "switch": "語言",
+    "current": "目前語言"
+  },
+  "recipes": {
+    "emptyLocale": "此語言尚無食譜內容，請先瀏覽繁體中文版。",
+    "viewZh": "前往繁體中文食譜",
+    "listDescription": "適合台灣小廚房的一人份與家常料理。"
+  },
+  "recipe": {
+    "factsAria": "快速判斷資訊",
+    "totalTime": "總時間",
+    "minutes": "分鐘",
+    "servings": "人份",
+    "backToList": "返回食譜列表",
+    "fridgeCta": "用這些食材試算冰箱料理",
+    "adLabel": "食譜內容廣告位",
+    "ingredientsEyebrow": "食材清單",
+    "ingredientsTitle": "主要食材",
+    "core": "核心",
+    "seasoningsEyebrow": "調味準備",
+    "seasoningsTitle": "調味與醬料",
+    "stepsEyebrow": "料理步驟",
+    "stepsTitle": "實際做法",
+    "prep": "準備",
+    "cook": "烹調",
+    "tipsEyebrow": "保存與替代",
+    "tipsTitle": "讓料理更順手的小提醒",
+    "substitutions": "可替換做法",
+    "additions": "推薦加料（自由搭配）",
+    "faqEyebrow": "常見問題",
+    "relatedEyebrow": "相關食譜",
+    "relatedTitle": "同樣適合這批食材與情境的其他做法",
+    "relatedIngredients": "相關食材"
+  },
+  "footer": {
+    "about": "關於",
+    "contact": "聯絡",
+    "privacy": "隱私權",
+    "terms": "使用條款"
+  }
+}

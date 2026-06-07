@@ -1,0 +1,50 @@
+---
+import {
+  detectLocaleFromPath,
+  localePath,
+  localeSelectLabels,
+  locales,
+  stripLocalePrefix,
+  t,
+  type Locale
+} from "../lib/i18n";
+
+interface Props {
+  locale?: Locale;
+}
+
+const locale = Astro.props.locale ?? detectLocaleFromPath(Astro.url.pathname);
+const pathSuffix = stripLocalePrefix(Astro.url.pathname);
+const switchLabel = t(locale, "lang.switch");
+---
+
+<div class="lang-switcher">
+  <label class="lang-switcher__label">
+    <span class="visually-hidden">{switchLabel}</span>
+    <select
+      class="lang-switcher__select"
+      data-lang-select
+      aria-label={switchLabel}
+      title={switchLabel}
+    >
+      {
+        locales.map((code) => (
+          <option value={localePath(code, pathSuffix)} selected={code === locale}>
+            {localeSelectLabels[code]}
+          </option>
+        ))
+      }
+    </select>
+  </label>
+</div>
+
+<script is:inline>
+  document.querySelectorAll("[data-lang-select]").forEach((select) => {
+    select.addEventListener("change", (event) => {
+      const target = event.currentTarget;
+      if (target instanceof HTMLSelectElement && target.value) {
+        window.location.assign(target.value);
+      }
+    });
+  });
+</script>

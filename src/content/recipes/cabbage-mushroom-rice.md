@@ -20,9 +20,9 @@ scenarios:
 equipment:
 - 電鍋
 ingredients:
-- name: 白飯
+- name: 白米
   amount: '2'
-  unit: 杯米
+  unit: 杯
   isCore: true
 - name: 高麗菜
   amount: 1/4
@@ -44,7 +44,7 @@ tags:
 - 清冰箱
 intro: 把剩下的高麗菜和菇類切一切丟進電鍋，就是很穩的備餐主食。
 steps:
-- 米洗好後放入電鍋內鍋，水量比平常少一點。
+- 白米洗淨後放入電鍋內鍋，水量比平常少一點。
 - 高麗菜切片、菇類撕小塊，和醬油一起鋪在米上。
 - 按下電鍋，跳起後悶 10 分鐘再拌勻。
 tips:
@@ -57,7 +57,7 @@ faqs:
 - question: 可以加肉嗎？
   answer: 可以加入切丁雞胸肉，但要確認完全熟透。
 relatedIngredients:
-- 白飯
+- 白米
 - 高麗菜
 - 菇類
 featured: false

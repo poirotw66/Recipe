@@ -1,0 +1,63 @@
+---
+import JsonLd from "../../../components/JsonLd.astro";
+import RecipeDetailBody from "../../../components/RecipeDetailBody.astro";
+import RecipeLayout from "../../../layouts/RecipeLayout.astro";
+import { localePath, t } from "../../../lib/i18n";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
+import {
+  getLocalizedRecipe,
+  listRecipesForLocale,
+  localesWithRecipeTranslation,
+  recipeCollectionId
+} from "../../../lib/recipe-locale";
+import { getRelatedRecipes } from "../../../lib/recipes";
+import { buildBreadcrumbJsonLd, buildFaqJsonLd, buildRecipeJsonLd } from "../../../lib/seo";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const paths: Array<{ params: { locale: string; slug: string } }> = [];
+  for (const { params } of localeStaticPaths()) {
+    const locale = requireNonDefaultLocale(params.locale);
+    const collection = recipeCollectionId(locale);
+    const entries = await getCollection(collection);
+    for (const entry of entries) {
+      paths.push({ params: { locale, slug: entry.slug } });
+    }
+  }
+  return paths;
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const slug = Astro.params.slug;
+
+if (!slug) {
+  throw new Error("Recipe slug is required.");
+}
+
+const recipe = await getLocalizedRecipe(slug, locale);
+
+if (!recipe) {
+  return Astro.redirect("/404");
+}
+
+const allInLocale = await listRecipesForLocale(locale);
+const relatedRecipes = getRelatedRecipes(allInLocale, recipe.slug, 3);
+const alternateLocales = await localesWithRecipeTranslation(slug);
+const recipesPath = localePath(locale, "/recipes");
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: t(locale, "nav.home"), path: localePath(locale, "/") },
+  { name: t(locale, "nav.recipes"), path: recipesPath },
+  { name: recipe.data.title, path: localePath(locale, `/recipes/${recipe.slug}`) }
+]);
+const recipeJsonLd = buildRecipeJsonLd(recipe, locale);
+const faqJsonLd = recipe.data.faqs.length > 0 ? buildFaqJsonLd(recipe.data.faqs) : null;
+---
+
+<RecipeLayout recipe={recipe} locale={locale} alternateLocales={alternateLocales}>
+  <Fragment slot="structured-data">
+    <JsonLd data={breadcrumbJsonLd} />
+    <JsonLd data={recipeJsonLd} />
+    {faqJsonLd && <JsonLd data={faqJsonLd} />}
+  </Fragment>
+  <RecipeDetailBody recipe={recipe} locale={locale} relatedRecipes={relatedRecipes} />
+</RecipeLayout>

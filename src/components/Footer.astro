@@ -1,5 +1,12 @@
 ---
 import { bloss0mEcosystemLinks, brandName, brandTagline } from "../lib/site";
+import { detectLocaleFromPath, localePath, t, type Locale } from "../lib/i18n";
+
+interface Props {
+  locale?: Locale;
+}
+
+const locale = Astro.props.locale ?? detectLocaleFromPath(Astro.url.pathname);
 ---
 
 <footer class="site-footer">
@@ -19,10 +26,10 @@ import { bloss0mEcosystemLinks, brandName, brandTagline } from "../lib/site";
       </nav>
     </div>
     <nav class="footer-links" aria-label="頁尾連結">
-      <a href="/about">關於本站</a>
-      <a href="/contact">聯絡我們</a>
-      <a href="/privacy-policy">隱私權政策</a>
-      <a href="/terms">使用條款</a>
+      <a href={localePath(locale, "/about")}>{t(locale, "footer.about")}</a>
+      <a href={localePath(locale, "/contact")}>{t(locale, "footer.contact")}</a>
+      <a href={localePath(locale, "/privacy-policy")}>{t(locale, "footer.privacy")}</a>
+      <a href={localePath(locale, "/terms")}>{t(locale, "footer.terms")}</a>
     </nav>
   </div>
 </footer>

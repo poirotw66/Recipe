@@ -1,0 +1,59 @@
+---
+interface FeaturedRecipe {
+  slug: string;
+  title: string;
+  description: string;
+  coverImage: string;
+  totalTime: number;
+}
+
+interface Props {
+  hub: {
+    name: string;
+    description: string;
+  };
+  label: string;
+  heroCover: string;
+  recipeCount: number;
+  featured?: FeaturedRecipe;
+}
+
+const { hub, label, heroCover, recipeCount, featured } = Astro.props;
+---
+
+<article class="hub-hero">
+  <div
+    class="hub-hero__bg"
+    style={`background-image: linear-gradient(120deg, rgba(58, 50, 44, 0.62) 0%, rgba(58, 50, 44, 0.28) 45%, rgba(58, 50, 44, 0.08) 100%), url('${heroCover}')`}
+    role="img"
+    aria-label={`${hub.name}主視覺`}
+  />
+  <div class="hub-hero__content">
+    <p class="eyebrow">{label}</p>
+    <h1 class="page-title">{hub.name}</h1>
+    <p class="page-copy">{hub.description}</p>
+    <div class="hub-stats">
+      <span class="hub-stat">{recipeCount} 道主盤</span>
+      <span class="hub-stat">一人份友善</span>
+    </div>
+  </div>
+</article>
+
+{
+  featured && (
+    <a class="featured-card" href={`/recipes/${featured.slug}/`}>
+      <div
+        class="featured-card__img"
+        style={`background-image: url('${featured.coverImage}')`}
+        role="img"
+        aria-label={featured.title}
+      />
+      <div>
+        <span class="badge badge--outline">本週推薦</span>
+        <h2>{featured.title}</h2>
+        <p>{featured.description}</p>
+        <span class="featured-card__cta">查看食譜 →</span>
+      </div>
+    </a>
+  )
+}

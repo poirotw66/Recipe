@@ -188,8 +188,14 @@ if (!seoHead.includes("siteTitleSuffix") || !seoHead.includes("og:site_name")) {
   process.exit(1);
 }
 
-if (!contentConfig.includes("defineCollection") || !contentConfig.includes("totalTime") || !contentConfig.includes("簡單")) {
-  console.error("src/content.config.ts must define the recipes collection schema.");
+const recipeSchema = read("src/lib/recipe-schema.ts");
+if (
+  !contentConfig.includes("defineCollection") ||
+  !contentConfig.includes('"recipes-en"') ||
+  !recipeSchema.includes("totalTime") ||
+  !contentConfig.includes("簡單")
+) {
+  console.error("src/content.config.ts must define multi-locale recipe collections (spec-018).");
   process.exit(1);
 }
 
@@ -309,7 +315,17 @@ for (const slug of ["fridge-cleanout-meals", "air-fryer-meals"]) {
 const pageExpectations = [
   {
     file: "src/pages/index.astro",
-    markers: ["data-home-search-error", "data-home-search-input", "/tools/fridge-recipe", "RecipeCard", "topic-hub-grid", "#fridge-results", "/quick-meals/", "/air-fryer/"]
+    markers: [
+      "data-home-search-error",
+      "data-home-search-input",
+      "/tools/fridge-recipe",
+      "RecipeCard",
+      "topic-hub-grid",
+      "topic-card",
+      "#fridge-results",
+      "/quick-meals/",
+      "/air-fryer/"
+    ]
   },
   {
     file: "src/pages/air-fryer/index.astro",
@@ -318,6 +334,22 @@ const pageExpectations = [
   {
     file: "src/pages/quick-meals/index.astro",
     markers: ["getTopicHubBySlug", "RecipeCard", "/quick-meals/"]
+  },
+  {
+    file: "src/pages/brunch/index.astro",
+    markers: ["TopicHubIntro", "hub-section"]
+  },
+  {
+    file: "src/pages/beef/index.astro",
+    markers: ["TopicHubIntro", "hub-section"]
+  },
+  {
+    file: "src/pages/pasta/index.astro",
+    markers: ["TopicHubIntro", "hub-section"]
+  },
+  {
+    file: "src/components/TopicHubIntro.astro",
+    markers: ["hub-hero", "hub-hero__bg", "featured-card"]
   },
   {
     file: "src/pages/recipes/index.astro",
@@ -373,6 +405,28 @@ for (const page of pageExpectations) {
     console.error(`${page.file} is missing required spec markers: ${missingMarkers.join(", ")}`);
     process.exit(1);
   }
+}
+
+const astroConfig = read("astro.config.mjs");
+if (!astroConfig.includes('defaultLocale: "zh-TW"') || !astroConfig.includes("prefixDefaultLocale: false")) {
+  console.error("astro.config.mjs must configure i18n with zh-TW default and unprefixed default locale.");
+  process.exit(1);
+}
+
+if (!seoHead.includes('rel="alternate"') || !seoHead.includes("hreflang")) {
+  console.error("SeoHead must emit hreflang alternate links (spec-017).");
+  process.exit(1);
+}
+
+if (!existsSync(join(root, "src/pages/[locale]/index.astro"))) {
+  console.error("spec-017: missing src/pages/[locale]/index.astro");
+  process.exit(1);
+}
+
+const firstIngredient = ingredients[0];
+if (!firstIngredient?.labels?.["zh-TW"] || !firstIngredient?.labels?.en) {
+  console.error("spec-017: ingredients.json entries must include labels.zh-TW and labels.en");
+  process.exit(1);
 }
 
 console.log("Site verification passed.");

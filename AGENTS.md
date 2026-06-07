@@ -7,21 +7,31 @@
 ## 文件結構
 
 - `Spec.md`: 原始第一階段規格。
-- `docs/prds/prd-001.md`～`prd-004.md`: 產品需求文件（**prd-004** 流量成長路線圖為目前 active PRD）。
+- `docs/prds/prd-001.md`～`prd-006.md`: 產品需求文件（**prd-004** 為內容第四批回溯登錄與後續成長批次；**prd-006** 為多語系）。
 - `docs/specs/specs-overview.md`: 全專案 spec 清單與狀態追蹤。
 - `guideline/ui/ui-guideline.md`: Codex 使用的 UI/UX 設計基礎。
 - `velnex.md`: 已安裝 Velnex skills 的使用說明。
+- `.cursor/skills/recipe-review/`: 食譜內容審查（**recipe-review** skill）；報告輸出 `docs/reviews/recipe-audit/`。
 
 ## 開發流程
 
-PRD-001～004；spec-001～019 已結案。第四階段（PRD-004 流量成長）於 2026-06-03 God Mode 完成。
+PRD-001～005 的 spec-001～016 已全部結案（✔️）。
+
+- **PRD-003**（Bloom Kitchen 品牌 + UX）：2026-06-03
+- **PRD-004**（100 篇、早午餐、WEBP；後續 +50 篇成長與 Hub 擴充）：2026-06-03
+- **PRD-005**（視覺質感 + 首頁／專區）：2026-06-03
+- **PRD-006**（多語系 zh/en/ja/ko）：2026-06-05 **已恢復**（食譜校正後接續 spec-017～019）
+
+**目前主線：** `spec-017` 多語系平台 → `spec-018` 試點 15 篇（Gemini Flash）→ `spec-019` 冰箱工具。
 
 已完成批次：
 
 1. `spec-001`～`spec-007`：第一階段 MVP。
 2. `spec-008`～`spec-009`：第二階段內容與 SEO。
 3. `spec-010`～`spec-013`：第三階段 Bloom Kitchen 品牌與 UX。
-4. `spec-014`～`spec-019`：第四階段流量成長（量測、SEO 優化、150 食譜、Hub、導流文件）。
+4. `spec-014`：第四階段內容擴充（100 篇、早午餐、WEBP；含後續成長批次與 10 分鐘／氣炸鍋 Hub）。
+5. `spec-015`～`spec-016`：第五階段視覺升級（溫馨精緻高級）。
+6. `spec-017`～`spec-019`：第六階段多語系（017～018 進行中，019 待啟動）。
 
 ## 技術方向
 

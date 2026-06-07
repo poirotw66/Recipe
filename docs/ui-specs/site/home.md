@@ -3,7 +3,7 @@ name: 首頁
 description: 今天煮什麼的首頁，提供食材搜尋、熱門分類與核心 SEO 導流入口。
 domain: site
 module: foundation
-spec: spec-001
+spec: spec-016
 status: implemented
 route: /
 apis: []
@@ -16,7 +16,8 @@ apis: []
 - 頁面類型：landing-search-page
 - 頁面檔名：`src/pages/index.astro`
 - 建立：2026-05-28
-- 更新：2026-05-28
+- 更新：2026-06-03
+- UI 來源：`docs/prototypes/prd-005-home.html`
 - Guideline：`guideline/ui/ui-guideline.md`
 
 ## 說明
@@ -109,12 +110,15 @@ Footer
 | tablet | Hero 仍單欄，Scenario 兩欄。 |
 | desktop | Hero 搜尋列可水平排列；Recipe/Scenario grid 三欄。 |
 
-## 視覺規範
+## 視覺規範（spec-016 / PRD-005）
 
-- 使用 `--rice` 作背景，Hero 搜尋面使用 `--note`。
-- Primary CTA 使用 `--scallion`。
-- 食譜卡採冰箱便條風格，8px 以下圓角、細邊框、極淡陰影。
-- 首屏不得使用大幅純裝飾圖壓過搜尋任務。
+- 氛圍：**溫馨 · 精緻 · 高級**；暖象牙 `--rice`、香檳金 `--champagne` 點綴。
+- Hero：`.hero-intro` 底部分隔；標題 `Noto Serif TC`；搜尋面板 `.search-panel` 白瓷底 + 柔和陰影。
+- Primary CTA：`--scallion-deep` 深綠；focus ring 使用 champagne 色調。
+- 主題專區：`.topic-card`（封面區 + 玻璃標籤 + CTA），**不得**再使用純 `note-card` 三卡。
+- 區塊標題：`.section-head` 包 eyebrow + h2。
+- 精選區：可選淡 `--board` 漸層背景；RecipeCard 樣式由 spec-015 統一。
+- 首屏仍以搜尋任務為主，專區卡為第二視覺焦點。
 
 ## 空狀態 / 錯誤狀態
 
@@ -129,4 +133,5 @@ Footer
 
 - 後續 spec-002 會接入真實食譜資料。
 - 後續 spec-006 會實作冰箱剩料工具的比對邏輯。
-- **PRD-003 / spec-012（2026-06-03）**：首頁區塊順序為 hero 搜尋 → 情境 → 精選食譜 → 主題專區（牛肉/義大利麵）→ 常用食材；搜尋成功跳轉 `/tools/fridge-recipe?ingredients=...#fridge-results`。
+- **PRD-003 / spec-012**：區塊順序 hero → 情境 → 精選 → 主題專區 → 常用食材；搜尋跳轉 `#fridge-results`。
+- **PRD-005 / spec-016（2026-06-03）**：主題三卡改 `topic-card`；文案「依心情，走進不同的小廚房角落」。

@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "menu": "メニュー",
+    "browse": "閲覧",
+    "topics": "特集",
+    "topicsMenu": "特集",
+    "recipes": "レシピ",
+    "ingredients": "食材",
+    "scenarios": "シーン",
+    "quickMeals": "10分",
+    "airFryer": "ノンフライヤー",
+    "brunch": "ブランチ",
+    "pasta": "パスタ",
+    "beef": "牛肉",
+    "fridge": "冷蔵庫ツール",
+    "home": "ホーム"
+  },
+  "lang": {
+    "switch": "言語",
+    "current": "現在の言語"
+  },
+  "recipes": {
+    "emptyLocale": "この言語のレシピは準備中です。繁体字版をご覧ください。",
+    "viewZh": "繁体字レシピへ",
+    "listDescription": "台湾の家庭料理。短時間で作れる一人前のレシピ。"
+  },
+  "recipe": {
+    "factsAria": "基本情報",
+    "totalTime": "合計",
+    "minutes": "分",
+    "servings": "人分",
+    "backToList": "レシピ一覧へ",
+    "fridgeCta": "冷蔵庫ツールで探す",
+    "adLabel": "広告",
+    "ingredientsEyebrow": "材料",
+    "ingredientsTitle": "主な材料",
+    "core": "メイン",
+    "seasoningsEyebrow": "調味料",
+    "seasoningsTitle": "調味料・たれ",
+    "stepsEyebrow": "手順",
+    "stepsTitle": "作り方",
+    "prep": "下準備",
+    "cook": "調理",
+    "tipsEyebrow": "保存・代用",
+    "tipsTitle": "ひと工夫",
+    "substitutions": "代用",
+    "additions": "おすすめトッピング",
+    "faqEyebrow": "よくある質問",
+    "relatedEyebrow": "関連",
+    "relatedTitle": "似たレシピ",
+    "relatedIngredients": "関連食材"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "お問い合わせ",
+    "privacy": "プライバシー",
+    "terms": "利用規約"
+  }
+}

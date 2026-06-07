@@ -1,0 +1,226 @@
+---
+import AdSlot from "./AdSlot.astro";
+import RecipeCard from "./RecipeCard.astro";
+import RecipeImage from "./RecipeImage.astro";
+import { localePath, t, type Locale } from "../lib/i18n";
+import type { LocalizedRecipeEntry } from "../lib/recipe-locale";
+import { getIngredientByName } from "../lib/taxonomy";
+
+interface Props {
+  recipe: LocalizedRecipeEntry;
+  locale: Locale;
+  relatedRecipes: LocalizedRecipeEntry[];
+}
+
+const { recipe, locale, relatedRecipes } = Astro.props;
+const primaryIngredients = recipe.data.ingredients.slice(0, 4);
+const ingredientQuery = primaryIngredients.map((item) => item.name).join(",");
+const recipesPath = localePath(locale, "/recipes");
+const homePath = localePath(locale, "/");
+---
+
+<section class="section">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href={homePath}>{t(locale, "nav.home")}</a>
+      <span>/</span>
+      <a href={recipesPath}>{t(locale, "nav.recipes")}</a>
+      <span>/</span>
+      <span>{recipe.data.title}</span>
+    </nav>
+
+    <section class="recipe-hero">
+      <div>
+        <p class="eyebrow">{recipe.data.category}</p>
+        <h1 class="page-title">{recipe.data.title}</h1>
+        <p class="page-copy">{recipe.data.description}</p>
+
+        <div class="recipe-key-facts" aria-label={t(locale, "recipe.factsAria")}>
+          <span class="chip chip-emphasis">
+            {t(locale, "recipe.totalTime")} {recipe.data.totalTime} {t(locale, "recipe.minutes")}
+          </span>
+          <span class="chip chip-tool">{recipe.data.equipment[0] ?? recipe.data.category}</span>
+          <span class="chip">{recipe.data.difficulty}</span>
+          <span class="chip note">
+            {recipe.data.servings} {t(locale, "recipe.servings")}
+          </span>
+        </div>
+
+        <div class="chip-row recipe-detail-tags">
+          {recipe.data.equipment.map((item) => <span class="chip note">{item}</span>)}
+          {recipe.data.scenarios.map((item) => <span class="chip">{item}</span>)}
+        </div>
+
+        <div class="section-links">
+          <a class="button" href={recipesPath}>{t(locale, "recipe.backToList")}</a>
+          {
+            locale === "zh-TW" && (
+              <a
+                class="button note"
+                href={`/tools/fridge-recipe?ingredients=${encodeURIComponent(ingredientQuery)}#fridge-results`}
+              >
+                {t(locale, "recipe.fridgeCta")}
+              </a>
+            )
+          }
+        </div>
+      </div>
+
+      <div class="card recipe-hero__image">
+        <RecipeImage src={recipe.data.coverImage} alt={recipe.data.title} large />
+      </div>
+    </section>
+
+    <section class="section section-compact">
+      <div class="article recipe-intro">
+        <p>{recipe.data.intro}</p>
+      </div>
+    </section>
+
+    <section class="section section-compact">
+      <div class="article">
+        <AdSlot slot="1000000002" label={t(locale, "recipe.adLabel")} minHeight={220} />
+      </div>
+    </section>
+
+    <section class="section section-compact">
+      <div class="recipe-content-grid">
+        <aside class="recipe-aside">
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">{t(locale, "recipe.ingredientsEyebrow")}</p>
+              <h2>{t(locale, "recipe.ingredientsTitle")}</h2>
+              <ul class="detail-list">
+                {recipe.data.ingredients.map((item) => (
+                  <li class={item.isCore ? "core-ingredient" : ""}>
+                    <span>
+                      {item.name}
+                      {item.isCore && <span class="badge-core">{t(locale, "recipe.core")}</span>}
+                    </span>
+                    <strong>
+                      {item.amount}
+                      {item.unit}
+                    </strong>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </article>
+
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">{t(locale, "recipe.seasoningsEyebrow")}</p>
+              <h2>{t(locale, "recipe.seasoningsTitle")}</h2>
+              <ul class="detail-list">
+                {recipe.data.seasonings.map((item) => (
+                  <li>
+                    <span>{item.name}</span>
+                    <strong>
+                      {item.amount}
+                      {item.unit}
+                    </strong>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </article>
+        </aside>
+
+        <div class="recipe-main">
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">{t(locale, "recipe.stepsEyebrow")}</p>
+              <h2>{t(locale, "recipe.stepsTitle")}</h2>
+              <p class="recipe-timing-note">
+                {t(locale, "recipe.prep")} {recipe.data.prepTime} {t(locale, "recipe.minutes")} · {t(locale, "recipe.cook")}{" "}
+                {recipe.data.cookTime} {t(locale, "recipe.minutes")}
+              </p>
+              <ol class="steps-list steps-list--numbered">
+                {recipe.data.steps.map((step) => <li>{step}</li>)}
+              </ol>
+            </div>
+          </article>
+
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">{t(locale, "recipe.tipsEyebrow")}</p>
+              <h2>{t(locale, "recipe.tipsTitle")}</h2>
+              <ul class="tips-list">
+                {recipe.data.tips.map((tip) => <li>{tip}</li>)}
+              </ul>
+              <p class="note-block">{recipe.data.storage}</p>
+              {recipe.data.substitutions.length > 0 && (
+                <>
+                  <h3>{t(locale, "recipe.substitutions")}</h3>
+                  <div class="chip-row">
+                    {recipe.data.substitutions.map((item) => <span class="chip note">{item}</span>)}
+                  </div>
+                </>
+              )}
+              {recipe.data.customAdditions && recipe.data.customAdditions.length > 0 && (
+                <>
+                  <h3 style="margin-top: var(--space-4);">{t(locale, "recipe.additions")}</h3>
+                  <div class="chip-row">
+                    {recipe.data.customAdditions.map((item) => (
+                      <span class="chip custom-addition">+{item}</span>
+                    ))}
+                  </div>
+                </>
+              )}
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    {recipe.data.faqs.length > 0 && (
+      <section class="section section-compact">
+        <div class="article">
+          <p class="eyebrow">{t(locale, "recipe.faqEyebrow")}</p>
+          <div class="faq-list">
+            {recipe.data.faqs.map((faq) => (
+              <article class="card">
+                <div class="card-body">
+                  <h3>{faq.question}</h3>
+                  <p>{faq.answer}</p>
+                </div>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    {relatedRecipes.length > 0 && (
+      <section class="section section-compact">
+        <div class="container">
+          <p class="eyebrow">{t(locale, "recipe.relatedEyebrow")}</p>
+          <h2>{t(locale, "recipe.relatedTitle")}</h2>
+          <div class="grid">
+            {relatedRecipes.map((relatedRecipe) => (
+              <RecipeCard recipe={relatedRecipe} locale={locale} />
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    {recipe.data.relatedIngredients.length > 0 && locale === "zh-TW" && (
+      <section class="section section-compact">
+        <div class="container">
+          <p class="eyebrow">{t(locale, "recipe.relatedIngredients")}</p>
+          <div class="chip-row">
+            {recipe.data.relatedIngredients.map((item) => {
+              const ingredient = getIngredientByName(item);
+              return (
+                <a class="chip note" href={ingredient ? `/ingredients/${ingredient.slug}/` : "/ingredients"}>
+                  {item}
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+    )}
+  </div>
+</section>

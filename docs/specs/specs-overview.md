@@ -10,6 +10,7 @@
 | 📝 | draft |
 | ✅ | approved / implemented (in progress) |
 | ✔️ | done (closed) |
+| ⏸️ | paused（暫時中止，規格保留） |
 
 ## Spec List
 
@@ -28,12 +29,12 @@
 | 011 | 導覽與行動版 UX | site/navigation | ✔️ | prd-003 | 010 | 收合主選單、導覽分層、麵包屑一致性；改善窄螢幕導覽體驗。 |
 | 012 | 首頁與冰箱工具動線 | ux/home-tools | ✔️ | prd-003 | 006, 010 | 首頁區塊重排、首頁搜尋至冰箱工具動線、空結果引導。 |
 | 013 | 食譜瀏覽體驗強化 | ux/recipes | ✔️ | prd-003 | 002, 010 | 列表篩選 URL state、RecipeCard 資訊層級、食譜詳情可掃讀性。 |
-| 014 | 流量觀測與 SEO 衛生基礎 | growth/analytics | ✔️ | prd-004 | 001, 004 | Search Console 流程、analytics 上線、og-default、404 頁、月度複盤模板。 |
-| 015 | 既有頁面 SEO 優化批次 | growth/seo | ✔️ | prd-004 | 014 | 精選與核心頁 title/description 優化、webp 封面補齊、featured 主軸調整。 |
-| 016 | taxonomy 擴充（食材與情境） | content/taxonomy | ✔️ | prd-004 | 003, 015 | 食材 20→30、情境 8→12、食材頁最低食譜連結門檻。 |
-| 017 | 長尾食譜內容批次（101～150） | content/production | ✔️ | prd-004 | 002, 016 | 新增 50 篇主軸長尾食譜、封面 prompt 擴充、schema 驗收。 |
-| 018 | 內鏈與主題權威強化 | growth/seo | ✔️ | prd-004 | 016, 017 | 新 Hub（氣炸鍋、10 分鐘）、情境/食材內鏈模組、相關食譜邏輯。 |
-| 019 | AdSense 與 Bloss0m 生態導流 | monetization/growth | ✔️ | prd-004 | 005, 017 | 真實 ads.txt、AdSense client、主站入口協作清單。 |
+| 014 | 內容擴充第四批（100 篇、早午餐、WEBP） | content/production | ✔️ | prd-004 | 002, 008, 011 | 100 篇食譜、早午餐專區、20 篇新菜單、全站 WEBP 封面。 |
+| 015 | 視覺系統與共用元件收斂 | ui/design-system | ✔️ | prd-005 | 010, 013 | global.css token、字型、按鈕／chip／卡片、guideline v1.2。 |
+| 016 | 首頁與主題專區視覺升級 | ui/pages | ✔️ | prd-005 | 012, 014, 015 | 首頁 hero／專區三卡；brunch／beef／pasta 專區頁視覺。 |
+| 017 | 多語系平台（路由、UI、taxonomy、SEO） | site/i18n | ✅ | prd-006 | 001, 003, 004, 010, 011 | Astro i18n、UI 字典、語言切換、hreflang、sitemap、政策頁四語。 |
+| 018 | 多語食譜內容與試點批次 | content/i18n | ✅ | prd-006 | 002, 008, 014, 017 | 15 篇試點 en/ja/ko 已入庫；Gemini 腳本 + verify-pilot。 |
+| 019 | 冰箱剩料工具多語 | tools/i18n | 📝 | prd-006 | 006, 017 | 食材 slug 比對、工具頁 UI 與結果多語標題。 |
 
 ## Suggested Order
 
@@ -50,20 +51,25 @@
 11. `spec-011` 導覽與行動版 UX
 12. `spec-012` 首頁與冰箱工具動線
 13. `spec-013` 食譜瀏覽體驗強化
-14. `spec-014` 流量觀測與 SEO 衛生基礎
-15. `spec-015` 既有頁面 SEO 優化批次
-16. `spec-016` taxonomy 擴充（食材與情境）
-17. `spec-017` 長尾食譜內容批次（101～150）
-18. `spec-018` 內鏈與主題權威強化
-19. `spec-019` AdSense 與 Bloss0m 生態導流
+14. `spec-014` 內容擴充第四批（100 篇、早午餐、WEBP）
+15. `spec-015` 視覺系統與共用元件收斂（PRD-005）
+16. `spec-016` 首頁與主題專區視覺升級（PRD-005，依賴 015）
+17. `spec-017` 多語系平台（PRD-006）— **God Mode 完成，待 `/vif-close`**
+18. `spec-018` 多語食譜試點（PRD-006）— **God Mode 完成，待 `/vif-close`**
+19. `spec-019` 冰箱工具多語（PRD-006，**下一步**）
+
+## PRD-006 Resume Note
+
+PRD-006 於 **2026-06-05 恢復**。前置：食譜內容人工校正完成、`npm test` 通過。實作順序不變：**017 → 018（15 篇試點）→ 019 → 018 後續批次**。翻譯產線見 `docs/specs/018-i18n-content-batch/gemini-translation.md`。
+
+## PRD-005 Close Note
+
+PRD-005（spec-015～016）已於 2026-06-03 完成 Verify / Review / Close。視覺方向：溫馨 · 精緻 · 高級；原型 `docs/prototypes/prd-005-*.html`。
 
 ## PRD-003 Close Note
 
-PRD-003（spec-010～013）已於 2026-06-03 完成 God Mode Verify / Review / Close。待部署後執行 Manual Testing Checklist（見各 spec 的 god-mode-report.md）。
+PRD-003（spec-010～013）已於 2026-06-03 完成 God Mode Verify / Review / Close。
 
-## PRD-004 Close Note
+## PRD-004 Import Note
 
-PRD-004（spec-014～019）已於 2026-06-03 完成 God Mode 批次。見 `docs/prds/prd-004-god-mode-report.md`。
-
-- 食譜 **150** 篇、靜態頁 **207**
-- GA4 已設定；GSC／AdSense 送審／主站導流為部署後手動待辦
+PRD-004（spec-014）於 2026-06-03 **回溯登錄**：100 篇食譜、早午餐專區、WEBP 封面已先合併至 `master`。詳見 `docs/prds/prd-004-import-note.md`。

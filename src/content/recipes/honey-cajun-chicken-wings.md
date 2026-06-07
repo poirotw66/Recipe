@@ -1,7 +1,7 @@
 ---
 title: "蜜汁紐澳良雞翅"
 description: "雞翅先烤至金黃，再刷上蜂蜜與紐澳良香料，甜辣帶焦香，派對小點首選。"
-coverImage: /images/recipes/honey-cajun-chicken-wings.svg
+coverImage: /images/recipes/honey-cajun-chicken-wings.webp
 servings: 2
 prepTime: 10
 cookTime: 28
@@ -57,7 +57,7 @@ seasonings:
   unit: ""
 intro: "雞翅表面擦乾再烤，皮才會脆；蜜汁醬最後 5 分鐘才刷，避免過早焦糊。"
 steps:
-- "雞翅洗淨擦乾，以鹽、胡椒與一半香料粉抓醃 15 分鐘。"
+- "雞翅洗淨擦乾，以鹽、黑胡椒與一半香料粉（包含甜椒粉、蒜粉、辣椒粉）抓醃 15 分鐘。"
 - "烤箱 200°C 預熱，雞翅鋪烘焙紙烤 18 分鐘，中途翻面一次。"
 - "蜂蜜、醬油與剩餘香料粉調成刷醬。"
 - "雞翅刷上蜜汁醬，再烤 8～10 分鐘至表面焦糖化，靜置 2 分鐘即可。"

@@ -2,7 +2,10 @@
   {
     "name": "雞蛋",
     "slug": "egg",
-    "aliases": ["蛋", "雞蛋料理"],
+    "aliases": [
+      "蛋",
+      "雞蛋料理"
+    ],
     "category": "蛋類",
     "description": "雞蛋是最常見也最好用的家常食材，適合快炒、蒸煮、拌飯與便當菜。",
     "caloriesPer100g": 155,
@@ -10,14 +13,42 @@
     "fatPer100g": 11,
     "carbsPer100g": 1.1,
     "storage": "冷藏保存，避免放在冰箱門邊溫度變化大的位置。",
-    "commonPairings": ["豆腐", "番茄", "青蔥", "白飯"],
-    "substitutes": ["豆腐", "雞胸肉"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals", "fridge-cleanout-meals"]
+    "commonPairings": [
+      "豆腐",
+      "番茄",
+      "青蔥",
+      "白飯"
+    ],
+    "substitutes": [
+      "豆腐",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "雞蛋",
+      "en": "Eggs",
+      "ja": "卵",
+      "ko": "달걀"
+    },
+    "categoryLabels": {
+      "zh-TW": "蛋類",
+      "en": "Eggs",
+      "ja": "卵",
+      "ko": "달걀·난류"
+    }
   },
   {
     "name": "豆腐",
     "slug": "tofu",
-    "aliases": ["板豆腐", "嫩豆腐"],
+    "aliases": [
+      "板豆腐",
+      "嫩豆腐"
+    ],
     "category": "豆製品",
     "description": "豆腐價格親切、用途廣，特別適合一人料理與高蛋白家常菜。",
     "caloriesPer100g": 76,
@@ -25,14 +56,42 @@
     "fatPer100g": 4.8,
     "carbsPer100g": 1.9,
     "storage": "開封後冷藏浸泡清水，1 到 2 天內食用完畢風味較穩定。",
-    "commonPairings": ["雞蛋", "番茄", "青蔥"],
-    "substitutes": ["雞蛋", "豆乾"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals", "fridge-cleanout-meals"]
+    "commonPairings": [
+      "雞蛋",
+      "番茄",
+      "青蔥"
+    ],
+    "substitutes": [
+      "雞蛋",
+      "豆乾"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "豆腐",
+      "en": "Tofu",
+      "ja": "豆腐",
+      "ko": "두부"
+    },
+    "categoryLabels": {
+      "zh-TW": "豆製品",
+      "en": "Soy products",
+      "ja": "豆製品",
+      "ko": "두부·콩가공품"
+    }
   },
   {
     "name": "牛肉",
     "slug": "beef",
-    "aliases": ["牛絲", "牛肉片", "絞牛肉"],
+    "aliases": [
+      "牛絲",
+      "牛肉片",
+      "絞牛肉"
+    ],
     "category": "肉類",
     "description": "牛肉蛋白質高、風味濃，適合快炒、燴飯、簡易湯品與煎烤主菜的一人份料理。",
     "caloriesPer100g": 250,
@@ -40,14 +99,41 @@
     "fatPer100g": 15,
     "carbsPer100g": 0,
     "storage": "冷藏建議 1 到 2 天內料理；可分裝冷凍延長保存。",
-    "commonPairings": ["洋蔥", "青蔥", "白飯", "蒜頭"],
-    "substitutes": ["豬絲", "雞胸肉"],
-    "relatedScenarios": ["one-person-meal", "high-protein-meals", "bento-meals"]
+    "commonPairings": [
+      "洋蔥",
+      "青蔥",
+      "白飯",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "豬絲",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "high-protein-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "牛肉",
+      "en": "Beef",
+      "ja": "牛肉",
+      "ko": "소고기"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    }
   },
   {
     "name": "雞胸肉",
     "slug": "chicken-breast",
-    "aliases": ["雞胸", "雞胸料理"],
+    "aliases": [
+      "雞胸",
+      "雞胸料理"
+    ],
     "category": "肉類",
     "description": "雞胸肉是高蛋白、低負擔的主蛋白來源，適合便當菜與減脂料理。",
     "caloriesPer100g": 165,
@@ -55,14 +141,41 @@
     "fatPer100g": 3.6,
     "carbsPer100g": 0,
     "storage": "冷藏可保存 2 天，若當日不煮建議分裝後冷凍。",
-    "commonPairings": ["青花菜", "菇類", "白飯"],
-    "substitutes": ["雞里肌", "豆腐"],
-    "relatedScenarios": ["high-protein-meals", "bento-meals", "weight-loss-meals", "air-fryer-meals"]
+    "commonPairings": [
+      "青花菜",
+      "菇類",
+      "白飯"
+    ],
+    "substitutes": [
+      "雞里肌",
+      "豆腐"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "bento-meals",
+      "weight-loss-meals",
+      "air-fryer-meals"
+    ],
+    "labels": {
+      "zh-TW": "雞胸肉",
+      "en": "Chicken breast",
+      "ja": "鶏むね肉",
+      "ko": "닭가슴살"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    }
   },
   {
     "name": "番茄",
     "slug": "tomato",
-    "aliases": ["牛番茄", "番茄料理"],
+    "aliases": [
+      "牛番茄",
+      "番茄料理"
+    ],
     "category": "蔬菜",
     "description": "番茄有酸甜感，能快速替家常菜建立味道與濕潤度。",
     "caloriesPer100g": 18,
@@ -70,14 +183,41 @@
     "fatPer100g": 0.2,
     "carbsPer100g": 3.9,
     "storage": "熟成後冷藏保存，避免壓傷；想保留風味可先放室溫再入冰箱。",
-    "commonPairings": ["雞蛋", "豆腐", "白飯"],
-    "substitutes": ["小番茄", "番茄罐"],
-    "relatedScenarios": ["ten-minute-meals", "one-person-meal", "fridge-cleanout-meals"]
+    "commonPairings": [
+      "雞蛋",
+      "豆腐",
+      "白飯"
+    ],
+    "substitutes": [
+      "小番茄",
+      "番茄罐"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "番茄",
+      "en": "Tomato",
+      "ja": "トマト",
+      "ko": "토마토"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "義大利麵",
     "slug": "pasta",
-    "aliases": ["義麵", "spaghetti", "乾麵"],
+    "aliases": [
+      "義麵",
+      "spaghetti",
+      "乾麵"
+    ],
     "category": "主食",
     "description": "義大利麵是快煮又耐放的主食，適合蒜香、番茄或奶香醬汁的一人份晚餐。",
     "caloriesPer100g": 131,
@@ -85,14 +225,40 @@
     "fatPer100g": 1.1,
     "carbsPer100g": 25,
     "storage": "未開封放陰涼乾燥處；開封後密封保存，避免受潮。",
-    "commonPairings": ["番茄", "蒜頭", "菇類"],
-    "substitutes": ["烏龍麵", "細麵"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals"]
+    "commonPairings": [
+      "番茄",
+      "蒜頭",
+      "菇類"
+    ],
+    "substitutes": [
+      "烏龍麵",
+      "細麵"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "義大利麵",
+      "en": "Pasta",
+      "ja": "パスタ",
+      "ko": "파스타"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    }
   },
   {
     "name": "麵條",
     "slug": "noodles",
-    "aliases": ["油麵", "泡麵", "泡麵麵"],
+    "aliases": [
+      "油麵",
+      "泡麵麵"
+    ],
     "category": "主食",
     "description": "麵條是台灣家常湯麵、牛肉麵與紅燒麵常用的主食，煮軟後搭配肉湯或醬汁即可上桌。",
     "caloriesPer100g": 138,
@@ -100,14 +266,40 @@
     "fatPer100g": 1.5,
     "carbsPer100g": 27,
     "storage": "未開封放陰涼乾燥處；開封後密封保存，避免受潮結塊。",
-    "commonPairings": ["牛肉", "番茄", "青蔥"],
-    "substitutes": ["烏龍麵", "關廟麵", "義大利麵"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals"]
+    "commonPairings": [
+      "牛肉",
+      "番茄",
+      "青蔥"
+    ],
+    "substitutes": [
+      "烏龍麵",
+      "關廟麵",
+      "義大利麵"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "麵條",
+      "en": "Noodles",
+      "ja": "麺",
+      "ko": "국수"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    }
   },
   {
     "name": "烏龍麵",
     "slug": "udon",
-    "aliases": ["烏龍"],
+    "aliases": [
+      "烏龍"
+    ],
     "category": "主食",
     "description": "烏龍麵口感厚實、耐煮，適合湯麵、炒麵與一人份暖胃晚餐。",
     "caloriesPer100g": 105,
@@ -115,14 +307,39 @@
     "fatPer100g": 0.5,
     "carbsPer100g": 22,
     "storage": "未開封放陰涼乾燥處；開封後密封冷藏並盡快食用。",
-    "commonPairings": ["牛肉", "菇類", "青蔥"],
-    "substitutes": ["麵條", "關廟麵"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals"]
+    "commonPairings": [
+      "牛肉",
+      "菇類",
+      "青蔥"
+    ],
+    "substitutes": [
+      "麵條",
+      "關廟麵"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "烏龍麵",
+      "en": "Udon",
+      "ja": "うどん",
+      "ko": "우동"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    }
   },
   {
     "name": "關廟麵",
     "slug": "guanmiao-noodles",
-    "aliases": ["關廟麵條"],
+    "aliases": [
+      "關廟麵條"
+    ],
     "category": "主食",
     "description": "關廟麵是台南常見的乾麵品項，煮軟後拌醬或入湯都很適合家常料理。",
     "caloriesPer100g": 140,
@@ -130,14 +347,39 @@
     "fatPer100g": 1.2,
     "carbsPer100g": 28,
     "storage": "未開封放陰涼乾燥處；開封後密封保存，避免受潮。",
-    "commonPairings": ["牛肉", "蒜頭", "青蔥"],
-    "substitutes": ["麵條", "烏龍麵"],
-    "relatedScenarios": ["one-person-meal", "budget-meals"]
+    "commonPairings": [
+      "牛肉",
+      "蒜頭",
+      "青蔥"
+    ],
+    "substitutes": [
+      "麵條",
+      "烏龍麵"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "關廟麵",
+      "en": "Guanmiao noodles",
+      "ja": "関廟麺",
+      "ko": "관묘면"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    }
   },
   {
     "name": "白飯",
     "slug": "rice",
-    "aliases": ["剩飯", "米飯"],
+    "aliases": [
+      "剩飯",
+      "米飯"
+    ],
     "category": "主食",
     "description": "白飯是最常見的主食基底，也很適合延伸成快炒飯、拌飯與便當。",
     "caloriesPer100g": 130,
@@ -145,14 +387,40 @@
     "fatPer100g": 0.3,
     "carbsPer100g": 28,
     "storage": "煮熟後放涼再冷藏，1 天內回鍋風味最佳。",
-    "commonPairings": ["雞蛋", "番茄", "雞胸肉"],
-    "substitutes": ["糙米飯", "烏龍麵"],
-    "relatedScenarios": ["one-person-meal", "bento-meals", "budget-meals"]
+    "commonPairings": [
+      "雞蛋",
+      "番茄",
+      "雞胸肉"
+    ],
+    "substitutes": [
+      "糙米飯",
+      "烏龍麵"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "白飯",
+      "en": "Cooked rice",
+      "ja": "ご飯",
+      "ko": "밥"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    }
   },
   {
     "name": "青蔥",
     "slug": "scallion",
-    "aliases": ["蔥", "蔥花"],
+    "aliases": [
+      "蔥",
+      "蔥花"
+    ],
     "category": "蔬菜",
     "description": "青蔥能快速補香氣，讓簡單料理更有完成感。",
     "caloriesPer100g": 32,
@@ -160,14 +428,40 @@
     "fatPer100g": 0.2,
     "carbsPer100g": 7.3,
     "storage": "包上廚房紙巾後冷藏，可延長新鮮度並減少水氣。",
-    "commonPairings": ["雞蛋", "豆腐", "雞胸肉"],
-    "substitutes": ["洋蔥", "蒜頭"],
-    "relatedScenarios": ["ten-minute-meals", "budget-meals", "one-person-meal"]
+    "commonPairings": [
+      "雞蛋",
+      "豆腐",
+      "雞胸肉"
+    ],
+    "substitutes": [
+      "洋蔥",
+      "蒜頭"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "青蔥",
+      "en": "Scallion",
+      "ja": "ねぎ",
+      "ko": "대파"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "菇類",
     "slug": "mushroom",
-    "aliases": ["蘑菇", "香菇"],
+    "aliases": [
+      "蘑菇",
+      "香菇"
+    ],
     "category": "蔬菜",
     "description": "菇類能補足鮮味，常用在便當菜、電鍋料理和減脂菜色。",
     "caloriesPer100g": 22,
@@ -175,14 +469,40 @@
     "fatPer100g": 0.3,
     "carbsPer100g": 3.3,
     "storage": "冷藏保存並保持乾燥，避免悶住後出水影響口感。",
-    "commonPairings": ["雞胸肉", "高麗菜", "青花菜"],
-    "substitutes": ["杏鮑菇", "洋蔥"],
-    "relatedScenarios": ["bento-meals", "weight-loss-meals", "fridge-cleanout-meals"]
+    "commonPairings": [
+      "雞胸肉",
+      "高麗菜",
+      "青花菜"
+    ],
+    "substitutes": [
+      "杏鮑菇",
+      "洋蔥"
+    ],
+    "relatedScenarios": [
+      "bento-meals",
+      "weight-loss-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "菇類",
+      "en": "Mushrooms",
+      "ja": "きのこ",
+      "ko": "버섯"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "青花菜",
     "slug": "broccoli",
-    "aliases": ["綠花椰", "青花椰"],
+    "aliases": [
+      "綠花椰",
+      "青花椰"
+    ],
     "category": "蔬菜",
     "description": "青花菜常出現在便當菜與減脂料理，能補足纖維和份量感。",
     "caloriesPer100g": 35,
@@ -190,14 +510,41 @@
     "fatPer100g": 0.4,
     "carbsPer100g": 7.2,
     "storage": "冷藏保存時先保持乾燥，料理前再清洗能延長保存。",
-    "commonPairings": ["雞胸肉", "菇類", "白飯"],
-    "substitutes": ["高麗菜", "花椰菜"],
-    "relatedScenarios": ["high-protein-meals", "bento-meals", "weight-loss-meals", "air-fryer-meals"]
+    "commonPairings": [
+      "雞胸肉",
+      "菇類",
+      "白飯"
+    ],
+    "substitutes": [
+      "高麗菜",
+      "花椰菜"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "bento-meals",
+      "weight-loss-meals",
+      "air-fryer-meals"
+    ],
+    "labels": {
+      "zh-TW": "青花菜",
+      "en": "Broccoli",
+      "ja": "ブロッコリー",
+      "ko": "브로콜리"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "高麗菜",
     "slug": "cabbage",
-    "aliases": ["高麗菜絲", "高麗菜料理"],
+    "aliases": [
+      "高麗菜絲",
+      "高麗菜料理"
+    ],
     "category": "蔬菜",
     "description": "高麗菜耐放又好搭，適合快炒、湯煮與清冰箱料理。",
     "caloriesPer100g": 25,
@@ -205,14 +552,40 @@
     "fatPer100g": 0.1,
     "carbsPer100g": 5.8,
     "storage": "整顆冷藏保濕可放較久，切開後建議先包好並在 3 天內用完。",
-    "commonPairings": ["雞蛋", "蒜頭", "菇類"],
-    "substitutes": ["白菜", "青花菜"],
-    "relatedScenarios": ["one-person-meal", "budget-meals", "fridge-cleanout-meals"]
+    "commonPairings": [
+      "雞蛋",
+      "蒜頭",
+      "菇類"
+    ],
+    "substitutes": [
+      "白菜",
+      "青花菜"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "高麗菜",
+      "en": "Cabbage",
+      "ja": "キャベツ",
+      "ko": "양배추"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "洋蔥",
     "slug": "onion",
-    "aliases": ["白洋蔥", "黃洋蔥"],
+    "aliases": [
+      "白洋蔥",
+      "黃洋蔥"
+    ],
     "category": "蔬菜",
     "description": "洋蔥能提供甜味和香氣，是平底鍋快炒、氣炸鍋與湯品的常見底味。",
     "caloriesPer100g": 40,
@@ -220,14 +593,39 @@
     "fatPer100g": 0.1,
     "carbsPer100g": 9.3,
     "storage": "完整洋蔥放陰涼通風處即可，切開後改冷藏並盡快使用。",
-    "commonPairings": ["雞蛋", "番茄", "鮭魚"],
-    "substitutes": ["青蔥", "蒜頭"],
-    "relatedScenarios": ["ten-minute-meals", "air-fryer-meals", "fridge-cleanout-meals"]
+    "commonPairings": [
+      "雞蛋",
+      "番茄",
+      "鮭魚"
+    ],
+    "substitutes": [
+      "青蔥",
+      "蒜頭"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "air-fryer-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "洋蔥",
+      "en": "Onion",
+      "ja": "玉ねぎ",
+      "ko": "양파"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "紅蘿蔔",
     "slug": "carrot",
-    "aliases": ["胡蘿蔔"],
+    "aliases": [
+      "胡蘿蔔"
+    ],
     "category": "蔬菜",
     "description": "紅蘿蔔耐放、好切配，適合湯品、便當配菜與家常炒菜，能帶出自然甜味。",
     "caloriesPer100g": 41,
@@ -235,14 +633,40 @@
     "fatPer100g": 0.2,
     "carbsPer100g": 9.6,
     "storage": "去除表面水氣後冷藏保存，可延長脆度與甜味。",
-    "commonPairings": ["雞胸肉", "洋蔥", "牛肉"],
-    "substitutes": ["南瓜", "馬鈴薯"],
-    "relatedScenarios": ["bento-meals", "budget-meals", "weight-loss-meals"]
+    "commonPairings": [
+      "雞胸肉",
+      "洋蔥",
+      "牛肉"
+    ],
+    "substitutes": [
+      "南瓜",
+      "馬鈴薯"
+    ],
+    "relatedScenarios": [
+      "bento-meals",
+      "budget-meals",
+      "weight-loss-meals"
+    ],
+    "labels": {
+      "zh-TW": "紅蘿蔔",
+      "en": "Carrot",
+      "ja": "にんじん",
+      "ko": "당근"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "蘿蔔",
     "slug": "daikon",
-    "aliases": ["白蘿蔔", "大根"],
+    "aliases": [
+      "白蘿蔔",
+      "大根"
+    ],
     "category": "蔬菜",
     "description": "蘿蔔（白蘿蔔）清甜多汁，適合燉湯、滷煮與泡菜配菜的一人份料理。",
     "caloriesPer100g": 18,
@@ -250,14 +674,40 @@
     "fatPer100g": 0.1,
     "carbsPer100g": 4.1,
     "storage": "整根冷藏可放較久；切開後建議包好並在 3 天內用完。",
-    "commonPairings": ["牛肉", "高麗菜", "菇類"],
-    "substitutes": ["南瓜", "高麗菜"],
-    "relatedScenarios": ["one-person-meal", "budget-meals", "fridge-cleanout-meals"]
+    "commonPairings": [
+      "牛肉",
+      "高麗菜",
+      "菇類"
+    ],
+    "substitutes": [
+      "南瓜",
+      "高麗菜"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "蘿蔔",
+      "en": "Daikon radish",
+      "ja": "大根",
+      "ko": "무"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "蒜頭",
     "slug": "garlic",
-    "aliases": ["大蒜", "蒜末"],
+    "aliases": [
+      "大蒜",
+      "蒜末"
+    ],
     "category": "辛香料",
     "description": "蒜頭能快速拉高香氣層次，是清冰箱快炒與高蛋白主菜的好幫手。",
     "caloriesPer100g": 149,
@@ -265,14 +715,41 @@
     "fatPer100g": 0.5,
     "carbsPer100g": 33,
     "storage": "未剝皮蒜頭放陰涼通風處即可，切碎後建議盡快使用。",
-    "commonPairings": ["高麗菜", "菇類", "雞胸肉"],
-    "substitutes": ["洋蔥", "薑末"],
-    "relatedScenarios": ["ten-minute-meals", "fridge-cleanout-meals", "budget-meals"]
+    "commonPairings": [
+      "高麗菜",
+      "菇類",
+      "雞胸肉"
+    ],
+    "substitutes": [
+      "洋蔥",
+      "薑末"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "fridge-cleanout-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "蒜頭",
+      "en": "Garlic",
+      "ja": "にんにく",
+      "ko": "마늘"
+    },
+    "categoryLabels": {
+      "zh-TW": "辛香料",
+      "en": "Aromatics & spices",
+      "ja": "香味野菜・スパイス",
+      "ko": "향신료"
+    }
   },
   {
     "name": "蝦仁",
     "slug": "shrimp",
-    "aliases": ["白蝦", "蝦子", "去殼蝦仁"],
+    "aliases": [
+      "白蝦",
+      "蝦子",
+      "去殼蝦仁"
+    ],
     "category": "海鮮",
     "description": "蝦仁加熱快、風味鮮甜，適合蒜香、青醬或清炒類的義大利麵與快手主菜。",
     "caloriesPer100g": 99,
@@ -280,14 +757,40 @@
     "fatPer100g": 0.3,
     "carbsPer100g": 0.2,
     "storage": "冷藏建議當天料理；若需保存可先分裝冷凍，解凍後盡快烹調。",
-    "commonPairings": ["蒜頭", "義大利麵", "青花菜"],
-    "substitutes": ["鮭魚", "雞胸肉"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "high-protein-meals"]
+    "commonPairings": [
+      "蒜頭",
+      "義大利麵",
+      "青花菜"
+    ],
+    "substitutes": [
+      "鮭魚",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "high-protein-meals"
+    ],
+    "labels": {
+      "zh-TW": "蝦仁",
+      "en": "Shrimp",
+      "ja": "えび",
+      "ko": "새우"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    }
   },
   {
     "name": "鮭魚",
     "slug": "salmon",
-    "aliases": ["鮭魚排", "鮭魚料理"],
+    "aliases": [
+      "鮭魚排",
+      "鮭魚料理"
+    ],
     "category": "海鮮",
     "description": "鮭魚適合做成簡單主菜，搭配氣炸鍋或烤箱就能快速完成一餐。",
     "caloriesPer100g": 208,
@@ -295,14 +798,40 @@
     "fatPer100g": 13,
     "carbsPer100g": 0,
     "storage": "冷藏建議當天或隔天料理，若要延後食用可先分裝冷凍。",
-    "commonPairings": ["青花菜", "洋蔥", "白飯"],
-    "substitutes": ["鯖魚", "雞胸肉"],
-    "relatedScenarios": ["high-protein-meals", "air-fryer-meals", "bento-meals"]
+    "commonPairings": [
+      "青花菜",
+      "洋蔥",
+      "白飯"
+    ],
+    "substitutes": [
+      "鯖魚",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "air-fryer-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "鮭魚",
+      "en": "Salmon",
+      "ja": "サーモン",
+      "ko": "연어"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    }
   },
   {
     "name": "馬鈴薯",
     "slug": "potato",
-    "aliases": ["土豆", "洋芋"],
+    "aliases": [
+      "土豆",
+      "洋芋"
+    ],
     "category": "蔬菜",
     "description": "馬鈴薯耐放又百搭，適合氣炸、燉煮與做成一人份配菜或主食。",
     "caloriesPer100g": 77,
@@ -310,14 +839,40 @@
     "fatPer100g": 0.1,
     "carbsPer100g": 17,
     "storage": "未洗馬鈴薯放陰涼通風處；切開後需冷藏並盡快料理。",
-    "commonPairings": ["培根", "洋蔥", "玉米"],
-    "substitutes": ["地瓜", "南瓜"],
-    "relatedScenarios": ["air-fryer-meals", "budget-meals", "one-person-meal"]
+    "commonPairings": [
+      "培根",
+      "洋蔥",
+      "玉米"
+    ],
+    "substitutes": [
+      "地瓜",
+      "南瓜"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "budget-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "馬鈴薯",
+      "en": "Potato",
+      "ja": "じゃがいも",
+      "ko": "감자"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "培根",
     "slug": "bacon",
-    "aliases": ["煙燻培根", "培根片"],
+    "aliases": [
+      "煙燻培根",
+      "培根片"
+    ],
     "category": "肉類",
     "description": "培根香氣濃，適合快炒、義大利麵與增加料理層次的一人份配菜。",
     "caloriesPer100g": 417,
@@ -325,14 +880,40 @@
     "fatPer100g": 39,
     "carbsPer100g": 1.4,
     "storage": "開封後冷藏，建議 3 到 5 天內使用；可分裝冷凍延長保存。",
-    "commonPairings": ["義大利麵", "雞蛋", "蘑菇"],
-    "substitutes": ["火腿", "香腸"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals"]
+    "commonPairings": [
+      "義大利麵",
+      "雞蛋",
+      "蘑菇"
+    ],
+    "substitutes": [
+      "火腿",
+      "香腸"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "培根",
+      "en": "Bacon",
+      "ja": "ベーコン",
+      "ko": "베이컨"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    }
   },
   {
     "name": "鱈魚",
     "slug": "cod",
-    "aliases": ["圓鱈", "鱈魚片"],
+    "aliases": [
+      "圓鱈",
+      "鱈魚片"
+    ],
     "category": "海鮮",
     "description": "鱈魚肉質細嫩、腥味低，適合煎烤、氣炸與做成清爽一人份主菜。",
     "caloriesPer100g": 82,
@@ -340,14 +921,42 @@
     "fatPer100g": 0.7,
     "carbsPer100g": 0,
     "storage": "冷藏建議當天料理；冷凍保存需確實密封避免乾燥。",
-    "commonPairings": ["檸檬", "奶油", "青花菜"],
-    "substitutes": ["鮭魚", "鯛魚"],
-    "relatedScenarios": ["air-fryer-meals", "high-protein-meals", "weight-loss-meals"]
+    "commonPairings": [
+      "檸檬",
+      "奶油",
+      "青花菜"
+    ],
+    "substitutes": [
+      "鮭魚",
+      "鯛魚"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "high-protein-meals",
+      "weight-loss-meals"
+    ],
+    "labels": {
+      "zh-TW": "鱈魚",
+      "en": "Cod",
+      "ja": "タラ",
+      "ko": "대구"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    }
   },
   {
     "name": "雞翅",
     "slug": "chicken-wings",
-    "aliases": ["翅腿", "雞翅料理", "雞腿肉", "雞腿"],
+    "aliases": [
+      "翅腿",
+      "雞翅料理",
+      "雞腿肉",
+      "雞腿"
+    ],
     "category": "肉類",
     "description": "雞翅適合氣炸或烤箱，做成一人份小份下酒菜或宵夜主菜。",
     "caloriesPer100g": 203,
@@ -355,14 +964,40 @@
     "fatPer100g": 14,
     "carbsPer100g": 0,
     "storage": "冷藏 1 到 2 天內料理；冷凍前建議分裝成一人份份量。",
-    "commonPairings": ["蒜頭", "蜂蜜", "馬鈴薯"],
-    "substitutes": ["雞腿", "雞胸肉"],
-    "relatedScenarios": ["air-fryer-meals", "late-night-meals", "one-person-meal"]
+    "commonPairings": [
+      "蒜頭",
+      "蜂蜜",
+      "馬鈴薯"
+    ],
+    "substitutes": [
+      "雞腿",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "late-night-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "雞翅",
+      "en": "Chicken wings",
+      "ja": "手羽先",
+      "ko": "닭날개"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    }
   },
   {
     "name": "地瓜",
     "slug": "sweet-potato",
-    "aliases": ["番薯", "甜薯"],
+    "aliases": [
+      "番薯",
+      "甜薯"
+    ],
     "category": "蔬菜",
     "description": "地瓜甜味明顯，適合氣炸、蒸煮或當一人份主食配菜。",
     "caloriesPer100g": 86,
@@ -370,14 +1005,39 @@
     "fatPer100g": 0.1,
     "carbsPer100g": 20,
     "storage": "放陰涼通風處可保存數日；切開後需冷藏並盡快食用。",
-    "commonPairings": ["奶油", "蜂蜜", "雞蛋"],
-    "substitutes": ["馬鈴薯", "南瓜"],
-    "relatedScenarios": ["air-fryer-meals", "budget-meals", "bento-meals"]
+    "commonPairings": [
+      "奶油",
+      "蜂蜜",
+      "雞蛋"
+    ],
+    "substitutes": [
+      "馬鈴薯",
+      "南瓜"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "budget-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "地瓜",
+      "en": "Sweet potato",
+      "ja": "さつまいも",
+      "ko": "고구마"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "秋葵",
     "slug": "okra",
-    "aliases": ["羊角豆"],
+    "aliases": [
+      "羊角豆"
+    ],
     "category": "蔬菜",
     "description": "秋葵加熱快，適合氣炸或清炒，做成清爽一人份配菜。",
     "caloriesPer100g": 33,
@@ -385,14 +1045,40 @@
     "fatPer100g": 0.2,
     "carbsPer100g": 7,
     "storage": "冷藏保存，建議 3 天內料理以保持口感。",
-    "commonPairings": ["蒜頭", "番茄", "雞蛋"],
-    "substitutes": ["四季豆", "蘆筍"],
-    "relatedScenarios": ["air-fryer-meals", "weight-loss-meals", "ten-minute-meals"]
+    "commonPairings": [
+      "蒜頭",
+      "番茄",
+      "雞蛋"
+    ],
+    "substitutes": [
+      "四季豆",
+      "蘆筍"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "weight-loss-meals",
+      "ten-minute-meals"
+    ],
+    "labels": {
+      "zh-TW": "秋葵",
+      "en": "Okra",
+      "ja": "オクラ",
+      "ko": "오크라"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "玉米",
     "slug": "corn",
-    "aliases": ["玉米粒", "甜玉米"],
+    "aliases": [
+      "玉米粒",
+      "甜玉米"
+    ],
     "category": "蔬菜",
     "description": "玉米甜味足，適合氣炸、拌炒或加入湯品與一人份蓋飯。",
     "caloriesPer100g": 86,
@@ -400,14 +1086,40 @@
     "fatPer100g": 1.2,
     "carbsPer100g": 19,
     "storage": "冷藏保存；切下玉米粒後建議 2 天內使用。",
-    "commonPairings": ["奶油", "培根", "馬鈴薯"],
-    "substitutes": ["豌豆", "紅蘿蔔丁"],
-    "relatedScenarios": ["air-fryer-meals", "budget-meals", "one-person-meal"]
+    "commonPairings": [
+      "奶油",
+      "培根",
+      "馬鈴薯"
+    ],
+    "substitutes": [
+      "豌豆",
+      "紅蘿蔔丁"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "budget-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "玉米",
+      "en": "Corn",
+      "ja": "とうもろこし",
+      "ko": "옥수수"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "泡菜",
     "slug": "kimchi",
-    "aliases": ["韓式泡菜", "韓國泡菜"],
+    "aliases": [
+      "韓式泡菜",
+      "韓國泡菜"
+    ],
     "category": "辛香料",
     "description": "泡菜酸辣開胃，適合炒飯、拌麵與快速完成一人份韓式風味料理。",
     "caloriesPer100g": 24,
@@ -415,14 +1127,40 @@
     "fatPer100g": 0.5,
     "carbsPer100g": 4,
     "storage": "冷藏保存；開封後避免與其他食材交叉沾染氣味。",
-    "commonPairings": ["白飯", "豆腐", "豬肉"],
-    "substitutes": ["酸菜", "辣白菜罐"],
-    "relatedScenarios": ["ten-minute-meals", "late-night-meals", "fridge-cleanout-meals"]
+    "commonPairings": [
+      "白飯",
+      "豆腐",
+      "豬肉"
+    ],
+    "substitutes": [
+      "酸菜",
+      "辣白菜罐"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "late-night-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "泡菜",
+      "en": "Kimchi",
+      "ja": "キムチ",
+      "ko": "김치"
+    },
+    "categoryLabels": {
+      "zh-TW": "辛香料",
+      "en": "Aromatics & spices",
+      "ja": "香味野菜・スパイス",
+      "ko": "향신료"
+    }
   },
   {
     "name": "鯖魚",
     "slug": "mackerel",
-    "aliases": ["青花鯖", "鯖魚片"],
+    "aliases": [
+      "青花鯖",
+      "鯖魚片"
+    ],
     "category": "海鮮",
     "description": "鯖魚油脂豐富、風味濃，適合煎烤或氣炸做成一人份主菜。",
     "caloriesPer100g": 205,
@@ -430,14 +1168,45 @@
     "fatPer100g": 14,
     "carbsPer100g": 0,
     "storage": "冷藏建議當天料理；腥味較重時可加檸檬或薑去味。",
-    "commonPairings": ["檸檬", "洋蔥", "白飯"],
-    "substitutes": ["鮭魚", "鱈魚"],
-    "relatedScenarios": ["high-protein-meals", "air-fryer-meals", "one-person-meal"]
+    "commonPairings": [
+      "檸檬",
+      "洋蔥",
+      "白飯"
+    ],
+    "substitutes": [
+      "鮭魚",
+      "鱈魚"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "air-fryer-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "鯖魚",
+      "en": "Mackerel",
+      "ja": "サバ",
+      "ko": "고등어"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    }
   },
   {
     "name": "豬肉",
     "slug": "pork",
-    "aliases": ["豬肉片", "里肌肉", "梅花肉", "豬絞肉", "絞肉", "豬里肌排", "里肌排"],
+    "aliases": [
+      "豬肉片",
+      "里肌肉",
+      "梅花肉",
+      "豬絞肉",
+      "絞肉",
+      "豬里肌排",
+      "里肌排"
+    ],
     "category": "肉類",
     "description": "豬肉用途廣，適合快炒、照燒與做成一人份蓋飯或便當主菜。",
     "caloriesPer100g": 242,
@@ -445,14 +1214,40 @@
     "fatPer100g": 14,
     "carbsPer100g": 0,
     "storage": "冷藏 1 到 2 天內料理；分裝冷凍可延長保存。",
-    "commonPairings": ["青蔥", "洋蔥", "白飯"],
-    "substitutes": ["雞胸肉", "牛肉"],
-    "relatedScenarios": ["one-person-meal", "bento-meals", "budget-meals"]
+    "commonPairings": [
+      "青蔥",
+      "洋蔥",
+      "白飯"
+    ],
+    "substitutes": [
+      "雞胸肉",
+      "牛肉"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "豬肉",
+      "en": "Pork",
+      "ja": "豚肉",
+      "ko": "돼지고기"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    }
   },
   {
     "name": "罐頭鮪魚",
     "slug": "canned-tuna",
-    "aliases": ["鮪魚罐頭", "油浸鮪魚"],
+    "aliases": [
+      "鮪魚罐頭",
+      "油浸鮪魚"
+    ],
     "category": "海鮮",
     "description": "罐頭鮪魚開罐即用，適合拌飯、沙拉與十分鐘完成的省錢一人餐。",
     "caloriesPer100g": 198,
@@ -460,14 +1255,40 @@
     "fatPer100g": 8,
     "carbsPer100g": 0,
     "storage": "未開封放陰涼處；開封後冷藏並在 1 到 2 天內用完。",
-    "commonPairings": ["白飯", "雞蛋", "美乃滋"],
-    "substitutes": ["罐頭鮭魚", "雞胸肉"],
-    "relatedScenarios": ["ten-minute-meals", "budget-meals", "one-person-meal"]
+    "commonPairings": [
+      "白飯",
+      "雞蛋",
+      "美乃滋"
+    ],
+    "substitutes": [
+      "罐頭鮭魚",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "罐頭鮪魚",
+      "en": "Canned tuna",
+      "ja": "ツナ缶",
+      "ko": "참치 통조림"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    }
   },
   {
     "name": "青椒",
     "slug": "green-pepper",
-    "aliases": ["甜椒", "大青椒"],
+    "aliases": [
+      "甜椒",
+      "大青椒"
+    ],
     "category": "蔬菜",
     "description": "青椒脆甜耐炒，適合與肉類快炒或做成家常配菜。",
     "caloriesPer100g": 20,
@@ -475,14 +1296,40 @@
     "fatPer100g": 0.2,
     "carbsPer100g": 4.6,
     "storage": "冷藏保存，避免擠壓；切開後建議 2 天內用完。",
-    "commonPairings": ["豬肉", "牛肉", "蒜頭"],
-    "substitutes": ["甜椒", "芹菜"],
-    "relatedScenarios": ["ten-minute-meals", "one-person-meal", "budget-meals"]
+    "commonPairings": [
+      "豬肉",
+      "牛肉",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "甜椒",
+      "芹菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "青椒",
+      "en": "Green bell pepper",
+      "ja": "ピーマン",
+      "ko": "피망"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "小黃瓜",
     "slug": "cucumber",
-    "aliases": ["黃瓜", "大黃瓜"],
+    "aliases": [
+      "黃瓜",
+      "大黃瓜"
+    ],
     "category": "蔬菜",
     "description": "小黃瓜清脆多汁，適合涼麵、沙拉與快拌小菜。",
     "caloriesPer100g": 15,
@@ -490,14 +1337,40 @@
     "fatPer100g": 0.1,
     "carbsPer100g": 3.6,
     "storage": "冷藏保存，避免與乙烯水果放一起以免變軟。",
-    "commonPairings": ["雞蛋", "蒜頭", "芝麻醬"],
-    "substitutes": ["櫛瓜", "生菜"],
-    "relatedScenarios": ["ten-minute-meals", "weight-loss-meals", "one-person-meal"]
+    "commonPairings": [
+      "雞蛋",
+      "蒜頭",
+      "芝麻醬"
+    ],
+    "substitutes": [
+      "櫛瓜",
+      "生菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "weight-loss-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "小黃瓜",
+      "en": "Cucumber",
+      "ja": "きゅうり",
+      "ko": "오이"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "櫛瓜",
     "slug": "zucchini",
-    "aliases": ["義大利瓜", "夏南瓜"],
+    "aliases": [
+      "義大利瓜",
+      "夏南瓜"
+    ],
     "category": "蔬菜",
     "description": "櫛瓜水分高、加熱快，適合清炒、氣炸與減脂料理。",
     "caloriesPer100g": 17,
@@ -505,14 +1378,41 @@
     "fatPer100g": 0.3,
     "carbsPer100g": 3.1,
     "storage": "冷藏保存，避免潮濕悶住；切開後盡快料理。",
-    "commonPairings": ["雞胸肉", "蒜頭", "番茄"],
-    "substitutes": ["小黃瓜", "絲瓜"],
-    "relatedScenarios": ["weight-loss-meals", "ten-minute-meals", "one-person-meal"]
+    "commonPairings": [
+      "雞胸肉",
+      "蒜頭",
+      "番茄"
+    ],
+    "substitutes": [
+      "小黃瓜",
+      "絲瓜"
+    ],
+    "relatedScenarios": [
+      "weight-loss-meals",
+      "ten-minute-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "櫛瓜",
+      "en": "Zucchini",
+      "ja": "ズッキーニ",
+      "ko": "주키니"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    }
   },
   {
     "name": "薑",
     "slug": "ginger",
-    "aliases": ["生薑", "薑絲", "薑末"],
+    "aliases": [
+      "生薑",
+      "薑絲",
+      "薑末"
+    ],
     "category": "辛香料",
     "description": "薑能去腥提香，是肉類快炒、滷肉與湯品的常見辛香料。",
     "caloriesPer100g": 80,
@@ -520,14 +1420,40 @@
     "fatPer100g": 0.8,
     "carbsPer100g": 18,
     "storage": "未削皮薑可冷藏；削皮後建議密封並盡快使用。",
-    "commonPairings": ["豬肉", "雞胸肉", "牛肉"],
-    "substitutes": ["蒜頭", "洋蔥"],
-    "relatedScenarios": ["one-person-meal", "bento-meals", "ten-minute-meals"]
+    "commonPairings": [
+      "豬肉",
+      "雞胸肉",
+      "牛肉"
+    ],
+    "substitutes": [
+      "蒜頭",
+      "洋蔥"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals",
+      "ten-minute-meals"
+    ],
+    "labels": {
+      "zh-TW": "薑",
+      "en": "Ginger",
+      "ja": "しょうが",
+      "ko": "생강"
+    },
+    "categoryLabels": {
+      "zh-TW": "辛香料",
+      "en": "Aromatics & spices",
+      "ja": "香味野菜・スパイス",
+      "ko": "향신료"
+    }
   },
   {
     "name": "紅蔥頭",
     "slug": "shallot",
-    "aliases": ["紅葱頭", "干蔥"],
+    "aliases": [
+      "紅葱頭",
+      "干蔥"
+    ],
     "category": "辛香料",
     "description": "紅蔥頭香氣濃，常用於滷肉、肉燥與爆香底味。",
     "caloriesPer100g": 72,
@@ -535,14 +1461,40 @@
     "fatPer100g": 0.1,
     "carbsPer100g": 16.8,
     "storage": "完整紅蔥頭放通風處；切開後改冷藏並盡快使用。",
-    "commonPairings": ["豬肉", "白飯", "醬油"],
-    "substitutes": ["洋蔥", "蒜頭"],
-    "relatedScenarios": ["one-person-meal", "budget-meals", "bento-meals"]
+    "commonPairings": [
+      "豬肉",
+      "白飯",
+      "醬油"
+    ],
+    "substitutes": [
+      "洋蔥",
+      "蒜頭"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "紅蔥頭",
+      "en": "Shallot",
+      "ja": "エシャロット",
+      "ko": "샬롯"
+    },
+    "categoryLabels": {
+      "zh-TW": "辛香料",
+      "en": "Aromatics & spices",
+      "ja": "香味野菜・スパイス",
+      "ko": "향신료"
+    }
   },
   {
     "name": "九層塔",
     "slug": "basil-taiwan",
-    "aliases": ["羅勒", "台灣羅勒"],
+    "aliases": [
+      "羅勒",
+      "台灣羅勒"
+    ],
     "category": "辛香料",
     "description": "九層塔香氣獨特，是三杯雞、炒蛤蜊等台式料理的經典配料。",
     "caloriesPer100g": 23,
@@ -550,8 +1502,30 @@
     "fatPer100g": 0.6,
     "carbsPer100g": 2.7,
     "storage": "包廚房紙巾後冷藏，避免水氣悶爛。",
-    "commonPairings": ["雞腿肉", "蒜頭", "醬油"],
-    "substitutes": ["青蔥", "香菜"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals"]
+    "commonPairings": [
+      "雞腿肉",
+      "蒜頭",
+      "醬油"
+    ],
+    "substitutes": [
+      "青蔥",
+      "香菜"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals"
+    ],
+    "labels": {
+      "zh-TW": "九層塔",
+      "en": "Thai basil",
+      "ja": "ホーロクバジル",
+      "ko": "타이 바질"
+    },
+    "categoryLabels": {
+      "zh-TW": "辛香料",
+      "en": "Aromatics & spices",
+      "ja": "香味野菜・スパイス",
+      "ko": "향신료"
+    }
   }
 ]

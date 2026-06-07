@@ -11,6 +11,8 @@
 | 版本 | 日期 | 變更 |
 | --- | --- | --- |
 | v1.1 | 2026-06-03 | spec-010：Bloom Kitchen 品牌名與 Bloss0m 生態對齊 |
+| v1.2 | 2026-06-03 | spec-015/016：溫馨精緻高級視覺、champagne token、Noto Serif/Sans TC |
+| v1.3 | 2026-06-05 | spec-017：子路徑多語、語言切換器、字典驅動導覽；詳見 `docs/specs/017-i18n-platform/spec.md` |
 
 ## Intent First
 
@@ -73,7 +75,7 @@
 | UI 元件庫 | 無，使用 Astro components + CSS | 第一階段避免引入重型 UI library，保持輸出簡單。 |
 | CSS 方案 | 全域 CSS + CSS custom properties | 以 design tokens 控制色彩、間距、字型。 |
 | 圖示庫 | Lucide | 後續需要搜尋、時間、設備、篩選等圖示時使用。 |
-| 字型載入 | 系統字型優先 | 第一階段降低外部請求；必要時後續再評估自託管字型。 |
+| 字型載入 | Google Fonts（Noto Serif TC + Noto Sans TC） | `font-display: swap`；標題襯線、內文 sans；spec-015 起全站套用。 |
 
 ## 色彩系統
 
@@ -88,6 +90,8 @@ Token 使用產品語意命名，不使用隨機 hex 或單純 `gray-700`。CSS 
 | 青蔥綠 | `--scallion` | `#2F7D4F` | 主要 CTA、可操作狀態、成功行動 | 來自台灣家常料理常見蔥花，代表新鮮與「可以開始煮」。 |
 | 蛋黃金 | `--egg-yolk` | `#F2B84B` | 推薦、熱門、重點標籤 | 代表簡單、便宜、高頻的一人料理核心食材。 |
 | 番茄紅 | `--tomato` | `#D94A38` | 警示、缺少食材、重點提醒 | 有食物熱度，比一般 danger red 更貼近料理語境。 |
+| 香檳金 | `--champagne` | `#C4A574` | 眉題、導覽強調、專區 CTA | 精緻點綴，避免促銷亮黃。 |
+| 深蔥綠 | `--scallion-deep` | `#2F5540` | 主按鈕背景 | 沉穩 CTA，與 `--scallion` 搭配。 |
 
 ### 背景與表面
 
@@ -134,8 +138,8 @@ Token 使用產品語意命名，不使用隨機 hex 或單純 `gray-700`。CSS 
 
 | 用途 | 字體 | Fallback | Why |
 | --- | --- | --- | --- |
-| 標題 | system-ui | `-apple-system`, `BlinkMacSystemFont`, `"Noto Sans TC"`, sans-serif | 保持快速載入，中文標題清楚，不追求雜誌感。 |
-| 內文 | system-ui | `-apple-system`, `BlinkMacSystemFont`, `"Noto Sans TC"`, sans-serif | 食譜內容需要長時間閱讀與手機掃讀。 |
+| 標題 | Noto Serif TC | `"Noto Serif TC"`, `Songti TC`, serif | 溫馨精緻的編輯標題感（v1.2）。 |
+| 內文 | Noto Sans TC | `"Noto Sans TC"`, system-ui, sans-serif | 長文掃讀；字重 300–600。 |
 | 數字/時間 | `ui-monospace` | `SFMono-Regular`, Consolas, monospace | 料理時間、熱量、蛋白質等數字需整齊。 |
 
 ### 字型大小
@@ -406,6 +410,12 @@ Token 名稱如 `--rice`、`--scallion`、`--soy-ink`、`--egg-yolk`、`--cooker
   --shadow-md: 0 8px 20px rgba(45, 38, 32, 0.10);
 }
 ```
+
+## 多語與語言切換（spec-017）
+
+- 繁中維持根路徑；`en`／`ja`／`ko` 使用子路徑前綴。語言切換保留 path suffix（同一 slug／列表路徑）。
+- 導覽、footer、空狀態等殼層文案以 `src/i18n/ui/*.json` 為準；taxonomy 顯示名用 `labels[locale]`。
+- 語言切換器：header 右側單一 `<select>`（`.lang-switcher__select`），勿在導覽列並排四個語言連結。
 
 ## 備註
 

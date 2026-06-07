@@ -21,7 +21,7 @@ equipment:
 - 平底鍋
 ingredients:
 - name: 雞胸肉
-  amount: '1'
+  amount: '2'
   unit: 片
   isCore: true
 - name: 紅蘿蔔

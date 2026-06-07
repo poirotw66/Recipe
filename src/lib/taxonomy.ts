@@ -1,13 +1,19 @@
 import ingredients from "../data/ingredients.json";
 import scenarios from "../data/scenarios.json";
 import topicHubs from "../data/topic-hubs.json";
+import type { Locale } from "./i18n";
+import { defaultLocale } from "./i18n";
 import type { RecipeEntry } from "./recipes";
+
+export type LocalizedLabels = Partial<Record<Locale, string>> & { "zh-TW": string };
 
 export interface IngredientItem {
   name: string;
   slug: string;
   aliases: string[];
   category: string;
+  labels?: LocalizedLabels;
+  categoryLabels?: LocalizedLabels;
   description: string;
   caloriesPer100g: number;
   proteinPer100g: number;
@@ -22,6 +28,7 @@ export interface IngredientItem {
 export interface ScenarioItem {
   name: string;
   slug: string;
+  labels?: LocalizedLabels;
   description: string;
   seoTitle: string;
   seoDescription: string;
@@ -47,6 +54,25 @@ export interface TopicHubItem {
 export const ingredientItems = ingredients as IngredientItem[];
 export const scenarioItems = scenarios as ScenarioItem[];
 export const topicHubItems = topicHubs as TopicHubItem[];
+
+export const getIngredientLabel = (item: IngredientItem, locale: Locale) =>
+  item.labels?.[locale] ?? item.labels?.[defaultLocale] ?? item.name;
+
+export const getIngredientCategoryLabel = (item: IngredientItem, locale: Locale) =>
+  item.categoryLabels?.[locale] ?? item.categoryLabels?.[defaultLocale] ?? item.category;
+
+export const getScenarioLabel = (item: ScenarioItem, locale: Locale) =>
+  item.labels?.[locale] ?? item.labels?.[defaultLocale] ?? item.name;
+
+export const getIngredientsByCategoryLocalized = (locale: Locale) =>
+  ingredientItems.reduce<Record<string, IngredientItem[]>>((groups, ingredient) => {
+    const key = getIngredientCategoryLabel(ingredient, locale);
+    if (!groups[key]) {
+      groups[key] = [];
+    }
+    groups[key].push(ingredient);
+    return groups;
+  }, {});
 
 export const getIngredientBySlug = (slug: string) =>
   ingredientItems.find((ingredient) => ingredient.slug === slug);
