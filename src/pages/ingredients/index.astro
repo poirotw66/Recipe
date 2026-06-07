@@ -6,15 +6,21 @@ import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../lib/seo";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
-import { getIngredientsByCategory, ingredientItems, scenarioItems } from "../../lib/taxonomy";
+import {
+  getIngredientsByCategory,
+  getPopularIngredients,
+  ingredientItems,
+  recipeUsesIngredient,
+  scenarioItems
+} from "../../lib/taxonomy";
 
 const groupedIngredients = getIngredientsByCategory();
-const popularIngredients = ingredientItems.slice(0, 8);
 const relatedScenarios = scenarioItems.slice(0, 3);
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
-const featuredRecipes = recipes.filter((recipe) =>
-  recipe.data.ingredients.some((item) => popularIngredients.some((ingredient) => ingredient.name === item.name))
-).slice(0, 3);
+const popularIngredients = getPopularIngredients(recipes, 8);
+const featuredRecipes = recipes
+  .filter((recipe) => popularIngredients.some((ingredient) => recipeUsesIngredient(recipe, ingredient)))
+  .slice(0, 3);
 const collectionJsonLd = buildCollectionPageJsonLd(
   "食材列表",
   "從台灣常見食材開始找食譜，先用分類、熱門食材與情境入口建立長尾 SEO 的起點。",

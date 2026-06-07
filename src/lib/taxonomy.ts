@@ -99,6 +99,28 @@ export const getIngredientsByCategory = () =>
     return groups;
   }, {});
 
+export const recipeUsesIngredient = (recipe: RecipeEntry, ingredient: IngredientItem) =>
+  recipe.data.ingredients.some(
+    (item) => item.name === ingredient.name || ingredient.aliases.includes(item.name)
+  );
+
+export const countRecipesForIngredient = (recipes: RecipeEntry[], ingredient: IngredientItem) =>
+  recipes.filter((recipe) => recipeUsesIngredient(recipe, ingredient)).length;
+
+export const getPopularIngredients = (recipes: RecipeEntry[], limit = 8) =>
+  [...ingredientItems]
+    .map((ingredient) => ({
+      ingredient,
+      count: countRecipesForIngredient(recipes, ingredient),
+    }))
+    .sort(
+      (left, right) =>
+        right.count - left.count ||
+        left.ingredient.name.localeCompare(right.ingredient.name, "zh-Hant")
+    )
+    .slice(0, limit)
+    .map((entry) => entry.ingredient);
+
 export const getRecipesByIngredient = (recipes: RecipeEntry[], ingredientSlug: string) => {
   const ingredient = getIngredientBySlug(ingredientSlug);
 
@@ -106,9 +128,7 @@ export const getRecipesByIngredient = (recipes: RecipeEntry[], ingredientSlug: s
     return [];
   }
 
-  return recipes.filter((recipe) =>
-    recipe.data.ingredients.some((item) => item.name === ingredient.name || ingredient.aliases.includes(item.name))
-  );
+  return recipes.filter((recipe) => recipeUsesIngredient(recipe, ingredient));
 };
 
 export const getRecipesByScenario = (recipes: RecipeEntry[], scenarioSlug: string) => {

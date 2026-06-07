@@ -1,0 +1,23 @@
+{
+  "slug": "water-lily-stem-sesame-toss",
+  "title": "麻油拌水蓮",
+  "reviewed_at": "2026-06-03",
+  "status": "Critical",
+  "confidence_score": 88,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Critical",
+      "description": "步驟寫「下火蓮」，應為「下水蓮」（加入水蓮）。錯字導致核心食材名稱未出現在步驟中，讀者可能誤解為「關小火」或無法對照食材清單。",
+      "suggested_fix": "將所有步驟中的「下火蓮」改為「下水蓮」。",
+      "source": "agent"
+    },
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "最後一步寫「起鍋前撒白芝麻」，但此菜為汆燙拌涼，用語不精確。",
+      "suggested_fix": "改為「裝盤前撒白芝麻」。",
+      "source": "agent"
+    }
+  ]
+}

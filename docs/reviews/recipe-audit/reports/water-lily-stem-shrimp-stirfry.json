@@ -1,0 +1,23 @@
+{
+  "slug": "water-lily-stem-shrimp-stirfry",
+  "title": "水蓮炒蝦仁",
+  "reviewed_at": "2026-06-03",
+  "status": "Critical",
+  "confidence_score": 89,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Critical",
+      "description": "步驟寫「下火蓮」，應為「下水蓮」（加入水蓮）。錯字導致核心食材名稱未出現在步驟中，讀者可能誤解為「關小火」或無法對照食材清單。",
+      "suggested_fix": "將所有步驟中的「下火蓮」改為「下水蓮」。",
+      "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "tips 提到蝦仁可先用米酒去腥，但 seasonings 未列米酒。",
+      "suggested_fix": "在 seasonings 加米酒 1 小匙，或改 tips 不提及米酒。",
+      "source": "agent"
+    }
+  ]
+}
