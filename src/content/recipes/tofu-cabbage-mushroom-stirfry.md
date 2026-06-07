@@ -15,7 +15,7 @@ carbs: 22
 category: "家常菜"
 scenarios:
 - 省錢料理
-- 冰箱清庫存
+- 10 分鐘料理
 equipment:
 - 平底鍋
 ingredients:
@@ -74,4 +74,4 @@ customAdditions:
 
 
 
-這道菜很適合清冰箱時使用，食材替換彈性高，失敗率也低。
+這道菜食材替換彈性高、失敗率低，是平日晚餐很實用的快炒選擇。

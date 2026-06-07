@@ -1,6 +1,6 @@
 ---
 title: "雜菜雞蛋煎餅"
-description: "冰箱剩蔬菜切絲混進蛋液，煎成厚蛋餅，有菜有蛋就是一餐。"
+description: "高麗菜與紅蘿蔔切絲混進蛋液，煎成厚蛋餅，有菜有蛋就是一餐。"
 coverImage: /images/recipes/random-veggie-egg-pancake.svg
 servings: 1
 prepTime: 8
@@ -13,13 +13,13 @@ fat: 20
 carbs: 16
 category: "家常菜"
 scenarios:
-- 冰箱清庫存
 - 一人料理
+- 10 分鐘料理
 equipment:
 - 平底鍋
 tags:
 - 一人份
-- 清冰箱
+- 家常
 - 蛋料理
 tips:
 - 可加起司絲增加風味。
@@ -74,4 +74,4 @@ updatedAt: "2026-06-03"
 ---
 
 
-雜菜雞蛋煎餅是清冰箱時最創意的一人料理。
+雜菜雞蛋煎餅有菜有蛋，是營養均衡的一人份快手料理。

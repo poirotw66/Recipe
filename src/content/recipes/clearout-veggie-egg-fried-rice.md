@@ -1,6 +1,6 @@
 ---
-title: "清庫存蛋炒飯"
-description: "剩飯加雞蛋與冰箱零散蔬菜，快炒就是經典蛋炒飯。"
+title: "家常蛋炒飯"
+description: "白飯與雞蛋大火快炒，蔥花提香，十四分鐘就能完成的一人份晚餐。"
 coverImage: /images/recipes/clearout-veggie-egg-fried-rice.svg
 servings: 1
 prepTime: 6
@@ -13,16 +13,16 @@ fat: 16
 carbs: 58
 category: "飯麵"
 scenarios:
-- 冰箱清庫存
 - 10 分鐘料理
+- 一人料理
 equipment:
 - 平底鍋
 tags:
 - 一人份
-- 清冰箱
 - 蛋炒飯
+- 快手
 tips:
-- 可加剩蔬菜丁或火腿丁。
+- 可加玉米、胡蘿蔔丁或火腿丁增加口感。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -62,11 +62,11 @@ steps:
 storage: "冷藏 1 天；再加熱用平底鍋翻熱。"
 faqs:
 - question: "怎樣才能粒粒分明？"
-  answer: "用隔夜剩飯、大火快炒，並避免一次加太多醬汁。"
+  answer: "白飯先放涼或冷藏後水分較少，大火快炒，並避免一次加太多醬汁。"
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-06-03"
 ---
 
 
-清庫存蛋炒飯是台灣人清冰箱時的第一直覺。
+家常蛋炒飯香氣足、步驟短，是平日晚餐最順手的選擇之一。

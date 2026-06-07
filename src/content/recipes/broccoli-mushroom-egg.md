@@ -16,7 +16,7 @@ category: "家常菜"
 scenarios:
 - 減脂料理
 - 高蛋白料理
-- 冰箱清庫存
+- 10 分鐘料理
 equipment:
 - 平底鍋
 ingredients:

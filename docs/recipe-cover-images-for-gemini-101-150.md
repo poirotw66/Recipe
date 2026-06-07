@@ -60,12 +60,12 @@ Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich
 | 119 | 電子鍋蒸蛋蓋飯 | `microwave-steamed-egg-rice` | `microwave-steamed-egg-rice.webp` |
 | 120 | 十分鐘烏龍麵湯 | `ten-minute-udon-soup` | `ten-minute-udon-soup.webp` |
 | 121 | 綜合蔬菜炒飯 | `leftover-mixed-veggie-fried-rice` | `leftover-mixed-veggie-fried-rice.webp` |
-| 122 | 清冰箱豆腐蔬菜湯 | `clearout-tofu-veggie-soup` | `clearout-tofu-veggie-soup.webp` |
+| 122 | 豆腐蔬菜清湯 | `clearout-tofu-veggie-soup` | `clearout-tofu-veggie-soup.webp` |
 | 123 | 豬肉青椒快炒 | `leftover-meat-quick-stirfry` | `leftover-meat-quick-stirfry.webp` |
 | 124 | 雜菜雞蛋煎餅 | `random-veggie-egg-pancake` | `random-veggie-egg-pancake.webp` |
-| 125 | 冰箱見底湯麵 | `fridge-bottom-soup-noodles` | `fridge-bottom-soup-noodles.webp` |
-| 126 | 剩飯蛋餅 | `leftover-rice-egg-pancake` | `leftover-rice-egg-pancake.webp` |
-| 127 | 清庫存蛋炒飯 | `clearout-veggie-egg-fried-rice` | `clearout-veggie-egg-fried-rice.webp` |
+| 125 | 什錦蔬菜湯麵 | `fridge-bottom-soup-noodles` | `fridge-bottom-soup-noodles.webp` |
+| 126 | 米飯蛋煎餅 | `leftover-rice-egg-pancake` | `leftover-rice-egg-pancake.webp` |
+| 127 | 家常蛋炒飯 | `clearout-veggie-egg-fried-rice` | `clearout-veggie-egg-fried-rice.webp` |
 | 128 | 蛋花鹹粥 | `mixed-leftover-congee` | `mixed-leftover-congee.webp` |
 | 129 | 薑絲肉燥飯 | `solo-ginger-pork-rice` | `solo-ginger-pork-rice.webp` |
 | 130 | 三杯雞蓋飯 | `solo-three-cup-chicken-rice` | `solo-three-cup-chicken-rice.webp` |
@@ -228,7 +228,7 @@ A comforting bowl of ten-minute udon noodle soup, single-serving size. Thick, ch
 A colorful, appetizing bowl of Taiwanese mixed vegetable fried rice, single-serving size. Fluffy grains of rice are tossed with gold scrambled egg curds, sweet corn, green peas, and finely diced red carrots and cabbage. Composition: served in a simple round white plate with the soft-focus silhouette of an open refrigerator door in the background. Bright, natural kitchen window light highlights the fresh colors. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
-#### 122. 清冰箱豆腐蔬菜湯 — `clearout-tofu-veggie-soup.webp`
+#### 122. 豆腐蔬菜清湯 — `clearout-tofu-veggie-soup.webp`
 
 ```text
 A highly appetizing, wholesome bowl of clear tofu vegetable soup, single-serving size. Soft white tofu cubes, sweet green cabbage ribbons, and orange carrot slices simmer in a light, clear vegetable broth. Composition: served in a clear glass soup bowl on a light-colored tiled kitchen counter. Soft morning window light illuminates the scene, with gentle steam curls rising from the hot soup. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
@@ -246,19 +246,19 @@ A highly appetizing plate of Taiwanese stir-fried pork and green pepper, single-
 A highly appealing Taiwanese mixed vegetable egg pancake, single-serving size. A thick, golden-brown pan-fried egg cake is loaded with shredded cabbage, carrot strips, and green scallions, cut into neat wedges. Composition: served directly on a small seasoned cast-iron skillet resting on a rustic wood dining table. Bright, warm weekend morning sunlight streams in, highlighting the crispy pancake edges. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
-#### 125. 冰箱見底湯麵 — `fridge-bottom-soup-noodles.webp`
+#### 125. 什錦蔬菜湯麵 — `fridge-bottom-soup-noodles.webp`
 
 ```text
 A comforting, simple bowl of Taiwanese fridge-clearance soup noodles, single-serving size. Wheat noodles in a clear, hot broth are topped with a few fresh green vegetable leaves and a soft, silky egg drop. Composition: served in a deep ceramic noodle bowl on a small apartment dining table under the soft, warm glow of a hanging dining lamp, close-up three-quarter view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
-#### 126. 剩飯蛋餅 — `leftover-rice-egg-pancake.webp`
+#### 126. 米飯蛋煎餅 — `leftover-rice-egg-pancake.webp`
 
 ```text
 A highly appetizing Taiwanese leftover rice egg pancake, single-serving size. Features a golden, pan-fried flat cake made of cooked rice mixed with scrambled egg and green scallions, showing delicious crispy, toasted edges. Composition: served on a round nonstick pan with a wooden spatula resting nearby on a light tiled kitchen counter. Bright morning daylight illuminates the crunchy textures. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
 ```
 
-#### 127. 清庫存蛋炒飯 — `clearout-veggie-egg-fried-rice.webp`
+#### 127. 家常蛋炒飯 — `clearout-veggie-egg-fried-rice.webp`
 
 ```text
 A highly appetizing bowl of Taiwanese vegetable egg fried rice, single-serving size. Fluffy grains of rice are tossed with golden egg curds, sweet corn kernels, onion bits, and green peas, garnished with fresh scallions. Composition: served on a shallow ceramic plate on a wooden lunch tray. Bright, neutral office-lunch daylight highlights the colorful ingredients, captured from a three-quarter eye-level view. Colored pencil and watercolor illustration style, warm and cozy atmosphere, rich food textures, detailed sketch outlines, soft pencil shading. Highly appetizing and inviting. Clean uncluttered background, no text, no watermark, 4:3 aspect ratio.
@@ -435,12 +435,12 @@ A comforting, economical bowl of budget cabbage noodle soup, single-serving size
 119. 電子鍋蒸蛋蓋飯
 120. 十分鐘烏龍麵湯
 121. 綜合蔬菜炒飯
-122. 清冰箱豆腐蔬菜湯
+122. 豆腐蔬菜清湯
 123. 豬肉青椒快炒
 124. 雜菜雞蛋煎餅
-125. 冰箱見底湯麵
-126. 剩飯蛋餅
-127. 清庫存蛋炒飯
+125. 什錦蔬菜湯麵
+126. 米飯蛋煎餅
+127. 家常蛋炒飯
 128. 蛋花鹹粥
 129. 薑絲肉燥飯
 130. 三杯雞蓋飯

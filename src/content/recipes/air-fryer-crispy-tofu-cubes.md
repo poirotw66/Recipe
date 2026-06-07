@@ -14,7 +14,7 @@ carbs: 12
 category: "家常菜"
 scenarios:
 - 氣炸鍋料理
-- 冰箱清庫存
+- 10 分鐘料理
 equipment:
 - 氣炸鍋
 tags:

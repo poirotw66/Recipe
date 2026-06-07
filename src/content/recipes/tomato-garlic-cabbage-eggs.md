@@ -1,7 +1,7 @@
 ---
 title: 番茄蒜香高麗菜炒蛋
 slug: tomato-garlic-cabbage-eggs
-description: 番茄蒜香高麗菜炒蛋一人份，15 分鐘快手蔬菜料理，適合清冰箱與平日晚餐。
+description: 番茄蒜香高麗菜炒蛋一人份，15 分鐘快手蔬菜料理，適合平日晚餐。
 coverImage: /images/recipes/tomato-garlic-cabbage-eggs.webp
 servings: 1
 prepTime: 7
@@ -15,7 +15,6 @@ carbs: 18
 category: "家常菜"
 scenarios:
 - 10 分鐘料理
-- 冰箱清庫存
 equipment:
 - 平底鍋
 ingredients:

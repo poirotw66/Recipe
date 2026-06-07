@@ -1,7 +1,7 @@
 ---
 title: 青蔥蒜香義大利麵
 slug: scallion-garlic-pasta
-description: 青蔥與蒜頭一起爆香，做出帶辛香的蔥蒜義大利麵，材料好準備也適合清冰箱。
+description: 青蔥與蒜頭一起爆香，做出帶辛香的蔥蒜義大利麵，材料好準備，平日晚餐很快就能完成。
 coverImage: /images/recipes/scallion-garlic-pasta.webp
 servings: 1
 prepTime: 6
@@ -15,7 +15,6 @@ carbs: 60
 category: "飯麵"
 scenarios:
 - 一人料理
-- 冰箱清庫存
 equipment:
 - 湯鍋
 - 平底鍋
@@ -45,7 +44,7 @@ seasonings:
 tags:
 - 義大利麵
 - 蒜香料理
-intro: 青蔥蒜香義大利麵把蔥白與蔥綠分開下鍋，香氣層次更清楚，也很適合只剩半把蔥的時候。
+intro: 青蔥蒜香義大利麵把蔥白與蔥綠分開下鍋，香氣層次更清楚，材料少也能做出好味道。
 steps:
 - 義大利麵煮至彈牙（即 al dente 狀態，後續與醬汁翻拌時才不會過於軟爛）後瀝乾，保留半杯煮麵水；青蔥切蔥白與蔥綠，蒜頭切末。
 - 平底鍋下油，先炒蔥白與蒜末到香，再加入蔥綠快炒幾下。
@@ -73,4 +72,4 @@ customAdditions:
 
 
 
-青蔥蒜香義大利麵是專區裡很實用的清冰箱做法，蔥香足又不太油膩。
+青蔥蒜香義大利麵是專區裡很實用的家常做法，蔥香足又不太油膩。

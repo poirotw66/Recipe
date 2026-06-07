@@ -1,6 +1,6 @@
 ---
-title: "清冰箱豆腐蔬菜湯"
-description: "豆腐搭配冰箱剩蔬菜煮成清湯，簡單調味就夠鮮，適合一個人的輕食晚餐。"
+title: "豆腐蔬菜清湯"
+description: "豆腐搭配高麗菜與紅蘿蔔煮成清湯，簡單調味就夠鮮，適合一個人的輕食晚餐。"
 coverImage: /images/recipes/clearout-tofu-veggie-soup.svg
 servings: 1
 prepTime: 8
@@ -13,13 +13,13 @@ fat: 8
 carbs: 10
 category: "湯品"
 scenarios:
-- 冰箱清庫存
 - 一人料理
+- 10 分鐘料理
 equipment:
 - 湯鍋
 tags:
 - 一人份
-- 清冰箱
+- 家常
 - 湯品
 tips:
 - 可加薑絲或枸杞增加層次。
@@ -57,7 +57,7 @@ seasonings:
 - name: "橄欖油"
   amount: "1"
   unit: "小匙"
-intro: "這道湯沒有固定配方，重點是用現有蔬菜拼出均衡的一碗。"
+intro: "這道湯沒有固定配方，重點是用蔬菜拼出均衡的一碗。"
 steps:
 - "豆腐切塊，高麗菜洗淨切塊，紅蘿蔔切薄片。"
 - "湯鍋下橄欖油，小火略炒紅蘿蔔與高麗菜 2 分鐘。"
@@ -74,4 +74,4 @@ updatedAt: "2026-06-03"
 ---
 
 
-清冰箱豆腐蔬菜湯是剩料湯品最實用的作法。
+豆腐蔬菜清湯清淡鮮甜，是平日晚餐很順手的湯品選擇。

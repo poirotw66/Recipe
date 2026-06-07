@@ -1,7 +1,7 @@
 ---
 title: 洋蔥番茄蛋炒飯
 slug: onion-tomato-egg-fried-rice
-description: 洋蔥番茄蛋炒飯一人份，15 分鐘清冰箱料理，用零散蔬菜與剩飯湊出一餐。
+description: 洋蔥番茄蛋炒飯一人份，15 分鐘完成，用常備蔬菜與白飯炒出酸甜開胃的一餐。
 coverImage: /images/recipes/onion-tomato-egg-fried-rice.webp
 servings: 1
 prepTime: 7
@@ -15,7 +15,7 @@ carbs: 63
 category: "飯麵"
 scenarios:
 - 一人料理
-- 冰箱清庫存
+- 10 分鐘料理
 equipment:
 - 平底鍋
 ingredients:
@@ -42,7 +42,7 @@ seasonings:
   amount: '1'
   unit: 小匙
 tags:
-- 剩飯料理
+- 家常
 - 炒飯
 intro: 番茄先炒出汁，再讓白飯吸收，炒飯會帶一點濕潤感，不會太乾。
 steps:
@@ -50,7 +50,7 @@ steps:
 - 先炒蛋至半熟盛起，同鍋熱鍋倒入適量冷油後，以中小火慢慢翻炒，直至辛香料的香氣完全釋放洋蔥和番茄。
 - 放入白飯拌炒均勻，回鍋雞蛋，最後加鹽和醬油調味。
 tips:
-- 隔夜飯較好炒，若是熱飯可先放涼 5 分鐘。
+- 放涼的白飯較好炒，若是熱飯可先放涼 5 分鐘。
 storage: 建議現吃；若需保存，冷藏 1 天內回鍋食用。
 substitutions:
 - 可加青蔥增加香氣。
@@ -74,4 +74,4 @@ customAdditions:
 
 
 
-想把剩飯變成有新鮮感的一餐，這道炒飯很適合當起點。
+洋蔥番茄蛋炒飯酸甜開胃，是平日晚餐很順手的炒飯選擇。

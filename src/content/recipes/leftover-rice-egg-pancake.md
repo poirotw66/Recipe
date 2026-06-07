@@ -1,6 +1,6 @@
 ---
-title: "剩飯蛋餅"
-description: "剩飯與蛋液混合煎成餅，外層微焦、內裡帶飯粒口感，簡單又飽足。"
+title: "米飯蛋煎餅"
+description: "白飯與蛋液混合煎成餅，外層微焦、內裡帶飯粒口感，簡單又飽足。"
 coverImage: /images/recipes/leftover-rice-egg-pancake.svg
 servings: 1
 prepTime: 6
@@ -13,14 +13,14 @@ fat: 16
 carbs: 54
 category: "家常菜"
 scenarios:
-- 冰箱清庫存
 - 一人料理
+- 10 分鐘料理
 equipment:
 - 平底鍋
 tags:
 - 一人份
-- 清冰箱
-- 剩飯料理
+- 家常
+- 蛋餅
 tips:
 - 可加蔥花或火腿丁增加風味。
 substitutions: []
@@ -47,7 +47,7 @@ seasonings:
 - name: "橄欖油"
   amount: "1"
   unit: "大匙"
-intro: "剩飯先撥散再與蛋混合，煎時才不易散開。"
+intro: "白飯先撥散放涼，再與蛋混合，煎時才不易散開。"
 steps:
 - "白飯撥散放涼 5 分鐘；雞蛋打散，加入飯、鹽、胡椒拌勻。"
 - "平底鍋中大火下油，倒入飯蛋糊，用鍋鏟壓平。"
@@ -64,4 +64,4 @@ updatedAt: "2026-06-03"
 ---
 
 
-剩飯蛋餅是剩飯再利用最簡單的作法之一。
+米飯蛋煎餅材料簡單、口感紮實，很適合當一人份的快手主餐。

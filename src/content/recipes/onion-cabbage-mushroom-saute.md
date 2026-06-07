@@ -15,7 +15,7 @@ carbs: 28
 category: "家常菜"
 scenarios:
 - 省錢料理
-- 冰箱清庫存
+- 10 分鐘料理
 equipment:
 - 平底鍋
 ingredients:
@@ -43,7 +43,7 @@ seasonings:
   unit: 小匙
 tags:
 - 蔬菜快炒
-- 清冰箱
+- 家常
 intro: 先炒洋蔥出香氣，再下高麗菜與菇類，味道會更融合。
 steps:
 - 洋蔥去皮洗淨後切成均勻的細絲（順著紋理切能保持形狀與脆口度）、高麗菜切片、菇類切片、蒜頭切末。

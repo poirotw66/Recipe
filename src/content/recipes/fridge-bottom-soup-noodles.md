@@ -1,6 +1,6 @@
 ---
-title: "冰箱見底湯麵"
-description: "用冰箱最後幾樣食材煮湯麵，加一顆蛋就是完整一餐。"
+title: "什錦蔬菜湯麵"
+description: "高麗菜與雞蛋煮成清湯麵，加一顆蛋就是完整的一人份晚餐。"
 coverImage: /images/recipes/fridge-bottom-soup-noodles.svg
 servings: 1
 prepTime: 8
@@ -13,14 +13,14 @@ fat: 12
 carbs: 58
 category: "飯麵"
 scenarios:
-- 冰箱清庫存
+- 10 分鐘料理
 - 一人料理
 equipment:
 - 湯鍋
 tags:
 - 一人份
-- 清冰箱
 - 湯麵
+- 快手
 tips:
 - 可加豆腐或菇類增加豐富度。
 substitutions: []
@@ -76,4 +76,4 @@ updatedAt: "2026-06-03"
 ---
 
 
-冰箱見底湯麵是月底清庫存時最實用的救急餐。
+什錦蔬菜湯麵步驟短、材料好取得，是忙碌平日晚餐的實用選擇。
