@@ -1,7 +1,7 @@
 ---
 title: "什錦蔬菜湯麵"
 description: "高麗菜與雞蛋煮成清湯麵，加一顆蛋就是完整的一人份晚餐。"
-coverImage: /images/recipes/fridge-bottom-soup-noodles.svg
+coverImage: /images/recipes/fridge-bottom-soup-noodles.webp
 servings: 1
 prepTime: 8
 cookTime: 12

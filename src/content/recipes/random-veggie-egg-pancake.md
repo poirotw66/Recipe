@@ -1,7 +1,7 @@
 ---
 title: "雜菜雞蛋煎餅"
 description: "高麗菜與紅蘿蔔切絲混進蛋液，煎成厚蛋餅，有菜有蛋就是一餐。"
-coverImage: /images/recipes/random-veggie-egg-pancake.svg
+coverImage: /images/recipes/random-veggie-egg-pancake.webp
 servings: 1
 prepTime: 8
 cookTime: 10

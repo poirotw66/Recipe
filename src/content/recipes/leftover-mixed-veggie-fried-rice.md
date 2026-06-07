@@ -1,7 +1,7 @@
 ---
 title: "綜合蔬菜炒飯"
 description: "紅蘿蔔、高麗菜與白飯快炒，蔬菜清甜、飯粒帶鍋氣，一人份剛剛好。"
-coverImage: /images/recipes/leftover-mixed-veggie-fried-rice.svg
+coverImage: /images/recipes/leftover-mixed-veggie-fried-rice.webp
 servings: 1
 prepTime: 8
 cookTime: 10

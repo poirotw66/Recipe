@@ -1,7 +1,7 @@
 ---
 title: "家常蛋炒飯"
 description: "白飯與雞蛋大火快炒，蔥花提香，十四分鐘就能完成的一人份晚餐。"
-coverImage: /images/recipes/clearout-veggie-egg-fried-rice.svg
+coverImage: /images/recipes/clearout-veggie-egg-fried-rice.webp
 servings: 1
 prepTime: 6
 cookTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "十分鐘烏龍麵湯"
 description: "烏龍麵加柴魚高湯與簡單配料，十分鐘內完成暖胃麵食。"
-coverImage: /images/recipes/ten-minute-udon-soup.svg
+coverImage: /images/recipes/ten-minute-udon-soup.webp
 servings: 1
 prepTime: 5
 cookTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "薑絲肉燥飯"
 description: "絞肉與薑絲快炒成肉燥，蓋在白飯上，一人份剛好，香氣十足。"
-coverImage: /images/recipes/solo-ginger-pork-rice.svg
+coverImage: /images/recipes/solo-ginger-pork-rice.webp
 servings: 1
 prepTime: 8
 cookTime: 12

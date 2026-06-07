@@ -1,7 +1,7 @@
 ---
 title: "豆腐蔬菜清湯"
 description: "豆腐搭配高麗菜與紅蘿蔔煮成清湯，簡單調味就夠鮮，適合一個人的輕食晚餐。"
-coverImage: /images/recipes/clearout-tofu-veggie-soup.svg
+coverImage: /images/recipes/clearout-tofu-veggie-soup.webp
 servings: 1
 prepTime: 8
 cookTime: 12

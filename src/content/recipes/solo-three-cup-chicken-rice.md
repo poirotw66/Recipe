@@ -1,7 +1,7 @@
 ---
 title: "三杯雞蓋飯"
 description: "雞腿以醬油、米酒、麻油三杯比例燉煮，濃郁下飯，一人份剛好。"
-coverImage: /images/recipes/solo-three-cup-chicken-rice.svg
+coverImage: /images/recipes/solo-three-cup-chicken-rice.webp
 servings: 1
 prepTime: 10
 cookTime: 18

@@ -1,7 +1,7 @@
 ---
 title: "蛋花鹹粥"
 description: "白飯加水煮成綿密粥底，加入豆腐與蛋花，溫暖又省事的一人份晚餐。"
-coverImage: /images/recipes/mixed-leftover-congee.svg
+coverImage: /images/recipes/mixed-leftover-congee.webp
 servings: 1
 prepTime: 5
 cookTime: 15

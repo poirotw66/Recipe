@@ -1,7 +1,7 @@
 ---
 title: "豬肉青椒快炒"
 description: "新鮮豬肉與青椒快炒，蒜香嗆鍋，一人份 15 分鐘內完成的租屋族晚餐。"
-coverImage: /images/recipes/leftover-meat-quick-stirfry.svg
+coverImage: /images/recipes/leftover-meat-quick-stirfry.webp
 servings: 1
 prepTime: 6
 cookTime: 8

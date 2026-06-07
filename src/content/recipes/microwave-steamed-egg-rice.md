@@ -1,7 +1,7 @@
 ---
 title: "電子鍋蒸蛋蓋飯"
 description: "白飯與蒸蛋同時完成，軟嫩蒸蛋淋醬油蓋飯，一人份剛好。"
-coverImage: /images/recipes/microwave-steamed-egg-rice.svg
+coverImage: /images/recipes/microwave-steamed-egg-rice.webp
 servings: 1
 prepTime: 5
 cookTime: 12

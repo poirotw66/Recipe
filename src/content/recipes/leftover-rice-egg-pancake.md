@@ -1,7 +1,7 @@
 ---
 title: "米飯蛋煎餅"
 description: "白飯與蛋液混合煎成餅，外層微焦、內裡帶飯粒口感，簡單又飽足。"
-coverImage: /images/recipes/leftover-rice-egg-pancake.svg
+coverImage: /images/recipes/leftover-rice-egg-pancake.webp
 servings: 1
 prepTime: 6
 cookTime: 10

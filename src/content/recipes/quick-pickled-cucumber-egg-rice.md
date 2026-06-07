@@ -1,7 +1,7 @@
 ---
 title: "菜脯蛋飯"
 description: "菜脯與雞蛋快炒後蓋在白飯上，鹹香下飯，十分鐘就能完成。"
-coverImage: /images/recipes/quick-pickled-cucumber-egg-rice.svg
+coverImage: /images/recipes/quick-pickled-cucumber-egg-rice.webp
 servings: 1
 prepTime: 5
 cookTime: 8
