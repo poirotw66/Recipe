@@ -1,0 +1,17 @@
+{
+  "slug": "solo-mapo-tofu-rice-bowl",
+  "title": "麻婆豆腐蓋飯",
+  "reviewed_at": "2026-06-07",
+  "status": "Warning",
+  "confidence_score": 86,
+  "issues": [
+    {
+      "type": "Ingredient_Mismatch",
+      "code": "unused_ingredient",
+      "severity": "Warning",
+      "description": "食材／調味清單有「豬絞肉」，但步驟文字未出現（啟發式比對）。",
+      "suggested_fix": "在步驟中使用該材料，或從清單移除。",
+      "source": "precheck"
+    }
+  ]
+}

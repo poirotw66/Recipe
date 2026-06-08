@@ -7,9 +7,12 @@
     "recipes": "Recipes",
     "ingredients": "Ingredients",
     "scenarios": "Scenarios",
+    "quickMeals": "10 min",
+    "airFryer": "Air fryer",
     "brunch": "Brunch",
     "pasta": "Pasta",
     "beef": "Beef",
+    "restaurantReplicas": "Restaurant replicas",
     "fridge": "Fridge finder",
     "home": "Home"
   },

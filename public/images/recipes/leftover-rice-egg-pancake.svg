@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="米飯蛋煎餅">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#eef3e8"/><stop offset="100%" stop-color="#f5fde8"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#fffdf7" stroke="#4a7d2f" stroke-width="3" opacity="0.92"/>
+  <text x="80" y="280" fill="#2d2620" font-family="system-ui, 'Noto Sans TC', sans-serif" font-size="42" font-weight="700">米飯蛋煎餅</text>
+  <text x="80" y="340" fill="#6f6258" font-family="system-ui, sans-serif" font-size="22">Bloom Kitchen</text>
+</svg>

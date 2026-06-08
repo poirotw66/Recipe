@@ -1,7 +1,7 @@
 ---
 title: 番茄洋蔥滑蛋
 slug: tomato-onion-scrambled-eggs
-description: 番茄與洋蔥一起炒出酸甜底味，再拌入滑蛋，口感柔和很適合配飯。
+description: 番茄洋蔥炒蛋一人份，10 分鐘租屋族家常菜，酸甜鹹香適合配白飯或麵包。
 coverImage: /images/recipes/tomato-onion-scrambled-eggs.webp
 servings: 1
 prepTime: 6

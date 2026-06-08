@@ -1,5 +1,12 @@
 ---
-import { brandDisplayName, brandName, brandTagline, getSiteUrl, siteTitleSuffix } from "../lib/site";
+import {
+  brandDisplayName,
+  brandName,
+  brandTagline,
+  getSiteUrl,
+  gscVerification,
+  siteTitleSuffix
+} from "../lib/site";
 import {
   alternateUrlsForPath,
   detectLocaleFromPath,
@@ -25,7 +32,7 @@ const {
   title,
   description,
   canonicalPath = Astro.url.pathname,
-  ogImage = "/images/og-default.jpg",
+  ogImage = "/images/og-default.svg",
   type = "website",
   locale: localeProp,
   alternatePath,
@@ -42,6 +49,7 @@ const hreflangBase = alternatePath ?? stripLocalePrefix(canonicalPath);
 const alternates = alternateUrlsForPath(siteUrl, hreflangBase, alternateLocales);
 ---
 
+{gscVerification && <meta name="google-site-verification" content={gscVerification} />}
 <title>{fullTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />

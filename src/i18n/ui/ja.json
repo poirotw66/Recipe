@@ -7,9 +7,12 @@
     "recipes": "レシピ",
     "ingredients": "食材",
     "scenarios": "シーン",
+    "quickMeals": "10分",
+    "airFryer": "ノンフライヤー",
     "brunch": "ブランチ",
     "pasta": "パスタ",
     "beef": "牛肉",
+    "restaurantReplicas": "名店再現",
     "fridge": "冷蔵庫ツール",
     "home": "ホーム"
   },

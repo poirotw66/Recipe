@@ -1,0 +1,23 @@
+{
+  "slug": "water-lily-stem-pork-soup",
+  "title": "水蓮肉片湯",
+  "reviewed_at": "2026-06-03",
+  "status": "Critical",
+  "confidence_score": 88,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Critical",
+      "description": "步驟寫「下火蓮」，應為「下水蓮」（加入水蓮）。錯字導致核心食材名稱未出現在步驟中，讀者可能誤解為「關小火」或無法對照食材清單。",
+      "suggested_fix": "將所有步驟中的「下火蓮」改為「下水蓮」。",
+      "source": "agent"
+    },
+    {
+      "type": "Metadata_Mismatch",
+      "severity": "Warning",
+      "description": "情境標籤含「10 分鐘料理」，但 totalTime 為 18 分鐘，與實際流程不符。",
+      "suggested_fix": "改標「一人料理」或將 totalTime／步驟壓到 10 分鐘內，二擇一。",
+      "source": "agent"
+    }
+  ]
+}

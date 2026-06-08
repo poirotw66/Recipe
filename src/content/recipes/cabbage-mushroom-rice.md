@@ -1,7 +1,7 @@
 ---
 title: 高麗菜菇菇炊飯
 slug: cabbage-mushroom-rice
-description: 高麗菜菇菇炊飯用電鍋完成，適合清冰箱與省錢備餐。
+description: 高麗菜菇菇炊飯用電鍋完成，適合省錢備餐與一人份平日主食。
 coverImage: /images/recipes/cabbage-mushroom-rice.webp
 servings: 3
 prepTime: 8
@@ -14,9 +14,9 @@ fat: 6
 carbs: 82
 category: "飯麵"
 scenarios:
-- 冰箱清庫存
 - 省錢料理
 - 便當菜
+- 10 分鐘料理
 equipment:
 - 電鍋
 ingredients:
@@ -41,8 +41,8 @@ seasonings:
   unit: ''
 tags:
 - 電鍋
-- 清冰箱
-intro: 把剩下的高麗菜和菇類切一切丟進電鍋，就是很穩的備餐主食。
+- 家常
+intro: 把高麗菜和菇類切好鋪進電鍋，就是很穩的備餐主食。
 steps:
 - 白米洗淨後放入電鍋內鍋，水量比平常少一點。
 - 高麗菜切片、菇類撕小塊，和醬油一起鋪在米上。

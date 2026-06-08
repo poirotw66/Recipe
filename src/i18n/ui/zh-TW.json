@@ -7,9 +7,12 @@
     "recipes": "食譜",
     "ingredients": "食材",
     "scenarios": "情境",
+    "quickMeals": "10 分鐘",
+    "airFryer": "氣炸鍋",
     "brunch": "早午餐",
     "pasta": "義大利麵",
     "beef": "牛肉",
+    "restaurantReplicas": "名店還原",
     "fridge": "冰箱剩料",
     "home": "首頁"
   },

@@ -1,0 +1,17 @@
+{
+  "slug": "fridge-bottom-soup-noodles",
+  "title": "冰箱見底湯麵",
+  "reviewed_at": "2026-06-07",
+  "status": "Warning",
+  "confidence_score": 86,
+  "issues": [
+    {
+      "type": "Ingredient_Mismatch",
+      "code": "water_not_listed",
+      "severity": "Warning",
+      "description": "湯品步驟需要加水，但食材清單未標示水量。",
+      "suggested_fix": "在步驟或食材中標明水量（如 600 ml）。",
+      "source": "content_rules"
+    }
+  ]
+}

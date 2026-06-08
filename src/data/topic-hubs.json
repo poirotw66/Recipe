@@ -31,5 +31,40 @@
     "recipeTags": ["早午餐"],
     "commonIngredients": ["beef", "salmon", "shrimp", "egg", "chicken-breast", "mushroom"],
     "relatedScenarios": ["one-person-meal", "high-protein-meals", "ten-minute-meals"]
+  },
+  {
+    "name": "氣炸鍋專區",
+    "slug": "air-fryer",
+    "description": "收錄氣炸鍋一人份主菜與配菜，少顧鍋也能快速完成晚餐或便當。",
+    "seoTitle": "氣炸鍋料理食譜專區｜少顧鍋的一人份主菜",
+    "seoDescription": "氣炸鍋專區收錄鮭魚、雞胸肉、雞翅、豆腐與蔬菜等做法，適合租屋族平日晚餐。",
+    "tags": ["氣炸鍋", "少顧鍋", "一人份"],
+    "recipeTags": ["氣炸鍋"],
+    "recipeScenarios": ["氣炸鍋料理"],
+    "commonIngredients": ["chicken-breast", "salmon", "broccoli", "chicken-wings"],
+    "relatedScenarios": ["air-fryer-meals", "high-protein-meals", "bento-meals"]
+  },
+  {
+    "name": "名店還原專區",
+    "slug": "restaurant-replicas",
+    "description": "盡力還原台灣知名餐廳與米其林名店的代表菜，收錄完整工序、醬料比例與上桌份量，不刻意簡化成快手版。",
+    "seoTitle": "名店還原食譜專區｜台灣米其林與知名餐廳代表菜還原",
+    "seoDescription": "名店還原專區收錄富錦樹、欣葉、明福、鼎泰豐、元紀等名店代表菜的還原食譜，含樹子水蓮、菜脯蛋、鳳梨苦瓜雞湯與擔仔麵。",
+    "tags": ["名店還原", "台菜", "米其林"],
+    "recipeTags": ["名店還原"],
+    "commonIngredients": ["chicken", "pork", "egg", "water-lily-stem", "bitter-melon"],
+    "relatedScenarios": []
+  },
+  {
+    "name": "10 分鐘專區",
+    "slug": "quick-meals",
+    "description": "收錄 10 到 15 分鐘就能完成的一人份料理，適合忙碌平日晚餐與宵夜。",
+    "seoTitle": "10 分鐘料理食譜專區｜快速完成的一人份晚餐",
+    "seoDescription": "10 分鐘專區收錄炒飯、拌麵、湯品與快手主菜，從雞蛋、豆腐與常備食材快速開飯。",
+    "tags": ["10 分鐘", "快手", "一人份"],
+    "recipeTags": [],
+    "recipeScenarios": ["10 分鐘料理"],
+    "commonIngredients": ["egg", "tofu", "rice", "scallion"],
+    "relatedScenarios": ["ten-minute-meals", "one-person-meal", "late-night-meals"]
   }
 ]

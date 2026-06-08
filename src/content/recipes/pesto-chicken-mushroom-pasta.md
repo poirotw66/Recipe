@@ -16,7 +16,6 @@ category: "飯麵"
 scenarios:
 - 一人料理
 - 高蛋白料理
-- 冰箱清庫存
 equipment:
 - 湯鍋
 - 平底鍋

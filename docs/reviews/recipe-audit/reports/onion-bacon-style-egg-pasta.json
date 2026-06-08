@@ -1,8 +1,17 @@
 {
   "slug": "onion-bacon-style-egg-pasta",
   "title": "洋蔥蛋香義大利麵",
-  "reviewed_at": "2026-06-05",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-06-07",
+  "status": "Warning",
+  "confidence_score": 86,
+  "issues": [
+    {
+      "type": "Format_Inconsistency",
+      "code": "thin_steps",
+      "severity": "Warning",
+      "description": "步驟僅 0 則，低於 schema 至少 3 則。",
+      "suggested_fix": "補齊或拆分烹調步驟至至少 3 則。",
+      "source": "precheck"
+    }
+  ]
 }

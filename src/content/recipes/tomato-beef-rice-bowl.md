@@ -1,7 +1,7 @@
 ---
 title: 番茄牛肉燴飯
 slug: tomato-beef-rice-bowl
-description: 番茄酸甜汁包裹牛肉與白飯，口味開胃，也很適合處理剩番茄。
+description: 番茄酸甜汁包裹牛肉與白飯，口味開胃，適合平日晚餐的一人份蓋飯。
 coverImage: /images/recipes/tomato-beef-rice-bowl.webp
 servings: 1
 prepTime: 8
@@ -15,7 +15,6 @@ carbs: 68
 category: "飯麵"
 scenarios:
 - 一人料理
-- 冰箱清庫存
 equipment:
 - 平底鍋
 ingredients:

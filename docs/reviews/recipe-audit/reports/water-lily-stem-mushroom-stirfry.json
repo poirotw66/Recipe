@@ -1,0 +1,24 @@
+{
+  "slug": "water-lily-stem-mushroom-stirfry",
+  "title": "水蓮炒菇類",
+  "reviewed_at": "2026-06-03",
+  "status": "Critical",
+  "confidence_score": 90,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Critical",
+      "description": "步驟寫「下火蓮」，應為「下水蓮」（加入水蓮）。錯字導致核心食材名稱未出現在步驟中，讀者可能誤解為「關小火」或無法對照食材清單。",
+      "suggested_fix": "將所有步驟中的「下火蓮」改為「下水蓮」。",
+      "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "code": "step_mentions_unknown",
+      "severity": "Warning",
+      "description": "Precheck 將步驟「白胡椒」截斷為「胡椒」而誤報；食材表已列白胡椒，可忽略。",
+      "suggested_fix": "修正錯字後無需另改白胡椒欄位。",
+      "source": "precheck"
+    }
+  ]
+}

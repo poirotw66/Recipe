@@ -222,5 +222,117 @@
       "ja": "ノンフライヤー料理",
       "ko": "에어프라이어 요리"
     }
+  },
+  {
+    "name": "電鍋料理",
+    "slug": "electric-pot-meals",
+    "description": "用電鍋一次完成主食與配菜，適合租屋族不想顧多口鍋的平日料理。",
+    "seoTitle": "電鍋料理食譜｜一人份免顧鍋的家常做法",
+    "seoDescription": "整理適合電鍋的一人份料理，包含蒸雞胸、燉豆腐與簡易湯品，適合租屋族平日晚餐。",
+    "tags": [
+      "電鍋",
+      "免顧鍋",
+      "租屋"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals",
+      "budget-meals"
+    ],
+    "commonIngredients": [
+      "chicken-breast",
+      "tofu",
+      "rice"
+    ],
+    "labels": {
+      "zh-TW": "電鍋料理",
+      "en": "Electric pot meals",
+      "ja": "電気鍋料理",
+      "ko": "전기밥솥 요리"
+    }
+  },
+  {
+    "name": "剩飯料理",
+    "slug": "leftover-rice-meals",
+    "description": "把前一天的白飯變成炒飯、蓋飯或煎餅，減少浪費也更快開飯。",
+    "seoTitle": "剩飯料理食譜｜白飯變炒飯蓋飯的快手做法",
+    "seoDescription": "當冰箱裡還有剩飯時，可以從剩飯料理找炒飯、蓋飯與蛋煎餅，10 分鐘就能完成一人份晚餐。",
+    "tags": [
+      "剩飯",
+      "清冰箱",
+      "快手"
+    ],
+    "relatedScenarios": [
+      "fridge-cleanout-meals",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "commonIngredients": [
+      "rice",
+      "egg",
+      "scallion"
+    ],
+    "labels": {
+      "zh-TW": "剩飯料理",
+      "en": "Leftover rice meals",
+      "ja": "残りご飯料理",
+      "ko": "남은 밥 요리"
+    }
+  },
+  {
+    "name": "宵夜料理",
+    "slug": "late-night-meals",
+    "description": "深夜想填肚子但不想到太油膩或太複雜的輕量一人份料理。",
+    "seoTitle": "宵夜料理食譜｜深夜也能快速完成的一人份",
+    "seoDescription": "整理適合宵夜的輕量一人份料理，包含湯麵、炒飯與簡易小鍋菜，步驟短、油膩度適中。",
+    "tags": [
+      "宵夜",
+      "輕量",
+      "一人份"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal",
+      "budget-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "noodles",
+      "tofu"
+    ],
+    "labels": {
+      "zh-TW": "宵夜料理",
+      "en": "Late-night meals",
+      "ja": "夜食",
+      "ko": "야식"
+    }
+  },
+  {
+    "name": "無肉料理",
+    "slug": "meatless-meals",
+    "description": "以蛋、豆腐、蔬菜與菇類為主的一人份料理，不必開大火也能吃飽。",
+    "seoTitle": "無肉料理食譜｜蛋豆腐蔬菜的一人份做法",
+    "seoDescription": "想找無肉料理時，可以從豆腐、雞蛋、菇類與蔬菜出發，做出有飽足感的一人份平日晚餐。",
+    "tags": [
+      "無肉",
+      "蛋奶素",
+      "蔬菜"
+    ],
+    "relatedScenarios": [
+      "budget-meals",
+      "weight-loss-meals",
+      "fridge-cleanout-meals"
+    ],
+    "commonIngredients": [
+      "tofu",
+      "egg",
+      "mushroom"
+    ],
+    "labels": {
+      "zh-TW": "無肉料理",
+      "en": "Meatless meals",
+      "ja": "ノンミート料理",
+      "ko": "무고기 요리"
+    }
   }
 ]

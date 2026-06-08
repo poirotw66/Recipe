@@ -18,6 +18,12 @@ const faqShape = z.object({
   answer: z.string().min(1)
 });
 
+const restaurantSourceShape = z.object({
+  restaurant: z.string().min(1),
+  dishName: z.string().min(1).optional(),
+  region: z.string().min(1).optional()
+});
+
 export function defineRecipeSchema(
   difficultyValues: readonly [string, ...string[]],
   withRecipeId: boolean
@@ -44,6 +50,7 @@ export function defineRecipeSchema(
       ingredients: z.array(ingredientShape).min(1),
       seasonings: z.array(seasoningShape),
       tags: z.array(z.string().min(1)).default([]),
+      restaurantSource: restaurantSourceShape.optional(),
       intro: z.string().min(1),
       steps: z.array(z.string().min(1)).min(3),
       tips: z.array(z.string().min(1)).default([]),

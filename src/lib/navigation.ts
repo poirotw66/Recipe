@@ -16,9 +16,12 @@ export function getPrimaryNavLinks(locale: Locale): NavLink[] {
 
 export function getTopicNavLinks(locale: Locale): NavLink[] {
   return [
+    { href: localePath(locale, "/quick-meals"), label: t(locale, "nav.quickMeals") },
+    { href: localePath(locale, "/air-fryer"), label: t(locale, "nav.airFryer") },
     { href: localePath(locale, "/brunch"), label: t(locale, "nav.brunch") },
     { href: localePath(locale, "/pasta"), label: t(locale, "nav.pasta") },
-    { href: localePath(locale, "/beef"), label: t(locale, "nav.beef") }
+    { href: localePath(locale, "/beef"), label: t(locale, "nav.beef") },
+    { href: localePath(locale, "/restaurant-replicas"), label: t(locale, "nav.restaurantReplicas") }
   ];
 }
 

@@ -1,7 +1,7 @@
 ---
 title: 蒜香義大利麵
 slug: garlic-oil-pasta
-description: 用蒜頭、橄欖油與義大利麵做出清爽蒜香麵，15 分鐘內就能完成一人份晚餐。
+description: 一人份蒜香義大利麵，15 分鐘租屋族快手晚餐，蒜頭與橄欖油做出簡單鹹香麵食。
 coverImage: /images/recipes/garlic-oil-pasta.webp
 servings: 1
 prepTime: 5
@@ -41,7 +41,7 @@ seasonings:
 tags:
 - 義大利麵
 - 蒜香料理
-intro: 蒜香義大利麵材料少、步驟直覺，很適合平日晚餐或冰箱只剩麵條與蒜頭的時候。
+intro: 蒜香義大利麵材料少、步驟直覺，很適合平日晚餐快速開飯。
 steps:
 - 準備一鍋足量的沸水，加入約 1% 的鹽巴，下義大利麵條並依包裝說明指示時間減少 1-2 分鐘煮至八分熟（即中心仍保有些許硬度的彈牙 al dente 狀態），撈出瀝乾並拌入少許橄欖油防粘，保留約半杯高澱粉煮麵水備用。
 - 將蒜頭去皮洗淨後切成均勻的薄片（均勻厚度能確保受熱一致），平底鍋倒入優質橄欖油與蒜片，以小火冷油慢火煸炒，使蒜香徐徐釋放到油中，至蒜片邊緣呈淡淡金黃色，注意控制火候切勿炒焦發苦。
@@ -59,7 +59,7 @@ faqs:
 relatedIngredients:
 - 義大利麵
 - 蒜頭
-featured: true
+featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-06-03'
 customAdditions:

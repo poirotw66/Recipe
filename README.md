@@ -52,6 +52,10 @@ Environment variables:
 PUBLIC_SITE_URL=https://recipe.bloss0m.com
 PUBLIC_SITE_NAME=Bloom Kitchen
 PUBLIC_ADSENSE_CLIENT=ca-pub-xxxxxxxxxxxxxxxx
+PUBLIC_GA_MEASUREMENT_ID=G-TWXMDN1TJD
+PUBLIC_GSC_VERIFICATION=your-search-console-verification-token
 ```
 
 Before AdSense submission, replace `public/ads.txt` with the real publisher entry.
+
+`PUBLIC_GA_MEASUREMENT_ID` enables GA4 when set. `PUBLIC_GSC_VERIFICATION` is optional (HTML tag method only); DNS verification does not need it. See `docs/ops/search-console-setup.md`.

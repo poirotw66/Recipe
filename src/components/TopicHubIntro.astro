@@ -15,10 +15,11 @@ interface Props {
   label: string;
   heroCover: string;
   recipeCount: number;
+  secondaryStat?: string;
   featured?: FeaturedRecipe;
 }
 
-const { hub, label, heroCover, recipeCount, featured } = Astro.props;
+const { hub, label, heroCover, recipeCount, secondaryStat = "一人份友善", featured } = Astro.props;
 ---
 
 <article class="hub-hero">
@@ -33,8 +34,8 @@ const { hub, label, heroCover, recipeCount, featured } = Astro.props;
     <h1 class="page-title">{hub.name}</h1>
     <p class="page-copy">{hub.description}</p>
     <div class="hub-stats">
-      <span class="hub-stat">{recipeCount} 道主盤</span>
-      <span class="hub-stat">一人份友善</span>
+      <span class="hub-stat">{recipeCount} 道食譜</span>
+      <span class="hub-stat">{secondaryStat}</span>
     </div>
   </div>
 </article>

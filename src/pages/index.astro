@@ -4,13 +4,28 @@ import RecipeCard from "../components/RecipeCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { brandDisplayName } from "../lib/site";
 import { getFeaturedRecipes, getLatestRecipes } from "../lib/recipes";
-import { ingredientItems, scenarioItems } from "../lib/taxonomy";
+import { getPopularIngredients, scenarioItems } from "../lib/taxonomy";
 
-const quickIngredients = ingredientItems.slice(0, 6).map((item) => item.name);
+const allRecipes = await getCollection("recipes");
+const quickIngredients = getPopularIngredients(allRecipes, 6).map((item) => item.name);
 const featuredScenarios = scenarioItems.slice(0, 6);
-const popularIngredients = ingredientItems.slice(0, 8);
+const popularIngredients = getPopularIngredients(allRecipes, 8);
 
 const topicHubCards = [
+  {
+    href: "/quick-meals/",
+    label: "Quick",
+    title: "10 分鐘專區",
+    description: "忙碌平日晚餐與宵夜，從炒飯、拌麵到快手主菜快速開飯。",
+    cover: "/images/recipes/quick-kimchi-fried-rice.webp"
+  },
+  {
+    href: "/air-fryer/",
+    label: "Air Fryer",
+    title: "氣炸鍋專區",
+    description: "少顧鍋的一人份主菜，雞肉、海鮮與蔬菜都能快速完成。",
+    cover: "/images/recipes/air-fryer-salmon-broccoli.webp"
+  },
   {
     href: "/brunch/",
     label: "Brunch",
@@ -31,10 +46,16 @@ const topicHubCards = [
     title: "義大利麵專區",
     description: "青醬、蒜香、番茄與白醬麵，從雞肉到海鮮一次找齊。",
     cover: "/images/recipes/garlic-cream-shrimp-pasta.webp"
+  },
+  {
+    href: "/restaurant-replicas/",
+    label: "Replica",
+    title: "名店還原專區",
+    description: "還原富錦樹、欣葉、明福、鼎泰豐等名店代表菜，完整工序與上桌份量。",
+    cover: "/images/recipes/solo-three-cup-chicken-rice.webp"
   }
 ];
 
-const allRecipes = await getCollection("recipes");
 const featuredRecipes = getFeaturedRecipes(allRecipes, 3);
 const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestRecipes(allRecipes, 3);
 ---

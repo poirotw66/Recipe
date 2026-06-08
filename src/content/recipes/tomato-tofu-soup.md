@@ -16,7 +16,6 @@ category: "湯品"
 scenarios:
 - 一人料理
 - 減脂料理
-- 冰箱清庫存
 equipment:
 - 湯鍋
 ingredients:

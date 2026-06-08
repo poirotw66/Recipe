@@ -15,7 +15,7 @@ carbs: 18
 category: "湯品"
 scenarios:
 - 省錢料理
-- 冰箱清庫存
+- 10 分鐘料理
 equipment:
 - 湯鍋
 ingredients:

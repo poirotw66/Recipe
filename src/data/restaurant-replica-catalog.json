@@ -1,0 +1,192 @@
+{
+  "categories": [
+    {
+      "slug": "michelin-taiwanese",
+      "name": "米其林台菜",
+      "description": "摘星與入選的精緻台菜名店，以宴席技法與經典味型為還原目標。",
+      "restaurants": [
+        {
+          "name": "金蓬萊遵古台菜",
+          "region": "台北天母",
+          "tier": "michelin-1",
+          "signatureDishes": [
+            { "name": "排骨酥", "priority": "P0", "status": "planned" },
+            { "name": "嫩煎豬肝", "priority": "P0", "status": "planned" },
+            { "name": "紅蟳油飯", "priority": "P1", "status": "planned" },
+            { "name": "肚包雞", "priority": "P1", "status": "planned" }
+          ]
+        },
+        {
+          "name": "明福台菜海鮮",
+          "region": "台北中山",
+          "tier": "michelin-1",
+          "signatureDishes": [
+            { "name": "菜脯蛋", "priority": "P0", "status": "planned" },
+            { "name": "三杯中卷", "priority": "P0", "status": "planned" },
+            { "name": "鳳梨苦瓜雞湯", "priority": "P0", "status": "planned" },
+            { "name": "一品佛跳牆", "priority": "P2", "status": "planned" }
+          ]
+        },
+        {
+          "name": "富錦樹台菜香檳",
+          "region": "台北",
+          "tier": "michelin-1",
+          "signatureDishes": [
+            { "name": "樹子水蓮", "priority": "P0", "status": "planned" },
+            { "name": "老皮嫩肉", "priority": "P1", "status": "planned" },
+            { "name": "松花蒼蠅頭", "priority": "P1", "status": "planned" },
+            { "name": "白斬雞", "priority": "P1", "status": "planned" }
+          ]
+        },
+        {
+          "name": "元紀．台灣菜",
+          "region": "台中",
+          "tier": "michelin-1",
+          "signatureDishes": [
+            { "name": "梅香燒嫩雞", "priority": "P0", "status": "planned" },
+            { "name": "菜脯白玉燉鮮雞", "priority": "P0", "status": "planned" },
+            { "name": "芥末椒鹽烏魚胗", "priority": "P1", "status": "planned" },
+            { "name": "客家炒粿條", "priority": "P1", "status": "planned" }
+          ]
+        },
+        {
+          "name": "山海樓",
+          "region": "台北",
+          "tier": "michelin-1",
+          "signatureDishes": [
+            { "name": "紅燒土魠", "priority": "P1", "status": "planned" },
+            { "name": "刈包", "priority": "P2", "status": "planned" }
+          ]
+        },
+        {
+          "name": "米香台菜餐廳",
+          "region": "台北",
+          "tier": "michelin-1",
+          "signatureDishes": [
+            { "name": "黑棗蜜汁排骨", "priority": "P1", "status": "planned" },
+            { "name": "炒水蓮", "priority": "P2", "status": "planned" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "classic-taiwanese",
+      "name": "經典台菜與酒家菜",
+      "description": "老台菜、酒家菜與創始店型譜，還原醬色、火候與配菜邏輯。",
+      "restaurants": [
+        {
+          "name": "欣葉台菜創始店",
+          "region": "台北晴光",
+          "tier": "classic",
+          "signatureDishes": [
+            { "name": "菜脯蛋", "priority": "P0", "status": "planned" },
+            { "name": "香煎豬肝", "priority": "P0", "status": "planned" },
+            { "name": "潤餅", "priority": "P1", "status": "planned" },
+            { "name": "三杯雞", "priority": "P1", "status": "planned" }
+          ]
+        },
+        {
+          "name": "蓬萊邨",
+          "region": "台北",
+          "tier": "classic",
+          "signatureDishes": [
+            { "name": "東坡肉", "priority": "P2", "status": "planned" },
+            { "name": "蟹黃豆腐", "priority": "P2", "status": "planned" }
+          ]
+        },
+        {
+          "name": "小品雅廚",
+          "region": "台北",
+          "tier": "bib-gourmand",
+          "signatureDishes": [
+            { "name": "鹹粥", "priority": "P1", "status": "planned" },
+            { "name": "清粥熱炒小菜組合", "priority": "P1", "status": "planned" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "famous-snacks",
+      "name": "國民小吃與麵食名店",
+      "description": "從麵線、牛肉麵到小籠與擔仔麵，還原湯頭、麵體與醬料比例。",
+      "restaurants": [
+        {
+          "name": "鼎泰豐",
+          "region": "全台",
+          "tier": "bib-gourmand",
+          "signatureDishes": [
+            { "name": "小籠包", "priority": "P2", "status": "planned" },
+            { "name": "苦瓜排骨湯", "priority": "P0", "status": "planned" },
+            { "name": "糖醋排骨", "priority": "P0", "status": "planned" },
+            { "name": "菜肉大包", "priority": "P1", "status": "planned" }
+          ]
+        },
+        {
+          "name": "度小月",
+          "region": "台北／台南",
+          "tier": "classic",
+          "signatureDishes": [
+            { "name": "擔仔麵", "priority": "P0", "status": "planned" }
+          ]
+        },
+        {
+          "name": "林東芳牛肉麵",
+          "region": "台北",
+          "tier": "classic",
+          "signatureDishes": [
+            { "name": "紅燒牛肉麵", "priority": "P1", "status": "planned" }
+          ]
+        },
+        {
+          "name": "阜杭豆漿",
+          "region": "台北",
+          "tier": "classic",
+          "signatureDishes": [
+            { "name": "鹹豆漿", "priority": "P1", "status": "planned" },
+            { "name": "厚燒餅", "priority": "P2", "status": "planned" }
+          ]
+        },
+        {
+          "name": "矮仔成",
+          "region": "台南",
+          "tier": "classic",
+          "signatureDishes": [
+            { "name": "蝦仁飯", "priority": "P1", "status": "planned" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "michelin-fine-dining",
+      "name": "米其林精緻料理",
+      "description": "三星與時尚料理餐廳，作為技法與擺盤靈感；還原門檻較高，列為長期目標。",
+      "restaurants": [
+        {
+          "name": "頤宮 Le Palais",
+          "region": "台北",
+          "tier": "michelin-3",
+          "signatureDishes": [
+            { "name": "炸豆腐奶", "priority": "P2", "status": "planned" },
+            { "name": "火焰片皮鴨", "priority": "P2", "status": "planned" }
+          ]
+        },
+        {
+          "name": "態芮 Taïrroir",
+          "region": "台北",
+          "tier": "michelin-3",
+          "signatureDishes": [
+            { "name": "時尚台菜套餐單品", "priority": "P2", "status": "planned" }
+          ]
+        },
+        {
+          "name": "JL Studio",
+          "region": "台中",
+          "tier": "michelin-3",
+          "signatureDishes": [
+            { "name": "香料台灣食材主菜", "priority": "P2", "status": "planned" }
+          ]
+        }
+      ]
+    }
+  ]
+}

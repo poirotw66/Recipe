@@ -28,6 +28,10 @@ const requiredFiles = [
   "src/pages/contact.astro",
   "src/pages/privacy-policy.astro",
   "src/pages/terms.astro",
+  "src/pages/404.astro",
+  "public/images/og-default.svg",
+  "docs/ops/search-console-setup.md",
+  "docs/ops/monthly-traffic-review.md",
   "src/pages/robots.txt.ts",
   "src/pages/sitemap-index.xml.ts",
   "src/pages/sitemap-pages.xml.ts",
@@ -140,6 +144,25 @@ if (!ads.includes("google.com") && !ads.includes("PLACEHOLDER")) {
 
 if (!siteConfig.includes('brandDisplayName') || !siteConfig.includes("bloom-picker")) {
   console.error("Spec-010 requires Bloom Kitchen brand constants and Bloss0m ecosystem URLs in site.ts.");
+  process.exit(1);
+}
+
+if (
+  !siteConfig.includes("PUBLIC_GA_MEASUREMENT_ID") ||
+  !siteConfig.includes("gaReady") ||
+  !baseLayout.includes("googletagmanager.com/gtag/js")
+) {
+  console.error("Spec-014 requires GA4 measurement ID support in site.ts and BaseLayout.");
+  process.exit(1);
+}
+
+if (!seoHead.includes("google-site-verification") || !seoHead.includes("gscVerification")) {
+  console.error("SeoHead must support optional Search Console verification meta (spec-014).");
+  process.exit(1);
+}
+
+if (!seoHead.includes("/images/og-default.svg")) {
+  console.error("SeoHead must default to /images/og-default.svg (spec-014).");
   process.exit(1);
 }
 
@@ -274,6 +297,27 @@ if (ingredients.length < 12 || scenarios.length < 8) {
   process.exit(1);
 }
 
+if (ingredients.length < 30) {
+  console.error(`Spec-016 requires at least 30 ingredients; found ${ingredients.length}.`);
+  process.exit(1);
+}
+
+if (scenarios.length < 12) {
+  console.error(`Spec-016 requires at least 12 scenarios; found ${scenarios.length}.`);
+  process.exit(1);
+}
+
+const topicHubs = JSON.parse(read("src/data/topic-hubs.json"));
+if (!topicHubs.some((hub) => hub.slug === "air-fryer") || !topicHubs.some((hub) => hub.slug === "quick-meals")) {
+  console.error("Spec-018 requires air-fryer and quick-meals topic hubs.");
+  process.exit(1);
+}
+
+if (!topicHubs.some((hub) => hub.slug === "restaurant-replicas")) {
+  console.error("Restaurant replicas topic hub is missing from topic-hubs.json.");
+  process.exit(1);
+}
+
 const scenarioSlugs = scenarios.map((item) => item.slug);
 for (const slug of ["fridge-cleanout-meals", "air-fryer-meals"]) {
   if (!scenarioSlugs.includes(slug)) {
@@ -285,7 +329,26 @@ for (const slug of ["fridge-cleanout-meals", "air-fryer-meals"]) {
 const pageExpectations = [
   {
     file: "src/pages/index.astro",
-    markers: ["data-home-search-error", "data-home-search-input", "/tools/fridge-recipe", "RecipeCard", "topic-hub-grid", "topic-card", "#fridge-results"]
+    markers: [
+      "data-home-search-error",
+      "data-home-search-input",
+      "/tools/fridge-recipe",
+      "RecipeCard",
+      "topic-hub-grid",
+      "topic-card",
+      "#fridge-results",
+      "/quick-meals/",
+      "/air-fryer/",
+      "/restaurant-replicas/"
+    ]
+  },
+  {
+    file: "src/pages/air-fryer/index.astro",
+    markers: ["getTopicHubBySlug", "RecipeCard", "/air-fryer/"]
+  },
+  {
+    file: "src/pages/quick-meals/index.astro",
+    markers: ["getTopicHubBySlug", "RecipeCard", "/quick-meals/"]
   },
   {
     file: "src/pages/brunch/index.astro",
@@ -298,6 +361,10 @@ const pageExpectations = [
   {
     file: "src/pages/pasta/index.astro",
     markers: ["TopicHubIntro", "hub-section"]
+  },
+  {
+    file: "src/pages/restaurant-replicas/index.astro",
+    markers: ["getTopicHubBySlug", "restaurant-replica-catalog.json", "/restaurant-replicas/"]
   },
   {
     file: "src/components/TopicHubIntro.astro",
@@ -316,16 +383,16 @@ const pageExpectations = [
     markers: ["RecipeCard", "getIngredientsByCategory", "scenarioItems", "buildItemListJsonLd", "Breadcrumb"]
   },
   {
-    file: "src/pages/ingredients/[slug].astro",
-    markers: ["buildDefinedTermJsonLd", "getStaticPaths", "buildItemListJsonLd"]
-  },
-  {
     file: "src/pages/scenarios/index.astro",
     markers: ["scenarioItems", "buildCollectionPageJsonLd", "buildItemListJsonLd", "Breadcrumb"]
   },
   {
     file: "src/pages/scenarios/[slug].astro",
-    markers: ["buildThingJsonLd", "getStaticPaths", "buildItemListJsonLd"]
+    markers: ["本情境熱門", "buildThingJsonLd", "getStaticPaths", "buildItemListJsonLd"]
+  },
+  {
+    file: "src/pages/ingredients/[slug].astro",
+    markers: ["用這個食材還能做", "buildDefinedTermJsonLd"]
   },
   {
     file: "src/pages/about.astro",
@@ -337,7 +404,11 @@ const pageExpectations = [
   },
   {
     file: "src/pages/privacy-policy.astro",
-    markers: ["Google AdSense", "Cookie", "contactEmail"]
+    markers: ["Google Analytics", "Google AdSense", "Cookie", "contactEmail"]
+  },
+  {
+    file: "src/pages/404.astro",
+    markers: ["找不到頁面", "/recipes/", "/tools/fridge-recipe/"]
   },
   {
     file: "src/pages/terms.astro",

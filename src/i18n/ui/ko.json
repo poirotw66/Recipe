@@ -7,9 +7,12 @@
     "recipes": "레시피",
     "ingredients": "재료",
     "scenarios": "상황",
+    "quickMeals": "10분",
+    "airFryer": "에어프라이어",
     "brunch": "브런치",
     "pasta": "파스타",
     "beef": "소고기",
+    "restaurantReplicas": "명점 재현",
     "fridge": "냉장고 도구",
     "home": "홈"
   },

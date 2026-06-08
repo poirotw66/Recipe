@@ -15,7 +15,7 @@ carbs: 23
 category: "家常菜"
 scenarios:
 - 省錢料理
-- 冰箱清庫存
+- 10 分鐘料理
 equipment:
 - 平底鍋
 ingredients:
@@ -74,4 +74,4 @@ customAdditions:
 
 
 
-當冰箱只剩常備蔬菜和蛋，這道菜就是最穩定的救援選項。
+當手邊只有常備蔬菜與雞蛋，這道菜就是最穩定的快手選項。
