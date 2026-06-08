@@ -1,0 +1,66 @@
+---
+title: Air-Fryer Garlic Okra
+recipeId: air-fryer-garlic-okra
+description: Okra brushed with garlic oil and air-fried—lightly charred outside, tender inside, simple and rice-friendly.
+coverImage: /images/recipes/air-fryer-garlic-okra.webp
+servings: 1
+prepTime: 8
+cookTime: 10
+totalTime: 18
+difficulty: Easy
+calories: 120
+protein: 4
+fat: 8
+carbs: 10
+category: "Home cooking"
+scenarios:
+- Air fryer cooking
+- Cooking for one
+equipment:
+- Air fryer
+tags:
+- Cooking for one
+- Air fryer
+- Vegetables
+tips:
+- Don’t split okra—whole pods keep mucilage and texture better.
+substitutions:
+- Green beans
+relatedIngredients:
+- 秋葵
+customAdditions: []
+ingredients:
+- name: Okra
+  amount: '150'
+  unit: g
+  isCore: true
+seasonings:
+- name: Garlic
+  amount: '3'
+  unit: cloves
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
+- name: Salt
+  amount: pinch
+  unit: ''
+- name: Black pepper
+  amount: pinch
+  unit: ''
+intro: Wash okra and dry thoroughly; oil before air-frying so it doesn’t steam soft.
+steps:
+- Trim okra stems; pat dry. Mince garlic.
+- Toss okra with olive oil, garlic, salt, and pepper.
+- Preheat air fryer to 190°C for 3 minutes; arrange in one layer.
+- Air-fry at 190°C for 5 minutes, flip, then 4 more until edges char lightly.
+- Optional extra minced garlic on top; serve hot.
+storage: Best fresh; reheated okra softens.
+faqs:
+- question: I dislike slimy okra?
+  answer: Air-fry 2 minutes longer for crisper edges—mucilage feels less pronounced.
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: '2026-06-03'
+---
+
+A quick summer vegetable side for one.
