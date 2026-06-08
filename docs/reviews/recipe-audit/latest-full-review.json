@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-06-07",
-  "recipe_count": 150,
-  "pass": 45,
-  "warning": 105,
+  "generated_at": "2026-06-08",
+  "recipe_count": 161,
+  "pass": 152,
+  "warning": 9,
   "critical": 0,
-  "summary_markdown": "C:\\Users\\sora0\\Desktop\\Recipe\\docs\\reviews\\recipe-audit\\audit-summary-2026-06-07-full-100.md",
+  "summary_markdown": "docs/reviews/recipe-audit/audit-summary-2026-06-08-full-100.md",
   "slugs": [
     {
       "slug": "air-fryer-butter-corn",
       "title": "氣炸奶油玉米",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "air-fryer-crispy-chicken-bites",
       "title": "氣炸台式雞塊",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "air-fryer-crispy-tofu-cubes",
       "title": "氣炸酥炸豆腐丁",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "air-fryer-garlic-mushrooms",
       "title": "氣炸蒜香菇類",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "air-fryer-garlic-okra",
       "title": "氣炸蒜香秋葵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "air-fryer-garlic-pork-chop",
       "title": "氣炸蒜香豬排",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "air-fryer-garlic-shrimp",
       "title": "氣炸蒜香蝦仁",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "air-fryer-honey-sweet-potato",
       "title": "氣炸蜜蕃薯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "air-fryer-lemon-fish-fillet",
       "title": "氣炸檸檬魚排",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "air-fryer-salmon-broccoli",
       "title": "氣炸鮭魚青花菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "air-fryer-soy-chicken-wings",
@@ -64,37 +64,37 @@
     {
       "slug": "airfryer-garlic-chicken-broccoli",
       "title": "氣炸蒜香雞胸佐青花菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "airfryer-tofu-mushroom-main",
       "title": "氣炸豆腐菇菇主菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "beef-broccoli-stirfry",
       "title": "牛肉青花快炒",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "beef-carrot-soup",
       "title": "紅蘿蔔牛肉湯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "beef-mushroom-stirfry",
       "title": "牛肉炒香菇",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "beef-tofu-braise",
       "title": "牛肉豆腐燉煮",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "beef-tomato-noodles",
       "title": "番茄牛肉麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "bento-black-pepper-beef",
@@ -124,22 +124,22 @@
     {
       "slug": "broccoli-mushroom-chicken-rice-bowl",
       "title": "青花菜菇菇雞胸飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "broccoli-mushroom-egg",
       "title": "青花菜菇菇炒蛋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "broccoli-onion-chicken-soup",
       "title": "青花菜洋蔥雞湯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "broccoli-tofu-garlic-stirfry",
       "title": "青花菜豆腐蒜炒",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "budget-cabbage-noodle-soup",
@@ -159,37 +159,37 @@
     {
       "slug": "butter-garlic-instant-noodles",
       "title": "奶油蒜香泡麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "cabbage-carrot-chicken-rice-bowl",
       "title": "高麗菜紅蘿蔔雞胸飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "cabbage-egg-stir-fry",
       "title": "高麗菜炒蛋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "cabbage-mushroom-clear-soup",
       "title": "高麗菜菇菇清湯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "cabbage-mushroom-rice",
       "title": "高麗菜菇菇炊飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "cabbage-onion-eggs",
       "title": "高麗菜洋蔥炒蛋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "cabbage-tofu-egg-drop-soup",
       "title": "高麗菜豆腐蛋花湯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "cajun-fries",
@@ -199,22 +199,22 @@
     {
       "slug": "canned-tuna-rice-bowl",
       "title": "鮪魚罐頭飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "carrot-chicken-rice-bowl",
       "title": "紅蘿蔔雞胸飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "chefs-daily-soup",
       "title": "主廚每日例湯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "chicken-broccoli-pasta",
       "title": "雞胸青花義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "classic-caesar-chicken-salad",
@@ -223,7 +223,7 @@
     },
     {
       "slug": "clearout-tofu-veggie-soup",
-      "title": "清冰箱豆腐蔬菜湯",
+      "title": "豆腐蔬菜清湯",
       "status": "Pass"
     },
     {
@@ -234,7 +234,7 @@
     {
       "slug": "creamy-mushroom-pasta",
       "title": "奶香菇類義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "crispy-cod-brunch",
@@ -244,7 +244,7 @@
     {
       "slug": "curry-beef-rice",
       "title": "咖哩牛肉飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "egg-scallion-oil-noodles",
@@ -254,17 +254,17 @@
     {
       "slug": "electricpot-broccoli-chicken-bento",
       "title": "電鍋青花菜雞胸便當菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "electricpot-mushroom-chicken-bento",
       "title": "電鍋菇菇雞胸便當菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "electricpot-tofu-egg-bento-side",
       "title": "電鍋豆腐蛋便當菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "fish-and-chips",
@@ -273,7 +273,7 @@
     },
     {
       "slug": "fridge-bottom-soup-noodles",
-      "title": "冰箱見底湯麵",
+      "title": "什錦蔬菜湯麵",
       "status": "Warning"
     },
     {
@@ -289,12 +289,12 @@
     {
       "slug": "garlic-beef-cabbage-stirfry",
       "title": "蒜香牛肉炒高麗菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "garlic-cabbage-tofu-braise",
       "title": "蒜頭高麗菜豆腐煮",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "garlic-cream-shrimp-pasta",
@@ -304,37 +304,37 @@
     {
       "slug": "garlic-egg-cabbage-bento-side",
       "title": "蒜香蛋炒高麗菜便當菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "garlic-mushroom-chicken",
       "title": "蒜香菇菇雞胸",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "garlic-mushroom-tofu-rice-bowl",
       "title": "蒜香菇豆腐拌飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "garlic-oil-pasta",
       "title": "蒜香義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "garlic-tofu-chicken-pan-main",
       "title": "蒜香豆腐雞胸主菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "garlic-tomato-chicken-rice-bowl",
       "title": "蒜香番茄雞胸飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "garlic-tomato-tofu-eggs",
       "title": "蒜香番茄豆腐炒蛋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "herb-pan-chicken-brunch",
@@ -364,7 +364,7 @@
     {
       "slug": "honey-cajun-chicken-wings",
       "title": "蜜汁紐澳良雞翅",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "instant-miso-egg-soup",
@@ -383,7 +383,7 @@
     },
     {
       "slug": "leftover-rice-egg-pancake",
-      "title": "剩飯蛋餅",
+      "title": "米飯蛋煎餅",
       "status": "Pass"
     },
     {
@@ -399,17 +399,17 @@
     {
       "slug": "mushroom-beef-rice-bowl",
       "title": "香菇牛肉蓋飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "mushroom-cabbage-rice-bowl",
       "title": "菇菇高麗菜燴飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "mushroom-scallion-soft-eggs",
       "title": "菇菇青蔥滑蛋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "mushroom-soft-egg-brunch",
@@ -419,47 +419,47 @@
     {
       "slug": "onion-bacon-style-egg-pasta",
       "title": "洋蔥蛋香義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "onion-beef-rice-bowl",
       "title": "洋蔥牛肉蓋飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "onion-beef-slices",
       "title": "洋蔥牛肉片",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "onion-cabbage-mushroom-saute",
       "title": "洋蔥高麗菜菇菇炒",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "onion-carrot-egg-bento-side",
       "title": "洋蔥紅蘿蔔炒蛋便當菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "onion-egg-rice-bowl",
       "title": "洋蔥滑蛋飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "onion-garlic-tofu-eggs",
       "title": "洋蔥蒜香豆腐炒蛋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "onion-salmon-pan-steak",
       "title": "洋蔥香煎鮭魚排",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "onion-tomato-egg-fried-rice",
       "title": "洋蔥番茄蛋炒飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "pan-seared-flap-steak-brunch",
@@ -469,42 +469,42 @@
     {
       "slug": "pesto-chicken-broccoli-pasta",
       "title": "青蔥蒜香雞肉青花義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "pesto-chicken-mushroom-pasta",
       "title": "青蔥蒜香雞肉菇類義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "pesto-chicken-pasta",
       "title": "青蔥蒜香雞胸義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "pesto-salmon-broccoli-pasta",
       "title": "青蔥蒜香鮭魚青花義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "pesto-salmon-pasta",
       "title": "青蔥蒜香鮭魚義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "pesto-shrimp-pasta",
       "title": "青蔥蒜香蝦仁義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "pesto-style-scallion-pasta",
       "title": "青蔥風味義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "quick-kimchi-fried-rice",
       "title": "快速泡菜炒飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "quick-pickled-cucumber-egg-rice",
@@ -524,52 +524,52 @@
     {
       "slug": "salmon-broccoli-garlic-main",
       "title": "蒜香鮭魚青花菜主菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "salmon-garlic-pasta",
       "title": "蒜香鮭魚義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "scallion-beef-fried-rice",
       "title": "蔥花牛肉炒飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "scallion-beef-stirfry",
       "title": "蔥爆牛肉",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "scallion-chicken-rice-bowl",
       "title": "青蔥雞胸拌飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "scallion-egg-rice",
       "title": "蔥蛋拌飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "scallion-garlic-pasta",
       "title": "青蔥蒜香義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "scallion-mushroom-egg-pan",
       "title": "青蔥菇菇蛋煎盤",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "scallion-oil-dry-noodles",
       "title": "蔥油乾麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "seasonal-greens-salad-bowl",
       "title": "季節鮮蔬沙拉碗",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sesame-cold-noodles-solo",
@@ -579,7 +579,7 @@
     {
       "slug": "sesame-onion-chicken-rice-bowl",
       "title": "麻油洋蔥雞胸拌飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "smoked-salmon-brunch",
@@ -629,12 +629,12 @@
     {
       "slug": "soy-garlic-beef-slices",
       "title": "醬蒜牛肉片",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "soy-garlic-chicken-breast-pan",
       "title": "醬香蒜煎雞胸",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "spicy-garlic-bacon-pasta",
@@ -649,7 +649,7 @@
     {
       "slug": "steamed-chicken-bento",
       "title": "電鍋雞胸便當菜",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "surf-turf-brunch",
@@ -664,76 +664,131 @@
     {
       "slug": "tofu-cabbage-mushroom-stirfry",
       "title": "豆腐高麗菜菇菇炒",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tofu-egg-savory-rice-bowl",
       "title": "豆腐蛋香拌飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tofu-scrambled-eggs",
       "title": "豆腐炒蛋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tofu-tomato-pasta",
       "title": "豆腐番茄義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-beef-rice-bowl",
       "title": "番茄牛肉燴飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-broccoli-egg-rice",
       "title": "番茄青花菜蛋炒飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-cabbage-soft-eggs",
       "title": "番茄高麗菜滑蛋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-egg-rice",
       "title": "番茄雞蛋飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-egg-tofu-light-soup",
       "title": "番茄蛋豆腐清湯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-garlic-cabbage-eggs",
       "title": "番茄蒜香高麗菜炒蛋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-garlic-pasta",
       "title": "番茄蒜香義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-onion-scrambled-eggs",
       "title": "番茄洋蔥滑蛋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-onion-tofu-soup",
       "title": "番茄洋蔥豆腐湯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-tofu-soup",
       "title": "番茄豆腐湯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "truffle-mushroom-farfalle",
       "title": "黑松露野菇蝴蝶麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-chicken-rice-bowl",
+      "title": "水蓮雞肉蓋飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-clear-soup",
+      "title": "水蓮清湯",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-egg-stirfry",
+      "title": "水蓮炒蛋",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-fish-ball-noodles",
+      "title": "水蓮貢丸湯麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-garlic-stirfry",
+      "title": "蒜蓉炒水蓮",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-mushroom-stirfry",
+      "title": "水蓮炒菇類",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-oyster-sauce",
+      "title": "蠔油炒水蓮",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-pork-soup",
+      "title": "水蓮肉片湯",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-sesame-toss",
+      "title": "麻油拌水蓮",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-shrimp-stirfry",
+      "title": "水蓮炒蝦仁",
+      "status": "Pass"
+    },
+    {
+      "slug": "water-lily-stem-tofu-braise",
+      "title": "水蓮燒豆腐",
       "status": "Pass"
     },
     {
@@ -754,7 +809,7 @@
     {
       "slug": "white-sauce-chicken-pasta",
       "title": "白醬雞肉義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     }
   ]
 }

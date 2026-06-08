@@ -1,7 +1,7 @@
 ---
 title: "減脂鮮蝦沙拉"
 description: "蝦仁與大量蔬菜拌成沙拉，低油低碳水，夏天減脂也適合。"
-coverImage: /images/recipes/weight-loss-shrimp-veg-salad.svg
+coverImage: /images/recipes/weight-loss-shrimp-veg-salad.webp
 servings: 1
 prepTime: 10
 cookTime: 6

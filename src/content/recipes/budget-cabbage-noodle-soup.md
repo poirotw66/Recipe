@@ -1,7 +1,7 @@
 ---
 title: "省錢高麗菜麵"
 description: "高麗菜與麵條煮成湯麵，材料便宜、份量足，一人吃剛好。"
-coverImage: /images/recipes/budget-cabbage-noodle-soup.svg
+coverImage: /images/recipes/budget-cabbage-noodle-soup.webp
 servings: 1
 prepTime: 6
 cookTime: 10

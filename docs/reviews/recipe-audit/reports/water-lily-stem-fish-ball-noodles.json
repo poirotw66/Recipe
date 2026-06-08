@@ -1,31 +1,8 @@
 {
   "slug": "water-lily-stem-fish-ball-noodles",
   "title": "水蓮貢丸湯麵",
-  "reviewed_at": "2026-06-03",
-  "status": "Critical",
-  "confidence_score": 87,
-  "issues": [
-    {
-      "type": "Logic_Error",
-      "severity": "Critical",
-      "description": "步驟寫「下火蓮」，應為「下水蓮」（加入水蓮）。錯字導致核心食材名稱未出現在步驟中，讀者可能誤解為「關小火」或無法對照食材清單。",
-      "suggested_fix": "將所有步驟中的「下火蓮」改為「下水蓮」。",
-      "source": "agent"
-    },
-    {
-      "type": "Ingredient_Mismatch",
-      "code": "unused_ingredient",
-      "severity": "Critical",
-      "description": "機械檢查顯示核心食材「水蓮」未出現在步驟文字（因「下火蓮」錯字）。",
-      "suggested_fix": "將「下火蓮」改為「下水蓮」。",
-      "source": "precheck"
-    },
-    {
-      "type": "Ingredient_Mismatch",
-      "severity": "Warning",
-      "description": "tips 建議加薑或醬油，但未列入 seasonings 或 customAdditions。",
-      "suggested_fix": "將薑、醬油移入 customAdditions，或改寫 tips 為「可選」。",
-      "source": "agent"
-    }
-  ]
+  "reviewed_at": "2026-06-08",
+  "status": "Pass",
+  "confidence_score": 92,
+  "issues": []
 }

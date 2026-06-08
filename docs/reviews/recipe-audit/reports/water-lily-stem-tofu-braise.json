@@ -1,16 +1,8 @@
 {
   "slug": "water-lily-stem-tofu-braise",
   "title": "水蓮燒豆腐",
-  "reviewed_at": "2026-06-03",
-  "status": "Critical",
+  "reviewed_at": "2026-06-08",
+  "status": "Pass",
   "confidence_score": 92,
-  "issues": [
-    {
-      "type": "Logic_Error",
-      "severity": "Critical",
-      "description": "步驟寫「下火蓮」，應為「下水蓮」（加入水蓮）。錯字導致核心食材名稱未出現在步驟中，讀者可能誤解為「關小火」或無法對照食材清單。",
-      "suggested_fix": "將所有步驟中的「下火蓮」改為「下水蓮」。",
-      "source": "agent"
-    }
-  ]
+  "issues": []
 }

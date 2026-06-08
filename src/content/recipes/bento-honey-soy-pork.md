@@ -1,7 +1,7 @@
 ---
 title: "便當蜜汁滷肉"
 description: "絞肉以蜜汁滷至濃稠，便當隔天加熱仍入味，適合週末一次準備。"
-coverImage: /images/recipes/bento-honey-soy-pork.svg
+coverImage: /images/recipes/bento-honey-soy-pork.webp
 servings: 1
 prepTime: 8
 cookTime: 20

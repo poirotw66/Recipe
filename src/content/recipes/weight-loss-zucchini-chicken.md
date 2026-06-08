@@ -1,7 +1,7 @@
 ---
 title: "減脂櫛瓜雞肉"
 description: "櫛瓜與雞胸快炒，低油低碳水，減脂期也能吃得飽。"
-coverImage: /images/recipes/weight-loss-zucchini-chicken.svg
+coverImage: /images/recipes/weight-loss-zucchini-chicken.webp
 servings: 1
 prepTime: 8
 cookTime: 10

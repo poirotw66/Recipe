@@ -1,7 +1,7 @@
 ---
 title: "高蛋白雞肉青花碗"
 description: "雞胸與青花菜同盤，高蛋白低油，健身後或控制飲食都適合。"
-coverImage: /images/recipes/high-protein-chicken-broccoli-bowl.svg
+coverImage: /images/recipes/high-protein-chicken-broccoli-bowl.webp
 servings: 1
 prepTime: 10
 cookTime: 14

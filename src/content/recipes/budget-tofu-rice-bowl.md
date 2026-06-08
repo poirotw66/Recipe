@@ -1,7 +1,7 @@
 ---
 title: "省錢豆腐蓋飯"
 description: "豆腐煎香後淋醬油蓋飯，成本不到百元，卻能吃得飽。"
-coverImage: /images/recipes/budget-tofu-rice-bowl.svg
+coverImage: /images/recipes/budget-tofu-rice-bowl.webp
 servings: 1
 prepTime: 6
 cookTime: 10

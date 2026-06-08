@@ -1,7 +1,7 @@
 ---
 title: "便當黑椒牛肉"
 description: "牛肉片以黑椒快炒，便當隔天加熱仍保有風味，適合帶便當的主菜。"
-coverImage: /images/recipes/bento-black-pepper-beef.svg
+coverImage: /images/recipes/bento-black-pepper-beef.webp
 servings: 1
 prepTime: 10
 cookTime: 8

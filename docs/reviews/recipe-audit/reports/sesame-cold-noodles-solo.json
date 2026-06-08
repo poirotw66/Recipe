@@ -1,16 +1,16 @@
 {
   "slug": "sesame-cold-noodles-solo",
   "title": "一人麻醬涼麵",
-  "reviewed_at": "2026-06-07",
+  "reviewed_at": "2026-06-08",
   "status": "Warning",
   "confidence_score": 86,
   "issues": [
     {
-      "type": "Format_Inconsistency",
-      "code": "thin_steps",
+      "type": "Ingredient_Mismatch",
+      "code": "unused_ingredient",
       "severity": "Warning",
-      "description": "步驟僅 0 則，低於 schema 至少 3 則。",
-      "suggested_fix": "補齊或拆分烹調步驟至至少 3 則。",
+      "description": "食材／調味清單有「烏醋」，但步驟文字未出現（啟發式比對）。",
+      "suggested_fix": "在步驟中使用該材料，或從清單移除。",
       "source": "precheck"
     }
   ]

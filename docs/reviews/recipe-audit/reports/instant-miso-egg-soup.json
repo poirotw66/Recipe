@@ -1,17 +1,17 @@
 {
   "slug": "instant-miso-egg-soup",
   "title": "味噌蛋花湯",
-  "reviewed_at": "2026-06-07",
+  "reviewed_at": "2026-06-08",
   "status": "Warning",
   "confidence_score": 86,
   "issues": [
     {
-      "type": "Format_Inconsistency",
-      "code": "thin_steps",
+      "type": "Ingredient_Mismatch",
+      "code": "water_not_listed",
       "severity": "Warning",
-      "description": "步驟僅 0 則，低於 schema 至少 3 則。",
-      "suggested_fix": "補齊或拆分烹調步驟至至少 3 則。",
-      "source": "precheck"
+      "description": "湯品步驟需要加水，但食材清單未標示水量。",
+      "suggested_fix": "在步驟或食材中標明水量（如 600 ml）。",
+      "source": "content_rules"
     }
   ]
 }

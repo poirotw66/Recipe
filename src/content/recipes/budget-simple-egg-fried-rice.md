@@ -1,7 +1,7 @@
 ---
 title: "省錢蛋炒飯"
 description: "只用蛋、飯與基本調味，成本最低卻最下飯，學生與租屋族必學。"
-coverImage: /images/recipes/budget-simple-egg-fried-rice.svg
+coverImage: /images/recipes/budget-simple-egg-fried-rice.webp
 servings: 1
 prepTime: 5
 cookTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "便當炒高麗菜"
 description: "高麗菜以蒜與鹹味快炒，便當隔天仍保有脆口，是經典配菜。"
-coverImage: /images/recipes/bento-stir-fried-cabbage.svg
+coverImage: /images/recipes/bento-stir-fried-cabbage.webp
 servings: 1
 prepTime: 6
 cookTime: 8

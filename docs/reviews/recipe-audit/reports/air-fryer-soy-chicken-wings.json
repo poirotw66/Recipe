@@ -1,16 +1,16 @@
 {
   "slug": "air-fryer-soy-chicken-wings",
   "title": "氣炸醬油雞翅",
-  "reviewed_at": "2026-06-07",
+  "reviewed_at": "2026-06-08",
   "status": "Warning",
   "confidence_score": 86,
   "issues": [
     {
-      "type": "Format_Inconsistency",
-      "code": "thin_steps",
+      "type": "Ingredient_Mismatch",
+      "code": "step_mentions_unknown",
       "severity": "Warning",
-      "description": "步驟僅 0 則，低於 schema 至少 3 則。",
-      "suggested_fix": "補齊或拆分烹調步驟至至少 3 則。",
+      "description": "步驟提到「白芝麻」，但未列在食材／customAdditions／substitutions。",
+      "suggested_fix": "列入 customAdditions 或改寫步驟。",
       "source": "precheck"
     }
   ]

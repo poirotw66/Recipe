@@ -1,7 +1,7 @@
 ---
 title: "便當薑炒雞肉"
 description: "雞胸以薑絲快炒，隔天加熱仍保有口感，適合提前準備的便當主菜。"
-coverImage: /images/recipes/bento-ginger-chicken.svg
+coverImage: /images/recipes/bento-ginger-chicken.webp
 servings: 1
 prepTime: 10
 cookTime: 12

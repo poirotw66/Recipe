@@ -1,7 +1,7 @@
 ---
 title: "高蛋白蛋白炒"
 description: "只用蛋白快炒，幾乎零油脂，搭配蔬菜就是輕盈高蛋白的一餐。"
-coverImage: /images/recipes/high-protein-egg-white-stirfry.svg
+coverImage: /images/recipes/high-protein-egg-white-stirfry.webp
 servings: 1
 prepTime: 8
 cookTime: 6

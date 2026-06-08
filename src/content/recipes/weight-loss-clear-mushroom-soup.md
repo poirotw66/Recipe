@@ -1,7 +1,7 @@
 ---
 title: "減脂菇類清湯"
 description: "多種菇類煮成清湯，低卡高纖，減脂期暖胃又不負擔。"
-coverImage: /images/recipes/weight-loss-clear-mushroom-soup.svg
+coverImage: /images/recipes/weight-loss-clear-mushroom-soup.webp
 servings: 1
 prepTime: 6
 cookTime: 12

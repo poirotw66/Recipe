@@ -1,7 +1,7 @@
 ---
 title: "便當滷蛋豆腐"
 description: "豆腐與雞蛋同鍋滷製，便當配菜經典組合，可提前一次做好。"
-coverImage: /images/recipes/bento-braised-tofu-egg.svg
+coverImage: /images/recipes/bento-braised-tofu-egg.webp
 servings: 1
 prepTime: 8
 cookTime: 18

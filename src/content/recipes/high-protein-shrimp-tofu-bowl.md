@@ -1,7 +1,7 @@
 ---
 title: "高蛋白蝦豆腐碗"
 description: "蝦仁與豆腐同盤，雙蛋白質來源，簡單調味就夠鮮。"
-coverImage: /images/recipes/high-protein-shrimp-tofu-bowl.svg
+coverImage: /images/recipes/high-protein-shrimp-tofu-bowl.webp
 servings: 1
 prepTime: 10
 cookTime: 12
