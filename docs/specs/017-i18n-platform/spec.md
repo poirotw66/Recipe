@@ -3,7 +3,7 @@
 ## Meta
 
 - 類型：Site / i18n / SEO
-- 狀態：**implemented**（2026-06-05 God Mode；待 `/vif-close`）
+- 狀態：**done**（2026-06-07 close）
 - PRD：`docs/prds/prd-006.md`
 - 依賴：`spec-001`, `spec-003`, `spec-004`, `spec-010`, `spec-011`
 - 建立：2026-06-03

@@ -20,6 +20,31 @@ const PILOT_SLUGS = [
   "creamy-mushroom-pasta"
 ];
 
+const BATCH_02_SLUGS = [
+  "air-fryer-salmon-broccoli",
+  "cabbage-egg-stir-fry",
+  "garlic-mushroom-chicken",
+  "onion-tomato-egg-fried-rice",
+  "pesto-salmon-pasta",
+  "scallion-beef-fried-rice",
+  "white-sauce-chicken-pasta",
+  "air-fryer-garlic-shrimp",
+  "air-fryer-crispy-chicken-bites",
+  "solo-mapo-tofu-rice-bowl",
+  "solo-three-cup-chicken-rice",
+  "quick-kimchi-fried-rice",
+  "air-fryer-butter-corn",
+  "air-fryer-crispy-tofu-cubes",
+  "air-fryer-garlic-mushrooms",
+  "air-fryer-garlic-okra",
+  "air-fryer-garlic-pork-chop",
+  "air-fryer-honey-sweet-potato",
+  "air-fryer-lemon-fish-fillet",
+  "air-fryer-soy-chicken-wings"
+];
+
+const ALLOWED_SLUGS = new Set([...PILOT_SLUGS, ...BATCH_02_SLUGS]);
+
 const LOCALES = [
   { code: "en", folder: "recipes-en" },
   { code: "ja", folder: "recipes-ja" },
@@ -72,7 +97,7 @@ function countZhSteps(slug) {
   return countStepsInYaml(yaml);
 }
 
-for (const slug of PILOT_SLUGS) {
+function verifySlugTranslations(slug, { required }) {
   const zhPath = join(root, "src/content/recipes", `${slug}.md`);
   if (!existsSync(zhPath)) {
     console.error(`Missing zh recipe: ${slug}`);
@@ -84,8 +109,15 @@ for (const slug of PILOT_SLUGS) {
     process.exit(1);
   }
 
-  for (const { code, folder } of LOCALES) {
-    const path = join(root, "src/content", folder, `${slug}.md`);
+  const localePaths = LOCALES.map(({ folder }) => join(root, "src/content", folder, `${slug}.md`));
+  const anyLocale = localePaths.some((path) => existsSync(path));
+  if (!required && !anyLocale) {
+    return;
+  }
+
+  for (let i = 0; i < LOCALES.length; i++) {
+    const { code, folder } = LOCALES[i];
+    const path = localePaths[i];
     if (!existsSync(path)) {
       console.error(`spec-018: missing ${folder}/${slug}.md`);
       process.exit(1);
@@ -120,6 +152,13 @@ for (const slug of PILOT_SLUGS) {
   }
 }
 
+for (const slug of PILOT_SLUGS) {
+  verifySlugTranslations(slug, { required: true });
+}
+for (const slug of BATCH_02_SLUGS) {
+  verifySlugTranslations(slug, { required: false });
+}
+
 for (const { folder } of LOCALES) {
   const dir = join(root, "src/content", folder);
   if (!existsSync(dir)) {
@@ -128,11 +167,11 @@ for (const { folder } of LOCALES) {
   }
   const extra = readdirSync(dir).filter((f) => f.endsWith(".md")).map((f) => f.replace(/\.md$/, ""));
   for (const slug of extra) {
-    if (!PILOT_SLUGS.includes(slug)) {
-      console.error(`${folder}: unexpected slug ${slug} (not in pilot set)`);
+    if (!ALLOWED_SLUGS.has(slug)) {
+      console.error(`${folder}: unexpected slug ${slug} (not in i18n allowlist)`);
       process.exit(1);
     }
   }
 }
 
-console.log("Pilot recipe i18n pairing checks passed (15×3).");
+console.log("Recipe i18n pairing checks passed (pilot required; batch-02 if started).");

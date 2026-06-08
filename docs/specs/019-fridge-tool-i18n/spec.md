@@ -3,7 +3,7 @@
 ## Meta
 
 - 類型：Tools / i18n
-- 狀態：**draft**（依賴 spec-017；PRD-006 已恢復）
+- 狀態：**done**（2026-06-07 close）
 - PRD：`docs/prds/prd-006.md`
 - 依賴：`spec-006`, **`spec-017`**（建議在 spec-018 試點後或並行）
 - 建立：2026-06-03

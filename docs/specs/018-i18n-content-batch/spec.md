@@ -3,7 +3,7 @@
 ## Meta
 
 - 類型：Content / i18n / QA
-- 狀態：**implemented**（2026-06-05 試點完成；待 `/vif-close`）
+- 狀態：**done**（試點 2026-06-07 close；Phase C Batch 02 進行中）
 - PRD：`docs/prds/prd-006.md`
 - 依賴：`spec-002`, `spec-008`, `spec-014`, **`spec-017`**
 - 建立：2026-06-03

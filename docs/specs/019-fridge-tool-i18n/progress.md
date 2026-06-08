@@ -2,15 +2,13 @@
 
 ## Phase Checklist
 
-- [x] Phase 2: Develop (core)
-- [ ] Phase 3–5: Verify / Review / Close
+- [x] Phase 1: Spec aligned
+- [x] Phase 2: Develop
+- [x] Phase 3: Verify (smoke via `npm test`)
+- [x] Phase 4: Review (god-mode parity)
+- [x] Phase 5: Close
 
-## Done
+## Close
 
-- [x] `FridgeToolPage` + `buildFridgeToolPayload(locale)`
-- [x] `/en|ja|ko/tools/fridge-recipe/` routes
-- [x] Slug-based matching + localized ingredient labels
-- [x] UI strings in `src/i18n/ui/*.json`
-- [x] `test-fridge-logic.mjs` en/zh egg slug parity
-- [x] sitemap localized tool URLs
+- [x] `close-report.md` (2026-06-07)
 

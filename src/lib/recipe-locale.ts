@@ -1,7 +1,6 @@
 import { getCollection, type CollectionEntry } from "astro:content";
 import type { Locale } from "./i18n";
 import { defaultLocale, localePath } from "./i18n";
-import { I18N_PILOT_SLUGS } from "./i18n-pilot-slugs";
 
 export type RecipeCollectionId = "recipes" | "recipes-en" | "recipes-ja" | "recipes-ko";
 
@@ -38,10 +37,7 @@ export async function getLocalizedRecipe(
 export async function listRecipesForLocale(locale: Locale): Promise<LocalizedRecipeEntry[]> {
   const collection = recipeCollectionId(locale);
   const entries = await getCollection(collection);
-  if (locale === defaultLocale) {
-    return entries;
-  }
-  return entries.filter((entry) => I18N_PILOT_SLUGS.includes(entry.slug as (typeof I18N_PILOT_SLUGS)[number]));
+  return entries;
 }
 
 /** Locales that have a built recipe detail page for this slug (pilot set only). */

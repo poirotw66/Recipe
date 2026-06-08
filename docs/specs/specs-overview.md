@@ -32,9 +32,9 @@
 | 014 | 內容擴充第四批（100 篇、早午餐、WEBP） | content/production | ✔️ | prd-004 | 002, 008, 011 | 100 篇食譜、早午餐專區、20 篇新菜單、全站 WEBP 封面。 |
 | 015 | 視覺系統與共用元件收斂 | ui/design-system | ✔️ | prd-005 | 010, 013 | global.css token、字型、按鈕／chip／卡片、guideline v1.2。 |
 | 016 | 首頁與主題專區視覺升級 | ui/pages | ✔️ | prd-005 | 012, 014, 015 | 首頁 hero／專區三卡；brunch／beef／pasta 專區頁視覺。 |
-| 017 | 多語系平台（路由、UI、taxonomy、SEO） | site/i18n | ✅ | prd-006 | 001, 003, 004, 010, 011 | Astro i18n、UI 字典、語言切換、hreflang、sitemap、政策頁四語。 |
-| 018 | 多語食譜內容與試點批次 | content/i18n | ✅ | prd-006 | 002, 008, 014, 017 | 15 篇試點 en/ja/ko 已入庫；Gemini 腳本 + verify-pilot。 |
-| 019 | 冰箱剩料工具多語 | tools/i18n | ✅ | prd-006 | 006, 017 | slug 比對、他語工具頁與結果卡（試點食譜集合）。 |
+| 017 | 多語系平台（路由、UI、taxonomy、SEO） | site/i18n | ✔️ | prd-006 | 001, 003, 004, 010, 011 | Astro i18n、UI 字典、語言切換、hreflang、sitemap、政策頁四語。 |
+| 018 | 多語食譜內容與試點批次 | content/i18n | ✔️ | prd-006 | 002, 008, 014, 017 | 試點 15×3 結案；**Batch 02（20）進行中**。 |
+| 019 | 冰箱剩料工具多語 | tools/i18n | ✔️ | prd-006 | 006, 017 | slug 比對、他語工具頁與結果卡。 |
 
 ## Suggested Order
 
@@ -54,9 +54,9 @@
 14. `spec-014` 內容擴充第四批（100 篇、早午餐、WEBP）
 15. `spec-015` 視覺系統與共用元件收斂（PRD-005）
 16. `spec-016` 首頁與主題專區視覺升級（PRD-005，依賴 015）
-17. `spec-017` 多語系平台（PRD-006）— **God Mode 完成，待 `/vif-close`**
-18. `spec-018` 多語食譜試點（PRD-006）— **God Mode 完成，待 `/vif-close`**
-19. `spec-019` 冰箱工具多語（PRD-006）— **develop 完成，待 verify/close**
+17. `spec-017` 多語系平台 — **✔️ done**
+18. `spec-018` 試點結案；**Batch 02 多語內容進行中**
+19. `spec-019` 冰箱工具多語 — **✔️ done**
 
 ## PRD-006 Resume Note
 
