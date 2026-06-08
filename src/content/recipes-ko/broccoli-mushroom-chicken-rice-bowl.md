@@ -65,11 +65,12 @@ relatedIngredients:
 - 버섯
 featured: false
 publishedAt: '2026-07-08'
-updatedAt: '2026-07-08'
+updatedAt: '2026-06-07'
 customAdditions:
 - 새송이버섯
 - 옥수수
 - 파프리카
+---
 ---
 
 

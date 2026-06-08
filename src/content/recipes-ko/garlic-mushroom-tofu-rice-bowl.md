@@ -65,11 +65,12 @@ relatedIngredients:
 - 밥
 featured: false
 publishedAt: '2026-06-15'
-updatedAt: '2026-06-15'
+updatedAt: '2026-06-07'
 customAdditions:
 - 고기 채
 - 새우
 - 표고버섯
+---
 ---
 
 

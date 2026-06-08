@@ -63,11 +63,12 @@ relatedIngredients:
 - 밥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - 파
 - 고추
 - 팽이버섯
+---
 ---
 
 

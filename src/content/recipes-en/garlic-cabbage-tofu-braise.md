@@ -62,11 +62,12 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-06'
-updatedAt: '2026-06-06'
+updatedAt: '2026-06-07'
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushrooms
+---
 ---
 
 When you want vegetables and protein in one pot, this braise is a steady pick.

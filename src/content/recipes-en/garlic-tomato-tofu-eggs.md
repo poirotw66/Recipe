@@ -65,11 +65,12 @@ relatedIngredients:
 - 番茄
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - Diced ham
 - Shredded cheese
 - Chopped scallions
+---
 ---
 
 A quick weekday dinner that pairs well with rice or stands alone.

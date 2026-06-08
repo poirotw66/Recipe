@@ -62,11 +62,12 @@ relatedIngredients:
 - 卵
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: '2026-05-29'
+updatedAt: '2026-06-07'
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ
 - ねぎのみじん切り
+---
 ---
 
 色がきれいで、野菜量を補う一品としてちょうどよいです。

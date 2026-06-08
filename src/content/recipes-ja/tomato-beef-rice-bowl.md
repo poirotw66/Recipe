@@ -59,11 +59,12 @@ relatedIngredients:
 - ご飯（白米）
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - 青ねぎ
 - 唐辛子
 - 玉ねぎ
+---
 ---
 
 甘酸っぱく食べやすい、味を抑えたい日の夕食に向いた丼です。

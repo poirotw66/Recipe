@@ -62,11 +62,12 @@ relatedIngredients:
 - にんにく
 featured: false
 publishedAt: '2026-07-04'
-updatedAt: '2026-07-04'
+updatedAt: '2026-06-07'
 customAdditions:
 - 細切り肉
 - エビ
 - しいたけ
+---
 ---
 
 忙しい平日でも材料が揃いやすく、手順が明確で再現しやすい一品です。

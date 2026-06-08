@@ -65,11 +65,12 @@ relatedIngredients:
 - きのこ（合わせ）
 featured: false
 publishedAt: '2026-06-25'
-updatedAt: '2026-06-25'
+updatedAt: '2026-06-07'
 customAdditions:
 - 細切り肉
 - エビ
 - しいたけ
+---
 ---
 
 具材の入れ替えが効く、失敗しにくい平日の炒め物です。

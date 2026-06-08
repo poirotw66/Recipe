@@ -65,11 +65,12 @@ relatedIngredients:
 - 달걀
 featured: false
 publishedAt: "2026-07-02"
-updatedAt: "2026-07-02"
+updatedAt: '2026-06-07'
 customAdditions:
 - 햄 깍둑
 - 치즈 가담
 - 쪽파
+---
 ---
 
 재료가 흔하고 순서가 분명해 평일에 반복하기 좋은 요리입니다.

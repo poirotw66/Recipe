@@ -73,11 +73,12 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - Scallions
 - Chili
 - Enoki mushroom
+---
 ---
 
 A cozy, savory curry bowl for cold days or when you crave bolder flavor.

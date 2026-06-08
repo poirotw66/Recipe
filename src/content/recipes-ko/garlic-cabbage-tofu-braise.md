@@ -62,11 +62,12 @@ relatedIngredients:
 - 마늘
 featured: false
 publishedAt: '2026-06-06'
-updatedAt: '2026-06-06'
+updatedAt: '2026-06-07'
 customAdditions:
 - 고기 채
 - 새우
 - 표고버섯
+---
 ---
 
 채소와 단백질을 한 번에 챙기고 싶을 때 안정적인 평일 선택입니다.

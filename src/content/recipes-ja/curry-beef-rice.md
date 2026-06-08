@@ -73,11 +73,12 @@ relatedIngredients:
 - ご飯（白米）
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - 青ねぎ
 - 唐辛子
 - えのき
+---
 ---
 
 コクのあるカレー牛肉丼は、寒い日やしっかり味が食べたい日にぴったりです。

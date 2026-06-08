@@ -65,11 +65,12 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-07-08'
-updatedAt: '2026-07-08'
+updatedAt: '2026-06-07'
 customAdditions:
 - King oyster mushrooms
 - Baby corn
 - Bell peppers
+---
 ---
 
 Broccoli mushroom chicken rice fits busy weekdays—easy ingredients, clear steps, repeatable results.

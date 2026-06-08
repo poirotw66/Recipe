@@ -75,11 +75,12 @@ relatedIngredients:
 - 면
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - 파
 - 고추
 - 양파
+---
 ---
 
 토마토 소고기 면은 새콤달콤해 입맛을 돋우며, 국과 면을 함께 먹고 싶은 평일 저녁에 잘 맞습니다.

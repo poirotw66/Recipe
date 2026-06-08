@@ -65,11 +65,12 @@ relatedIngredients:
 - 鶏むね肉
 featured: false
 publishedAt: '2026-06-16'
-updatedAt: '2026-06-16'
+updatedAt: '2026-06-07'
 customAdditions:
 - エリンギ
 - ベビーコーン
 - パプリカ
+---
 ---
 
 ご飯とおかずが一度に揃い、平日の備え食にも分量と栄養を把握しやすい一品です。

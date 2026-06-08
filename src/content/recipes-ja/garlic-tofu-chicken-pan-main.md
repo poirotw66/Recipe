@@ -62,11 +62,12 @@ relatedIngredients:
 - にんにく
 featured: false
 publishedAt: '2026-07-09'
-updatedAt: '2026-07-09'
+updatedAt: '2026-06-07'
 customAdditions:
 - エリンギ
 - ベビーコーン
 - パプリカ
+---
 ---
 
 材料が揃いやすく、何度作っても安定しやすい平日の主菜です。

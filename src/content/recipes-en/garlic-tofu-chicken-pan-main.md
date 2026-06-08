@@ -62,11 +62,12 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-07-09'
-updatedAt: '2026-07-09'
+updatedAt: '2026-06-07'
 customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell pepper
+---
 ---
 
 Straightforward pantry ingredients and a clear sequence you can repeat on busy nights.

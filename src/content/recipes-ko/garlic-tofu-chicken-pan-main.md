@@ -62,11 +62,12 @@ relatedIngredients:
 - 마늘
 featured: false
 publishedAt: '2026-07-09'
-updatedAt: '2026-07-09'
+updatedAt: '2026-06-07'
 customAdditions:
 - 새송이버섯
 - 옥수수싹
 - 파프리카
+---
 ---
 
 

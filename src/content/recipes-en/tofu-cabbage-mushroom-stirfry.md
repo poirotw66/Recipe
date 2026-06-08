@@ -65,11 +65,12 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-06-25'
-updatedAt: '2026-06-25'
+updatedAt: '2026-06-07'
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake
+---
 ---
 
 Flexible pantry stir-fry with a low failure rate.

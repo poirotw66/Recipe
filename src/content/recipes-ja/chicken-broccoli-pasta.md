@@ -68,11 +68,12 @@ relatedIngredients:
 - ブロッコリー
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - ベーコン
 - 生クリーム
 - パルメザンチーズ
+---
 ---
 
 満足感と栄養のバランスがよく、メニュー内でも主菜感のある一品です。

@@ -65,11 +65,12 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-07-02'
-updatedAt: '2026-07-02'
+updatedAt: '2026-06-07'
 customAdditions:
 - Diced ham
 - Shredded cheese
 - Scallion
+---
 ---
 
 Clear steps and pantry staples for busy evenings.

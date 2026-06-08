@@ -65,11 +65,12 @@ relatedIngredients:
 - きのこ
 featured: false
 publishedAt: '2026-07-05'
-updatedAt: '2026-07-05'
+updatedAt: '2026-06-07'
 customAdditions:
 - 細切り肉
 - エビ
 - しいたけ
+---
 ---
 
 忙しい平日でも材料が揃いやすく、何度作っても安定する副菜です。

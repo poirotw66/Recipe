@@ -63,11 +63,12 @@ relatedIngredients:
 - ご飯（白米）
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - 青ねぎ
 - 唐辛子
 - えのき
+---
 ---
 
 ご飯が進む、丼メニューの定番です。

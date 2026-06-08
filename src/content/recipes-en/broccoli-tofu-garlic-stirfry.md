@@ -62,11 +62,12 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-07-04'
-updatedAt: '2026-07-04'
+updatedAt: '2026-06-07'
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushrooms
+---
 ---
 
 Broccoli tofu garlic stir-fry is easy to shop for and repeats well on busy nights.

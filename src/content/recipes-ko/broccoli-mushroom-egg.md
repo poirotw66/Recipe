@@ -62,11 +62,12 @@ relatedIngredients:
 - 달걀
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: '2026-05-29'
+updatedAt: '2026-06-07'
 customAdditions:
 - 햄 다이스
 - 치즈
 - 파
+---
 ---
 
 색이 예뻐서 한 끼 채소량을 채우기에 딱 좋습니다.

@@ -63,11 +63,12 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - Scallions
 - Chili
 - Enoki mushrooms
+---
 ---
 
 A classic rice-bowl combo from the onion series.

@@ -62,11 +62,12 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: '2026-05-29'
+updatedAt: '2026-06-07'
 customAdditions:
 - Diced ham
 - Shredded cheese
 - Chopped scallions
+---
 ---
 
 Colorful and quick—this dish helps you hit your vegetable quota without much fuss.

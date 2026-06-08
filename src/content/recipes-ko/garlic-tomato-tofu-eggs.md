@@ -65,11 +65,12 @@ relatedIngredients:
 - 토마토
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - 햄 다이스
 - 모짜렐라
 - 파
+---
 ---
 
 

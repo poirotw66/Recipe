@@ -68,11 +68,12 @@ relatedIngredients:
 - 青花菜
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - Bacon
 - Heavy cream
 - Parmesan
+---
 ---
 
 This pasta hits both fullness and nutrition when you want a main-dish feel.

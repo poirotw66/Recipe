@@ -59,11 +59,12 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - Scallions
 - Chili
 - Onion
+---
 ---
 
 A gentle sweet-sour bowl for nights when you want something lighter.

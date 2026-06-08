@@ -68,11 +68,12 @@ relatedIngredients:
 - 브로콜리
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
+---
 ---
 
 포만감과 영양을 함께 챙기고 싶을 때 메인 느낌이 나는 파스타입니다.

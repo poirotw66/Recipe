@@ -65,11 +65,12 @@ relatedIngredients:
 - 닭가슴살
 featured: false
 publishedAt: '2026-06-16'
-updatedAt: '2026-06-16'
+updatedAt: '2026-06-07'
 customAdditions:
 - 새송이버섯
 - 옥수수
 - 파프리카
+---
 ---
 
 밥과 반찬이 한 번에 되어 평일 밀프렙에 양과 영양을 맞추기 좋습니다.

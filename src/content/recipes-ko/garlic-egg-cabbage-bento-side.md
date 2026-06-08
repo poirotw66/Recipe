@@ -62,11 +62,12 @@ relatedIngredients:
 - 마늘
 featured: false
 publishedAt: '2026-06-23'
-updatedAt: '2026-06-23'
+updatedAt: '2026-06-07'
 customAdditions:
 - 햄 다이스
 - 모짜렐라
 - 파
+---
 ---
 
 

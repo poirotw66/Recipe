@@ -65,11 +65,12 @@ relatedIngredients:
 - ご飯（白米）
 featured: false
 publishedAt: '2026-06-09'
-updatedAt: '2026-06-09'
+updatedAt: '2026-06-07'
 customAdditions:
 - 細切り肉
 - エビ
 - しいたけ
+---
 ---
 
 材料を少なくても満足感のある、平日のご飯メニューです。

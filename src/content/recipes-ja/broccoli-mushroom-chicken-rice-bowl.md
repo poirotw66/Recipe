@@ -65,11 +65,12 @@ relatedIngredients:
 - きのこ
 featured: false
 publishedAt: '2026-07-08'
-updatedAt: '2026-07-08'
+updatedAt: '2026-06-07'
 customAdditions:
 - エリンギ
 - ベビーコーン
 - パプリカ
+---
 ---
 
 忙しい平日でも材料が揃いやすく、手順が明確なので、何度作っても安定しやすい一品です。

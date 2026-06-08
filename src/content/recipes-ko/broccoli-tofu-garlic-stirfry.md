@@ -62,11 +62,12 @@ relatedIngredients:
 - 마늘
 featured: false
 publishedAt: '2026-07-04'
-updatedAt: '2026-07-04'
+updatedAt: '2026-06-07'
 customAdditions:
 - 고기 채
 - 새우
 - 표고버섯
+---
 ---
 
 바쁜 평일에 재료 구하기 쉽고 순서가 분명해 반복해도 안정적인 요리입니다.

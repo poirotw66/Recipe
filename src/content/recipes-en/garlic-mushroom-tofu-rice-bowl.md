@@ -65,11 +65,12 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-15'
-updatedAt: '2026-06-15'
+updatedAt: '2026-06-07'
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushrooms
+---
 ---
 
 A solid choice on no-meat days when you still want aroma and fullness.

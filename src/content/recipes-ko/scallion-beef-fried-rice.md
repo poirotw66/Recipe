@@ -59,11 +59,12 @@ relatedIngredients:
 - 대파
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - 고추
 - 양파
 - 팽이버섯
+---
 ---
 
 향이 좋고 단계가 짧아 바쁜 평일 저녁에 잘 맞는 볶음밥입니다.

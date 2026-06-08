@@ -65,11 +65,12 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-07-05'
-updatedAt: '2026-07-05'
+updatedAt: '2026-06-07'
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushrooms
+---
 ---
 
 Easy staples, clear steps—reliable on busy weekdays.

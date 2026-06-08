@@ -65,11 +65,12 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-09'
-updatedAt: '2026-06-09'
+updatedAt: '2026-06-07'
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushrooms
+---
 ---
 
 A satisfying rice bowl when you want to cook with minimal ingredients.

@@ -65,11 +65,12 @@ relatedIngredients:
 - 雞胸肉
 featured: false
 publishedAt: '2026-06-16'
-updatedAt: '2026-06-16'
+updatedAt: '2026-06-07'
 customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell pepper
+---
 ---
 
 This rice-and-stir-fry combo is easy to meal-prep with predictable portions.

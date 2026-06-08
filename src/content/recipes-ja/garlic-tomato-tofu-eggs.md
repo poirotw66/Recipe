@@ -65,11 +65,12 @@ relatedIngredients:
 - トマト
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: '2026-06-07'
 customAdditions:
 - ハム丁
 - シュレッドチーズ
 - ねぎ
+---
 ---
 
 手早くご飯を用意したい平日の夜に、ご飯にもそのままでも合います。

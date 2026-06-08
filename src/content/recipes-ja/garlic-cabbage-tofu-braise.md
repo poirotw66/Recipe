@@ -62,11 +62,12 @@ relatedIngredients:
 - にんにく
 featured: false
 publishedAt: '2026-06-06'
-updatedAt: '2026-06-06'
+updatedAt: '2026-06-07'
 customAdditions:
 - 細切り肉
 - エビ
 - しいたけ
+---
 ---
 
 野菜とタンパク質を一度にとりたい平日に、安定して作れる煮込みです。

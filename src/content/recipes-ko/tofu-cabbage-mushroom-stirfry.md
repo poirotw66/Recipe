@@ -65,11 +65,12 @@ relatedIngredients:
 - 버섯
 featured: false
 publishedAt: "2026-06-25"
-updatedAt: "2026-06-25"
+updatedAt: '2026-06-07'
 customAdditions:
 - 고기 채
 - 새우
 - 표고버섯
+---
 ---
 
 재료를 바꾸기 쉽고 실패가 적어, 평일 저녁 실용적인 볶음 요리입니다.

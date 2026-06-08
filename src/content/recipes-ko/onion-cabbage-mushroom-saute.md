@@ -65,11 +65,12 @@ relatedIngredients:
 - 버섯
 featured: false
 publishedAt: '2026-07-05'
-updatedAt: '2026-07-05'
+updatedAt: '2026-06-07'
 customAdditions:
 - 고기 채
 - 새우
 - 표고버섯
+---
 ---
 
 

@@ -65,11 +65,12 @@ relatedIngredients:
 - ご飯（白米）
 featured: false
 publishedAt: '2026-06-15'
-updatedAt: '2026-06-15'
+updatedAt: '2026-06-07'
 customAdditions:
 - 細切り肉
 - エビ
 - しいたけ
+---
 ---
 
 肉を買わない日でも、香りと満足感のある一杯になります。

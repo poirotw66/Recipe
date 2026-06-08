@@ -64,11 +64,12 @@ relatedIngredients:
 - 달걀
 featured: false
 publishedAt: "2026-07-15"
-updatedAt: "2026-07-15"
+updatedAt: '2026-06-07'
 customAdditions:
 - 햄 깍둑
 - 치즈 가담
 - 쪽파
+---
 ---
 
 집에 있는 재료로 채소와 단백질을 빠르게 보충하기 좋습니다.
