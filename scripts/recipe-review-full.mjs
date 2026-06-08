@@ -43,8 +43,8 @@ const warningMore =
     ? `\n> 其餘 ${warning - 40} 篇 Warning 請見 \`reports/*.json\` 或 \`latest-full-review.json\`。\n`
     : "";
 
-const summaryPath = join(outDir, `audit-summary-${date}-full-100.md`);
-const summary = `# 食譜內容審查摘要（全站 100 篇）
+const summaryPath = join(outDir, `audit-summary-${date}-full-${results.length}.md`);
+const summary = `# 食譜內容審查摘要（全站 ${results.length} 篇）
 
 - **審查日期**：${date}
 - **範圍**：\`src/content/recipes\` 全數 ${results.length} 篇
@@ -76,7 +76,7 @@ ${warningMore}
 
 ## 後續
 
-1. 先處理 **Critical** 與含「每粒米飯」「重複燉煮模板」的義麵／快炒類。
+1. 先處理 **Critical**；Warning 多為食材／步驟字面比對啟發式，需人工判斷是否 false positive。
 2. 需更深語意審查時，對單篇使用 \`@recipe-review\` 或 \`node scripts/recipe-review-precheck.mjs --slug <slug>\`。
 3. 刻意保留者寫入 \`overrides.json\`。
 `;

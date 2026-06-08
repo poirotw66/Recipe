@@ -1,4 +1,4 @@
-# 食譜內容審查摘要（全站 100 篇）
+# 食譜內容審查摘要（全站 161 篇）
 
 - **審查日期**：2026-06-08
 - **範圍**：`src/content/recipes` 全數 161 篇
@@ -38,6 +38,6 @@
 
 ## 後續
 
-1. 先處理 **Critical** 與含「每粒米飯」「重複燉煮模板」的義麵／快炒類。
+1. 先處理 **Critical**；Warning 多為食材／步驟字面比對啟發式，需人工判斷是否 false positive。
 2. 需更深語意審查時，對單篇使用 `@recipe-review` 或 `node scripts/recipe-review-precheck.mjs --slug <slug>`。
 3. 刻意保留者寫入 `overrides.json`。

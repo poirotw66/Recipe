@@ -58,9 +58,9 @@
 18. `spec-018` 試點結案；**Batch 02 多語內容進行中**
 19. `spec-019` 冰箱工具多語 — **✔️ done**
 
-## PRD-006 Resume Note
+## PRD-006 Close Note
 
-PRD-006 於 **2026-06-05 恢復**。前置：食譜內容人工校正完成、`npm test` 通過。實作順序不變：**017 → 018（15 篇試點）→ 019 → 018 後續批次**。翻譯產線見 `docs/specs/018-i18n-content-batch/gemini-translation.md`。
+PRD-006 **done**（2026-06-08）：017 平台、018 全庫 **161×3** 譯文、019 冰箱多語。結案 `docs/prds/prd-006-close-report.md`。繁中內容審查 **2026-06-08**：161 篇 Pass 152 / Warning 9 / Critical 0（`docs/reviews/recipe-audit/audit-summary-2026-06-08-full-161.md`）。
 
 ## PRD-005 Close Note
 
