@@ -1,0 +1,65 @@
+---
+recipeId: weight-loss-clear-mushroom-soup
+title: ダイエット向けきのもの清湯
+description: きのこだけを煮込んだ低カロリースープ。ダイエット中でも胃もたれしにくい温かい一品。
+coverImage: /images/recipes/weight-loss-clear-mushroom-soup.webp
+servings: 1
+prepTime: 6
+cookTime: 12
+totalTime: 18
+difficulty: かんたん
+calories: 80
+protein: 6
+fat: 2
+carbs: 10
+category: "スープ"
+scenarios:
+- 低脂質・ダイエット向け
+- 一人暮らし向け
+equipment:
+- 鍋
+tags:
+- 一人分
+- ダイエット向け
+- スープ
+tips:
+- 豆腐や鶏むねの細切りを足すとたんぱく質が増えます。
+substitutions: []
+relatedIngredients:
+- きのこ（合わせ）
+customAdditions: []
+ingredients:
+- name: きのこ（合わせ）
+  amount: '200'
+  unit: g
+  isCore: true
+seasonings:
+- name: 水
+  amount: '700'
+  unit: ml
+- name: 塩
+  amount: 少々
+  unit: ''
+- name: 白胡椒
+  amount: 少々
+  unit: ''
+- name: 青ねぎ
+  amount: '1'
+  unit: 本
+intro: きのこ自体の旨みで味を立てるので調味は控えめに。主菜の付け合わせや軽食にも。
+steps:
+- きのこは湿った布で拭き、大きいものは半分に切る。ねぎは小口切り。
+- 鍋に水を沸かし、きのこを入れる。
+- 弱火で10分ほど煮てきのこを柔らかく。
+- 塩と白胡椒で味を整える。
+- ねぎを散らして盛る。
+storage: 冷蔵2日。再加熱は長く煮返さない。
+faqs:
+- question: きのこは一種類だけでもいい？
+  answer: はい、どんなきのこでもこの作り方に合います。
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: '2026-06-03'
+---
+
+ダイエット向けきのもの清湯は、夜に軽く温まりたいときのいちばん手軽な選択肢です。

@@ -41,6 +41,35 @@ export const I18N_BATCH_02_SLUGS = [
   "air-fryer-soy-chicken-wings"
 ] as const;
 
-export const I18N_VERIFIED_TRANSLATION_SLUGS = [...I18N_PILOT_SLUGS, ...I18N_BATCH_02_SLUGS] as const;
+/** Batch 3 — PRD-006 Phase C (20): solo rice bowls, quick mains, noodles/soup. */
+export const I18N_BATCH_03_SLUGS = [
+  "solo-ginger-pork-rice",
+  "solo-lu-rou-rice",
+  "solo-oyster-sauce-beef-rice",
+  "solo-pan-fried-pork-cutlet-rice",
+  "solo-sesame-chicken-rice",
+  "garlic-tomato-chicken-rice-bowl",
+  "scallion-chicken-rice-bowl",
+  "tomato-beef-rice-bowl",
+  "curry-beef-rice",
+  "budget-tofu-rice-bowl",
+  "canned-tuna-rice-bowl",
+  "airfryer-tofu-mushroom-main",
+  "salmon-broccoli-garlic-main",
+  "garlic-tofu-chicken-pan-main",
+  "ten-minute-udon-soup",
+  "instant-miso-egg-soup",
+  "egg-scallion-oil-noodles",
+  "garlic-beef-cabbage-stirfry",
+  "beef-mushroom-stirfry",
+  "pesto-shrimp-pasta"
+] as const;
+
+/** Shipped batches (historical); full zh parity is enforced in `verify-pilot-recipes.mjs`. */
+export const I18N_VERIFIED_TRANSLATION_SLUGS = [
+  ...I18N_PILOT_SLUGS,
+  ...I18N_BATCH_02_SLUGS,
+  ...I18N_BATCH_03_SLUGS
+] as const;
 
 export const I18N_PILOT_SLUG_SET = new Set<string>(I18N_PILOT_SLUGS);

@@ -3,7 +3,7 @@
 ## Meta
 
 - 類型：Content / i18n / QA
-- 狀態：**done**（試點 2026-06-07 close；Phase C Batch 02 進行中）
+- 狀態：**done**（試點 close；**全站 161×3 譯文完成**）
 - PRD：`docs/prds/prd-006.md`
 - 依賴：`spec-002`, `spec-008`, `spec-014`, **`spec-017`**
 - 建立：2026-06-03

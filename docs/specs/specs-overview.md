@@ -33,7 +33,7 @@
 | 015 | 視覺系統與共用元件收斂 | ui/design-system | ✔️ | prd-005 | 010, 013 | global.css token、字型、按鈕／chip／卡片、guideline v1.2。 |
 | 016 | 首頁與主題專區視覺升級 | ui/pages | ✔️ | prd-005 | 012, 014, 015 | 首頁 hero／專區三卡；brunch／beef／pasta 專區頁視覺。 |
 | 017 | 多語系平台（路由、UI、taxonomy、SEO） | site/i18n | ✔️ | prd-006 | 001, 003, 004, 010, 011 | Astro i18n、UI 字典、語言切換、hreflang、sitemap、政策頁四語。 |
-| 018 | 多語食譜內容與試點批次 | content/i18n | ✔️ | prd-006 | 002, 008, 014, 017 | 試點 15×3 結案；**Batch 02（20）進行中**。 |
+| 018 | 多語食譜內容與試點批次 | content/i18n | ✔️ | prd-006 | 002, 008, 014, 017 | **161×3 全量譯文**完成。 |
 | 019 | 冰箱剩料工具多語 | tools/i18n | ✔️ | prd-006 | 006, 017 | slug 比對、他語工具頁與結果卡。 |
 
 ## Suggested Order
