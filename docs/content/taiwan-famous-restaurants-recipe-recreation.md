@@ -109,6 +109,14 @@ restaurantSource:
 
 ---
 
+## 美式早午餐連鎖
+
+| 餐廳 | 地區 | 招牌 | 完整菜單文件 |
+| --- | --- | --- | --- |
+| 貳樓 Second Floor Cafe | 全台約 20 家 | 曙光汁鮮蝦雞肉麵、椒麻唐揚雞麵、橙香丹麥舒肥雞、班尼蛋 | [`second-floor-cafe-menu-replication.md`](second-floor-cafe-menu-replication.md) |
+
+---
+
 ## 國民小吃與麵食名店
 
 | 餐廳 | 地區 | 招牌 | 難度 |

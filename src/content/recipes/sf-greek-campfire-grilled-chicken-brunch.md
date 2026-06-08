@@ -1,0 +1,80 @@
+---
+title: Greek style 野炊系炭烤雞肉早午餐
+description: 參考貳樓 Second Floor Cafe 常見做法，以 炭烤雞肉、皮塔餅、沙拉 還原 Greek style 野炊系炭烤雞肉早午餐 的餐廳份量與風味層次。
+coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.svg
+servings: 1
+prepTime: 20
+cookTime: 18
+totalTime: 38
+difficulty: 中等
+calories: 690
+protein: 38
+fat: 28
+carbs: 48
+category: "限定主餐"
+scenarios:
+- 一人料理
+- 早午餐
+equipment:
+- 平底鍋
+- 烤箱
+tags:
+- 名店還原
+- 林口限定
+restaurantSource:
+  restaurant: 貳樓 Second Floor Cafe
+  dishName: Greek style 野炊系炭烤雞肉早午餐
+  region: 全台連鎖
+intro: 這道 Greek style 野炊系炭烤雞肉早午餐 參考貳樓 Second Floor Cafe 常見做法，會先把 炭烤雞肉、皮塔餅、沙拉 分段處理，再依 林口限定 的出餐邏輯完成整盤。
+steps:
+- 先把 炭烤雞肉、皮塔餅、沙拉 分別備料，讓主食、主蛋白和配菜都能在同一時間完成。
+- 主體先煎炒或烘烤至接近餐廳出餐的熟度，再把配角食材依序加入。
+- 把 橄欖油與海鹽 調好後分次加入，讓每一層都有味道但不會蓋過主要食材。
+- 最後以 Second Floor Cafe 常見的單盤份量組裝，保留主角突出、配料飽滿的視覺重點。
+tips:
+- 限定版本通常靠香料與搭配飲品做出識別度，主蛋白先調味靜置會更有層次。
+- 擺盤時保留沙拉、麵包與主菜的分區感，視覺會更接近門市。
+storage: 限定餐點建議現做現吃；魚排與雞肉分開保存，回熱時較能保留口感。
+substitutions:
+- 皮塔餅
+- 櫛瓜
+relatedIngredients:
+- 炭烤雞肉
+- 皮塔餅
+- 沙拉
+customAdditions: []
+faqs:
+- question: 想把 Greek style 野炊系炭烤雞肉早午餐 做得更像貳樓版本，最重要的是什麼？
+  answer: 先把 炭烤雞肉與皮塔餅 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+featured: false
+publishedAt: "2026-06-09"
+updatedAt: "2026-06-09"
+ingredients:
+- name: 炭烤雞肉
+  amount: "180"
+  unit: 公克
+  isCore: true
+- name: 皮塔餅
+  amount: "2"
+  unit: 份
+  isCore: true
+- name: 沙拉
+  amount: "適量"
+  unit: ""
+  isCore: true
+seasonings:
+- name: 橄欖油
+  amount: "1"
+  unit: 大匙
+- name: 海鹽
+  amount: "1/3"
+  unit: 小匙
+- name: 黑胡椒碎
+  amount: "1/4"
+  unit: 小匙
+---
+
+Greek style 野炊系炭烤雞肉早午餐 的在家還原版，重點是把 炭烤雞肉、皮塔餅、沙拉 做出分層口感，並保留貳樓常見的 林口限定 大份量出餐感。
+
+只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
+

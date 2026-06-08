@@ -106,6 +106,30 @@
       ]
     },
     {
+      "slug": "second-floor-cafe",
+      "name": "貳樓 Second Floor Cafe",
+      "description": "全天候美式早午餐連鎖，還原曙光醬、班尼蛋、椒麻唐揚雞麵與橙香丹麥等招牌。完整菜單見 docs/content/second-floor-cafe-menu-replication.md",
+      "restaurants": [
+        {
+          "name": "貳樓 Second Floor Cafe",
+          "region": "全台約 20 家",
+          "tier": "classic",
+          "menuRef": "src/data/second-floor-menu.json",
+          "menuDoc": "docs/content/second-floor-cafe-menu-replication.md",
+          "recipePrefix": "sf-",
+          "recipeCount": 70,
+          "recipeStatus": "published",
+          "signatureDishes": [
+            { "name": "曙光汁鮮蝦雞肉麵", "slug": "sf-dawn-shrimp-chicken-linguine", "status": "published" },
+            { "name": "香爆椒麻唐揚雞麵", "slug": "sf-spicy-pepper-karaage-pasta", "status": "published" },
+            { "name": "橙香法式丹麥 Sunny 舒肥雞", "slug": "sf-orange-danish-sunny-sous-vide-chicken", "status": "published" },
+            { "name": "燻鮭魚奶油炒菇班尼蛋", "slug": "sf-smoked-salmon-mushroom-eggs-benedict", "status": "published" },
+            { "name": "主廚脆皮豬腳", "slug": "sf-chef-crispy-pork-knuckle", "status": "published" }
+          ]
+        }
+      ]
+    },
+    {
       "slug": "famous-snacks",
       "name": "國民小吃與麵食名店",
       "description": "從麵線、牛肉麵到小籠與擔仔麵，還原湯頭、麵體與醬料比例。",

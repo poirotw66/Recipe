@@ -1,0 +1,529 @@
+{
+  "brand": "貳樓 Second Floor Cafe",
+  "menuVersion": "2026-06-08",
+  "menuImageUrls": [
+    "https://www.secondfloorcafe.com/menu/menu-img/pic_1.jpg?v=2606081616",
+    "https://www.secondfloorcafe.com/menu/menu-img/pic_2.jpg?v=2606081616",
+    "https://www.secondfloorcafe.com/menu/menu-img/pic_3.jpg?v=2606081616"
+  ],
+  "rules": {
+    "serviceChargePercent": 10,
+    "mainRiceNoodleIncludes": "主廚濃湯 or 蕃茄蔬菜湯（蛋奶素）",
+    "openSandwichIncludes": "無限續杯美式咖啡",
+    "brunchIncludes": "2 杯飲料（第 2 杯可續杯）",
+    "bigPlateIncludes": "3 樣配菜",
+    "kidsIncludes": "果汁 or 牛奶",
+    "addOn90": "濃湯、小點或甜點擇一",
+    "addOn220": "歐式麵包盤（可續）等五選三組合"
+  },
+  "top10": [
+    {
+      "name": "曙光汁鮮蝦雞肉麵",
+      "components": "曙光奶油醬、雞肉、蝦、炙燒紅椒、起司絲"
+    },
+    {
+      "name": "水波燻牛肉／丹麥 Open",
+      "components": "丹麥麵包、燻牛肉、水波蛋、芥末醬"
+    },
+    {
+      "name": "香爆椒麻唐揚雞麵",
+      "components": "茄汁、唐揚雞、朝天椒、九層塔、起司絲"
+    },
+    {
+      "name": "橙香法式丹麥 Sunny 舒肥雞",
+      "components": "橙香丹麥、舒肥雞、荷包蛋、炒薯、蜂蜜芥末"
+    },
+    {
+      "name": "主廚脆皮豬腳",
+      "components": "德式豬腳、烤玉米、酸菜、芥末、薯條"
+    },
+    {
+      "name": "血腥瑪麗辣味飯",
+      "components": "番茄汁、奶油醬、時蔬、香米、薑"
+    },
+    {
+      "name": "台式熱炒鹹蛋苦瓜麵",
+      "components": "鹹蛋、山苦瓜、杏鮑菇、山藥、辣椒碎"
+    },
+    {
+      "name": "貳樓金牌鹽水雞沙拉",
+      "components": "綜合生菜、鹽水雞、山苦瓜、火烤玉米、鹽水雞油醋、辣椒粉"
+    },
+    {
+      "name": "起司 Local 香腸奶白麵",
+      "components": "奶油白醬、Local 香腸、三種起司、九層塔"
+    },
+    {
+      "name": "燻鮭魚奶油炒菇班尼蛋",
+      "components": "歐包、燻鮭、酸豆、奶油炒菇、水波蛋"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "sharing-plate",
+      "name": "分享盤 Sharing Plate",
+      "items": [
+        {
+          "name": "舊金山蒜香薯條",
+          "components": "薯條、蒜味奶油醬",
+          "slug": "san-francisco-garlic-fries",
+          "vegetarian": true
+        },
+        {
+          "name": "燕麥脆脆炸魚薯條",
+          "components": "燕麥炸魚、薯條、塔塔醬",
+          "slug": "oat-fish-chips"
+        },
+        {
+          "name": "松露薯條",
+          "components": "薯條、松露醬、起司粉",
+          "slug": "truffle-fries",
+          "vegetarian": true
+        },
+        {
+          "name": "普丁肉醬薯條",
+          "components": "薯條、肉醬、起司醬",
+          "slug": "poutine-fries"
+        },
+        {
+          "name": "金黃流沙薯條",
+          "components": "薯條、金沙醬、辣椒、九層塔",
+          "slug": "golden-salted-egg-fries",
+          "spicy": true,
+          "storeOnly": "微風南山"
+        },
+        {
+          "name": "莎莎黑咖哩炸雞",
+          "components": "炸雞、黑咖哩醬、莎莎醬",
+          "slug": "salsa-black-curry-chicken",
+          "spicy": true,
+          "storeOnly": "微風南山"
+        },
+        {
+          "name": "墨西哥雞肉酥餅",
+          "components": "薄餅、雞肉、酪梨醬、起司、酸奶油、BBQ、莎莎",
+          "slug": "mexican-chicken-quesadilla"
+        },
+        {
+          "name": "墨西哥 Local 香腸酥餅",
+          "components": "薄餅、香腸、酪梨醬、起司、酸奶油、BBQ、莎莎",
+          "slug": "mexican-sausage-quesadilla"
+        },
+        {
+          "name": "酥炸鮮魷佐雞尾酒醬",
+          "components": "魷魚、薯條、檸檬、雞尾酒醬",
+          "slug": "fried-calamari"
+        },
+        {
+          "name": "水牛城辣雞翅",
+          "components": "炸雞翅、水牛城醬、藍紋起司醬",
+          "slug": "buffalo-wings",
+          "spicy": true
+        },
+        {
+          "name": "貳樓金牌鹽水雞沙拉",
+          "components": "綜合生菜、鹽水雞、山苦瓜、火烤玉米、鹽水雞油醋、辣椒粉",
+          "slug": "taiwan-salty-chicken-salad",
+          "spicy": true
+        },
+        {
+          "name": "焙煎胡麻雞沙拉",
+          "components": "綜合生菜、炸雞、焙煎胡麻醬、小番茄、酸黃瓜",
+          "slug": "roasted-sesame-chicken-salad"
+        },
+        {
+          "name": "經典凱薩沙拉",
+          "components": "綜合生菜、培根、麵包丁、凱薩醬、莎莎醬",
+          "slug": "classic-caesar-salad"
+        },
+        {
+          "name": "經典舒肥雞凱薩沙拉",
+          "components": "凱薩沙拉 + 舒肥雞",
+          "slug": "sous-vide-chicken-caesar"
+        },
+        {
+          "name": "經典燻鮭魚凱薩沙拉",
+          "components": "凱薩沙拉 + 燻鮭魚 + 溏心蛋",
+          "slug": "smoked-salmon-caesar"
+        }
+      ]
+    },
+    {
+      "slug": "light-plate",
+      "name": "均衡盤 Light Plate",
+      "items": [
+        {
+          "name": "綠超人藜麥佛陀碗",
+          "components": "蘆筍、莎莎、花椰菜、藜麥、水波蛋",
+          "slug": "quinoa-buddha-bowl",
+          "vegetarian": true,
+          "storeNote": "敦南店未提供"
+        },
+        {
+          "name": "舒肥雞藜麥花椰飯",
+          "components": "舒肥雞、花椰菜飯、藜麥、火烤玉米、起司醬",
+          "slug": "sous-vide-chicken-cauliflower-rice"
+        },
+        {
+          "name": "生酮總匯海陸拼盤",
+          "components": "舒肥牛、巴沙魚、炒菇、起司、綜合生菜",
+          "slug": "keto-surf-turf-platter"
+        },
+        {
+          "name": "熱帶水果優格碗",
+          "components": "香蕉、芒果、季節水果、穀物、堅果",
+          "slug": "tropical-fruit-yogurt-bowl",
+          "vegetarian": true
+        },
+        {
+          "name": "巴西莓果優格碗",
+          "components": "巴西莓、綜合莓果、香蕉、穀物、堅果",
+          "slug": "acai-berry-yogurt-bowl",
+          "vegetarian": true
+        }
+      ]
+    },
+    {
+      "slug": "open-sandwich",
+      "name": "開放三明治 Open Sandwich",
+      "includes": "無限續杯美式咖啡",
+      "items": [
+        {
+          "name": "酪梨慢煎培根／歐包 Open",
+          "components": "歐包、酪梨、培根、水波蛋、巴薩米克",
+          "slug": "avocado-bacon-open",
+          "storeNote": "敦南店未提供"
+        },
+        {
+          "name": "水波燻牛肉／丹麥 Open",
+          "components": "丹麥麵包、燻牛肉、水波蛋、芥末醬",
+          "slug": "poached-beef-danish-open"
+        },
+        {
+          "name": "酪梨燻鮭魚／歐包 Open",
+          "components": "歐包、燻鮭、酪梨、水波蛋、酸豆、檸檬",
+          "slug": "avocado-salmon-open",
+          "storeNote": "敦南店未提供"
+        },
+        {
+          "name": "酪梨 Local 香腸／丹麥 Open",
+          "components": "丹麥麵包、酪梨、香腸、水波蛋、辣椒粉",
+          "slug": "avocado-sausage-danish-open"
+        },
+        {
+          "name": "黑松露厚切藍帶豬／歐包 Open",
+          "components": "歐包、藍帶豬排、黑松露醬、水波蛋",
+          "slug": "truffle-cordon-bleu-open"
+        }
+      ]
+    },
+    {
+      "slug": "sf-brunch",
+      "name": "貳樓早午餐 SF Brunch",
+      "includes": "2 杯飲料",
+      "subcategories": [
+        {
+          "name": "橙香法式丹麥",
+          "items": [
+            {
+              "name": "Sunny 舒肥雞",
+              "components": "橙香丹麥、舒肥雞、荷包蛋、炒薯、蜂蜜芥末",
+              "slug": "orange-danish-sous-vide-chicken"
+            },
+            {
+              "name": "水波海鮮洋芋",
+              "components": "橙香丹麥、水波蛋、海鮮、炒菇、炒薯",
+              "slug": "orange-danish-seafood-potato"
+            },
+            {
+              "name": "舒肥牛排",
+              "components": "橙香丹麥、舒肥牛排、荷包蛋、炒薯、蜂蜜芥末",
+              "slug": "orange-danish-sous-vide-steak"
+            },
+            {
+              "name": "蕈菇水波洋芋",
+              "components": "橙香丹麥、水波蛋、炒菇、炒薯、起司醬",
+              "slug": "orange-danish-mushroom-potato",
+              "vegetarian": true
+            }
+          ]
+        },
+        {
+          "name": "班尼蛋奶油炒菇",
+          "items": [
+            {
+              "name": "經典火腿",
+              "components": "歐包、火腿、奶油炒菇、水波蛋、荷蘭醬",
+              "slug": "benedict-classic-ham"
+            },
+            {
+              "name": "台胃口水雞",
+              "components": "歐包、口水雞、奶油炒菇、水波蛋",
+              "slug": "benedict-taiwan-chicken",
+              "spicy": true
+            },
+            {
+              "name": "經典牛肉",
+              "components": "歐包、牛肉、奶油炒菇、水波蛋",
+              "slug": "benedict-classic-beef"
+            },
+            {
+              "name": "燻鮭魚",
+              "components": "歐包、燻鮭、酸豆、奶油炒菇、水波蛋",
+              "slug": "benedict-smoked-salmon"
+            }
+          ]
+        },
+        {
+          "name": "歐姆蕾 Omelette",
+          "items": [
+            {
+              "name": "總匯奶起司",
+              "components": "歐姆蕾、火腿、玉米、綜合起司、炒薯",
+              "slug": "omelet-club-cheese"
+            },
+            {
+              "name": "烏斯特肉醬",
+              "components": "歐姆蕾、烏斯特肉醬、綜合起司、炒薯",
+              "slug": "omelet-worcestershire-bolognese"
+            },
+            {
+              "name": "蕈菇奶起司",
+              "components": "歐姆蕾、奶油炒菇、綜合起司",
+              "slug": "omelet-mushroom-cheese",
+              "vegetarian": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "main-rice-noodle",
+      "name": "主餐｜飯麵 Main",
+      "includes": "主廚濃湯 or 蕃茄蔬菜湯",
+      "items": [
+        {
+          "name": "辣茄汁香煸培根長管麵",
+          "components": "培根、番茄、辣醬、辣椒碎、起司",
+          "slug": "spicy-tomato-bacon-penne",
+          "spicy": true
+        },
+        {
+          "name": "曙光汁鮮蝦雞肉麵",
+          "components": "曙光奶油醬、雞肉、蝦、炙燒紅椒、起司絲",
+          "slug": "dawn-shrimp-chicken-linguine"
+        },
+        {
+          "name": "香爆椒麻唐揚雞麵",
+          "components": "茄汁、唐揚雞、朝天椒、九層塔、起司絲",
+          "slug": "spicy-karaage-linguine",
+          "spicy": true
+        },
+        {
+          "name": "家鄉肉醬長管麵佐老媽肉丸",
+          "components": "肉醬、牛肉丸、番茄乾、起司",
+          "slug": "meatball-bolognese-penne"
+        },
+        {
+          "name": "經典青醬鮮蝦麵",
+          "components": "青醬、鮮蝦、松子、起司",
+          "slug": "classic-pesto-shrimp-linguine"
+        },
+        {
+          "name": "酒香蒜味蛤蜊墨魚麵",
+          "components": "白酒、蛤蜊、蒜、九層塔、墨魚麵",
+          "slug": "garlic-clam-squid-ink-pasta"
+        },
+        {
+          "name": "台式熱炒鹹蛋苦瓜麵",
+          "components": "鹹蛋、山苦瓜、杏鮑菇、山藥、辣椒碎",
+          "slug": "salted-egg-bitter-melon-linguine",
+          "spicy": true
+        },
+        {
+          "name": "起司 Local 香腸奶白麵",
+          "components": "奶油白醬、Local 香腸、三種起司、九層塔",
+          "slug": "local-sausage-alfredo-linguine",
+          "spicy": true
+        },
+        {
+          "name": "貳樓費氏鮮蝦長管麵",
+          "components": "Taco 調味、鮮蝦、奶油醬",
+          "slug": "philly-shrimp-penne",
+          "spicy": true
+        },
+        {
+          "name": "巴薩米克蕈菇麵",
+          "components": "巴薩米克、蕈菇、松子、生蛋",
+          "slug": "balsamic-mushroom-linguine",
+          "vegetarian": true
+        },
+        {
+          "name": "松露蕈菇奶油麵",
+          "components": "松露奶油醬、綜合蕈菇、起司",
+          "slug": "truffle-mushroom-cream-linguine",
+          "vegetarian": true
+        },
+        {
+          "name": "血腥瑪麗辣味飯",
+          "components": "番茄汁、奶油醬、時蔬、香米、薑",
+          "slug": "bloody-mary-spicy-rice",
+          "spicy": true
+        },
+        {
+          "name": "老闆黑胡椒漢堡排飯",
+          "components": "黑胡椒醬、漢堡排、起司、荷包蛋、香米",
+          "slug": "black-pepper-burger-steak-rice",
+          "spicy": true
+        },
+        {
+          "name": "西班牙辣炒海陸飯",
+          "components": "番紅花飯、蝦、蛤蜊、香腸、起司",
+          "slug": "spanish-spicy-seafood-rice",
+          "spicy": true
+        },
+        {
+          "name": "焗厚切豬排奶油飯",
+          "components": "曙光醬、厚切豬排、花椰菜、培根、起司",
+          "slug": "baked-pork-chop-cream-rice"
+        },
+        {
+          "name": "月見苦瓜奶油飯",
+          "components": "鹹蛋、山苦瓜、蕈菇、生蛋、起司",
+          "slug": "moon-bitter-melon-cream-rice",
+          "spicy": true,
+          "vegetarian": true
+        }
+      ]
+    },
+    {
+      "slug": "big-bite",
+      "name": "主餐｜手抓 Big Bite",
+      "items": [
+        {
+          "name": "厚烤奶油 Ham 三明治",
+          "components": "歐包、火腿、起司、荷包蛋、薯塊、楓糖漿",
+          "slug": "thick-ham-sandwich"
+        },
+        {
+          "name": "老墨辣鞭炮漢堡",
+          "components": "牛肉排、起司、炸墨西哥辣椒、BBQ 醬、薯塊",
+          "slug": "mexican-firecracker-burger",
+          "spicy": true
+        },
+        {
+          "name": "實打實招牌漢堡",
+          "components": "牛肉排、炸魚、培根、巴薩米克醬、薯塊",
+          "slug": "wysiwyg-signature-burger"
+        }
+      ]
+    },
+    {
+      "slug": "big-plate",
+      "name": "主餐｜盤餐 Big Plate",
+      "includes": "3 樣配菜",
+      "items": [
+        {
+          "name": "BBQ 溫烤半雞",
+          "components": "半雞、烤玉米、BBQ 醬、薯條",
+          "slug": "bbq-half-chicken"
+        },
+        {
+          "name": "主廚脆皮豬腳",
+          "components": "德式豬腳、烤玉米、酸菜、芥末、薯條",
+          "slug": "crispy-pork-knuckle"
+        }
+      ]
+    },
+    {
+      "slug": "kids",
+      "name": "小大人餐 Kids Plate",
+      "includes": "果汁 or 牛奶",
+      "items": [
+        {
+          "name": "牛蛋小堡堡套餐",
+          "components": "小漢堡、牛肉排、煎蛋、薯條",
+          "slug": "kids-beef-egg-burger"
+        },
+        {
+          "name": "吃光光起司蛋雞肉飯",
+          "components": "曙光醬、雞肉、花椰菜、起司、奶油飯",
+          "slug": "kids-cheese-egg-chicken-rice"
+        },
+        {
+          "name": "北鼻奶油雞肉長管麵",
+          "components": "白醬、雞肉、玉米、豌豆、起司",
+          "slug": "kids-cream-chicken-penne"
+        }
+      ]
+    },
+    {
+      "slug": "dessert",
+      "name": "甜點 Dessert",
+      "items": [
+        {
+          "name": "強的",
+          "components": "4 吋巧克力蛋糕 + 奶油起司",
+          "slug": "strong-chocolate-cake"
+        },
+        {
+          "name": "布朗尼冰淇淋",
+          "components": "布朗尼 + 香草冰淇淋 + 巧克力醬",
+          "slug": "brownie-ice-cream"
+        },
+        {
+          "name": "全美起司蛋糕",
+          "components": "Oreo 餅底起司蛋糕",
+          "slug": "american-cheesecake"
+        },
+        {
+          "name": "鄉村肉桂蜜桃派",
+          "components": "肉桂蜜桃派 + 香草冰淇淋",
+          "slug": "cinnamon-peach-pie"
+        }
+      ]
+    },
+    {
+      "slug": "linkou-special",
+      "name": "林口店限定",
+      "storeOnly": "林口店",
+      "items": [
+        {
+          "name": "Greek style 野炊系炭烤雞肉早午餐",
+          "components": "炭烤雞肉、皮塔餅、沙拉",
+          "slug": "linkou-greek-grilled-chicken-brunch"
+        },
+        {
+          "name": "野炊系義式檸香櫛瓜魚菲力",
+          "components": "魚菲力、櫛瓜、檸香醬汁",
+          "slug": "linkou-lemon-zucchini-fish"
+        }
+      ]
+    }
+  ],
+  "limitedOrSeasonal": [
+    {
+      "name": "甘味飯",
+      "components": "蜜餞、米飯、台南限定",
+      "slug": "sweet-rice-tainan",
+      "storeOnly": "台南店"
+    },
+    {
+      "name": "金黃流沙海鮮披薩",
+      "components": "金沙醬、海鮮、九層塔、披薩餅皮",
+      "slug": "golden-seafood-pizza"
+    },
+    {
+      "name": "朝日藍帶豬排堡",
+      "components": "藍帶豬排、漢堡麵包、起司",
+      "slug": "blue-ribbon-pork-burger-lunch",
+      "note": "商業午餐"
+    },
+    {
+      "name": "南洋辛香雞肉飯",
+      "components": "南洋香料、雞肉、燉飯",
+      "slug": "southeast-chicken-rice-lunch",
+      "note": "商業午餐"
+    }
+  ]
+}
