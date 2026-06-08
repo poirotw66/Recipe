@@ -13,7 +13,13 @@ const quickIngredientButtons = document.querySelectorAll("[data-quick-ingredient
 const preferenceButtons = document.querySelectorAll("[data-preference]");
 const dataElement = document.querySelector("#fridge-tool-data");
 
-const toolData = dataElement ? JSON.parse(dataElement.textContent ?? "{}") : { ingredients: [], recipes: [], preferences: [] };
+const toolData = dataElement
+  ? JSON.parse(dataElement.textContent ?? "{}")
+  : { ingredients: [], recipes: [], preferences: [], strings: {}, recipeBasePath: "/recipes", slugToName: {}, preferenceConfig: {} };
+const ui = toolData.strings ?? {};
+const recipeBasePath = toolData.recipeBasePath ?? "/recipes";
+const slugToName = toolData.slugToName ?? {};
+const preferenceConfig = toolData.preferenceConfig ?? {};
 const selectedPreferences = new Set();
 
 const splitIngredientInput = (value) =>
@@ -62,24 +68,44 @@ const resolveInputIngredients = (tokens) => {
   return { matched, unresolved };
 };
 
-const preferenceMatchers = {
-  quick: (recipe) => recipe.totalTime <= 15 || recipe.scenarios.includes("10 分鐘料理"),
-  protein: (recipe) => (recipe.protein ?? 0) >= 20 || recipe.scenarios.includes("高蛋白料理"),
-  electricPot: (recipe) => recipe.equipment.includes("電鍋"),
-  airFryer: (recipe) => recipe.equipment.includes("氣炸鍋")
-};
-
 const preferenceLabels = Object.fromEntries((toolData.preferences ?? []).map((item) => [item.key, item.label]));
 
-const rankRecipes = (matchedIngredients) =>
-  (toolData.recipes ?? [])
+const preferenceMatchesRecipe = (recipe, preferenceKey) => {
+  const rule = preferenceConfig[preferenceKey];
+  if (!rule) {
+    return false;
+  }
+  if (rule.maxTime !== undefined && recipe.totalTime <= rule.maxTime) {
+    return true;
+  }
+  if (rule.minProtein !== undefined && (recipe.protein ?? 0) >= rule.minProtein) {
+    return true;
+  }
+  if (rule.scenarios?.some((scenario) => recipe.scenarios?.includes(scenario))) {
+    return true;
+  }
+  if (rule.equipment?.some((tool) => recipe.equipment?.includes(tool))) {
+    return true;
+  }
+  return false;
+};
+
+const rankRecipes = (matchedIngredients) => {
+  const matchedSlugs = new Set(matchedIngredients.map((item) => item.slug));
+
+  return (toolData.recipes ?? [])
     .map((recipe) => {
-      const matchedIngredientNames = matchedIngredients
-        .map((ingredient) => ingredient.name)
-        .filter((name) => recipe.ingredients.includes(name));
-      const missingIngredients = recipe.ingredients.filter((item) => !matchedIngredientNames.includes(item));
+      const recipeSlugs = recipe.ingredientSlugs ?? [];
+      const useSlugs = recipeSlugs.length > 0;
+      const matchedOnRecipe = matchedIngredients.filter((ingredient) =>
+        useSlugs ? recipeSlugs.includes(ingredient.slug) : recipe.ingredients?.includes(ingredient.name)
+      );
+      const matchedIngredientNames = matchedOnRecipe.map((item) => item.name);
+      const missingIngredients = useSlugs
+        ? recipeSlugs.filter((slug) => !matchedSlugs.has(slug)).map((slug) => slugToName[slug] ?? slug)
+        : (recipe.ingredients ?? []).filter((item) => !matchedIngredientNames.includes(item));
       const matchedPreferences = Array.from(selectedPreferences)
-        .filter((preference) => preferenceMatchers[preference]?.(recipe))
+        .filter((preference) => preferenceMatchesRecipe(recipe, preference))
         .map((preference) => preferenceLabels[preference] ?? preference);
       const score =
         matchedIngredientNames.length * 100 -
@@ -102,6 +128,7 @@ const rankRecipes = (matchedIngredients) =>
       left.missingIngredients.length - right.missingIngredients.length ||
       left.totalTime - right.totalTime
     );
+};
 
 const syncClearButton = () => {
   if (!(fridgeInput instanceof HTMLTextAreaElement) || !(fridgeClearButton instanceof HTMLElement)) {
@@ -111,9 +138,13 @@ const syncClearButton = () => {
   fridgeClearButton.hidden = fridgeInput.value.trim().length === 0;
 };
 
+const listJoin = (items) => items.join(toolData.locale === "en" ? ", " : "、");
+
 const renderRecipeCard = (recipe) => {
-  const matchedLabel = recipe.matchedIngredientNames.length > 0 ? recipe.matchedIngredientNames.join("、") : "沒有命中";
-  const missingLabel = recipe.missingIngredients.length > 0 ? recipe.missingIngredients.join("、") : "不缺主食材";
+  const matchedLabel =
+    recipe.matchedIngredientNames.length > 0 ? listJoin(recipe.matchedIngredientNames) : ui.noMatch ?? "—";
+  const missingLabel =
+    recipe.missingIngredients.length > 0 ? listJoin(recipe.missingIngredients) : ui.noMissing ?? "—";
   const preferenceMarkup = recipe.matchedPreferences.length > 0
     ? `<div class="chip-row">${recipe.matchedPreferences.map((item) => `<span class="chip">${item}</span>`).join("")}</div>`
     : "";
@@ -125,19 +156,19 @@ const renderRecipeCard = (recipe) => {
 
   return `
     <article class="card recipe-card fridge-result-card">
-      <a class="recipe-card__link" href="/recipes/${recipe.slug}/">
+      <a class="recipe-card__link" href="${recipeBasePath}/${recipe.slug}/">
         ${imageMarkup}
         <div class="card-body">
           <h3>${recipe.title}</h3>
           <p>${recipe.description}</p>
           <div class="meta-row">
-            <span class="chip note">${recipe.totalTime} 分鐘</span>
+            <span class="chip note">${recipe.totalTime} ${ui.minutes ?? "min"}</span>
             <span class="chip">${recipe.difficulty}</span>
-            ${recipe.protein ? `<span class="chip">蛋白質 ${recipe.protein}g</span>` : ""}
+            ${recipe.protein ? `<span class="chip">${ui.protein ?? "Protein"} ${recipe.protein}g</span>` : ""}
           </div>
           <div class="chip-row">
-            <span class="chip note">命中：${matchedLabel}</span>
-            <span class="chip">還缺：${missingLabel}</span>
+            <span class="chip note">${ui.matched ?? "Matched"}：${matchedLabel}</span>
+            <span class="chip">${ui.missing ?? "Missing"}：${missingLabel}</span>
           </div>
           ${preferenceMarkup}
         </div>
@@ -236,22 +267,22 @@ const submitValue = (value) => {
   syncClearButton();
 
   const summary = [
-    matched.length > 0 ? `已辨識食材：${matched.map((item) => item.name).join("、")}` : "還沒有辨識到可用食材",
-    unresolved.length > 0 ? `未辨識：${unresolved.join("、")}` : "",
+    matched.length > 0
+      ? `${ui.summaryIdentified ?? "Recognized"}：${listJoin(matched.map((item) => item.name))}`
+      : (ui.summaryNone ?? ""),
+    unresolved.length > 0 ? `${ui.summaryUnresolved ?? ""}：${listJoin(unresolved)}` : "",
     selectedPreferences.size > 0
-      ? `偏好：${Array.from(selectedPreferences).map((key) => preferenceLabels[key] ?? key).join("、")}`
+      ? `${ui.summaryPrefs ?? ""}：${listJoin(Array.from(selectedPreferences).map((key) => preferenceLabels[key] ?? key))}`
       : ""
   ]
     .filter(Boolean)
-    .join("；");
+    .join(toolData.locale === "en" ? "; " : "；");
 
   const rankedRecipes = rankRecipes(matched);
 
   if (rankedRecipes.length === 0) {
     showNoResults(
-      unresolved.length > 0
-        ? `目前沒有找到含有 ${unresolved.join("、")} 的食譜。可以改輸入常見食材，像是雞蛋、豆腐、番茄或雞胸肉。`
-        : "目前沒有符合這組食材的食譜。可以再加一個主食材，或回到食譜列表找靈感。"
+      unresolved.length > 0 ? (ui.noResultsUnresolved ?? "") : (ui.noResultsDefault ?? "")
     );
   } else {
     showResults(summary, rankedRecipes);

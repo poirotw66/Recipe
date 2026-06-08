@@ -17,7 +17,17 @@ const defaultPages = [
   "/terms/"
 ];
 
-const localizedShellPages = ["", "/recipes/", "/ingredients/", "/scenarios/", "/about/", "/contact/", "/privacy-policy/", "/terms/"];
+const localizedShellPages = [
+  "",
+  "/recipes/",
+  "/ingredients/",
+  "/scenarios/",
+  "/tools/fridge-recipe/",
+  "/about/",
+  "/contact/",
+  "/privacy-policy/",
+  "/terms/"
+];
 
 const staticPages = [
   ...defaultPages,

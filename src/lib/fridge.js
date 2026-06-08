@@ -66,14 +66,64 @@ export const preferenceDefinitions = [
   { key: "airFryer", label: "氣炸鍋", matcher: preferenceMatchers.airFryer }
 ];
 
-export const scoreRecipeForFridge = (recipe, matchedIngredients, selectedPreferences = []) => {
-  const matchedIngredientNames = matchedIngredients
-    .map((ingredient) => ingredient.name)
-    .filter((name) => recipe.ingredients.includes(name));
-  const missingIngredients = recipe.ingredients.filter((item) => !matchedIngredientNames.includes(item));
-  const matchedPreferences = preferenceDefinitions
-    .filter((preference) => selectedPreferences.includes(preference.key) && preference.matcher(recipe))
-    .map((preference) => preference.label);
+export const preferenceMatchesRecipe = (recipe, preferenceKey, config) => {
+  if (!config || !preferenceKey) {
+    return false;
+  }
+
+  const rule = config[preferenceKey];
+  if (!rule) {
+    return false;
+  }
+
+  if (rule.maxTime !== undefined && recipe.totalTime <= rule.maxTime) {
+    return true;
+  }
+  if (rule.minProtein !== undefined && (recipe.protein ?? 0) >= rule.minProtein) {
+    return true;
+  }
+  if (rule.scenarios?.some((scenario) => recipe.scenarios?.includes(scenario))) {
+    return true;
+  }
+  if (rule.equipment?.some((tool) => recipe.equipment?.includes(tool))) {
+    return true;
+  }
+
+  return false;
+};
+
+export const scoreRecipeForFridge = (
+  recipe,
+  matchedIngredients,
+  selectedPreferences = [],
+  options = {}
+) => {
+  const { preferenceConfig, preferenceLabels } = options;
+  const recipeSlugs = recipe.ingredientSlugs ?? [];
+  const useSlugs = recipeSlugs.length > 0;
+  const matchedSlugs = new Set(matchedIngredients.map((item) => item.slug));
+
+  const matchedOnRecipe = matchedIngredients.filter((ingredient) =>
+    useSlugs ? recipeSlugs.includes(ingredient.slug) : recipe.ingredients?.includes(ingredient.name)
+  );
+  const matchedIngredientNames = matchedOnRecipe.map((item) => item.name);
+
+  const slugToName = options.slugToName ?? {};
+  const missingIngredients = useSlugs
+    ? recipeSlugs
+        .filter((slug) => !matchedSlugs.has(slug))
+        .map((slug) => slugToName[slug] ?? slug)
+    : (recipe.ingredients ?? []).filter((item) => !matchedIngredientNames.includes(item));
+
+  const matchedPreferences = selectedPreferences
+    .filter((key) => {
+      if (preferenceConfig) {
+        return preferenceMatchesRecipe(recipe, key, preferenceConfig);
+      }
+      const definition = preferenceDefinitions.find((item) => item.key === key);
+      return definition?.matcher(recipe) ?? false;
+    })
+    .map((key) => preferenceLabels?.[key] ?? preferenceDefinitions.find((item) => item.key === key)?.label ?? key);
 
   const score =
     matchedIngredientNames.length * 100 -
@@ -90,9 +140,9 @@ export const scoreRecipeForFridge = (recipe, matchedIngredients, selectedPrefere
   };
 };
 
-export const rankRecipesForFridge = (recipes, matchedIngredients, selectedPreferences = []) =>
+export const rankRecipesForFridge = (recipes, matchedIngredients, selectedPreferences = [], options = {}) =>
   recipes
-    .map((recipe) => scoreRecipeForFridge(recipe, matchedIngredients, selectedPreferences))
+    .map((recipe) => scoreRecipeForFridge(recipe, matchedIngredients, selectedPreferences, options))
     .filter((recipe) => recipe.matchedIngredientNames.length > 0)
     .sort((left, right) =>
       right.score - left.score ||

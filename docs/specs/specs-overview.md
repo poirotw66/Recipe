@@ -34,7 +34,7 @@
 | 016 | 首頁與主題專區視覺升級 | ui/pages | ✔️ | prd-005 | 012, 014, 015 | 首頁 hero／專區三卡；brunch／beef／pasta 專區頁視覺。 |
 | 017 | 多語系平台（路由、UI、taxonomy、SEO） | site/i18n | ✅ | prd-006 | 001, 003, 004, 010, 011 | Astro i18n、UI 字典、語言切換、hreflang、sitemap、政策頁四語。 |
 | 018 | 多語食譜內容與試點批次 | content/i18n | ✅ | prd-006 | 002, 008, 014, 017 | 15 篇試點 en/ja/ko 已入庫；Gemini 腳本 + verify-pilot。 |
-| 019 | 冰箱剩料工具多語 | tools/i18n | 📝 | prd-006 | 006, 017 | 食材 slug 比對、工具頁 UI 與結果多語標題。 |
+| 019 | 冰箱剩料工具多語 | tools/i18n | ✅ | prd-006 | 006, 017 | slug 比對、他語工具頁與結果卡（試點食譜集合）。 |
 
 ## Suggested Order
 
@@ -56,7 +56,7 @@
 16. `spec-016` 首頁與主題專區視覺升級（PRD-005，依賴 015）
 17. `spec-017` 多語系平台（PRD-006）— **God Mode 完成，待 `/vif-close`**
 18. `spec-018` 多語食譜試點（PRD-006）— **God Mode 完成，待 `/vif-close`**
-19. `spec-019` 冰箱工具多語（PRD-006，**下一步**）
+19. `spec-019` 冰箱工具多語（PRD-006）— **develop 完成，待 verify/close**
 
 ## PRD-006 Resume Note
 

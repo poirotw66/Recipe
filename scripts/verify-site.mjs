@@ -77,7 +77,8 @@ const staticLayout = read("src/layouts/StaticArticleLayout.astro");
 const adSlot = read("src/components/AdSlot.astro");
 const siteConfig = read("src/lib/site.ts");
 const fridgeLogic = read("src/lib/fridge.js");
-const fridgePage = read("src/pages/tools/fridge-recipe.astro");
+const fridgePage = read("src/components/FridgeToolPage.astro");
+const fridgeRoute = read("src/pages/tools/fridge-recipe.astro");
 const robotsRoute = read("src/pages/robots.txt.ts");
 const ads = read("public/ads.txt");
 const seoLib = read("src/lib/seo.ts");
@@ -186,7 +187,15 @@ if (!fridgeLogic.includes("rankRecipesForFridge") || !fridgeLogic.includes("reso
   process.exit(1);
 }
 
-if (!fridgePage.includes("data-fridge-results") || !fridgePage.includes("fridge-tool-data") || !fridgePage.includes("雞蛋") || !fridgePage.includes("Breadcrumb") || !fridgePage.includes('id="fridge-results"') || !fridgePage.includes("data-fridge-low-hit")) {
+if (
+  !fridgePage.includes("data-fridge-results") ||
+  !fridgePage.includes("fridge-tool-data") ||
+  !fridgePage.includes("data-fridge-form") ||
+  !fridgePage.includes("Breadcrumb") ||
+  !fridgePage.includes('id="fridge-results"') ||
+  !fridgePage.includes("data-fridge-low-hit") ||
+  !fridgeRoute.includes("FridgeToolPage")
+) {
   console.error("Fridge tool page must expose result containers and embedded local data.");
   process.exit(1);
 }
