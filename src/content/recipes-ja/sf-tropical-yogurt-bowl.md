@@ -2,7 +2,7 @@
 title: 熱帶水果優格碗 再現レシピ
 recipeId: sf-tropical-yogurt-bowl
 description: Second Floor Cafe 風に 香蕉、芒果、季節水果、穀物、堅果 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-tropical-yogurt-bowl.svg
+coverImage: /images/recipes/sf-tropical-yogurt-bowl.webp
 servings: 1
 prepTime: 20
 cookTime: 12

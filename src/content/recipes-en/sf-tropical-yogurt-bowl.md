@@ -2,7 +2,7 @@
 title: Tropical Yogurt Bowl
 recipeId: sf-tropical-yogurt-bowl
 description: "Second Floor Cafe-inspired light plates with restaurant-style portions and 香蕉、芒果、季節水果、穀物、堅果."
-coverImage: /images/recipes/sf-tropical-yogurt-bowl.svg
+coverImage: /images/recipes/sf-tropical-yogurt-bowl.webp
 servings: 1
 prepTime: 20
 cookTime: 12

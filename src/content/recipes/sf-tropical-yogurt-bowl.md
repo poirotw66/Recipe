@@ -1,7 +1,7 @@
 ---
 title: 熱帶水果優格碗
 description: 參考貳樓 Second Floor Cafe 常見做法，以 香蕉、芒果、季節水果、穀物、堅果 還原 熱帶水果優格碗 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-tropical-yogurt-bowl.svg
+coverImage: /images/recipes/sf-tropical-yogurt-bowl.webp
 servings: 1
 prepTime: 20
 cookTime: 12

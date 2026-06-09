@@ -2,7 +2,7 @@
 title: Keto Surf And Turf Platter
 recipeId: sf-keto-surf-and-turf-platter
 description: "Second Floor Cafe-inspired light plates with restaurant-style portions and 舒肥牛、巴沙魚、炒菇、起司、綜合生菜."
-coverImage: /images/recipes/sf-keto-surf-and-turf-platter.svg
+coverImage: /images/recipes/sf-keto-surf-and-turf-platter.webp
 servings: 1
 prepTime: 20
 cookTime: 12

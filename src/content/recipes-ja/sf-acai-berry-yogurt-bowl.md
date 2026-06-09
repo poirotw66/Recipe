@@ -2,7 +2,7 @@
 title: 巴西莓果優格碗 再現レシピ
 recipeId: sf-acai-berry-yogurt-bowl
 description: Second Floor Cafe 風に 巴西莓、綜合莓果、香蕉、穀物、堅果 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-acai-berry-yogurt-bowl.svg
+coverImage: /images/recipes/sf-acai-berry-yogurt-bowl.webp
 servings: 1
 prepTime: 20
 cookTime: 12

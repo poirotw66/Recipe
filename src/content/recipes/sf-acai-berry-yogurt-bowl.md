@@ -1,7 +1,7 @@
 ---
 title: 巴西莓果優格碗
 description: 參考貳樓 Second Floor Cafe 常見做法，以 巴西莓、綜合莓果、香蕉、穀物、堅果 還原 巴西莓果優格碗 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-acai-berry-yogurt-bowl.svg
+coverImage: /images/recipes/sf-acai-berry-yogurt-bowl.webp
 servings: 1
 prepTime: 20
 cookTime: 12

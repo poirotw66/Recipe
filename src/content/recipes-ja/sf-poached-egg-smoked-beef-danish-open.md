@@ -2,7 +2,7 @@
 title: 水波燻牛肉／丹麥 Open 再現レシピ
 recipeId: sf-poached-egg-smoked-beef-danish-open
 description: Second Floor Cafe 風に 丹麥麵包、燻牛肉、水波蛋、芥末醬 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-poached-egg-smoked-beef-danish-open.svg
+coverImage: /images/recipes/sf-poached-egg-smoked-beef-danish-open.webp
 servings: 1
 prepTime: 18
 cookTime: 14

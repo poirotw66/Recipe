@@ -2,7 +2,7 @@
 title: 巴西莓果優格碗 스타일 레시피
 recipeId: sf-acai-berry-yogurt-bowl
 description: Second Floor Cafe 스타일로 巴西莓、綜合莓果、香蕉、穀物、堅果 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-acai-berry-yogurt-bowl.svg
+coverImage: /images/recipes/sf-acai-berry-yogurt-bowl.webp
 servings: 1
 prepTime: 20
 cookTime: 12

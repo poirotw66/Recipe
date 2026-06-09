@@ -2,7 +2,7 @@
 title: 熱帶水果優格碗 스타일 레시피
 recipeId: sf-tropical-yogurt-bowl
 description: Second Floor Cafe 스타일로 香蕉、芒果、季節水果、穀物、堅果 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-tropical-yogurt-bowl.svg
+coverImage: /images/recipes/sf-tropical-yogurt-bowl.webp
 servings: 1
 prepTime: 20
 cookTime: 12

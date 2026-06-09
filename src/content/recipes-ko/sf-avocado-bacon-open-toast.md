@@ -2,7 +2,7 @@
 title: 酪梨慢煎培根／歐包 Open 스타일 레시피
 recipeId: sf-avocado-bacon-open-toast
 description: Second Floor Cafe 스타일로 歐包、酪梨、培根、水波蛋、巴薩米克 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-avocado-bacon-open-toast.svg
+coverImage: /images/recipes/sf-avocado-bacon-open-toast.webp
 servings: 1
 prepTime: 18
 cookTime: 14

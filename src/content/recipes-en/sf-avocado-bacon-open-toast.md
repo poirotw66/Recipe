@@ -2,7 +2,7 @@
 title: Avocado Bacon Open Toast
 recipeId: sf-avocado-bacon-open-toast
 description: "Second Floor Cafe-inspired open sandwiches with restaurant-style portions and 歐包、酪梨、培根、水波蛋、巴薩米克."
-coverImage: /images/recipes/sf-avocado-bacon-open-toast.svg
+coverImage: /images/recipes/sf-avocado-bacon-open-toast.webp
 servings: 1
 prepTime: 18
 cookTime: 14

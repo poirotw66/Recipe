@@ -2,7 +2,7 @@
 title: 生酮總匯海陸拼盤 再現レシピ
 recipeId: sf-keto-surf-and-turf-platter
 description: Second Floor Cafe 風に 舒肥牛、巴沙魚、炒菇、起司、綜合生菜 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-keto-surf-and-turf-platter.svg
+coverImage: /images/recipes/sf-keto-surf-and-turf-platter.webp
 servings: 1
 prepTime: 20
 cookTime: 12

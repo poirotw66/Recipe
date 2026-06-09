@@ -1,7 +1,7 @@
 ---
 title: 生酮總匯海陸拼盤
 description: 參考貳樓 Second Floor Cafe 常見做法，以 舒肥牛、巴沙魚、炒菇、起司、綜合生菜 還原 生酮總匯海陸拼盤 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-keto-surf-and-turf-platter.svg
+coverImage: /images/recipes/sf-keto-surf-and-turf-platter.webp
 servings: 1
 prepTime: 20
 cookTime: 12

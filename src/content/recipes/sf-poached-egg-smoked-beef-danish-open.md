@@ -1,7 +1,7 @@
 ---
 title: 水波燻牛肉／丹麥 Open
 description: 參考貳樓 Second Floor Cafe 常見做法，以 丹麥麵包、燻牛肉、水波蛋、芥末醬 還原 水波燻牛肉／丹麥 Open 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-poached-egg-smoked-beef-danish-open.svg
+coverImage: /images/recipes/sf-poached-egg-smoked-beef-danish-open.webp
 servings: 1
 prepTime: 18
 cookTime: 14

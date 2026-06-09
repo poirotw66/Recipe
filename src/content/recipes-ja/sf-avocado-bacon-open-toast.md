@@ -2,7 +2,7 @@
 title: 酪梨慢煎培根／歐包 Open 再現レシピ
 recipeId: sf-avocado-bacon-open-toast
 description: Second Floor Cafe 風に 歐包、酪梨、培根、水波蛋、巴薩米克 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-avocado-bacon-open-toast.svg
+coverImage: /images/recipes/sf-avocado-bacon-open-toast.webp
 servings: 1
 prepTime: 18
 cookTime: 14

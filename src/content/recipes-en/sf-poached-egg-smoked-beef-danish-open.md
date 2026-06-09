@@ -2,7 +2,7 @@
 title: Poached Egg Smoked Beef Danish Open
 recipeId: sf-poached-egg-smoked-beef-danish-open
 description: "Second Floor Cafe-inspired open sandwiches with restaurant-style portions and 丹麥麵包、燻牛肉、水波蛋、芥末醬."
-coverImage: /images/recipes/sf-poached-egg-smoked-beef-danish-open.svg
+coverImage: /images/recipes/sf-poached-egg-smoked-beef-danish-open.webp
 servings: 1
 prepTime: 18
 cookTime: 14

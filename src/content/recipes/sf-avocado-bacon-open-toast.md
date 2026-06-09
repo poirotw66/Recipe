@@ -1,7 +1,7 @@
 ---
 title: 酪梨慢煎培根／歐包 Open
 description: 參考貳樓 Second Floor Cafe 常見做法，以 歐包、酪梨、培根、水波蛋、巴薩米克 還原 酪梨慢煎培根／歐包 Open 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-avocado-bacon-open-toast.svg
+coverImage: /images/recipes/sf-avocado-bacon-open-toast.webp
 servings: 1
 prepTime: 18
 cookTime: 14
