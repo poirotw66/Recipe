@@ -1,7 +1,7 @@
 ---
 title: 經典火腿奶油炒菇班尼蛋
 description: 參考貳樓 Second Floor Cafe 常見做法，以 歐包、火腿、奶油炒菇、水波蛋、荷蘭醬 還原 經典火腿奶油炒菇班尼蛋 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-classic-ham-mushroom-eggs-benedict.svg
+coverImage: /images/recipes/sf-classic-ham-mushroom-eggs-benedict.webp
 servings: 1
 prepTime: 20
 cookTime: 18

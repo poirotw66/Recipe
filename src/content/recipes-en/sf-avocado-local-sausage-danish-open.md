@@ -2,7 +2,7 @@
 title: Avocado Local Sausage Danish Open
 recipeId: sf-avocado-local-sausage-danish-open
 description: "Second Floor Cafe-inspired open sandwiches with restaurant-style portions and 丹麥麵包、酪梨、香腸、水波蛋、辣椒粉."
-coverImage: /images/recipes/sf-avocado-local-sausage-danish-open.svg
+coverImage: /images/recipes/sf-avocado-local-sausage-danish-open.webp
 servings: 1
 prepTime: 18
 cookTime: 14

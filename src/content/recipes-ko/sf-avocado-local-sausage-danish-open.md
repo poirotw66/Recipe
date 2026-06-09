@@ -2,7 +2,7 @@
 title: 酪梨 Local 香腸／丹麥 Open 스타일 레시피
 recipeId: sf-avocado-local-sausage-danish-open
 description: Second Floor Cafe 스타일로 丹麥麵包、酪梨、香腸、水波蛋、辣椒粉 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-avocado-local-sausage-danish-open.svg
+coverImage: /images/recipes/sf-avocado-local-sausage-danish-open.webp
 servings: 1
 prepTime: 18
 cookTime: 14

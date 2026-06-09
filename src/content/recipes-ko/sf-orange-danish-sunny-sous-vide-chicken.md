@@ -2,7 +2,7 @@
 title: 橙香法式丹麥 Sunny 舒肥雞 스타일 레시피
 recipeId: sf-orange-danish-sunny-sous-vide-chicken
 description: Second Floor Cafe 스타일로 橙香丹麥、舒肥雞、荷包蛋、炒薯、蜂蜜芥末 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-orange-danish-sunny-sous-vide-chicken.svg
+coverImage: /images/recipes/sf-orange-danish-sunny-sous-vide-chicken.webp
 servings: 1
 prepTime: 20
 cookTime: 18

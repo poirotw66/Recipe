@@ -2,7 +2,7 @@
 title: 黑松露厚切藍帶豬／歐包 Open 再現レシピ
 recipeId: sf-black-truffle-cordon-bleu-pork-open
 description: Second Floor Cafe 風に 歐包、藍帶豬排、黑松露醬、水波蛋 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.svg
+coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.webp
 servings: 1
 prepTime: 18
 cookTime: 14

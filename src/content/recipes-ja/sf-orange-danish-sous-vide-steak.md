@@ -2,7 +2,7 @@
 title: 橙香法式丹麥 舒肥牛排 再現レシピ
 recipeId: sf-orange-danish-sous-vide-steak
 description: Second Floor Cafe 風に 橙香丹麥、舒肥牛排、荷包蛋、炒薯、蜂蜜芥末 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-orange-danish-sous-vide-steak.svg
+coverImage: /images/recipes/sf-orange-danish-sous-vide-steak.webp
 servings: 1
 prepTime: 20
 cookTime: 18

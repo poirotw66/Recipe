@@ -2,7 +2,7 @@
 title: 橙香法式丹麥 舒肥牛排 스타일 레시피
 recipeId: sf-orange-danish-sous-vide-steak
 description: Second Floor Cafe 스타일로 橙香丹麥、舒肥牛排、荷包蛋、炒薯、蜂蜜芥末 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-orange-danish-sous-vide-steak.svg
+coverImage: /images/recipes/sf-orange-danish-sous-vide-steak.webp
 servings: 1
 prepTime: 20
 cookTime: 18

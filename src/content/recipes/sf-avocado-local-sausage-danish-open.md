@@ -1,7 +1,7 @@
 ---
 title: 酪梨 Local 香腸／丹麥 Open
 description: 參考貳樓 Second Floor Cafe 常見做法，以 丹麥麵包、酪梨、香腸、水波蛋、辣椒粉 還原 酪梨 Local 香腸／丹麥 Open 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-avocado-local-sausage-danish-open.svg
+coverImage: /images/recipes/sf-avocado-local-sausage-danish-open.webp
 servings: 1
 prepTime: 18
 cookTime: 14

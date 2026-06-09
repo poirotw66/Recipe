@@ -2,7 +2,7 @@
 title: 總匯奶起司歐姆蕾 스타일 레시피
 recipeId: sf-supreme-cheese-omelette
 description: Second Floor Cafe 스타일로 歐姆蕾、火腿、玉米、綜合起司、炒薯 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-supreme-cheese-omelette.svg
+coverImage: /images/recipes/sf-supreme-cheese-omelette.webp
 servings: 1
 prepTime: 20
 cookTime: 18

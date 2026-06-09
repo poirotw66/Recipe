@@ -2,7 +2,7 @@
 title: Orange Danish Sunny Sous Vide Chicken
 recipeId: sf-orange-danish-sunny-sous-vide-chicken
 description: "Second Floor Cafe-inspired brunch with restaurant-style portions and 橙香丹麥、舒肥雞、荷包蛋、炒薯、蜂蜜芥末."
-coverImage: /images/recipes/sf-orange-danish-sunny-sous-vide-chicken.svg
+coverImage: /images/recipes/sf-orange-danish-sunny-sous-vide-chicken.webp
 servings: 1
 prepTime: 20
 cookTime: 18

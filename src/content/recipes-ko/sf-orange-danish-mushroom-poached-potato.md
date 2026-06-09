@@ -2,7 +2,7 @@
 title: 橙香法式丹麥 蕈菇水波洋芋 스타일 레시피
 recipeId: sf-orange-danish-mushroom-poached-potato
 description: Second Floor Cafe 스타일로 橙香丹麥、水波蛋、炒菇、炒薯、起司醬 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-orange-danish-mushroom-poached-potato.svg
+coverImage: /images/recipes/sf-orange-danish-mushroom-poached-potato.webp
 servings: 1
 prepTime: 20
 cookTime: 18

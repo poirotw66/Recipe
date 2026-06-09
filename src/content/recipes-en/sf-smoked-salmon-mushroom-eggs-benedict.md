@@ -2,7 +2,7 @@
 title: Smoked Salmon Mushroom Eggs Benedict
 recipeId: sf-smoked-salmon-mushroom-eggs-benedict
 description: "Second Floor Cafe-inspired brunch with restaurant-style portions and 歐包、燻鮭、酸豆、奶油炒菇、水波蛋."
-coverImage: /images/recipes/sf-smoked-salmon-mushroom-eggs-benedict.svg
+coverImage: /images/recipes/sf-smoked-salmon-mushroom-eggs-benedict.webp
 servings: 1
 prepTime: 20
 cookTime: 18

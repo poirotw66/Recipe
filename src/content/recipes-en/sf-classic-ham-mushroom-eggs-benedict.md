@@ -2,7 +2,7 @@
 title: Classic Ham Mushroom Eggs Benedict
 recipeId: sf-classic-ham-mushroom-eggs-benedict
 description: "Second Floor Cafe-inspired brunch with restaurant-style portions and 歐包、火腿、奶油炒菇、水波蛋、荷蘭醬."
-coverImage: /images/recipes/sf-classic-ham-mushroom-eggs-benedict.svg
+coverImage: /images/recipes/sf-classic-ham-mushroom-eggs-benedict.webp
 servings: 1
 prepTime: 20
 cookTime: 18

@@ -2,7 +2,7 @@
 title: Orange Danish Sous Vide Steak
 recipeId: sf-orange-danish-sous-vide-steak
 description: "Second Floor Cafe-inspired brunch with restaurant-style portions and 橙香丹麥、舒肥牛排、荷包蛋、炒薯、蜂蜜芥末."
-coverImage: /images/recipes/sf-orange-danish-sous-vide-steak.svg
+coverImage: /images/recipes/sf-orange-danish-sous-vide-steak.webp
 servings: 1
 prepTime: 20
 cookTime: 18

@@ -2,7 +2,7 @@
 title: Orange Danish Mushroom Poached Potato
 recipeId: sf-orange-danish-mushroom-poached-potato
 description: "Second Floor Cafe-inspired brunch with restaurant-style portions and 橙香丹麥、水波蛋、炒菇、炒薯、起司醬."
-coverImage: /images/recipes/sf-orange-danish-mushroom-poached-potato.svg
+coverImage: /images/recipes/sf-orange-danish-mushroom-poached-potato.webp
 servings: 1
 prepTime: 20
 cookTime: 18

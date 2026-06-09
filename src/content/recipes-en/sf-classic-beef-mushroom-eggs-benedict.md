@@ -2,7 +2,7 @@
 title: Classic Beef Mushroom Eggs Benedict
 recipeId: sf-classic-beef-mushroom-eggs-benedict
 description: "Second Floor Cafe-inspired brunch with restaurant-style portions and 歐包、牛肉、奶油炒菇、水波蛋."
-coverImage: /images/recipes/sf-classic-beef-mushroom-eggs-benedict.svg
+coverImage: /images/recipes/sf-classic-beef-mushroom-eggs-benedict.webp
 servings: 1
 prepTime: 20
 cookTime: 18

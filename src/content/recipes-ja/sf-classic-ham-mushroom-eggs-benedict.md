@@ -2,7 +2,7 @@
 title: 經典火腿奶油炒菇班尼蛋 再現レシピ
 recipeId: sf-classic-ham-mushroom-eggs-benedict
 description: Second Floor Cafe 風に 歐包、火腿、奶油炒菇、水波蛋、荷蘭醬 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-classic-ham-mushroom-eggs-benedict.svg
+coverImage: /images/recipes/sf-classic-ham-mushroom-eggs-benedict.webp
 servings: 1
 prepTime: 20
 cookTime: 18

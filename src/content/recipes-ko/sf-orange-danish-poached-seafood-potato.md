@@ -2,7 +2,7 @@
 title: 橙香法式丹麥 水波海鮮洋芋 스타일 레시피
 recipeId: sf-orange-danish-poached-seafood-potato
 description: Second Floor Cafe 스타일로 橙香丹麥、水波蛋、海鮮、炒菇、炒薯 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-orange-danish-poached-seafood-potato.svg
+coverImage: /images/recipes/sf-orange-danish-poached-seafood-potato.webp
 servings: 1
 prepTime: 20
 cookTime: 18

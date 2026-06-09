@@ -2,7 +2,7 @@
 title: 酪梨燻鮭魚／歐包 Open 스타일 레시피
 recipeId: sf-avocado-smoked-salmon-open-toast
 description: Second Floor Cafe 스타일로 歐包、燻鮭、酪梨、水波蛋、酸豆、檸檬 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-avocado-smoked-salmon-open-toast.svg
+coverImage: /images/recipes/sf-avocado-smoked-salmon-open-toast.webp
 servings: 1
 prepTime: 18
 cookTime: 14

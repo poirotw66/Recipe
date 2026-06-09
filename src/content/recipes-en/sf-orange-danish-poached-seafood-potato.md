@@ -2,7 +2,7 @@
 title: Orange Danish Poached Seafood Potato
 recipeId: sf-orange-danish-poached-seafood-potato
 description: "Second Floor Cafe-inspired brunch with restaurant-style portions and 橙香丹麥、水波蛋、海鮮、炒菇、炒薯."
-coverImage: /images/recipes/sf-orange-danish-poached-seafood-potato.svg
+coverImage: /images/recipes/sf-orange-danish-poached-seafood-potato.webp
 servings: 1
 prepTime: 20
 cookTime: 18

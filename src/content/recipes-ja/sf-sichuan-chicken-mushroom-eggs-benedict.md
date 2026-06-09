@@ -2,7 +2,7 @@
 title: 台胃口水雞奶油炒菇班尼蛋 再現レシピ
 recipeId: sf-sichuan-chicken-mushroom-eggs-benedict
 description: Second Floor Cafe 風に 歐包、口水雞、奶油炒菇、水波蛋 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-sichuan-chicken-mushroom-eggs-benedict.svg
+coverImage: /images/recipes/sf-sichuan-chicken-mushroom-eggs-benedict.webp
 servings: 1
 prepTime: 20
 cookTime: 18

@@ -2,7 +2,7 @@
 title: Black Truffle Cordon Bleu Pork Open
 recipeId: sf-black-truffle-cordon-bleu-pork-open
 description: "Second Floor Cafe-inspired open sandwiches with restaurant-style portions and 歐包、藍帶豬排、黑松露醬、水波蛋."
-coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.svg
+coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.webp
 servings: 1
 prepTime: 18
 cookTime: 14

@@ -2,7 +2,7 @@
 title: Supreme Cheese Omelette
 recipeId: sf-supreme-cheese-omelette
 description: "Second Floor Cafe-inspired brunch with restaurant-style portions and 歐姆蕾、火腿、玉米、綜合起司、炒薯."
-coverImage: /images/recipes/sf-supreme-cheese-omelette.svg
+coverImage: /images/recipes/sf-supreme-cheese-omelette.webp
 servings: 1
 prepTime: 20
 cookTime: 18

@@ -1,7 +1,7 @@
 ---
 title: 橙香法式丹麥 舒肥牛排
 description: 參考貳樓 Second Floor Cafe 常見做法，以 橙香丹麥、舒肥牛排、荷包蛋、炒薯、蜂蜜芥末 還原 橙香法式丹麥 舒肥牛排 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-orange-danish-sous-vide-steak.svg
+coverImage: /images/recipes/sf-orange-danish-sous-vide-steak.webp
 servings: 1
 prepTime: 20
 cookTime: 18

@@ -2,7 +2,7 @@
 title: 總匯奶起司歐姆蕾 再現レシピ
 recipeId: sf-supreme-cheese-omelette
 description: Second Floor Cafe 風に 歐姆蕾、火腿、玉米、綜合起司、炒薯 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-supreme-cheese-omelette.svg
+coverImage: /images/recipes/sf-supreme-cheese-omelette.webp
 servings: 1
 prepTime: 20
 cookTime: 18

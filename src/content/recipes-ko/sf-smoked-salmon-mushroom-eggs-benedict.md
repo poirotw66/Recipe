@@ -2,7 +2,7 @@
 title: 燻鮭魚奶油炒菇班尼蛋 스타일 레시피
 recipeId: sf-smoked-salmon-mushroom-eggs-benedict
 description: Second Floor Cafe 스타일로 歐包、燻鮭、酸豆、奶油炒菇、水波蛋 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-smoked-salmon-mushroom-eggs-benedict.svg
+coverImage: /images/recipes/sf-smoked-salmon-mushroom-eggs-benedict.webp
 servings: 1
 prepTime: 20
 cookTime: 18

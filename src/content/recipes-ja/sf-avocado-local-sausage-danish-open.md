@@ -2,7 +2,7 @@
 title: 酪梨 Local 香腸／丹麥 Open 再現レシピ
 recipeId: sf-avocado-local-sausage-danish-open
 description: Second Floor Cafe 風に 丹麥麵包、酪梨、香腸、水波蛋、辣椒粉 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-avocado-local-sausage-danish-open.svg
+coverImage: /images/recipes/sf-avocado-local-sausage-danish-open.webp
 servings: 1
 prepTime: 18
 cookTime: 14

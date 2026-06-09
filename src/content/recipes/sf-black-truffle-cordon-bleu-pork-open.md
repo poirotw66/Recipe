@@ -1,7 +1,7 @@
 ---
 title: 黑松露厚切藍帶豬／歐包 Open
 description: 參考貳樓 Second Floor Cafe 常見做法，以 歐包、藍帶豬排、黑松露醬、水波蛋 還原 黑松露厚切藍帶豬／歐包 Open 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.svg
+coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.webp
 servings: 1
 prepTime: 18
 cookTime: 14
