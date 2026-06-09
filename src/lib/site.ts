@@ -10,6 +10,11 @@ export const bloomPickerUrl = "https://www.bloss0m.com/bloom-picker/";
 export const bloomRenderUrl = "https://www.bloss0m.com/bloom-render/";
 export const recipeSiteUrl = "https://recipe.bloss0m.com/";
 
+/** Raster OG image for social crawlers (SVG is not reliably used for previews). */
+export const defaultOgImagePath = "/images/og-default.jpg";
+export const defaultOgImageWidth = 1200;
+export const defaultOgImageHeight = 630;
+
 export const bloss0mBrandName = "Bloss0m";
 
 /** Canonical origin: env override, then astro.config site, then recipeSiteUrl. */

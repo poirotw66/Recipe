@@ -1,7 +1,12 @@
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const outputPath = join(process.cwd(), "public/images/og-default.svg");
+/**
+ * Legacy text-card SVG fallback. Production OG/favicon assets come from
+ * `website.png` via `npm run brand-assets` (scripts/process-brand-assets.py).
+ */
+const imagesDir = join(process.cwd(), "public/images");
+const outputPath = join(imagesDir, "og-default.svg");
 
 const svg = `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Bloom Kitchen default cover">
@@ -20,3 +25,4 @@ const svg = `<?xml version="1.0" encoding="UTF-8"?>
 
 writeFileSync(outputPath, svg, "utf8");
 console.log(`Wrote ${outputPath}`);
+console.log("Run npm run brand-assets to refresh og-default.jpg and favicons from website.png.");

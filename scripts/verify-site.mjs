@@ -29,7 +29,10 @@ const requiredFiles = [
   "src/pages/privacy-policy.astro",
   "src/pages/terms.astro",
   "src/pages/404.astro",
-  "public/images/og-default.svg",
+  "public/images/og-default.jpg",
+  "public/images/site-icon-512.png",
+  "public/favicon-48.png",
+  "public/apple-touch-icon.png",
   "docs/ops/search-console-setup.md",
   "docs/ops/monthly-traffic-review.md",
   "src/pages/robots.txt.ts",
@@ -161,8 +164,13 @@ if (!seoHead.includes("google-site-verification") || !seoHead.includes("gscVerif
   process.exit(1);
 }
 
-if (!seoHead.includes("/images/og-default.svg")) {
-  console.error("SeoHead must default to /images/og-default.svg (spec-014).");
+if (!seoHead.includes("defaultOgImagePath")) {
+  console.error("SeoHead must default to raster defaultOgImagePath (spec-014).");
+  process.exit(1);
+}
+
+if (!baseLayout.includes('rel="icon"') || !baseLayout.includes("/favicon-48.png")) {
+  console.error("BaseLayout must declare favicon links for search and browser icons.");
   process.exit(1);
 }
 
