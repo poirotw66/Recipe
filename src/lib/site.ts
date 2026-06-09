@@ -11,6 +11,7 @@ export const bloomRenderUrl = "https://www.bloss0m.com/bloom-render/";
 export const recipeSiteUrl = "https://recipe.bloss0m.com/";
 
 /** Raster OG image for social crawlers (SVG is not reliably used for previews). */
+export const brandMarkImagePath = "/images/site-icon-512.png";
 export const defaultOgImagePath = "/images/og-default.jpg";
 export const defaultOgImageWidth = 1200;
 export const defaultOgImageHeight = 630;
