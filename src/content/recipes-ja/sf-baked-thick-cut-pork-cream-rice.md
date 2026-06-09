@@ -2,7 +2,7 @@
 title: 焗厚切豬排奶油飯 再現レシピ
 recipeId: sf-baked-thick-cut-pork-cream-rice
 description: Second Floor Cafe 風に 曙光醬、厚切豬排、花椰菜、培根、起司 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-baked-thick-cut-pork-cream-rice.svg
+coverImage: /images/recipes/sf-baked-thick-cut-pork-cream-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

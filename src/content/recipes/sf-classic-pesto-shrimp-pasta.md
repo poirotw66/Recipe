@@ -1,7 +1,7 @@
 ---
 title: 經典青醬鮮蝦麵
 description: 參考貳樓 Second Floor Cafe 常見做法，以 青醬、鮮蝦、松子、起司 還原 經典青醬鮮蝦麵 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-classic-pesto-shrimp-pasta.svg
+coverImage: /images/recipes/sf-classic-pesto-shrimp-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

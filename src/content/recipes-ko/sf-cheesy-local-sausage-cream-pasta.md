@@ -2,7 +2,7 @@
 title: 起司 Local 香腸奶白麵 스타일 레시피
 recipeId: sf-cheesy-local-sausage-cream-pasta
 description: Second Floor Cafe 스타일로 奶油白醬、Local 香腸、三種起司、九層塔 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-cheesy-local-sausage-cream-pasta.svg
+coverImage: /images/recipes/sf-cheesy-local-sausage-cream-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

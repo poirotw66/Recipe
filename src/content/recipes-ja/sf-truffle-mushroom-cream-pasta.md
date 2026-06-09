@@ -2,7 +2,7 @@
 title: 松露蕈菇奶油麵 再現レシピ
 recipeId: sf-truffle-mushroom-cream-pasta
 description: Second Floor Cafe 風に 松露奶油醬、綜合蕈菇、起司 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-truffle-mushroom-cream-pasta.svg
+coverImage: /images/recipes/sf-truffle-mushroom-cream-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

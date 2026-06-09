@@ -2,7 +2,7 @@
 title: Homestyle Meat Sauce Penne With Meatballs
 recipeId: sf-homestyle-meat-sauce-penne-with-meatballs
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 肉醬、牛肉丸、番茄乾、起司."
-coverImage: /images/recipes/sf-homestyle-meat-sauce-penne-with-meatballs.svg
+coverImage: /images/recipes/sf-homestyle-meat-sauce-penne-with-meatballs.webp
 servings: 1
 prepTime: 18
 cookTime: 18

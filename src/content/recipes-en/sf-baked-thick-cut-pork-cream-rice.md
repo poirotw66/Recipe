@@ -2,7 +2,7 @@
 title: Baked Thick Cut Pork Cream Rice
 recipeId: sf-baked-thick-cut-pork-cream-rice
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 曙光醬、厚切豬排、花椰菜、培根、起司."
-coverImage: /images/recipes/sf-baked-thick-cut-pork-cream-rice.svg
+coverImage: /images/recipes/sf-baked-thick-cut-pork-cream-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

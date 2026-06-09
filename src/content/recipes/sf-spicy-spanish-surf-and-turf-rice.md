@@ -1,7 +1,7 @@
 ---
 title: 西班牙辣炒海陸飯
 description: 參考貳樓 Second Floor Cafe 常見做法，以 番紅花飯、蝦、蛤蜊、香腸、起司 還原 西班牙辣炒海陸飯 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-spicy-spanish-surf-and-turf-rice.svg
+coverImage: /images/recipes/sf-spicy-spanish-surf-and-turf-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

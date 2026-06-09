@@ -2,7 +2,7 @@
 title: 辣茄汁香煸培根長管麵 再現レシピ
 recipeId: sf-spicy-tomato-bacon-penne
 description: Second Floor Cafe 風に 培根、番茄、辣醬、辣椒碎、起司 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-spicy-tomato-bacon-penne.svg
+coverImage: /images/recipes/sf-spicy-tomato-bacon-penne.webp
 servings: 1
 prepTime: 18
 cookTime: 18

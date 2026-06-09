@@ -2,7 +2,7 @@
 title: Bloody Mary Spicy Rice
 recipeId: sf-bloody-mary-spicy-rice
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 番茄汁、奶油醬、時蔬、香米、薑."
-coverImage: /images/recipes/sf-bloody-mary-spicy-rice.svg
+coverImage: /images/recipes/sf-bloody-mary-spicy-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

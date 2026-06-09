@@ -1,7 +1,7 @@
 ---
 title: 松露蕈菇奶油麵
 description: 參考貳樓 Second Floor Cafe 常見做法，以 松露奶油醬、綜合蕈菇、起司 還原 松露蕈菇奶油麵 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-truffle-mushroom-cream-pasta.svg
+coverImage: /images/recipes/sf-truffle-mushroom-cream-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

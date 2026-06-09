@@ -1,7 +1,7 @@
 ---
 title: 起司 Local 香腸奶白麵
 description: 參考貳樓 Second Floor Cafe 常見做法，以 奶油白醬、Local 香腸、三種起司、九層塔 還原 起司 Local 香腸奶白麵 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-cheesy-local-sausage-cream-pasta.svg
+coverImage: /images/recipes/sf-cheesy-local-sausage-cream-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

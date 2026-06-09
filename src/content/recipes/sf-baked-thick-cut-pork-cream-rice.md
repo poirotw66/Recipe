@@ -1,7 +1,7 @@
 ---
 title: 焗厚切豬排奶油飯
 description: 參考貳樓 Second Floor Cafe 常見做法，以 曙光醬、厚切豬排、花椰菜、培根、起司 還原 焗厚切豬排奶油飯 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-baked-thick-cut-pork-cream-rice.svg
+coverImage: /images/recipes/sf-baked-thick-cut-pork-cream-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

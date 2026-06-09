@@ -2,7 +2,7 @@
 title: 蕈菇奶起司歐姆蕾 스타일 레시피
 recipeId: sf-mushroom-cheese-omelette
 description: Second Floor Cafe 스타일로 歐姆蕾、奶油炒菇、綜合起司 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-mushroom-cheese-omelette.svg
+coverImage: /images/recipes/sf-mushroom-cheese-omelette.webp
 servings: 1
 prepTime: 20
 cookTime: 18

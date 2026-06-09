@@ -2,7 +2,7 @@
 title: 香爆椒麻唐揚雞麵 스타일 레시피
 recipeId: sf-spicy-pepper-karaage-pasta
 description: Second Floor Cafe 스타일로 茄汁、唐揚雞、朝天椒、九層塔、起司絲 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-spicy-pepper-karaage-pasta.svg
+coverImage: /images/recipes/sf-spicy-pepper-karaage-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

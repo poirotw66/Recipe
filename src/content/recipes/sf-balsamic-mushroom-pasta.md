@@ -1,7 +1,7 @@
 ---
 title: 巴薩米克蕈菇麵
 description: 參考貳樓 Second Floor Cafe 常見做法，以 巴薩米克、蕈菇、松子、生蛋 還原 巴薩米克蕈菇麵 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-balsamic-mushroom-pasta.svg
+coverImage: /images/recipes/sf-balsamic-mushroom-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

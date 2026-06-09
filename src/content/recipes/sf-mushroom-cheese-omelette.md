@@ -1,7 +1,7 @@
 ---
 title: 蕈菇奶起司歐姆蕾
 description: 參考貳樓 Second Floor Cafe 常見做法，以 歐姆蕾、奶油炒菇、綜合起司 還原 蕈菇奶起司歐姆蕾 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-mushroom-cheese-omelette.svg
+coverImage: /images/recipes/sf-mushroom-cheese-omelette.webp
 servings: 1
 prepTime: 20
 cookTime: 18

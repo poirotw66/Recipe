@@ -2,7 +2,7 @@
 title: Cheesy Local Sausage Cream Pasta
 recipeId: sf-cheesy-local-sausage-cream-pasta
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 奶油白醬、Local 香腸、三種起司、九層塔."
-coverImage: /images/recipes/sf-cheesy-local-sausage-cream-pasta.svg
+coverImage: /images/recipes/sf-cheesy-local-sausage-cream-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

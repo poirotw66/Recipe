@@ -2,7 +2,7 @@
 title: White Wine Garlic Clam Squid Ink Pasta
 recipeId: sf-white-wine-garlic-clam-squid-ink-pasta
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 白酒、蛤蜊、蒜、九層塔、墨魚麵."
-coverImage: /images/recipes/sf-white-wine-garlic-clam-squid-ink-pasta.svg
+coverImage: /images/recipes/sf-white-wine-garlic-clam-squid-ink-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

@@ -2,7 +2,7 @@
 title: Salted Egg Bitter Melon Pasta
 recipeId: sf-salted-egg-bitter-melon-pasta
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 鹹蛋、山苦瓜、杏鮑菇、山藥、辣椒碎."
-coverImage: /images/recipes/sf-salted-egg-bitter-melon-pasta.svg
+coverImage: /images/recipes/sf-salted-egg-bitter-melon-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

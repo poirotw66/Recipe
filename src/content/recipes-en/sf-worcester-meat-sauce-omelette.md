@@ -2,7 +2,7 @@
 title: Worcester Meat Sauce Omelette
 recipeId: sf-worcester-meat-sauce-omelette
 description: "Second Floor Cafe-inspired brunch with restaurant-style portions and 歐姆蕾、烏斯特肉醬、綜合起司、炒薯."
-coverImage: /images/recipes/sf-worcester-meat-sauce-omelette.svg
+coverImage: /images/recipes/sf-worcester-meat-sauce-omelette.webp
 servings: 1
 prepTime: 20
 cookTime: 18

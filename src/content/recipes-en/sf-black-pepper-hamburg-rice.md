@@ -2,7 +2,7 @@
 title: Black Pepper Hamburg Rice
 recipeId: sf-black-pepper-hamburg-rice
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 黑胡椒醬、漢堡排、起司、荷包蛋、香米."
-coverImage: /images/recipes/sf-black-pepper-hamburg-rice.svg
+coverImage: /images/recipes/sf-black-pepper-hamburg-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

@@ -2,7 +2,7 @@
 title: 台式熱炒鹹蛋苦瓜麵 스타일 레시피
 recipeId: sf-salted-egg-bitter-melon-pasta
 description: Second Floor Cafe 스타일로 鹹蛋、山苦瓜、杏鮑菇、山藥、辣椒碎 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-salted-egg-bitter-melon-pasta.svg
+coverImage: /images/recipes/sf-salted-egg-bitter-melon-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

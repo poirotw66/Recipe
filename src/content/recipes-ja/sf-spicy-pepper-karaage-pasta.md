@@ -2,7 +2,7 @@
 title: 香爆椒麻唐揚雞麵 再現レシピ
 recipeId: sf-spicy-pepper-karaage-pasta
 description: Second Floor Cafe 風に 茄汁、唐揚雞、朝天椒、九層塔、起司絲 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-spicy-pepper-karaage-pasta.svg
+coverImage: /images/recipes/sf-spicy-pepper-karaage-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

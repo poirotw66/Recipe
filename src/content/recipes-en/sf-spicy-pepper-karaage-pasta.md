@@ -2,7 +2,7 @@
 title: Spicy Pepper Karaage Pasta
 recipeId: sf-spicy-pepper-karaage-pasta
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 茄汁、唐揚雞、朝天椒、九層塔、起司絲."
-coverImage: /images/recipes/sf-spicy-pepper-karaage-pasta.svg
+coverImage: /images/recipes/sf-spicy-pepper-karaage-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

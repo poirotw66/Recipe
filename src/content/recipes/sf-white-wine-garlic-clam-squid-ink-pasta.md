@@ -1,7 +1,7 @@
 ---
 title: 酒香蒜味蛤蜊墨魚麵
 description: 參考貳樓 Second Floor Cafe 常見做法，以 白酒、蛤蜊、蒜、九層塔、墨魚麵 還原 酒香蒜味蛤蜊墨魚麵 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-white-wine-garlic-clam-squid-ink-pasta.svg
+coverImage: /images/recipes/sf-white-wine-garlic-clam-squid-ink-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

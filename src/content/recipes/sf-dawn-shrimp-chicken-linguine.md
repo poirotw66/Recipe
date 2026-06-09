@@ -1,7 +1,7 @@
 ---
 title: 曙光汁鮮蝦雞肉麵
 description: 參考貳樓 Second Floor Cafe 常見做法，以 曙光奶油醬、雞肉、蝦、炙燒紅椒、起司絲 還原 曙光汁鮮蝦雞肉麵 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-dawn-shrimp-chicken-linguine.svg
+coverImage: /images/recipes/sf-dawn-shrimp-chicken-linguine.webp
 servings: 1
 prepTime: 18
 cookTime: 18

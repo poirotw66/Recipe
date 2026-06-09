@@ -2,7 +2,7 @@
 title: 巴薩米克蕈菇麵 再現レシピ
 recipeId: sf-balsamic-mushroom-pasta
 description: Second Floor Cafe 風に 巴薩米克、蕈菇、松子、生蛋 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-balsamic-mushroom-pasta.svg
+coverImage: /images/recipes/sf-balsamic-mushroom-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

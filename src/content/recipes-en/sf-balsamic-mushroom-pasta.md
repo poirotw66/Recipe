@@ -2,7 +2,7 @@
 title: Balsamic Mushroom Pasta
 recipeId: sf-balsamic-mushroom-pasta
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 巴薩米克、蕈菇、松子、生蛋."
-coverImage: /images/recipes/sf-balsamic-mushroom-pasta.svg
+coverImage: /images/recipes/sf-balsamic-mushroom-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

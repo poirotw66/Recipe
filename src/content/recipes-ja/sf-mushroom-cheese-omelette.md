@@ -2,7 +2,7 @@
 title: 蕈菇奶起司歐姆蕾 再現レシピ
 recipeId: sf-mushroom-cheese-omelette
 description: Second Floor Cafe 風に 歐姆蕾、奶油炒菇、綜合起司 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-mushroom-cheese-omelette.svg
+coverImage: /images/recipes/sf-mushroom-cheese-omelette.webp
 servings: 1
 prepTime: 20
 cookTime: 18

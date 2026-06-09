@@ -2,7 +2,7 @@
 title: Classic Pesto Shrimp Pasta
 recipeId: sf-classic-pesto-shrimp-pasta
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 青醬、鮮蝦、松子、起司."
-coverImage: /images/recipes/sf-classic-pesto-shrimp-pasta.svg
+coverImage: /images/recipes/sf-classic-pesto-shrimp-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

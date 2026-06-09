@@ -2,7 +2,7 @@
 title: Second Floor Fiesta Shrimp Penne
 recipeId: sf-second-floor-fiesta-shrimp-penne
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and Taco 調味、鮮蝦、奶油醬."
-coverImage: /images/recipes/sf-second-floor-fiesta-shrimp-penne.svg
+coverImage: /images/recipes/sf-second-floor-fiesta-shrimp-penne.webp
 servings: 1
 prepTime: 18
 cookTime: 18

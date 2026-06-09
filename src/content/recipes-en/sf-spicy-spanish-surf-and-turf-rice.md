@@ -2,7 +2,7 @@
 title: Spicy Spanish Surf And Turf Rice
 recipeId: sf-spicy-spanish-surf-and-turf-rice
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 番紅花飯、蝦、蛤蜊、香腸、起司."
-coverImage: /images/recipes/sf-spicy-spanish-surf-and-turf-rice.svg
+coverImage: /images/recipes/sf-spicy-spanish-surf-and-turf-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

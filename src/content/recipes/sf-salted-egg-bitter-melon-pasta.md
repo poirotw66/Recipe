@@ -1,7 +1,7 @@
 ---
 title: 台式熱炒鹹蛋苦瓜麵
 description: 參考貳樓 Second Floor Cafe 常見做法，以 鹹蛋、山苦瓜、杏鮑菇、山藥、辣椒碎 還原 台式熱炒鹹蛋苦瓜麵 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-salted-egg-bitter-melon-pasta.svg
+coverImage: /images/recipes/sf-salted-egg-bitter-melon-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

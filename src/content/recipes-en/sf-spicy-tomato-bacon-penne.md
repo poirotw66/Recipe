@@ -2,7 +2,7 @@
 title: Spicy Tomato Bacon Penne
 recipeId: sf-spicy-tomato-bacon-penne
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 培根、番茄、辣醬、辣椒碎、起司."
-coverImage: /images/recipes/sf-spicy-tomato-bacon-penne.svg
+coverImage: /images/recipes/sf-spicy-tomato-bacon-penne.webp
 servings: 1
 prepTime: 18
 cookTime: 18

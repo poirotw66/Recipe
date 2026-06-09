@@ -2,7 +2,7 @@
 title: 酒香蒜味蛤蜊墨魚麵 再現レシピ
 recipeId: sf-white-wine-garlic-clam-squid-ink-pasta
 description: Second Floor Cafe 風に 白酒、蛤蜊、蒜、九層塔、墨魚麵 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-white-wine-garlic-clam-squid-ink-pasta.svg
+coverImage: /images/recipes/sf-white-wine-garlic-clam-squid-ink-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

@@ -2,7 +2,7 @@
 title: 血腥瑪麗辣味飯 스타일 레시피
 recipeId: sf-bloody-mary-spicy-rice
 description: Second Floor Cafe 스타일로 番茄汁、奶油醬、時蔬、香米、薑 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-bloody-mary-spicy-rice.svg
+coverImage: /images/recipes/sf-bloody-mary-spicy-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

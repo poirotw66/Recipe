@@ -1,7 +1,7 @@
 ---
 title: 家鄉肉醬長管麵佐老媽肉丸
 description: 參考貳樓 Second Floor Cafe 常見做法，以 肉醬、牛肉丸、番茄乾、起司 還原 家鄉肉醬長管麵佐老媽肉丸 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-homestyle-meat-sauce-penne-with-meatballs.svg
+coverImage: /images/recipes/sf-homestyle-meat-sauce-penne-with-meatballs.webp
 servings: 1
 prepTime: 18
 cookTime: 18

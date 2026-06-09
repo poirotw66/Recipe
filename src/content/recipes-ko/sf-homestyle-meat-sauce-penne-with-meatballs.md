@@ -2,7 +2,7 @@
 title: 家鄉肉醬長管麵佐老媽肉丸 스타일 레시피
 recipeId: sf-homestyle-meat-sauce-penne-with-meatballs
 description: Second Floor Cafe 스타일로 肉醬、牛肉丸、番茄乾、起司 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-homestyle-meat-sauce-penne-with-meatballs.svg
+coverImage: /images/recipes/sf-homestyle-meat-sauce-penne-with-meatballs.webp
 servings: 1
 prepTime: 18
 cookTime: 18

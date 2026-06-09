@@ -2,7 +2,7 @@
 title: 烏斯特肉醬歐姆蕾 再現レシピ
 recipeId: sf-worcester-meat-sauce-omelette
 description: Second Floor Cafe 風に 歐姆蕾、烏斯特肉醬、綜合起司、炒薯 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-worcester-meat-sauce-omelette.svg
+coverImage: /images/recipes/sf-worcester-meat-sauce-omelette.webp
 servings: 1
 prepTime: 20
 cookTime: 18

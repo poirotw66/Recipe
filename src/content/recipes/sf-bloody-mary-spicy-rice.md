@@ -1,7 +1,7 @@
 ---
 title: 血腥瑪麗辣味飯
 description: 參考貳樓 Second Floor Cafe 常見做法，以 番茄汁、奶油醬、時蔬、香米、薑 還原 血腥瑪麗辣味飯 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-bloody-mary-spicy-rice.svg
+coverImage: /images/recipes/sf-bloody-mary-spicy-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

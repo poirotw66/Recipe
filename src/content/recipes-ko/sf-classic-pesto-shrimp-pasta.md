@@ -2,7 +2,7 @@
 title: 經典青醬鮮蝦麵 스타일 레시피
 recipeId: sf-classic-pesto-shrimp-pasta
 description: Second Floor Cafe 스타일로 青醬、鮮蝦、松子、起司 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-classic-pesto-shrimp-pasta.svg
+coverImage: /images/recipes/sf-classic-pesto-shrimp-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

@@ -1,7 +1,7 @@
 ---
 title: 老闆黑胡椒漢堡排飯
 description: 參考貳樓 Second Floor Cafe 常見做法，以 黑胡椒醬、漢堡排、起司、荷包蛋、香米 還原 老闆黑胡椒漢堡排飯 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-black-pepper-hamburg-rice.svg
+coverImage: /images/recipes/sf-black-pepper-hamburg-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

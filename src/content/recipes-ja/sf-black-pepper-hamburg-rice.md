@@ -2,7 +2,7 @@
 title: 老闆黑胡椒漢堡排飯 再現レシピ
 recipeId: sf-black-pepper-hamburg-rice
 description: Second Floor Cafe 風に 黑胡椒醬、漢堡排、起司、荷包蛋、香米 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-black-pepper-hamburg-rice.svg
+coverImage: /images/recipes/sf-black-pepper-hamburg-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

@@ -2,7 +2,7 @@
 title: Dawn Shrimp Chicken Linguine
 recipeId: sf-dawn-shrimp-chicken-linguine
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 曙光奶油醬、雞肉、蝦、炙燒紅椒、起司絲."
-coverImage: /images/recipes/sf-dawn-shrimp-chicken-linguine.svg
+coverImage: /images/recipes/sf-dawn-shrimp-chicken-linguine.webp
 servings: 1
 prepTime: 18
 cookTime: 18

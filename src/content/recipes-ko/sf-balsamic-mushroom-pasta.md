@@ -2,7 +2,7 @@
 title: 巴薩米克蕈菇麵 스타일 레시피
 recipeId: sf-balsamic-mushroom-pasta
 description: Second Floor Cafe 스타일로 巴薩米克、蕈菇、松子、生蛋 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-balsamic-mushroom-pasta.svg
+coverImage: /images/recipes/sf-balsamic-mushroom-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

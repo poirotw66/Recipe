@@ -2,7 +2,7 @@
 title: Truffle Mushroom Cream Pasta
 recipeId: sf-truffle-mushroom-cream-pasta
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 松露奶油醬、綜合蕈菇、起司."
-coverImage: /images/recipes/sf-truffle-mushroom-cream-pasta.svg
+coverImage: /images/recipes/sf-truffle-mushroom-cream-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

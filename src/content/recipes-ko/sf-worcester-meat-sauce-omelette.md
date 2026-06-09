@@ -2,7 +2,7 @@
 title: 烏斯特肉醬歐姆蕾 스타일 레시피
 recipeId: sf-worcester-meat-sauce-omelette
 description: Second Floor Cafe 스타일로 歐姆蕾、烏斯特肉醬、綜合起司、炒薯 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-worcester-meat-sauce-omelette.svg
+coverImage: /images/recipes/sf-worcester-meat-sauce-omelette.webp
 servings: 1
 prepTime: 20
 cookTime: 18

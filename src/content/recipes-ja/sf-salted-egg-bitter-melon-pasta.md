@@ -2,7 +2,7 @@
 title: 台式熱炒鹹蛋苦瓜麵 再現レシピ
 recipeId: sf-salted-egg-bitter-melon-pasta
 description: Second Floor Cafe 風に 鹹蛋、山苦瓜、杏鮑菇、山藥、辣椒碎 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-salted-egg-bitter-melon-pasta.svg
+coverImage: /images/recipes/sf-salted-egg-bitter-melon-pasta.webp
 servings: 1
 prepTime: 18
 cookTime: 18

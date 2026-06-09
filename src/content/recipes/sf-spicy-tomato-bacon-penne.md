@@ -1,7 +1,7 @@
 ---
 title: 辣茄汁香煸培根長管麵
 description: 參考貳樓 Second Floor Cafe 常見做法，以 培根、番茄、辣醬、辣椒碎、起司 還原 辣茄汁香煸培根長管麵 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-spicy-tomato-bacon-penne.svg
+coverImage: /images/recipes/sf-spicy-tomato-bacon-penne.webp
 servings: 1
 prepTime: 18
 cookTime: 18

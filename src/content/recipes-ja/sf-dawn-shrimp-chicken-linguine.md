@@ -2,7 +2,7 @@
 title: 曙光汁鮮蝦雞肉麵 再現レシピ
 recipeId: sf-dawn-shrimp-chicken-linguine
 description: Second Floor Cafe 風に 曙光奶油醬、雞肉、蝦、炙燒紅椒、起司絲 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-dawn-shrimp-chicken-linguine.svg
+coverImage: /images/recipes/sf-dawn-shrimp-chicken-linguine.webp
 servings: 1
 prepTime: 18
 cookTime: 18
