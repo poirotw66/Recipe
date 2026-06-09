@@ -136,7 +136,9 @@ const homePath = localePath(locale, "/");
                 {recipe.data.cookTime} {t(locale, "recipe.minutes")}
               </p>
               <ol class="steps-list steps-list--numbered">
-                {recipe.data.steps.map((step) => <li>{step}</li>)}
+                {recipe.data.steps.map((step, index) => (
+                  <li id={`step-${index + 1}`}>{step}</li>
+                ))}
               </ol>
             </div>
           </article>

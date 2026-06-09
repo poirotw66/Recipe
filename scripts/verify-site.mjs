@@ -205,6 +205,16 @@ if (!seoLib.includes("buildItemListJsonLd") || !seoLib.includes('"ItemList"')) {
   process.exit(1);
 }
 
+if (
+  !seoLib.includes('"@type": "HowToStep"') ||
+  !seoLib.includes("name: stepName(position)") ||
+  !seoLib.includes("#step-${position}") ||
+  !seoLib.includes("image: coverImageUrl")
+) {
+  console.error("src/lib/seo.ts must emit complete HowToStep recipeInstructions for Recipe rich results.");
+  process.exit(1);
+}
+
 if (!fridgeLogic.includes("rankRecipesForFridge") || !fridgeLogic.includes("resolveInputIngredients") || !fridgeLogic.includes("高蛋白料理")) {
   console.error("src/lib/fridge.js must provide fridge matching helpers and clean preference labels.");
   process.exit(1);
@@ -376,7 +386,14 @@ const pageExpectations = [
   },
   {
     file: "src/pages/recipes/[slug].astro",
-    markers: ["buildRecipeJsonLd", "buildFaqJsonLd", "AdSlot", "recipe-key-facts", "steps-list--numbered"]
+    markers: [
+      "buildRecipeJsonLd",
+      "buildFaqJsonLd",
+      "AdSlot",
+      "recipe-key-facts",
+      "steps-list--numbered",
+      'id={`step-${index + 1}`}'
+    ]
   },
   {
     file: "src/pages/ingredients/index.astro",

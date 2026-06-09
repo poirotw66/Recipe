@@ -1,4 +1,5 @@
 import type { Locale } from "./i18n";
+import { localePath } from "./i18n";
 import type { LocalizedRecipeEntry } from "./recipe-locale";
 import type { IngredientItem, ScenarioItem } from "./taxonomy";
 import { brandName, getSiteUrl } from "./site";
@@ -50,12 +51,26 @@ const recipeCuisineByLocale: Record<Locale, string> = {
   ko: "대만 가정 요리"
 };
 
-export const buildRecipeJsonLd = (recipe: LocalizedRecipeEntry, locale: Locale = "zh-TW") => ({
+const recipeStepNameByLocale: Record<Locale, (stepNumber: number) => string> = {
+  "zh-TW": (stepNumber) => `步驟 ${stepNumber}`,
+  en: (stepNumber) => `Step ${stepNumber}`,
+  ja: (stepNumber) => `手順 ${stepNumber}`,
+  ko: (stepNumber) => `단계 ${stepNumber}`
+};
+
+export const buildRecipeJsonLd = (recipe: LocalizedRecipeEntry, locale: Locale = "zh-TW") => {
+  const recipePagePath = localePath(locale, `/recipes/${recipe.slug}`);
+  const recipePageUrl = absoluteUrl(recipePagePath);
+  const coverImageUrl = absoluteUrl(recipe.data.coverImage);
+  const stepName = recipeStepNameByLocale[locale];
+
+  return {
   "@context": "https://schema.org",
   "@type": "Recipe",
   name: recipe.data.title,
   description: recipe.data.description,
-  image: [absoluteUrl(recipe.data.coverImage)],
+  url: recipePageUrl,
+  image: [coverImageUrl],
   author: {
     "@type": "Organization",
     name: brandName
@@ -70,10 +85,17 @@ export const buildRecipeJsonLd = (recipe: LocalizedRecipeEntry, locale: Locale =
   recipeCuisine: recipeCuisineByLocale[locale],
   keywords: recipe.data.tags.join(", "),
   recipeIngredient: recipe.data.ingredients.map((item) => `${item.name} ${item.amount}${item.unit}`),
-  recipeInstructions: recipe.data.steps.map((step) => ({
-    "@type": "HowToStep",
-    text: step
-  })),
+  recipeInstructions: recipe.data.steps.map((step, index) => {
+    const position = index + 1;
+    return {
+      "@type": "HowToStep",
+      position,
+      name: stepName(position),
+      text: step,
+      url: `${recipePageUrl}#step-${position}`,
+      image: coverImageUrl
+    };
+  }),
   nutrition: recipe.data.calories
     ? {
         "@type": "NutritionInformation",
@@ -83,7 +105,8 @@ export const buildRecipeJsonLd = (recipe: LocalizedRecipeEntry, locale: Locale =
         carbohydrateContent: recipe.data.carbs ? `${recipe.data.carbs} g` : undefined
       }
     : undefined
-});
+  };
+};
 
 export const buildFaqJsonLd = (faqs: Array<{ question: string; answer: string }>) => ({
   "@context": "https://schema.org",

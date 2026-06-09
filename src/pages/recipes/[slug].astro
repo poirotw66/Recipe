@@ -166,7 +166,9 @@ const topicHubLinks = getTopicHubLinksForRecipe(recipe);
                 <h2>實際做法</h2>
                 <p class="recipe-timing-note">準備 {recipe.data.prepTime} 分鐘 · 烹調 {recipe.data.cookTime} 分鐘</p>
                 <ol class="steps-list steps-list--numbered">
-                  {recipe.data.steps.map((step) => <li>{step}</li>)}
+                  {recipe.data.steps.map((step, index) => (
+                    <li id={`step-${index + 1}`}>{step}</li>
+                  ))}
                 </ol>
               </div>
             </article>
