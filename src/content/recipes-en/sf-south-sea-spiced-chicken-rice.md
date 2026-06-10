@@ -2,7 +2,7 @@
 title: South Sea Spiced Chicken Rice
 recipeId: sf-south-sea-spiced-chicken-rice
 description: "Second Floor Cafe-inspired seasonal specials with restaurant-style portions and 南洋香料、雞肉、燉飯."
-coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.svg
+coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.webp
 servings: 1
 prepTime: 20
 cookTime: 18

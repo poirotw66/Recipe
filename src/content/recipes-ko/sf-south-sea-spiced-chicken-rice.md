@@ -2,7 +2,7 @@
 title: 南洋辛香雞肉飯 스타일 레시피
 recipeId: sf-south-sea-spiced-chicken-rice
 description: Second Floor Cafe 스타일로 南洋香料、雞肉、燉飯 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.svg
+coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.webp
 servings: 1
 prepTime: 20
 cookTime: 18

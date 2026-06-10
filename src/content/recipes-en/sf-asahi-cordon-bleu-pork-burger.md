@@ -2,7 +2,7 @@
 title: Asahi Cordon Bleu Pork Burger
 recipeId: sf-asahi-cordon-bleu-pork-burger
 description: "Second Floor Cafe-inspired seasonal specials with restaurant-style portions and 藍帶豬排、漢堡麵包、起司."
-coverImage: /images/recipes/sf-asahi-cordon-bleu-pork-burger.svg
+coverImage: /images/recipes/sf-asahi-cordon-bleu-pork-burger.webp
 servings: 1
 prepTime: 20
 cookTime: 18

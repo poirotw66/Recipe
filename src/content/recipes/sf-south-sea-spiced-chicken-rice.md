@@ -1,7 +1,7 @@
 ---
 title: 南洋辛香雞肉飯
 description: 參考貳樓 Second Floor Cafe 常見做法，以 南洋香料、雞肉、燉飯 還原 南洋辛香雞肉飯 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.svg
+coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.webp
 servings: 1
 prepTime: 20
 cookTime: 18

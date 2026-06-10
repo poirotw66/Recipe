@@ -1,7 +1,7 @@
 ---
 title: 朝日藍帶豬排堡
 description: 參考貳樓 Second Floor Cafe 常見做法，以 藍帶豬排、漢堡麵包、起司 還原 朝日藍帶豬排堡 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-asahi-cordon-bleu-pork-burger.svg
+coverImage: /images/recipes/sf-asahi-cordon-bleu-pork-burger.webp
 servings: 1
 prepTime: 20
 cookTime: 18

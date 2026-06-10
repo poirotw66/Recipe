@@ -2,7 +2,7 @@
 title: 南洋辛香雞肉飯 再現レシピ
 recipeId: sf-south-sea-spiced-chicken-rice
 description: Second Floor Cafe 風に 南洋香料、雞肉、燉飯 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.svg
+coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.webp
 servings: 1
 prepTime: 20
 cookTime: 18

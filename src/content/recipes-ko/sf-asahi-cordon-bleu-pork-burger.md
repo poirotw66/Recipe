@@ -2,7 +2,7 @@
 title: 朝日藍帶豬排堡 스타일 레시피
 recipeId: sf-asahi-cordon-bleu-pork-burger
 description: Second Floor Cafe 스타일로 藍帶豬排、漢堡麵包、起司 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-asahi-cordon-bleu-pork-burger.svg
+coverImage: /images/recipes/sf-asahi-cordon-bleu-pork-burger.webp
 servings: 1
 prepTime: 20
 cookTime: 18
