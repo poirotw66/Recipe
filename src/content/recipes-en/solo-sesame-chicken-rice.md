@@ -56,18 +56,21 @@ seasonings:
   unit: tsp
 intro: Marinate strips 10 minutes before a quick stir-fry; sprinkle sesame at the end to keep aroma.
 steps:
-- Slice breast into strips; marinate with soy sauce, rice wine, sugar, and minced garlic 10 minutes.
-- Hot oiled skillet; stir-fry chicken 4 minutes until color changes.
-- Medium heat 3 more minutes until cooked through.
-- Off heat, toss with white sesame.
-- Spoon chicken over rice; blanched greens optional.
+- "Prep: Cooked rice 1bowl, Chicken breast 180g; dice Chicken breast about ½ inch, divide Cooked rice 1bowl into serving bowls."
+- Marinate Chicken breast with Soy sauce 2tbsp, Rice wine 1tbsp, White sesame seeds 1tbsp for 10 minutes; prep vegetables as needed.
+- Heat 1 Tbsp oil in a skillet over medium heat. Add Chicken breast, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 storage: Refrigerate 1 day; microwave covered with a damp paper towel about 1 minute to reheat.
 faqs:
 - question: Can I use chicken thigh?
   answer: Yes—juicier, slightly higher calories.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 A gym-friendly rice bowl that still tastes like home cooking.

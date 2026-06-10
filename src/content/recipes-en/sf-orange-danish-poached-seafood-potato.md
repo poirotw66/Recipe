@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 先把 橙香丹麥、水波蛋、海鮮 與配菜分別備好，麵包、蛋料理和沙拉配件同步規劃。
-- 主蛋白先煎或烤到七八分熟，吐司與薯塊另外上色，蛋料理最後才完成以保留質地。
-- 把 橄欖油與海鹽 調整到可覆蓋食材但不會壓過主味的濃度，再依品項加入在蛋上或主料上。
-- 組盤時保留主菜、蛋料理、麵包與生菜的分區，做出貳樓早午餐滿版又清楚的結構。
+- Prep 橙香丹麥 2份, 水波蛋 2顆, 海鮮 180公克, 炒菇 120公克; plan toast, potatoes, and salad components separately (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙).
+- Sear proteins to medium; roast potatoes; make eggs last for best texture.
+- Simmer sauce until spoon-coating; poach eggs in acidulated water.
+- "Plate in zones: main, eggs, toast, and greens for Orange Danish Poached Seafood Potato."
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -84,6 +84,9 @@ seasonings:
 - name: 黑胡椒碎
   amount: "1/4"
   unit: 小匙
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

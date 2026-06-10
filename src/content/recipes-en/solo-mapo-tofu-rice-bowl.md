@@ -60,18 +60,21 @@ seasonings:
   unit: tsp
 intro: Blanch tofu cubes first so they hold shape; sprinkle Sichuan pepper at the end for clear numbing aroma.
 steps:
-- Cut tofu into 2 cm cubes; blanch in boiling water 1 minute and drain. Mince garlic.
-- Heat oil; stir-fry pork until color changes. Add garlic and doubanjiang until red oil shows.
-- Add water and soy sauce; bring to a boil, add tofu, and simmer gently 5 minutes.
-- Nudge gently to coat—don’t stir hard.
-- Dust with Sichuan pepper powder and spoon over rice.
+- "Prep: Cooked rice 1bowl, Tofu 1block, Ground pork 60g; dice Tofu about ½ inch, divide Cooked rice 1bowl into serving bowls."
+- Marinate Tofu with Doubanjiang 1tbsp, Soy sauce 1tbsp, Garlic 2cloves for 10 minutes; prep vegetables as needed.
+- Heat 1 Tbsp oil in a skillet over medium heat. Add Tofu, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 storage: Refrigerate up to 1 day; reheat gently so tofu doesn’t crumble.
 faqs:
 - question: Can I skip the meat?
   answer: Yes—use diced mushrooms instead; still delicious.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 A bold bowl when renters want something really flavorful.

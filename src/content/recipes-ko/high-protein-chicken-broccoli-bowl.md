@@ -69,7 +69,10 @@ faqs:
   answer: 가능하며 브로콜리나 샐러드를 더하면 저탄수 버전이 됩니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 

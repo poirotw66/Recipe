@@ -27,10 +27,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 先把 南洋香料、雞肉、燉飯 分別備料，讓主食、主蛋白和配菜都能在同一時間完成。
-- 主體先煎炒或烘烤至接近餐廳出餐的熟度，再把配角食材依序加入。
-- 把 橄欖油與海鹽 調好後分次加入，讓每一層都有味道但不會蓋過主要食材。
-- 最後以 Second Floor Cafe 常見的單盤份量組裝，保留主角突出、配料飽滿的視覺重點。
+- "Prep 南洋香料 適量, 雞肉 180公克, 燉飯 適量; seasonings ready: 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙."
+- Cook main components over medium-high until properly browned and cooked through.
+- Add sides in order of cook time; keep sauces warm.
+- Plate South Sea Spiced Chicken Rice with sauce spooned over the hero ingredient.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -72,6 +72,9 @@ seasonings:
 - name: 黑胡椒碎
   amount: "1/4"
   unit: 小匙
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

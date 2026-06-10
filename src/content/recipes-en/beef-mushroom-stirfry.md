@@ -47,6 +47,8 @@ steps:
 - Shred beef; slice mushrooms; mince garlic.
 - Oil in pan; stir-fry mushrooms until lightly dried and fragrant; set aside.
 - Same pan; beef until color changes; add mushrooms, soy sauce, and pepper; toss fast.
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Let mushroom liquid cook off patiently for better flavor.
 storage: Best eaten right after cooking.
@@ -57,11 +59,15 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - Scallions
 - Chili
 - Onion
+---
+
+---
+---
 ---
 
 Ideal when you have one pack of mushrooms and need protein fast.

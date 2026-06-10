@@ -44,9 +44,10 @@ tags:
 - High protein
 intro: Carrot adds color and sweetness; diced breast stir-fries fast for two lunch boxes.
 steps:
-- Dice chicken and toss with soy sauce and rice wine.
-- Dice carrot finely and stir-fry until slightly tender.
-- Add chicken and cook through; pack with rice into containers.
+- "Prep: Chicken breast 2pieces, Carrot 1/2, Cooked white rice 2bowls; dice Chicken breast about ½ inch, divide Cooked white rice 2bowls into serving bowls."
+- Marinate Chicken breast with Soy sauce 1Tbsp, Rice wine or dry sherry 1tsp for 10 minutes; dice Carrot finely.
+- Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Carrot 2 minutes until slightly tender; Add Chicken breast, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 tips:
 - Smaller carrot dice cooks quicker.
 storage: Refrigerate up to 2 days; reheat thoroughly.
@@ -62,11 +63,15 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: '2026-05-29'
+updatedAt: "2026-06-09"
 customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell pepper
+---
+
+---
+---
 ---
 
 Simple, dry, and easy to prep ahead for workdays.

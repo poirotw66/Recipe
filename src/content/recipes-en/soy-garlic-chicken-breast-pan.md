@@ -46,6 +46,8 @@ steps:
 - Cut chicken into thick slices; mince garlic; peel onion and slice thin along the grain.
 - Toss chicken with soy and garlic; marinate 10 minutes. Medium-high skillet until both sides color.
 - Add onion; stir until slightly soft; finish with a pinch of salt.
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Do not flip constantly—better browning if you let each side sit.
 storage: Refrigerate up to 2 days; splash water when reheating.
@@ -62,11 +64,15 @@ relatedIngredients:
 - 洋蔥
 featured: false
 publishedAt: '2026-06-17'
-updatedAt: '2026-06-17'
+updatedAt: "2026-06-09"
 customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell pepper
+---
+
+---
+---
 ---
 
 A reliable protein base you can copy every week.

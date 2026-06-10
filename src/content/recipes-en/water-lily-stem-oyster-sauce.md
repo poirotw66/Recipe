@@ -23,10 +23,11 @@ tags:
 - Stir-fry
 intro: Mix oyster sauce with a little sugar first; add at the end to coat evenly.
 steps:
-- Wash water dropwort, cut sections, drain; slice garlic.
+- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
 - Hot oil; garlic until fragrant; water dropwort over high 1 minute.
 - Stir oyster sauce, soy sauce, and sugar in a bowl; pour down the side of the pan.
 - Toss 30 seconds until glazed; serve.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Oyster sauce is salty—reduce soy if needed.
 storage: Refrigerate 1 day; quick reheat with a little oil.
@@ -40,7 +41,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: Water dropwort
   amount: "200"
@@ -63,6 +64,10 @@ seasonings:
 - name: Olive oil
   amount: "1"
   unit: tbsp
+---
+
+---
+---
 ---
 
 Restaurant-style plate—watch the heat at home.

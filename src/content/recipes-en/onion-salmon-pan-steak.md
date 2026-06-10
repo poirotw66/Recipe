@@ -49,6 +49,8 @@ steps:
 - Pat salmon dry; salt lightly. Slice onion; cut broccoli into small florets.
 - Medium heat; sear salmon until colored both sides; set aside.
 - Same pan—cook onion and garlic; return salmon and broccoli; splash soy sauce; toss gently.
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Let the first side set before flipping to avoid torn skin.
 storage: Best same day; reheated fish dries out.
@@ -65,11 +67,15 @@ relatedIngredients:
 - 青花菜
 featured: false
 publishedAt: '2026-06-18'
-updatedAt: '2026-06-18'
+updatedAt: "2026-06-09"
 customAdditions:
 - Scallions
 - Minced garlic
 - Carrot
+---
+
+---
+---
 ---
 
 Simple technique, nice plating—good for a slightly nicer weekend meal.

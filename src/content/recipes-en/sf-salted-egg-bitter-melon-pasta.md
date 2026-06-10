@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 把 鹹蛋、山苦瓜、杏鮑菇 切成適合拌炒或鋪面的份量，麵或飯先煮到接近完成狀態。
-- 先把主蛋白和配菜炒出香氣，再另外收醬，讓餐廳版主醬有厚度與光澤。
-- 把主食與 橄欖油與海鹽 一起拌勻，最後再回放主蛋白與起司或香草，保持每口都有完整配料。
-- 起鍋後以單盤主餐份量盛出，讓醬汁集中在主食表面，視覺與口感都更接近 Second Floor Cafe。
+- "Prep 鹹蛋 適量, 山苦瓜 120公克, 杏鮑菇 120公克, 山藥 80公克; seasonings ready: 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒碎 1/2小匙, 鹹蛋黃醬 2大匙."
+- Cook main components over medium-high until properly browned and cooked through.
+- Add sides in order of cook time; keep sauces warm.
+- Plate Salted Egg Bitter Melon Pasta with sauce spooned over the hero ingredient.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -90,6 +90,9 @@ seasonings:
 - name: 鹹蛋黃醬
   amount: "2"
   unit: 大匙
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

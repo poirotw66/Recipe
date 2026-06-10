@@ -60,13 +60,19 @@ steps:
 - Sauté garlic; add shrimp and stir-fry 2 minutes until pink.
 - Return tofu; add soy sauce and white pepper; fold gently 30 seconds.
 - Plate; add rice or sides from custom additions if desired.
+- Use medium heat unless noted; stir or flip occasionally for even cooking.
+- Check doneness (no pink juices in poultry, fish flakes easily), then adjust salt.
 storage: Best fresh; shrimp texture drops overnight.
 faqs:
 - question: Can I use chicken instead of shrimp?
   answer: Yes—cut into strips and cook 2 minutes longer.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 A fast protein boost for gym days.

@@ -1,0 +1,17 @@
+{
+  "slug": "sf-second-floor-saltwater-chicken-salad",
+  "title": "貳樓金牌鹽水雞沙拉",
+  "reviewed_at": "2026-06-09",
+  "status": "Warning",
+  "confidence_score": 86,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "code": "duplicated_phrase",
+      "severity": "Warning",
+      "description": "步驟內有重複長句（例如「炸油 600毫升、海鹽 1/2小匙、鹽水雞油醋 …」），疑似批次產文殘留。",
+      "suggested_fix": "刪除重複句並精簡步驟。",
+      "source": "content_rules"
+    }
+  ]
+}

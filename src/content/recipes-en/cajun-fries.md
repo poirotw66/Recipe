@@ -53,14 +53,19 @@ seasonings:
   unit: tsp
 intro: Soak cut fries in cold water, dry well, then fry; toss spices while hot.
 steps:
+- "Prep: Potatoes 2; pat protein dry and rub with Olive oil 2Tbsp, Salt pinch, Black pepper pinch, Paprika 1tsp, Garlic powder 1/2tsp, Cayenne pepper 1/4tsp."
+- "\"Prep: Potatoes 2; pat protein dry and rub with Olive oil 2Tbsp, Salt pinch, Black pepper pinch, Paprika 1tsp, Garlic powder 1/2tsp, Cayenne pepper 1/4tsp.\""
 - Peel potatoes and cut into thick sticks; soak in cold water 15 minutes, drain, and pat completely dry.
 - Fry at about 170°C in batches 4 minutes until pale gold; drain.
 - Raise oil to about 190°C and fry again 1–2 minutes until crisp; drain well.
-- Toss immediately with salt, pepper, paprika, garlic powder, and cayenne; serve hot.
 storage: Best eaten fresh; leftovers soften overnight.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 Cajun fries are a crowd-pleasing side or snack with a kick.

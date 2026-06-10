@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 主菜先用鹽、胡椒與核心醬料醃好，德式豬腳、烤玉米、酸菜 也各自整理成可同時出餐的份量。
-- 把半雞或豬腳先煎上色再進烤箱，期間同步完成玉米、薯條與酸菜等配菜。
-- 回到最後階段時再刷上 橄欖油與海鹽 或搭配醬料，讓表面亮澤但不過度潮濕。
-- 切件後連同三樣配菜整盤排開，保留大盤主餐的豐盛感與明顯主副菜分區。
+- "Prep 德式豬腳 900公克, 烤玉米 100公克, 酸菜 50公克, 芥末 適量; seasonings ready: 橄欖油 2大匙, 海鹽 1小匙, 黑胡椒碎 1/2小匙."
+- Cook main components over medium-high until properly browned and cooked through.
+- Add sides in order of cook time; keep sauces warm.
+- Plate Chef Crispy Pork Knuckle with sauce spooned over the hero ingredient.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -82,6 +82,9 @@ seasonings:
 - name: 黑胡椒碎
   amount: "1/2"
   unit: 小匙
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

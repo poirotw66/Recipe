@@ -61,7 +61,10 @@ faqs:
   answer: Optional—a little balances soy saltiness like street noodles.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 One of the most familiar fast dinners in a Taiwanese small kitchen.

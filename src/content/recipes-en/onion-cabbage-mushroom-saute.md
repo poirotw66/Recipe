@@ -49,6 +49,8 @@ steps:
 - Slice onion, cabbage, and mushrooms; mince garlic.
 - Heat oil; sauté garlic and onion until fragrant; add cabbage and mushrooms; toss until wilted.
 - Season with salt and soy sauce; reduce briefly and serve.
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - For crisper cabbage, shorten cooking by about 1 minute.
 storage: Refrigerate 1 day.
@@ -65,11 +67,15 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-07-05'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushrooms
+---
+
+---
+---
 ---
 ---
 

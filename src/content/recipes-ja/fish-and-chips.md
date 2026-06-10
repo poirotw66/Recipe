@@ -62,8 +62,11 @@ relatedIngredients:
 - 卵
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions: []
+---
+
+---
 ---
 
 ボリューム満点で、週末に少し贅沢したい日のメインにも向きます。

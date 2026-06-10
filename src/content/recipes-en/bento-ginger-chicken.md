@@ -56,14 +56,17 @@ steps:
 - Heat oil over medium-high; stir-fry chicken about 3 minutes until surfaces turn color.
 - Add ginger and stir 1 minute until fragrant.
 - Add remaining soy sauce and rice wine; stir-fry on high about 1 minute to glaze.
-- Cool and pack for the next day.
 storage: Refrigerate up to 2 days; microwave about 1 minute with a damp paper towel over the box.
 faqs:
 - question: Can I use chicken thigh?
   answer: Yes—it stays juicier but carries a bit more fat in the bento.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 Ginger chicken is a reliable weekday bento main you can prep ahead.

@@ -47,6 +47,8 @@ steps:
 - Cut broccoli into small florets; microwave 1 minute or blanch until half tender.
 - Heat oil in a skillet over medium. Stir-fry mushrooms until they release moisture, add broccoli, and toss.
 - Pour in beaten eggs and scramble into soft curds; season with salt and pepper.
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Do not overcook broccoli—keep a little snap.
 storage: Refrigerate up to 1 day; good for next-day lunch.
@@ -62,11 +64,15 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Diced ham
 - Shredded cheese
 - Chopped scallions
+---
+
+---
+---
 ---
 ---
 

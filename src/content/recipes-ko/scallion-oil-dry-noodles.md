@@ -61,7 +61,10 @@ faqs:
   answer: 가능하나 조금 넣으면 간장 짠맛이 균형 잡혀 외식에 가깝습니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 

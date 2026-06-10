@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 先把 丹麥麵包、酪梨、香腸 各自處理好，麵包烤到外脆內軟，蛋與生菜分開準備。
-- 把主蛋白煎到剛好上色，再同步完成水波蛋或熱配菜，保持中心仍有濕潤度。
-- 依序把 橄欖油與海鹽、主料、蛋與生菜堆疊在麵包上，保留 Second Floor Cafe 常見的高低層次。
-- 上桌前補一點胡椒、檸檬或巴薩米克，讓開放三明治既有厚度也有清爽收尾。
+- Prep 丹麥麵包 2份, 酪梨 1顆, 香腸 140公克, 水波蛋 2顆; toast bread 350°F 3–5 min until crisp outside, soft inside.
+- Cook main protein over medium heat; poach or fry eggs separately.
+- Stack 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒粉 1/2小匙, protein, egg, and greens on bread; keep height for open sandwich.
+- Finish with pepper, lemon, or balsamic; serve while bread is crisp.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -83,6 +83,9 @@ seasonings:
 - name: 辣椒粉
   amount: "1/2"
   unit: 小匙
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

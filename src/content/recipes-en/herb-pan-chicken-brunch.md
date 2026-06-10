@@ -66,10 +66,16 @@ steps:
 - Flip, reduce to medium, and cook 2–3 minutes more until no pink remains at the center. Rest off heat.
 - In the same pan, stir-fry broccoli until crisp-tender; fry an egg sunny-side or scrambled in a clean spot.
 - Slice the chicken; plate with egg and broccoli; drizzle remaining lemon juice.
+- Use medium heat unless noted; stir or flip occasionally for even cooking.
+- Check doneness (no pink juices in poultry, fish flakes easily), then adjust salt.
 storage: Refrigerate up to 1 day; reheat sliced chicken covered with a damp paper towel, about 1 minute in the microwave.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 High-protein and light—especially nice after a workout brunch.

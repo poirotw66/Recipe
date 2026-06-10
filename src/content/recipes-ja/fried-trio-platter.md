@@ -65,8 +65,11 @@ relatedIngredients:
 - 卵
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions: []
+---
+
+---
 ---
 
 友人との集まりや、いろいろな食感を一度に楽しみたいときに向いています。

@@ -1,8 +1,17 @@
 {
   "slug": "white-sauce-chicken-pasta",
   "title": "白醬雞肉義大利麵",
-  "reviewed_at": "2026-06-08",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-06-09",
+  "status": "Warning",
+  "confidence_score": 86,
+  "issues": [
+    {
+      "type": "Format_Inconsistency",
+      "code": "duplicate_al_dente",
+      "severity": "Warning",
+      "description": "al dente 說明重複或句子在換行處截斷。",
+      "suggested_fix": "保留一句煮麵彈牙說明即可。",
+      "source": "content_rules"
+    }
+  ]
 }

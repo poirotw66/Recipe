@@ -47,8 +47,10 @@ tags:
 intro: Sear tofu first so it holds shape and stays dry when vegetables go in.
 steps:
 - Cube tofu; slice cabbage; slice or tear mushrooms; mince garlic.
-- 'Skillet: fry tofu until lightly golden both sides; set aside.'
-- 'Fresh oil, medium-low garlic until fragrant; add cabbage and mushrooms until soft; return tofu; season with soy and salt.'
+- "\"\\\"'Skillet: fry tofu until lightly golden both sides; set aside.'\\\"\""
+- "\"\\\"'Fresh oil, medium-low garlic until fragrant; add cabbage and mushrooms until soft; return tofu; season with soy and salt.'\\\"\""
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Add cabbage in two batches for even cooking.
 storage: Refrigerate 1 day; reheat over medium-high quickly.
@@ -65,11 +67,15 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-06-25'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake
+---
+
+---
+---
 ---
 ---
 

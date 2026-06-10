@@ -71,7 +71,10 @@ faqs:
   answer: 가능하나 모양이 약해 작은 팬에 두껍게 굽는 편이 좋습니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-08",
-  "recipe_count": 161,
-  "pass": 152,
-  "warning": 9,
+  "generated_at": "2026-06-09",
+  "recipe_count": 231,
+  "pass": 203,
+  "warning": 28,
   "critical": 0,
-  "summary_markdown": "docs/reviews/recipe-audit/audit-summary-2026-06-08-full-161.md",
+  "summary_markdown": "docs/reviews/recipe-audit/audit-summary-2026-06-09-full-231.md",
   "slugs": [
     {
       "slug": "air-fryer-butter-corn",
@@ -59,7 +59,7 @@
     {
       "slug": "air-fryer-soy-chicken-wings",
       "title": "氣炸醬油雞翅",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "airfryer-garlic-chicken-broccoli",
@@ -474,7 +474,7 @@
     {
       "slug": "pesto-chicken-mushroom-pasta",
       "title": "青蔥蒜香雞肉菇類義大利麵",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "pesto-chicken-pasta",
@@ -582,6 +582,356 @@
       "status": "Pass"
     },
     {
+      "slug": "sf-acai-berry-yogurt-bowl",
+      "title": "巴西莓果優格碗",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-american-cheesecake",
+      "title": "全美起司蛋糕",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-asahi-cordon-bleu-pork-burger",
+      "title": "朝日藍帶豬排堡",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-avocado-bacon-open-toast",
+      "title": "酪梨慢煎培根／歐包 Open",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-avocado-local-sausage-danish-open",
+      "title": "酪梨 Local 香腸／丹麥 Open",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-avocado-smoked-salmon-open-toast",
+      "title": "酪梨燻鮭魚／歐包 Open",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-baked-thick-cut-pork-cream-rice",
+      "title": "焗厚切豬排奶油飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-balsamic-mushroom-pasta",
+      "title": "巴薩米克蕈菇麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-bbq-roasted-half-chicken",
+      "title": "BBQ 溫烤半雞",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-black-pepper-hamburg-rice",
+      "title": "老闆黑胡椒漢堡排飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-black-truffle-cordon-bleu-pork-open",
+      "title": "黑松露厚切藍帶豬／歐包 Open",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-bloody-mary-spicy-rice",
+      "title": "血腥瑪麗辣味飯",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-brownie-ice-cream",
+      "title": "布朗尼冰淇淋",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-buffalo-chicken-wings",
+      "title": "水牛城辣雞翅",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-campfire-lemon-zucchini-fish-fillet",
+      "title": "野炊系義式檸香櫛瓜魚菲力",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-cheesy-chicken-egg-rice",
+      "title": "吃光光起司蛋雞肉飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-cheesy-local-sausage-cream-pasta",
+      "title": "起司 Local 香腸奶白麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-chef-crispy-pork-knuckle",
+      "title": "主廚脆皮豬腳",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-chicken-quesadilla",
+      "title": "墨西哥雞肉酥餅",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-classic-beef-mushroom-eggs-benedict",
+      "title": "經典牛肉奶油炒菇班尼蛋",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-classic-caesar-salad",
+      "title": "經典凱薩沙拉",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-classic-ham-mushroom-eggs-benedict",
+      "title": "經典火腿奶油炒菇班尼蛋",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-classic-pesto-shrimp-pasta",
+      "title": "經典青醬鮮蝦麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-country-cinnamon-peach-pie",
+      "title": "鄉村肉桂蜜桃派",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-crispy-calamari-cocktail-sauce",
+      "title": "酥炸鮮魷佐雞尾酒醬",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-dawn-shrimp-chicken-linguine",
+      "title": "曙光汁鮮蝦雞肉麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-greek-campfire-grilled-chicken-brunch",
+      "title": "Greek style 野炊系炭烤雞肉早午餐",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-green-superhero-quinoa-buddha-bowl",
+      "title": "綠超人藜麥佛陀碗",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-griddled-butter-ham-sandwich",
+      "title": "厚烤奶油 Ham 三明治",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
+      "title": "家鄉肉醬長管麵佐老媽肉丸",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-keto-surf-and-turf-platter",
+      "title": "生酮總匯海陸拼盤",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-kids-cream-chicken-penne",
+      "title": "北鼻奶油雞肉長管麵",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-local-sausage-quesadilla",
+      "title": "墨西哥 Local 香腸酥餅",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-mini-beef-egg-burger-set",
+      "title": "牛蛋小堡堡套餐",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-moon-view-bitter-melon-cream-rice",
+      "title": "月見苦瓜奶油飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-mushroom-cheese-omelette",
+      "title": "蕈菇奶起司歐姆蕾",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-oat-crusted-fish-and-fries",
+      "title": "燕麥脆脆炸魚薯條",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-orange-danish-mushroom-poached-potato",
+      "title": "橙香法式丹麥 蕈菇水波洋芋",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-orange-danish-poached-seafood-potato",
+      "title": "橙香法式丹麥 水波海鮮洋芋",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-orange-danish-sous-vide-steak",
+      "title": "橙香法式丹麥 舒肥牛排",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-orange-danish-sunny-sous-vide-chicken",
+      "title": "橙香法式丹麥 Sunny 舒肥雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-poached-egg-smoked-beef-danish-open",
+      "title": "水波燻牛肉／丹麥 Open",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-poutine-meat-sauce-fries",
+      "title": "普丁肉醬薯條",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-roasted-sesame-chicken-salad",
+      "title": "焙煎胡麻雞沙拉",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-salsa-black-curry-fried-chicken",
+      "title": "莎莎黑咖哩炸雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-salted-egg-bitter-melon-pasta",
+      "title": "台式熱炒鹹蛋苦瓜麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-salted-egg-seafood-pizza",
+      "title": "金黃流沙海鮮披薩",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-salted-egg-yolk-fries",
+      "title": "金黃流沙薯條",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-san-francisco-garlic-fries",
+      "title": "舊金山蒜香薯條",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-second-floor-fiesta-shrimp-penne",
+      "title": "貳樓費氏鮮蝦長管麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-second-floor-saltwater-chicken-salad",
+      "title": "貳樓金牌鹽水雞沙拉",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
+      "title": "台胃口水雞奶油炒菇班尼蛋",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-signature-double-stack-burger",
+      "title": "實打實招牌漢堡",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-smoked-salmon-caesar-salad",
+      "title": "經典燻鮭魚凱薩沙拉",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
+      "title": "燻鮭魚奶油炒菇班尼蛋",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-sous-vide-chicken-caesar-salad",
+      "title": "經典舒肥雞凱薩沙拉",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
+      "title": "舒肥雞藜麥花椰飯",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-south-sea-spiced-chicken-rice",
+      "title": "南洋辛香雞肉飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-spicy-mexican-firecracker-burger",
+      "title": "老墨辣鞭炮漢堡",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-spicy-pepper-karaage-pasta",
+      "title": "香爆椒麻唐揚雞麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-spicy-spanish-surf-and-turf-rice",
+      "title": "西班牙辣炒海陸飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-spicy-tomato-bacon-penne",
+      "title": "辣茄汁香煸培根長管麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-strong-chocolate-cake",
+      "title": "強的",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-supreme-cheese-omelette",
+      "title": "總匯奶起司歐姆蕾",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-sweet-savory-rice",
+      "title": "甘味飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-tropical-yogurt-bowl",
+      "title": "熱帶水果優格碗",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-truffle-fries",
+      "title": "松露薯條",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-truffle-mushroom-cream-pasta",
+      "title": "松露蕈菇奶油麵",
+      "status": "Warning"
+    },
+    {
+      "slug": "sf-white-wine-garlic-clam-squid-ink-pasta",
+      "title": "酒香蒜味蛤蜊墨魚麵",
+      "status": "Pass"
+    },
+    {
+      "slug": "sf-worcester-meat-sauce-omelette",
+      "title": "烏斯特肉醬歐姆蕾",
+      "status": "Pass"
+    },
+    {
       "slug": "smoked-salmon-brunch",
       "title": "煙燻鮭魚早午餐",
       "status": "Pass"
@@ -604,7 +954,7 @@
     {
       "slug": "solo-mapo-tofu-rice-bowl",
       "title": "麻婆豆腐蓋飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "solo-oyster-sauce-beef-rice",
@@ -614,7 +964,7 @@
     {
       "slug": "solo-pan-fried-pork-cutlet-rice",
       "title": "煎豬排蓋飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "solo-sesame-chicken-rice",
@@ -644,7 +994,7 @@
     {
       "slug": "spicy-seafood-tomato-pasta",
       "title": "海鮮番茄辣麵",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "steamed-chicken-bento",
@@ -679,7 +1029,7 @@
     {
       "slug": "tofu-tomato-pasta",
       "title": "豆腐番茄義大利麵",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "tomato-beef-rice-bowl",
@@ -804,12 +1154,12 @@
     {
       "slug": "weight-loss-zucchini-chicken",
       "title": "減脂櫛瓜雞肉",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "white-sauce-chicken-pasta",
       "title": "白醬雞肉義大利麵",
-      "status": "Pass"
+      "status": "Warning"
     }
   ]
 }

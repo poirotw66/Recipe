@@ -66,7 +66,10 @@ faqs:
   answer: Yes—more protein; bump sauce slightly.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 An upgraded scallion oil noodle plate sized for one.

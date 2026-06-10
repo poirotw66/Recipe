@@ -46,6 +46,8 @@ steps:
 - Cut cabbage into chunks; slice garlic; cut tofu into large cubes.
 - Warm a little oil over medium; sauté garlic until fragrant, add cabbage and stir 2 minutes.
 - Add tofu and about 250 ml water; simmer on low 8 minutes; finish with soy sauce and salt.
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Pan-fry tofu first for a firmer bite.
 storage: Refrigerate up to 1 day; reheat gently so tofu does not break.
@@ -62,11 +64,15 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-06'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushrooms
+---
+
+---
+---
 ---
 ---
 

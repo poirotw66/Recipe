@@ -27,10 +27,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 先把 雞肉、玉米、豌豆 做成容易入口的大小，調味比一般主餐再柔和一些。
-- 主蛋白與主食先完成八成，蔬菜與蛋再補進去，讓整體口感濕潤但不會糊在一起。
-- 把 橄欖油與海鹽 控制在薄薄包覆食材的程度，保留貳樓兒童餐好入口又有奶香的特色。
-- 最後搭配小份配菜與飲品邏輯組盤，讓成品保有套餐感而不失去家裡可操作性。
+- "Prep 雞肉 180公克, 玉米 100公克, 豌豆 適量, 起司 40公克; seasonings ready: 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 白醬 適量, 鮮奶油 適量."
+- Cook main components over medium-high until properly browned and cooked through.
+- Add sides in order of cook time; keep sauces warm.
+- Plate Kids Cream Chicken Penne with sauce spooned over the hero ingredient.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -87,6 +87,9 @@ seasonings:
 - name: 鮮奶油
   amount: "適量"
   unit: ""
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

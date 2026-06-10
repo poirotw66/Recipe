@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 先把 薯條、起司粉 整理成餐廳份量，炸物拍乾或裹粉，冷醬與配菜另外備好。
-- 依序把主炸物炸到表面金黃酥脆，薯條或餅皮另外炸好或烤好，讓雙重口感更接近門市分享盤。
-- 把 炸油與海鹽 調到濃稠可附著的狀態，再依品項加入辣味、起司或莎莎等標誌風味。
-- 起鍋後立刻組盤，熱食放中央、冷醬與生菜放邊側，維持貳樓常見的大份量分享感。
+- Prep 薯條 250公克, 起司粉 40公克 for sharing; pat fry items dry, keep cold sauces separate (炸油 600毫升, 海鹽 1/2小匙, 松露醬 3大匙).
+- Preheat fryer oil to 350–360°F or oven to 400°F; fry in batches until golden and crisp.
+- Cook fries or bread separately for contrast; drain on paper towels and season while hot.
+- Adjust dipping sauces to coat-not-drip consistency; plate hot center, cool garnish on the side for Truffle Fries.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -68,6 +68,9 @@ seasonings:
 - name: 松露醬
   amount: "3"
   unit: 大匙
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

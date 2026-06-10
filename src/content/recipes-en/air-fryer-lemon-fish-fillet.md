@@ -58,19 +58,22 @@ seasonings:
   unit: ''
 intro: Overcooked fish dries out—slightly under is better than tough; aim for moist center.
 steps:
+- "Prep: Cod fillet 1piece, Broccoli 80g; pat protein dry and rub with Lemon juice 1.5tbsp, Olive oil 1tbsp, Garlic 1clove, Salt pinch, Black pepper pinch."
+- "\"Prep: Cod fillet 1piece, Broccoli 80g; pat protein dry and rub with Lemon juice 1.5tbsp, Olive oil 1tbsp, Garlic 1clove, Salt pinch, Black pepper pinch.\""
 - Pat cod dry; season both sides with salt and pepper. Mince garlic.
 - Brush olive oil on both sides; drizzle half the lemon juice and rub with garlic.
 - Preheat air fryer to 180°C for 3 minutes; add fillet and mist a little oil.
 - Air-fry at 180°C for 6 minutes, flip, then 4–5 more until lightly browned.
-- Cut broccoli into small florets; air-fry with fish 3 more minutes, or blanch separately.
-- Squeeze remaining lemon juice; serve hot.
 storage: Best fresh; refrigerated fish toughens on reheat—finish the same meal if possible.
 faqs:
 - question: Will fish stick to the basket?
   answer: Parchment or a light oil coat helps; flip gently.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 Bright lemon fish you can finish at home without ordering out.

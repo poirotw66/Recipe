@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 先把 牛肉排、炸魚、培根 分別處理，麵包回烤、主排煎香、配菜保持乾爽。
-- 主肉排或三明治內餡先做到多汁但可堆疊的狀態，避免組裝後整體鬆散。
-- 在麵包內側抹上 橄欖油與海鹽，再依序疊上熱主料、起司與爽口配菜。
-- 薯塊或附餐另外裝盤，主體壓合後立刻上桌，才能保留 Big Bite 系列的厚實口感。
+- "Prep 牛肉排 180公克, 炸魚 適量, 培根 80公克, 薯塊 250公克; seasonings ready: 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 巴薩米克醬 適量."
+- Cook main components over medium-high until properly browned and cooked through.
+- Add sides in order of cook time; keep sauces warm.
+- Plate Signature Double Stack Burger with sauce spooned over the hero ingredient.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -87,6 +87,9 @@ seasonings:
 - name: 巴薩米克醬
   amount: "適量"
   unit: ""
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

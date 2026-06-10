@@ -43,9 +43,10 @@ tags:
 - Mixed rice bowl
 intro: Sear chicken first to lock in moisture, then fold in scallion sauce for a tenderer bite than all-in stir-fry.
 steps:
-- Dice chicken; slice scallions; mince garlic.
-- Lightly oiled skillet; sear chicken until browned and cooked through.
-- Add garlic and half the scallions; stir; drizzle soy sauce; off heat, toss rice and top with remaining scallions.
+- "Prep: Chicken breast 130g, Scallions 2stalks, Cooked rice 1bowl; dice Chicken breast about ½ inch, divide Cooked rice 1bowl into serving bowls."
+- Marinate Chicken breast with Soy sauce 1.5tsp, Garlic 1clove for 10 minutes; prep vegetables as needed.
+- Heat 1 Tbsp oil in a skillet over medium heat. Add Chicken breast, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 tips:
 - Toss chicken with a pinch of salt and oil before cooking for a silkier texture.
 storage: Best fresh; pack rice and chicken separately for lunchboxes to avoid soggy rice.
@@ -62,11 +63,15 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-08'
-updatedAt: '2026-06-08'
+updatedAt: "2026-06-09"
 customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell pepper
+---
+
+---
+---
 ---
 
 The key is balancing scallion aroma with lean chicken for a light but not boring bowl.

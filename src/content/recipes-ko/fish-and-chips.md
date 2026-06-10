@@ -65,7 +65,10 @@ steps:
 storage: 바로 드세요.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 피시 앤 칩스는 양이 넉넉해 주말에 가끔 즐기기 좋은 메뉴입니다.

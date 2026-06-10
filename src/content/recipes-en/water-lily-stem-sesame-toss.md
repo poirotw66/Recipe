@@ -24,10 +24,10 @@ tags:
 - Bento
 intro: Ice bath right after blanching keeps the snap.
 steps:
-- Wash water dropwort and cut sections; mince garlic.
-- Boiling water; blanch water dropwort 40 seconds; drain well.
-- While hot, toss with garlic, sesame oil, and salt.
-- White sesame before serving.
+- Rinse water lily stems under running water; trim tough ends and cut into 2-inch pieces. Mince garlic; optionally toast sesame seeds in a dry pan.
+- Bring a pot of salted water to a boil. Blanch stems 40 seconds until deep green and crisp-tender; drain well (ice bath 10 seconds for extra crunch).
+- While still warm, toss stems with garlic, sesame oil, and salt until evenly coated.
+- Plate and top with sesame seeds. For bento, cool slightly before packing to avoid condensation.
 tips:
 - Drain well for bento so oil does not leak.
 storage: Refrigerate 1 day; room temp or cold to eat.
@@ -41,7 +41,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: Water dropwort
   amount: "200"
@@ -61,6 +61,9 @@ seasonings:
 - name: White sesame
   amount: "1"
   unit: tsp
+---
+
+---
 ---
 
 Fragrant bento side or table opener.

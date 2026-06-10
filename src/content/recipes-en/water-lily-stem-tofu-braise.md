@@ -24,10 +24,11 @@ tags:
 - Tofu
 intro: Sear tofu golden, simmer in soy and water, then water dropwort at the end.
 steps:
-- Cube tofu; cut water dropwort sections and drain; mince garlic.
+- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
 - Hot oil; fry tofu until lightly golden both sides.
 - Garlic, soy sauce, sugar, and water; simmer 3 minutes.
 - Water dropwort over high 1 minute; reduce sauce; serve.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Firm tofu handles flipping; soft tofu needs a gentle hand.
 storage: Refrigerate 2 days; splash water when reheating.
@@ -42,7 +43,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: Water dropwort
   amount: "180"
@@ -69,6 +70,10 @@ seasonings:
 - name: Olive oil
   amount: "1"
   unit: tbsp
+---
+
+---
+---
 ---
 
 Savory-sweet tofu that pairs well with rice.

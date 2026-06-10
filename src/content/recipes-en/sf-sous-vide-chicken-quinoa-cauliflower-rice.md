@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 把 舒肥雞、花椰菜飯、藜麥 按沙拉碗或佛陀碗的比例備妥，熟食與冷食分區放置。
-- 需要加熱的蛋白質、穀物或花椰菜飯先完成，保持表面微焦但中心仍保濕。
-- 把 橄欖油與海鹽 調勻後少量分次拌入，避免整碗過濕失去餐廳的清爽層次。
-- 最後用生菜、水果或穀物把高度堆出來，再把主蛋白放在最上層完成餐廳式擺盤。
+- Prep 舒肥雞 180公克, 花椰菜飯 120公克, 藜麥 80公克, 火烤玉米 100公克; wash and dry greens, dice proteins (橄欖油 1.5大匙, 海鹽 1/3小匙, 起司醬 2大匙 mixed separately).
+- Cook warm components (protein, grains, cauliflower rice) until done with light browning.
+- Toss greens in a large bowl; add warm items; drizzle 橄欖油 1.5大匙, 海鹽 1/3小匙, 起司醬 2大匙 in 2–3 passes to avoid soggy salad.
+- Finish with nuts, cheese, or fruit layers for Sous Vide Chicken Quinoa Cauliflower Rice.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -78,6 +78,9 @@ seasonings:
 - name: 起司醬
   amount: "2"
   unit: 大匙
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

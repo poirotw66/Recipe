@@ -25,10 +25,11 @@ tags:
 - Vegetables
 intro: Drain greens well; 1–2 minutes over high heat—longer and they wilt.
 steps:
-- Wash and drain water dropwort; cut about 5 cm lengths; mince garlic.
+- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
 - Hot oil; garlic until light gold.
 - Water dropwort over high 1–2 minutes; keep crisp.
 - Salt; toss and serve.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - A very hot wok keeps greens from steaming in their own water.
 storage: Same meal; reheat over high 30 seconds.
@@ -42,7 +43,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: Water dropwort
   amount: "200"
@@ -59,6 +60,10 @@ seasonings:
 - name: Salt
   amount: "1/4"
   unit: tsp
+---
+
+---
+---
 ---
 
 Classic Taiwanese side—crisp and clean with rice.

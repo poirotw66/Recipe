@@ -65,7 +65,10 @@ steps:
 storage: Best eaten immediately.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 Fish and chips is a generous weekend plate when you want something indulgent.

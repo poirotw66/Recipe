@@ -69,7 +69,10 @@ faqs:
   answer: Yes—more broccoli or salad makes a lower-carb plate.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 One of the most reliable bowls when you are watching what you eat.

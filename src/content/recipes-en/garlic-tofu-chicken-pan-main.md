@@ -46,6 +46,8 @@ steps:
 - Cube chicken and tofu; mince garlic.
 - Pan-fry tofu until golden on both sides; set aside.
 - Fresh oil in pan; stir-fry garlic and chicken until cooked; return tofu; soy sauce and salt; reduce briefly.
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Keep chicken cubes moderate size for even doneness.
 storage: Refrigerate 1 day; reheat quickly in a hot pan.
@@ -62,11 +64,15 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-07-09'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell pepper
+---
+
+---
+---
 ---
 ---
 

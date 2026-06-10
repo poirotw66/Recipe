@@ -46,6 +46,8 @@ steps:
 - Pat salmon dry and cut into portions; broccoli into small florets; mince garlic.
 - Skillet first—sear salmon until both sides color.
 - Add garlic and broccoli; stir-fry; season with soy sauce and a pinch of salt.
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Dry salmon well before the pan for crisper skin.
 storage: Best eaten the same meal.
@@ -62,11 +64,15 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-07-10'
-updatedAt: '2026-07-10'
+updatedAt: "2026-06-09"
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushroom
+---
+
+---
+---
 ---
 
 A reliable weekday fish plate with easy-to-find ingredients.

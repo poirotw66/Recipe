@@ -44,9 +44,10 @@ tags:
 - High protein
 intro: The air fryer handles salmon and broccoli together with less smoke and fewer steps.
 steps:
+- "Prep: Salmon 1fillet, Broccoli 1bowl, Garlic 1clove; pat Salmon dry and rub with Salt pinch, Olive oil 1tsp."
+- "\"Prep: Salmon 1fillet, Broccoli 1bowl, Garlic 1clove; pat Salmon dry and rub with Salt pinch, Olive oil 1tsp.\""
 - Pat the salmon dry; rub with salt and minced garlic. Toss the broccoli with a little oil.
 - Preheat the air fryer to 180°C. Add the salmon first (about 2–2.5 cm thick; add time if thicker) and air-fry 8 minutes.
-- Add the broccoli and air-fry 6 minutes more. Insert a chopstick into the thickest part of the salmon—it should slide through easily with no pink juices when done.
 tips:
 - Cut broccoli into small florets so it finishes around the same time as the salmon.
 storage: Best eaten the same meal; refrigerate up to 1 day.
@@ -62,11 +63,15 @@ relatedIngredients:
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: '2026-05-29'
+updatedAt: "2026-06-09"
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushrooms
+---
+
+---
+---
 ---
 
 A light combo for weeknights—protein and vegetables done in one go.

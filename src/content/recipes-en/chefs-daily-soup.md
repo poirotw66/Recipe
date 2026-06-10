@@ -63,15 +63,20 @@ seasonings:
   unit: tsp
 intro: There is no fixed recipe—sweat onion for base flavor, then simmer harder vegetables.
 steps:
+- "Prep: Carrot 1/2, Onion 1/4, Cabbage 100g, Tomato 1; seasonings ready: Water 800ml, Salt pinch, Black pepper pinch, Olive oil 1tsp."
+- Bring Water 800ml to a boil, then add longer-cooking items first.
+- "\"Prep: Carrot 1/2, Onion 1/4, Cabbage 100g, Tomato 1; seasonings ready: Water 800ml, Salt pinch, Black pepper pinch, Olive oil 1tsp.\""
+- Bring Water 800ml to a boil, then add longer-cooking items first.
 - Wash and chunk carrot, onion, cabbage, and tomato; score and blanch tomato to peel if you like.
 - Heat olive oil; cook onion until translucent, add carrot and cabbage and stir 2 minutes.
-- Pour in cold water or stock, boil, then simmer covered 15 minutes.
-- Add tomato and simmer 5 minutes; season with salt and pepper; blend smooth or leave chunky.
-- Taste before serving—add salt or a little tomato paste for body if needed.
 storage: Refrigerate up to 2 days; freeze up to 1 week; do not boil hard when reheating.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 Daily vegetable soup is an adaptable opener for almost any weeknight dinner.

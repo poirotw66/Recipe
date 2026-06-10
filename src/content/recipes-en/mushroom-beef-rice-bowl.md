@@ -46,9 +46,10 @@ tags:
 - Rice bowls
 intro: Sauté mushrooms first, then add beef—the umami comes through clearly.
 steps:
-- Shred the beef, slice the mushrooms, mince the garlic, and mound rice in a bowl.
-- Heat oil in a skillet; sauté garlic and mushrooms until fragrant.
-- Add beef, soy sauce, and water; stir-fry until cooked through and spoon over the rice.
+- "Prep: Cooked white rice 1bowl, Beef 100g, Mushrooms 80g; dice Beef about ½ inch, divide Cooked white rice 1bowl into serving bowls."
+- Marinate Beef with Soy sauce 1.5Tbsp, Garlic 2cloves for 10 minutes; prep vegetables as needed.
+- Heat 1 Tbsp oil in a skillet over medium heat. Add Beef, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 tips:
 - Cook mushrooms a little longer after they release water—the sauce tastes deeper.
 storage: Best eaten immediately after cooking.
@@ -60,11 +61,15 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - Scallions
 - Chili
 - Onion
+---
+
+---
+---
 ---
 
 Mushroom beef rice bowl fits nights when you have packaged mushrooms and want dinner fast.

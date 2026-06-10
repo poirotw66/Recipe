@@ -65,13 +65,19 @@ steps:
 - Add pork; stir-fry 2 minutes until colored and lightly browned.
 - Add pepper; toss 1 minute.
 - Pour soy sauce and rice wine down the side of the pan; toss and serve.
+- Use medium heat unless noted; stir or flip occasionally for even cooking.
+- Check doneness (no pink juices in poultry, fish flakes easily), then adjust salt.
 storage: Best fresh; refrigerate 1 day; reheat over high heat 1 minute.
 faqs:
 - question: No green pepper?
   answer: Bell pepper, celery, or cabbage strips work.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 Handy when you want a fresh-tasting main dish in a small kitchen, fast.

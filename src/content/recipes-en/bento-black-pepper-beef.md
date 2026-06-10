@@ -60,14 +60,17 @@ steps:
 - Cut the onion into strips.
 - Heat oil in a skillet over medium-high; stir-fry beef about 2 minutes until colored; remove.
 - Stir-fry onion 1 minute, return beef with remaining pepper, and toss 30 seconds.
-- Cool and pack into a bento box.
 storage: Refrigerate up to 2 days; microwave about 1 minute to reheat.
 faqs:
 - question: Can I use pork instead?
   answer: Yes—use thin pork loin slices and the same timing.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 Black pepper beef is one of the most popular bento mains for good reason.

@@ -64,13 +64,19 @@ steps:
 - Whisk lemon juice, olive oil, salt, and pepper.
 - Toss vegetables with dressing in a large bowl.
 - Top with shrimp; white sesame optional.
+- Use medium heat unless noted; stir or flip occasionally for even cooking.
+- Check doneness (no pink juices in poultry, fish flakes easily), then adjust salt.
 storage: Toss fresh; shrimp and dressing separate up to 1 day refrigerated.
 faqs:
 - question: No oil at all?
   answer: Lemon and salt only—even lighter.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 Summer salad when you want to skip the stove.

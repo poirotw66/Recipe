@@ -46,9 +46,10 @@ tags:
 - Vegetable mains
 intro: Cabbage sweetness and mushroom umami need little seasoning to eat well over rice.
 steps:
-- Shred cabbage; slice mushrooms; mince garlic.
-- Heat oil; sauté garlic until fragrant; stir-fry mushrooms and cabbage 3 minutes.
-- Add about 180 ml water and soy sauce; simmer 5 minutes until slightly thick; season with salt; ladle over rice.
+- "Prep: Mushrooms 150g, Cabbage 180g, Cooked white rice 2bowls; dice protein about ½ inch, divide Cooked white rice 2bowls into serving bowls."
+- Marinate protein with Garlic 2cloves, Soy sauce 2tsp, Salt pinch for 10 minutes; dice Cabbage finely.
+- Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Cabbage 2 minutes until slightly tender; Add protein, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 tips:
 - For thicker sauce, stir in 1 tsp cornstarch slurry.
 storage: Topping keeps 1 day refrigerated; reheat and pour over fresh rice.
@@ -65,11 +66,15 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-09'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushrooms
+---
+
+---
+---
 ---
 ---
 

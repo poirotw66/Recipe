@@ -45,9 +45,10 @@ tags:
 - Rice bowls
 intro: Cook tomato until it releases juice before adding beef so the sauce thickens naturally.
 steps:
-- Shred beef; dice tomato; rice in a serving bowl.
-- Skillet with oil; cook tomato over medium-low, stirring, until slightly soft and juicy.
-- Add beef, tomato paste, soy sauce, sugar, and a splash of water; simmer until beef is cooked; pour over rice.
+- "Prep: Cooked rice 1bowl, Beef 100g, Tomato 1; dice Beef about ½ inch, divide Cooked rice 1bowl into serving bowls."
+- Marinate Beef with Tomato paste or ketchup 1tbsp, Soy sauce 1tsp, Sugar 1/2tsp for 10 minutes; dice Tomato finely.
+- Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Tomato 2 minutes until slightly tender; Add Beef, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 tips:
 - If tomato is sharp, add a pinch more sugar.
 storage: Best eaten right away.
@@ -59,11 +60,15 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Scallions
 - Chili
 - Onion
+---
+
+---
+---
 ---
 ---
 

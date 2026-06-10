@@ -65,10 +65,13 @@ relatedIngredients:
 - キャベツ
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 溶き卵1個分
 - 豆腐100g
+---
+
+---
 ---
 
 節約キャベツ麺スープは材料が安く手順も短く、食費を抑えたいときに実用的なスープ麺です。

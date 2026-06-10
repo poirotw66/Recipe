@@ -57,14 +57,17 @@ steps:
 - In a dry pot, brown the pork over medium heat until colored and some fat renders.
 - Add garlic, soy sauce, rice wine, honey, and water; braise on low 15 minutes.
 - Reduce until thick; adjust salt and sweetness to taste.
-- Cool and portion—serve over rice with greens from custom additions if you like.
 storage: Refrigerate up to 3 days; reheat and spoon over rice.
 faqs:
 - question: Can I freeze it?
   answer: Yes—in small containers up to 2 weeks; thaw and microwave.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 Honey soy pork is a practical weekend batch for the week’s bentos.

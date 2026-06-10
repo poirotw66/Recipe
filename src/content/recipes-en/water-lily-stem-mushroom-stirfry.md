@@ -24,10 +24,11 @@ tags:
 - Lighter meals
 intro: Cook mushrooms partway first, then water dropwort—both stay snappy.
 steps:
-- Cut water dropwort sections and drain; slice or tear mushrooms; mince garlic.
+- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
 - Hot oil; mushrooms until they start to release moisture.
 - Water dropwort and garlic over high 1 minute.
 - Salt and white pepper; serve.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - King oyster or shimeji mushrooms work well.
 storage: Refrigerate 1 day; microwave softens texture.
@@ -42,7 +43,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: Water dropwort
   amount: "180"
@@ -66,6 +67,10 @@ seasonings:
 - name: Olive oil
   amount: "1"
   unit: tbsp
+---
+
+---
+---
 ---
 
 Light layers of vegetable without heavy oil.

@@ -1,0 +1,17 @@
+{
+  "slug": "sf-keto-surf-and-turf-platter",
+  "title": "生酮總匯海陸拼盤",
+  "reviewed_at": "2026-06-09",
+  "status": "Warning",
+  "confidence_score": 86,
+  "issues": [
+    {
+      "type": "Ingredient_Mismatch",
+      "code": "unused_ingredient",
+      "severity": "Warning",
+      "description": "食材／調味清單有「綜合生菜」，但步驟文字未出現（啟發式比對）。",
+      "suggested_fix": "在步驟中使用該材料，或從清單移除。",
+      "source": "precheck"
+    }
+  ]
+}

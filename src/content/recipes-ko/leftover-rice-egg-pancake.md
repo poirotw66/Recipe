@@ -61,7 +61,10 @@ faqs:
   answer: 밀가루 1큰술을 넣거나 달걀 양을 줄이면 모양이 잡힙니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 

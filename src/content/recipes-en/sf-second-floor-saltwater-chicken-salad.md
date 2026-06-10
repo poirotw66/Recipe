@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 先把 綜合生菜、鹽水雞、山苦瓜 整理成餐廳份量，炸物拍乾或裹粉，冷醬與配菜另外備好。
-- 依序把主炸物炸到表面金黃酥脆，薯條或餅皮另外炸好或烤好，讓雙重口感更接近門市分享盤。
-- 把 炸油與海鹽 調到濃稠可附著的狀態，再依品項加入辣味、起司或莎莎等標誌風味。
-- 起鍋後立刻組盤，熱食放中央、冷醬與生菜放邊側，維持貳樓常見的大份量分享感。
+- Prep 綜合生菜 120公克, 鹽水雞 適量, 山苦瓜 120公克, 火烤玉米 100公克; wash and dry greens, dice proteins (炸油 600毫升, 海鹽 1/2小匙, 鹽水雞油醋 2大匙, 辣椒粉 1/2小匙, 辣椒碎 1/2小匙 mixed separately).
+- Cook warm components (protein, grains, cauliflower rice) until done with light browning.
+- Toss greens in a large bowl; add warm items; drizzle 炸油 600毫升, 海鹽 1/2小匙, 鹽水雞油醋 2大匙, 辣椒粉 1/2小匙, 辣椒碎 1/2小匙 in 2–3 passes to avoid soggy salad.
+- Finish with nuts, cheese, or fruit layers for Second Floor Saltwater Chicken Salad.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -86,6 +86,9 @@ seasonings:
 - name: 辣椒碎
   amount: "1/2"
   unit: 小匙
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

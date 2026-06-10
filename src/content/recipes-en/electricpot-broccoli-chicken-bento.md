@@ -46,9 +46,10 @@ tags:
 - Bento main
 intro: Brief marinade keeps breast moist; steaming vegetables with the chicken saves prep time.
 steps:
+- "Prep: Chicken breast 260g, Broccoli 180g, Carrot 80g; rinse rice if using and chop vegetables."
+- "\"Prep: Chicken breast 260g, Broccoli 180g, Carrot 80g; rinse rice if using and chop vegetables.\""
 - Cut chicken into thick slices; mix minced garlic, soy sauce, and a pinch of salt; marinate 10 minutes.
 - Cut broccoli into florets; slice carrot; place with chicken in a heatproof dish.
-- Steam with 1 cup water in the outer pot until the cooker switches off; confirm chicken is cooked, then portion.
 tips:
 - Avoid slicing breast too thin or it dries out—keep some thickness.
 storage: Refrigerate portions up to 2 days; splash water before microwaving.
@@ -65,11 +66,15 @@ relatedIngredients:
 - 紅蘿蔔
 featured: false
 publishedAt: '2026-06-12'
-updatedAt: '2026-06-12'
+updatedAt: "2026-06-09"
 customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell pepper
+---
+
+---
+---
 ---
 
 One steam session covers protein and vegetables—huge time saver for meal prep.

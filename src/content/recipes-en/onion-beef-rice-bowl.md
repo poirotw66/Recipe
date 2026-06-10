@@ -46,9 +46,10 @@ tags:
 - Rice bowls
 intro: Leave the sauce a little loose—it coats rice better than a dry glaze.
 steps:
-- Shred beef; slice onion into thin strips; rice in a bowl.
-- Heat oil; stir-fry onion until translucent. Add beef over high heat until the surface changes color (about 70–80% done); remove promptly so it does not toughen.
-- Add soy sauce, sugar, and water to the pan; simmer 1 minute; pour the sauce and beef over the rice.
+- "Prep: Cooked white rice 1bowl, Beef 100g, Onion 1/2; dice Beef about ½ inch, divide Cooked white rice 1bowl into serving bowls."
+- Marinate Beef with Soy sauce 1.5Tbsp, Sugar 1tsp for 10 minutes; dice Onion finely.
+- Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Onion 2 minutes until slightly tender; Add Beef, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 tips:
 - Longer onion cooking deepens sweetness for the bowl.
 storage: Best fresh; pack sauce separately for bento.
@@ -63,11 +64,15 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Scallions
 - Chili
 - Enoki mushrooms
+---
+
+---
+---
 ---
 ---
 

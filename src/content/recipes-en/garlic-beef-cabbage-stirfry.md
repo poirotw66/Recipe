@@ -46,6 +46,8 @@ steps:
 - Shred beef; cut cabbage bite-size; mince garlic.
 - Hot oiled pan; fry garlic; stir-fry beef on high until mostly colored (70–80% done); set aside promptly.
 - Same pan, cabbage until slightly wilted; return beef; soy sauce and salt; toss quickly.
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Do not overcook cabbage—some crunch is the point.
 storage: Eat within 1 day refrigerated; reheat briefly.
@@ -57,11 +59,15 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - Scallions
 - Chili
 - Onion
+---
+
+---
+---
 ---
 
 One of the lighter beef stir-fries in the collection.

@@ -59,19 +59,21 @@ seasonings:
   unit: slices
 intro: Cut thigh, sear dry first for springy skin; add Thai basil at the very end to keep fragrance.
 steps:
-- Cut thigh into chunks and pat dry; smash garlic and slice ginger.
-- Heat 1 tbsp sesame oil; sear skin-side down until golden.
-- Add garlic, ginger, and remaining sesame oil; stir until fragrant.
-- Pour in soy sauce and rice wine; cover and simmer low 12 minutes until sauce reduces.
-- Toss in Thai basil off heat.
-- Spoon chicken over rice.
+- "Prep: Cooked rice 1bowl, Chicken thigh 1piece, Thai basil 1bunch; dice Chicken thigh about ½ inch, divide Cooked rice 1bowl into serving bowls."
+- Marinate Chicken thigh with Soy sauce 3tbsp, Rice wine 3tbsp, Sesame oil 2tbsp for 10 minutes; prep vegetables as needed.
+- Heat 1 Tbsp oil in a skillet over medium heat. Add Chicken thigh, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 storage: Refrigerate up to 2 days; add a splash of water when reheating.
 faqs:
 - question: Must the three-cup ratio be exact?
   answer: Adjust to taste—equal soy and rice wine with slightly less sesame oil is the baseline.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 A classic Taiwanese one-person main for renters.

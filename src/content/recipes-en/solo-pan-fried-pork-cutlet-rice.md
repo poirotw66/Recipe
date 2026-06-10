@@ -57,18 +57,21 @@ seasonings:
   unit: tsp
 intro: Pound the cutlet thin and pan-sear instead of deep-frying—better for small kitchens; rest before slicing to keep juices in.
 steps:
-- Pound cutlet thin; salt and pepper both sides; egg ready.
-- Medium-high skillet with oil; sear pork 3 minutes until golden.
-- Flip; cook 2 minutes; rest 3 minutes, then slice into strips.
-- Fry egg in same pan to soft-set.
-- Rice in bowl; top with pork and egg; drizzle a little soy sauce.
+- "Prep: Cooked rice 1bowl, Pork loin cutlet 1piece, Egg 1; dice Pork loin cutlet about ½ inch, divide Cooked rice 1bowl into serving bowls."
+- Marinate Pork loin cutlet with Salt pinch, Black pepper pinch, Olive oil 1tbsp for 10 minutes; prep vegetables as needed.
+- Heat 1 Tbsp oil in a skillet over medium heat. Add Pork loin cutlet, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 storage: Best fresh; pork dries if reheated next day.
 faqs:
 - question: Can I use chicken cutlet instead?
   answer: Yes—pounded chicken breast works; cook slightly less.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 A weekend treat cutlet bowl without the fryer.

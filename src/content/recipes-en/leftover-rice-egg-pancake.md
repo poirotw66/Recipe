@@ -61,7 +61,10 @@ faqs:
   answer: Add 1 Tbsp flour or use slightly less egg.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 A sturdy solo meal from pantry staples.

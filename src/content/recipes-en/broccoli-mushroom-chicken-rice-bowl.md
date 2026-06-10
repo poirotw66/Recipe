@@ -46,9 +46,10 @@ tags:
 - Bento mains
 intro: Cook chicken first, then mushrooms and broccoli—easier to control doneness and less water in the pan.
 steps:
-- Cut chicken into strips, broccoli into small florets, mushrooms into slices, and mince the garlic.
-- Heat oil in a skillet over medium-low; sauté garlic until fragrant, add chicken and cook until colored, then add mushrooms and broccoli.
-- Season with soy sauce and stir until everything is cooked through; serve with rice in portions.
+- "Prep: Chicken breast 220g, Broccoli 140g, Cooked white rice 2bowls; dice Chicken breast about ½ inch, divide Cooked white rice 2bowls into serving bowls."
+- Marinate Chicken breast with Mushrooms 120g, Garlic 2cloves, Soy sauce 2tsp for 10 minutes; dice Broccoli finely.
+- Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Broccoli 2 minutes until slightly tender; Add Chicken breast, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
 tips:
 - Blanch broccoli 30 seconds first to shorten stir-fry time.
 storage: Refrigerate 1–2 days.
@@ -65,11 +66,15 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-07-08'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - King oyster mushrooms
 - Baby corn
 - Bell peppers
+---
+
+---
+---
 ---
 ---
 

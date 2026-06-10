@@ -58,13 +58,19 @@ steps:
 - Same pan; garlic; zucchini 2 minutes over high.
 - Return chicken; toss 1 minute over high.
 - Serve alone or with salad.
+- Use medium heat unless noted; stir or flip occasionally for even cooking.
+- Check doneness (no pink juices in poultry, fish flakes easily), then adjust salt.
 storage: Refrigerate 1 day; microwave about 1 minute to reheat.
 faqs:
 - question: No zucchini?
   answer: Cucumber, bell pepper, or broccoli florets substitute.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 One of the cleaner mains when you are keeping portions light.

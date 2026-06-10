@@ -64,7 +64,10 @@ faqs:
   answer: 이 요리는 두부가 중심이나, 프라이 달걀을 추가해 단백질을 늘릴 수 있습니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 

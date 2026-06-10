@@ -66,7 +66,10 @@ steps:
 storage: Toss and eat; fish overnight loses appeal.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 Great for summer lunches when you do not want the stove on.

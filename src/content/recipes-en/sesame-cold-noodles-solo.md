@@ -67,7 +67,10 @@ faqs:
   answer: Yes—try ginger paste or leave it out for a milder taste.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
+---
+
+---
 ---
 
 A go-to when you want a full meal without firing up the stove in summer.

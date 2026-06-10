@@ -27,10 +27,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 先把 Oreo 餅底起司蛋糕 依甜點基底處理好，冷熱配件與醬料分開準備。
-- 蛋糕、派或布朗尼主體先烤到中心仍微濕潤，再讓表面定型。
-- 上桌前補上 無鹽奶油與細砂糖、冰淇淋或奶油起司，做出貳樓常見的熱冷對比。
-- 最後以單盤甜點份量擺盤，讓主體、醬料與冰涼配件各自清楚可見。
+- "Prep Oreo 餅底起司蛋糕 1份; seasonings ready: 無鹽奶油 30公克, 細砂糖 2大匙."
+- Cook main components over medium-high until properly browned and cooked through.
+- Add sides in order of cook time; keep sauces warm.
+- Plate American Cheesecake with sauce spooned over the hero ingredient.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -61,6 +61,9 @@ seasonings:
 - name: 細砂糖
   amount: "2"
   unit: 大匙
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

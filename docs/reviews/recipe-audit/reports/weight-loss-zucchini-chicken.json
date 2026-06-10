@@ -1,8 +1,17 @@
 {
   "slug": "weight-loss-zucchini-chicken",
   "title": "減脂櫛瓜雞肉",
-  "reviewed_at": "2026-06-08",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-06-09",
+  "status": "Warning",
+  "confidence_score": 86,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "code": "duplicated_phrase",
+      "severity": "Warning",
+      "description": "步驟內有重複長句（例如「。\\\"，炒至表面全熟即可。\"\n\"備料：\\\"…」），疑似批次產文殘留。",
+      "suggested_fix": "刪除重複句並精簡步驟。",
+      "source": "content_rules"
+    }
+  ]
 }

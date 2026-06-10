@@ -47,6 +47,8 @@ steps:
 - Slice the chicken; marinate with soy sauce and black pepper 5 minutes.
 - Tear mushrooms into bite pieces; mince garlic. Heat oil and pan-fry the chicken first.
 - When the chicken changes color, add garlic and mushrooms; stir-fry until mushrooms are tender and juices have reduced.
+- Plate with rice or noodles while hot; let rest 1 minute before serving.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Slice the breast thinner—it cooks faster and stays juicier.
 storage: Refrigerate up to 2 days; good for next-day bento.
@@ -62,11 +64,15 @@ relatedIngredients:
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: '2026-05-29'
+updatedAt: "2026-06-09"
 customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell peppers
+---
+
+---
+---
 ---
 
 Simple seasoning—the key is browning the mushrooms so the chicken doesn’t taste dry.

@@ -52,6 +52,8 @@ tags:
 - White sauce
 intro: Sear chicken first, then thicken milk and cheese into white sauce—rich but straightforward.
 steps:
+- Boil salted water; cook pasta until al dente, drain and reserve ½ cup pasta water.
+- "Prep: Spaghetti 80g, Chicken breast 100g."
 - Dice chicken; season with salt and pepper. Cook pasta until al dente; reserve ½ cup pasta water.
 - Melt butter; pan-fry chicken until golden. Add minced garlic and stir until fragrant.
 - Pour in milk and grated cheese; simmer gently and stir until slightly thickened.
@@ -69,11 +71,15 @@ relatedIngredients:
 - 雞胸肉
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - Bacon
 - Heavy cream
 - Parmesan cheese
+---
+
+---
+---
 ---
 
 For nights when you want creamy sauce and plenty of protein.

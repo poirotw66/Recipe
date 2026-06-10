@@ -52,18 +52,24 @@ seasonings:
   unit: clove
 intro: Preserved radish is salty—rinse 5 minutes and go easy on extra salt.
 steps:
-- Dice preserved radish; soak in water 5 minutes; drain. Mince garlic; beat eggs.
-- Heat oil; sauté garlic and radish over low 2 minutes.
-- Pour eggs; stir to half-set.
-- Rice in a bowl; top with the radish egg.
-- Add scallions or white pepper from custom additions if you like.
+- "Prep: Cooked white rice 1bowl, Eggs 2; dice protein about ½ inch, divide Cooked white rice 1bowl into serving bowls."
+- Marinate protein with Preserved radish (cai po) 2Tbsp, Olive oil 1Tbsp, Garlic 1clove for 10 minutes; prep vegetables as needed.
+- Heat 1 Tbsp oil in a skillet over medium heat. Add protein, sear and stir-fry until opaque and cooked through.
+- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve immediately while hot.
+- Taste and adjust seasoning; serve immediately while hot.
+- Taste and adjust seasoning; serve immediately while hot.
 storage: Best fresh; microwave reheat about 1 minute.
 faqs:
 - question: No preserved radish?
   answer: Salted mustard or kimchi works with a different flavor profile.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
+---
+
+---
+---
 ---
 
 One of the fastest savory rice toppings in Taiwanese home cooking.

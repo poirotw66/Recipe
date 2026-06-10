@@ -24,10 +24,11 @@ tags:
 - Seafood
 intro: Cook shrimp first, stir-fry greens, then combine—shrimp stay plump.
 steps:
-- Rinse shrimp; light rice wine rub; cut water dropwort; mince garlic.
+- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
 - Hot oil; shrimp until pink; set aside.
 - Same pan; garlic; water dropwort over high 1 minute.
 - Return shrimp; salt and white pepper; toss.
+- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Brief rice wine on shrimp reduces fishiness.
 storage: Same day; shrimp firmness drops overnight.
@@ -42,7 +43,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: Water dropwort
   amount: "180"
@@ -69,6 +70,10 @@ seasonings:
 - name: Rice wine
   amount: "1"
   unit: tsp
+---
+
+---
+---
 ---
 
 Clean seafood plate when you want fullness without heavy oil.

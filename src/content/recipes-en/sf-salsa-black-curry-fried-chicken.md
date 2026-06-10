@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- 先把 炸雞 整理成餐廳份量，炸物拍乾或裹粉，冷醬與配菜另外備好。
-- 依序把主炸物炸到表面金黃酥脆，薯條或餅皮另外炸好或烤好，讓雙重口感更接近門市分享盤。
-- 把 炸油與海鹽 調到濃稠可附著的狀態，再依品項加入辣味、起司或莎莎等標誌風味。
-- 起鍋後立刻組盤，熱食放中央、冷醬與生菜放邊側，維持貳樓常見的大份量分享感。
+- "Prep 炸雞 適量; seasonings ready: 炸油 600毫升, 海鹽 1/2小匙, 黑咖哩醬 2大匙, 莎莎醬 2大匙, 辣椒碎 1/2小匙."
+- Cook main components over medium-high until properly browned and cooked through.
+- Add sides in order of cook time; keep sauces warm.
+- Plate Salsa Black Curry Fried Chicken with sauce spooned over the hero ingredient.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -71,6 +71,9 @@ seasonings:
 - name: 辣椒碎
   amount: "1/2"
   unit: 小匙
+---
+
+---
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
