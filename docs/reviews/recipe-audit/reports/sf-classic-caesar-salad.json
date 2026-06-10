@@ -1,17 +1,8 @@
 {
   "slug": "sf-classic-caesar-salad",
   "title": "經典凱薩沙拉",
-  "reviewed_at": "2026-06-09",
-  "status": "Warning",
-  "confidence_score": 86,
-  "issues": [
-    {
-      "type": "Logic_Error",
-      "code": "duplicated_phrase",
-      "severity": "Warning",
-      "description": "步驟內有重複長句（例如「炸油 600毫升、海鹽 1/2小匙、凱薩醬 2大…」），疑似批次產文殘留。",
-      "suggested_fix": "刪除重複句並精簡步驟。",
-      "source": "content_rules"
-    }
-  ]
+  "reviewed_at": "2026-06-10",
+  "status": "Pass",
+  "confidence_score": 92,
+  "issues": []
 }

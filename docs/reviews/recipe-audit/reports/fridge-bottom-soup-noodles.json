@@ -1,17 +1,8 @@
 {
   "slug": "fridge-bottom-soup-noodles",
   "title": "什錦蔬菜湯麵",
-  "reviewed_at": "2026-06-09",
-  "status": "Warning",
-  "confidence_score": 86,
-  "issues": [
-    {
-      "type": "Ingredient_Mismatch",
-      "code": "water_not_listed",
-      "severity": "Warning",
-      "description": "湯品步驟需要加水，但食材清單未標示水量。",
-      "suggested_fix": "在步驟或食材中標明水量（如 600 ml）。",
-      "source": "content_rules"
-    }
-  ]
+  "reviewed_at": "2026-06-10",
+  "status": "Pass",
+  "confidence_score": 92,
+  "issues": []
 }

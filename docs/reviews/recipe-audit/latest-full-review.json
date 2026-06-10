@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-09",
+  "generated_at": "2026-06-10",
   "recipe_count": 231,
-  "pass": 203,
-  "warning": 28,
+  "pass": 231,
+  "warning": 0,
   "critical": 0,
-  "summary_markdown": "docs/reviews/recipe-audit/audit-summary-2026-06-09-full-231.md",
+  "summary_markdown": "docs/reviews/recipe-audit/audit-summary-2026-06-10-full-231.md",
   "slugs": [
     {
       "slug": "air-fryer-butter-corn",
@@ -249,7 +249,7 @@
     {
       "slug": "egg-scallion-oil-noodles",
       "title": "蛋蔥油麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "electricpot-broccoli-chicken-bento",
@@ -274,7 +274,7 @@
     {
       "slug": "fridge-bottom-soup-noodles",
       "title": "什錦蔬菜湯麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "fried-trio-platter",
@@ -369,7 +369,7 @@
     {
       "slug": "instant-miso-egg-soup",
       "title": "味噌蛋花湯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "leftover-meat-quick-stirfry",
@@ -474,7 +474,7 @@
     {
       "slug": "pesto-chicken-mushroom-pasta",
       "title": "青蔥蒜香雞肉菇類義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "pesto-chicken-pasta",
@@ -574,7 +574,7 @@
     {
       "slug": "sesame-cold-noodles-solo",
       "title": "一人麻醬涼麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sesame-onion-chicken-rice-bowl",
@@ -609,7 +609,7 @@
     {
       "slug": "sf-avocado-smoked-salmon-open-toast",
       "title": "酪梨燻鮭魚／歐包 Open",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-baked-thick-cut-pork-cream-rice",
@@ -624,7 +624,7 @@
     {
       "slug": "sf-bbq-roasted-half-chicken",
       "title": "BBQ 溫烤半雞",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-black-pepper-hamburg-rice",
@@ -639,7 +639,7 @@
     {
       "slug": "sf-bloody-mary-spicy-rice",
       "title": "血腥瑪麗辣味飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-brownie-ice-cream",
@@ -669,7 +669,7 @@
     {
       "slug": "sf-chef-crispy-pork-knuckle",
       "title": "主廚脆皮豬腳",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-chicken-quesadilla",
@@ -684,7 +684,7 @@
     {
       "slug": "sf-classic-caesar-salad",
       "title": "經典凱薩沙拉",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-classic-ham-mushroom-eggs-benedict",
@@ -719,12 +719,12 @@
     {
       "slug": "sf-green-superhero-quinoa-buddha-bowl",
       "title": "綠超人藜麥佛陀碗",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-griddled-butter-ham-sandwich",
       "title": "厚烤奶油 Ham 三明治",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
@@ -734,12 +734,12 @@
     {
       "slug": "sf-keto-surf-and-turf-platter",
       "title": "生酮總匯海陸拼盤",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-kids-cream-chicken-penne",
       "title": "北鼻奶油雞肉長管麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-local-sausage-quesadilla",
@@ -774,7 +774,7 @@
     {
       "slug": "sf-orange-danish-poached-seafood-potato",
       "title": "橙香法式丹麥 水波海鮮洋芋",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-orange-danish-sous-vide-steak",
@@ -799,7 +799,7 @@
     {
       "slug": "sf-roasted-sesame-chicken-salad",
       "title": "焙煎胡麻雞沙拉",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-salsa-black-curry-fried-chicken",
@@ -834,7 +834,7 @@
     {
       "slug": "sf-second-floor-saltwater-chicken-salad",
       "title": "貳樓金牌鹽水雞沙拉",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
@@ -844,7 +844,7 @@
     {
       "slug": "sf-signature-double-stack-burger",
       "title": "實打實招牌漢堡",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-smoked-salmon-caesar-salad",
@@ -864,7 +864,7 @@
     {
       "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
       "title": "舒肥雞藜麥花椰飯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-south-sea-spiced-chicken-rice",
@@ -874,7 +874,7 @@
     {
       "slug": "sf-spicy-mexican-firecracker-burger",
       "title": "老墨辣鞭炮漢堡",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-spicy-pepper-karaage-pasta",
@@ -899,7 +899,7 @@
     {
       "slug": "sf-supreme-cheese-omelette",
       "title": "總匯奶起司歐姆蕾",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-sweet-savory-rice",
@@ -919,7 +919,7 @@
     {
       "slug": "sf-truffle-mushroom-cream-pasta",
       "title": "松露蕈菇奶油麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "sf-white-wine-garlic-clam-squid-ink-pasta",
@@ -994,7 +994,7 @@
     {
       "slug": "spicy-seafood-tomato-pasta",
       "title": "海鮮番茄辣麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "steamed-chicken-bento",
@@ -1029,7 +1029,7 @@
     {
       "slug": "tofu-tomato-pasta",
       "title": "豆腐番茄義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "tomato-beef-rice-bowl",
@@ -1144,22 +1144,22 @@
     {
       "slug": "weight-loss-clear-mushroom-soup",
       "title": "減脂菇類清湯",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "weight-loss-shrimp-veg-salad",
       "title": "減脂鮮蝦沙拉",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "weight-loss-zucchini-chicken",
       "title": "減脂櫛瓜雞肉",
-      "status": "Warning"
+      "status": "Pass"
     },
     {
       "slug": "white-sauce-chicken-pasta",
       "title": "白醬雞肉義大利麵",
-      "status": "Warning"
+      "status": "Pass"
     }
   ]
 }

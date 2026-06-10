@@ -1,41 +1,8 @@
 {
   "slug": "sf-chef-crispy-pork-knuckle",
   "title": "主廚脆皮豬腳",
-  "reviewed_at": "2026-06-09",
-  "status": "Warning",
-  "confidence_score": 68,
-  "issues": [
-    {
-      "type": "Ingredient_Mismatch",
-      "code": "unused_ingredient",
-      "severity": "Warning",
-      "description": "食材／調味清單有「薯條」，但步驟文字未出現（啟發式比對）。",
-      "suggested_fix": "在步驟中使用該材料，或從清單移除。",
-      "source": "precheck"
-    },
-    {
-      "type": "Ingredient_Mismatch",
-      "code": "unused_ingredient",
-      "severity": "Warning",
-      "description": "食材／調味清單有「橄欖油」，但步驟文字未出現（啟發式比對）。",
-      "suggested_fix": "在步驟中使用該材料，或從清單移除。",
-      "source": "precheck"
-    },
-    {
-      "type": "Ingredient_Mismatch",
-      "code": "unused_ingredient",
-      "severity": "Warning",
-      "description": "食材／調味清單有「海鹽」，但步驟文字未出現（啟發式比對）。",
-      "suggested_fix": "在步驟中使用該材料，或從清單移除。",
-      "source": "precheck"
-    },
-    {
-      "type": "Ingredient_Mismatch",
-      "code": "unused_ingredient",
-      "severity": "Warning",
-      "description": "食材／調味清單有「黑胡椒碎」，但步驟文字未出現（啟發式比對）。",
-      "suggested_fix": "在步驟中使用該材料，或從清單移除。",
-      "source": "precheck"
-    }
-  ]
+  "reviewed_at": "2026-06-10",
+  "status": "Pass",
+  "confidence_score": 92,
+  "issues": []
 }

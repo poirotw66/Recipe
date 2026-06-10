@@ -29,7 +29,8 @@ relatedIngredients:
 - 蝦仁
 - 番茄
 - 小黃瓜
-customAdditions: []
+customAdditions:
+- 白芝麻 少許
 ingredients:
 - name: "蝦仁"
   amount: "150"
@@ -58,18 +59,18 @@ seasonings:
   unit: ""
 intro: "蝦仁快炒或汆燙皆可；蔬菜瀝乾，醬汁才掛得住。"
 steps:
-- 蝦仁去腸吸乾；小黃瓜、番茄切適口大小，中火炒至表面全熟即可。
+- 蝦仁去腸吸乾；小黃瓜、番茄切適口大小。
 - 平底鍋少油，蝦仁大火快炒 2 分鐘至變色，或滾水汆燙 1 分鐘。
 - 檸檬汁、橄欖油、鹽、胡椒調成油醋醬。
 - 蔬菜放入大碗，淋醬汁輕拋。
-- 鋪上蝦仁，可撒白芝麻，中火炒至表面全熟即可。
+- 鋪上蝦仁，可撒白芝麻。
 storage: "現拌現吃；蝦仁與醬汁分開裝可冷藏 1 天。"
 faqs:
 - question: "可以不加油嗎？"
   answer: "可以，改只用檸檬汁與鹽，更清爽。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-06-10"
 ---
 ---
 

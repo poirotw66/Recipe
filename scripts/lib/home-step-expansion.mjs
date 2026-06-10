@@ -118,7 +118,7 @@ function expandFriedRice(ctx) {
   ];
 }
 
-function expandRiceBowl(ctx) {
+export function expandRiceBowl(ctx) {
   const protein = ctx.ingredients.find((item) => /雞|牛|豬|蝦|魚|豆腐/.test(item.name));
   const veg = ctx.ingredients.find((item) => /蘿蔔|菜|椒|菇|洋蔥|番茄|青花/.test(item.name));
   const rice = ctx.ingredients.find((item) => item.name.includes("飯"));

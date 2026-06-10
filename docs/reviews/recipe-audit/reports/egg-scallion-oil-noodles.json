@@ -1,17 +1,8 @@
 {
   "slug": "egg-scallion-oil-noodles",
   "title": "蛋蔥油麵",
-  "reviewed_at": "2026-06-09",
-  "status": "Warning",
-  "confidence_score": 86,
-  "issues": [
-    {
-      "type": "Ingredient_Mismatch",
-      "code": "unused_ingredient",
-      "severity": "Warning",
-      "description": "食材／調味清單有「油麵」，但步驟文字未出現（啟發式比對）。",
-      "suggested_fix": "在步驟中使用該材料，或從清單移除。",
-      "source": "precheck"
-    }
-  ]
+  "reviewed_at": "2026-06-10",
+  "status": "Pass",
+  "confidence_score": 92,
+  "issues": []
 }
