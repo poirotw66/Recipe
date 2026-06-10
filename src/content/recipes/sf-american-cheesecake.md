@@ -1,7 +1,7 @@
 ---
 title: 全美起司蛋糕
 description: 參考貳樓 Second Floor Cafe 常見做法，以 Oreo 餅底起司蛋糕 還原 全美起司蛋糕 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-american-cheesecake.webp
+coverImage: /images/recipes/sf-american-cheesecake.svg
 servings: 2
 prepTime: 20
 cookTime: 28
@@ -26,10 +26,10 @@ restaurantSource:
   region: 全台連鎖
 intro: 這道 全美起司蛋糕 參考貳樓 Second Floor Cafe 常見做法，會先把 Oreo 餅底起司蛋糕 分段處理，再依 甜點 的出餐邏輯完成整盤。
 steps:
-- "備料：將奶油起司或巧克力等主料回溫；烤箱預熱至 180°C，將模具準備妥當，另備 Oreo 餅底起司蛋糕。"
-- 攪拌盆中混合無鹽奶油、細砂糖、蛋液與麵粉（若是蜜桃派則鋪入派皮與肉桂蜜桃餡），倒入模具中。
-- 放入烤箱中烘烤約 25-30 分鐘，至蛋糕或布朗尼表面定型但中心仍保持微濕潤（起司蛋糕需水浴法烘烤），出爐後放涼。
-- 盛盤時，搭配香草冰淇淋球或打發鮮奶油，淋上溫熱的 無鹽奶油 30公克、細砂糖 2大匙，即可享用經典的冷熱雙重口感。
+- "備料：Oreo 餅底起司蛋糕 1份 依需求回溫或冷藏；無鹽奶油 30公克、細砂糖 2大匙 分裝。"
+- 蛋糕或布朗尼烤至中心微濕、表面定型。
+- 搭配冰淇淋或鮮奶油做出冷熱對比。
+- 單盤擺好 全美起司蛋糕 即可上桌。
 tips:
 - 貳樓甜點重視溫熱主體搭配冰涼配料，出餐前再完成最後組合最重要。
 - 蛋糕與派皮不要過度烘烤，保留中心濕潤感更接近餐廳版本。
@@ -47,7 +47,7 @@ faqs:
   answer: 先把 Oreo 餅底起司蛋糕 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-10"
+updatedAt: "2026-06-09"
 ingredients:
 - name: Oreo 餅底起司蛋糕
   amount: "1"
