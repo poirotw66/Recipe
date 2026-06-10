@@ -66,13 +66,11 @@ relatedIngredients:
 - 달걀
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
 ---
-
-
 
 소스가 있는 파스타가 먹고 싶은 밤에 잘 맞는 진한 한 접시입니다.

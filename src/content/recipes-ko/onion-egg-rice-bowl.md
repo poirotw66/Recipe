@@ -62,13 +62,11 @@ relatedIngredients:
 - 달걀
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: '2026-05-29'
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 깍둑
 - 치즈 가담
 - 쪽파
 ---
-
-
 
 냉장고에 기본 재료만 남았을 때도 저녁 한 끼로 충분히 성립하는 덮밥입니다.

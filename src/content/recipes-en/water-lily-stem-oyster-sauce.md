@@ -28,7 +28,6 @@ steps:
 - Stir oyster sauce, soy sauce, and sugar in a bowl; pour down the side of the pan.
 - Toss 30 seconds until glazed; serve.
 - Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Oyster sauce is salty—reduce soy if needed.
 storage: Refrigerate 1 day; quick reheat with a little oil.

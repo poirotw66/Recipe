@@ -65,7 +65,7 @@ relatedIngredients:
 - 豆腐
 featured: false
 publishedAt: '2026-06-11'
-updatedAt: '2026-06-11'
+updatedAt: "2026-06-09"
 customAdditions:
 - 肉だんご
 - あさり

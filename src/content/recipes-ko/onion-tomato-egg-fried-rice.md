@@ -65,12 +65,13 @@ relatedIngredients:
 - 달걀
 featured: true
 publishedAt: '2026-06-07'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 깍둡
 - 치즈 가담
 - 쪽파
 ---
+
 ---
 
 양파 토마토 달걀 볶음밥은 새콤달콤해 평일 저녁 볶음밥으로 손이 가기 쉽습니다.

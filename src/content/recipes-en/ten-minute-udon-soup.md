@@ -55,11 +55,11 @@ seasonings:
 intro: Dashi with soy and mirin makes an easy Japanese broth; add udon last so noodles stay springy.
 steps:
 - "Prep: Udon noodles 1serving, Scallion 1stalk; seasonings ready: Bonito dashi stock 500ml, Soy sauce 1.5tbsp, Mirin 1tbsp, Salt pinch."
-- Bring water to a boil, then add longer-cooking items first.
 - "Prep: Udon noodles 1serving, Scallion 1stalk; seasonings ready: Bonito dashi stock 500ml, Soy sauce 1.5tbsp, Mirin 1tbsp, Salt pinch."
-- Bring water to a boil, then add longer-cooking items first.
 - Pour dashi into saucepan; add soy sauce and mirin; bring to a boil over medium heat.
 - Taste; adjust salt.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; noodles swell if stored overnight.
 faqs:
 - question: No prepared dashi?

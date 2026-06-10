@@ -72,7 +72,7 @@ steps:
 storage: 냉장 1일; 데울 때 물을 조금 보태세요.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 가든 채소 파스타는 파스타 코너에서 가장 맑고 일상적인 선택입니다.

@@ -62,7 +62,7 @@ relatedIngredients:
 - 青蔥
 featured: false
 publishedAt: '2026-07-03'
-updatedAt: '2026-07-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - Diced ham
 - Shredded cheese

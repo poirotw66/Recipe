@@ -62,7 +62,7 @@ relatedIngredients:
 - 마늘
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: '2026-05-29'
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 깍둡
 - 치즈 가담

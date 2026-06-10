@@ -73,13 +73,11 @@ relatedIngredients:
 - 대파
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
 ---
-
-
 
 페스토와 고기를 함께 즐기기 좋은 실용적인 레시피로, 운동 후나 단백질을 챙기는 저녁에 잘 맞습니다.

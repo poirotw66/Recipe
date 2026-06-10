@@ -29,7 +29,6 @@ steps:
 - Garlic, soy sauce, sugar, and water; simmer 3 minutes.
 - Water dropwort over high 1 minute; reduce sauce; serve.
 - Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Firm tofu handles flipping; soft tofu needs a gentle hand.
 storage: Refrigerate 2 days; splash water when reheating.

@@ -65,12 +65,13 @@ relatedIngredients:
 - にんにく
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - ベーコン
 - 生クリーム
 - パルメザンチーズ
 ---
+
 ---
 
 常備のトマトをメインの一皿にしたい夜に、トマトガーリックパスタはぴったりです。

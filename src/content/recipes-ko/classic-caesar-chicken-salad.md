@@ -68,7 +68,7 @@ steps:
 storage: 드레싱과 상추는 따로 보관하고 당일 드시는 것이 식감이 가장 좋습니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 클래식 시저 닭가슴살 샐러드는 메뉴에서 가장 상큼한 메인형 샐러드입니다.

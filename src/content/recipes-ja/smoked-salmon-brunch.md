@@ -66,7 +66,7 @@ steps:
 storage: できたてに。開封後のサーモンは当日使い切りがおすすめ。
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 スモークサーモンブランチはコンロをほとんど使わず、忙しい朝にも向きます。

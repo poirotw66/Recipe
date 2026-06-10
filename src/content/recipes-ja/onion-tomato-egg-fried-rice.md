@@ -65,12 +65,13 @@ relatedIngredients:
 - 卵
 featured: true
 publishedAt: '2026-06-07'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ
 - ねぎのみじん切り
 ---
+
 ---
 
 甘酸っぱくて平日の夕食に手軽なチャーハンの定番です。

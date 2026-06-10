@@ -44,9 +44,9 @@ tags:
 intro: Press tofu dry before seasoning and air-frying so the surface can turn crisp and golden.
 steps:
 - "Prep: Firm tofu 1block, Mushrooms 160g, Garlic 2cloves; pat Firm tofu dry and rub with Soy sauce 1.5tsp, Salt pinch."
-- "Prep: Firm tofu 1block, Mushrooms 160g, Garlic 2cloves; pat Firm tofu dry and rub with Soy sauce 1.5tsp, Salt pinch."
 - Cube tofu and pat dry; tear mushrooms into bite pieces; mince garlic.
 - Toss tofu, mushrooms, garlic, and soy sauce; rest 5 minutes.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Wet tofu browns poorly—drying is the key step.
 storage: Refrigerate 1 day; re-crisp in air fryer 3 minutes.

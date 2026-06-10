@@ -63,7 +63,7 @@ relatedIngredients:
 - 白飯
 featured: true
 publishedAt: '2026-05-24'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Diced ham
 - Shredded cheese

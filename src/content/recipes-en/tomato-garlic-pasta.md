@@ -65,12 +65,13 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Bacon
 - Heavy cream
 - Parmesan cheese
 ---
+
 ---
 
 Tomato garlic pasta is a fast way to turn everyday tomatoes into a main dish.

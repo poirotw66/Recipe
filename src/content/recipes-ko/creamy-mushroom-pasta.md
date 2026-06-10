@@ -63,13 +63,11 @@ relatedIngredients:
 - 버섯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
 ---
-
-
 
 밥반찬을 많이 준비하지 않아도 든든하게 먹고 싶을 때 잘 맞는 파스타입니다.

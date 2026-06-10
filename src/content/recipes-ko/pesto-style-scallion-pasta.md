@@ -67,13 +67,11 @@ relatedIngredients:
 - 마늘
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
 ---
-
-
 
 큰 통 페스토를 사지 않고 맛을 바꾸고 싶을 때 좋습니다.

@@ -65,12 +65,13 @@ relatedIngredients:
 - 卵
 featured: false
 publishedAt: '2026-07-02'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ
 - ねぎ
 ---
+
 ---
 
 トマトキャベツのふんわり卵炒めは、平日の定番おかずとして繰り返し作りやすい一品です。

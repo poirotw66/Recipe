@@ -66,7 +66,7 @@ relatedIngredients:
 - 두부
 featured: false
 publishedAt: "2026-07-11"
-updatedAt: "2026-07-11"
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 깍둑
 - 치즈 가담

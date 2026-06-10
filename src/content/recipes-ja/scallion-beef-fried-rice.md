@@ -59,12 +59,13 @@ relatedIngredients:
 - ねぎ
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - 唐辛子
 - 玉ねぎ
 - えのき
 ---
+
 ---
 
 香りが立ち、手順が短いので忙しい平日の夕食に向いています。

@@ -4,8 +4,10 @@
  */
 import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
-import { expandLocalizedSteps, UPDATED } from "./lib/locale-step-expansion.mjs";
+import { alignLocaleStepsToZh } from "./lib/align-locale-steps.mjs";
+import { UPDATED } from "./lib/locale-step-expansion.mjs";
 import { parseRecipeContext } from "./lib/parse-recipe-fm.mjs";
+import { readdirSync } from "node:fs";
 
 const root = process.cwd();
 const flaggedPath = join(root, "docs/reviews/recipe-audit/step-detail-flagged.json");
@@ -53,19 +55,10 @@ function patch(locale, slug) {
   const path = join(root, localeDirs[locale], `${slug}.md`);
   const raw = readFileSync(path, "utf8");
   const { fm, body } = splitMarkdown(raw);
-  const ctx = parseRecipeContext(raw, slug);
-  let steps = expandLocalizedSteps(ctx, locale);
-
-  const zhCount = countZhSteps(slug);
-  if (steps.length < zhCount) {
-    const pad = locale === "en"
-      ? "Taste and adjust seasoning; serve immediately while hot."
-      : locale === "ja"
-        ? "味を見て、温かいうちに盛り付ける。"
-        : "간을 맞추고 뜨거울 때 바로 낸다.";
-    while (steps.length < zhCount) steps.push(pad);
-  }
-  if (steps.length > zhCount) steps = steps.slice(0, zhCount);
+  const zhRaw = readFileSync(join(root, "src/content/recipes", `${slug}.md`), "utf8");
+  const zhCtx = parseRecipeContext(zhRaw, slug);
+  const locCtx = parseRecipeContext(raw, slug);
+  const steps = alignLocaleStepsToZh(zhCtx.steps, locCtx.steps, locale);
 
   const nextFm = replaceSteps(fm, steps);
   const trimmedBody = body.trimStart();
@@ -74,8 +67,14 @@ function patch(locale, slug) {
 }
 
 const flagged = JSON.parse(readFileSync(flaggedPath, "utf8"));
-const slugs = [...flagged.high, ...flagged.medium].map((entry) => entry.slug);
+const flaggedSlugs = [...flagged.high, ...flagged.medium].map((entry) => entry.slug);
+const allZhSlugs = readdirSync(join(root, "src/content/recipes"))
+  .filter((f) => f.endsWith(".md"))
+  .map((f) => f.replace(/\.md$/, ""))
+  .sort();
 const onlySlug = process.argv.find((a) => a.startsWith("--slug="))?.split("=")[1];
+const useAll = process.argv.includes("--all");
+const slugs = useAll ? allZhSlugs : flaggedSlugs;
 const targets = onlySlug ? slugs.filter((s) => s === onlySlug) : slugs;
 
 let count = 0;

@@ -62,7 +62,7 @@ relatedIngredients:
 - 青ねぎ
 featured: false
 publishedAt: '2026-06-05'
-updatedAt: '2026-06-05'
+updatedAt: "2026-06-09"
 customAdditions:
 - ハム丁
 - シュレッドチーズ

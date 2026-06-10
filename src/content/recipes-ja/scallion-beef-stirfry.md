@@ -63,7 +63,7 @@ relatedIngredients:
 - 青ねぎ
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 唐辛子
 - 玉ねぎ

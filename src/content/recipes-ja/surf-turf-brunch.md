@@ -81,7 +81,7 @@ faqs:
   answer: モモやランプなど厚さ2cm以内なら同様に焼けます。
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 サーフ＆ターフブランチは、週末に外に並ばず贅沢に食べたいとき向きです。

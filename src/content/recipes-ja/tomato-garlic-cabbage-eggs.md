@@ -64,12 +64,13 @@ relatedIngredients:
 - 卵
 featured: false
 publishedAt: '2026-07-15'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ
 - ねぎ
 ---
+
 ---
 
 常備野菜でたんぱく質も摂れる、平日向けの炒め物です。

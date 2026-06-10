@@ -48,9 +48,7 @@ tags:
 intro: Sauté onion before simmering for depth without heavy seasoning.
 steps:
 - "Prep: Cabbage 180g, Mushrooms 120g, Onion 0.25, Water 700ml; seasonings ready: Salt pinch, Garlic 1clove."
-- Bring water to a boil, then add longer-cooking items first.
 - "Prep: Cabbage 180g, Mushrooms 120g, Onion 0.25, Water 700ml; seasonings ready: Salt pinch, Garlic 1clove."
-- Bring water to a boil, then add longer-cooking items first.
 - Slice cabbage and mushrooms; shred onion; slice garlic.
 - In the pot with a little oil, cook onion and garlic, then add cabbage and mushrooms.
 tips:

@@ -72,7 +72,7 @@ steps:
 storage: できたてに。きのこは翌日出水しやすいです。
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 トリュフ風味きのこパスタは、香りが豊かなベジ寄りのパスタメニューです。

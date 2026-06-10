@@ -73,7 +73,7 @@ steps:
 storage: 바로 드세요. 냉장하면 겉이 눅눅해집니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 집에서 서양식 브런치를 즐기고 싶은 날 잘 어울리는 메뉴입니다.

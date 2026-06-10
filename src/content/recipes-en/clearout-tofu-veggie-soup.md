@@ -61,9 +61,7 @@ seasonings:
 intro: No fixed formula—use whatever vegetables balance the bowl.
 steps:
 - "Prep: Tofu 1/2block, Cabbage 100g, Carrot 1/3; seasonings ready: Water 600ml, Salt pinch, White pepper pinch, Olive oil 1tsp."
-- Bring Water 600ml to a boil, then add longer-cooking items first.
 - "Prep: Tofu 1/2block, Cabbage 100g, Carrot 1/3; seasonings ready: Water 600ml, Salt pinch, White pepper pinch, Olive oil 1tsp."
-- Bring Water 600ml to a boil, then add longer-cooking items first.
 - Cube tofu; chop cabbage; slice carrot thinly.
 - Warm oil over low heat; stir carrot and cabbage 2 minutes.
 storage: Refrigerate up to 2 days; reheat gently so tofu stays tender.

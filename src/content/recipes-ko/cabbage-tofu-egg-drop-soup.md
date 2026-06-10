@@ -66,7 +66,7 @@ relatedIngredients:
 - 달걀
 featured: false
 publishedAt: '2026-06-20'
-updatedAt: '2026-06-20'
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 다이스
 - 치즈

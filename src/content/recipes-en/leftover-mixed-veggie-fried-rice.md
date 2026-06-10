@@ -61,7 +61,6 @@ seasonings:
 intro: Hard vegetables first, leafy greens next; loosen rice before it hits the pan so it does not clump.
 steps:
 - "Prep: Cooked white rice 1bowl, Carrot 1/3, Cabbage 80g, Egg 1; fluff cold rice and beat eggs with a pinch of salt."
-- "Prep: Cooked white rice 1bowl, Carrot 1/3, Cabbage 80g, Egg 1; fluff cold rice and beat eggs with a pinch of salt."
 - Dice carrot small; shred cabbage; beat egg; fluff rice.
 - Heat oil over medium-high; stir-fry carrot 2 minutes until slightly tender.
 - Add cabbage 1 minute; push aside, scramble egg into soft curds.

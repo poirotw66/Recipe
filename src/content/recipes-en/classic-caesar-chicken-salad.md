@@ -68,7 +68,7 @@ steps:
 storage: Keep dressing separate from greens; eat the same day for best texture.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 Caesar chicken salad is the menu’s cleanest main-style salad bowl.

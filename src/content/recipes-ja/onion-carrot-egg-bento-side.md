@@ -62,7 +62,7 @@ relatedIngredients:
 - 卵
 featured: false
 publishedAt: '2026-07-14'
-updatedAt: '2026-07-14'
+updatedAt: "2026-06-09"
 customAdditions:
 - ハム丁
 - シュレッドチーズ

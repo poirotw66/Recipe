@@ -29,7 +29,6 @@ steps:
 - Same pan; garlic; water dropwort over high 1 minute.
 - Return shrimp; salt and white pepper; toss.
 - Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Brief rice wine on shrimp reduces fishiness.
 storage: Same day; shrimp firmness drops overnight.

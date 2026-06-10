@@ -75,12 +75,13 @@ relatedIngredients:
 - 麺
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - 青ねぎ
 - 唐辛子
 - 玉ねぎ
 ---
+
 ---
 
 トマト牛肉麺は甘酸っぱく食欲をそそり、スープも麺も食べたい平日の夕食に向いています。

@@ -61,7 +61,7 @@ relatedIngredients:
 - 蒜頭
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - Bacon
 - Heavy cream

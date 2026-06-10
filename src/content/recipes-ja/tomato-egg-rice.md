@@ -63,7 +63,7 @@ relatedIngredients:
 - ご飯（白米）
 featured: true
 publishedAt: '2026-05-24'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ

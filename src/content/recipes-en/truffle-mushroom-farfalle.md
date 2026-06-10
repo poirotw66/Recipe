@@ -72,7 +72,7 @@ steps:
 storage: Eat fresh; mushrooms weep overnight.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ---
 
 Fragrant pasta pick that works without meat.

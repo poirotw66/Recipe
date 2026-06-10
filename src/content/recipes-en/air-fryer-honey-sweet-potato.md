@@ -46,11 +46,11 @@ seasonings:
 intro: Choose a slender potato for even cubes; brush honey late so it doesn’t burn early.
 steps:
 - "Prep: Sweet potato 1piece; pat protein dry and rub with Honey 1tbsp, Olive oil 1tsp, Salt pinch."
-- "Prep: Sweet potato 1piece; pat protein dry and rub with Honey 1tbsp, Olive oil 1tsp, Salt pinch."
 - Peel sweet potato; cut into about 2 cm cubes and pat dry.
 - Toss with olive oil and a pinch of salt. Preheat air fryer to 180°C for 3 minutes.
 - Air-fry at 180°C for 10 minutes, shaking basket once.
 - Brush honey on top; air-fry at 200°C for 6–8 minutes until caramelized.
+- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; refrigerate up to 2 days; reheat at 160°C for 4 minutes.
 faqs:
 - question: Can I use potato?

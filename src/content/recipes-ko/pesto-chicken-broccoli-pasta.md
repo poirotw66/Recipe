@@ -76,13 +76,11 @@ relatedIngredients:
 - 브로콜리
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
 ---
-
-
 
 가볍게 먹고 싶지만 면만으로는 부족할 때 잘 맞는 저녁입니다.

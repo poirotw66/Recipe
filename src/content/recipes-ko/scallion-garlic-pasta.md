@@ -63,13 +63,11 @@ relatedIngredients:
 - 마늘
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
 ---
-
-
 
 파 향이 강하지만 기름지지 않아 자주 만들기 좋은 집 파스타입니다.

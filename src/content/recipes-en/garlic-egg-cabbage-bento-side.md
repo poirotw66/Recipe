@@ -62,12 +62,13 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-23'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Diced ham
 - Shredded cheese
 - Chopped scallions
 ---
+
 ---
 
 This side is cheap, fast, and easy to rotate into a weekly bento lineup.

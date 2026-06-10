@@ -66,7 +66,7 @@ relatedIngredients:
 - 青花菜
 featured: false
 publishedAt: '2026-06-21'
-updatedAt: '2026-06-21'
+updatedAt: "2026-06-09"
 customAdditions:
 - Fish balls
 - Tofu

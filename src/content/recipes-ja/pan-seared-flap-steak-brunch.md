@@ -66,7 +66,7 @@ steps:
 storage: できたてがおすすめ。ステーキは再加熱すると硬くなりやすいです。
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 ブランチメニューで安定して人気の肉皿です。

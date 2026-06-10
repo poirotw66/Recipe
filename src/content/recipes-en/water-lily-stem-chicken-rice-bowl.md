@@ -29,7 +29,6 @@ steps:
 - Bloom minced garlic; stir-fry water dropwort 1 minute; return chicken.
 - Soy sauce to taste; toss and plate over rice.
 - Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Do not overcook chicken for tenderness.
 storage: Eat fresh; refrigerate bento properly.

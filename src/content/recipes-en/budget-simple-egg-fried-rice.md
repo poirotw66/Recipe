@@ -52,13 +52,12 @@ seasonings:
   unit: ''
 intro: Simple fried rice rewards cold rice, high heat, and quick tossing.
 steps:
-- "Prep: Cooked white rice 1bowl, Eggs 2; fluff cold rice and beat eggs with a pinch of salt."
-- "Prep: Cooked white rice 1bowl, Eggs 2; fluff cold rice and beat eggs with a pinch of salt."
+- "Prep: Cooked white rice 1 bowl, eggs 2; fluff cold rice and beat eggs with a pinch of salt."
 - Fluff the rice; beat the eggs.
 - Heat oil over medium-high; scramble eggs until half set; remove.
 - Add rice to the pan and stir-fry until grains separate.
 - Return eggs, add salt and white pepper, and toss on high about 1 minute.
-- Serve; add scallions or ham from custom additions if you have them.
+- Serve; add scallions or ham from custom additions if you like.
 storage: Refrigerate up to 1 day; reheat in a skillet.
 faqs:
 - question: Can I use freshly cooked rice?

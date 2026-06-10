@@ -62,12 +62,13 @@ relatedIngredients:
 - にんにく
 featured: false
 publishedAt: '2026-06-23'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - ハム丁
 - シュレッドチーズ
 - ねぎ
 ---
+
 ---
 
 材料費が抑えられ、手早く作れる週替わりのお弁当おかずに向いています。

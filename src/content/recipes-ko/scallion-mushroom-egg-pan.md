@@ -62,13 +62,11 @@ relatedIngredients:
 - 파
 featured: false
 publishedAt: '2026-07-03'
-updatedAt: '2026-07-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 다이스
 - 모짜렐라
 - 파
 ---
-
-
 
 바쁜 평일에도 단계가 짧아 반복하기 쉬운 요리입니다.

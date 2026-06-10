@@ -66,7 +66,7 @@ relatedIngredients:
 - 豆腐
 featured: false
 publishedAt: '2026-07-11'
-updatedAt: '2026-07-11'
+updatedAt: "2026-06-09"
 customAdditions:
 - Diced ham
 - Shredded cheese

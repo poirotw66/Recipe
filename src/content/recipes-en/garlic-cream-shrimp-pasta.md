@@ -72,7 +72,7 @@ steps:
 storage: Best fresh; reheat with a little milk if needed.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 Garlic cream shrimp pasta is the crowd favorite among richer pasta bowls on the site.

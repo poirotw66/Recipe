@@ -67,13 +67,11 @@ relatedIngredients:
 - 마늘
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
 ---
-
-
 
 주말에 조금 더 신경 쓴 한 끼로 좋은 파스타입니다.

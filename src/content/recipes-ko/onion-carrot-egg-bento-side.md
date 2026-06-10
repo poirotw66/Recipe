@@ -62,13 +62,11 @@ relatedIngredients:
 - 달걀
 featured: false
 publishedAt: '2026-07-14'
-updatedAt: '2026-07-14'
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 다이스
 - 모짜렐라
 - 파
 ---
-
-
 
 도시락 메뉴를 돌릴 때 손이 빠른 반찬입니다.

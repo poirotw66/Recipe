@@ -63,13 +63,11 @@ relatedIngredients:
 - 대파
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 고추
 - 양파
 - 팽이버섯
 ---
-
-
 
 향이 진해 밥과 함께 메인 반찬으로 잘 어울립니다.

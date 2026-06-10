@@ -81,7 +81,7 @@ faqs:
   answer: Top sirloin or strip works; keep thickness around 2 cm for even doneness.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ---
 
 For weekends when you want a feast without the brunch line.

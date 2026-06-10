@@ -66,7 +66,7 @@ steps:
 storage: Best same meal; reheated steak toughens.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 A dependable meat-forward brunch anchor on the menu.

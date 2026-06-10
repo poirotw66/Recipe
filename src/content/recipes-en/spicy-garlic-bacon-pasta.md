@@ -66,7 +66,7 @@ steps:
 storage: Best eaten immediately.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ---
 
 Salty and punchy—when you want pasta with attitude.

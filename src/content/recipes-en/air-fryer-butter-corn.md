@@ -46,11 +46,11 @@ seasonings:
 intro: Sweet corn tastes best; butter spreads evenly when the cob is still hot.
 steps:
 - "Prep: Corn on the cob 1ear; pat protein dry and rub with Butter 15g, Salt pinch, Black pepper pinch."
-- "Prep: Corn on the cob 1ear; pat protein dry and rub with Butter 15g, Salt pinch, Black pepper pinch."
 - Peel outer husks, leave inner layer, rinse and dry; halve if very large.
 - Preheat air fryer to 180°C for 3 minutes; add corn.
 - Air-fry at 180°C for 10 minutes, flipping once.
 - While hot, rub butter and sprinkle salt and pepper.
+- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; reheated corn turns firm.
 faqs:
 - question: Frozen corn?

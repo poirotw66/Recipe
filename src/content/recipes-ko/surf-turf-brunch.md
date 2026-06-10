@@ -81,7 +81,7 @@ faqs:
   answer: 목심이나 등심도 가능하며, 두께 2cm 안쪽이 익기 조절하기 쉽습니다.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ---
 
 주말에 풍성하게 먹고 싶지만 줄 서기 싫을 때 잘 맞는 브런치입니다.

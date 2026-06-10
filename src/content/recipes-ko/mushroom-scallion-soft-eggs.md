@@ -62,13 +62,11 @@ relatedIngredients:
 - 파
 featured: false
 publishedAt: '2026-06-05'
-updatedAt: '2026-06-05'
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 다이스
 - 모짜렐라
 - 파
 ---
-
-
 
 설거지가 적은 퇴근 후에 특히 잘 맞는 짧은 레시피입니다.

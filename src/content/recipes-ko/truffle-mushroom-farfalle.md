@@ -72,7 +72,7 @@ steps:
 storage: 바로 드세요. 버섯은 하룻밤 지나면 수분이 나와 식감이 떨어집니다.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ---
 
 향이 풍부한 파스타 코너에서 채식 친화적인 선택입니다.

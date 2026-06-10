@@ -73,7 +73,7 @@ steps:
 storage: Best eaten immediately; crust softens when chilled.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 Crispy cod brunch is for days when you want a café-style plate without leaving home.

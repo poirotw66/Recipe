@@ -75,7 +75,7 @@ relatedIngredients:
 - ねぎ
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - ベーコン
 - 生クリーム

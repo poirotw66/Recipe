@@ -61,13 +61,11 @@ relatedIngredients:
 - 마늘
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
 ---
-
-
 
 마늘 오일 파스타는 이 코너에서 가장 기본이면서도 성공하기 쉬운 방법으로, 면을 먼저 삶고 소스에 버무리면 됩니다.

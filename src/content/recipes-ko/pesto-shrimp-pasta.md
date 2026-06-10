@@ -72,13 +72,11 @@ relatedIngredients:
 - 대파
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
 ---
-
-
 
 파 마늘 새우 파스타는 해산물 그린 소스 중 가볍고 평일 저녁에 작은 기분 전환하기 좋은 메뉴입니다.

@@ -79,13 +79,11 @@ relatedIngredients:
 - 브로콜리
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 베이컨
 - 생크림
 - 파마산 치즈
 ---
-
-
 
 해산물과 페스토를 균형 있게 먹고 싶을 때 잘 맞습니다.

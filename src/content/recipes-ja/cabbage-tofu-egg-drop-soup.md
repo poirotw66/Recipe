@@ -66,7 +66,7 @@ relatedIngredients:
 - 卵
 featured: false
 publishedAt: '2026-06-20'
-updatedAt: '2026-06-20'
+updatedAt: "2026-06-09"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ

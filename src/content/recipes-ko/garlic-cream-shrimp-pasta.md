@@ -72,7 +72,7 @@ steps:
 storage: 바로 드세요. 다음 날 데울 때는 우유를 보태세요.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 마늘 크림 새우 파스타는 파스타 메뉴에서 인기 있는 진한 스타일입니다.

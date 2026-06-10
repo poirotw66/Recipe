@@ -59,12 +59,13 @@ relatedIngredients:
 - 青蔥
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Chili
 - Onion
 - Enoki mushrooms
 ---
+
 ---
 
 Fragrant, fast fried rice for busy weeknights.

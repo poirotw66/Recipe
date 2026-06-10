@@ -63,13 +63,11 @@ relatedIngredients:
 - 밥
 featured: true
 publishedAt: '2026-05-24'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 깍둑
 - 치즈 가담
 - 쪽파
 ---
-
-
 
 재료를 많이 쓰지 않고 저녁 한 끼만 하고 싶을 때 토마토 달걀 덮밥은 꽤 안정적인 선택입니다. 한 팬으로 끝나는 평일 저녁으로도 잘 맞습니다.

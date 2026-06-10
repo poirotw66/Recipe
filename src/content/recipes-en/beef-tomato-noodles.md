@@ -75,12 +75,13 @@ relatedIngredients:
 - 麵條
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Scallions
 - Chili
 - Onion
 ---
+
 ---
 
 Tomato beef noodles are bright and savory—great when you want soup and noodles in one bowl.

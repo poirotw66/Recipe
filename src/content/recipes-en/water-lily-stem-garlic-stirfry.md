@@ -30,7 +30,6 @@ steps:
 - Water dropwort over high 1–2 minutes; keep crisp.
 - Salt; toss and serve.
 - Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - A very hot wok keeps greens from steaming in their own water.
 storage: Same meal; reheat over high 30 seconds.

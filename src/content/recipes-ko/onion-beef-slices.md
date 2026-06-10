@@ -58,13 +58,11 @@ relatedIngredients:
 - 양파
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 customAdditions:
 - 파
 - 고추
 - 팽이버섯
 ---
-
-
 
 밥과 함께 먹기 좋은 대표 소고기 메인 중 하나입니다.

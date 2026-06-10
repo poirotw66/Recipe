@@ -72,7 +72,7 @@ steps:
 storage: Refrigerate up to 1 day; reheat with a splash of water.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 Garden vegetable pasta is the brightest everyday option in the pasta lineup.

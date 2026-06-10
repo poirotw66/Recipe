@@ -62,13 +62,11 @@ relatedIngredients:
 - 대파
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: '2026-05-29'
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 깍둑
 - 치즈 가담
 - 쪽파
 ---
-
-
 
 기본 재료만으로 저녁을 만드는 만능 요리로, 빠른 요리 목록에 넣어 두기 좋습니다.

@@ -31,7 +31,6 @@ steps:
 - Push greens aside; pour eggs; when edges set, push into soft curds.
 - Combine; salt and white pepper.
 - Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - High heat cooks off wine so greens do not stew.
 storage: Same day best; reheat over high quickly.

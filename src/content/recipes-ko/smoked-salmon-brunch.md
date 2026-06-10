@@ -66,7 +66,7 @@ steps:
 storage: 바로 만드세요. 훈제 연어는 개봉 후 당일 사용을 권합니다.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ---
 
 훈제 연어 브런치는 거의 불을 보지 않아도 되어 바쁜 아침에 잘 맞습니다.

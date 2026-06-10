@@ -66,7 +66,7 @@ steps:
 storage: 바로 드시는 것이 가장 좋습니다.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ---
 
 짭짤하고 풍미 있는 면이 그리운 밤에 잘 맞는 요리입니다.

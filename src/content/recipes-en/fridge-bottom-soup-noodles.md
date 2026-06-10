@@ -63,9 +63,7 @@ seasonings:
 intro: The point is a clean broth plus whatever vegetables are on hand—not a rigid recipe.
 steps:
 - "Prep: Noodles 1serving, Cabbage 60g, Egg 1; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch."
-- Bring Water 600ml to a boil, then add longer-cooking items first.
 - "Prep: Noodles 1serving, Cabbage 60g, Egg 1; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch."
-- Bring Water 600ml to a boil, then add longer-cooking items first.
 - Chop cabbage; slice scallions; beat egg.
 - Bring water and soy sauce to a boil; add noodles and cabbage.
 storage: Best fresh; noodles turn mushy overnight.

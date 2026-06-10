@@ -66,13 +66,11 @@ relatedIngredients:
 - 대파
 featured: true
 publishedAt: '2026-05-20'
-updatedAt: '2026-05-20'
+updatedAt: "2026-06-09"
 customAdditions:
 - 햄 깍둑
 - 치즈 가담
 - 쪽파
 ---
-
-
 
 재료가 적고 설거지도 빨리 끝나 원룸에서도 부담이 적습니다. 냉장고에 두부와 달걀만 남았을 때 몇 분이면 저녁을 준비할 수 있습니다.

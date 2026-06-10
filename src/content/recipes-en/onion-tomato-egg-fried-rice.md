@@ -65,12 +65,13 @@ relatedIngredients:
 - 雞蛋
 featured: true
 publishedAt: '2026-06-07'
-updatedAt: '2026-06-07'
+updatedAt: "2026-06-09"
 customAdditions:
 - Diced ham
 - Shredded cheese
 - Scallions
 ---
+
 ---
 
 Tangy, easy fried rice for everyday dinners.

@@ -66,7 +66,7 @@ relatedIngredients:
 - 브로콜리
 featured: false
 publishedAt: '2026-06-21'
-updatedAt: '2026-06-21'
+updatedAt: "2026-06-09"
 customAdditions:
 - 어묵
 - 두부

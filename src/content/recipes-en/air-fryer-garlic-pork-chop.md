@@ -73,7 +73,7 @@ faqs:
   answer: Pan-sear with little oil, about 3–4 minutes per side—similar but needs more attention.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
 
 A reliable one-person main from the air fryer.

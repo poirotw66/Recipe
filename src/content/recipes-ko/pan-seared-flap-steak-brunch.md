@@ -66,9 +66,7 @@ steps:
 storage: 당일 드시고, 재가열 시 고기가 질겨질 수 있습니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-06-03'
+updatedAt: "2026-06-09"
 ---
-
-
 
 브런치 메뉴에서 가장 안정적인 고기 메인 중 하나입니다.

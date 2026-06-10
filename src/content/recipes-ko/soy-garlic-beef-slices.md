@@ -56,7 +56,7 @@ relatedIngredients:
 - 마늘
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 customAdditions:
 - 쪽파
 - 고추

@@ -66,7 +66,7 @@ relatedIngredients:
 - 青ねぎ
 featured: true
 publishedAt: '2026-05-20'
-updatedAt: '2026-05-20'
+updatedAt: "2026-06-09"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ

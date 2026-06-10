@@ -66,7 +66,7 @@ relatedIngredients:
 - ブロッコリー
 featured: false
 publishedAt: '2026-06-21'
-updatedAt: '2026-06-21'
+updatedAt: "2026-06-09"
 customAdditions:
 - 肉だんご
 - 豆腐

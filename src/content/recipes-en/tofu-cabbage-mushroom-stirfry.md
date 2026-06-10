@@ -50,7 +50,7 @@ steps:
 - "Skillet: fry tofu until lightly golden both sides; set aside."
 - Fresh oil, medium-low garlic until fragrant; add cabbage and mushrooms until soft; return tofu; season with soy and salt.
 - Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Add cabbage in two batches for even cooking.
 storage: Refrigerate 1 day; reheat over medium-high quickly.

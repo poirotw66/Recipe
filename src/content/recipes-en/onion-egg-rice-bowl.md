@@ -62,7 +62,7 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: '2026-05-29'
+updatedAt: "2026-06-09"
 customAdditions:
 - Diced ham
 - Shredded cheese
