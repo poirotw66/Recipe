@@ -2,7 +2,7 @@
 title: 金黃流沙海鮮披薩 再現レシピ
 recipeId: sf-salted-egg-seafood-pizza
 description: Second Floor Cafe 風に 金沙醬、海鮮、九層塔、披薩餅皮 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-salted-egg-seafood-pizza.svg
+coverImage: /images/recipes/sf-salted-egg-seafood-pizza.webp
 servings: 1
 prepTime: 20
 cookTime: 18

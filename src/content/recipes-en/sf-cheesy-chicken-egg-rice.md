@@ -2,7 +2,7 @@
 title: Cheesy Chicken Egg Rice
 recipeId: sf-cheesy-chicken-egg-rice
 description: "Second Floor Cafe-inspired kids plates with restaurant-style portions and 曙光醬、雞肉、花椰菜、起司、奶油飯."
-coverImage: /images/recipes/sf-cheesy-chicken-egg-rice.svg
+coverImage: /images/recipes/sf-cheesy-chicken-egg-rice.webp
 servings: 1
 prepTime: 15
 cookTime: 14

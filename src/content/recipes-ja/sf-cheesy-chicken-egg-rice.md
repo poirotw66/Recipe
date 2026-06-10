@@ -2,7 +2,7 @@
 title: 吃光光起司蛋雞肉飯 再現レシピ
 recipeId: sf-cheesy-chicken-egg-rice
 description: Second Floor Cafe 風に 曙光醬、雞肉、花椰菜、起司、奶油飯 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-cheesy-chicken-egg-rice.svg
+coverImage: /images/recipes/sf-cheesy-chicken-egg-rice.webp
 servings: 1
 prepTime: 15
 cookTime: 14

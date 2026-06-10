@@ -2,7 +2,7 @@
 title: Mini Beef Egg Burger Set
 recipeId: sf-mini-beef-egg-burger-set
 description: "Second Floor Cafe-inspired kids plates with restaurant-style portions and 小漢堡、牛肉排、煎蛋、薯條."
-coverImage: /images/recipes/sf-mini-beef-egg-burger-set.svg
+coverImage: /images/recipes/sf-mini-beef-egg-burger-set.webp
 servings: 1
 prepTime: 15
 cookTime: 14

@@ -2,7 +2,7 @@
 title: 厚烤奶油 Ham 三明治 스타일 레시피
 recipeId: sf-griddled-butter-ham-sandwich
 description: Second Floor Cafe 스타일로 歐包、火腿、起司、荷包蛋、薯塊、楓糖漿 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-griddled-butter-ham-sandwich.svg
+coverImage: /images/recipes/sf-griddled-butter-ham-sandwich.webp
 servings: 1
 prepTime: 18
 cookTime: 15

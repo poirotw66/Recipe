@@ -2,7 +2,7 @@
 title: Greek style 野炊系炭烤雞肉早午餐 스타일 레시피
 recipeId: sf-greek-campfire-grilled-chicken-brunch
 description: Second Floor Cafe 스타일로 炭烤雞肉、皮塔餅、沙拉 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.svg
+coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.webp
 servings: 1
 prepTime: 20
 cookTime: 18

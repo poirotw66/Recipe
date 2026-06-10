@@ -2,7 +2,7 @@
 title: BBQ 溫烤半雞 스타일 레시피
 recipeId: sf-bbq-roasted-half-chicken
 description: Second Floor Cafe 스타일로 半雞、烤玉米、BBQ 醬、薯條 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-bbq-roasted-half-chicken.svg
+coverImage: /images/recipes/sf-bbq-roasted-half-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 35

@@ -1,7 +1,7 @@
 ---
 title: 吃光光起司蛋雞肉飯
 description: 參考貳樓 Second Floor Cafe 常見做法，以 曙光醬、雞肉、花椰菜、起司、奶油飯 還原 吃光光起司蛋雞肉飯 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-cheesy-chicken-egg-rice.svg
+coverImage: /images/recipes/sf-cheesy-chicken-egg-rice.webp
 servings: 1
 prepTime: 15
 cookTime: 14

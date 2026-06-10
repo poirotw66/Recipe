@@ -2,7 +2,7 @@
 title: 老墨辣鞭炮漢堡 再現レシピ
 recipeId: sf-spicy-mexican-firecracker-burger
 description: Second Floor Cafe 風に 牛肉排、起司、炸墨西哥辣椒、BBQ 醬、薯塊 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-spicy-mexican-firecracker-burger.svg
+coverImage: /images/recipes/sf-spicy-mexican-firecracker-burger.webp
 servings: 1
 prepTime: 18
 cookTime: 15

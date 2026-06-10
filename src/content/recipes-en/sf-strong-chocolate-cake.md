@@ -2,7 +2,7 @@
 title: Strong Chocolate Cake
 recipeId: sf-strong-chocolate-cake
 description: "Second Floor Cafe-inspired desserts with restaurant-style portions and 4 吋巧克力蛋糕 + 奶油起司."
-coverImage: /images/recipes/sf-strong-chocolate-cake.svg
+coverImage: /images/recipes/sf-strong-chocolate-cake.webp
 servings: 2
 prepTime: 20
 cookTime: 28

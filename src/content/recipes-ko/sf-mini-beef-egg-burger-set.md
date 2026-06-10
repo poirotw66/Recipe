@@ -2,7 +2,7 @@
 title: 牛蛋小堡堡套餐 스타일 레시피
 recipeId: sf-mini-beef-egg-burger-set
 description: Second Floor Cafe 스타일로 小漢堡、牛肉排、煎蛋、薯條 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-mini-beef-egg-burger-set.svg
+coverImage: /images/recipes/sf-mini-beef-egg-burger-set.webp
 servings: 1
 prepTime: 15
 cookTime: 14

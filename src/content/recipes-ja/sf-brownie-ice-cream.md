@@ -2,7 +2,7 @@
 title: 布朗尼冰淇淋 再現レシピ
 recipeId: sf-brownie-ice-cream
 description: Second Floor Cafe 風に 布朗尼 + 香草冰淇淋 + 巧克力醬 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-brownie-ice-cream.svg
+coverImage: /images/recipes/sf-brownie-ice-cream.webp
 servings: 2
 prepTime: 20
 cookTime: 28

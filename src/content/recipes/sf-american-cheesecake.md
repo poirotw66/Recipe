@@ -1,7 +1,7 @@
 ---
 title: 全美起司蛋糕
 description: 參考貳樓 Second Floor Cafe 常見做法，以 Oreo 餅底起司蛋糕 還原 全美起司蛋糕 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-american-cheesecake.svg
+coverImage: /images/recipes/sf-american-cheesecake.webp
 servings: 2
 prepTime: 20
 cookTime: 28

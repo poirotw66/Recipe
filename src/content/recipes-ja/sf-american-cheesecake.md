@@ -2,7 +2,7 @@
 title: 全美起司蛋糕 再現レシピ
 recipeId: sf-american-cheesecake
 description: Second Floor Cafe 風に Oreo 餅底起司蛋糕 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-american-cheesecake.svg
+coverImage: /images/recipes/sf-american-cheesecake.webp
 servings: 2
 prepTime: 20
 cookTime: 28

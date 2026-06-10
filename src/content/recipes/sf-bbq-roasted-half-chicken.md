@@ -1,7 +1,7 @@
 ---
 title: BBQ 溫烤半雞
 description: 參考貳樓 Second Floor Cafe 常見做法，以 半雞、烤玉米、BBQ 醬、薯條 還原 BBQ 溫烤半雞 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-bbq-roasted-half-chicken.svg
+coverImage: /images/recipes/sf-bbq-roasted-half-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 35

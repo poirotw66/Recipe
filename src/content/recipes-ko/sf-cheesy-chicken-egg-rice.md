@@ -2,7 +2,7 @@
 title: 吃光光起司蛋雞肉飯 스타일 레시피
 recipeId: sf-cheesy-chicken-egg-rice
 description: Second Floor Cafe 스타일로 曙光醬、雞肉、花椰菜、起司、奶油飯 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-cheesy-chicken-egg-rice.svg
+coverImage: /images/recipes/sf-cheesy-chicken-egg-rice.webp
 servings: 1
 prepTime: 15
 cookTime: 14

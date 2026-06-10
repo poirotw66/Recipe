@@ -1,7 +1,7 @@
 ---
 title: 野炊系義式檸香櫛瓜魚菲力
 description: 參考貳樓 Second Floor Cafe 常見做法，以 魚菲力、櫛瓜、檸香醬汁 還原 野炊系義式檸香櫛瓜魚菲力 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-campfire-lemon-zucchini-fish-fillet.svg
+coverImage: /images/recipes/sf-campfire-lemon-zucchini-fish-fillet.webp
 servings: 1
 prepTime: 20
 cookTime: 18
