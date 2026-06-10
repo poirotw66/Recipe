@@ -69,8 +69,4 @@ publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
 ---
 
----
----
----
-
 A gym-friendly rice bowl that still tastes like home cooking.

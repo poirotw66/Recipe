@@ -2,7 +2,7 @@
 title: 甘味飯 스타일 레시피
 recipeId: sf-sweet-savory-rice
 description: Second Floor Cafe 스타일로 蜜餞、米飯、台南限定 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-sweet-savory-rice.webp
+coverImage: /images/recipes/sf-sweet-savory-rice.svg
 servings: 1
 prepTime: 20
 cookTime: 18
@@ -72,9 +72,6 @@ seasonings:
 - name: 黑胡椒碎
   amount: "1/4"
   unit: 小匙
----
-
----
 ---
 
 이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.

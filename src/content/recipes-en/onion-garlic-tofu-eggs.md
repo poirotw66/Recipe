@@ -46,11 +46,11 @@ tags:
 - Quick stir-fry
 intro: Sweat onion until sweet, let tofu pick up garlic, then bind everything with egg.
 steps:
+- "Prep: Tofu 0.5pack, Eggs 2, Onion 0.5; mix Garlic 2cloves, Salt pinch, Soy sauce 1tsp in a small bowl if using."
+- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Slice onion fine; mince garlic; cube tofu. Beat eggs with a pinch of salt and 1 tsp water.
 - Heat oil; medium-low sauté garlic and onion until translucent; add tofu and toss.
 - Pour eggs; stir until set; season with salt and soy sauce.
-- Plate with rice or noodles while hot; let rest 1 minute before serving.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Pat tofu dry so it holds shape.
 storage: Best fresh; refrigerate up to 1 day and reheat in a pan.
@@ -72,10 +72,6 @@ customAdditions:
 - Diced ham
 - Shredded cheese
 - Chopped scallions
----
-
----
----
 ---
 
 Straightforward steps for a reliable weekday plate.

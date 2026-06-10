@@ -69,7 +69,4 @@ publishedAt: "2026-06-03"
 updatedAt: "2026-06-09"
 ---
 
----
----
-
 The most flexible dish on the menu—swap vegetables with the season.

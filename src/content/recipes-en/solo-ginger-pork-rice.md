@@ -58,9 +58,6 @@ steps:
 - Marinate Ground pork with Ginger 15g, Soy sauce 2tbsp, Rice wine 1tbsp for 10 minutes; prep vegetables as needed.
 - Heat 1 Tbsp oil in a skillet over medium heat. Add Ground pork, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
 storage: Refrigerate topping up to 2 days; splash a little water when reheating.
 faqs:
 - question: Can I use beef instead?
@@ -68,10 +65,6 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
----
-
----
----
 ---
 
 Ginger pork rice is a familiar one-bowl dinner for renters.

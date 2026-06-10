@@ -49,9 +49,9 @@ intro: Sauté onion before simmering for depth without heavy seasoning.
 steps:
 - "Prep: Cabbage 180g, Mushrooms 120g, Onion 0.25, Water 700ml; seasonings ready: Salt pinch, Garlic 1clove."
 - Bring water to a boil, then add longer-cooking items first.
-- "\"Prep: Cabbage 180g, Mushrooms 120g, Onion 0.25, Water 700ml; seasonings ready: Salt pinch, Garlic 1clove.\""
-- Bring water to a boil, then add longer-cooking items first.
 - Slice cabbage and mushrooms; shred onion; slice garlic.
+- In the pot with a little oil, cook onion and garlic, then add cabbage and mushrooms.
+- Add water and simmer about 8 minutes; finish with salt.
 tips:
 - Simmer 2 minutes longer for a slightly richer broth.
 storage: Refrigerate up to 1 day.
@@ -73,10 +73,6 @@ customAdditions:
 - Fish balls
 - Tofu
 - Clams
----
-
----
----
 ---
 
 Cabbage mushroom clear soup is a steady weeknight bowl when you want something light.

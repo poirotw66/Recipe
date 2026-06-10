@@ -43,11 +43,11 @@ tags:
 - Stir-fry
 intro: Slice the beef, blanch the broccoli first, then stir-fry over high heat to keep crunch and tenderness.
 steps:
+- "Prep: Beef 120g, Broccoli 200g; mix Garlic 2cloves, Soy sauce 1Tbsp, Oyster sauce 1tsp in a small bowl if using."
+- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Cut the beef into strips and the broccoli into small florets; mince the garlic.
 - Blanch the broccoli and drain. Heat oil in a skillet, stir-fry the beef over high heat until mostly colored (about 70–80% done), then remove promptly so it does not toughen.
 - Sauté the garlic, return broccoli and beef, add soy sauce and oyster sauce, and toss quickly until even.
-- Plate with rice or noodles while hot; let rest 1 minute before serving.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Do not overcook the beef—it stays more tender.
 storage: Keeps 1 day refrigerated; reheat with a little oil in a hot pan.
@@ -63,10 +63,6 @@ customAdditions:
 - Scallions
 - Chili
 - Onion
----
-
----
----
 ---
 
 Beef and broccoli balances protein and greens—solid for an even-keel weekday dinner.

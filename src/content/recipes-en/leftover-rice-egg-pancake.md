@@ -54,7 +54,6 @@ steps:
 - Heat oil over medium-high; pour mixture; press flat with a spatula.
 - Medium heat 4 minutes until the bottom is golden and set.
 - Flip; cook 3 minutes more, pressing lightly to compact grains.
-- Cut and serve with soy paste or sweet chili sauce if you like.
 storage: Best fresh; re-crisp in a skillet 1 minute next day.
 faqs:
 - question: Rice too wet?
@@ -62,9 +61,6 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
----
-
----
 ---
 
 A sturdy solo meal from pantry staples.

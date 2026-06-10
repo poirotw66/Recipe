@@ -73,8 +73,4 @@ customAdditions:
 - Bell pepper
 ---
 
----
----
----
-
 An easy weekday bowl with common ingredients and a repeatable flow.

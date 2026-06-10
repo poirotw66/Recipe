@@ -68,8 +68,4 @@ customAdditions:
 - Onion
 ---
 
----
----
----
-
 Mushroom beef rice bowl fits nights when you have packaged mushrooms and want dinner fast.

@@ -57,6 +57,7 @@ steps:
 - In a small pot, combine water, soy sauce, sugar, and star anise; bring to a boil.
 - Add tofu and eggs; braise on low 12 minutes.
 - Turn off heat and steep 10 minutes.
+- Cool, then pack—halve eggs for the box if you like.
 storage: Refrigerate up to 3 days; eat cold or reheat in the microwave.
 faqs:
 - question: Braise too salty?
@@ -64,10 +65,6 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
----
-
----
----
 ---
 
 Braised tofu and eggs are economical, make-ahead bento staples.

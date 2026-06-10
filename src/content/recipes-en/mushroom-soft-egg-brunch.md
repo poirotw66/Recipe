@@ -62,16 +62,10 @@ steps:
 - Heat butter and oil over medium-high; cook mushrooms until dry and lightly golden at the edges.
 - Push mushrooms aside; pour in eggs; low heat, slow folds to half-set.
 - Off heat, finish to your preferred creaminess; scallion and pepper on top.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
-- Use medium heat unless noted; stir or flip occasionally for even cooking.
 storage: Best fresh; eggs toughen overnight.
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
----
-
----
----
 ---
 
 Easy ingredients and one of the friendliest lacto-ovo brunch plates on the menu.

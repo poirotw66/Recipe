@@ -23,10 +23,10 @@ tags:
 intro: Marinate pork slices with rice wine and salt before the broth boils for a tender bite.
 steps:
 - water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Bring Water 600ml to a boil, then add longer-cooking items first.
-- Slice pork thin; marinate with rice wine and pinch of salt; wash and cut water dropwort.
 - Pot with water and ginger; boil; add pork, stir until color changes.
 - Water dropwort 1–2 minutes until crisp-tender.
+- Salt to taste; serve.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Do not overcook greens—crisp is best.
 storage: Same day; reheating softens greens.
@@ -65,10 +65,6 @@ seasonings:
 - name: Rice wine
   amount: "1"
   unit: tbsp
----
-
----
----
 ---
 
 Clear soup for nights you want heat without a long recipe.

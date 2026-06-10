@@ -46,11 +46,11 @@ tags:
 - Home-style
 intro: Start with onion for aroma, then cabbage and mushrooms so flavors meld.
 steps:
+- "Prep: Onion 0.5, Cabbage 180g, Mushrooms 120g; mix Garlic 1clove, Salt pinch, Soy sauce 1tsp in a small bowl if using."
+- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Slice onion, cabbage, and mushrooms; mince garlic.
 - Heat oil; sauté garlic and onion until fragrant; add cabbage and mushrooms; toss until wilted.
 - Season with salt and soy sauce; reduce briefly and serve.
-- Plate with rice or noodles while hot; let rest 1 minute before serving.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - For crisper cabbage, shorten cooking by about 1 minute.
 storage: Refrigerate 1 day.
@@ -74,9 +74,6 @@ customAdditions:
 - Shiitake mushrooms
 ---
 
----
----
----
 ---
 
 Easy staples, clear steps—reliable on busy weekdays.

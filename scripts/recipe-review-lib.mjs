@@ -8,7 +8,8 @@ export const recipesDir = (root) => join(root, "src/content/recipes");
  */
 export function parseFrontmatter(source) {
   const match = source.match(/^---\r?\n([\s\S]*?)\r?\n---/);
-  return match ? match[1] : "";
+  if (!match) return "";
+  return match[1].replace(/\r\n/g, "\n");
 }
 
 /**
@@ -36,7 +37,7 @@ export function parseNumber(fm, key) {
  */
 export function parseStringListItems(fm, key) {
   const lines = fm.split("\n");
-  const start = lines.findIndex((line) => line === `${key}:`);
+  const start = lines.findIndex((line) => line.trim() === `${key}:`);
   if (start < 0) return [];
   const items = [];
   for (let i = start + 1; i < lines.length; i++) {
@@ -54,13 +55,16 @@ export function parseStringListItems(fm, key) {
  */
 export function parseListSection(fm, key) {
   const lines = fm.split("\n");
-  const start = lines.findIndex((line) => line === `${key}:`);
+  const start = lines.findIndex((line) => line.trim() === `${key}:`);
   if (start < 0) return [];
   const items = [];
   for (let i = start + 1; i < lines.length; i++) {
     const line = lines[i];
     if (/^[a-zA-Z_][a-zA-Z0-9_]*:/.test(line)) break;
-    if (line.startsWith("- ")) items.push(line.slice(2).trim());
+    if (line.startsWith("- ")) {
+      const val = line.slice(2).trim();
+      items.push(val.replace(/^['"]|['"]$/g, ""));
+    }
   }
   return items;
 }
@@ -71,7 +75,7 @@ export function parseSteps(fm) {
 
 export function parseIngredientNames(fm) {
   const lines = fm.split("\n");
-  const start = lines.findIndex((line) => line === "ingredients:");
+  const start = lines.findIndex((line) => line.trim() === "ingredients:");
   if (start < 0) return [];
   const names = [];
   for (let i = start + 1; i < lines.length; i++) {
@@ -85,7 +89,7 @@ export function parseIngredientNames(fm) {
 
 export function parseSeasoningNames(fm) {
   const lines = fm.split("\n");
-  const start = lines.findIndex((line) => line === "seasonings:");
+  const start = lines.findIndex((line) => line.trim() === "seasonings:");
   if (start < 0) return [];
   const names = [];
   for (let i = start + 1; i < lines.length; i++) {

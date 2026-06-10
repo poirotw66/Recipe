@@ -1,7 +1,7 @@
 ---
 title: 老墨辣鞭炮漢堡
 description: 參考貳樓 Second Floor Cafe 常見做法，以 牛肉排、起司、炸墨西哥辣椒、BBQ 醬、薯塊 還原 老墨辣鞭炮漢堡 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-spicy-mexican-firecracker-burger.webp
+coverImage: /images/recipes/sf-spicy-mexican-firecracker-burger.svg
 servings: 1
 prepTime: 18
 cookTime: 15

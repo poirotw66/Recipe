@@ -2,7 +2,7 @@
 title: Bbq Roasted Half Chicken
 recipeId: sf-bbq-roasted-half-chicken
 description: "Second Floor Cafe-inspired big plates with restaurant-style portions and 半雞、烤玉米、BBQ 醬、薯條."
-coverImage: /images/recipes/sf-bbq-roasted-half-chicken.webp
+coverImage: /images/recipes/sf-bbq-roasted-half-chicken.svg
 servings: 2
 prepTime: 25
 cookTime: 35
@@ -76,9 +76,6 @@ seasonings:
 - name: BBQ 醬
   amount: "2"
   unit: 大匙
----
-
----
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

@@ -2,7 +2,7 @@
 title: 實打實招牌漢堡 再現レシピ
 recipeId: sf-signature-double-stack-burger
 description: Second Floor Cafe 風に 牛肉排、炸魚、培根、巴薩米克醬、薯塊 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-signature-double-stack-burger.webp
+coverImage: /images/recipes/sf-signature-double-stack-burger.svg
 servings: 1
 prepTime: 18
 cookTime: 15
@@ -87,9 +87,6 @@ seasonings:
 - name: 巴薩米克醬
   amount: "適量"
   unit: ""
----
-
----
 ---
 
 この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。

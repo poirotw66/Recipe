@@ -2,7 +2,7 @@
 title: Sweet Savory Rice
 recipeId: sf-sweet-savory-rice
 description: "Second Floor Cafe-inspired seasonal specials with restaurant-style portions and 蜜餞、米飯、台南限定."
-coverImage: /images/recipes/sf-sweet-savory-rice.webp
+coverImage: /images/recipes/sf-sweet-savory-rice.svg
 servings: 1
 prepTime: 20
 cookTime: 18
@@ -72,9 +72,6 @@ seasonings:
 - name: 黑胡椒碎
   amount: "1/4"
   unit: 小匙
----
-
----
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

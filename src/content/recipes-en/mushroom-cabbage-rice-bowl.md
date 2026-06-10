@@ -74,8 +74,5 @@ customAdditions:
 ---
 
 ---
----
----
----
 
 A satisfying rice bowl when you want to cook with minimal ingredients.

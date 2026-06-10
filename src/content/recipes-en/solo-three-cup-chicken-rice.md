@@ -72,8 +72,4 @@ publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
 ---
 
----
----
----
-
 A classic Taiwanese one-person main for renters.

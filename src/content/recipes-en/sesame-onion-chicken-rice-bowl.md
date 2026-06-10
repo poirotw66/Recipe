@@ -73,8 +73,4 @@ customAdditions:
 - Bell pepper
 ---
 
----
----
----
-
 Simple, steady protein for nights when you want an easy repeat winner.

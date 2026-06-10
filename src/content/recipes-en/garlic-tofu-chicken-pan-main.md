@@ -43,11 +43,11 @@ tags:
 - Chicken breast
 intro: Pan-fry tofu until lightly crisp before tossing with chicken for better texture layers.
 steps:
+- "Prep: Chicken breast 220g, Firm tofu 0.5block, Garlic 3cloves; mix Soy sauce 1.5tsp, Salt pinch in a small bowl if using."
+- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Cube chicken and tofu; mince garlic.
 - Pan-fry tofu until golden on both sides; set aside.
 - Fresh oil in pan; stir-fry garlic and chicken until cooked; return tofu; soy sauce and salt; reduce briefly.
-- Plate with rice or noodles while hot; let rest 1 minute before serving.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Keep chicken cubes moderate size for even doneness.
 storage: Refrigerate 1 day; reheat quickly in a hot pan.
@@ -71,9 +71,6 @@ customAdditions:
 - Bell pepper
 ---
 
----
----
----
 ---
 
 Straightforward pantry ingredients and a clear sequence you can repeat on busy nights.

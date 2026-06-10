@@ -63,7 +63,4 @@ seasonings:
   unit: tsp
 ---
 
----
----
-
 Fragrant bento side or table opener.

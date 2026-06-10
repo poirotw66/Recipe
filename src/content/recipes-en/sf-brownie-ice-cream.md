@@ -2,7 +2,7 @@
 title: Brownie Ice Cream
 recipeId: sf-brownie-ice-cream
 description: "Second Floor Cafe-inspired desserts with restaurant-style portions and 布朗尼 + 香草冰淇淋 + 巧克力醬."
-coverImage: /images/recipes/sf-brownie-ice-cream.webp
+coverImage: /images/recipes/sf-brownie-ice-cream.svg
 servings: 2
 prepTime: 20
 cookTime: 28
@@ -69,9 +69,6 @@ seasonings:
 - name: 巧克力醬
   amount: "1.5"
   unit: 大匙
----
-
----
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

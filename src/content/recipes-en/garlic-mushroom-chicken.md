@@ -44,11 +44,11 @@ tags:
 - Lean meals
 intro: Mushrooms add moisture so breast meat stays pleasant—and bento mains feel less one-note.
 steps:
+- "Prep: Chicken breast 2fillets, Mushrooms 1bowl, Garlic 2cloves; mix Soy sauce 1tbsp, Black pepper pinch in a small bowl if using."
+- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Slice the chicken; marinate with soy sauce and black pepper 5 minutes.
 - Tear mushrooms into bite pieces; mince garlic. Heat oil and pan-fry the chicken first.
 - When the chicken changes color, add garlic and mushrooms; stir-fry until mushrooms are tender and juices have reduced.
-- Plate with rice or noodles while hot; let rest 1 minute before serving.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Slice the breast thinner—it cooks faster and stays juicier.
 storage: Refrigerate up to 2 days; good for next-day bento.
@@ -69,10 +69,6 @@ customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell peppers
----
-
----
----
 ---
 
 Simple seasoning—the key is browning the mushrooms so the chicken doesn’t taste dry.

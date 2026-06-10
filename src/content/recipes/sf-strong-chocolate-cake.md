@@ -1,7 +1,7 @@
 ---
 title: 強的
 description: 參考貳樓 Second Floor Cafe 常見做法，以 4 吋巧克力蛋糕 + 奶油起司 還原 強的 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-strong-chocolate-cake.webp
+coverImage: /images/recipes/sf-strong-chocolate-cake.svg
 servings: 2
 prepTime: 20
 cookTime: 28

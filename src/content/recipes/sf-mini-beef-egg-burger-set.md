@@ -1,7 +1,7 @@
 ---
 title: 牛蛋小堡堡套餐
 description: 參考貳樓 Second Floor Cafe 常見做法，以 小漢堡、牛肉排、煎蛋、薯條 還原 牛蛋小堡堡套餐 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-mini-beef-egg-burger-set.webp
+coverImage: /images/recipes/sf-mini-beef-egg-burger-set.svg
 servings: 1
 prepTime: 15
 cookTime: 14

@@ -61,7 +61,6 @@ steps:
 - Marinate protein with Mayonnaise 1tbsp, Soy sauce 1tsp, White sesame seeds 1tsp for 10 minutes; prep vegetables as needed.
 - Heat 1 Tbsp oil in a skillet over medium heat. Add protein, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve immediately while hot.
 storage: Best fresh; filling keeps 1 day refrigerated—reheat before serving.
 faqs:
 - question: No mayonnaise?
@@ -69,9 +68,6 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
----
-
----
 ---
 
 A fast, pantry-friendly solo dinner for small kitchens.

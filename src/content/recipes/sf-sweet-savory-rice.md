@@ -1,7 +1,7 @@
 ---
 title: 甘味飯
 description: 參考貳樓 Second Floor Cafe 常見做法，以 蜜餞、米飯、台南限定 還原 甘味飯 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-sweet-savory-rice.webp
+coverImage: /images/recipes/sf-sweet-savory-rice.svg
 servings: 1
 prepTime: 20
 cookTime: 18

@@ -70,8 +70,4 @@ customAdditions:
 - Bell pepper
 ---
 
----
----
----
-
 The key is balancing scallion aroma with lean chicken for a light but not boring bowl.

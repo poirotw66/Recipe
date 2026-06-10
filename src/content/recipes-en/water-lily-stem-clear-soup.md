@@ -25,10 +25,10 @@ tags:
 intro: Little oil and seasoning—flavor from water dropwort and tofu themselves.
 steps:
 - water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Bring Water 600ml to a boil, then add longer-cooking items first.
-- Wash water dropwort and cut into sections; cube tofu; slice ginger.
 - Pot with water and ginger; boil; tofu 2 minutes.
 - Add water dropwort 1–2 minutes until crisp-tender.
+- Salt and white pepper to taste.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Few drops of sesame oil at the end optional.
 storage: Eat fresh; greens soften overnight.
@@ -68,10 +68,6 @@ seasonings:
 - name: White pepper
   amount: pinch
   unit: ""
----
-
----
----
 ---
 
 Gentle on the stomach when you want a rest day.

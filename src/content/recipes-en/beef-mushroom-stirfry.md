@@ -44,11 +44,11 @@ tags:
 - Stir-fry
 intro: Cook mushrooms until their moisture dries and aroma concentrates, then combine with beef for sweeter depth.
 steps:
+- "Prep: Beef 120g, Mushrooms 100g; mix Olive oil 1.5tbsp, Soy sauce 1tbsp, Garlic 2cloves, Black pepper pinch in a small bowl if using."
+- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Shred beef; slice mushrooms; mince garlic.
 - Oil in pan; stir-fry mushrooms until lightly dried and fragrant; set aside.
 - Same pan; beef until color changes; add mushrooms, soy sauce, and pepper; toss fast.
-- Plate with rice or noodles while hot; let rest 1 minute before serving.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Let mushroom liquid cook off patiently for better flavor.
 storage: Best eaten right after cooking.
@@ -64,10 +64,6 @@ customAdditions:
 - Scallions
 - Chili
 - Onion
----
-
----
----
 ---
 
 Ideal when you have one pack of mushrooms and need protein fast.

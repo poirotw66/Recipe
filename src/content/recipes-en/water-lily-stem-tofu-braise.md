@@ -28,7 +28,7 @@ steps:
 - Hot oil; fry tofu until lightly golden both sides.
 - Garlic, soy sauce, sugar, and water; simmer 3 minutes.
 - Water dropwort over high 1 minute; reduce sauce; serve.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Firm tofu handles flipping; soft tofu needs a gentle hand.
 storage: Refrigerate 2 days; splash water when reheating.
@@ -70,10 +70,6 @@ seasonings:
 - name: Olive oil
   amount: "1"
   unit: tbsp
----
-
----
----
 ---
 
 Savory-sweet tofu that pairs well with rice.

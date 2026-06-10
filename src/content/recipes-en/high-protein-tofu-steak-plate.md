@@ -67,7 +67,4 @@ publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
 ---
 
----
----
-
 A satisfying main for lacto-ovo vegetarians who want to feel full.

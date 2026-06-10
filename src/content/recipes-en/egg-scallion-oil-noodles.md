@@ -69,7 +69,4 @@ publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
 ---
 
----
----
-
 An upgraded scallion oil noodle plate sized for one.

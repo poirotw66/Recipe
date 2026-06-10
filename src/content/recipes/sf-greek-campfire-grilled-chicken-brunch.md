@@ -1,7 +1,7 @@
 ---
 title: Greek style 野炊系炭烤雞肉早午餐
 description: 參考貳樓 Second Floor Cafe 常見做法，以 炭烤雞肉、皮塔餅、沙拉 還原 Greek style 野炊系炭烤雞肉早午餐 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.webp
+coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.svg
 servings: 1
 prepTime: 20
 cookTime: 18

@@ -1,7 +1,7 @@
 ---
 title: 布朗尼冰淇淋
 description: 參考貳樓 Second Floor Cafe 常見做法，以 布朗尼 + 香草冰淇淋 + 巧克力醬 還原 布朗尼冰淇淋 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-brownie-ice-cream.webp
+coverImage: /images/recipes/sf-brownie-ice-cream.svg
 servings: 2
 prepTime: 20
 cookTime: 28

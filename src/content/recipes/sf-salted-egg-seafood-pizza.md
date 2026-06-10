@@ -1,7 +1,7 @@
 ---
 title: 金黃流沙海鮮披薩
 description: 參考貳樓 Second Floor Cafe 常見做法，以 金沙醬、海鮮、九層塔、披薩餅皮 還原 金黃流沙海鮮披薩 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-salted-egg-seafood-pizza.webp
+coverImage: /images/recipes/sf-salted-egg-seafood-pizza.svg
 servings: 1
 prepTime: 20
 cookTime: 18

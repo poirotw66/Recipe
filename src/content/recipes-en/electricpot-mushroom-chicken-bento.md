@@ -47,9 +47,9 @@ tags:
 intro: Layer chicken and mushrooms so they steam without turning mushy—easy to divide into boxes.
 steps:
 - "Prep: Chicken breast 260g, Mushrooms 160g, Onion 0.25; rinse rice if using and chop vegetables."
-- "\"Prep: Chicken breast 260g, Mushrooms 160g, Onion 0.25; rinse rice if using and chop vegetables.\""
 - Slice chicken; cut mushrooms into bite cubes; shred onion; mince garlic.
 - Toss ingredients with soy sauce and garlic; transfer to a heatproof container.
+- Steam with 1 cup outer-pot water until done; toss, adjust salt.
 tips:
 - Rub with 1 tsp oil before steaming for extra tenderness.
 storage: Refrigerate up to 2 days; reheat before eating.
@@ -71,10 +71,6 @@ customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell pepper
----
-
----
----
 ---
 
 A dependable bento main that pairs with almost any side dish.

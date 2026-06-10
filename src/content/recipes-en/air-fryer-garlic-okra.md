@@ -50,11 +50,11 @@ seasonings:
 intro: Wash okra and dry thoroughly; oil before air-frying so it doesn’t steam soft.
 steps:
 - "Prep: Okra 150g; pat protein dry and rub with Garlic 3cloves, Olive oil 1tbsp, Salt pinch, Black pepper pinch."
-- "\"Prep: Okra 150g; pat protein dry and rub with Garlic 3cloves, Olive oil 1tbsp, Salt pinch, Black pepper pinch.\""
 - Trim okra stems; pat dry. Mince garlic.
 - Toss okra with olive oil, garlic, salt, and pepper.
 - Preheat air fryer to 190°C for 3 minutes; arrange in one layer.
 - Air-fry at 190°C for 5 minutes, flip, then 4 more until edges char lightly.
+- Optional extra minced garlic on top; serve hot.
 storage: Best fresh; reheated okra softens.
 faqs:
 - question: I dislike slimy okra?
@@ -62,10 +62,6 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
----
-
----
----
 ---
 
 A quick summer vegetable side for one.

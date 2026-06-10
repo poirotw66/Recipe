@@ -2,7 +2,7 @@
 title: 北鼻奶油雞肉長管麵 스타일 레시피
 recipeId: sf-kids-cream-chicken-penne
 description: Second Floor Cafe 스타일로 白醬、雞肉、玉米、豌豆、起司 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-kids-cream-chicken-penne.webp
+coverImage: /images/recipes/sf-kids-cream-chicken-penne.svg
 servings: 1
 prepTime: 15
 cookTime: 14
@@ -87,9 +87,6 @@ seasonings:
 - name: 鮮奶油
   amount: "適量"
   unit: ""
----
-
----
 ---
 
 이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.

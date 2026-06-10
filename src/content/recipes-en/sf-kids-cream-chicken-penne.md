@@ -2,7 +2,7 @@
 title: Kids Cream Chicken Penne
 recipeId: sf-kids-cream-chicken-penne
 description: "Second Floor Cafe-inspired kids plates with restaurant-style portions and 白醬、雞肉、玉米、豌豆、起司."
-coverImage: /images/recipes/sf-kids-cream-chicken-penne.webp
+coverImage: /images/recipes/sf-kids-cream-chicken-penne.svg
 servings: 1
 prepTime: 15
 cookTime: 14
@@ -87,9 +87,6 @@ seasonings:
 - name: 鮮奶油
   amount: "適量"
   unit: ""
----
-
----
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

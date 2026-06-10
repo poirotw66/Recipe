@@ -2,7 +2,7 @@
 title: 主廚脆皮豬腳 再現レシピ
 recipeId: sf-chef-crispy-pork-knuckle
 description: Second Floor Cafe 風に 德式豬腳、烤玉米、酸菜、芥末、薯條 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-chef-crispy-pork-knuckle.webp
+coverImage: /images/recipes/sf-chef-crispy-pork-knuckle.svg
 servings: 2
 prepTime: 25
 cookTime: 35
@@ -82,9 +82,6 @@ seasonings:
 - name: 黑胡椒碎
   amount: "1/2"
   unit: 小匙
----
-
----
 ---
 
 この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。

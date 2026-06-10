@@ -70,8 +70,4 @@ customAdditions:
 - Bell pepper
 ---
 
----
----
----
-
 Simple, dry, and easy to prep ahead for workdays.

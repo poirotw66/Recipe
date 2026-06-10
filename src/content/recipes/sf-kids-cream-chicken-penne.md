@@ -1,7 +1,7 @@
 ---
 title: 北鼻奶油雞肉長管麵
 description: 參考貳樓 Second Floor Cafe 常見做法，以 白醬、雞肉、玉米、豌豆、起司 還原 北鼻奶油雞肉長管麵 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-kids-cream-chicken-penne.webp
+coverImage: /images/recipes/sf-kids-cream-chicken-penne.svg
 servings: 1
 prepTime: 15
 cookTime: 14

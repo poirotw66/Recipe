@@ -2,7 +2,7 @@
 title: 厚烤奶油 Ham 三明治 再現レシピ
 recipeId: sf-griddled-butter-ham-sandwich
 description: Second Floor Cafe 風に 歐包、火腿、起司、荷包蛋、薯塊、楓糖漿 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-griddled-butter-ham-sandwich.webp
+coverImage: /images/recipes/sf-griddled-butter-ham-sandwich.svg
 servings: 1
 prepTime: 18
 cookTime: 15
@@ -94,9 +94,6 @@ seasonings:
 - name: 鮮奶油
   amount: "適量"
   unit: ""
----
-
----
 ---
 
 この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。

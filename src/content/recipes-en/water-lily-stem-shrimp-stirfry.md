@@ -28,7 +28,7 @@ steps:
 - Hot oil; shrimp until pink; set aside.
 - Same pan; garlic; water dropwort over high 1 minute.
 - Return shrimp; salt and white pepper; toss.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Brief rice wine on shrimp reduces fishiness.
 storage: Same day; shrimp firmness drops overnight.
@@ -70,10 +70,6 @@ seasonings:
 - name: Rice wine
   amount: "1"
   unit: tsp
----
-
----
----
 ---
 
 Clean seafood plate when you want fullness without heavy oil.

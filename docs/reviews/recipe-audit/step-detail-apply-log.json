@@ -2,9 +2,899 @@
   "updatedAt": "2026-06-09",
   "ok": [
     {
+      "slug": "water-lily-stem-sesame-toss",
+      "steps": 4,
+      "avg": 44
+    },
+    {
+      "slug": "weight-loss-clear-mushroom-soup",
+      "steps": 6,
+      "avg": 22
+    },
+    {
+      "slug": "water-lily-stem-fish-ball-noodles",
+      "steps": 5,
+      "avg": 20
+    },
+    {
       "slug": "carrot-chicken-rice-bowl",
       "steps": 4,
       "avg": 46
+    },
+    {
+      "slug": "water-lily-stem-clear-soup",
+      "steps": 5,
+      "avg": 21
+    },
+    {
+      "slug": "water-lily-stem-mushroom-stirfry",
+      "steps": 5,
+      "avg": 21
+    },
+    {
+      "slug": "ten-minute-udon-soup",
+      "steps": 6,
+      "avg": 24
+    },
+    {
+      "slug": "budget-tofu-rice-bowl",
+      "steps": 4,
+      "avg": 40
+    },
+    {
+      "slug": "mixed-leftover-congee",
+      "steps": 6,
+      "avg": 26
+    },
+    {
+      "slug": "water-lily-stem-tofu-braise",
+      "steps": 5,
+      "avg": 22
+    },
+    {
+      "slug": "bento-stir-fried-cabbage",
+      "steps": 5,
+      "avg": 17
+    },
+    {
+      "slug": "budget-cabbage-noodle-soup",
+      "steps": 5,
+      "avg": 16
+    },
+    {
+      "slug": "salmon-broccoli-garlic-main",
+      "steps": 5,
+      "avg": 28
+    },
+    {
+      "slug": "fridge-bottom-soup-noodles",
+      "steps": 6,
+      "avg": 26
+    },
+    {
+      "slug": "garlic-tomato-chicken-rice-bowl",
+      "steps": 4,
+      "avg": 47
+    },
+    {
+      "slug": "mushroom-beef-rice-bowl",
+      "steps": 4,
+      "avg": 45
+    },
+    {
+      "slug": "budget-simple-egg-fried-rice",
+      "steps": 6,
+      "avg": 22
+    },
+    {
+      "slug": "water-lily-stem-garlic-stirfry",
+      "steps": 5,
+      "avg": 22
+    },
+    {
+      "slug": "water-lily-stem-pork-soup",
+      "steps": 5,
+      "avg": 24
+    },
+    {
+      "slug": "solo-sesame-chicken-rice",
+      "steps": 4,
+      "avg": 42
+    },
+    {
+      "slug": "beef-mushroom-stirfry",
+      "steps": 5,
+      "avg": 35
+    },
+    {
+      "slug": "bento-braised-tofu-egg",
+      "steps": 5,
+      "avg": 18
+    },
+    {
+      "slug": "water-lily-stem-oyster-sauce",
+      "steps": 5,
+      "avg": 23
+    },
+    {
+      "slug": "solo-three-cup-chicken-rice",
+      "steps": 4,
+      "avg": 42
+    },
+    {
+      "slug": "quick-pickled-cucumber-egg-rice",
+      "steps": 4,
+      "avg": 40
+    },
+    {
+      "slug": "water-lily-stem-chicken-rice-bowl",
+      "steps": 5,
+      "avg": 28
+    },
+    {
+      "slug": "solo-lu-rou-rice",
+      "steps": 4,
+      "avg": 43
+    },
+    {
+      "slug": "solo-pan-fried-pork-cutlet-rice",
+      "steps": 4,
+      "avg": 43
+    },
+    {
+      "slug": "weight-loss-shrimp-veg-salad",
+      "steps": 5,
+      "avg": 22
+    },
+    {
+      "slug": "broccoli-tofu-garlic-stirfry",
+      "steps": 5,
+      "avg": 30
+    },
+    {
+      "slug": "water-lily-stem-shrimp-stirfry",
+      "steps": 5,
+      "avg": 28
+    },
+    {
+      "slug": "high-protein-tofu-steak-plate",
+      "steps": 5,
+      "avg": 19
+    },
+    {
+      "slug": "instant-miso-egg-soup",
+      "steps": 6,
+      "avg": 27
+    },
+    {
+      "slug": "leftover-meat-quick-stirfry",
+      "steps": 5,
+      "avg": 22
+    },
+    {
+      "slug": "solo-ginger-pork-rice",
+      "steps": 4,
+      "avg": 41
+    },
+    {
+      "slug": "clearout-tofu-veggie-soup",
+      "steps": 6,
+      "avg": 29
+    },
+    {
+      "slug": "random-veggie-egg-pancake",
+      "steps": 5,
+      "avg": 19
+    },
+    {
+      "slug": "broccoli-mushroom-egg",
+      "steps": 5,
+      "avg": 31
+    },
+    {
+      "slug": "cabbage-mushroom-rice",
+      "steps": 4,
+      "avg": 33
+    },
+    {
+      "slug": "garlic-tofu-chicken-pan-main",
+      "steps": 5,
+      "avg": 34
+    },
+    {
+      "slug": "high-protein-egg-white-stirfry",
+      "steps": 5,
+      "avg": 20
+    },
+    {
+      "slug": "weight-loss-zucchini-chicken",
+      "steps": 5,
+      "avg": 24
+    },
+    {
+      "slug": "bento-honey-soy-pork",
+      "steps": 5,
+      "avg": 21
+    },
+    {
+      "slug": "canned-tuna-rice-bowl",
+      "steps": 4,
+      "avg": 44
+    },
+    {
+      "slug": "clearout-veggie-egg-fried-rice",
+      "steps": 6,
+      "avg": 25
+    },
+    {
+      "slug": "tomato-beef-rice-bowl",
+      "steps": 4,
+      "avg": 47
+    },
+    {
+      "slug": "high-protein-shrimp-tofu-bowl",
+      "steps": 5,
+      "avg": 23
+    },
+    {
+      "slug": "broccoli-mushroom-chicken-rice-bowl",
+      "steps": 4,
+      "avg": 48
+    },
+    {
+      "slug": "garlic-mushroom-tofu-rice-bowl",
+      "steps": 4,
+      "avg": 46
+    },
+    {
+      "slug": "scallion-chicken-rice-bowl",
+      "steps": 4,
+      "avg": 41
+    },
+    {
+      "slug": "cabbage-carrot-chicken-rice-bowl",
+      "steps": 4,
+      "avg": 48
+    },
+    {
+      "slug": "garlic-mushroom-chicken",
+      "steps": 5,
+      "avg": 36
+    },
+    {
+      "slug": "garlic-cabbage-tofu-braise",
+      "steps": 5,
+      "avg": 32
+    },
+    {
+      "slug": "mushroom-cabbage-rice-bowl",
+      "steps": 4,
+      "avg": 47
+    },
+    {
+      "slug": "tofu-cabbage-mushroom-stirfry",
+      "steps": 5,
+      "avg": 34
+    },
+    {
+      "slug": "electricpot-broccoli-chicken-bento",
+      "steps": 4,
+      "avg": 38
+    },
+    {
+      "slug": "airfryer-tofu-mushroom-main",
+      "steps": 4,
+      "avg": 36
+    },
+    {
+      "slug": "steamed-chicken-bento",
+      "steps": 4,
+      "avg": 38
+    },
+    {
+      "slug": "onion-cabbage-mushroom-saute",
+      "steps": 5,
+      "avg": 36
+    },
+    {
+      "slug": "airfryer-garlic-chicken-broccoli",
+      "steps": 4,
+      "avg": 43
+    },
+    {
+      "slug": "tomato-tofu-soup",
+      "steps": 5,
+      "avg": 34
+    },
+    {
+      "slug": "cabbage-mushroom-clear-soup",
+      "steps": 5,
+      "avg": 36
+    },
+    {
+      "slug": "onion-salmon-pan-steak",
+      "steps": 5,
+      "avg": 38
+    },
+    {
+      "slug": "soy-garlic-chicken-breast-pan",
+      "steps": 5,
+      "avg": 40
+    },
+    {
+      "slug": "sesame-onion-chicken-rice-bowl",
+      "steps": 4,
+      "avg": 48
+    },
+    {
+      "slug": "onion-garlic-tofu-eggs",
+      "steps": 5,
+      "avg": 37
+    },
+    {
+      "slug": "garlic-beef-cabbage-stirfry",
+      "steps": 5,
+      "avg": 43
+    },
+    {
+      "slug": "beef-broccoli-stirfry",
+      "steps": 5,
+      "avg": 43
+    },
+    {
+      "slug": "electricpot-tofu-egg-bento-side",
+      "steps": 4,
+      "avg": 38
+    },
+    {
+      "slug": "onion-beef-rice-bowl",
+      "steps": 4,
+      "avg": 45
+    },
+    {
+      "slug": "air-fryer-salmon-broccoli",
+      "steps": 4,
+      "avg": 41
+    },
+    {
+      "slug": "tofu-tomato-pasta",
+      "steps": 5,
+      "avg": 38
+    },
+    {
+      "slug": "egg-scallion-oil-noodles",
+      "steps": 5,
+      "avg": 21
+    },
+    {
+      "slug": "quick-kimchi-fried-rice",
+      "steps": 6,
+      "avg": 26
+    },
+    {
+      "slug": "air-fryer-butter-corn",
+      "steps": 6,
+      "avg": 26
+    },
+    {
+      "slug": "leftover-rice-egg-pancake",
+      "steps": 4,
+      "avg": 39
+    },
+    {
+      "slug": "bento-black-pepper-beef",
+      "steps": 5,
+      "avg": 25
+    },
+    {
+      "slug": "high-protein-chicken-broccoli-bowl",
+      "steps": 5,
+      "avg": 27
+    },
+    {
+      "slug": "solo-mapo-tofu-rice-bowl",
+      "steps": 4,
+      "avg": 42
+    },
+    {
+      "slug": "microwave-steamed-egg-rice",
+      "steps": 6,
+      "avg": 25
+    },
+    {
+      "slug": "bento-ginger-chicken",
+      "steps": 5,
+      "avg": 24
+    },
+    {
+      "slug": "sesame-cold-noodles-solo",
+      "steps": 5,
+      "avg": 22
+    },
+    {
+      "slug": "butter-garlic-instant-noodles",
+      "steps": 5,
+      "avg": 21
+    },
+    {
+      "slug": "leftover-mixed-veggie-fried-rice",
+      "steps": 6,
+      "avg": 31
+    },
+    {
+      "slug": "air-fryer-garlic-okra",
+      "steps": 6,
+      "avg": 30
+    },
+    {
+      "slug": "air-fryer-garlic-mushrooms",
+      "steps": 6,
+      "avg": 33
+    },
+    {
+      "slug": "water-lily-stem-egg-stirfry",
+      "steps": 6,
+      "avg": 28
+    },
+    {
+      "slug": "solo-oyster-sauce-beef-rice",
+      "steps": 4,
+      "avg": 47
+    },
+    {
+      "slug": "smoked-salmon-caesar-salad",
+      "steps": 4,
+      "avg": 25
+    },
+    {
+      "slug": "scallion-oil-dry-noodles",
+      "steps": 5,
+      "avg": 25
+    },
+    {
+      "slug": "seasonal-greens-salad-bowl",
+      "steps": 4,
+      "avg": 25
+    },
+    {
+      "slug": "air-fryer-soy-chicken-wings",
+      "steps": 6,
+      "avg": 34
+    },
+    {
+      "slug": "air-fryer-garlic-shrimp",
+      "steps": 6,
+      "avg": 40
+    },
+    {
+      "slug": "mushroom-soft-egg-brunch",
+      "steps": 4,
+      "avg": 26
+    },
+    {
+      "slug": "air-fryer-lemon-fish-fillet",
+      "steps": 6,
+      "avg": 38
+    },
+    {
+      "slug": "air-fryer-crispy-tofu-cubes",
+      "steps": 6,
+      "avg": 35
+    },
+    {
+      "slug": "herb-pan-chicken-brunch",
+      "steps": 5,
+      "avg": 34
+    },
+    {
+      "slug": "air-fryer-honey-sweet-potato",
+      "steps": 6,
+      "avg": 33
+    },
+    {
+      "slug": "roasted-lemon-salmon-brunch",
+      "steps": 6,
+      "avg": 40
+    },
+    {
+      "slug": "chefs-daily-soup",
+      "steps": 6,
+      "avg": 37
+    },
+    {
+      "slug": "sf-brownie-ice-cream",
+      "steps": 4,
+      "avg": 28
+    },
+    {
+      "slug": "sf-american-cheesecake",
+      "steps": 4,
+      "avg": 25
+    },
+    {
+      "slug": "sf-strong-chocolate-cake",
+      "steps": 4,
+      "avg": 26
+    },
+    {
+      "slug": "sf-country-cinnamon-peach-pie",
+      "steps": 4,
+      "avg": 27
+    },
+    {
+      "slug": "honey-cajun-chicken-wings",
+      "steps": 5,
+      "avg": 42
+    },
+    {
+      "slug": "spicy-seafood-tomato-pasta",
+      "steps": 6,
+      "avg": 36
+    },
+    {
+      "slug": "cajun-fries",
+      "steps": 5,
+      "avg": 42
+    },
+    {
+      "slug": "sf-green-superhero-quinoa-buddha-bowl",
+      "steps": 4,
+      "avg": 52
+    },
+    {
+      "slug": "sf-griddled-butter-ham-sandwich",
+      "steps": 4,
+      "avg": 52
+    },
+    {
+      "slug": "sf-keto-surf-and-turf-platter",
+      "steps": 4,
+      "avg": 53
+    },
+    {
+      "slug": "sf-signature-double-stack-burger",
+      "steps": 4,
+      "avg": 52
+    },
+    {
+      "slug": "sf-tropical-yogurt-bowl",
+      "steps": 4,
+      "avg": 54
+    },
+    {
+      "slug": "sf-acai-berry-yogurt-bowl",
+      "steps": 4,
+      "avg": 54
+    },
+    {
+      "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
+      "steps": 4,
+      "avg": 59
+    },
+    {
+      "slug": "sf-bbq-roasted-half-chicken",
+      "steps": 4,
+      "avg": 32
+    },
+    {
+      "slug": "sf-chef-crispy-pork-knuckle",
+      "steps": 4,
+      "avg": 34
+    },
+    {
+      "slug": "sf-spicy-mexican-firecracker-burger",
+      "steps": 4,
+      "avg": 56
+    },
+    {
+      "slug": "white-sauce-chicken-pasta",
+      "steps": 6,
+      "avg": 40
+    },
+    {
+      "slug": "fried-trio-platter",
+      "steps": 4,
+      "avg": 35
+    },
+    {
+      "slug": "sf-kids-cream-chicken-penne",
+      "steps": 4,
+      "avg": 34
+    },
+    {
+      "slug": "sf-cheesy-chicken-egg-rice",
+      "steps": 4,
+      "avg": 34
+    },
+    {
+      "slug": "sf-mini-beef-egg-burger-set",
+      "steps": 4,
+      "avg": 31
+    },
+    {
+      "slug": "fish-and-chips",
+      "steps": 4,
+      "avg": 36
+    },
+    {
+      "slug": "sf-poutine-meat-sauce-fries",
+      "steps": 4,
+      "avg": 55
+    },
+    {
+      "slug": "sf-salsa-black-curry-fried-chicken",
+      "steps": 4,
+      "avg": 58
+    },
+    {
+      "slug": "sf-san-francisco-garlic-fries",
+      "steps": 4,
+      "avg": 54
+    },
+    {
+      "slug": "sf-buffalo-chicken-wings",
+      "steps": 4,
+      "avg": 58
+    },
+    {
+      "slug": "electricpot-mushroom-chicken-bento",
+      "steps": 4,
+      "avg": 41
+    },
+    {
+      "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
+      "steps": 4,
+      "avg": 46
+    },
+    {
+      "slug": "sf-south-sea-spiced-chicken-rice",
+      "steps": 4,
+      "avg": 42
+    },
+    {
+      "slug": "sf-supreme-cheese-omelette",
+      "steps": 4,
+      "avg": 46
+    },
+    {
+      "slug": "sf-sweet-savory-rice",
+      "steps": 4,
+      "avg": 42
+    },
+    {
+      "slug": "sf-campfire-lemon-zucchini-fish-fillet",
+      "steps": 4,
+      "avg": 35
+    },
+    {
+      "slug": "sf-classic-beef-mushroom-eggs-benedict",
+      "steps": 4,
+      "avg": 46
+    },
+    {
+      "slug": "sf-classic-ham-mushroom-eggs-benedict",
+      "steps": 4,
+      "avg": 47
+    },
+    {
+      "slug": "sf-greek-campfire-grilled-chicken-brunch",
+      "steps": 4,
+      "avg": 44
+    },
+    {
+      "slug": "sf-salted-egg-seafood-pizza",
+      "steps": 4,
+      "avg": 38
+    },
+    {
+      "slug": "sf-truffle-fries",
+      "steps": 4,
+      "avg": 55
+    },
+    {
+      "slug": "sf-asahi-cordon-bleu-pork-burger",
+      "steps": 4,
+      "avg": 34
+    },
+    {
+      "slug": "sf-oat-crusted-fish-and-fries",
+      "steps": 4,
+      "avg": 56
+    },
+    {
+      "slug": "sf-orange-danish-mushroom-poached-potato",
+      "steps": 4,
+      "avg": 52
+    },
+    {
+      "slug": "sf-orange-danish-poached-seafood-potato",
+      "steps": 4,
+      "avg": 50
+    },
+    {
+      "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
+      "steps": 4,
+      "avg": 49
+    },
+    {
+      "slug": "sf-worcester-meat-sauce-omelette",
+      "steps": 4,
+      "avg": 49
+    },
+    {
+      "slug": "sf-chicken-quesadilla",
+      "steps": 4,
+      "avg": 63
+    },
+    {
+      "slug": "sf-crispy-calamari-cocktail-sauce",
+      "steps": 4,
+      "avg": 59
+    },
+    {
+      "slug": "sf-local-sausage-quesadilla",
+      "steps": 4,
+      "avg": 65
+    },
+    {
+      "slug": "sf-orange-danish-sunny-sous-vide-chicken",
+      "steps": 4,
+      "avg": 53
+    },
+    {
+      "slug": "sf-sous-vide-chicken-caesar-salad",
+      "steps": 4,
+      "avg": 49
+    },
+    {
+      "slug": "sf-mushroom-cheese-omelette",
+      "steps": 4,
+      "avg": 47
+    },
+    {
+      "slug": "sf-orange-danish-sous-vide-steak",
+      "steps": 4,
+      "avg": 53
+    },
+    {
+      "slug": "sf-salted-egg-yolk-fries",
+      "steps": 4,
+      "avg": 62
+    },
+    {
+      "slug": "sf-avocado-bacon-open-toast",
+      "steps": 4,
+      "avg": 51
+    },
+    {
+      "slug": "sf-avocado-smoked-salmon-open-toast",
+      "steps": 4,
+      "avg": 49
+    },
+    {
+      "slug": "sf-classic-caesar-salad",
+      "steps": 4,
+      "avg": 59
+    },
+    {
+      "slug": "sf-roasted-sesame-chicken-salad",
+      "steps": 4,
+      "avg": 57
+    },
+    {
+      "slug": "sf-avocado-local-sausage-danish-open",
+      "steps": 4,
+      "avg": 52
+    },
+    {
+      "slug": "sf-second-floor-saltwater-chicken-salad",
+      "steps": 4,
+      "avg": 69
+    },
+    {
+      "slug": "sf-smoked-salmon-caesar-salad",
+      "steps": 4,
+      "avg": 51
+    },
+    {
+      "slug": "sf-black-truffle-cordon-bleu-pork-open",
+      "steps": 4,
+      "avg": 52
+    },
+    {
+      "slug": "sf-poached-egg-smoked-beef-danish-open",
+      "steps": 4,
+      "avg": 50
+    },
+    {
+      "slug": "sf-bloody-mary-spicy-rice",
+      "steps": 4,
+      "avg": 46
+    },
+    {
+      "slug": "sf-spicy-tomato-bacon-penne",
+      "steps": 4,
+      "avg": 48
+    },
+    {
+      "slug": "sf-white-wine-garlic-clam-squid-ink-pasta",
+      "steps": 4,
+      "avg": 46
+    },
+    {
+      "slug": "sf-dawn-shrimp-chicken-linguine",
+      "steps": 4,
+      "avg": 46
+    },
+    {
+      "slug": "sf-moon-view-bitter-melon-cream-rice",
+      "steps": 4,
+      "avg": 48
+    },
+    {
+      "slug": "sf-spicy-spanish-surf-and-turf-rice",
+      "steps": 4,
+      "avg": 47
+    },
+    {
+      "slug": "sf-balsamic-mushroom-pasta",
+      "steps": 4,
+      "avg": 47
+    },
+    {
+      "slug": "sf-black-pepper-hamburg-rice",
+      "steps": 4,
+      "avg": 48
+    },
+    {
+      "slug": "sf-classic-pesto-shrimp-pasta",
+      "steps": 4,
+      "avg": 47
+    },
+    {
+      "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
+      "steps": 4,
+      "avg": 47
+    },
+    {
+      "slug": "sf-salted-egg-bitter-melon-pasta",
+      "steps": 4,
+      "avg": 49
+    },
+    {
+      "slug": "sf-baked-thick-cut-pork-cream-rice",
+      "steps": 4,
+      "avg": 49
+    },
+    {
+      "slug": "sf-spicy-pepper-karaage-pasta",
+      "steps": 4,
+      "avg": 49
+    },
+    {
+      "slug": "sf-truffle-mushroom-cream-pasta",
+      "steps": 4,
+      "avg": 48
+    },
+    {
+      "slug": "sf-second-floor-fiesta-shrimp-penne",
+      "steps": 4,
+      "avg": 48
+    },
+    {
+      "slug": "sf-cheesy-local-sausage-cream-pasta",
+      "steps": 4,
+      "avg": 52
+    },
+    {
+      "slug": "pesto-chicken-mushroom-pasta",
+      "steps": 5,
+      "avg": 45
+    },
+    {
+      "slug": "curry-beef-rice",
+      "steps": 4,
+      "avg": 50
     }
   ],
   "errors": []

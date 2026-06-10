@@ -25,9 +25,9 @@ tags:
 intro: Slice chicken thin, cook to about 70% done, then finish with water dropwort over rice.
 steps:
 - water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Marinate Chicken breast with Soy sauce 1tbsp, Rice wine 1tbsp, Olive oil 1tbsp for 10 minutes; prep vegetables as needed.
-- Heat 1 Tbsp oil in a skillet over medium heat. Add Chicken breast, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Hot oil; cook chicken until color changes; set aside.
+- Bloom minced garlic; stir-fry water dropwort 1 minute; return chicken.
+- Soy sauce to taste; toss and plate over rice.
 - Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Do not overcook chicken for tenderness.
@@ -71,10 +71,6 @@ seasonings:
 - name: Olive oil
   amount: "1"
   unit: tbsp
----
-
----
----
 ---
 
 Vegetable, protein, and rice in one pan on busy nights.

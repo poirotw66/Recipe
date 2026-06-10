@@ -2,7 +2,7 @@
 title: 強的 再現レシピ
 recipeId: sf-strong-chocolate-cake
 description: Second Floor Cafe 風に 4 吋巧克力蛋糕 + 奶油起司 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-strong-chocolate-cake.webp
+coverImage: /images/recipes/sf-strong-chocolate-cake.svg
 servings: 2
 prepTime: 20
 cookTime: 28
@@ -66,9 +66,6 @@ seasonings:
 - name: 細砂糖
   amount: "2"
   unit: 大匙
----
-
----
 ---
 
 この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。

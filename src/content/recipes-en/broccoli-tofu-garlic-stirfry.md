@@ -43,11 +43,11 @@ tags:
 - Tofu
 intro: Pan-fry tofu first so it stays intact; keep broccoli crisp in the wok.
 steps:
+- "Prep: Broccoli 160g, Tofu 1block, Garlic 2cloves; mix Salt pinch, Soy sauce 1tsp in a small bowl if using."
+- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Cut broccoli into florets; cube tofu; mince garlic.
 - Pan-fry tofu until lightly golden; set aside.
 - Heat oil over medium, sauté garlic until fragrant, stir-fry broccoli until bright green, return tofu, and season with salt and soy sauce.
-- Plate with rice or noodles while hot; let rest 1 minute before serving.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Blanch broccoli 30 seconds first for more predictable doneness.
 storage: Refrigerate up to 1 day; reheat over medium-high in a skillet.
@@ -71,9 +71,6 @@ customAdditions:
 - Shiitake mushrooms
 ---
 
----
----
----
 ---
 
 Broccoli tofu garlic stir-fry is easy to shop for and repeats well on busy nights.

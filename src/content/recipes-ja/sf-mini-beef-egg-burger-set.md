@@ -2,7 +2,7 @@
 title: 牛蛋小堡堡套餐 再現レシピ
 recipeId: sf-mini-beef-egg-burger-set
 description: Second Floor Cafe 風に 小漢堡、牛肉排、煎蛋、薯條 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-mini-beef-egg-burger-set.webp
+coverImage: /images/recipes/sf-mini-beef-egg-burger-set.svg
 servings: 1
 prepTime: 15
 cookTime: 14
@@ -77,9 +77,6 @@ seasonings:
 - name: 黑胡椒碎
   amount: "1/4"
   unit: 小匙
----
-
----
 ---
 
 この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。

@@ -74,8 +74,4 @@ publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
 ---
 
----
----
----
-
 A takeout-style oyster sauce beef bowl you can make at home in minutes.

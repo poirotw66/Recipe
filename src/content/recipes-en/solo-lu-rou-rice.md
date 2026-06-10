@@ -60,9 +60,6 @@ steps:
 - Marinate Ground pork with Soy sauce 3tbsp, Rice wine 2tbsp, Rock sugar 1tsp for 10 minutes; prep vegetables as needed.
 - Heat 1 Tbsp oil in a skillet over medium heat. Add Ground pork, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
-- Taste and adjust seasoning; serve immediately while hot.
 storage: Refrigerate up to 3 days; add a little water when reheating.
 faqs:
 - question: No shallots on hand?
@@ -70,10 +67,6 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
----
-
----
----
 ---
 
 A comforting solo serving of braised pork rice—familiar to anyone cooking in a small Taiwan kitchen.

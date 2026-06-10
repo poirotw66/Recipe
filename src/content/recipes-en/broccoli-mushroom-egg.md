@@ -44,11 +44,11 @@ tags:
 - High fiber
 intro: Par-cook broccoli in the microwave or a quick blanch before stir-frying for even texture.
 steps:
+- "Prep: Broccoli 1bowl, Mushrooms 1bowl, Eggs 2; mix Salt 1/4tsp, Black pepper pinch in a small bowl if using."
+- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Cut broccoli into small florets; microwave 1 minute or blanch until half tender.
 - Heat oil in a skillet over medium. Stir-fry mushrooms until they release moisture, add broccoli, and toss.
 - Pour in beaten eggs and scramble into soft curds; season with salt and pepper.
-- Plate with rice or noodles while hot; let rest 1 minute before serving.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Do not overcook broccoli—keep a little snap.
 storage: Refrigerate up to 1 day; good for next-day lunch.
@@ -71,9 +71,6 @@ customAdditions:
 - Chopped scallions
 ---
 
----
----
----
 ---
 
 Colorful and quick—this dish helps you hit your vegetable quota without much fuss.

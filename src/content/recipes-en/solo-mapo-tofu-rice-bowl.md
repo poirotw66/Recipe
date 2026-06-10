@@ -73,8 +73,4 @@ publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
 ---
 
----
----
----
-
 A bold bowl when renters want something really flavorful.

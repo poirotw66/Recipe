@@ -67,9 +67,6 @@ seasonings:
   unit: 小匙
 ---
 
----
----
-
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
 
 Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.

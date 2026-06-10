@@ -43,11 +43,11 @@ tags:
 - Skillet
 intro: Brief marinade before searing; let pan juices reduce at the end for concentrated flavor.
 steps:
+- "Prep: Chicken breast 260g, Garlic 3cloves, Onion 0.25; mix Soy sauce 2tsp, Salt pinch in a small bowl if using."
+- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Cut chicken into thick slices; mince garlic; peel onion and slice thin along the grain.
 - Toss chicken with soy and garlic; marinate 10 minutes. Medium-high skillet until both sides color.
 - Add onion; stir until slightly soft; finish with a pinch of salt.
-- Plate with rice or noodles while hot; let rest 1 minute before serving.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Do not flip constantly—better browning if you let each side sit.
 storage: Refrigerate up to 2 days; splash water when reheating.
@@ -69,10 +69,6 @@ customAdditions:
 - King oyster mushroom
 - Baby corn
 - Bell pepper
----
-
----
----
 ---
 
 A reliable protein base you can copy every week.

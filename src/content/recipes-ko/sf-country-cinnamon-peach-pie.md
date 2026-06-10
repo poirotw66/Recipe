@@ -2,7 +2,7 @@
 title: 鄉村肉桂蜜桃派 스타일 레시피
 recipeId: sf-country-cinnamon-peach-pie
 description: Second Floor Cafe 스타일로 肉桂蜜桃派 + 香草冰淇淋 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-country-cinnamon-peach-pie.webp
+coverImage: /images/recipes/sf-country-cinnamon-peach-pie.svg
 servings: 2
 prepTime: 20
 cookTime: 28
@@ -71,9 +71,6 @@ seasonings:
 - name: 細砂糖
   amount: "2"
   unit: 大匙
----
-
----
 ---
 
 이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.

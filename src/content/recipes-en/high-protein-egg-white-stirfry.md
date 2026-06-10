@@ -57,8 +57,6 @@ steps:
 - Add cucumber; stir-fry 1 minute.
 - Season with white pepper; serve.
 - Pair with a main from the custom additions if you like; yolks can be used separately.
-- Use medium heat unless noted; stir or flip occasionally for even cooking.
-- Check doneness (no pink juices in poultry, fish flakes easily), then adjust salt.
 storage: Best fresh; whites weep if held overnight.
 faqs:
 - question: What do I do with the yolks?
@@ -66,10 +64,6 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
----
-
----
----
 ---
 
 One of the simplest protein hits during a cut.

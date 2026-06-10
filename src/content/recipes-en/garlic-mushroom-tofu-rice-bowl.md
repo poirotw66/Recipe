@@ -74,8 +74,5 @@ customAdditions:
 ---
 
 ---
----
----
----
 
 A solid choice on no-meat days when you still want aroma and fullness.

@@ -25,10 +25,10 @@ tags:
 intro: Cook fish balls and noodles first; water dropwort last for balanced crunch and broth.
 steps:
 - water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Bring Water 700ml to a boil, then add longer-cooking items first.
-- Boil water; add fish balls until they float.
 - Add noodles; cook to chewy per package.
 - Water dropwort 1 minute; salt and white pepper.
+- Chop scallion; scatter before serving.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Ginger slices or a little soy deepens the broth.
 storage: Eat fresh; noodles swell overnight.
@@ -73,10 +73,6 @@ seasonings:
 - name: White pepper
   amount: pinch
   unit: ""
----
-
----
----
 ---
 
 Late-night or quick dinner with greens and starch together.

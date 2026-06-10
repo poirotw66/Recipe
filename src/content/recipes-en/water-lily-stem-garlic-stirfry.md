@@ -29,7 +29,7 @@ steps:
 - Hot oil; garlic until light gold.
 - Water dropwort over high 1–2 minutes; keep crisp.
 - Salt; toss and serve.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - A very hot wok keeps greens from steaming in their own water.
 storage: Same meal; reheat over high 30 seconds.
@@ -60,10 +60,6 @@ seasonings:
 - name: Salt
   amount: "1/4"
   unit: tsp
----
-
----
----
 ---
 
 Classic Taiwanese side—crisp and clean with rice.

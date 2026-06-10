@@ -27,7 +27,7 @@ steps:
 - Hot oil; garlic until fragrant; water dropwort over high 1 minute.
 - Stir oyster sauce, soy sauce, and sugar in a bowl; pour down the side of the pan.
 - Toss 30 seconds until glazed; serve.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Oyster sauce is salty—reduce soy if needed.
 storage: Refrigerate 1 day; quick reheat with a little oil.
@@ -64,10 +64,6 @@ seasonings:
 - name: Olive oil
   amount: "1"
   unit: tbsp
----
-
----
----
 ---
 
 Restaurant-style plate—watch the heat at home.

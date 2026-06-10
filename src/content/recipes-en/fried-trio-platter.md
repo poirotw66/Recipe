@@ -69,7 +69,4 @@ publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
 ---
 
----
----
-
 The fried trio platter is for gatherings when you want several textures at once.

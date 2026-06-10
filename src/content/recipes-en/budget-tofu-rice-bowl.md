@@ -66,8 +66,4 @@ publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
 ---
 
----
----
----
-
 One of the most economical dinners for students and tight budgets.

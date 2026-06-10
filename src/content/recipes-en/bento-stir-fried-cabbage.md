@@ -52,7 +52,7 @@ steps:
 - Heat oil over medium-high; sizzle garlic until fragrant.
 - Add cabbage and stir-fry 2 minutes.
 - Splash in water, cover 1 minute, then uncover and stir-fry until tender-crisp.
-- Taste and adjust seasoning; serve immediately while hot.
+- Season with salt, cool, and pack.
 storage: Refrigerate up to 2 days; microwave about 40 seconds.
 faqs:
 - question: Can I use bok choy instead?
@@ -60,10 +60,6 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
----
-
----
----
 ---
 
 Stir-fried cabbage is the classic bento side that rarely goes wrong.

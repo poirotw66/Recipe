@@ -58,8 +58,6 @@ steps:
 - Add noodles and reserved water; toss on medium-high about 1 minute.
 - Push noodles aside and fry the egg sunny-side or soft in the same pan if you like.
 - Season with salt and pepper; add a small knob of butter off heat.
-- Use medium heat unless noted; stir or flip occasionally for even cooking.
-- Check doneness (no pink juices in poultry, fish flakes easily), then adjust salt.
 storage: Best eaten immediately.
 faqs:
 - question: No butter?
@@ -67,10 +65,6 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-06-09"
----
-
----
----
 ---
 
 Butter garlic instant noodles are a renter-kitchen rescue when you want comfort fast.

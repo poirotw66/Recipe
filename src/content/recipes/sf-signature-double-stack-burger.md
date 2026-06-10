@@ -1,7 +1,7 @@
 ---
 title: 實打實招牌漢堡
 description: 參考貳樓 Second Floor Cafe 常見做法，以 牛肉排、炸魚、培根、巴薩米克醬、薯塊 還原 實打實招牌漢堡 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-signature-double-stack-burger.webp
+coverImage: /images/recipes/sf-signature-double-stack-burger.svg
 servings: 1
 prepTime: 18
 cookTime: 15

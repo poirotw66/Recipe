@@ -28,7 +28,7 @@ steps:
 - Hot oil; mushrooms until they start to release moisture.
 - Water dropwort and garlic over high 1 minute.
 - Salt and white pepper; serve.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - King oyster or shimeji mushrooms work well.
 storage: Refrigerate 1 day; microwave softens texture.
@@ -67,10 +67,6 @@ seasonings:
 - name: Olive oil
   amount: "1"
   unit: tbsp
----
-
----
----
 ---
 
 Light layers of vegetable without heavy oil.

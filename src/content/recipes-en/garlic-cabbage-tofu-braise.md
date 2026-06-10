@@ -43,11 +43,11 @@ tags:
 - Tofu home cooking
 intro: Simmering is forgiving; tofu soaks up cabbage sweetness and eats well on its own.
 steps:
+- "Prep: Cabbage 220g, Tofu 1block, Garlic 3cloves; mix Soy sauce 1.5tsp, Salt pinch in a small bowl if using."
+- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Cut cabbage into chunks; slice garlic; cut tofu into large cubes.
 - Warm a little oil over medium; sauté garlic until fragrant, add cabbage and stir 2 minutes.
 - Add tofu and about 250 ml water; simmer on low 8 minutes; finish with soy sauce and salt.
-- Plate with rice or noodles while hot; let rest 1 minute before serving.
-- Prep ingredients as listed; keep proteins, vegetables, and sauces in separate bowls.
 tips:
 - Pan-fry tofu first for a firmer bite.
 storage: Refrigerate up to 1 day; reheat gently so tofu does not break.
@@ -71,9 +71,6 @@ customAdditions:
 - Shiitake mushrooms
 ---
 
----
----
----
 ---
 
 When you want vegetables and protein in one pot, this braise is a steady pick.

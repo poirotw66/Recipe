@@ -2,7 +2,7 @@
 title: American Cheesecake
 recipeId: sf-american-cheesecake
 description: "Second Floor Cafe-inspired desserts with restaurant-style portions and Oreo 餅底起司蛋糕."
-coverImage: /images/recipes/sf-american-cheesecake.webp
+coverImage: /images/recipes/sf-american-cheesecake.svg
 servings: 2
 prepTime: 20
 cookTime: 28
@@ -61,9 +61,6 @@ seasonings:
 - name: 細砂糖
   amount: "2"
   unit: 大匙
----
-
----
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

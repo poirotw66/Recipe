@@ -30,7 +30,7 @@ steps:
 - Rice wine down the side; high heat about 30 seconds until aroma lifts and greens stay crisp.
 - Push greens aside; pour eggs; when edges set, push into soft curds.
 - Combine; salt and white pepper.
-- Use medium heat unless noted; stir or flip occasionally for even cooking.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - High heat cooks off wine so greens do not stew.
 storage: Same day best; reheat over high quickly.
@@ -72,10 +72,6 @@ seasonings:
 - name: White pepper
   amount: pinch
   unit: ""
----
-
----
----
 ---
 
 Crisp greens and egg in a fast homestyle wok.

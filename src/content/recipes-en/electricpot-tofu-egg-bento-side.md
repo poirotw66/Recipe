@@ -44,9 +44,9 @@ tags:
 intro: Crumbled tofu baked into eggs yields a texture between steamed egg and scramble—great in a box.
 steps:
 - "Prep: Tofu 0.75block, Eggs 2, Scallion 1stalk; rinse rice if using and chop vegetables."
-- "\"Prep: Tofu 0.75block, Eggs 2, Scallion 1stalk; rinse rice if using and chop vegetables.\""
 - Crumble tofu; beat eggs with a pinch of salt and 1 tsp water until foamy; chop scallions.
 - Mix tofu, eggs, soy sauce, and salt in a heatproof bowl.
+- Steam with 0.8 cup water in the outer pot until set; top with scallions.
 tips:
 - Strain the egg mixture for silkier texture if you like.
 storage: Refrigerate up to 1 day.
@@ -68,10 +68,6 @@ customAdditions:
 - Diced ham
 - Shredded cheese
 - Chopped scallions
----
-
----
----
 ---
 
 Rice cooker tofu egg is easy to shop for and repeats well on busy nights.

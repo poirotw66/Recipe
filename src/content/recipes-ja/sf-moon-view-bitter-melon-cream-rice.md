@@ -2,7 +2,7 @@
 title: 月見苦瓜奶油飯 再現レシピ
 recipeId: sf-moon-view-bitter-melon-cream-rice
 description: Second Floor Cafe 風に 鹹蛋、山苦瓜、蕈菇、生蛋、起司 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-moon-view-bitter-melon-cream-rice.webp
+coverImage: /images/recipes/sf-moon-view-bitter-melon-cream-rice.svg
 servings: 1
 prepTime: 18
 cookTime: 18
@@ -94,9 +94,6 @@ seasonings:
 - name: 辣椒碎
   amount: "1/2"
   unit: 小匙
----
-
----
 ---
 
 この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。

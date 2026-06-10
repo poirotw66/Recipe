@@ -2,7 +2,7 @@
 title: Signature Double Stack Burger
 recipeId: sf-signature-double-stack-burger
 description: "Second Floor Cafe-inspired handheld mains with restaurant-style portions and 牛肉排、炸魚、培根、巴薩米克醬、薯塊."
-coverImage: /images/recipes/sf-signature-double-stack-burger.webp
+coverImage: /images/recipes/sf-signature-double-stack-burger.svg
 servings: 1
 prepTime: 18
 cookTime: 15
@@ -87,9 +87,6 @@ seasonings:
 - name: 巴薩米克醬
   amount: "適量"
   unit: ""
----
-
----
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
