@@ -66,8 +66,8 @@ function expandWaterLilyGeneric(ctx) {
   const stemLabel = stem ? formatAmount(stem) : "水蓮";
   return [
     `${stemLabel} 洗淨切段，其餘配料依食譜備齊並分裝。`,
-    ...ctx.steps.slice(0, -1).map((step) => enrichStep(step, ctx)),
-    enrichStep(ctx.steps.at(-1) ?? "起鍋裝盤即可。", ctx)
+    ...ctx.steps.slice(0, -1).map((step, idx) => enrichStep(step, ctx, idx + 1)),
+    enrichStep(ctx.steps.at(-1) ?? "起鍋裝盤即可。", ctx, ctx.steps.length)
   ];
 }
 
@@ -75,10 +75,10 @@ function expandAirFryer(ctx) {
   const protein = ctx.ingredients.find((item) => /魚|雞|豬|牛|蝦|豆腐/.test(item.name));
   const veg = ctx.ingredients.find((item) => /菜|花|菇|瓜|椒/.test(item.name));
   const lines = [
-    `備料：${ctx.ingredients.map((item) => formatAmount(item)).join("、")}；${protein ? formatAmount(protein) : "主食材"} 擦乾，${ctx.seasonings.length ? `以 ${seasoningBrief(ctx.seasonings)} 抹勻` : "以鹽與胡椒調味"}。`
+    `將${ctx.ingredients.map((item) => item.name).join("、")}準備齊全；${protein ? protein.name : "主食材"}用廚房紙巾擦乾表面水分，${ctx.seasonings.length ? `以 ${seasoningBrief(ctx.seasonings)} 均勻抹在表面醃製` : "以鹽與黑胡椒均勻調味"}。`
   ];
-  for (const step of ctx.steps) {
-    lines.push(enrichStep(step, ctx));
+  for (const [idx, step] of ctx.steps.entries()) {
+    lines.push(enrichStep(step, ctx, idx + 1));
   }
   if (veg && !lines.join("").includes(veg.name)) {
     lines.push(`${veg.name} 切小朵，與主食材分次入炸鍋，避免一次堆疊影響受熱。`);
@@ -88,10 +88,10 @@ function expandAirFryer(ctx) {
 
 function expandElectricPot(ctx) {
   const lines = [
-    `備料：${ctx.ingredients.map((item) => formatAmount(item)).join("、")}；米若需先洗淨瀝乾，蔬菜切好備用。`
+    `將${ctx.ingredients.map((item) => item.name).join("、")}等食材洗淨；米洗淨並充分瀝乾水分，蔬菜切好備用。`
   ];
-  for (const step of ctx.steps) {
-    lines.push(enrichStep(step, ctx));
+  for (const [idx, step] of ctx.steps.entries()) {
+    lines.push(enrichStep(step, ctx, idx + 1));
   }
   return dedupeSteps(lines).slice(0, 6);
 }
@@ -100,21 +100,21 @@ function expandSoup(ctx) {
   const water = ctx.seasonings.find((item) => item.name === "水") ?? ctx.ingredients.find((item) => item.name === "水");
   const waterNote = water ? `（${formatAmount(water)}）` : "（依鍋大小加足量清水）";
   const lines = [
-    `備料：${ctx.ingredients.map((item) => formatAmount(item)).join("、")}；${ctx.seasonings.filter((item) => item.name !== "水").map((item) => formatAmount(item)).join("、")} 分開備好。`
+    `將${ctx.ingredients.map((item) => item.name).join("、")}等食材清洗乾淨並切成適當大小；將${ctx.seasonings.filter((item) => item.name !== "水").map((item) => item.name).join("、")}分開準備妥當。`
   ];
   if (water || ctx.steps.some((step) => /加水|倒入水/.test(step))) {
     lines.push(`湯鍋加入${waterNote}煮滾，再依序下較耐煮的食材。`);
   }
-  for (const step of ctx.steps) {
-    lines.push(enrichStep(step, ctx));
+  for (const [idx, step] of ctx.steps.entries()) {
+    lines.push(enrichStep(step, ctx, idx + 1));
   }
   return dedupeSteps(lines).slice(0, 6);
 }
 
 function expandFriedRice(ctx) {
   return [
-    `備料：${ctx.ingredients.map((item) => formatAmount(item)).join("、")}；白飯若冷藏請先撥散，蛋打散加少許鹽。`,
-    ...ctx.steps.map((step) => enrichStep(step, ctx))
+    `準備好${ctx.ingredients.map((item) => item.name).join("、")}等食材；冷藏白飯先用手輕輕撥散，雞蛋打散並加入少許鹽拌勻。`,
+    ...ctx.steps.map((step, idx) => enrichStep(step, ctx, idx + 1))
   ];
 }
 
@@ -129,7 +129,7 @@ export function expandRiceBowl(ctx) {
     .join("、");
   const proteinName = protein?.name ?? "主食材";
   return [
-    `備料：${ctx.ingredients.map((item) => formatAmount(item)).join("、")}；${proteinName} 切約 1.5 公分小丁，${rice ? formatAmount(rice) : "白飯"} 先分裝碗備用。`,
+    `將${ctx.ingredients.map((item) => item.name).join("、")}準備妥當；${proteinName}切成約 1.5 公分大小的丁狀，${rice ? rice.name : "白飯"}先分裝入碗中備用。`,
     `${proteinName} 以 ${marinade || "醬油與鹽"} 抓醃 10 分鐘；${veg ? `${veg.name} 切細丁備用。` : "配菜切好備用。"}`,
     `平底鍋中火下 1 大匙油，${veg ? `先下${veg.name} 拌炒 2 分鐘至微軟；` : ""}再下${proteinName} 攤平煎香，翻炒至表面全白、中心熟透。`,
     `關火試味，可依喜好補少許醬油；與白飯分裝成便當，放涼再蓋上蓋避免飯粒潮軟。`
@@ -138,9 +138,8 @@ export function expandRiceBowl(ctx) {
 
 function expandPasta(ctx) {
   return [
-    `湯鍋煮滾鹽水，義大利麵依包裝時間煮至 al dente，瀝乾保留 1/2 杯煮麵水。`,
-    `備料：${ctx.ingredients.map((item) => formatAmount(item)).join("、")}。`,
-    ...ctx.steps.map((step) => enrichStep(step, ctx))
+    `將${ctx.ingredients.map((item) => item.name).join("、")}清洗乾淨、切成適當大小備用。`,
+    ...ctx.steps.map((step, idx) => enrichStep(step, ctx, idx + 1))
   ];
 }
 
@@ -159,7 +158,7 @@ function expandStirFry(ctx) {
     return expanded;
   }
   return [
-    `備料：${ctx.ingredients.map((item) => formatAmount(item)).join("、")} 切好分裝；${seasoningBrief(ctx.seasonings)} 可先混成小碗醬汁。`,
+    `將${ctx.ingredients.map((item) => item.name).join("、")}清洗乾淨後切好分裝；將${seasoningBrief(ctx.seasonings)}事先在小碗中混合均勻調成醬汁。`,
     "平底鍋中火下 1 大匙油，確認油熱後再下食材，避免冷鍋冷油造成出水。",
     ...expanded
   ];
@@ -174,28 +173,52 @@ function enrichStep(step, ctx, index = 0, options = {}) {
   let text = step.trim();
   if (text.length >= 72) return text;
 
-  const mentionsProtein = /雞胸|雞肉|豬|牛|蝦/.test(text);
-  const hasDoneness = /全白|熟透|變色|無血水|全熟/.test(text);
+  const mentionsProtein = /雞胸|雞肉|豬|牛|蝦|魚|肉片|肉絲|絞肉|蝦仁|干貝|透抽/i.test(text);
+  const hasDoneness = /全白|熟透|變色|無血水|全熟|熟/.test(text);
+  const isPrepOrFinish = /備料|醃|切|洗|拌|裝|盛|提味|食用|隔夜|搭配|冷藏/i.test(text);
 
   if (text.includes("炒") && !/中火|大火|小火/.test(text)) {
     text = text.replace("炒", "中火炒");
   }
 
-  if (mentionsProtein && !hasDoneness && /炒熟|煎熟|炒至/.test(text)) {
-    text = text.replace(/。?$/, "，確認中心全熟、無血水。");
-  } else if (mentionsProtein && !hasDoneness && text.length < 55) {
-    text += "，炒至表面全熟即可。";
+  // Determine the appropriate cooking verb based on equipment, title, or slug.
+  let actionVerb = "炒";
+  if (ctx.equipment.some((e) => /氣炸/i.test(e)) || /air-fryer|airfryer/.test(ctx.slug)) {
+    actionVerb = "氣炸";
+  } else if (ctx.equipment.some((e) => /電鍋|蒸/i.test(e)) || /electricpot/.test(ctx.slug)) {
+    actionVerb = "蒸";
+  } else if (/湯|羹|粥/.test(ctx.title) || ctx.category.includes("湯")) {
+    actionVerb = "煮";
+  } else if (ctx.equipment.some((e) => /烤箱|烤/i.test(e))) {
+    actionVerb = "烤";
   }
 
-  if (
-    index === 0 &&
-    text.length < 40 &&
-    ctx.ingredients.length > 0 &&
-    !text.includes("備料") &&
-    !options.skipPrepPrefix
-  ) {
-    text = `備料：${text}`;
+  // Adjust verb based on specific words in the step text itself.
+  if (text.includes("煎")) {
+    actionVerb = "煎";
+  } else if (text.includes("烤")) {
+    actionVerb = "烤";
+  } else if (text.includes("蒸")) {
+    actionVerb = "蒸";
+  } else if (text.includes("煮")) {
+    actionVerb = "煮";
+  } else if (text.includes("炸") && !text.includes("氣炸")) {
+    actionVerb = "炸";
   }
+
+  if (mentionsProtein && !hasDoneness && !isPrepOrFinish) {
+    if (/炒熟|煎熟|煮熟|烤熟|蒸熟|炸熟|氣炸熟|炒至|煎至|煮至|烤至|蒸至|氣炸至/i.test(text)) {
+      text = text.replace(/。?$/, "，確認中心全熟、無血水。");
+    } else if (text.length < 55) {
+      // Only append if it's a cooking action step
+      const isCookingAction = /煎|炒|烤|蒸|炸|煮|下鍋|放入|入鍋|熱鍋/i.test(text);
+      if (isCookingAction) {
+        text += `，${actionVerb}至熟透即可。`;
+      }
+    }
+  }
+
+  // Removing mechanical Prep prefix addition for index === 0.
 
   if (text.includes("電鍋") && !/水量|米/.test(text) && ctx.ingredients.some((item) => item.name.includes("米"))) {
     text += "（水量約比平常少 1/4，因蔬菜會出水）。";

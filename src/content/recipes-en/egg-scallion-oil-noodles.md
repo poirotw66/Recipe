@@ -60,6 +60,7 @@ steps:
 - Skillet with oil; fry egg on low until whites set and yolk still soft.
 - Plate noodles; top with egg; scatter remaining scallions.
 - Break yolk into noodles when you eat for best flavor.
+- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; egg and noodles decline overnight.
 faqs:
 - question: Can I use two eggs?

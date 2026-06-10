@@ -56,6 +56,7 @@ steps:
 - Dice chicken; season with salt and pepper. Cook pasta until al dente; reserve ½ cup pasta water.
 - Melt butter; pan-fry chicken until golden. Add minced garlic and stir until fragrant.
 - Pour in milk and grated cheese; simmer gently and stir until slightly thickened.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Keep heat low throughout so milk doesn’t split.
 storage: Eat within 1 day refrigerated; add a splash of milk when reheating.

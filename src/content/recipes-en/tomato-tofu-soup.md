@@ -49,9 +49,10 @@ tags:
 intro: Tomato tofu soup suits a lighter dinner or using up tomatoes that need to go.
 steps:
 - "Prep: Tomato 2, Tofu 1box, Scallions 1stalk, Water 600ml; seasonings ready: Salt 1/3tsp, Sesame oil pinch."
-- "Prep: Tomato 2, Tofu 1box, Scallions 1stalk, Water 600ml; seasonings ready: Salt 1/3tsp, Sesame oil pinch."
 - Cut the tomatoes into chunks, dice the tofu, and chop scallions.
 - Bring about 600 ml water to a boil, add tomatoes, and simmer until they break down and the broth turns red.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Sauté tomatoes briefly before adding water for a deeper flavor.
 storage: Refrigerate up to 2 days; reheat gently and avoid rough stirring so tofu stays intact.

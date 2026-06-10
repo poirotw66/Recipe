@@ -62,9 +62,11 @@ seasonings:
 intro: Leftover rice makes fast congee; add tofu and egg at the end so they stay tender.
 steps:
 - "Prep: Cooked white rice 1bowl, Tofu 100g, Egg 1; seasonings ready: Water 700ml, Scallion 1stalk, Salt pinch, White pepper pinch."
-- "Prep: Cooked white rice 1bowl, Tofu 100g, Egg 1; seasonings ready: Water 700ml, Scallion 1stalk, Salt pinch, White pepper pinch."
 - Dice tofu; chop scallion; beat egg.
 - Combine rice and water in a pot; bring to a boil, then simmer.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 storage: Refrigerate 1 day; thin with water and stir over low heat when reheating.
 faqs:
 - question: How do I make it richer?

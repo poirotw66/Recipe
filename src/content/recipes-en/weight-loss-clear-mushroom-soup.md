@@ -49,9 +49,11 @@ seasonings:
 intro: Mushrooms bring umami—light seasoning; sip alongside a main or as a mini meal.
 steps:
 - "Prep: Mushrooms 200g; seasonings ready: Water 700ml, Salt pinch, White pepper pinch, Scallion 1stalk."
-- "Prep: Mushrooms 200g; seasonings ready: Water 700ml, Salt pinch, White pepper pinch, Scallion 1stalk."
 - Wipe mushrooms clean; halve large ones; chop scallion.
 - Boil water; add mushrooms.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 storage: Refrigerate 2 days; do not boil hard on reheat.
 faqs:
 - question: Only one mushroom type?

@@ -48,9 +48,10 @@ tags:
 intro: Sauté onion before simmering for depth without heavy seasoning.
 steps:
 - "Prep: Cabbage 180g, Mushrooms 120g, Onion 0.25, Water 700ml; seasonings ready: Salt pinch, Garlic 1clove."
-- "Prep: Cabbage 180g, Mushrooms 120g, Onion 0.25, Water 700ml; seasonings ready: Salt pinch, Garlic 1clove."
 - Slice cabbage and mushrooms; shred onion; slice garlic.
 - In the pot with a little oil, cook onion and garlic, then add cabbage and mushrooms.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Simmer 2 minutes longer for a slightly richer broth.
 storage: Refrigerate up to 1 day.

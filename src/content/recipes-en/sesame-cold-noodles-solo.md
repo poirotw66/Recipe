@@ -61,6 +61,7 @@ steps:
 - Boil noodles in a pot per package time; drain and rinse in ice water.
 - Toss noodles with sauce well; if thick, add 1 tbsp noodle cooking water.
 - Plate and top with cucumber; white sesame optional.
+- Taste and adjust seasoning; serve while hot.
 storage: Eat right after tossing; sauce and noodles separate up to 1 day refrigerated.
 faqs:
 - question: Can I skip garlic?

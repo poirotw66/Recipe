@@ -64,9 +64,11 @@ seasonings:
 intro: There is no fixed recipe—sweat onion for base flavor, then simmer harder vegetables.
 steps:
 - "Prep: Carrot 1/2, Onion 1/4, Cabbage 100g, Tomato 1; seasonings ready: Water 800ml, Salt pinch, Black pepper pinch, Olive oil 1tsp."
-- "Prep: Carrot 1/2, Onion 1/4, Cabbage 100g, Tomato 1; seasonings ready: Water 800ml, Salt pinch, Black pepper pinch, Olive oil 1tsp."
 - Wash and chunk carrot, onion, cabbage, and tomato; score and blanch tomato to peel if you like.
 - Heat olive oil; cook onion until translucent, add carrot and cabbage and stir 2 minutes.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 storage: Refrigerate up to 2 days; freeze up to 1 week; do not boil hard when reheating.
 featured: false
 publishedAt: '2026-06-03'

@@ -28,62 +28,62 @@ const WATER_LILY_STEPS = {
 
 const T = {
   en: {
-    prepAll: (items) => `Prep: ${items}.`,
+    prepAll: (items) => `Get ${items} ready.`,
     riceBowl: (ingList, protein, rice, marinade, veg, proteinName) => [
-      `Prep: ${ingList}; dice ${proteinName} about ½ inch, divide ${rice} into serving bowls.`,
+      `Get ${ingList} ready; dice ${proteinName} about ½ inch, divide ${rice} into serving bowls.`,
       `Marinate ${proteinName} with ${marinade} for 10 minutes; ${veg ? `dice ${veg} finely.` : "prep vegetables as needed."}`,
       `Heat 1 Tbsp oil in a skillet over medium heat. ${veg ? `Stir-fry ${veg} 2 minutes until slightly tender; ` : ""}Add ${proteinName}, sear and stir-fry until opaque and cooked through.`,
       `Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.`
     ],
     stirFryPrep: (items, sauce) =>
-      `Prep: ${items}; mix ${sauce} in a small bowl if using.`,
+      `Get ${items} ready; mix ${sauce} in a small bowl if using.`,
     stirFryHeat: "Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.",
-    soupPrep: (items, seasonings) => `Prep: ${items}; seasonings ready: ${seasonings}.`,
+    soupPrep: (items, seasonings) => `Clean and prepare ${items}; seasonings ready: ${seasonings}.`,
     soupBoil: (waterNote) => `Bring ${waterNote} to a boil, then add longer-cooking items first.`,
     airFryPrep: (items, protein, seasonings) =>
-      `Prep: ${items}; pat ${protein} dry and rub with ${seasonings}.`,
-    electricPrep: (items) => `Prep: ${items}; rinse rice if using and chop vegetables.`,
+      `Prepare ${items}; pat ${protein} dry and rub with ${seasonings}.`,
+    electricPrep: (items) => `Clean and prepare ${items}; rinse rice if using and chop vegetables.`,
     pastaBoil:
       "Boil salted water; cook pasta until al dente, drain and reserve ½ cup pasta water.",
-    friedRicePrep: (items) => `Prep: ${items}; fluff cold rice and beat eggs with a pinch of salt.`,
+    friedRicePrep: (items) => `Prepare ${items}; fluff cold rice and beat eggs with a pinch of salt.`,
     waterLilyGeneric: (stemLabel) => `${stemLabel} rinsed and cut; other ingredients prepped in separate bowls.`
   },
   ja: {
-    prepAll: (items) => `下準備：${items}。`,
+    prepAll: (items) => `${items}を用意する。`,
     riceBowl: (ingList, protein, rice, marinade, veg, proteinName) => [
-      `下準備：${ingList}。${proteinName}は1.5cm角に切り、${rice}は丼に分けておく。`,
+      `${ingList}を用意し、${proteinName}は1.5cm角に切り、${rice}は丼に分けておく。`,
       `${proteinName}を${marinade}で10分ほどもみ込む。${veg ? `${veg}は細かく切る。` : "野菜を切っておく。"}`,
       `フライパンに油大さじ1を中火で熱し、${veg ? `${veg}を2分炒めてから` : ""}${proteinName}を炒め、中心まで火を通す。`,
       `味を見て盛り付け、ご飯と一緒に弁当に詰める。蓋を閉める前に少し冷ますと米がべたつきにくい。`
     ],
-    stirFryPrep: (items, sauce) => `下準備：${items}。${sauce}は小鉢に混ぜておく。`,
+    stirFryPrep: (items, sauce) => `${items}を用意し、${sauce}は小鉢に混ぜておく。`,
     stirFryHeat: "フライパンに油大さじ1を中火で熱してから具材を入れる。",
-    soupPrep: (items, seasonings) => `下準備：${items}。調味料：${seasonings}。`,
+    soupPrep: (items, seasonings) => `${items}を用意し、調味料（${seasonings}）を準備する。`,
     soupBoil: (waterNote) => `${waterNote}を沸かし、煮えにくい材料から入れる。`,
     airFryPrep: (items, protein, seasonings) =>
-      `下準備：${items}。${protein}の水気を拭き、${seasonings}を揉み込む。`,
-    electricPrep: (items) => `下準備：${items}。米は洗っておき、野菜を切る。`,
+      `${items}を用意し、${protein}の水気を拭き、${seasonings}を揉み込む。`,
+    electricPrep: (items) => `${items}を用意し、米は洗っておき、野菜を切る。`,
     pastaBoil: "湯沸かしで塩を入れ、パスタをアルデンテに茹で、茹で汁を少し取っておく。",
-    friedRicePrep: (items) => `下準備：${items}。ご飯はほぐし、卵は塩少々で溶く。`,
+    friedRicePrep: (items) => `${items}を用意し、ご飯はほぐし、卵は塩少々で溶く。`,
     waterLilyGeneric: (stemLabel) => `${stemLabel}を洗って切り、他の材料も用意する。`
   },
   ko: {
-    prepAll: (items) => `준비: ${items}.`,
+    prepAll: (items) => `${items}을(를) 준비한다.`,
     riceBowl: (ingList, protein, rice, marinade, veg, proteinName) => [
-      `준비: ${ingList}. ${proteinName}는 1.5cm 정도로 썰고, ${rice}는 그릇에 나눠 둔다.`,
+      `${ingList}을(를) 준비하고, ${proteinName}는 1.5cm 정도로 썰며, ${rice}는 그릇에 나눠 둔다.`,
       `${proteinName}에 ${marinade}를 10분 재운다. ${veg ? `${veg}는 잘게 썬다.` : "채소를 손질한다."}`,
       `팬에 기름 1큰술을 중불로 달군 뒤, ${veg ? `${veg}를 2분 볶고 ` : ""}${proteinName}를 익을 때까지 볶는다.`,
       `간을 맞춰 밥과 함께 도시락에 담는다. 뚜껑을 닫기 전 잠시 식히면 밥이 덜 눅눅해진다.`
     ],
-    stirFryPrep: (items, sauce) => `준비: ${items}. ${sauce}는 작은 그릇에 섞어 둔다.`,
+    stirFryPrep: (items, sauce) => `${items}을(를) 준비하고, ${sauce}는 작은 그릇에 섞어 둔다.`,
     stirFryHeat: "팬에 기름 1큰술을 중불로 달군 다음 재료를 넣는다.",
-    soupPrep: (items, seasonings) => `준비: ${items}. 양념: ${seasonings}.`,
+    soupPrep: (items, seasonings) => `${items}을(りを) 준비하고, 양념(${seasonings})을 마련한다.`,
     soupBoil: (waterNote) => `${waterNote}를 끓인 뒤 익는 데 시간이 걸리는 재료부터 넣는다.`,
     airFryPrep: (items, protein, seasonings) =>
-      `준비: ${items}. ${protein} 물기를 제거하고 ${seasonings}를 바른다.`,
-    electricPrep: (items) => `준비: ${items}. 쌀은 씻고 채소를 썬다.`,
+      `${items}을(를) 준비하고, ${protein} 물기를 제거하고 ${seasonings}를 바른다.`,
+    electricPrep: (items) => `${items}을(를) 준비하고, 쌀은 씻고 채소를 썬다.`,
     pastaBoil: "소금물을 끓여 파스타를 알덴테로 삶고, 삶은 물을 조금 남긴다.",
-    friedRicePrep: (items) => `준비: ${items}. 밥은 풀고 달걀은 소금을 조금 넣어 푼다.`,
+    friedRicePrep: (items) => `${items}을(를) 준비하고, 밥은 풀고 달걀은 소금을 조금 넣어 푼다.`,
     waterLilyGeneric: (stemLabel) => `${stemLabel}를 씻어 자르고 다른 재료도 준비한다.`
   }
 };

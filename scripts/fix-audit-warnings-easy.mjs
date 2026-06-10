@@ -171,11 +171,10 @@ function injectUnusedNames(steps, names) {
   const missing = names.filter((n) => !nameAppearsInText(text, n));
   if (!missing.length) return steps;
   const next = [...steps];
-  const clause = `另備 ${missing.join("、")}`;
-  if (next[0]?.startsWith("備料：")) {
-    next[0] = next[0].replace(/。?$/, `，${clause}。`);
+  if (next[0] && (next[0].startsWith("將") || next[0].startsWith("準備好"))) {
+    next[0] = next[0].replace(/。?$/, `，並將 ${missing.join("、")} 準備妥當。`);
   } else {
-    next.unshift(`備料：${clause} 依食譜分量備好。`);
+    next.unshift(`將 ${missing.join("、")} 等食材準備齊全備用。`);
   }
   return next;
 }

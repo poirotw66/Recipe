@@ -58,8 +58,8 @@ seasonings:
 intro: Cabbage is inexpensive and keeps well—soup noodles are one of the cheapest ways to use it.
 steps:
 - "Prep: Noodles 1serving, Cabbage 150g; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch."
-- "Prep: Noodles 1serving, Cabbage 150g; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch."
 - Wash cabbage and cut into chunks; chop scallions.
+- Taste and adjust seasoning; serve while hot.
 - Taste and adjust seasoning; serve while hot.
 - Taste and adjust seasoning; serve while hot.
 storage: Best fresh; noodles turn mushy overnight.

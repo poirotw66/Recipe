@@ -63,9 +63,11 @@ seasonings:
 intro: The point is a clean broth plus whatever vegetables are on hand—not a rigid recipe.
 steps:
 - "Prep: Noodles 1serving, Cabbage 60g, Egg 1; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch."
-- "Prep: Noodles 1serving, Cabbage 60g, Egg 1; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch."
 - Chop cabbage; slice scallions; beat egg.
 - Bring water and soy sauce to a boil; add noodles and cabbage.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; noodles turn mushy overnight.
 faqs:
 - question: Instant noodles instead?
