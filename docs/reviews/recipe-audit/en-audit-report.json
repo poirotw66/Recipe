@@ -1,0 +1,1752 @@
+{
+  "total": 231,
+  "passCount": 82,
+  "failCount": 149,
+  "missingCount": 0,
+  "failures": [
+    {
+      "slug": "air-fryer-butter-corn",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Corn on the cob 1ear; pat protein dry and rub with Butter 15g, Salt pinch, Black pepper pinch.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "air-fryer-crispy-tofu-cubes",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Firm tofu 1block, Scallion 1stalk; pat Firm tofu dry and rub with Cornstarch 2tbsp, Soy sauce 1tbsp, Olive oil 1tbsp, Salt pinch.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "air-fryer-garlic-mushrooms",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Mixed mushrooms 200g; pat protein dry and rub with Garlic 4cloves, Olive oil 1.5tbsp, Soy sauce 1tsp, Salt pinch, Black pepper pinch.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "air-fryer-garlic-okra",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Okra 150g; pat protein dry and rub with Garlic 3cloves, Olive oil 1tbsp, Salt pinch, Black pepper pinch.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "air-fryer-garlic-shrimp",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Shrimp 200g; pat Shrimp dry and rub with Garlic 4cloves, Olive oil 1tbsp, Soy sauce 1tsp, Lemon juice 1tsp, Salt pinch, Black pepper pinch.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "air-fryer-honey-sweet-potato",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Sweet potato 1piece; pat protein dry and rub with Honey 1tbsp, Olive oil 1tsp, Salt pinch.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "air-fryer-lemon-fish-fillet",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cod fillet 1piece, Broccoli 80g; pat protein dry and rub with Lemon juice 1.5tbsp, Olive oil 1tbsp, Garlic 1clove, Salt pinch, Black pepper pinch.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "air-fryer-salmon-broccoli",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Salmon 1fillet, Broccoli 1bowl, Garlic 1clove; pat Salmon dry and rub with Salt pinch, Olive oil 1tsp.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "air-fryer-soy-chicken-wings",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken wings 4pieces; pat Chicken wings dry and rub with Soy sauce 2tbsp, Rice wine 1tbsp, Garlic 3cloves, Ginger 3slices, Salt pinch, Black pepper pinch.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "airfryer-garlic-chicken-broccoli",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 260g, Broccoli 180g, Garlic 3cloves; pat Chicken breast dry and rub with Soy sauce 2tsp, Salt pinch.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "airfryer-tofu-mushroom-main",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Firm tofu 1block, Mushrooms 160g, Garlic 2cloves; pat Firm tofu dry and rub with Soy sauce 1.5tsp, Salt pinch.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "beef-broccoli-stirfry",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Beef 120g, Broccoli 200g; mix Garlic 2cloves, Soy sauce 1Tbsp, Oyster sauce 1tsp in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "beef-mushroom-stirfry",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Beef 120g, Mushrooms 100g; mix Olive oil 1.5tbsp, Soy sauce 1tbsp, Garlic 2cloves, Black pepper pinch in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "broccoli-mushroom-chicken-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 220g, Broccoli 140g, Cooked white rice 2bowls; dice Chicken breast about ½ inch, divide Cooked white rice 2bowls into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "broccoli-mushroom-egg",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Broccoli 1bowl, Mushrooms 1bowl, Eggs 2; mix Salt 1/4tsp, Black pepper pinch in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "broccoli-tofu-garlic-stirfry",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Broccoli 160g, Tofu 1block, Garlic 2cloves; mix Salt pinch, Soy sauce 1tsp in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "budget-cabbage-noodle-soup",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Noodles 1serving, Cabbage 150g; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch.\"",
+        "Step 3 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "budget-simple-egg-fried-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked white rice 1 bowl, eggs 2; fluff cold rice and beat eggs with a pinch of salt.\""
+      ]
+    },
+    {
+      "slug": "budget-tofu-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Firm tofu 1block; dice Firm tofu about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "cabbage-carrot-chicken-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 220g, Cabbage 180g, Cooked white rice 2bowls; dice Chicken breast about ½ inch, divide Cooked white rice 2bowls into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "cabbage-mushroom-clear-soup",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cabbage 180g, Mushrooms 120g, Onion 0.25, Water 700ml; seasonings ready: Salt pinch, Garlic 1clove.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "cabbage-mushroom-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: White rice 2cups, Cabbage 1/4head, Mushrooms 1bowl; rinse rice if using and chop vegetables.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "cajun-fries",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Potatoes 2; pat protein dry and rub with Olive oil 2Tbsp, Salt pinch, Black pepper pinch, Paprika 1tsp, Garlic powder 1/2tsp, Cayenne pepper 1/4tsp.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "canned-tuna-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Canned tuna 1can, Egg 1; dice protein about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "carrot-chicken-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 2pieces, Carrot 1/2, Cooked white rice 2bowls; dice Chicken breast about ½ inch, divide Cooked white rice 2bowls into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "chefs-daily-soup",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Carrot 1/2, Onion 1/4, Cabbage 100g, Tomato 1; seasonings ready: Water 800ml, Salt pinch, Black pepper pinch, Olive oil 1tsp.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "clearout-tofu-veggie-soup",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Tofu 1/2block, Cabbage 100g, Carrot 1/3; seasonings ready: Water 600ml, Salt pinch, White pepper pinch, Olive oil 1tsp.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "clearout-veggie-egg-fried-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked white rice 1bowl, Eggs 2, Scallion 1stalk; fluff cold rice and beat eggs with a pinch of salt.\""
+      ]
+    },
+    {
+      "slug": "curry-beef-rice",
+      "status": "Fail",
+      "issues": [
+        "ingredients count mismatch: ZH has 5, EN has 4"
+      ]
+    },
+    {
+      "slug": "egg-scallion-oil-noodles",
+      "status": "Fail",
+      "issues": [
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "electricpot-broccoli-chicken-bento",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 260g, Broccoli 180g, Carrot 80g; rinse rice if using and chop vegetables.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "electricpot-mushroom-chicken-bento",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 260g, Mushrooms 160g, Onion 0.25; rinse rice if using and chop vegetables.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "electricpot-tofu-egg-bento-side",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Tofu 0.75block, Eggs 2, Scallion 1stalk; rinse rice if using and chop vegetables.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "fridge-bottom-soup-noodles",
+      "status": "Fail",
+      "issues": [
+        "ingredients count mismatch: ZH has 4, EN has 3",
+        "Step 1 has Prep prefix: \"Prep: Noodles 1serving, Cabbage 60g, Egg 1; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "garlic-beef-cabbage-stirfry",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Beef 120g, Cabbage 200g, Garlic 3cloves; mix Soy sauce 1tbsp, Salt pinch in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "garlic-cabbage-tofu-braise",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cabbage 220g, Tofu 1block, Garlic 3cloves; mix Soy sauce 1.5tsp, Salt pinch in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "garlic-mushroom-chicken",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 2fillets, Mushrooms 1bowl, Garlic 2cloves; mix Soy sauce 1tbsp, Black pepper pinch in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "garlic-mushroom-tofu-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Tofu 0.5pack, Mushrooms 120g, Cooked white rice 1bowl; dice Tofu about ½ inch, divide Cooked white rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "garlic-tofu-chicken-pan-main",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 220g, Firm tofu 0.5block, Garlic 3cloves; mix Soy sauce 1.5tsp, Salt pinch in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "garlic-tomato-chicken-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 130g, Tomato 1, Cooked rice 1bowl; dice Chicken breast about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "honey-cajun-chicken-wings",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken wings 8pieces; pat Chicken wings dry and rub with Honey 2Tbsp, Soy sauce 1Tbsp, Paprika 1tsp, Garlic powder 1/2tsp, Chili powder 1/4tsp, Salt pinch, Black pepper pinch.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "instant-miso-egg-soup",
+      "status": "Fail",
+      "issues": [
+        "ingredients count mismatch: ZH has 3, EN has 2",
+        "Step 1 has Prep prefix: \"Prep: Tofu 100g, Egg 1; seasonings ready: Miso paste 1.5tbsp, Water 500ml, Scallion 1stalk.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "leftover-mixed-veggie-fried-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked white rice 1bowl, Carrot 1/3, Cabbage 80g, Egg 1; fluff cold rice and beat eggs with a pinch of salt.\""
+      ]
+    },
+    {
+      "slug": "microwave-steamed-egg-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked white rice 1bowl, Eggs 2; rinse rice if using and chop vegetables.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "mixed-leftover-congee",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked white rice 1bowl, Tofu 100g, Egg 1; seasonings ready: Water 700ml, Scallion 1stalk, Salt pinch, White pepper pinch.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "mushroom-beef-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "ingredients count mismatch: ZH has 4, EN has 3",
+        "Step 1 has Prep prefix: \"Prep: Cooked white rice 1bowl, Beef 100g, Mushrooms 80g; dice Beef about ½ inch, divide Cooked white rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "mushroom-cabbage-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Mushrooms 150g, Cabbage 180g, Cooked white rice 2bowls; dice protein about ½ inch, divide Cooked white rice 2bowls into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "onion-beef-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "ingredients count mismatch: ZH has 4, EN has 3",
+        "Step 1 has Prep prefix: \"Prep: Cooked white rice 1bowl, Beef 100g, Onion 1/2; dice Beef about ½ inch, divide Cooked white rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "onion-cabbage-mushroom-saute",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Onion 0.5, Cabbage 180g, Mushrooms 120g; mix Garlic 1clove, Salt pinch, Soy sauce 1tsp in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "onion-garlic-tofu-eggs",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Tofu 0.5pack, Eggs 2, Onion 0.5; mix Garlic 2cloves, Salt pinch, Soy sauce 1tsp in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "onion-salmon-pan-steak",
+      "status": "Fail",
+      "issues": [
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve immediately while hot.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "pesto-chicken-mushroom-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Spaghetti 80g, Chicken breast 100g, Mushrooms 80g, Scallions 2stalks, Garlic 2cloves.\""
+      ]
+    },
+    {
+      "slug": "quick-kimchi-fried-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Kimchi 80g, Egg 1; fluff cold rice and beat eggs with a pinch of salt.\""
+      ]
+    },
+    {
+      "slug": "quick-pickled-cucumber-egg-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked white rice 1bowl, Eggs 2; dice protein about ½ inch, divide Cooked white rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "roasted-lemon-salmon-brunch",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Salmon 150g, Broccoli 100g, Onion 1/4; pat Salmon dry and rub with Olive oil 2Tbsp, Lemon juice 1Tbsp, Salt pinch, Black pepper pinch, Garlic 1clove.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "salmon-broccoli-garlic-main",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Salmon 240g, Broccoli 150g, Garlic 2cloves; mix Soy sauce 1tsp, Salt pinch in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "scallion-chicken-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 130g, Scallions 2stalks, Cooked rice 1bowl; dice Chicken breast about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "sesame-cold-noodles-solo",
+      "status": "Fail",
+      "issues": [
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "sesame-onion-chicken-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 140g, Onion 0.5, Cooked rice 1bowl; dice Chicken breast about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "sf-acai-berry-yogurt-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 contains Chinese characters: \"Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 巴西莓 150公克, 綜合莓果 150公克, 香蕉 150公克, 穀物 80公克.\"",
+        "Step 3 contains Chinese characters: \"In a large bowl, toss greens with 2/3 of 橄欖油 1.5大匙, 海鹽 1/3小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.\"",
+        "Ingredient 1 name contains Chinese: \"巴西莓\"",
+        "Ingredient 2 name contains Chinese: \"綜合莓果\"",
+        "Ingredient 3 name contains Chinese: \"香蕉\"",
+        "Ingredient 4 name contains Chinese: \"穀物\"",
+        "Ingredient 5 name contains Chinese: \"堅果\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\""
+      ]
+    },
+    {
+      "slug": "sf-american-cheesecake",
+      "status": "Fail",
+      "issues": [
+        "Step 4 contains Chinese characters: \"Arrange on plates, add vanilla ice cream scoops or whipped cream, and drizzle with hot 無鹽奶油 30公克, 細砂糖 2大匙.\"",
+        "Ingredient 1 name contains Chinese: \"Oreo 餅底起司蛋糕\"",
+        "Seasoning 1 name contains Chinese: \"無鹽奶油\"",
+        "Seasoning 2 name contains Chinese: \"細砂糖\""
+      ]
+    },
+    {
+      "slug": "sf-asahi-cordon-bleu-pork-burger",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 藍帶豬排 220公克, 漢堡麵包 2份, 起司 40公克.\"",
+        "Step 1 contains Chinese characters: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 藍帶豬排 220公克, 漢堡麵包 2份, 起司 40公克.\"",
+        "Step 3 contains Chinese characters: \"Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.\"",
+        "Ingredient 1 name contains Chinese: \"藍帶豬排\"",
+        "Ingredient 2 name contains Chinese: \"漢堡麵包\"",
+        "Ingredient 3 name contains Chinese: \"起司\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-avocado-bacon-open-toast",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 酪梨 1顆, 培根 80公克, 水波蛋 2顆.\"",
+        "Step 1 contains Chinese characters: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 酪梨 1顆, 培根 80公克, 水波蛋 2顆.\"",
+        "Step 3 contains Chinese characters: \"Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 巴薩米克 適量 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.\"",
+        "Ingredient 1 name contains Chinese: \"歐包\"",
+        "Ingredient 2 name contains Chinese: \"酪梨\"",
+        "Ingredient 3 name contains Chinese: \"培根\"",
+        "Ingredient 4 name contains Chinese: \"水波蛋\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"巴薩米克\""
+      ]
+    },
+    {
+      "slug": "sf-avocado-local-sausage-danish-open",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: place orange French Danish pastry on baking sheet, bake at 350°F for 3–5 min until fragrant.\"",
+        "Step 2 contains Chinese characters: \"Heat oil in skillet; sear main protein (chicken, steak, seafood, or mushrooms from 丹麥麵包 2份, 酪梨 1顆, 香腸 140公克, 水波蛋 2顆) with salt and pepper.\"",
+        "Step 3 has Prep prefix: \"Prepare sunny-side or poached eggs; fry potato hash or wedges in skillet until golden brown.\"",
+        "Step 4 contains Chinese characters: \"Plate toast, proteins, eggs, and salad separately; drizzle 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒粉 1/2小匙 over the main components; serve immediately.\"",
+        "Ingredient 1 name contains Chinese: \"丹麥麵包\"",
+        "Ingredient 2 name contains Chinese: \"酪梨\"",
+        "Ingredient 3 name contains Chinese: \"香腸\"",
+        "Ingredient 4 name contains Chinese: \"水波蛋\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"辣椒粉\""
+      ]
+    },
+    {
+      "slug": "sf-avocado-smoked-salmon-open-toast",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 燻鮭 120公克, 酪梨 1顆, 水波蛋 2顆.\"",
+        "Step 1 contains Chinese characters: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 燻鮭 120公克, 酪梨 1顆, 水波蛋 2顆.\"",
+        "Step 3 contains Chinese characters: \"Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.\"",
+        "Ingredient 1 name contains Chinese: \"歐包\"",
+        "Ingredient 2 name contains Chinese: \"燻鮭\"",
+        "Ingredient 3 name contains Chinese: \"酪梨\"",
+        "Ingredient 4 name contains Chinese: \"水波蛋\"",
+        "Ingredient 5 name contains Chinese: \"酸豆\"",
+        "Ingredient 6 name contains Chinese: \"檸檬\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-baked-thick-cut-pork-cream-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 厚切豬排 220公克, 花椰菜 120公克, 培根 80公克, 起司 40公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 1 contains Chinese characters: \"Prep 厚切豬排 220公克, 花椰菜 120公克, 培根 80公克, 起司 40公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 曙光醬 適量, 鮮奶油 適量 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).\"",
+        "Ingredient 1 name contains Chinese: \"厚切豬排\"",
+        "Ingredient 2 name contains Chinese: \"花椰菜\"",
+        "Ingredient 3 name contains Chinese: \"培根\"",
+        "Ingredient 4 name contains Chinese: \"起司\"",
+        "Ingredient 5 name contains Chinese: \"奶油飯\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"曙光醬\"",
+        "Seasoning 5 name contains Chinese: \"鮮奶油\""
+      ]
+    },
+    {
+      "slug": "sf-balsamic-mushroom-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add 蕈菇 120公克, 生蛋 適量, 義大利麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 巴薩米克 適量, 松子 1/2小匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"蕈菇\"",
+        "Ingredient 2 name contains Chinese: \"生蛋\"",
+        "Ingredient 3 name contains Chinese: \"義大利麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"巴薩米克\"",
+        "Seasoning 5 name contains Chinese: \"松子\""
+      ]
+    },
+    {
+      "slug": "sf-bbq-roasted-half-chicken",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: clean and dry main meats (half chicken or pork knuckle), rub with sea salt, pepper, and spices; preheat oven to 400°F.\"",
+        "Step 3 contains Chinese characters: \"Brush generously with remaining 橄欖油 2大匙, 海鹽 1小匙, 黑胡椒碎 1/2小匙, BBQ 醬 2大匙 during the last 5 minutes of roasting; bake sides (corn, wedges) together.\"",
+        "Ingredient 1 name contains Chinese: \"半雞\"",
+        "Ingredient 2 name contains Chinese: \"烤玉米\"",
+        "Ingredient 3 name contains Chinese: \"薯條\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"BBQ 醬\""
+      ]
+    },
+    {
+      "slug": "sf-black-pepper-hamburg-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 漢堡排 180公克, 起司 40公克, 荷包蛋 2顆, 香米 220公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 1 contains Chinese characters: \"Prep 漢堡排 180公克, 起司 40公克, 荷包蛋 2顆, 香米 220公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 黑胡椒醬 適量, 辣椒碎 1/2小匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).\"",
+        "Ingredient 1 name contains Chinese: \"漢堡排\"",
+        "Ingredient 2 name contains Chinese: \"起司\"",
+        "Ingredient 3 name contains Chinese: \"荷包蛋\"",
+        "Ingredient 4 name contains Chinese: \"香米\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"黑胡椒醬\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-black-truffle-cordon-bleu-pork-open",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 藍帶豬排 220公克, 水波蛋 2顆.\"",
+        "Step 1 contains Chinese characters: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 藍帶豬排 220公克, 水波蛋 2顆.\"",
+        "Step 3 contains Chinese characters: \"Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 黑松露醬 3大匙, 松露醬 3大匙 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.\"",
+        "Ingredient 1 name contains Chinese: \"歐包\"",
+        "Ingredient 2 name contains Chinese: \"藍帶豬排\"",
+        "Ingredient 3 name contains Chinese: \"水波蛋\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"黑松露醬\"",
+        "Seasoning 5 name contains Chinese: \"松露醬\""
+      ]
+    },
+    {
+      "slug": "sf-bloody-mary-spicy-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 時蔬 100公克, 香米 220公克, 薑 適量; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 1 contains Chinese characters: \"Prep 時蔬 100公克, 香米 220公克, 薑 適量; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 番茄汁 2大匙, 奶油醬 適量 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).\"",
+        "Ingredient 1 name contains Chinese: \"時蔬\"",
+        "Ingredient 2 name contains Chinese: \"香米\"",
+        "Ingredient 3 name contains Chinese: \"薑\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"番茄汁\"",
+        "Seasoning 5 name contains Chinese: \"奶油醬\"",
+        "Seasoning 6 name contains Chinese: \"伏特加\"",
+        "Seasoning 7 name contains Chinese: \"辣醬\"",
+        "Seasoning 8 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-brownie-ice-cream",
+      "status": "Fail",
+      "issues": [
+        "Step 4 contains Chinese characters: \"Arrange on plates, add vanilla ice cream scoops or whipped cream, and drizzle with hot 無鹽奶油 30公克, 細砂糖 2大匙, 巧克力醬 1.5大匙.\"",
+        "Ingredient 1 name contains Chinese: \"布朗尼\"",
+        "Ingredient 2 name contains Chinese: \"香草冰淇淋\"",
+        "Seasoning 1 name contains Chinese: \"無鹽奶油\"",
+        "Seasoning 2 name contains Chinese: \"細砂糖\"",
+        "Seasoning 3 name contains Chinese: \"巧克力醬\""
+      ]
+    },
+    {
+      "slug": "sf-buffalo-chicken-wings",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 炸雞翅 8隻 (wings, calamari, or fish); pat dry, season with salt/pepper, and coat lightly in flour.\"",
+        "Step 1 contains Chinese characters: \"Prep 炸雞翅 8隻 (wings, calamari, or fish); pat dry, season with salt/pepper, and coat lightly in flour.\"",
+        "Step 3 contains Chinese characters: \"Warm 炸油 600毫升, 海鹽 1/2小匙, 水牛城醬 適量, 藍紋起司醬 2大匙, 辣椒碎 1/2小匙 in a small pan. If making wings, toss fried chicken in a large bowl with the hot sauce until coated.\"",
+        "Ingredient 1 name contains Chinese: \"炸雞翅\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"水牛城醬\"",
+        "Seasoning 4 name contains Chinese: \"藍紋起司醬\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-campfire-lemon-zucchini-fish-fillet",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: organize 魚菲力 180公克, 櫛瓜 適量, 檸香醬汁 適量 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙).\"",
+        "Step 1 contains Chinese characters: \"Prep: organize 魚菲力 180公克, 櫛瓜 適量, 檸香醬汁 適量 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙).\"",
+        "Step 4 contains Chinese characters: \"Drizzle signature sauces (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙) and arrange ingredients beautifully on a large plate for Campfire Lemon Zucchini Fish Fillet.\"",
+        "Ingredient 1 name contains Chinese: \"魚菲力\"",
+        "Ingredient 2 name contains Chinese: \"櫛瓜\"",
+        "Ingredient 3 name contains Chinese: \"檸香醬汁\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-cheesy-chicken-egg-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 雞肉 180公克, 花椰菜 120公克, 起司 40公克, 奶油飯 220公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 1 contains Chinese characters: \"Prep 雞肉 180公克, 花椰菜 120公克, 起司 40公克, 奶油飯 220公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 曙光醬 適量 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).\"",
+        "Ingredient 1 name contains Chinese: \"雞肉\"",
+        "Ingredient 2 name contains Chinese: \"花椰菜\"",
+        "Ingredient 3 name contains Chinese: \"起司\"",
+        "Ingredient 4 name contains Chinese: \"奶油飯\"",
+        "Ingredient 5 name contains Chinese: \"雞蛋\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"曙光醬\""
+      ]
+    },
+    {
+      "slug": "sf-cheesy-local-sausage-cream-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add Local 香腸 140公克, 三種起司 40公克, 九層塔 10公克, 義大利麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 奶油白醬 3大匙, 辣椒碎 1/2小匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"Local 香腸\"",
+        "Ingredient 2 name contains Chinese: \"三種起司\"",
+        "Ingredient 3 name contains Chinese: \"九層塔\"",
+        "Ingredient 4 name contains Chinese: \"義大利麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"奶油白醬\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-chef-crispy-pork-knuckle",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: clean and dry main meats (half chicken or pork knuckle), rub with sea salt, pepper, and spices; preheat oven to 400°F.\"",
+        "Step 3 contains Chinese characters: \"Brush generously with remaining 橄欖油 2大匙, 海鹽 1小匙, 黑胡椒碎 1/2小匙 during the last 5 minutes of roasting; bake sides (corn, wedges) together.\"",
+        "Ingredient 1 name contains Chinese: \"德式豬腳\"",
+        "Ingredient 2 name contains Chinese: \"烤玉米\"",
+        "Ingredient 3 name contains Chinese: \"酸菜\"",
+        "Ingredient 4 name contains Chinese: \"芥末\"",
+        "Ingredient 5 name contains Chinese: \"薯條\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-chicken-quesadilla",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: dice 薄餅 適量, 雞肉 180公克, 起司 40公克, 莎莎 適量 (chicken, sausage) and onions; warm tortillas and grate cheese.\"",
+        "Step 1 contains Chinese characters: \"Prep: dice 薄餅 適量, 雞肉 180公克, 起司 40公克, 莎莎 適量 (chicken, sausage) and onions; warm tortillas and grate cheese.\"",
+        "Step 4 contains Chinese characters: \"Cut quesadilla into wedges, plate nicely, and serve with 炸油 600毫升, 海鹽 1/2小匙, 酪梨醬 2大匙, 酸奶油 1.5大匙, BBQ 適量 (guacamole, salsa, or sour cream).\"",
+        "Ingredient 1 name contains Chinese: \"薄餅\"",
+        "Ingredient 2 name contains Chinese: \"雞肉\"",
+        "Ingredient 3 name contains Chinese: \"起司\"",
+        "Ingredient 4 name contains Chinese: \"莎莎\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"酪梨醬\"",
+        "Seasoning 4 name contains Chinese: \"酸奶油\""
+      ]
+    },
+    {
+      "slug": "sf-classic-beef-mushroom-eggs-benedict",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep English muffins (split and toasted 350°F until golden); prep 歐包 2份, 牛肉 160公克, 奶油炒菇 120公克, 水波蛋 2顆; sauté mushrooms with butter and salt.\"",
+        "Step 1 contains Chinese characters: \"Prep English muffins (split and toasted 350°F until golden); prep 歐包 2份, 牛肉 160公克, 奶油炒菇 120公克, 水波蛋 2顆; sauté mushrooms with butter and salt.\"",
+        "Step 2 contains Chinese characters: \"Sear main proteins (ham, chicken, beef, or smoked salmon) in a hot skillet; keep warm. Prep 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙.\"",
+        "Step 4 contains Chinese characters: \"Layer mushrooms, proteins, and poached eggs on muffins; drizzle warm hollandaise or specialty sauce (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙); serve immediately.\"",
+        "Ingredient 1 name contains Chinese: \"歐包\"",
+        "Ingredient 2 name contains Chinese: \"牛肉\"",
+        "Ingredient 3 name contains Chinese: \"奶油炒菇\"",
+        "Ingredient 4 name contains Chinese: \"水波蛋\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-classic-caesar-salad",
+      "status": "Fail",
+      "issues": [
+        "Step 1 contains Chinese characters: \"Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 綜合生菜 120公克, 培根 80公克, 麵包丁 40公克.\"",
+        "Step 3 contains Chinese characters: \"In a large bowl, toss greens with 2/3 of 炸油 600毫升, 海鹽 1/2小匙, 凱薩醬 2大匙, 莎莎醬 2大匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.\"",
+        "Ingredient 1 name contains Chinese: \"綜合生菜\"",
+        "Ingredient 2 name contains Chinese: \"培根\"",
+        "Ingredient 3 name contains Chinese: \"麵包丁\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"凱薩醬\"",
+        "Seasoning 4 name contains Chinese: \"莎莎醬\""
+      ]
+    },
+    {
+      "slug": "sf-classic-ham-mushroom-eggs-benedict",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep English muffins (split and toasted 350°F until golden); prep 歐包 2份, 火腿 適量, 奶油炒菇 120公克, 水波蛋 2顆; sauté mushrooms with butter and salt.\"",
+        "Step 1 contains Chinese characters: \"Prep English muffins (split and toasted 350°F until golden); prep 歐包 2份, 火腿 適量, 奶油炒菇 120公克, 水波蛋 2顆; sauté mushrooms with butter and salt.\"",
+        "Step 2 contains Chinese characters: \"Sear main proteins (ham, chicken, beef, or smoked salmon) in a hot skillet; keep warm. Prep 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 荷蘭醬 適量.\"",
+        "Step 4 contains Chinese characters: \"Layer mushrooms, proteins, and poached eggs on muffins; drizzle warm hollandaise or specialty sauce (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 荷蘭醬 適量); serve immediately.\"",
+        "Ingredient 1 name contains Chinese: \"歐包\"",
+        "Ingredient 2 name contains Chinese: \"火腿\"",
+        "Ingredient 3 name contains Chinese: \"奶油炒菇\"",
+        "Ingredient 4 name contains Chinese: \"水波蛋\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"荷蘭醬\""
+      ]
+    },
+    {
+      "slug": "sf-classic-pesto-shrimp-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add 鮮蝦 180公克, 起司 40公克, 義大利麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 青醬 3大匙, 松子 1/2小匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"鮮蝦\"",
+        "Ingredient 2 name contains Chinese: \"起司\"",
+        "Ingredient 3 name contains Chinese: \"義大利麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"青醬\"",
+        "Seasoning 5 name contains Chinese: \"松子\""
+      ]
+    },
+    {
+      "slug": "sf-country-cinnamon-peach-pie",
+      "status": "Fail",
+      "issues": [
+        "Step 4 contains Chinese characters: \"Arrange on plates, add vanilla ice cream scoops or whipped cream, and drizzle with hot 無鹽奶油 30公克, 細砂糖 2大匙.\"",
+        "Ingredient 1 name contains Chinese: \"肉桂蜜桃派\"",
+        "Ingredient 2 name contains Chinese: \"香草冰淇淋\"",
+        "Ingredient 3 name contains Chinese: \"派皮\"",
+        "Seasoning 1 name contains Chinese: \"無鹽奶油\"",
+        "Seasoning 2 name contains Chinese: \"細砂糖\""
+      ]
+    },
+    {
+      "slug": "sf-crispy-calamari-cocktail-sauce",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 魷魚 300公克, 薯條 250公克, 檸檬 1/2顆 (wings, calamari, or fish); pat dry, season with salt/pepper, and coat lightly in flour.\"",
+        "Step 1 contains Chinese characters: \"Prep 魷魚 300公克, 薯條 250公克, 檸檬 1/2顆 (wings, calamari, or fish); pat dry, season with salt/pepper, and coat lightly in flour.\"",
+        "Step 3 contains Chinese characters: \"Warm 炸油 600毫升, 海鹽 1/2小匙, 雞尾酒醬 2大匙 in a small pan. If making wings, toss fried chicken in a large bowl with the hot sauce until coated.\"",
+        "Ingredient 1 name contains Chinese: \"魷魚\"",
+        "Ingredient 2 name contains Chinese: \"薯條\"",
+        "Ingredient 3 name contains Chinese: \"檸檬\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"雞尾酒醬\""
+      ]
+    },
+    {
+      "slug": "sf-dawn-shrimp-chicken-linguine",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add 雞肉 180公克, 蝦 適量, 炙燒紅椒 適量, 起司絲 40公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 曙光奶油醬 3大匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"雞肉\"",
+        "Ingredient 2 name contains Chinese: \"蝦\"",
+        "Ingredient 3 name contains Chinese: \"炙燒紅椒\"",
+        "Ingredient 4 name contains Chinese: \"起司絲\"",
+        "Ingredient 5 name contains Chinese: \"義大利麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"曙光奶油醬\""
+      ]
+    },
+    {
+      "slug": "sf-greek-campfire-grilled-chicken-brunch",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: clean and dry main meats (half chicken or pork knuckle), rub with sea salt, pepper, and spices; preheat oven to 400°F.\"",
+        "Step 3 contains Chinese characters: \"Brush generously with remaining 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 during the last 5 minutes of roasting; bake sides (corn, wedges) together.\"",
+        "Ingredient 1 name contains Chinese: \"炭烤雞肉\"",
+        "Ingredient 2 name contains Chinese: \"皮塔餅\"",
+        "Ingredient 3 name contains Chinese: \"沙拉\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-green-superhero-quinoa-buddha-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 contains Chinese characters: \"Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 蘆筍 適量, 莎莎 適量, 花椰菜 120公克, 藜麥 80公克.\"",
+        "Step 3 contains Chinese characters: \"In a large bowl, toss greens with 2/3 of 橄欖油 1.5大匙, 海鹽 1/3小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.\"",
+        "Ingredient 1 name contains Chinese: \"蘆筍\"",
+        "Ingredient 2 name contains Chinese: \"莎莎\"",
+        "Ingredient 3 name contains Chinese: \"花椰菜\"",
+        "Ingredient 4 name contains Chinese: \"藜麥\"",
+        "Ingredient 5 name contains Chinese: \"水波蛋\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\""
+      ]
+    },
+    {
+      "slug": "sf-griddled-butter-ham-sandwich",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 火腿 適量, 起司 40公克, 荷包蛋 2顆.\"",
+        "Step 1 contains Chinese characters: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 火腿 適量, 起司 40公克, 荷包蛋 2顆.\"",
+        "Step 3 contains Chinese characters: \"Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 楓糖漿 2大匙, 鮮奶油 適量 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.\"",
+        "Ingredient 1 name contains Chinese: \"歐包\"",
+        "Ingredient 2 name contains Chinese: \"火腿\"",
+        "Ingredient 3 name contains Chinese: \"起司\"",
+        "Ingredient 4 name contains Chinese: \"荷包蛋\"",
+        "Ingredient 5 name contains Chinese: \"薯塊\"",
+        "Ingredient 6 name contains Chinese: \"吐司\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"楓糖漿\"",
+        "Seasoning 5 name contains Chinese: \"鮮奶油\""
+      ]
+    },
+    {
+      "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add 牛肉丸 160公克, 番茄乾 40公克, 起司 40公克, 長管麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 肉醬 適量 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"牛肉丸\"",
+        "Ingredient 2 name contains Chinese: \"番茄乾\"",
+        "Ingredient 3 name contains Chinese: \"起司\"",
+        "Ingredient 4 name contains Chinese: \"長管麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"肉醬\""
+      ]
+    },
+    {
+      "slug": "sf-keto-surf-and-turf-platter",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: organize 舒肥牛 適量, 巴沙魚 180公克, 炒菇 120公克, 起司 40公克 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1.5大匙, 海鹽 1/3小匙).\"",
+        "Step 1 contains Chinese characters: \"Prep: organize 舒肥牛 適量, 巴沙魚 180公克, 炒菇 120公克, 起司 40公克 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1.5大匙, 海鹽 1/3小匙).\"",
+        "Step 4 contains Chinese characters: \"Drizzle signature sauces (橄欖油 1.5大匙, 海鹽 1/3小匙) and arrange ingredients beautifully on a large plate for Keto Surf And Turf Platter.\"",
+        "Ingredient 1 name contains Chinese: \"舒肥牛\"",
+        "Ingredient 2 name contains Chinese: \"巴沙魚\"",
+        "Ingredient 3 name contains Chinese: \"炒菇\"",
+        "Ingredient 4 name contains Chinese: \"起司\"",
+        "Ingredient 5 name contains Chinese: \"綜合生菜\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\""
+      ]
+    },
+    {
+      "slug": "sf-kids-cream-chicken-penne",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add 雞肉 180公克, 玉米 100公克, 豌豆 適量, 起司 40公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 白醬 適量, 鮮奶油 適量 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"雞肉\"",
+        "Ingredient 2 name contains Chinese: \"玉米\"",
+        "Ingredient 3 name contains Chinese: \"豌豆\"",
+        "Ingredient 4 name contains Chinese: \"起司\"",
+        "Ingredient 5 name contains Chinese: \"長管麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"白醬\"",
+        "Seasoning 5 name contains Chinese: \"鮮奶油\""
+      ]
+    },
+    {
+      "slug": "sf-local-sausage-quesadilla",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: dice 薄餅 適量, 香腸 140公克, 起司 40公克, 莎莎 適量 (chicken, sausage) and onions; warm tortillas and grate cheese.\"",
+        "Step 1 contains Chinese characters: \"Prep: dice 薄餅 適量, 香腸 140公克, 起司 40公克, 莎莎 適量 (chicken, sausage) and onions; warm tortillas and grate cheese.\"",
+        "Step 4 contains Chinese characters: \"Cut quesadilla into wedges, plate nicely, and serve with 炸油 600毫升, 海鹽 1/2小匙, 酪梨醬 2大匙, 酸奶油 1.5大匙, BBQ 適量 (guacamole, salsa, or sour cream).\"",
+        "Ingredient 1 name contains Chinese: \"薄餅\"",
+        "Ingredient 2 name contains Chinese: \"香腸\"",
+        "Ingredient 3 name contains Chinese: \"起司\"",
+        "Ingredient 4 name contains Chinese: \"莎莎\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"酪梨醬\"",
+        "Seasoning 4 name contains Chinese: \"酸奶油\""
+      ]
+    },
+    {
+      "slug": "sf-mini-beef-egg-burger-set",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 小漢堡 適量, 牛肉排 180公克, 煎蛋 適量, 薯條 250公克.\"",
+        "Step 1 contains Chinese characters: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 小漢堡 適量, 牛肉排 180公克, 煎蛋 適量, 薯條 250公克.\"",
+        "Step 3 contains Chinese characters: \"Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.\"",
+        "Ingredient 1 name contains Chinese: \"小漢堡\"",
+        "Ingredient 2 name contains Chinese: \"牛肉排\"",
+        "Ingredient 3 name contains Chinese: \"煎蛋\"",
+        "Ingredient 4 name contains Chinese: \"薯條\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-moon-view-bitter-melon-cream-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 鹹蛋 適量, 山苦瓜 120公克, 蕈菇 120公克, 生蛋 適量; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 1 contains Chinese characters: \"Prep 鹹蛋 適量, 山苦瓜 120公克, 蕈菇 120公克, 生蛋 適量; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 鮮奶油 適量, 辣椒碎 1/2小匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).\"",
+        "Ingredient 1 name contains Chinese: \"鹹蛋\"",
+        "Ingredient 2 name contains Chinese: \"山苦瓜\"",
+        "Ingredient 3 name contains Chinese: \"蕈菇\"",
+        "Ingredient 4 name contains Chinese: \"生蛋\"",
+        "Ingredient 5 name contains Chinese: \"起司\"",
+        "Ingredient 6 name contains Chinese: \"奶油飯\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"鮮奶油\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-mushroom-cheese-omelette",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: beat 3 eggs with a splash of cream and salt; prep 歐姆蕾 3顆蛋, 奶油炒菇 120公克, 綜合起司 40公克, 歐包 2份 and cheeses ready.\"",
+        "Step 1 contains Chinese characters: \"Prep: beat 3 eggs with a splash of cream and salt; prep 歐姆蕾 3顆蛋, 奶油炒菇 120公克, 綜合起司 40公克, 歐包 2份 and cheeses ready.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Ingredient 1 name contains Chinese: \"歐姆蕾\"",
+        "Ingredient 2 name contains Chinese: \"奶油炒菇\"",
+        "Ingredient 3 name contains Chinese: \"綜合起司\"",
+        "Ingredient 4 name contains Chinese: \"歐包\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-oat-crusted-fish-and-fries",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 塔塔醬 適量.\"",
+        "Step 1 contains Chinese characters: \"Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 塔塔醬 適量.\"",
+        "Step 3 contains Chinese characters: \"Toss hot fries in a large bowl with sea salt, then drizzle with 炸油 600毫升, 海鹽 1/2小匙, 塔塔醬 適量 (truffle, salted egg yolk, or cheese sauce).\"",
+        "Ingredient 1 name contains Chinese: \"燕麥炸魚\"",
+        "Ingredient 2 name contains Chinese: \"薯條\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"塔塔醬\""
+      ]
+    },
+    {
+      "slug": "sf-orange-danish-mushroom-poached-potato",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: place orange French Danish pastry on baking sheet, bake at 350°F for 3–5 min until fragrant.\"",
+        "Step 2 contains Chinese characters: \"Heat oil in skillet; sear main protein (chicken, steak, seafood, or mushrooms from 橙香丹麥 2份, 水波蛋 2顆, 炒菇 120公克, 炒薯 250公克) with salt and pepper.\"",
+        "Step 3 has Prep prefix: \"Prepare sunny-side or poached eggs; fry potato hash or wedges in skillet until golden brown.\"",
+        "Step 4 contains Chinese characters: \"Plate toast, proteins, eggs, and salad separately; drizzle 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 起司醬 2大匙 over the main components; serve immediately.\"",
+        "Ingredient 1 name contains Chinese: \"橙香丹麥\"",
+        "Ingredient 2 name contains Chinese: \"水波蛋\"",
+        "Ingredient 3 name contains Chinese: \"炒菇\"",
+        "Ingredient 4 name contains Chinese: \"炒薯\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"起司醬\""
+      ]
+    },
+    {
+      "slug": "sf-orange-danish-poached-seafood-potato",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: place orange French Danish pastry on baking sheet, bake at 350°F for 3–5 min until fragrant.\"",
+        "Step 2 contains Chinese characters: \"Heat oil in skillet; sear main protein (chicken, steak, seafood, or mushrooms from 橙香丹麥 2份, 水波蛋 2顆, 海鮮 180公克, 炒菇 120公克) with salt and pepper.\"",
+        "Step 3 has Prep prefix: \"Prepare sunny-side or poached eggs; fry potato hash or wedges in skillet until golden brown.\"",
+        "Step 4 contains Chinese characters: \"Plate toast, proteins, eggs, and salad separately; drizzle 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 over the main components; serve immediately.\"",
+        "Ingredient 1 name contains Chinese: \"橙香丹麥\"",
+        "Ingredient 2 name contains Chinese: \"水波蛋\"",
+        "Ingredient 3 name contains Chinese: \"海鮮\"",
+        "Ingredient 4 name contains Chinese: \"炒菇\"",
+        "Ingredient 5 name contains Chinese: \"炒薯\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-orange-danish-sous-vide-steak",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: place orange French Danish pastry on baking sheet, bake at 350°F for 3–5 min until fragrant.\"",
+        "Step 2 contains Chinese characters: \"Heat oil in skillet; sear main protein (chicken, steak, seafood, or mushrooms from 橙香丹麥 2份, 舒肥牛排 220公克, 荷包蛋 2顆, 炒薯 250公克) with salt and pepper.\"",
+        "Step 3 has Prep prefix: \"Prepare sunny-side or poached eggs; fry potato hash or wedges in skillet until golden brown.\"",
+        "Step 4 contains Chinese characters: \"Plate toast, proteins, eggs, and salad separately; drizzle 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 蜂蜜芥末 2大匙 over the main components; serve immediately.\"",
+        "Ingredient 1 name contains Chinese: \"橙香丹麥\"",
+        "Ingredient 2 name contains Chinese: \"舒肥牛排\"",
+        "Ingredient 3 name contains Chinese: \"荷包蛋\"",
+        "Ingredient 4 name contains Chinese: \"炒薯\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"蜂蜜芥末\""
+      ]
+    },
+    {
+      "slug": "sf-orange-danish-sunny-sous-vide-chicken",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: place orange French Danish pastry on baking sheet, bake at 350°F for 3–5 min until fragrant.\"",
+        "Step 2 contains Chinese characters: \"Heat oil in skillet; sear main protein (chicken, steak, seafood, or mushrooms from 橙香丹麥 2份, 舒肥雞 180公克, 荷包蛋 2顆, 炒薯 250公克) with salt and pepper.\"",
+        "Step 3 has Prep prefix: \"Prepare sunny-side or poached eggs; fry potato hash or wedges in skillet until golden brown.\"",
+        "Step 4 contains Chinese characters: \"Plate toast, proteins, eggs, and salad separately; drizzle 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 蜂蜜芥末 2大匙 over the main components; serve immediately.\"",
+        "Ingredient 1 name contains Chinese: \"橙香丹麥\"",
+        "Ingredient 2 name contains Chinese: \"舒肥雞\"",
+        "Ingredient 3 name contains Chinese: \"荷包蛋\"",
+        "Ingredient 4 name contains Chinese: \"炒薯\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"蜂蜜芥末\""
+      ]
+    },
+    {
+      "slug": "sf-poached-egg-smoked-beef-danish-open",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: place orange French Danish pastry on baking sheet, bake at 350°F for 3–5 min until fragrant.\"",
+        "Step 2 contains Chinese characters: \"Heat oil in skillet; sear main protein (chicken, steak, seafood, or mushrooms from 丹麥麵包 2份, 燻牛肉 160公克, 水波蛋 2顆) with salt and pepper.\"",
+        "Step 3 has Prep prefix: \"Prepare sunny-side or poached eggs; fry potato hash or wedges in skillet until golden brown.\"",
+        "Step 4 contains Chinese characters: \"Plate toast, proteins, eggs, and salad separately; drizzle 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 芥末醬 適量 over the main components; serve immediately.\"",
+        "Ingredient 1 name contains Chinese: \"丹麥麵包\"",
+        "Ingredient 2 name contains Chinese: \"燻牛肉\"",
+        "Ingredient 3 name contains Chinese: \"水波蛋\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"芥末醬\""
+      ]
+    },
+    {
+      "slug": "sf-poutine-meat-sauce-fries",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 肉醬 適量, 起司醬 2大匙.\"",
+        "Step 1 contains Chinese characters: \"Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 肉醬 適量, 起司醬 2大匙.\"",
+        "Step 3 contains Chinese characters: \"Toss hot fries in a large bowl with sea salt, then drizzle with 炸油 600毫升, 海鹽 1/2小匙, 肉醬 適量, 起司醬 2大匙 (truffle, salted egg yolk, or cheese sauce).\"",
+        "Ingredient 1 name contains Chinese: \"薯條\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"肉醬\"",
+        "Seasoning 4 name contains Chinese: \"起司醬\""
+      ]
+    },
+    {
+      "slug": "sf-roasted-sesame-chicken-salad",
+      "status": "Fail",
+      "issues": [
+        "Step 1 contains Chinese characters: \"Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 綜合生菜 120公克, 炸雞 適量, 小番茄 8顆, 酸黃瓜 50公克.\"",
+        "Step 3 contains Chinese characters: \"In a large bowl, toss greens with 2/3 of 炸油 600毫升, 海鹽 1/2小匙, 焙煎胡麻醬 2大匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.\"",
+        "Ingredient 1 name contains Chinese: \"綜合生菜\"",
+        "Ingredient 2 name contains Chinese: \"炸雞\"",
+        "Ingredient 3 name contains Chinese: \"小番茄\"",
+        "Ingredient 4 name contains Chinese: \"酸黃瓜\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"焙煎胡麻醬\""
+      ]
+    },
+    {
+      "slug": "sf-salsa-black-curry-fried-chicken",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: clean and dry main meats (half chicken or pork knuckle), rub with sea salt, pepper, and spices; preheat oven to 400°F.\"",
+        "Step 3 contains Chinese characters: \"Brush generously with remaining 炸油 600毫升, 海鹽 1/2小匙, 黑咖哩醬 2大匙, 莎莎醬 2大匙, 辣椒碎 1/2小匙 during the last 5 minutes of roasting; bake sides (corn, wedges) together.\"",
+        "Ingredient 1 name contains Chinese: \"炸雞\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑咖哩醬\"",
+        "Seasoning 4 name contains Chinese: \"莎莎醬\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-salted-egg-bitter-melon-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add 鹹蛋 適量, 山苦瓜 120公克, 杏鮑菇 120公克, 山藥 80公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒碎 1/2小匙, 鹹蛋黃醬 2大匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"鹹蛋\"",
+        "Ingredient 2 name contains Chinese: \"山苦瓜\"",
+        "Ingredient 3 name contains Chinese: \"杏鮑菇\"",
+        "Ingredient 4 name contains Chinese: \"山藥\"",
+        "Ingredient 5 name contains Chinese: \"義大利麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"辣椒碎\"",
+        "Seasoning 5 name contains Chinese: \"鹹蛋黃醬\""
+      ]
+    },
+    {
+      "slug": "sf-salted-egg-seafood-pizza",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: organize 海鮮 180公克, 九層塔 10公克, 披薩餅皮 2份 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙).\"",
+        "Step 1 contains Chinese characters: \"Prep: organize 海鮮 180公克, 九層塔 10公克, 披薩餅皮 2份 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙).\"",
+        "Step 4 contains Chinese characters: \"Drizzle signature sauces (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙) and arrange ingredients beautifully on a large plate for Salted Egg Seafood Pizza.\"",
+        "Ingredient 1 name contains Chinese: \"海鮮\"",
+        "Ingredient 2 name contains Chinese: \"九層塔\"",
+        "Ingredient 3 name contains Chinese: \"披薩餅皮\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"金沙醬\"",
+        "Seasoning 5 name contains Chinese: \"鹹蛋黃醬\""
+      ]
+    },
+    {
+      "slug": "sf-salted-egg-yolk-fries",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙, 辣椒碎 1/2小匙.\"",
+        "Step 1 contains Chinese characters: \"Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙, 辣椒碎 1/2小匙.\"",
+        "Step 3 contains Chinese characters: \"Toss hot fries in a large bowl with sea salt, then drizzle with 炸油 600毫升, 海鹽 1/2小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙, 辣椒碎 1/2小匙 (truffle, salted egg yolk, or cheese sauce).\"",
+        "Ingredient 1 name contains Chinese: \"薯條\"",
+        "Ingredient 2 name contains Chinese: \"辣椒\"",
+        "Ingredient 3 name contains Chinese: \"九層塔\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"金沙醬\"",
+        "Seasoning 4 name contains Chinese: \"鹹蛋黃醬\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-san-francisco-garlic-fries",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 蒜味奶油醬 3大匙.\"",
+        "Step 1 contains Chinese characters: \"Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 蒜味奶油醬 3大匙.\"",
+        "Step 3 contains Chinese characters: \"Toss hot fries in a large bowl with sea salt, then drizzle with 炸油 600毫升, 海鹽 1/2小匙, 蒜味奶油醬 3大匙 (truffle, salted egg yolk, or cheese sauce).\"",
+        "Ingredient 1 name contains Chinese: \"薯條\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"蒜味奶油醬\""
+      ]
+    },
+    {
+      "slug": "sf-second-floor-fiesta-shrimp-penne",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add Taco 調味 適量, 鮮蝦 180公克, 長管麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 奶油醬 適量, 辣椒碎 1/2小匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"Taco 調味\"",
+        "Ingredient 2 name contains Chinese: \"鮮蝦\"",
+        "Ingredient 3 name contains Chinese: \"長管麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"奶油醬\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-second-floor-saltwater-chicken-salad",
+      "status": "Fail",
+      "issues": [
+        "Step 1 contains Chinese characters: \"Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 綜合生菜 120公克, 鹽水雞 適量, 山苦瓜 120公克, 火烤玉米 100公克.\"",
+        "Step 3 contains Chinese characters: \"In a large bowl, toss greens with 2/3 of 炸油 600毫升, 海鹽 1/2小匙, 鹽水雞油醋 2大匙, 辣椒粉 1/2小匙, 辣椒碎 1/2小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.\"",
+        "Ingredient 1 name contains Chinese: \"綜合生菜\"",
+        "Ingredient 2 name contains Chinese: \"鹽水雞\"",
+        "Ingredient 3 name contains Chinese: \"山苦瓜\"",
+        "Ingredient 4 name contains Chinese: \"火烤玉米\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"鹽水雞油醋\"",
+        "Seasoning 4 name contains Chinese: \"辣椒粉\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep English muffins (split and toasted 350°F until golden); prep 歐包 2份, 口水雞 180公克, 奶油炒菇 120公克, 水波蛋 2顆; sauté mushrooms with butter and salt.\"",
+        "Step 1 contains Chinese characters: \"Prep English muffins (split and toasted 350°F until golden); prep 歐包 2份, 口水雞 180公克, 奶油炒菇 120公克, 水波蛋 2顆; sauté mushrooms with butter and salt.\"",
+        "Step 2 contains Chinese characters: \"Sear main proteins (ham, chicken, beef, or smoked salmon) in a hot skillet; keep warm. Prep 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒碎 1/2小匙.\"",
+        "Step 4 contains Chinese characters: \"Layer mushrooms, proteins, and poached eggs on muffins; drizzle warm hollandaise or specialty sauce (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒碎 1/2小匙); serve immediately.\"",
+        "Ingredient 1 name contains Chinese: \"歐包\"",
+        "Ingredient 2 name contains Chinese: \"口水雞\"",
+        "Ingredient 3 name contains Chinese: \"奶油炒菇\"",
+        "Ingredient 4 name contains Chinese: \"水波蛋\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-signature-double-stack-burger",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 牛肉排 180公克, 炸魚 適量, 培根 80公克, 薯塊 250公克.\"",
+        "Step 1 contains Chinese characters: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 牛肉排 180公克, 炸魚 適量, 培根 80公克, 薯塊 250公克.\"",
+        "Step 3 contains Chinese characters: \"Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 巴薩米克醬 適量 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.\"",
+        "Ingredient 1 name contains Chinese: \"牛肉排\"",
+        "Ingredient 2 name contains Chinese: \"炸魚\"",
+        "Ingredient 3 name contains Chinese: \"培根\"",
+        "Ingredient 4 name contains Chinese: \"薯塊\"",
+        "Ingredient 5 name contains Chinese: \"漢堡麵包\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"巴薩米克醬\""
+      ]
+    },
+    {
+      "slug": "sf-smoked-salmon-caesar-salad",
+      "status": "Fail",
+      "issues": [
+        "Step 1 contains Chinese characters: \"Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 凱薩沙拉 適量, 燻鮭魚 120公克, 溏心蛋 適量.\"",
+        "Step 3 contains Chinese characters: \"In a large bowl, toss greens with 2/3 of 炸油 600毫升, 海鹽 1/2小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.\"",
+        "Ingredient 1 name contains Chinese: \"凱薩沙拉\"",
+        "Ingredient 2 name contains Chinese: \"燻鮭魚\"",
+        "Ingredient 3 name contains Chinese: \"溏心蛋\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\""
+      ]
+    },
+    {
+      "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep English muffins (split and toasted 350°F until golden); prep 歐包 2份, 燻鮭 120公克, 酸豆 適量, 奶油炒菇 120公克; sauté mushrooms with butter and salt.\"",
+        "Step 1 contains Chinese characters: \"Prep English muffins (split and toasted 350°F until golden); prep 歐包 2份, 燻鮭 120公克, 酸豆 適量, 奶油炒菇 120公克; sauté mushrooms with butter and salt.\"",
+        "Step 2 contains Chinese characters: \"Sear main proteins (ham, chicken, beef, or smoked salmon) in a hot skillet; keep warm. Prep 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙.\"",
+        "Step 4 contains Chinese characters: \"Layer mushrooms, proteins, and poached eggs on muffins; drizzle warm hollandaise or specialty sauce (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙); serve immediately.\"",
+        "Ingredient 1 name contains Chinese: \"歐包\"",
+        "Ingredient 2 name contains Chinese: \"燻鮭\"",
+        "Ingredient 3 name contains Chinese: \"酸豆\"",
+        "Ingredient 4 name contains Chinese: \"奶油炒菇\"",
+        "Ingredient 5 name contains Chinese: \"水波蛋\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-sous-vide-chicken-caesar-salad",
+      "status": "Fail",
+      "issues": [
+        "Step 1 contains Chinese characters: \"Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 凱薩沙拉 適量, 舒肥雞 180公克.\"",
+        "Step 3 contains Chinese characters: \"In a large bowl, toss greens with 2/3 of 炸油 600毫升, 海鹽 1/2小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.\"",
+        "Ingredient 1 name contains Chinese: \"凱薩沙拉\"",
+        "Ingredient 2 name contains Chinese: \"舒肥雞\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\""
+      ]
+    },
+    {
+      "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 舒肥雞 180公克, 花椰菜飯 120公克, 藜麥 80公克, 火烤玉米 100公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 1 contains Chinese characters: \"Prep 舒肥雞 180公克, 花椰菜飯 120公克, 藜麥 80公克, 火烤玉米 100公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1.5大匙, 海鹽 1/3小匙, 起司醬 2大匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).\"",
+        "Ingredient 1 name contains Chinese: \"舒肥雞\"",
+        "Ingredient 2 name contains Chinese: \"花椰菜飯\"",
+        "Ingredient 3 name contains Chinese: \"藜麥\"",
+        "Ingredient 4 name contains Chinese: \"火烤玉米\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"起司醬\""
+      ]
+    },
+    {
+      "slug": "sf-south-sea-spiced-chicken-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 南洋香料 適量, 雞肉 180公克, 燉飯 適量; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 1 contains Chinese characters: \"Prep 南洋香料 適量, 雞肉 180公克, 燉飯 適量; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).\"",
+        "Ingredient 1 name contains Chinese: \"南洋香料\"",
+        "Ingredient 2 name contains Chinese: \"雞肉\"",
+        "Ingredient 3 name contains Chinese: \"燉飯\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-spicy-mexican-firecracker-burger",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 牛肉排 180公克, 起司 40公克, 炸墨西哥辣椒 適量, 薯塊 250公克.\"",
+        "Step 1 contains Chinese characters: \"Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 牛肉排 180公克, 起司 40公克, 炸墨西哥辣椒 適量, 薯塊 250公克.\"",
+        "Step 3 contains Chinese characters: \"Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, BBQ 醬 2大匙, 辣椒碎 1/2小匙 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.\"",
+        "Ingredient 1 name contains Chinese: \"牛肉排\"",
+        "Ingredient 2 name contains Chinese: \"起司\"",
+        "Ingredient 3 name contains Chinese: \"炸墨西哥辣椒\"",
+        "Ingredient 4 name contains Chinese: \"薯塊\"",
+        "Ingredient 5 name contains Chinese: \"漢堡麵包\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"BBQ 醬\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-spicy-pepper-karaage-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add 唐揚雞 180公克, 朝天椒 適量, 九層塔 10公克, 起司絲 40公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 茄汁 適量, 辣椒碎 1/2小匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"唐揚雞\"",
+        "Ingredient 2 name contains Chinese: \"朝天椒\"",
+        "Ingredient 3 name contains Chinese: \"九層塔\"",
+        "Ingredient 4 name contains Chinese: \"起司絲\"",
+        "Ingredient 5 name contains Chinese: \"義大利麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"茄汁\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-spicy-spanish-surf-and-turf-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 番紅花飯 220公克, 蝦 適量, 蛤蜊 400公克, 香腸 140公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 1 contains Chinese characters: \"Prep 番紅花飯 220公克, 蝦 適量, 蛤蜊 400公克, 香腸 140公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒碎 1/2小匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).\"",
+        "Ingredient 1 name contains Chinese: \"番紅花飯\"",
+        "Ingredient 2 name contains Chinese: \"蝦\"",
+        "Ingredient 3 name contains Chinese: \"蛤蜊\"",
+        "Ingredient 4 name contains Chinese: \"香腸\"",
+        "Ingredient 5 name contains Chinese: \"起司\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-spicy-tomato-bacon-penne",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add 培根 80公克, 番茄 適量, 起司 40公克, 長管麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣醬 適量, 辣椒碎 1/2小匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"培根\"",
+        "Ingredient 2 name contains Chinese: \"番茄\"",
+        "Ingredient 3 name contains Chinese: \"起司\"",
+        "Ingredient 4 name contains Chinese: \"長管麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"辣醬\"",
+        "Seasoning 5 name contains Chinese: \"辣椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-strong-chocolate-cake",
+      "status": "Fail",
+      "issues": [
+        "Step 4 contains Chinese characters: \"Arrange on plates, add vanilla ice cream scoops or whipped cream, and drizzle with hot 無鹽奶油 30公克, 細砂糖 2大匙.\"",
+        "Ingredient 1 name contains Chinese: \"4 吋巧克力蛋糕\"",
+        "Ingredient 2 name contains Chinese: \"奶油起司\"",
+        "Seasoning 1 name contains Chinese: \"無鹽奶油\"",
+        "Seasoning 2 name contains Chinese: \"細砂糖\""
+      ]
+    },
+    {
+      "slug": "sf-supreme-cheese-omelette",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: beat 3 eggs with a splash of cream and salt; prep 歐姆蕾 3顆蛋, 火腿 適量, 玉米 100公克, 綜合起司 40公克 and cheeses ready.\"",
+        "Step 1 contains Chinese characters: \"Prep: beat 3 eggs with a splash of cream and salt; prep 歐姆蕾 3顆蛋, 火腿 適量, 玉米 100公克, 綜合起司 40公克 and cheeses ready.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Ingredient 1 name contains Chinese: \"歐姆蕾\"",
+        "Ingredient 2 name contains Chinese: \"火腿\"",
+        "Ingredient 3 name contains Chinese: \"玉米\"",
+        "Ingredient 4 name contains Chinese: \"綜合起司\"",
+        "Ingredient 5 name contains Chinese: \"炒薯\"",
+        "Ingredient 6 name contains Chinese: \"歐包\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-sweet-savory-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep 蜜餞 40公克, 米飯 適量, 台南限定 適量; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 1 contains Chinese characters: \"Prep 蜜餞 40公克, 米飯 適量, 台南限定 適量; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).\"",
+        "Ingredient 1 name contains Chinese: \"蜜餞\"",
+        "Ingredient 2 name contains Chinese: \"米飯\"",
+        "Ingredient 3 name contains Chinese: \"台南限定\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\""
+      ]
+    },
+    {
+      "slug": "sf-tropical-yogurt-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 contains Chinese characters: \"Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 香蕉 150公克, 芒果 150公克, 季節水果 150公克, 穀物 80公克.\"",
+        "Step 3 contains Chinese characters: \"In a large bowl, toss greens with 2/3 of 橄欖油 1.5大匙, 海鹽 1/3小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.\"",
+        "Ingredient 1 name contains Chinese: \"香蕉\"",
+        "Ingredient 2 name contains Chinese: \"芒果\"",
+        "Ingredient 3 name contains Chinese: \"季節水果\"",
+        "Ingredient 4 name contains Chinese: \"穀物\"",
+        "Ingredient 5 name contains Chinese: \"堅果\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\""
+      ]
+    },
+    {
+      "slug": "sf-truffle-fries",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 松露醬 3大匙.\"",
+        "Step 1 contains Chinese characters: \"Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 松露醬 3大匙.\"",
+        "Step 3 contains Chinese characters: \"Toss hot fries in a large bowl with sea salt, then drizzle with 炸油 600毫升, 海鹽 1/2小匙, 松露醬 3大匙 (truffle, salted egg yolk, or cheese sauce).\"",
+        "Ingredient 1 name contains Chinese: \"薯條\"",
+        "Ingredient 2 name contains Chinese: \"起司粉\"",
+        "Seasoning 1 name contains Chinese: \"炸油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"松露醬\""
+      ]
+    },
+    {
+      "slug": "sf-truffle-mushroom-cream-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add 綜合蕈菇 120公克, 起司 40公克, 義大利麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 松露奶油醬 3大匙, 松露醬 3大匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Ingredient 1 name contains Chinese: \"綜合蕈菇\"",
+        "Ingredient 2 name contains Chinese: \"起司\"",
+        "Ingredient 3 name contains Chinese: \"義大利麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"松露奶油醬\"",
+        "Seasoning 5 name contains Chinese: \"松露醬\"",
+        "Seasoning 6 name contains Chinese: \"鮮奶油\""
+      ]
+    },
+    {
+      "slug": "sf-white-wine-garlic-clam-squid-ink-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 2 contains Chinese characters: \"Heat oil in skillet over medium; sauté garlic and onions, then add 蛤蜊 400公克, 蒜 適量, 九層塔 10公克, 墨魚麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.\"",
+        "Step 3 contains Chinese characters: \"Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 白酒 2大匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.\"",
+        "Ingredient 1 name contains Chinese: \"蛤蜊\"",
+        "Ingredient 2 name contains Chinese: \"蒜\"",
+        "Ingredient 3 name contains Chinese: \"九層塔\"",
+        "Ingredient 4 name contains Chinese: \"墨魚麵\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"白酒\""
+      ]
+    },
+    {
+      "slug": "sf-worcester-meat-sauce-omelette",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: beat 3 eggs with a splash of cream and salt; prep 歐姆蕾 3顆蛋, 綜合起司 40公克, 炒薯 250公克, 歐包 2份 and cheeses ready.\"",
+        "Step 1 contains Chinese characters: \"Prep: beat 3 eggs with a splash of cream and salt; prep 歐姆蕾 3顆蛋, 綜合起司 40公克, 炒薯 250公克, 歐包 2份 and cheeses ready.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Ingredient 1 name contains Chinese: \"歐姆蕾\"",
+        "Ingredient 2 name contains Chinese: \"綜合起司\"",
+        "Ingredient 3 name contains Chinese: \"炒薯\"",
+        "Ingredient 4 name contains Chinese: \"歐包\"",
+        "Seasoning 1 name contains Chinese: \"橄欖油\"",
+        "Seasoning 2 name contains Chinese: \"海鹽\"",
+        "Seasoning 3 name contains Chinese: \"黑胡椒碎\"",
+        "Seasoning 4 name contains Chinese: \"烏斯特肉醬\""
+      ]
+    },
+    {
+      "slug": "solo-ginger-pork-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Ground pork 120g; dice Ground pork about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "solo-lu-rou-rice",
+      "status": "Fail",
+      "issues": [
+        "ingredients count mismatch: ZH has 4, EN has 3",
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Ground pork 150g, Shallots 2; dice Ground pork about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "solo-mapo-tofu-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "ingredients count mismatch: ZH has 4, EN has 3",
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Tofu 1block, Ground pork 60g; dice Tofu about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "solo-oyster-sauce-beef-rice",
+      "status": "Fail",
+      "issues": [
+        "ingredients count mismatch: ZH has 4, EN has 3",
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Beef 150g, Onion 1/4; dice Beef about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "solo-pan-fried-pork-cutlet-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Pork loin cutlet 1piece, Egg 1; dice Pork loin cutlet about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "solo-sesame-chicken-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Chicken breast 180g; dice Chicken breast about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "solo-three-cup-chicken-rice",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Chicken thigh 1piece, Thai basil 1bunch; dice Chicken thigh about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "soy-garlic-chicken-breast-pan",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 260g, Garlic 3cloves, Onion 0.25; mix Soy sauce 2tsp, Salt pinch in a small bowl if using.\""
+      ]
+    },
+    {
+      "slug": "spicy-seafood-tomato-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Pasta 80g, Shrimp 100g, Tomato 2.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "steamed-chicken-bento",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Chicken breast 2pieces, Hon-shimeji mushrooms 1/2package, Broccoli 1/3head; rinse rice if using and chop vegetables.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "ten-minute-udon-soup",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Udon noodles 1serving, Scallion 1stalk; seasonings ready: Bonito dashi stock 500ml, Soy sauce 1.5tbsp, Mirin 1tbsp, Salt pinch.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 6 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "tofu-cabbage-mushroom-stirfry",
+      "status": "Fail",
+      "issues": [
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve immediately while hot.\""
+      ]
+    },
+    {
+      "slug": "tofu-tomato-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Pasta 80g, Tofu 0.5box, Tomato 1.\""
+      ]
+    },
+    {
+      "slug": "tomato-beef-rice-bowl",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Cooked rice 1bowl, Beef 100g, Tomato 1; dice Beef about ½ inch, divide Cooked rice 1bowl into serving bowls.\""
+      ]
+    },
+    {
+      "slug": "tomato-tofu-soup",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Tomato 2, Tofu 1box, Scallions 1stalk, Water 600ml; seasonings ready: Salt 1/3tsp, Sesame oil pinch.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "water-lily-stem-fish-ball-noodles",
+      "status": "Fail",
+      "issues": [
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve immediately while hot.\""
+      ]
+    },
+    {
+      "slug": "water-lily-stem-oyster-sauce",
+      "status": "Fail",
+      "issues": [
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve immediately while hot.\""
+      ]
+    },
+    {
+      "slug": "water-lily-stem-tofu-braise",
+      "status": "Fail",
+      "issues": [
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve immediately while hot.\""
+      ]
+    },
+    {
+      "slug": "weight-loss-clear-mushroom-soup",
+      "status": "Fail",
+      "issues": [
+        "ingredients count mismatch: ZH has 2, EN has 1",
+        "Step 1 has Prep prefix: \"Prep: Mushrooms 200g; seasonings ready: Water 700ml, Salt pinch, White pepper pinch, Scallion 1stalk.\"",
+        "Step 4 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    },
+    {
+      "slug": "white-sauce-chicken-pasta",
+      "status": "Fail",
+      "issues": [
+        "Step 1 has Prep prefix: \"Prep: Spaghetti 80g, Chicken breast 100g.\"",
+        "Step 5 seems to be a generic placeholder: \"Taste and adjust seasoning; serve while hot.\""
+      ]
+    }
+  ],
+  "missing": []
+}
