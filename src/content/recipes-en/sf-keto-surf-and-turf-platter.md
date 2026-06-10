@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep 舒肥牛 適量, 巴沙魚 180公克, 炒菇 120公克, 起司 40公克; seasonings ready: 橄欖油 1.5大匙, 海鹽 1/3小匙."
-- Cook main components over medium-high until properly browned and cooked through.
-- Add sides in order of cook time; keep sauces warm.
-- Plate Keto Surf And Turf Platter with sauce spooned over the hero ingredient.
+- "Prep: organize 舒肥牛 適量, 巴沙魚 180公克, 炒菇 120公克, 起司 40公克 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1.5大匙, 海鹽 1/3小匙)."
+- Cook main proteins and starches over medium-high until properly browned and cooked through.
+- Toast bread or heat side dishes in a skillet to build layers and crispy textures.
+- Drizzle signature sauces (橄欖油 1.5大匙, 海鹽 1/3小匙) and arrange ingredients beautifully on a large plate for Keto Surf And Turf Platter.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

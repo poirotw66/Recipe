@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 綜合生菜 120公克, 培根 80公克, 麵包丁 40公克; wash and dry greens, dice proteins (炸油 600毫升, 海鹽 1/2小匙, 凱薩醬 2大匙, 莎莎醬 2大匙 mixed separately).
-- Cook warm components (protein, grains, cauliflower rice) until done with light browning.
-- Toss greens in a large bowl; add warm items; drizzle 炸油 600毫升, 海鹽 1/2小匙, 凱薩醬 2大匙, 莎莎醬 2大匙 in 2–3 passes to avoid soggy salad.
-- Finish with nuts, cheese, or fruit layers for Classic Caesar Salad.
+- Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 綜合生菜 120公克, 培根 80公克, 麵包丁 40公克.
+- Sear proteins (chicken, bacon, shrimp, or salmon) in a skillet with salt and pepper until golden; toast croutons.
+- In a large bowl, toss greens with 2/3 of 炸油 600毫升, 海鹽 1/2小匙, 凱薩醬 2大匙, 莎莎醬 2大匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.
+- Transfer greens to a serving dish, arrange proteins, tomatoes, and croutons on top, then finish with grated parmesan and nuts.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

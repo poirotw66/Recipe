@@ -49,9 +49,9 @@ tags:
 intro: Steam protein and sides together in the rice cooker—handy for midweek prep for the next day's lunch.
 steps:
 - "Prep: Chicken breast 2pieces, Hon-shimeji mushrooms 1/2package, Broccoli 1/3head; rinse rice if using and chop vegetables."
+- "Prep: Chicken breast 2pieces, Hon-shimeji mushrooms 1/2package, Broccoli 1/3head; rinse rice if using and chop vegetables."
 - Score the chicken, rub with salt, pepper, and olive oil. Cut broccoli into small florets and separate the mushrooms.
 - Place chicken and vegetables in a rice-cooker-safe dish; add 1 cup water to the outer pot.
-- When the cooker switches off, let it rest 5 minutes, then check that the chicken is cooked through at the center and portion out.
 tips:
 - Rest chicken at room temperature about 10 minutes before steaming for even texture.
 - For bento color, do not over-steam the broccoli.

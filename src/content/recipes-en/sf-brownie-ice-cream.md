@@ -27,10 +27,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep 布朗尼 1份, 香草冰淇淋 2球; seasonings ready: 無鹽奶油 30公克, 細砂糖 2大匙, 巧克力醬 1.5大匙."
-- Cook main components over medium-high until properly browned and cooked through.
-- Add sides in order of cook time; keep sauces warm.
-- Plate Brownie Ice Cream with sauce spooned over the hero ingredient.
+- Bring cream cheese or chocolate to room temp; preheat oven to 350°F; prepare molds.
+- In a bowl, whisk melted butter, sugar, eggs, and flour (or assemble pie crust and fillings); pour into molds.
+- Bake for 25–30 minutes until the cake/brownie is set but still slightly moist in the center; cool slightly.
+- Arrange on plates, add vanilla ice cream scoops or whipped cream, and drizzle with hot 無鹽奶油 30公克, 細砂糖 2大匙, 巧克力醬 1.5大匙.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

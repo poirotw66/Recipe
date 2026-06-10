@@ -61,6 +61,8 @@ intro: Brown mushrooms first, then chicken and pesto pasta for more depth than p
 steps:
 - Boil salted water; cook pasta until al dente, drain and reserve ½ cup pasta water.
 - "Prep: Spaghetti 80g, Chicken breast 100g, Mushrooms 80g, Scallions 2stalks, Garlic 2cloves."
+- Boil salted water; cook pasta until al dente, drain and reserve ½ cup pasta water.
+- "Prep: Spaghetti 80g, Chicken breast 100g, Mushrooms 80g, Scallions 2stalks, Garlic 2cloves."
 - Slice chicken and mushrooms. Cook pasta al dente; reserve ½ cup water. Blend scallion greens, garlic, 2 Tbsp oil, and cheese into pesto paste.
 - Heat oil; cook mushrooms and chicken through.
 - Add pasta, pesto, and a splash of pasta water; season with salt and pepper.

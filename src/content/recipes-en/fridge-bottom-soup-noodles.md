@@ -64,10 +64,10 @@ intro: The point is a clean broth plus whatever vegetables are on hand—not a r
 steps:
 - "Prep: Noodles 1serving, Cabbage 60g, Egg 1; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch."
 - Bring Water 600ml to a boil, then add longer-cooking items first.
+- "Prep: Noodles 1serving, Cabbage 60g, Egg 1; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch."
+- Bring Water 600ml to a boil, then add longer-cooking items first.
 - Chop cabbage; slice scallions; beat egg.
 - Bring water and soy sauce to a boil; add noodles and cabbage.
-- Cook noodles until springy per package.
-- Lower heat and drizzle egg in a circle to form ribbons.
 storage: Best fresh; noodles turn mushy overnight.
 faqs:
 - question: Instant noodles instead?

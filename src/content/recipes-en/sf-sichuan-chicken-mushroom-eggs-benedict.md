@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 歐包 2份, 口水雞 180公克, 奶油炒菇 120公克, 水波蛋 2顆; plan toast, potatoes, and salad components separately (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒碎 1/2小匙).
-- Sear proteins to medium; roast potatoes; make eggs last for best texture.
-- Simmer sauce until spoon-coating; poach eggs in acidulated water.
-- "Plate in zones: main, eggs, toast, and greens for Sichuan Chicken Mushroom Eggs Benedict."
+- Prep English muffins (split and toasted 350°F until golden); prep 歐包 2份, 口水雞 180公克, 奶油炒菇 120公克, 水波蛋 2顆; sauté mushrooms with butter and salt.
+- Sear main proteins (ham, chicken, beef, or smoked salmon) in a hot skillet; keep warm. Prep 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒碎 1/2小匙.
+- Bring water to a simmer with vinegar; swirl water and poach fresh eggs for 3 minutes for a runny yolk.
+- Layer mushrooms, proteins, and poached eggs on muffins; drizzle warm hollandaise or specialty sauce (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒碎 1/2小匙); serve immediately.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

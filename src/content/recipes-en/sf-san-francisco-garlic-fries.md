@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 薯條 250公克 for sharing; pat fry items dry, keep cold sauces separate (炸油 600毫升, 海鹽 1/2小匙, 蒜味奶油醬 3大匙).
-- Preheat fryer oil to 350–360°F or oven to 400°F; fry in batches until golden and crisp.
-- Cook fries or bread separately for contrast; drain on paper towels and season while hot.
-- Adjust dipping sauces to coat-not-drip consistency; plate hot center, cool garnish on the side for San Francisco Garlic Fries.
+- "Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 蒜味奶油醬 3大匙."
+- Heat oil to 350°F; fry potatoes in batches for about 5 minutes until crispy and golden brown; drain well.
+- Toss hot fries in a large bowl with sea salt, then drizzle with 炸油 600毫升, 海鹽 1/2小匙, 蒜味奶油醬 3大匙 (truffle, salted egg yolk, or cheese sauce).
+- Pile high in a serving basket lined with greaseproof paper, garnish with parsley, and serve hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

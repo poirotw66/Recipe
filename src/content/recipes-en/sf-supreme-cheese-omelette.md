@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 歐姆蕾 3顆蛋, 火腿 適量, 玉米 100公克, 綜合起司 40公克; plan toast, potatoes, and salad components separately (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙).
-- Sear proteins to medium; roast potatoes; make eggs last for best texture.
-- Simmer sauce until spoon-coating; poach eggs in acidulated water.
-- "Plate in zones: main, eggs, toast, and greens for Supreme Cheese Omelette."
+- "Prep: beat 3 eggs with a splash of cream and salt; prep 歐姆蕾 3顆蛋, 火腿 適量, 玉米 100公克, 綜合起司 40公克 and cheeses ready."
+- Sauté filling ingredients (onion, mushrooms, or ham) in butter until fragrant; set aside.
+- Melt butter in skillet, add eggs and stir quickly until half-set, then lay fillings and cheese in the center.
+- Fold the omelette into a half-moon shape, cover to melt cheese for 30 seconds, and slide onto a plate with sides.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

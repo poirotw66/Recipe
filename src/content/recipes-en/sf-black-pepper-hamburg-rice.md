@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep 漢堡排 180公克, 起司 40公克, 荷包蛋 2顆, 香米 220公克; seasonings ready: 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 黑胡椒醬 適量, 辣椒碎 1/2小匙."
-- Cook main components over medium-high until properly browned and cooked through.
-- Add sides in order of cook time; keep sauces warm.
-- Plate Black Pepper Hamburg Rice with sauce spooned over the hero ingredient.
+- Prep 漢堡排 180公克, 起司 40公克, 荷包蛋 2顆, 香米 220公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.
+- Heat oil in skillet; sauté aromatics and vegetables, then stir-fry rice quickly over medium-high heat.
+- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 黑胡椒醬 適量, 辣椒碎 1/2小匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).
+- Plate rice, top with main proteins (steak, patty, or egg yolk), and garnish with green onions.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

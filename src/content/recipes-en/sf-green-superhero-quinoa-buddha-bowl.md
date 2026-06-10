@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 蘆筍 適量, 莎莎 適量, 花椰菜 120公克, 藜麥 80公克; wash and dry greens, dice proteins (橄欖油 1.5大匙, 海鹽 1/3小匙 mixed separately).
-- Cook warm components (protein, grains, cauliflower rice) until done with light browning.
-- Toss greens in a large bowl; add warm items; drizzle 橄欖油 1.5大匙, 海鹽 1/3小匙 in 2–3 passes to avoid soggy salad.
-- Finish with nuts, cheese, or fruit layers for Green Superhero Quinoa Buddha Bowl.
+- Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 蘆筍 適量, 莎莎 適量, 花椰菜 120公克, 藜麥 80公克.
+- Sear proteins (chicken, bacon, shrimp, or salmon) in a skillet with salt and pepper until golden; toast croutons.
+- In a large bowl, toss greens with 2/3 of 橄欖油 1.5大匙, 海鹽 1/3小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.
+- Transfer greens to a serving dish, arrange proteins, tomatoes, and croutons on top, then finish with grated parmesan and nuts.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

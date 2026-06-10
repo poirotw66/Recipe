@@ -41,7 +41,7 @@ function patchRecipe(slug) {
   const end = raw.indexOf("\n---", 4);
   if (!raw.startsWith("---") || end < 0) throw new Error(`Bad frontmatter: ${slug}`);
   const fm = raw.slice(4, end);
-  const body = raw.slice(end);
+  const body = raw.slice(end + 4);
   const ctx = parseRecipeContext(raw);
   let steps;
 

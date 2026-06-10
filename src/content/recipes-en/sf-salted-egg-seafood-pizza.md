@@ -27,10 +27,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep 海鮮 180公克, 九層塔 10公克, 披薩餅皮 2份; seasonings ready: 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙."
-- Cook main components over medium-high until properly browned and cooked through.
-- Add sides in order of cook time; keep sauces warm.
-- Plate Salted Egg Seafood Pizza with sauce spooned over the hero ingredient.
+- "Prep: organize 海鮮 180公克, 九層塔 10公克, 披薩餅皮 2份 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙)."
+- Cook main proteins and starches over medium-high until properly browned and cooked through.
+- Toast bread or heat side dishes in a skillet to build layers and crispy textures.
+- Drizzle signature sauces (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙) and arrange ingredients beautifully on a large plate for Salted Egg Seafood Pizza.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

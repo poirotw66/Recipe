@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 橙香丹麥 2份, 水波蛋 2顆, 炒菇 120公克, 炒薯 250公克; plan toast, potatoes, and salad components separately (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 起司醬 2大匙).
-- Sear proteins to medium; roast potatoes; make eggs last for best texture.
-- Simmer sauce until spoon-coating; poach eggs in acidulated water.
-- "Plate in zones: main, eggs, toast, and greens for Orange Danish Mushroom Poached Potato."
+- "Prep: place orange French Danish pastry on baking sheet, bake at 350°F for 3–5 min until fragrant."
+- Heat oil in skillet; sear main protein (chicken, steak, seafood, or mushrooms from 橙香丹麥 2份, 水波蛋 2顆, 炒菇 120公克, 炒薯 250公克) with salt and pepper.
+- Prepare sunny-side or poached eggs; fry potato hash or wedges in skillet until golden brown.
+- Plate toast, proteins, eggs, and salad separately; drizzle 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 起司醬 2大匙 over the main components; serve immediately.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

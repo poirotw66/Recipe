@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 炭烤雞肉 180公克, 皮塔餅 2份, 沙拉 適量; plan toast, potatoes, and salad components separately (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙).
-- Sear proteins to medium; roast potatoes; make eggs last for best texture.
-- Simmer sauce until spoon-coating; poach eggs in acidulated water.
-- "Plate in zones: main, eggs, toast, and greens for Greek Campfire Grilled Chicken Brunch."
+- "Prep: clean and dry main meats (half chicken or pork knuckle), rub with sea salt, pepper, and spices; preheat oven to 400°F."
+- Sear meats in a hot skillet to lock in juices, transfer to oven, and roast at 375°F for 30 minutes until fully cooked.
+- Brush generously with remaining 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 during the last 5 minutes of roasting; bake sides (corn, wedges) together.
+- Let meats rest for 5 minutes, carve, and arrange on a large platter with sauerkraut and corn.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

@@ -52,10 +52,10 @@ intro: Dissolve miso off a rolling boil so aroma and nutrients stay intact.
 steps:
 - "Prep: Tofu 100g, Egg 1; seasonings ready: Miso paste 1.5tbsp, Water 500ml, Scallion 1stalk."
 - Bring Water 500ml to a boil, then add longer-cooking items first.
+- "Prep: Tofu 100g, Egg 1; seasonings ready: Miso paste 1.5tbsp, Water 500ml, Scallion 1stalk."
+- Bring Water 500ml to a boil, then add longer-cooking items first.
 - Dice tofu; slice scallions; beat egg.
 - Boil water; add tofu; simmer 2 minutes.
-- Lower heat; whisk miso with a little hot broth, then stir back in—do not boil hard.
-- Drizzle egg in a circle; rest 10 seconds; gently stir into ribbons.
 storage: Best fresh; reheat gently without a hard boil so egg stays tender.
 faqs:
 - question: Can I use red miso?

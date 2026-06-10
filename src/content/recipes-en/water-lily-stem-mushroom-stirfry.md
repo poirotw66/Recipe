@@ -29,6 +29,7 @@ steps:
 - Water dropwort and garlic over high 1 minute.
 - Salt and white pepper; serve.
 - Taste and adjust seasoning; serve immediately while hot.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - King oyster or shimeji mushrooms work well.
 storage: Refrigerate 1 day; microwave softens texture.

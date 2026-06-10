@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 舒肥雞 180公克, 花椰菜飯 120公克, 藜麥 80公克, 火烤玉米 100公克; wash and dry greens, dice proteins (橄欖油 1.5大匙, 海鹽 1/3小匙, 起司醬 2大匙 mixed separately).
-- Cook warm components (protein, grains, cauliflower rice) until done with light browning.
-- Toss greens in a large bowl; add warm items; drizzle 橄欖油 1.5大匙, 海鹽 1/3小匙, 起司醬 2大匙 in 2–3 passes to avoid soggy salad.
-- Finish with nuts, cheese, or fruit layers for Sous Vide Chicken Quinoa Cauliflower Rice.
+- Prep 舒肥雞 180公克, 花椰菜飯 120公克, 藜麥 80公克, 火烤玉米 100公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.
+- Heat oil in skillet; sauté aromatics and vegetables, then stir-fry rice quickly over medium-high heat.
+- Pour in 橄欖油 1.5大匙, 海鹽 1/3小匙, 起司醬 2大匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).
+- Plate rice, top with main proteins (steak, patty, or egg yolk), and garnish with green onions.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

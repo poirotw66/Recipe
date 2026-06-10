@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 魷魚 300公克, 薯條 250公克, 檸檬 1/2顆 for sharing; pat fry items dry, keep cold sauces separate (炸油 600毫升, 海鹽 1/2小匙, 雞尾酒醬 2大匙).
-- Preheat fryer oil to 350–360°F or oven to 400°F; fry in batches until golden and crisp.
-- Cook fries or bread separately for contrast; drain on paper towels and season while hot.
-- Adjust dipping sauces to coat-not-drip consistency; plate hot center, cool garnish on the side for Crispy Calamari Cocktail Sauce.
+- Prep 魷魚 300公克, 薯條 250公克, 檸檬 1/2顆 (wings, calamari, or fish); pat dry, season with salt/pepper, and coat lightly in flour.
+- Heat oil to 350°F; deep-fry in batches until golden and cooked through (5-6 min for chicken, 1.5 min for calamari); drain oil.
+- Warm 炸油 600毫升, 海鹽 1/2小匙, 雞尾酒醬 2大匙 in a small pan. If making wings, toss fried chicken in a large bowl with the hot sauce until coated.
+- Line plate with paper, arrange fried items, and serve with lemon wedges and dipping sauces on the side.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

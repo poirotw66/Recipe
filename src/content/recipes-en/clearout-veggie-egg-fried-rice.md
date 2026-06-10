@@ -56,6 +56,7 @@ seasonings:
 intro: Scramble eggs halfway first, then fold back in so grains stay coated evenly.
 steps:
 - "Prep: Cooked white rice 1bowl, Eggs 2, Scallion 1stalk; fluff cold rice and beat eggs with a pinch of salt."
+- "Prep: Cooked white rice 1bowl, Eggs 2, Scallion 1stalk; fluff cold rice and beat eggs with a pinch of salt."
 - Fluff rice; beat eggs; slice scallions.
 - Heat oil over medium-high; scramble eggs until half set; remove.
 - Add a little more oil if needed; stir-fry rice until grains separate.

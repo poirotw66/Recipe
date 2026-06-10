@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep 歐包 2份, 火腿 適量, 起司 40公克, 荷包蛋 2顆; seasonings ready: 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 楓糖漿 2大匙, 鮮奶油 適量."
-- Cook main components over medium-high until properly browned and cooked through.
-- Add sides in order of cook time; keep sauces warm.
-- Plate Griddled Butter Ham Sandwich with sauce spooned over the hero ingredient.
+- "Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 火腿 適量, 起司 40公克, 荷包蛋 2顆."
+- Sear patty or cutlet in skillet over medium heat until fully cooked. Melt cheese on top during the last 30 seconds.
+- Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 楓糖漿 2大匙, 鮮奶油 適量 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.
+- Close the burger (or leave open for sandwich); serve hot with a side of crispy fries.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

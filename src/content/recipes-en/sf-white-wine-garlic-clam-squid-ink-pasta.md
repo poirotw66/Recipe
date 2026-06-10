@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep 蛤蜊 400公克, 蒜 適量, 九層塔 10公克, 墨魚麵 180公克; seasonings ready: 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 白酒 2大匙."
-- Cook main components over medium-high until properly browned and cooked through.
-- Add sides in order of cook time; keep sauces warm.
-- Plate White Wine Garlic Clam Squid Ink Pasta with sauce spooned over the hero ingredient.
+- Boil pasta in salted water until al dente; drain and reserve 1/2 cup of pasta cooking water.
+- Heat oil in skillet over medium; sauté garlic and onions, then add 蛤蜊 400公克, 蒜 適量, 九層塔 10公克, 墨魚麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.
+- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 白酒 2大匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
+- Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

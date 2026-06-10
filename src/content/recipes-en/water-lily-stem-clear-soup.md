@@ -29,6 +29,7 @@ steps:
 - Add water dropwort 1–2 minutes until crisp-tender.
 - Salt and white pepper to taste.
 - Taste and adjust seasoning; serve immediately while hot.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Few drops of sesame oil at the end optional.
 storage: Eat fresh; greens soften overnight.

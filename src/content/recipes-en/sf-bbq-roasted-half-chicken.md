@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep 半雞 1/2隻, 烤玉米 100公克, 薯條 250公克; seasonings ready: 橄欖油 2大匙, 海鹽 1小匙, 黑胡椒碎 1/2小匙, BBQ 醬 2大匙."
-- Cook main components over medium-high until properly browned and cooked through.
-- Add sides in order of cook time; keep sauces warm.
-- Plate Bbq Roasted Half Chicken with sauce spooned over the hero ingredient.
+- "Prep: clean and dry main meats (half chicken or pork knuckle), rub with sea salt, pepper, and spices; preheat oven to 400°F."
+- Sear meats in a hot skillet to lock in juices, transfer to oven, and roast at 375°F for 30 minutes until fully cooked.
+- Brush generously with remaining 橄欖油 2大匙, 海鹽 1小匙, 黑胡椒碎 1/2小匙, BBQ 醬 2大匙 during the last 5 minutes of roasting; bake sides (corn, wedges) together.
+- Let meats rest for 5 minutes, carve, and arrange on a large platter with sauerkraut and corn.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

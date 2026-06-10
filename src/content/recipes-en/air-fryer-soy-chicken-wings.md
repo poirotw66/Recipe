@@ -56,11 +56,11 @@ seasonings:
 intro: Dry wings before marinating; drain marinade before the basket so skin crisps.
 steps:
 - "Prep: Chicken wings 4pieces; pat Chicken wings dry and rub with Soy sauce 2tbsp, Rice wine 1tbsp, Garlic 3cloves, Ginger 3slices, Salt pinch, Black pepper pinch."
+- "Prep: Chicken wings 4pieces; pat Chicken wings dry and rub with Soy sauce 2tbsp, Rice wine 1tbsp, Garlic 3cloves, Ginger 3slices, Salt pinch, Black pepper pinch."
 - Rinse wings and pat dry; score each twice for flavor. Mince garlic; slice ginger.
 - Mix soy sauce, rice wine, garlic, ginger, salt, and pepper; toss wings and marinate 15 minutes.
 - Preheat air fryer to 190°C for 3 minutes. Drain wings and arrange in one layer.
 - Air-fry at 190°C for 10 minutes, flip, then 8 more.
-- For extra color, air-fry at 200°C for 2 minutes.
 storage: Refrigerate up to 2 days; reheat at 170°C for 5 minutes.
 faqs:
 - question: Can I use drumsticks instead?

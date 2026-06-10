@@ -27,6 +27,7 @@ steps:
 - Water dropwort 1–2 minutes until crisp-tender.
 - Salt to taste; serve.
 - Taste and adjust seasoning; serve immediately while hot.
+- Taste and adjust seasoning; serve immediately while hot.
 tips:
 - Do not overcook greens—crisp is best.
 storage: Same day; reheating softens greens.

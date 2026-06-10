@@ -9,12 +9,12 @@
     {
       "slug": "weight-loss-clear-mushroom-soup",
       "steps": 6,
-      "avg": 22
+      "avg": 25
     },
     {
       "slug": "water-lily-stem-fish-ball-noodles",
-      "steps": 5,
-      "avg": 20
+      "steps": 6,
+      "avg": 22
     },
     {
       "slug": "carrot-chicken-rice-bowl",
@@ -23,13 +23,13 @@
     },
     {
       "slug": "water-lily-stem-clear-soup",
-      "steps": 5,
-      "avg": 21
+      "steps": 6,
+      "avg": 22
     },
     {
       "slug": "water-lily-stem-mushroom-stirfry",
-      "steps": 5,
-      "avg": 21
+      "steps": 6,
+      "avg": 23
     },
     {
       "slug": "ten-minute-udon-soup",
@@ -44,12 +44,12 @@
     {
       "slug": "mixed-leftover-congee",
       "steps": 6,
-      "avg": 26
+      "avg": 28
     },
     {
       "slug": "water-lily-stem-tofu-braise",
-      "steps": 5,
-      "avg": 22
+      "steps": 6,
+      "avg": 24
     },
     {
       "slug": "bento-stir-fried-cabbage",
@@ -69,7 +69,7 @@
     {
       "slug": "fridge-bottom-soup-noodles",
       "steps": 6,
-      "avg": 26
+      "avg": 29
     },
     {
       "slug": "garlic-tomato-chicken-rice-bowl",
@@ -83,18 +83,18 @@
     },
     {
       "slug": "budget-simple-egg-fried-rice",
-      "steps": 6,
-      "avg": 22
+      "steps": 7,
+      "avg": 23
     },
     {
       "slug": "water-lily-stem-garlic-stirfry",
-      "steps": 5,
-      "avg": 22
+      "steps": 6,
+      "avg": 24
     },
     {
       "slug": "water-lily-stem-pork-soup",
-      "steps": 5,
-      "avg": 24
+      "steps": 6,
+      "avg": 26
     },
     {
       "slug": "solo-sesame-chicken-rice",
@@ -113,8 +113,8 @@
     },
     {
       "slug": "water-lily-stem-oyster-sauce",
-      "steps": 5,
-      "avg": 23
+      "steps": 6,
+      "avg": 25
     },
     {
       "slug": "solo-three-cup-chicken-rice",
@@ -128,8 +128,8 @@
     },
     {
       "slug": "water-lily-stem-chicken-rice-bowl",
-      "steps": 5,
-      "avg": 28
+      "steps": 6,
+      "avg": 29
     },
     {
       "slug": "solo-lu-rou-rice",
@@ -144,7 +144,7 @@
     {
       "slug": "weight-loss-shrimp-veg-salad",
       "steps": 5,
-      "avg": 22
+      "avg": 23
     },
     {
       "slug": "broccoli-tofu-garlic-stirfry",
@@ -153,8 +153,8 @@
     },
     {
       "slug": "water-lily-stem-shrimp-stirfry",
-      "steps": 5,
-      "avg": 28
+      "steps": 6,
+      "avg": 29
     },
     {
       "slug": "high-protein-tofu-steak-plate",
@@ -164,7 +164,7 @@
     {
       "slug": "instant-miso-egg-soup",
       "steps": 6,
-      "avg": 27
+      "avg": 28
     },
     {
       "slug": "leftover-meat-quick-stirfry",
@@ -179,7 +179,7 @@
     {
       "slug": "clearout-tofu-veggie-soup",
       "steps": 6,
-      "avg": 29
+      "avg": 31
     },
     {
       "slug": "random-veggie-egg-pancake",
@@ -199,7 +199,7 @@
     {
       "slug": "garlic-tofu-chicken-pan-main",
       "steps": 5,
-      "avg": 34
+      "avg": 36
     },
     {
       "slug": "high-protein-egg-white-stirfry",
@@ -214,7 +214,7 @@
     {
       "slug": "bento-honey-soy-pork",
       "steps": 5,
-      "avg": 21
+      "avg": 22
     },
     {
       "slug": "canned-tuna-rice-bowl",
@@ -223,8 +223,8 @@
     },
     {
       "slug": "clearout-veggie-egg-fried-rice",
-      "steps": 6,
-      "avg": 25
+      "steps": 7,
+      "avg": 27
     },
     {
       "slug": "tomato-beef-rice-bowl",
@@ -259,7 +259,7 @@
     {
       "slug": "garlic-mushroom-chicken",
       "steps": 5,
-      "avg": 36
+      "avg": 38
     },
     {
       "slug": "garlic-cabbage-tofu-braise",
@@ -279,7 +279,7 @@
     {
       "slug": "electricpot-broccoli-chicken-bento",
       "steps": 4,
-      "avg": 38
+      "avg": 39
     },
     {
       "slug": "airfryer-tofu-mushroom-main",
@@ -289,7 +289,7 @@
     {
       "slug": "steamed-chicken-bento",
       "steps": 4,
-      "avg": 38
+      "avg": 39
     },
     {
       "slug": "onion-cabbage-mushroom-saute",
@@ -299,17 +299,17 @@
     {
       "slug": "airfryer-garlic-chicken-broccoli",
       "steps": 4,
-      "avg": 43
+      "avg": 44
     },
     {
       "slug": "tomato-tofu-soup",
-      "steps": 5,
-      "avg": 34
+      "steps": 6,
+      "avg": 33
     },
     {
       "slug": "cabbage-mushroom-clear-soup",
-      "steps": 5,
-      "avg": 36
+      "steps": 6,
+      "avg": 35
     },
     {
       "slug": "onion-salmon-pan-steak",
@@ -319,7 +319,7 @@
     {
       "slug": "soy-garlic-chicken-breast-pan",
       "steps": 5,
-      "avg": 40
+      "avg": 42
     },
     {
       "slug": "sesame-onion-chicken-rice-bowl",
@@ -334,12 +334,12 @@
     {
       "slug": "garlic-beef-cabbage-stirfry",
       "steps": 5,
-      "avg": 43
+      "avg": 45
     },
     {
       "slug": "beef-broccoli-stirfry",
       "steps": 5,
-      "avg": 43
+      "avg": 44
     },
     {
       "slug": "electricpot-tofu-egg-bento-side",
@@ -358,8 +358,8 @@
     },
     {
       "slug": "tofu-tomato-pasta",
-      "steps": 5,
-      "avg": 38
+      "steps": 7,
+      "avg": 37
     },
     {
       "slug": "egg-scallion-oil-noodles",
@@ -368,8 +368,8 @@
     },
     {
       "slug": "quick-kimchi-fried-rice",
-      "steps": 6,
-      "avg": 26
+      "steps": 7,
+      "avg": 28
     },
     {
       "slug": "air-fryer-butter-corn",
@@ -384,12 +384,12 @@
     {
       "slug": "bento-black-pepper-beef",
       "steps": 5,
-      "avg": 25
+      "avg": 26
     },
     {
       "slug": "high-protein-chicken-broccoli-bowl",
       "steps": 5,
-      "avg": 27
+      "avg": 28
     },
     {
       "slug": "solo-mapo-tofu-rice-bowl",
@@ -404,7 +404,7 @@
     {
       "slug": "bento-ginger-chicken",
       "steps": 5,
-      "avg": 24
+      "avg": 25
     },
     {
       "slug": "sesame-cold-noodles-solo",
@@ -418,8 +418,8 @@
     },
     {
       "slug": "leftover-mixed-veggie-fried-rice",
-      "steps": 6,
-      "avg": 31
+      "steps": 7,
+      "avg": 33
     },
     {
       "slug": "air-fryer-garlic-okra",
@@ -433,7 +433,7 @@
     },
     {
       "slug": "water-lily-stem-egg-stirfry",
-      "steps": 6,
+      "steps": 7,
       "avg": 28
     },
     {
@@ -464,7 +464,7 @@
     {
       "slug": "air-fryer-garlic-shrimp",
       "steps": 6,
-      "avg": 40
+      "avg": 41
     },
     {
       "slug": "mushroom-soft-egg-brunch",
@@ -499,27 +499,27 @@
     {
       "slug": "chefs-daily-soup",
       "steps": 6,
-      "avg": 37
+      "avg": 36
     },
     {
       "slug": "sf-brownie-ice-cream",
       "steps": 4,
-      "avg": 28
+      "avg": 52
     },
     {
       "slug": "sf-american-cheesecake",
       "steps": 4,
-      "avg": 25
+      "avg": 49
     },
     {
       "slug": "sf-strong-chocolate-cake",
       "steps": 4,
-      "avg": 26
+      "avg": 49
     },
     {
       "slug": "sf-country-cinnamon-peach-pie",
       "steps": 4,
-      "avg": 27
+      "avg": 49
     },
     {
       "slug": "honey-cajun-chicken-wings",
@@ -528,8 +528,8 @@
     },
     {
       "slug": "spicy-seafood-tomato-pasta",
-      "steps": 6,
-      "avg": 36
+      "steps": 8,
+      "avg": 37
     },
     {
       "slug": "cajun-fries",
@@ -539,32 +539,32 @@
     {
       "slug": "sf-green-superhero-quinoa-buddha-bowl",
       "steps": 4,
-      "avg": 52
+      "avg": 60
     },
     {
       "slug": "sf-griddled-butter-ham-sandwich",
       "steps": 4,
-      "avg": 52
+      "avg": 59
     },
     {
       "slug": "sf-keto-surf-and-turf-platter",
       "steps": 4,
-      "avg": 53
+      "avg": 64
     },
     {
       "slug": "sf-signature-double-stack-burger",
       "steps": 4,
-      "avg": 52
+      "avg": 59
     },
     {
       "slug": "sf-tropical-yogurt-bowl",
       "steps": 4,
-      "avg": 54
+      "avg": 43
     },
     {
       "slug": "sf-acai-berry-yogurt-bowl",
       "steps": 4,
-      "avg": 54
+      "avg": 43
     },
     {
       "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
@@ -574,22 +574,22 @@
     {
       "slug": "sf-bbq-roasted-half-chicken",
       "steps": 4,
-      "avg": 32
+      "avg": 57
     },
     {
       "slug": "sf-chef-crispy-pork-knuckle",
       "steps": 4,
-      "avg": 34
+      "avg": 55
     },
     {
       "slug": "sf-spicy-mexican-firecracker-burger",
       "steps": 4,
-      "avg": 56
+      "avg": 63
     },
     {
       "slug": "white-sauce-chicken-pasta",
-      "steps": 6,
-      "avg": 40
+      "steps": 8,
+      "avg": 39
     },
     {
       "slug": "fried-trio-platter",
@@ -599,17 +599,17 @@
     {
       "slug": "sf-kids-cream-chicken-penne",
       "steps": 4,
-      "avg": 34
+      "avg": 66
     },
     {
       "slug": "sf-cheesy-chicken-egg-rice",
       "steps": 4,
-      "avg": 34
+      "avg": 60
     },
     {
       "slug": "sf-mini-beef-egg-burger-set",
       "steps": 4,
-      "avg": 31
+      "avg": 46
     },
     {
       "slug": "fish-and-chips",
@@ -619,22 +619,22 @@
     {
       "slug": "sf-poutine-meat-sauce-fries",
       "steps": 4,
-      "avg": 55
+      "avg": 62
     },
     {
       "slug": "sf-salsa-black-curry-fried-chicken",
       "steps": 4,
-      "avg": 58
+      "avg": 64
     },
     {
       "slug": "sf-san-francisco-garlic-fries",
       "steps": 4,
-      "avg": 54
+      "avg": 60
     },
     {
       "slug": "sf-buffalo-chicken-wings",
       "steps": 4,
-      "avg": 58
+      "avg": 64
     },
     {
       "slug": "electricpot-mushroom-chicken-bento",
@@ -644,82 +644,82 @@
     {
       "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
       "steps": 4,
-      "avg": 46
+      "avg": 67
     },
     {
       "slug": "sf-south-sea-spiced-chicken-rice",
       "steps": 4,
-      "avg": 42
+      "avg": 55
     },
     {
       "slug": "sf-supreme-cheese-omelette",
       "steps": 4,
-      "avg": 46
+      "avg": 51
     },
     {
       "slug": "sf-sweet-savory-rice",
       "steps": 4,
-      "avg": 42
+      "avg": 55
     },
     {
       "slug": "sf-campfire-lemon-zucchini-fish-fillet",
       "steps": 4,
-      "avg": 35
+      "avg": 45
     },
     {
       "slug": "sf-classic-beef-mushroom-eggs-benedict",
       "steps": 4,
-      "avg": 46
+      "avg": 68
     },
     {
       "slug": "sf-classic-ham-mushroom-eggs-benedict",
       "steps": 4,
-      "avg": 47
+      "avg": 70
     },
     {
       "slug": "sf-greek-campfire-grilled-chicken-brunch",
       "steps": 4,
-      "avg": 44
+      "avg": 48
     },
     {
       "slug": "sf-salted-egg-seafood-pizza",
       "steps": 4,
-      "avg": 38
+      "avg": 49
     },
     {
       "slug": "sf-truffle-fries",
       "steps": 4,
-      "avg": 55
+      "avg": 59
     },
     {
       "slug": "sf-asahi-cordon-bleu-pork-burger",
       "steps": 4,
-      "avg": 34
+      "avg": 45
     },
     {
       "slug": "sf-oat-crusted-fish-and-fries",
       "steps": 4,
-      "avg": 56
+      "avg": 59
     },
     {
       "slug": "sf-orange-danish-mushroom-poached-potato",
       "steps": 4,
-      "avg": 52
+      "avg": 61
     },
     {
       "slug": "sf-orange-danish-poached-seafood-potato",
       "steps": 4,
-      "avg": 50
+      "avg": 59
     },
     {
       "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
       "steps": 4,
-      "avg": 49
+      "avg": 73
     },
     {
       "slug": "sf-worcester-meat-sauce-omelette",
       "steps": 4,
-      "avg": 49
+      "avg": 51
     },
     {
       "slug": "sf-chicken-quesadilla",
@@ -729,167 +729,167 @@
     {
       "slug": "sf-crispy-calamari-cocktail-sauce",
       "steps": 4,
-      "avg": 59
+      "avg": 64
     },
     {
       "slug": "sf-local-sausage-quesadilla",
       "steps": 4,
-      "avg": 65
+      "avg": 63
     },
     {
       "slug": "sf-orange-danish-sunny-sous-vide-chicken",
       "steps": 4,
-      "avg": 53
+      "avg": 62
     },
     {
       "slug": "sf-sous-vide-chicken-caesar-salad",
       "steps": 4,
-      "avg": 49
+      "avg": 57
     },
     {
       "slug": "sf-mushroom-cheese-omelette",
       "steps": 4,
-      "avg": 47
+      "avg": 51
     },
     {
       "slug": "sf-orange-danish-sous-vide-steak",
       "steps": 4,
-      "avg": 53
+      "avg": 62
     },
     {
       "slug": "sf-salted-egg-yolk-fries",
       "steps": 4,
-      "avg": 62
+      "avg": 68
     },
     {
       "slug": "sf-avocado-bacon-open-toast",
       "steps": 4,
-      "avg": 51
+      "avg": 57
     },
     {
       "slug": "sf-avocado-smoked-salmon-open-toast",
       "steps": 4,
-      "avg": 49
+      "avg": 55
     },
     {
       "slug": "sf-classic-caesar-salad",
       "steps": 4,
-      "avg": 59
+      "avg": 63
     },
     {
       "slug": "sf-roasted-sesame-chicken-salad",
       "steps": 4,
-      "avg": 57
+      "avg": 63
     },
     {
       "slug": "sf-avocado-local-sausage-danish-open",
       "steps": 4,
-      "avg": 52
+      "avg": 58
     },
     {
       "slug": "sf-second-floor-saltwater-chicken-salad",
       "steps": 4,
-      "avg": 69
+      "avg": 70
     },
     {
       "slug": "sf-smoked-salmon-caesar-salad",
       "steps": 4,
-      "avg": 51
+      "avg": 59
     },
     {
       "slug": "sf-black-truffle-cordon-bleu-pork-open",
       "steps": 4,
-      "avg": 52
+      "avg": 59
     },
     {
       "slug": "sf-poached-egg-smoked-beef-danish-open",
       "steps": 4,
-      "avg": 50
+      "avg": 56
     },
     {
       "slug": "sf-bloody-mary-spicy-rice",
       "steps": 4,
-      "avg": 46
+      "avg": 59
     },
     {
       "slug": "sf-spicy-tomato-bacon-penne",
       "steps": 4,
-      "avg": 48
+      "avg": 67
     },
     {
       "slug": "sf-white-wine-garlic-clam-squid-ink-pasta",
       "steps": 4,
-      "avg": 46
+      "avg": 65
     },
     {
       "slug": "sf-dawn-shrimp-chicken-linguine",
       "steps": 4,
-      "avg": 46
+      "avg": 65
     },
     {
       "slug": "sf-moon-view-bitter-melon-cream-rice",
       "steps": 4,
-      "avg": 48
+      "avg": 61
     },
     {
       "slug": "sf-spicy-spanish-surf-and-turf-rice",
       "steps": 4,
-      "avg": 47
+      "avg": 60
     },
     {
       "slug": "sf-balsamic-mushroom-pasta",
       "steps": 4,
-      "avg": 47
+      "avg": 66
     },
     {
       "slug": "sf-black-pepper-hamburg-rice",
       "steps": 4,
-      "avg": 48
+      "avg": 62
     },
     {
       "slug": "sf-classic-pesto-shrimp-pasta",
       "steps": 4,
-      "avg": 47
+      "avg": 66
     },
     {
       "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
       "steps": 4,
-      "avg": 47
+      "avg": 66
     },
     {
       "slug": "sf-salted-egg-bitter-melon-pasta",
       "steps": 4,
-      "avg": 49
+      "avg": 68
     },
     {
       "slug": "sf-baked-thick-cut-pork-cream-rice",
       "steps": 4,
-      "avg": 49
+      "avg": 62
     },
     {
       "slug": "sf-spicy-pepper-karaage-pasta",
       "steps": 4,
-      "avg": 49
+      "avg": 68
     },
     {
       "slug": "sf-truffle-mushroom-cream-pasta",
       "steps": 4,
-      "avg": 48
+      "avg": 67
     },
     {
       "slug": "sf-second-floor-fiesta-shrimp-penne",
       "steps": 4,
-      "avg": 48
+      "avg": 67
     },
     {
       "slug": "sf-cheesy-local-sausage-cream-pasta",
       "steps": 4,
-      "avg": 52
+      "avg": 71
     },
     {
       "slug": "pesto-chicken-mushroom-pasta",
-      "steps": 5,
-      "avg": 45
+      "steps": 7,
+      "avg": 46
     },
     {
       "slug": "curry-beef-rice",

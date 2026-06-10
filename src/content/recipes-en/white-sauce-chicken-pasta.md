@@ -54,6 +54,8 @@ intro: Sear chicken first, then thicken milk and cheese into white sauce—rich 
 steps:
 - Boil salted water; cook pasta until al dente, drain and reserve ½ cup pasta water.
 - "Prep: Spaghetti 80g, Chicken breast 100g."
+- Boil salted water; cook pasta until al dente, drain and reserve ½ cup pasta water.
+- "Prep: Spaghetti 80g, Chicken breast 100g."
 - Dice chicken; season with salt and pepper. Cook pasta until al dente; reserve ½ cup pasta water.
 - Melt butter; pan-fry chicken until golden. Add minced garlic and stir until fragrant.
 - Pour in milk and grated cheese; simmer gently and stir until slightly thickened.

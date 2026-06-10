@@ -52,6 +52,8 @@ intro: Lightly sear tofu before tomato sauce—more texture than tossing raw tof
 steps:
 - Boil salted water; cook pasta until al dente, drain and reserve ½ cup pasta water.
 - "Prep: Pasta 80g, Tofu 0.5box, Tomato 1."
+- Boil salted water; cook pasta until al dente, drain and reserve ½ cup pasta water.
+- "Prep: Pasta 80g, Tofu 0.5box, Tomato 1."
 - Cube tofu; dice tomato; cook pasta al dente; reserve 1/2 cup pasta water.
 - Skillet with oil; fry tofu until lightly golden; add garlic and tomato until soft.
 - Tomato paste and pasta water; toss pasta until sauce clings.
