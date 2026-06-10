@@ -2,7 +2,7 @@
 title: 全美起司蛋糕 스타일 레시피
 recipeId: sf-american-cheesecake
 description: Second Floor Cafe 스타일로 Oreo 餅底起司蛋糕 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-american-cheesecake.svg
+coverImage: /images/recipes/sf-american-cheesecake.webp
 servings: 2
 prepTime: 20
 cookTime: 28

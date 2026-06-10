@@ -2,7 +2,7 @@
 title: Spicy Mexican Firecracker Burger
 recipeId: sf-spicy-mexican-firecracker-burger
 description: "Second Floor Cafe-inspired handheld mains with restaurant-style portions and 牛肉排、起司、炸墨西哥辣椒、BBQ 醬、薯塊."
-coverImage: /images/recipes/sf-spicy-mexican-firecracker-burger.svg
+coverImage: /images/recipes/sf-spicy-mexican-firecracker-burger.webp
 servings: 1
 prepTime: 18
 cookTime: 15

@@ -2,7 +2,7 @@
 title: 強的 스타일 레시피
 recipeId: sf-strong-chocolate-cake
 description: Second Floor Cafe 스타일로 4 吋巧克力蛋糕 + 奶油起司 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-strong-chocolate-cake.svg
+coverImage: /images/recipes/sf-strong-chocolate-cake.webp
 servings: 2
 prepTime: 20
 cookTime: 28

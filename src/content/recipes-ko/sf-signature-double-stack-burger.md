@@ -2,7 +2,7 @@
 title: 實打實招牌漢堡 스타일 레시피
 recipeId: sf-signature-double-stack-burger
 description: Second Floor Cafe 스타일로 牛肉排、炸魚、培根、巴薩米克醬、薯塊 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-signature-double-stack-burger.svg
+coverImage: /images/recipes/sf-signature-double-stack-burger.webp
 servings: 1
 prepTime: 18
 cookTime: 15

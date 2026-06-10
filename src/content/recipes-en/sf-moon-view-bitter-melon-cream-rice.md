@@ -2,7 +2,7 @@
 title: Moon View Bitter Melon Cream Rice
 recipeId: sf-moon-view-bitter-melon-cream-rice
 description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 鹹蛋、山苦瓜、蕈菇、生蛋、起司."
-coverImage: /images/recipes/sf-moon-view-bitter-melon-cream-rice.svg
+coverImage: /images/recipes/sf-moon-view-bitter-melon-cream-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

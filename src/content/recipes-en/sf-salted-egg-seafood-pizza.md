@@ -2,7 +2,7 @@
 title: Salted Egg Seafood Pizza
 recipeId: sf-salted-egg-seafood-pizza
 description: "Second Floor Cafe-inspired seasonal specials with restaurant-style portions and 金沙醬、海鮮、九層塔、披薩餅皮."
-coverImage: /images/recipes/sf-salted-egg-seafood-pizza.svg
+coverImage: /images/recipes/sf-salted-egg-seafood-pizza.webp
 servings: 1
 prepTime: 20
 cookTime: 18

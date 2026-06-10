@@ -2,7 +2,7 @@
 title: 甘味飯 再現レシピ
 recipeId: sf-sweet-savory-rice
 description: Second Floor Cafe 風に 蜜餞、米飯、台南限定 を組み合わせた、店の一皿を意識した再現レシピです。
-coverImage: /images/recipes/sf-sweet-savory-rice.svg
+coverImage: /images/recipes/sf-sweet-savory-rice.webp
 servings: 1
 prepTime: 20
 cookTime: 18

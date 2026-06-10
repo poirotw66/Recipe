@@ -2,7 +2,7 @@
 title: Greek Campfire Grilled Chicken Brunch
 recipeId: sf-greek-campfire-grilled-chicken-brunch
 description: "Second Floor Cafe-inspired linkou specials with restaurant-style portions and 炭烤雞肉、皮塔餅、沙拉."
-coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.svg
+coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.webp
 servings: 1
 prepTime: 20
 cookTime: 18

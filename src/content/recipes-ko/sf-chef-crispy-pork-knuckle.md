@@ -2,7 +2,7 @@
 title: 主廚脆皮豬腳 스타일 레시피
 recipeId: sf-chef-crispy-pork-knuckle
 description: Second Floor Cafe 스타일로 德式豬腳、烤玉米、酸菜、芥末、薯條 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-chef-crispy-pork-knuckle.svg
+coverImage: /images/recipes/sf-chef-crispy-pork-knuckle.webp
 servings: 2
 prepTime: 25
 cookTime: 35

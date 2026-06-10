@@ -2,7 +2,7 @@
 title: Griddled Butter Ham Sandwich
 recipeId: sf-griddled-butter-ham-sandwich
 description: "Second Floor Cafe-inspired handheld mains with restaurant-style portions and 歐包、火腿、起司、荷包蛋、薯塊、楓糖漿."
-coverImage: /images/recipes/sf-griddled-butter-ham-sandwich.svg
+coverImage: /images/recipes/sf-griddled-butter-ham-sandwich.webp
 servings: 1
 prepTime: 18
 cookTime: 15

@@ -2,7 +2,7 @@
 title: Chef Crispy Pork Knuckle
 recipeId: sf-chef-crispy-pork-knuckle
 description: "Second Floor Cafe-inspired big plates with restaurant-style portions and 德式豬腳、烤玉米、酸菜、芥末、薯條."
-coverImage: /images/recipes/sf-chef-crispy-pork-knuckle.svg
+coverImage: /images/recipes/sf-chef-crispy-pork-knuckle.webp
 servings: 2
 prepTime: 25
 cookTime: 35

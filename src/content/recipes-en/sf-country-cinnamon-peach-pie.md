@@ -2,7 +2,7 @@
 title: Country Cinnamon Peach Pie
 recipeId: sf-country-cinnamon-peach-pie
 description: "Second Floor Cafe-inspired desserts with restaurant-style portions and 肉桂蜜桃派 + 香草冰淇淋."
-coverImage: /images/recipes/sf-country-cinnamon-peach-pie.svg
+coverImage: /images/recipes/sf-country-cinnamon-peach-pie.webp
 servings: 2
 prepTime: 20
 cookTime: 28

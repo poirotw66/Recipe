@@ -2,7 +2,7 @@
 title: 野炊系義式檸香櫛瓜魚菲力 스타일 레시피
 recipeId: sf-campfire-lemon-zucchini-fish-fillet
 description: Second Floor Cafe 스타일로 魚菲力、櫛瓜、檸香醬汁 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-campfire-lemon-zucchini-fish-fillet.svg
+coverImage: /images/recipes/sf-campfire-lemon-zucchini-fish-fillet.webp
 servings: 1
 prepTime: 20
 cookTime: 18

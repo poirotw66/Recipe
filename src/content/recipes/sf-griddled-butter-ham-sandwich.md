@@ -1,7 +1,7 @@
 ---
 title: 厚烤奶油 Ham 三明治
 description: 參考貳樓 Second Floor Cafe 常見做法，以 歐包、火腿、起司、荷包蛋、薯塊、楓糖漿 還原 厚烤奶油 Ham 三明治 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-griddled-butter-ham-sandwich.svg
+coverImage: /images/recipes/sf-griddled-butter-ham-sandwich.webp
 servings: 1
 prepTime: 18
 cookTime: 15

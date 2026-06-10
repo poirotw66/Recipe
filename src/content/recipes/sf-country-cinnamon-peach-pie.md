@@ -1,7 +1,7 @@
 ---
 title: 鄉村肉桂蜜桃派
 description: 參考貳樓 Second Floor Cafe 常見做法，以 肉桂蜜桃派 + 香草冰淇淋 還原 鄉村肉桂蜜桃派 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-country-cinnamon-peach-pie.svg
+coverImage: /images/recipes/sf-country-cinnamon-peach-pie.webp
 servings: 2
 prepTime: 20
 cookTime: 28

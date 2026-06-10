@@ -2,7 +2,7 @@
 title: Campfire Lemon Zucchini Fish Fillet
 recipeId: sf-campfire-lemon-zucchini-fish-fillet
 description: "Second Floor Cafe-inspired linkou specials with restaurant-style portions and 魚菲力、櫛瓜、檸香醬汁."
-coverImage: /images/recipes/sf-campfire-lemon-zucchini-fish-fillet.svg
+coverImage: /images/recipes/sf-campfire-lemon-zucchini-fish-fillet.webp
 servings: 1
 prepTime: 20
 cookTime: 18

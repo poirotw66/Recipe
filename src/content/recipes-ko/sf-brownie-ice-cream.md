@@ -2,7 +2,7 @@
 title: 布朗尼冰淇淋 스타일 레시피
 recipeId: sf-brownie-ice-cream
 description: Second Floor Cafe 스타일로 布朗尼 + 香草冰淇淋 + 巧克力醬 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
-coverImage: /images/recipes/sf-brownie-ice-cream.svg
+coverImage: /images/recipes/sf-brownie-ice-cream.webp
 servings: 2
 prepTime: 20
 cookTime: 28
