@@ -1,0 +1,12 @@
+---
+import LocalizedTopicHubPage from "../../../components/LocalizedTopicHubPage.astro";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+---
+
+<LocalizedTopicHubPage hubSlug="air-fryer" locale={locale} label="Air Fryer" heroCover="/images/recipes/air-fryer-salmon-broccoli.webp" />

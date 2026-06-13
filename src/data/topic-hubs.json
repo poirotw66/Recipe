@@ -7,6 +7,12 @@
     "seoDescription": "義大利麵專區收錄青醬雞肉、青醬鮭魚、青醬蝦仁與蒜香番茄等做法，適合一人份平日晚餐。",
     "tags": ["一人份", "快煮", "青醬", "海鮮"],
     "recipeTags": ["義大利麵"],
+    "recipeTagsByLocale": {
+      "zh-TW": ["義大利麵"],
+      "en": ["Pasta"],
+      "ja": ["パスタ"],
+      "ko": ["파스타"]
+    },
     "commonIngredients": ["pasta", "chicken-breast", "salmon", "shrimp", "scallion", "garlic"],
     "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals"]
   },
@@ -18,6 +24,12 @@
     "seoDescription": "牛肉專區收錄蔥花牛肉炒飯、洋蔥牛肉蓋飯、蒜香牛肉片與紅蘿蔔牛肉湯等 14 道做法，適合一人份晚餐。",
     "tags": ["一人份", "高蛋白", "家常牛肉"],
     "recipeTags": ["牛肉"],
+    "recipeTagsByLocale": {
+      "zh-TW": ["牛肉"],
+      "en": ["Beef"],
+      "ja": ["牛肉"],
+      "ko": ["소고기"]
+    },
     "commonIngredients": ["beef", "noodles", "onion", "scallion", "tomato", "garlic"],
     "relatedScenarios": ["one-person-meal", "high-protein-meals", "bento-meals"]
   },
@@ -29,6 +41,12 @@
     "seoDescription": "早午餐專區收錄澎湃海陸、香煎翼板牛排、爐烤鮭魚、煙燻鮭魚與野菇嫩蛋等做法，適合一人份週末早午餐。",
     "tags": ["一人份", "週末", "Brunch"],
     "recipeTags": ["早午餐"],
+    "recipeTagsByLocale": {
+      "zh-TW": ["早午餐"],
+      "en": ["Brunch"],
+      "ja": ["ブランチ"],
+      "ko": ["브런치"]
+    },
     "commonIngredients": ["beef", "salmon", "shrimp", "egg", "chicken-breast", "mushroom"],
     "relatedScenarios": ["one-person-meal", "high-protein-meals", "ten-minute-meals"]
   },
@@ -40,7 +58,14 @@
     "seoDescription": "氣炸鍋專區收錄鮭魚、雞胸肉、雞翅、豆腐與蔬菜等做法，適合租屋族平日晚餐。",
     "tags": ["氣炸鍋", "少顧鍋", "一人份"],
     "recipeTags": ["氣炸鍋"],
+    "recipeTagsByLocale": {
+      "zh-TW": ["氣炸鍋"],
+      "en": ["Air fryer"],
+      "ja": ["エアフライヤー"],
+      "ko": ["에어프라이어"]
+    },
     "recipeScenarios": ["氣炸鍋料理"],
+    "recipeScenarioSlugs": ["air-fryer-meals"],
     "commonIngredients": ["chicken-breast", "salmon", "broccoli", "chicken-wings"],
     "relatedScenarios": ["air-fryer-meals", "high-protein-meals", "bento-meals"]
   },
@@ -52,6 +77,12 @@
     "seoDescription": "名店還原專區收錄富錦樹、欣葉、明福、鼎泰豐、元紀等名店代表菜的還原食譜，含樹子水蓮、菜脯蛋、鳳梨苦瓜雞湯與擔仔麵。",
     "tags": ["名店還原", "台菜", "米其林"],
     "recipeTags": ["名店還原"],
+    "recipeTagsByLocale": {
+      "zh-TW": ["名店還原"],
+      "en": ["Restaurant replica"],
+      "ja": ["名店再現"],
+      "ko": ["맛집 재현"]
+    },
     "commonIngredients": ["chicken", "pork", "egg", "water-lily-stem", "bitter-melon"],
     "relatedScenarios": []
   },
@@ -63,7 +94,14 @@
     "seoDescription": "10 分鐘專區收錄炒飯、拌麵、湯品與快手主菜，從雞蛋、豆腐與常備食材快速開飯。",
     "tags": ["10 分鐘", "快手", "一人份"],
     "recipeTags": [],
+    "recipeTagsByLocale": {
+      "zh-TW": [],
+      "en": [],
+      "ja": [],
+      "ko": []
+    },
     "recipeScenarios": ["10 分鐘料理"],
+    "recipeScenarioSlugs": ["ten-minute-meals"],
     "commonIngredients": ["egg", "tofu", "rice", "scallion"],
     "relatedScenarios": ["ten-minute-meals", "one-person-meal", "late-night-meals"]
   }

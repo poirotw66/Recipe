@@ -1,0 +1,12 @@
+---
+import LocalizedTopicHubPage from "../../../components/LocalizedTopicHubPage.astro";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+---
+
+<LocalizedTopicHubPage hubSlug="quick-meals" locale={locale} label="Quick Meals" heroCover="/images/recipes/tomato-egg-rice.webp" />

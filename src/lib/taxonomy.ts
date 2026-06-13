@@ -45,8 +45,11 @@ export interface TopicHubItem {
   seoDescription: string;
   tags: string[];
   recipeTags: string[];
+  recipeTagsByLocale?: Partial<Record<Locale, string[]>>;
   /** Match recipes whose scenarios frontmatter includes these scenario names */
   recipeScenarios?: string[];
+  /** Preferred scenario slug matching for localized recipe collections */
+  recipeScenarioSlugs?: string[];
   commonIngredients: string[];
   relatedScenarios: string[];
 }
@@ -99,10 +102,18 @@ export const getIngredientsByCategory = () =>
     return groups;
   }, {});
 
+export const getIngredientMatchNames = (ingredient: IngredientItem) => {
+  const names = new Set<string>([ingredient.name, ...ingredient.aliases]);
+  if (ingredient.labels) {
+    for (const label of Object.values(ingredient.labels)) {
+      names.add(label);
+    }
+  }
+  return [...names];
+};
+
 export const recipeUsesIngredient = (recipe: RecipeEntry, ingredient: IngredientItem) =>
-  recipe.data.ingredients.some(
-    (item) => item.name === ingredient.name || ingredient.aliases.includes(item.name)
-  );
+  recipe.data.ingredients.some((item) => getIngredientMatchNames(ingredient).includes(item.name));
 
 export const countRecipesForIngredient = (recipes: RecipeEntry[], ingredient: IngredientItem) =>
   recipes.filter((recipe) => recipeUsesIngredient(recipe, ingredient)).length;
@@ -131,44 +142,78 @@ export const getRecipesByIngredient = (recipes: RecipeEntry[], ingredientSlug: s
   return recipes.filter((recipe) => recipeUsesIngredient(recipe, ingredient));
 };
 
-export const getRecipesByScenario = (recipes: RecipeEntry[], scenarioSlug: string) => {
+export const getTopicHubRecipeTags = (hub: TopicHubItem, locale: Locale) =>
+  hub.recipeTagsByLocale?.[locale] ?? hub.recipeTagsByLocale?.[defaultLocale] ?? hub.recipeTags;
+
+export const getTopicHubScenarioSlugs = (hub: TopicHubItem) => {
+  if (hub.recipeScenarioSlugs?.length) {
+    return hub.recipeScenarioSlugs;
+  }
+
+  return (hub.recipeScenarios ?? [])
+    .map((scenarioName) => getScenarioByName(scenarioName)?.slug)
+    .filter((slug): slug is string => Boolean(slug));
+};
+
+export const recipeMatchesScenario = (
+  recipe: RecipeEntry,
+  scenarioSlug: string,
+  locale: Locale = defaultLocale
+) => {
+  const scenario = getScenarioBySlug(scenarioSlug);
+  if (!scenario) {
+    return false;
+  }
+
+  const scenarioName = getScenarioLabel(scenario, locale);
+  return recipe.data.scenarios.includes(scenarioName);
+};
+
+export const getRecipesByScenario = (
+  recipes: RecipeEntry[],
+  scenarioSlug: string,
+  locale: Locale = defaultLocale
+) => {
   const scenario = getScenarioBySlug(scenarioSlug);
 
   if (!scenario) {
     return [];
   }
 
-  return recipes.filter((recipe) => recipe.data.scenarios.includes(scenario.name));
+  return recipes.filter((recipe) => recipeMatchesScenario(recipe, scenario.slug, locale));
 };
 
-export const getRecipesByTopicHub = (recipes: RecipeEntry[], hubSlug: string) => {
-  const hub = getTopicHubBySlug(hubSlug);
-
-  if (!hub) {
-    return [];
-  }
-
-  return recipes.filter((recipe) => {
-    const tagMatch = hub.recipeTags.length > 0 && hub.recipeTags.some((tag) => recipe.data.tags.includes(tag));
-    const scenarioMatch =
-      (hub.recipeScenarios?.length ?? 0) > 0 &&
-      hub.recipeScenarios!.some((scenarioName) => recipe.data.scenarios.includes(scenarioName));
-    return tagMatch || scenarioMatch;
-  });
-};
-
-export const recipeBelongsToTopicHub = (recipe: RecipeEntry, hubSlug: string) => {
+export const recipeBelongsToTopicHub = (
+  recipe: RecipeEntry,
+  hubSlug: string,
+  locale: Locale = defaultLocale
+) => {
   const hub = getTopicHubBySlug(hubSlug);
 
   if (!hub) {
     return false;
   }
 
-  const tagMatch = hub.recipeTags.some((tag) => recipe.data.tags.includes(tag));
-  const scenarioMatch =
-    (hub.recipeScenarios?.length ?? 0) > 0 &&
-    hub.recipeScenarios!.some((scenarioName) => recipe.data.scenarios.includes(scenarioName));
+  const recipeTags = getTopicHubRecipeTags(hub, locale);
+  const tagMatch = recipeTags.length > 0 && recipeTags.some((tag) => recipe.data.tags.includes(tag));
+  const scenarioMatch = getTopicHubScenarioSlugs(hub).some((scenarioSlug) =>
+    recipeMatchesScenario(recipe, scenarioSlug, locale)
+  );
   return tagMatch || scenarioMatch;
+};
+
+export const getRecipesByTopicHub = (
+  recipes: RecipeEntry[],
+  hubSlug: string,
+  locale: Locale = defaultLocale
+) => {
+  const hub = getTopicHubBySlug(hubSlug);
+
+  if (!hub) {
+    return [];
+  }
+
+  return recipes.filter((recipe) => recipeBelongsToTopicHub(recipe, hub.slug, locale));
 };
 
 export const getTopicHubLinksForRecipe = (recipe: RecipeEntry) =>

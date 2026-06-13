@@ -1,0 +1,156 @@
+---
+import JsonLd from "../../../components/JsonLd.astro";
+import RecipeCard from "../../../components/RecipeCard.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { localePath, t } from "../../../lib/i18n";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
+import { listRecipesForLocale } from "../../../lib/recipe-locale";
+import { sortRecipesByPublishedDate } from "../../../lib/recipes";
+import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd } from "../../../lib/seo";
+import {
+  getIngredientBySlug,
+  getIngredientCategoryLabel,
+  getIngredientLabel,
+  getRecipesByIngredient,
+  getScenarioBySlug,
+  getScenarioLabel,
+  ingredientItems
+} from "../../../lib/taxonomy";
+
+export async function getStaticPaths() {
+  const paths: Array<{ params: { locale: string; slug: string } }> = [];
+  for (const { params } of localeStaticPaths()) {
+    for (const ingredient of ingredientItems) {
+      paths.push({ params: { locale: params.locale, slug: ingredient.slug } });
+    }
+  }
+  return paths;
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const slug = Astro.params.slug;
+
+if (!slug) {
+  throw new Error("Ingredient slug is required.");
+}
+
+const ingredient = getIngredientBySlug(slug);
+
+if (!ingredient) {
+  return Astro.redirect("/404");
+}
+
+const recipes = sortRecipesByPublishedDate(await listRecipesForLocale(locale));
+const relatedRecipes = getRecipesByIngredient(recipes, ingredient.slug).slice(0, 3);
+const ingredientName = getIngredientLabel(ingredient, locale);
+const ingredientCategory = getIngredientCategoryLabel(ingredient, locale);
+const canonical = localePath(locale, `/ingredients/${ingredient.slug}`);
+const relatedScenarios = ingredient.relatedScenarios
+  .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
+  .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: t(locale, "nav.home"), path: localePath(locale, "/") },
+  { name: t(locale, "nav.ingredients"), path: localePath(locale, "/ingredients") },
+  { name: ingredientName, path: canonical }
+]);
+const ingredientJsonLd = buildDefinedTermJsonLd(ingredient);
+const relatedRecipeListJsonLd =
+  relatedRecipes.length > 0
+    ? buildItemListJsonLd(
+        `${ingredientName} recipes`,
+        canonical,
+        relatedRecipes.map((recipe) => ({
+          name: recipe.data.title,
+          path: localePath(locale, `/recipes/${recipe.slug}`)
+        }))
+      )
+    : null;
+---
+
+<BaseLayout
+  title={`${ingredientName} ${t(locale, "nav.ingredients")}`}
+  description={ingredient.description}
+  canonicalPath={canonical}
+  alternatePath={`/ingredients/${ingredient.slug}`}
+  locale={locale}
+>
+  <JsonLd data={breadcrumbJsonLd} />
+  <JsonLd data={ingredientJsonLd} />
+  {relatedRecipeListJsonLd && <JsonLd data={relatedRecipeListJsonLd} />}
+  <section class="section">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href={localePath(locale, "/")}>{t(locale, "nav.home")}</a>
+        <span>/</span>
+        <a href={localePath(locale, "/ingredients")}>{t(locale, "nav.ingredients")}</a>
+        <span>/</span>
+        <span>{ingredientName}</span>
+      </nav>
+
+      <section class="recipe-hero">
+        <div>
+          <p class="eyebrow">{ingredientCategory}</p>
+          <h1 class="page-title">{ingredientName}</h1>
+          <p class="page-copy">{ingredient.description}</p>
+          <div class="chip-row">
+            {ingredient.aliases.map((alias) => <span class="chip note">{alias}</span>)}
+          </div>
+        </div>
+        <div class="card card-body taxonomy-summary">
+          <p class="eyebrow">{t(locale, "taxonomy.nutritionEyebrow")}</p>
+          <ul class="detail-list">
+            <li><span>{t(locale, "taxonomy.calories")}</span><strong>{ingredient.caloriesPer100g} kcal / 100g</strong></li>
+            <li><span>{t(locale, "taxonomy.protein")}</span><strong>{ingredient.proteinPer100g} g</strong></li>
+            <li><span>{t(locale, "taxonomy.fat")}</span><strong>{ingredient.fatPer100g} g</strong></li>
+            <li><span>{t(locale, "taxonomy.carbs")}</span><strong>{ingredient.carbsPer100g} g</strong></li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <div class="recipe-content-grid">
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">{t(locale, "taxonomy.storageEyebrow")}</p>
+              <h2>{t(locale, "taxonomy.storageTitle")}</h2>
+              <p>{ingredient.storage}</p>
+            </div>
+          </article>
+
+          <article class="card">
+            <div class="card-body">
+              <p class="eyebrow">{t(locale, "taxonomy.pairingsEyebrow")}</p>
+              <h2>{t(locale, "taxonomy.pairingsTitle")}</h2>
+              <div class="chip-row">
+                {ingredient.commonPairings.map((item) => <span class="chip note">{item}</span>)}
+              </div>
+              <h3>{t(locale, "taxonomy.substitutesTitle")}</h3>
+              <div class="chip-row">
+                {ingredient.substitutes.map((item) => <span class="chip">{item}</span>)}
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <p class="eyebrow">{t(locale, "taxonomy.relatedRecipesEyebrow")}</p>
+        <h2>{t(locale, "taxonomy.relatedRecipesTitle")}</h2>
+        <div class="grid">
+          {relatedRecipes.map((recipe) => <RecipeCard recipe={recipe} locale={locale} />)}
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <p class="eyebrow">{t(locale, "taxonomy.relatedScenarios")}</p>
+        <div class="chip-row">
+          {relatedScenarios.map((scenario) => (
+            <a class="chip note" href={localePath(locale, `/scenarios/${scenario.slug}`)}>
+              {getScenarioLabel(scenario, locale)}
+            </a>
+          ))}
+        </div>
+      </section>
+    </div>
+  </section>
+</BaseLayout>

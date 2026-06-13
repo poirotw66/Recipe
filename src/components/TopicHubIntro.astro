@@ -1,4 +1,6 @@
 ---
+import { localePath, t, type Locale } from "../lib/i18n";
+
 interface FeaturedRecipe {
   slug: string;
   title: string;
@@ -17,9 +19,12 @@ interface Props {
   recipeCount: number;
   secondaryStat?: string;
   featured?: FeaturedRecipe;
+  locale?: Locale;
 }
 
-const { hub, label, heroCover, recipeCount, secondaryStat = "一人份友善", featured } = Astro.props;
+const { hub, label, heroCover, recipeCount, secondaryStat, featured, locale = "zh-TW" } = Astro.props;
+const defaultSecondaryStat = locale === "zh-TW" ? "一人份友善" : t(locale, "recipes.listDescription");
+const featuredHref = featured ? localePath(locale, `/recipes/${featured.slug}`) : undefined;
 ---
 
 <article class="hub-hero">
@@ -34,15 +39,15 @@ const { hub, label, heroCover, recipeCount, secondaryStat = "一人份友善", f
     <h1 class="page-title">{hub.name}</h1>
     <p class="page-copy">{hub.description}</p>
     <div class="hub-stats">
-      <span class="hub-stat">{recipeCount} 道食譜</span>
-      <span class="hub-stat">{secondaryStat}</span>
+      <span class="hub-stat">{recipeCount} {t(locale, "taxonomy.topicHubCount")}</span>
+      <span class="hub-stat">{secondaryStat ?? defaultSecondaryStat}</span>
     </div>
   </div>
 </article>
 
 {
-  featured && (
-    <a class="featured-card" href={`/recipes/${featured.slug}/`}>
+  featured && featuredHref && (
+    <a class="featured-card" href={featuredHref}>
       <div
         class="featured-card__img"
         style={`background-image: url('${featured.coverImage}')`}
@@ -50,10 +55,10 @@ const { hub, label, heroCover, recipeCount, secondaryStat = "一人份友善", f
         aria-label={featured.title}
       />
       <div>
-        <span class="badge badge--outline">本週推薦</span>
+        <span class="badge badge--outline">{locale === "zh-TW" ? "本週推薦" : t(locale, "recipe.relatedTitle")}</span>
         <h2>{featured.title}</h2>
         <p>{featured.description}</p>
-        <span class="featured-card__cta">查看食譜 →</span>
+        <span class="featured-card__cta">{t(locale, "recipe.backToList")} →</span>
       </div>
     </a>
   )
