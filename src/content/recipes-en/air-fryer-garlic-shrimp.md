@@ -14,8 +14,8 @@ fat: 10
 carbs: 4
 category: "Main dish"
 scenarios:
-- Air fryer cooking
-- Quick meals
+- Air fryer meals
+- 10-minute meals
 equipment:
 - Air fryer
 tags:

@@ -14,8 +14,8 @@ fat: 16
 carbs: 48
 category: "Main dish"
 scenarios:
-- Cooking for one
 - High-protein meals
+- Cooking for one
 equipment:
 - Skillet
 tags:

@@ -14,8 +14,8 @@ fat: 9
 carbs: 14
 category: "국·탕"
 scenarios:
-- 1인 요리
 - 알뜰 요리
+- 1인 요리
 equipment:
 - 냄비
 ingredients:

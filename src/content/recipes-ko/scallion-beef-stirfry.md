@@ -14,8 +14,8 @@ fat: 18
 carbs: 10
 category: "메인 요리"
 scenarios:
-- 1인 요리
 - 고단백 요리
+- 1인 요리
 equipment:
 - 프라이팬
 ingredients:

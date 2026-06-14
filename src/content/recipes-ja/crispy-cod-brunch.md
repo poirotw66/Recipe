@@ -14,8 +14,8 @@ fat: 22
 carbs: 38
 category: "主菜"
 scenarios:
-- 一人分
 - ノンフライヤー料理
+- 一人分の料理
 equipment:
 - フライパンまたはノンフライヤー
 ingredients:

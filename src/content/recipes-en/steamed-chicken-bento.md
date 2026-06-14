@@ -14,9 +14,9 @@ fat: 12
 carbs: 18
 category: "Bento sides"
 scenarios:
-- Bento prep
-- Lighter meals
+- Bento-friendly dishes
 - High-protein meals
+- "Light & lean meals"
 equipment:
 - Rice cooker
 ingredients:

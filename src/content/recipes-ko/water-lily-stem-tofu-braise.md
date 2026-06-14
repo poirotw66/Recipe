@@ -14,9 +14,9 @@ fat: 10
 carbs: 10
 category: "집밥"
 scenarios:
-- 채식 위주
 - 도시락 반찬
 - 알뜰 요리
+- 무고기 요리
 equipment:
 - 프라이팬
 tags:

@@ -14,8 +14,8 @@ fat: 12
 carbs: 54
 category: "ご飯・麺"
 scenarios:
-- 10分料理
-- 一人暮らし向け
+- 一人分の料理
+- 10分でできる料理
 equipment:
 - 炊飯器
 tags:

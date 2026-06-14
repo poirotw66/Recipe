@@ -101,6 +101,13 @@
     "privacy": "プライバシー",
     "terms": "利用規約"
   },
+  "errors": {
+    "notFoundTitle": "ページが見つかりません",
+    "notFoundDescription": "お探しのページは見つかりませんでした。",
+    "notFoundHeading": "ページが見つかりません",
+    "notFoundBody": "リンクが変わったか、まだレシピが公開されていない可能性があります。下の入口から探してみてください。",
+    "backHome": "ホームへ戻る"
+  },
   "taxonomy": {
     "scenarioEyebrow": "シーン別料理",
     "scenarioSummaryEyebrow": "この入口の使い方",

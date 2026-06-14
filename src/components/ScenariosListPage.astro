@@ -1,0 +1,110 @@
+---
+import Breadcrumb from "./Breadcrumb.astro";
+import JsonLd from "./JsonLd.astro";
+import { localePath, t, type Locale } from "../lib/i18n";
+import { getScenariosListPage } from "../i18n/scenarios-list-page";
+import type { LocalizedRecipeEntry } from "../lib/recipe-locale";
+import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../lib/seo";
+import {
+  getRecipesByScenario,
+  getScenarioDescription,
+  getScenarioLabel,
+  getScenarioTags,
+  scenarioItems
+} from "../lib/taxonomy";
+
+interface Props {
+  locale: Locale;
+  recipes: LocalizedRecipeEntry[];
+}
+
+const { locale, recipes } = Astro.props;
+const content = getScenariosListPage(locale);
+const featuredScenarios = scenarioItems.slice(0, 3);
+const scenariosPath = localePath(locale, "/scenarios");
+const ingredientsPath = localePath(locale, "/ingredients");
+const recipesPath = localePath(locale, "/recipes");
+
+const collectionJsonLd = buildCollectionPageJsonLd(content.title, content.description, scenariosPath);
+const scenarioListJsonLd = buildItemListJsonLd(
+  content.title,
+  scenariosPath,
+  scenarioItems.map((scenario) => ({
+    name: getScenarioLabel(scenario, locale),
+    path: localePath(locale, `/scenarios/${scenario.slug}`)
+  }))
+);
+
+const homeLabel = locale === "zh-TW" ? "首頁" : t(locale, "nav.home");
+const recipeCountLabel = (count: number) => content.recipeCountLabel.replace("{count}", String(count));
+---
+
+<JsonLd data={collectionJsonLd} />
+<JsonLd data={scenarioListJsonLd} />
+<section class="section">
+  <div class="container">
+    <Breadcrumb
+      items={[
+        { name: homeLabel, href: localePath(locale, "/") },
+        { name: content.title }
+      ]}
+    />
+    <p class="eyebrow">{content.eyebrow}</p>
+    <h1 class="page-title">{content.title}</h1>
+    <p class="page-copy">{content.pageCopy}</p>
+
+    <section class="section section-compact">
+      <p class="eyebrow">{content.featuredEyebrow}</p>
+      <div class="grid">
+        {
+          featuredScenarios.map((scenario) => (
+            <a class="note-card card-body" href={localePath(locale, `/scenarios/${scenario.slug}`)}>
+              <h2>{getScenarioLabel(scenario, locale)}</h2>
+              <p>{getScenarioDescription(scenario, locale)}</p>
+              <div class="chip-row">
+                {getScenarioTags(scenario, locale).map((tag) => (
+                  <span class="chip">{tag}</span>
+                ))}
+              </div>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="section section-compact">
+      <p class="eyebrow">{content.allEyebrow}</p>
+      <div class="grid">
+        {
+          scenarioItems.map((scenario) => {
+            const recipeCount = getRecipesByScenario(recipes, scenario.slug, locale).length;
+
+            return (
+              <a class="card card-body" href={localePath(locale, `/scenarios/${scenario.slug}`)}>
+                <h2>{getScenarioLabel(scenario, locale)}</h2>
+                <p>{getScenarioDescription(scenario, locale)}</p>
+                <div class="chip-row">
+                  <span class="chip note">{recipeCountLabel(recipeCount)}</span>
+                  {getScenarioTags(scenario, locale)
+                    .slice(0, 2)
+                    .map((tag) => (
+                      <span class="chip">{tag}</span>
+                    ))}
+                </div>
+              </a>
+            );
+          })
+        }
+      </div>
+    </section>
+
+    <div class="section-links">
+      <a class="button" href={ingredientsPath}>
+        {content.viewIngredients}
+      </a>
+      <a class="button note" href={recipesPath}>
+        {content.viewRecipes}
+      </a>
+    </div>
+  </div>
+</section>

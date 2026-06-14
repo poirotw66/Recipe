@@ -14,8 +14,8 @@ fat: 8
 carbs: 10
 category: "スープ"
 scenarios:
-- 一人分
-- 10分料理
+- 一人分の料理
+- 10分でできる料理
 equipment:
 - 鍋
 ingredients:

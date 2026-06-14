@@ -14,8 +14,8 @@ fat: 22
 carbs: 56
 category: "ご飯・麺"
 scenarios:
-- 10分料理
 - 節約料理
+- 10分でできる料理
 equipment:
 - 鍋
 - フライパン

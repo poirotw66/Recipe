@@ -14,9 +14,9 @@ fat: 12
 carbs: 6
 category: "Home cooking"
 scenarios:
-- 10-minute meals
+- Budget-friendly meals
 - Cooking for one
-- Budget-friendly
+- 10-minute meals
 equipment:
 - Skillet
 tags:

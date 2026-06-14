@@ -14,8 +14,8 @@ fat: 36
 carbs: 48
 category: "애피타이저"
 scenarios:
-- 1인 요리
 - 야식
+- 1인 요리
 equipment:
 - 튀김냄비
 - 오븐

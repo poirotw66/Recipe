@@ -14,9 +14,9 @@ fat: 10
 carbs: 10
 category: "家庭料理"
 scenarios:
-- 肉なし
-- お弁当向け
+- お弁当向けのおかず
 - 節約料理
+- ノンミート料理
 equipment:
 - フライパン
 tags:

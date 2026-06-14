@@ -6,6 +6,16 @@ import { defaultLocale } from "./i18n";
 import type { RecipeEntry } from "./recipes";
 
 export type LocalizedLabels = Partial<Record<Locale, string>> & { "zh-TW": string };
+export interface LocaleCopyBlock {
+  description?: string;
+  seoTitle?: string;
+  seoDescription?: string;
+  tags?: string[];
+  storage?: string;
+}
+
+type NonDefaultLocale = Exclude<Locale, "zh-TW">;
+type LocaleCopyMap = Partial<Record<NonDefaultLocale, LocaleCopyBlock>>;
 
 export interface IngredientItem {
   name: string;
@@ -23,6 +33,7 @@ export interface IngredientItem {
   commonPairings: string[];
   substitutes: string[];
   relatedScenarios: string[];
+  localeCopy?: LocaleCopyMap;
 }
 
 export interface ScenarioItem {
@@ -35,6 +46,7 @@ export interface ScenarioItem {
   tags: string[];
   relatedScenarios: string[];
   commonIngredients: string[];
+  localeCopy?: LocaleCopyMap;
 }
 
 export interface TopicHubItem {
@@ -52,6 +64,7 @@ export interface TopicHubItem {
   recipeScenarioSlugs?: string[];
   commonIngredients: string[];
   relatedScenarios: string[];
+  localeCopy?: LocaleCopyMap;
 }
 
 export const ingredientItems = ingredients as IngredientItem[];
@@ -66,6 +79,44 @@ export const getIngredientCategoryLabel = (item: IngredientItem, locale: Locale)
 
 export const getScenarioLabel = (item: ScenarioItem, locale: Locale) =>
   item.labels?.[locale] ?? item.labels?.[defaultLocale] ?? item.name;
+
+const getLocaleCopyField = <T extends keyof LocaleCopyBlock>(
+  localeCopy: LocaleCopyMap | undefined,
+  locale: Locale,
+  field: T,
+  zhValue: LocaleCopyBlock[T]
+): LocaleCopyBlock[T] =>
+  locale === "zh-TW" ? zhValue : localeCopy?.[locale]?.[field] ?? localeCopy?.en?.[field] ?? zhValue;
+
+export const getScenarioDescription = (item: ScenarioItem, locale: Locale) =>
+  getLocaleCopyField(item.localeCopy, locale, "description", item.description);
+
+export const getScenarioSeoTitle = (item: ScenarioItem, locale: Locale) =>
+  getLocaleCopyField(item.localeCopy, locale, "seoTitle", item.seoTitle);
+
+export const getScenarioSeoDescription = (item: ScenarioItem, locale: Locale) =>
+  getLocaleCopyField(item.localeCopy, locale, "seoDescription", item.seoDescription);
+
+export const getScenarioTags = (item: ScenarioItem, locale: Locale) =>
+  getLocaleCopyField(item.localeCopy, locale, "tags", item.tags);
+
+export const getTopicHubDescription = (item: TopicHubItem, locale: Locale) =>
+  getLocaleCopyField(item.localeCopy, locale, "description", item.description);
+
+export const getTopicHubSeoTitle = (item: TopicHubItem, locale: Locale) =>
+  getLocaleCopyField(item.localeCopy, locale, "seoTitle", item.seoTitle);
+
+export const getTopicHubSeoDescription = (item: TopicHubItem, locale: Locale) =>
+  getLocaleCopyField(item.localeCopy, locale, "seoDescription", item.seoDescription);
+
+export const getTopicHubTags = (item: TopicHubItem, locale: Locale) =>
+  getLocaleCopyField(item.localeCopy, locale, "tags", item.tags);
+
+export const getIngredientDescription = (item: IngredientItem, locale: Locale) =>
+  getLocaleCopyField(item.localeCopy, locale, "description", item.description);
+
+export const getIngredientStorage = (item: IngredientItem, locale: Locale) =>
+  getLocaleCopyField(item.localeCopy, locale, "storage", item.storage);
 
 export const getIngredientsByCategoryLocalized = (locale: Locale) =>
   ingredientItems.reduce<Record<string, IngredientItem[]>>((groups, ingredient) => {

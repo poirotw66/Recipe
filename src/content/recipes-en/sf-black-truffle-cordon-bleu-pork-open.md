@@ -15,7 +15,7 @@ carbs: 38
 category: "Open sandwiches"
 scenarios:
 - Cooking for one
-- "10-minute meals"
+- 10-minute meals
 equipment:
 - Skillet
 - Oven

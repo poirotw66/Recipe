@@ -14,9 +14,9 @@ fat: 7
 carbs: 9
 category: "메인"
 scenarios:
-- 고단백 식사
+- 고단백 요리
 - 10분 요리
-- 가벼운 식사
+- 다이어트 요리
 equipment:
 - 프라이팬
 tags:

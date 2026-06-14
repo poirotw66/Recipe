@@ -14,8 +14,8 @@ fat: 7
 carbs: 14
 category: "スープ"
 scenarios:
-- 高タンパク
-- 脂質控えめ
+- 高タンパク料理
+- 低脂質の料理
 equipment:
 - 鍋
 ingredients:

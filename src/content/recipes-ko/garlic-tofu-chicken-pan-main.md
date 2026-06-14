@@ -15,7 +15,7 @@ carbs: 12
 category: "메인 요리"
 scenarios:
 - 고단백 요리
-- 저지방 요리
+- 다이어트 요리
 equipment:
 - 프라이팬
 ingredients:

@@ -14,8 +14,8 @@ fat: 14
 carbs: 62
 category: "ご飯・麺"
 scenarios:
-- 一人分
 - 節約料理
+- 一人分の料理
 equipment:
 - 鍋
 - フライパン

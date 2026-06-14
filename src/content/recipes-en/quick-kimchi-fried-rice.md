@@ -14,8 +14,8 @@ fat: 14
 carbs: 62
 category: "Rice & noodles"
 scenarios:
-- Quick meals
 - Cooking for one
+- 10-minute meals
 equipment:
 - Skillet
 tags:

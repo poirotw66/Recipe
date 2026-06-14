@@ -14,8 +14,8 @@ fat: 62
 carbs: 56
 category: "플레이트 메인"
 scenarios:
-- 1인 요리
 - 고단백 요리
+- 1인 요리
 equipment:
 - 오븐
 - 무쇠 팬

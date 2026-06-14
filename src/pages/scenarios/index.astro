@@ -1,82 +1,14 @@
 ---
-import { getCollection } from "astro:content";
+import ScenariosListPage from "../../components/ScenariosListPage.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import Breadcrumb from "../../components/Breadcrumb.astro";
-import JsonLd from "../../components/JsonLd.astro";
-import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../lib/seo";
+import { getCollection } from "astro:content";
+import { getScenariosListPage } from "../../i18n/scenarios-list-page";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
-import { scenarioItems } from "../../lib/taxonomy";
 
+const content = getScenariosListPage("zh-TW");
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
-const featuredScenarios = scenarioItems.slice(0, 3);
-const collectionJsonLd = buildCollectionPageJsonLd(
-  "料理情境",
-  "依一人料理、租屋料理、10 分鐘料理、電鍋料理等情境快速找食譜。",
-  "/scenarios/"
-);
-const scenarioListJsonLd = buildItemListJsonLd(
-  "料理情境",
-  "/scenarios/",
-  scenarioItems.map((scenario) => ({
-    name: scenario.name,
-    path: `/scenarios/${scenario.slug}/`
-  }))
-);
 ---
 
-<BaseLayout
-  title="料理情境"
-  description="依一人料理、租屋料理、10 分鐘料理、電鍋料理等情境快速找食譜。"
-  canonicalPath="/scenarios"
->
-  <JsonLd data={collectionJsonLd} />
-  <JsonLd data={scenarioListJsonLd} />
-  <section class="section">
-    <div class="container">
-      <Breadcrumb items={[{ name: "首頁", href: "/" }, { name: "料理情境" }]} />
-      <p class="eyebrow">Scenarios</p>
-      <h1 class="page-title">料理情境</h1>
-      <p class="page-copy">先從生活情境切入，讓使用者用「現在的狀況」找到適合的料理。</p>
-
-      <section class="section section-compact">
-        <p class="eyebrow">精選情境</p>
-        <div class="grid">
-          {featuredScenarios.map((scenario) => (
-            <a class="note-card card-body" href={`/scenarios/${scenario.slug}/`}>
-              <h2>{scenario.name}</h2>
-              <p>{scenario.description}</p>
-              <div class="chip-row">
-                {scenario.tags.map((tag) => <span class="chip">{tag}</span>)}
-              </div>
-            </a>
-          ))}
-        </div>
-      </section>
-
-      <section class="section section-compact">
-        <p class="eyebrow">全部情境</p>
-        <div class="grid">
-          {scenarioItems.map((scenario) => {
-            const recipeCount = recipes.filter((recipe) => recipe.data.scenarios.includes(scenario.name)).length;
-
-            return (
-              <a class="card card-body" href={`/scenarios/${scenario.slug}/`}>
-                <h2>{scenario.name}</h2>
-                <p>{scenario.description}</p>
-                <div class="chip-row">
-                  <span class="chip note">{recipeCount} 道相關食譜</span>
-                  {scenario.tags.slice(0, 2).map((tag) => <span class="chip">{tag}</span>)}
-                </div>
-              </a>
-            );
-          })}
-        </div>
-      </section>
-
-      <div class="section-links">
-        <a class="button" href="/ingredients">改從食材找</a>
-        <a class="button note" href="/recipes">看全部食譜</a>
-      </div>
-    </div>
-  </section>
+<BaseLayout title={content.title} description={content.description} canonicalPath="/scenarios">
+  <ScenariosListPage locale="zh-TW" recipes={recipes} />
 </BaseLayout>

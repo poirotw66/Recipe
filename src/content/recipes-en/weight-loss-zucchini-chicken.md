@@ -14,8 +14,8 @@ fat: 8
 carbs: 10
 category: "Main dish"
 scenarios:
-- Lighter meals
-- High protein
+- High-protein meals
+- "Light & lean meals"
 equipment:
 - Skillet
 tags:

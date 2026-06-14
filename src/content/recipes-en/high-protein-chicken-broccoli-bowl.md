@@ -15,7 +15,7 @@ carbs: 18
 category: "Main dish"
 scenarios:
 - High-protein meals
-- Lighter meals
+- "Light & lean meals"
 equipment:
 - Skillet
 - Stockpot

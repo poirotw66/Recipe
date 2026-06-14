@@ -14,8 +14,8 @@ fat: 12
 carbs: 16
 category: "메인 요리"
 scenarios:
-- 고단백 요리
 - 에어프라이어 요리
+- 고단백 요리
 equipment:
 - 에어프라이어
 ingredients:

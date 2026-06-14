@@ -15,7 +15,7 @@ carbs: 19
 category: "家常菜"
 scenarios:
 - 節約料理
-- 10分料理
+- 10分でできる料理
 equipment:
 - 鍋
 ingredients:

@@ -25,6 +25,38 @@
       "en": "Cooking for one",
       "ja": "一人分の料理",
       "ko": "1인 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Home-style dishes that are easy to make for one without juggling multiple pots or side dishes.",
+        "seoTitle": "Cooking for One Recipes | Easy Dinners for Solo Living",
+        "seoDescription": "Browse cooking-for-one ideas with eggs, tofu, leftover rice, and other quick dinner staples.",
+        "tags": [
+          "Single serving",
+          "Home cooking",
+          "Low effort"
+        ]
+      },
+      "ja": {
+        "description": "鍋や副菜をたくさん用意しなくても、一人分を手早く作れる家庭料理です。",
+        "seoTitle": "一人分の料理レシピ | 一人暮らしに合う簡単夕食",
+        "seoDescription": "卵、豆腐、残りご飯などを使った、一人分の料理アイデアをまとめました。",
+        "tags": [
+          "一人分",
+          "家庭料理",
+          "手軽"
+        ]
+      },
+      "ko": {
+        "description": "여러 냄비나 반찬 준비 없이 혼자 먹기 좋게 빠르게 만들 수 있는 집밥 요리입니다.",
+        "seoTitle": "1인 요리 레시피 | 자취생을 위한 간단한 저녁",
+        "seoDescription": "달걀, 두부, 남은 밥 등으로 만드는 1인분 집밥 레시피를 모았습니다.",
+        "tags": [
+          "1인분",
+          "집밥",
+          "간편"
+        ]
+      }
     }
   },
   {
@@ -53,6 +85,38 @@
       "en": "10-minute meals",
       "ja": "10分でできる料理",
       "ko": "10분 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "A collection of short-step meals for the days you are busy and need dinner fast.",
+        "seoTitle": "10-Minute Meal Recipes | Quick Home Dinners",
+        "seoDescription": "When you need dinner fast, start with 10-minute meals using eggs, tomatoes, tofu, and other pantry basics.",
+        "tags": [
+          "Quick",
+          "Weeknight dinner",
+          "Time-saving"
+        ]
+      },
+      "ja": {
+        "description": "忙しい日にさっと食べたいときに役立つ、短い工程で作れる料理のまとめです。",
+        "seoTitle": "10分料理レシピ | 手早く作れる家庭の夕食",
+        "seoDescription": "卵、トマト、豆腐などの定番食材で、すぐ作れる10分料理を集めました。",
+        "tags": [
+          "時短",
+          "平日ごはん",
+          "手軽"
+        ]
+      },
+      "ko": {
+        "description": "바쁜 날에도 빠르게 식사를 차릴 수 있는 짧은 조리 과정의 요리 모음입니다.",
+        "seoTitle": "10분 요리 레시피 | 빠르게 완성하는 집밥 저녁",
+        "seoDescription": "달걀, 토마토, 두부 같은 기본 재료로 빠르게 만들 수 있는 10분 요리를 모았습니다.",
+        "tags": [
+          "빠른 요리",
+          "평일 저녁",
+          "시간 절약"
+        ]
+      }
     }
   },
   {
@@ -81,6 +145,38 @@
       "en": "High-protein meals",
       "ja": "高タンパク料理",
       "ko": "고단백 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Everyday main dishes built around high-protein staples such as chicken breast, tofu, and eggs.",
+        "seoTitle": "High-Protein Recipes | Easy Chicken Breast and Tofu Meals",
+        "seoDescription": "Find satisfying high-protein meals with chicken breast, eggs, tofu, and other simple everyday ingredients.",
+        "tags": [
+          "High protein",
+          "Fitness",
+          "Main dish"
+        ]
+      },
+      "ja": {
+        "description": "鶏むね肉、豆腐、卵などの高タンパク食材を中心にした、毎日作りやすい主菜です。",
+        "seoTitle": "高タンパク料理レシピ | 鶏むね肉と豆腐の簡単ごはん",
+        "seoDescription": "鶏むね肉、卵、豆腐などで作る、満足感のある高タンパク料理をまとめました。",
+        "tags": [
+          "高タンパク",
+          "筋トレ",
+          "主菜"
+        ]
+      },
+      "ko": {
+        "description": "닭가슴살, 두부, 달걀 같은 고단백 재료를 중심으로 한 일상용 메인 요리입니다.",
+        "seoTitle": "고단백 요리 레시피 | 닭가슴살과 두부로 만드는 간단한 식사",
+        "seoDescription": "닭가슴살, 달걀, 두부로 만드는 든든한 고단백 집밥 레시피를 모았습니다.",
+        "tags": [
+          "고단백",
+          "운동식",
+          "메인 요리"
+        ]
+      }
     }
   },
   {
@@ -109,6 +205,38 @@
       "en": "Light & lean meals",
       "ja": "低脂質の料理",
       "ko": "다이어트 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Light, satisfying meals built around clean flavors, good volume, and a lighter everyday feel.",
+        "seoTitle": "Light & Lean Recipes | Fresh and Filling Home Cooking",
+        "seoDescription": "Start your light and lean meal planning with chicken breast, broccoli, mushrooms, and other lighter staples.",
+        "tags": [
+          "Light",
+          "Fresh",
+          "High fiber"
+        ]
+      },
+      "ja": {
+        "description": "さっぱりした味わいでボリューム感もあり、日々の負担を抑えやすい料理シーンです。",
+        "seoTitle": "低脂質レシピ | さっぱり食べ応えのある家庭料理",
+        "seoDescription": "鶏むね肉、ブロッコリー、きのこなどから探せる、軽やかな料理をまとめました。",
+        "tags": [
+          "低脂質",
+          "さっぱり",
+          "食物繊維"
+        ]
+      },
+      "ko": {
+        "description": "산뜻한 맛과 충분한 포만감을 갖추면서도 비교적 가볍게 먹기 좋은 요리 모음입니다.",
+        "seoTitle": "다이어트 요리 레시피 | 산뜻하면서 든든한 집밥",
+        "seoDescription": "닭가슴살, 브로콜리, 버섯처럼 가볍게 활용하기 좋은 재료로 찾는 다이어트 요리입니다.",
+        "tags": [
+          "다이어트",
+          "산뜻함",
+          "고식이섬유"
+        ]
+      }
     }
   },
   {
@@ -137,6 +265,38 @@
       "en": "Bento-friendly dishes",
       "ja": "お弁当向けのおかず",
       "ko": "도시락 반찬"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Recipes that hold up well for make-ahead packing and still taste good after reheating the next day.",
+        "seoTitle": "Bento-Friendly Recipes | Make-Ahead Home-Style Main Dishes",
+        "seoDescription": "Find lunchbox-friendly dishes with chicken breast, mushrooms, reliable staples, and easy weekday pairings.",
+        "tags": [
+          "Lunchbox",
+          "Packable",
+          "Workday"
+        ]
+      },
+      "ja": {
+        "description": "作り置きして詰めやすく、翌日に温め直しても食感が保ちやすい料理です。",
+        "seoTitle": "お弁当向けレシピ | 作り置きしてもおいしい家庭の主菜",
+        "seoDescription": "蒸し鶏、きのこの副菜、定番の主食合わせなど、お弁当に向く料理をまとめました。",
+        "tags": [
+          "お弁当",
+          "詰めやすい",
+          "平日"
+        ]
+      },
+      "ko": {
+        "description": "미리 준비해 나눠 담기 좋고, 다음 날 다시 데워도 식감이 잘 유지되는 요리입니다.",
+        "seoTitle": "도시락 반찬 레시피 | 미리 준비해도 맛있는 집밥 메인 메뉴",
+        "seoDescription": "닭가슴살, 버섯 반찬, 든든한 주식 조합 등 도시락으로 챙기기 좋은 요리를 모았습니다.",
+        "tags": [
+          "도시락",
+          "소분 가능",
+          "평일"
+        ]
+      }
     }
   },
   {
@@ -165,6 +325,38 @@
       "en": "Budget-friendly meals",
       "ja": "節約料理",
       "ko": "알뜰 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Weeknight meals built from pantry staples and a little seasoning to help keep food costs under control.",
+        "seoTitle": "Budget-Friendly Recipes | Home Dinners with Eggs and Tofu",
+        "seoDescription": "When you want to spend less, start with eggs, tofu, leftover rice, and other affordable kitchen staples.",
+        "tags": [
+          "Budget",
+          "Home cooking",
+          "Pantry staples"
+        ]
+      },
+      "ja": {
+        "description": "常備食材と少ない調味料で作れて、食費を抑えたい平日に向く料理です。",
+        "seoTitle": "節約レシピ | 卵と豆腐で作る家庭の夕食",
+        "seoDescription": "食費を抑えたいときに、卵、豆腐、残りご飯などから探しやすい料理をまとめました。",
+        "tags": [
+          "節約",
+          "家庭料理",
+          "常備菜"
+        ]
+      },
+      "ko": {
+        "description": "기본 식재료와 적은 양념만으로 만들 수 있어 식비를 아끼고 싶은 평일에 잘 맞는 요리입니다.",
+        "seoTitle": "알뜰 요리 레시피 | 달걀과 두부로 만드는 집밥 저녁",
+        "seoDescription": "식비를 줄이고 싶을 때 달걀, 두부, 남은 밥 같은 기본 재료로 찾기 좋은 요리입니다.",
+        "tags": [
+          "절약",
+          "집밥",
+          "상비 반찬"
+        ]
+      }
     }
   },
   {
@@ -193,6 +385,38 @@
       "en": "Use up the fridge",
       "ja": "冷蔵庫使い切り",
       "ko": "냉장고 정리 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Flexible meals for using up odds and ends in the fridge and turning what you already have into a meal.",
+        "seoTitle": "Use-Up-the-Fridge Recipes | Make a Meal from What You Have",
+        "seoDescription": "When only a few ingredients are left, start here for flexible fridge-cleanout ideas that cut waste and planning stress.",
+        "tags": [
+          "Use-it-up",
+          "Leftovers",
+          "Flexible"
+        ]
+      },
+      "ja": {
+        "description": "冷蔵庫に残った半端な食材を優先して使い切り、今ある材料で一食にまとめる料理です。",
+        "seoTitle": "冷蔵庫整理レシピ | あるもので作る今日の一皿",
+        "seoDescription": "食材が少しずつ残った日に、無駄を減らしながら気軽に作れる冷蔵庫整理料理をまとめました。",
+        "tags": [
+          "使い切り",
+          "残りもの",
+          "自由に組み合わせ"
+        ]
+      },
+      "ko": {
+        "description": "냉장고에 조금씩 남은 재료를 우선 소진하면서 있는 재료로 한 끼를 만드는 요리입니다.",
+        "seoTitle": "냉장고 정리 레시피 | 집에 있는 재료로 만드는 한 끼",
+        "seoDescription": "재료가 조금씩 남았을 때 음식물 낭비와 장보기 부담을 줄여 주는 냉장고 정리 요리를 모았습니다.",
+        "tags": [
+          "냉장고 털기",
+          "남은 재료",
+          "유연한 조합"
+        ]
+      }
     }
   },
   {
@@ -221,6 +445,38 @@
       "en": "Air fryer meals",
       "ja": "ノンフライヤー料理",
       "ko": "에어프라이어 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Air fryer ideas that cut down on stove watching while still delivering quick mains and side dishes.",
+        "seoTitle": "Air Fryer Recipes | Quick Main Dishes with Less Stove Watching",
+        "seoDescription": "Use the air fryer to speed up dinner with salmon, chicken breast, broccoli, and other easy combinations.",
+        "tags": [
+          "Air fryer",
+          "Hands-off",
+          "Quick main dish"
+        ]
+      },
+      "ja": {
+        "description": "エアフライヤーでつきっきり時間を減らし、主菜も副菜も手早く作れる料理です。",
+        "seoTitle": "エアフライヤーレシピ | 見張りを減らせる手軽な主菜",
+        "seoDescription": "サーモン、鶏むね肉、ブロッコリーなどで作る、手早いエアフライヤー料理をまとめました。",
+        "tags": [
+          "エアフライヤー",
+          "ほったらかし",
+          "時短主菜"
+        ]
+      },
+      "ko": {
+        "description": "에어프라이어로 불 앞에 오래 서 있지 않아도 메인과 사이드를 빠르게 완성할 수 있는 요리입니다.",
+        "seoTitle": "에어프라이어 요리 레시피 | 덜 지켜봐도 되는 빠른 메인 메뉴",
+        "seoDescription": "연어, 닭가슴살, 브로콜리 같은 재료로 식사 준비를 빠르게 끝내는 에어프라이어 레시피입니다.",
+        "tags": [
+          "에어프라이어",
+          "덜 지켜봄",
+          "빠른 메인"
+        ]
+      }
     }
   },
   {
@@ -249,6 +505,38 @@
       "en": "Electric pot meals",
       "ja": "電気鍋料理",
       "ko": "전기밥솥 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Electric-pot meals that can handle both the main dish and the side, perfect for small kitchens and busy weekdays.",
+        "seoTitle": "Electric Pot Recipes | Easy One-Person Home Cooking",
+        "seoDescription": "Find one-person electric-pot meals such as steamed chicken breast, braised tofu, and simple soups for weekday dinners.",
+        "tags": [
+          "Electric pot",
+          "Hands-off",
+          "Small-space cooking"
+        ]
+      },
+      "ja": {
+        "description": "電気鍋ひとつで主食とおかずをまとめて作れ、小さなキッチンや平日に向く料理です。",
+        "seoTitle": "電気鍋レシピ | 一人分で作りやすい家庭料理",
+        "seoDescription": "蒸し鶏むね肉、豆腐の煮物、簡単スープなど、一人分の電気鍋料理をまとめました。",
+        "tags": [
+          "電気鍋",
+          "ほったらかし",
+          "省スペース調理"
+        ]
+      },
+      "ko": {
+        "description": "전기냄비 하나로 주식과 반찬을 함께 만들 수 있어 작은 주방과 평일 식사 준비에 잘 맞는 요리입니다.",
+        "seoTitle": "전기냄비 요리 레시피 | 1인분 집밥에 좋은 간편 메뉴",
+        "seoDescription": "찐 닭가슴살, 두부 조림, 간단한 국물 요리 등 1인분 전기냄비 레시피를 모았습니다.",
+        "tags": [
+          "전기냄비",
+          "방치 조리",
+          "소형 주방"
+        ]
+      }
     }
   },
   {
@@ -277,6 +565,38 @@
       "en": "Leftover rice meals",
       "ja": "残りご飯料理",
       "ko": "남은 밥 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Turn yesterday's rice into fried rice, rice bowls, or savory pancakes for a faster, less wasteful meal.",
+        "seoTitle": "Leftover Rice Recipes | Quick Fried Rice and Rice Bowl Ideas",
+        "seoDescription": "Use leftover rice for fried rice, rice bowls, and egg pancakes that make an easy one-person meal in around 10 minutes.",
+        "tags": [
+          "Leftover rice",
+          "Use-it-up",
+          "Quick fix"
+        ]
+      },
+      "ja": {
+        "description": "前日のご飯を炒飯、丼、焼きものに変えて、無駄を減らしながら手早く食べられる料理です。",
+        "seoTitle": "残りご飯レシピ | 炒飯や丼に変える時短ごはん",
+        "seoDescription": "冷蔵庫に残りご飯がある日に、炒飯、丼、卵焼き風で一人分を素早く作れる料理をまとめました。",
+        "tags": [
+          "残りご飯",
+          "使い切り",
+          "時短"
+        ]
+      },
+      "ko": {
+        "description": "어제 남은 밥을 볶음밥, 덮밥, 전처럼 바꿔 음식물 낭비를 줄이면서 빠르게 한 끼를 만들 수 있는 요리입니다.",
+        "seoTitle": "남은 밥 요리 레시피 | 볶음밥과 덮밥으로 빠르게 완성",
+        "seoDescription": "냉장고에 밥이 남아 있을 때 볶음밥, 덮밥, 달걀전으로 10분 안팎에 만들기 좋은 레시피입니다.",
+        "tags": [
+          "남은 밥",
+          "냉장고 털기",
+          "간단 조리"
+        ]
+      }
     }
   },
   {
@@ -305,6 +625,38 @@
       "en": "Late-night meals",
       "ja": "夜食",
       "ko": "야식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Lighter one-person meals for late at night when you want something filling but not too greasy or complicated.",
+        "seoTitle": "Late-Night Recipes | Fast One-Person Suppers",
+        "seoDescription": "Browse lighter late-night meals like noodle soups, fried rice, and easy one-pot dishes with short cooking steps.",
+        "tags": [
+          "Late night",
+          "Light",
+          "Single serving"
+        ]
+      },
+      "ja": {
+        "description": "夜遅くに小腹を満たしたいときに向く、重すぎず工程も多すぎない一人分の料理です。",
+        "seoTitle": "夜食レシピ | 深夜でも手早く作れる一人分ごはん",
+        "seoDescription": "汁麺、炒飯、小鍋料理など、手順が短くて重すぎない夜食向けレシピをまとめました。",
+        "tags": [
+          "夜食",
+          "軽め",
+          "一人分"
+        ]
+      },
+      "ko": {
+        "description": "늦은 밤에 출출할 때 너무 기름지거나 복잡하지 않게 만들 수 있는 가벼운 1인분 요리입니다.",
+        "seoTitle": "야식 레시피 | 밤에도 빠르게 만드는 1인분 식사",
+        "seoDescription": "국수, 볶음밥, 간단한 냄비 요리처럼 조리 단계가 짧고 부담이 덜한 야식 레시피를 모았습니다.",
+        "tags": [
+          "야식",
+          "가벼움",
+          "1인분"
+        ]
+      }
     }
   },
   {
@@ -333,6 +685,38 @@
       "en": "Meatless meals",
       "ja": "ノンミート料理",
       "ko": "무고기 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Meat-free one-person dishes built around eggs, tofu, vegetables, and mushrooms without heavy cooking.",
+        "seoTitle": "Meatless Recipes | Eggs, Tofu, and Vegetables for One",
+        "seoDescription": "Start with tofu, eggs, mushrooms, and vegetables for meatless meals that still feel filling on a busy night.",
+        "tags": [
+          "Meatless",
+          "Vegetarian-friendly",
+          "Vegetables"
+        ]
+      },
+      "ja": {
+        "description": "卵、豆腐、野菜、きのこを中心にした、強火に頼らず作りやすい一人分の料理です。",
+        "seoTitle": "肉なしレシピ | 卵と豆腐と野菜で作る一人分ごはん",
+        "seoDescription": "豆腐、卵、きのこ、野菜を使って、平日でも満足感のある肉なし料理を探せます。",
+        "tags": [
+          "肉なし",
+          "卵乳菜食",
+          "野菜"
+        ]
+      },
+      "ko": {
+        "description": "달걀, 두부, 채소, 버섯을 중심으로 하여 센 불 없이도 든든하게 만들 수 있는 1인분 요리입니다.",
+        "seoTitle": "무고기 요리 레시피 | 달걀과 두부, 채소로 만드는 1인 식사",
+        "seoDescription": "두부, 달걀, 버섯, 채소로 평일 저녁에도 든든하게 먹기 좋은 무고기 레시피를 모았습니다.",
+        "tags": [
+          "고기 없음",
+          "채식 친화",
+          "채소"
+        ]
+      }
     }
   }
 ]

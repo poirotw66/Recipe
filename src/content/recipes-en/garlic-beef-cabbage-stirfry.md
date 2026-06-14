@@ -15,7 +15,7 @@ carbs: 22
 category: "Home cooking"
 scenarios:
 - Cooking for one
-- Lighter meals
+- "Light & lean meals"
 equipment:
 - Skillet
 ingredients:

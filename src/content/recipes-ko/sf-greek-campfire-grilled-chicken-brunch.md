@@ -15,7 +15,6 @@ carbs: 48
 category: "린커우 한정"
 scenarios:
 - 1인 요리
-- 브런치
 equipment:
 - 프라이팬
 - 오븐

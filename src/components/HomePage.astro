@@ -1,0 +1,157 @@
+---
+import RecipeCard from "./RecipeCard.astro";
+import { localePath, type Locale } from "../lib/i18n";
+import { getHomePage } from "../i18n/home-page";
+import { listRecipesForLocale } from "../lib/recipe-locale";
+import { getFeaturedRecipes, getLatestRecipes } from "../lib/recipes";
+import {
+  getIngredientLabel,
+  getPopularIngredients,
+  getScenarioDescription,
+  getScenarioLabel,
+  scenarioItems
+} from "../lib/taxonomy";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const content = getHomePage(locale);
+const allRecipes = await listRecipesForLocale(locale);
+const quickIngredients = getPopularIngredients(allRecipes, 6);
+const featuredScenarios = scenarioItems.slice(0, 6);
+const popularIngredients = getPopularIngredients(allRecipes, 8);
+const featuredRecipes = getFeaturedRecipes(allRecipes, 3);
+const popularRecipes = featuredRecipes.length > 0 ? featuredRecipes : getLatestRecipes(allRecipes, 3);
+const fridgeToolPath = localePath(locale, "/tools/fridge-recipe");
+---
+
+<section class="hero">
+  <div class="container">
+    <div class="hero-intro">
+      <p class="eyebrow">{content.heroEyebrow}</p>
+      <h1 class="page-title">{content.heroTitle}</h1>
+      <p class="page-copy">{content.heroCopy}</p>
+    </div>
+
+    <div class="search-panel">
+      <form
+        class="search-form"
+        data-home-search
+        data-fridge-path={fridgeToolPath}
+        data-error-empty={content.searchErrorEmpty}
+        data-error-max={content.searchErrorMax}
+      >
+        <label class="field">
+          <span class="eyebrow">{content.searchLabel}</span>
+          <input
+            name="ingredients"
+            type="search"
+            placeholder={content.searchPlaceholder}
+            autocomplete="off"
+            data-home-search-input
+          />
+        </label>
+        <button class="button primary" type="submit">{content.searchSubmit}</button>
+      </form>
+      <p class="form-error" data-home-search-error hidden></p>
+
+      <div class="chip-row" aria-label={content.quickIngredientsAriaLabel}>
+        {
+          quickIngredients.map((ingredient) => (
+            <a
+              class="chip note"
+              href={`${fridgeToolPath}?ingredients=${encodeURIComponent(getIngredientLabel(ingredient, locale))}#fridge-results`}
+            >
+              {getIngredientLabel(ingredient, locale)}
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">{content.scenariosEyebrow}</p>
+      <h2>{content.scenariosTitle}</h2>
+    </div>
+    <div class="grid">
+      {
+        featuredScenarios.map((scenario) => (
+          <a class="note-card card-body" href={localePath(locale, `/scenarios/${scenario.slug}`)}>
+            <h3>{getScenarioLabel(scenario, locale)}</h3>
+            <p>{content.scenarioDescriptions[scenario.slug] ?? getScenarioDescription(scenario, locale)}</p>
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<section class="section section--soft">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">{content.featuredEyebrow}</p>
+      <h2>{content.featuredTitle}</h2>
+    </div>
+    <div class="grid">
+      {popularRecipes.map((recipe) => <RecipeCard recipe={recipe} locale={locale} />)}
+    </div>
+    <p class="section-action">
+      <a class="button" href={localePath(locale, "/recipes")}>{content.viewAllRecipes}</a>
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">{content.topicHubsEyebrow}</p>
+      <h2>{content.topicHubsTitle}</h2>
+    </div>
+    <div class="grid topic-hub-grid">
+      {
+        content.topicHubs.map((card) => (
+          <a class="topic-card" href={localePath(locale, `/${card.slug}`)}>
+            <span class="topic-card__label">{card.label}</span>
+            <div
+              class="topic-card__media"
+              style={`background-image: url('${card.cover}')`}
+              role="img"
+              aria-label={`${card.title} preview`}
+            />
+            <div class="topic-card__body">
+              <h3>{card.title}</h3>
+              <p>{card.description}</p>
+              <span class="topic-card__cta">{content.enterTopicHub}</span>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">{content.ingredientsEyebrow}</p>
+      <h2>{content.ingredientsTitle}</h2>
+    </div>
+    <div class="chip-row" aria-label={content.ingredientsEyebrow}>
+      {
+        popularIngredients.map((ingredient) => (
+          <a class="chip note" href={localePath(locale, `/ingredients/${ingredient.slug}`)}>
+            {getIngredientLabel(ingredient, locale)}
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<script is:inline src="/scripts/home-search.js"></script>

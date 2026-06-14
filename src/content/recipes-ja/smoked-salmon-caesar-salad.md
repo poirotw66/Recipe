@@ -14,8 +14,8 @@ fat: 24
 carbs: 10
 category: "家庭料理"
 scenarios:
-- 一人暮らし向け
-- 10分で作れる
+- 一人分の料理
+- 10分でできる料理
 equipment:
 - 小さなボウル
 tags:

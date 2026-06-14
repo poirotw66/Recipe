@@ -15,7 +15,6 @@ carbs: 48
 category: "林口限定"
 scenarios:
 - 一人分の料理
-- ブランチ
 equipment:
 - フライパン
 - オーブン

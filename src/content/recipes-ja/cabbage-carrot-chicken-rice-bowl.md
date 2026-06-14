@@ -14,8 +14,8 @@ fat: 11
 carbs: 66
 category: "ご飯・麺"
 scenarios:
-- お弁当向け
-- 高タンパク
+- お弁当向けのおかず
+- 高タンパク料理
 equipment:
 - フライパン
 ingredients:

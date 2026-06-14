@@ -14,8 +14,8 @@ fat: 9
 carbs: 14
 category: "スープ"
 scenarios:
-- 一人分
 - 節約料理
+- 一人分の料理
 equipment:
 - 鍋
 ingredients:

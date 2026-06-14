@@ -14,8 +14,8 @@ fat: 54
 carbs: 56
 category: "Big plates"
 scenarios:
+- High-protein meals
 - Cooking for one
-- "High-protein meals"
 equipment:
 - Oven
 - "Cast-iron pan"

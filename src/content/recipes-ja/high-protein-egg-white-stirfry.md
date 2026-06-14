@@ -14,8 +14,8 @@ fat: 4
 carbs: 6
 category: "家庭料理"
 scenarios:
-- 高タンパク
-- 減脂
+- 高タンパク料理
+- 低脂質の料理
 equipment:
 - フライパン
 tags:

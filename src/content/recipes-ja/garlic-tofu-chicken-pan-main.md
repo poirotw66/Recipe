@@ -14,8 +14,8 @@ fat: 14
 carbs: 12
 category: "主菜"
 scenarios:
-- 高タンパク
-- 低脂質
+- 高タンパク料理
+- 低脂質の料理
 equipment:
 - フライパン
 ingredients:

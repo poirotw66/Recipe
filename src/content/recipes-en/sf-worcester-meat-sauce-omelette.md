@@ -15,7 +15,6 @@ carbs: 46
 category: "Brunch"
 scenarios:
 - Cooking for one
-- Brunch
 equipment:
 - Skillet
 - Saucepan

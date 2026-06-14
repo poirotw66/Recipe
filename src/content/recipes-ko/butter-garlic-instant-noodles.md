@@ -14,8 +14,8 @@ fat: 22
 carbs: 56
 category: "밥·면"
 scenarios:
-- 10분 요리
 - 알뜰 요리
+- 10분 요리
 equipment:
 - 냄비
 - 프라이팬

@@ -16,7 +16,6 @@ category: "Home cooking"
 scenarios:
 - Cooking for one
 - 10-minute meals
-- Rental-kitchen cooking
 equipment:
 - Skillet
 ingredients:

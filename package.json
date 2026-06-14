@@ -7,7 +7,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "test": "node scripts/verify-site.mjs && node scripts/test-fridge-logic.mjs && node scripts/test-i18n.mjs && node scripts/verify-pilot-recipes.mjs",
+    "test": "node scripts/verify-site.mjs && node scripts/test-fridge-logic.mjs && node scripts/test-i18n.mjs && node scripts/verify-pilot-recipes.mjs && node scripts/verify-recipe-scenarios.mjs && node scripts/verify-no-404.mjs",
     "lint": "node scripts/verify-site.mjs",
     "recipe-review:precheck": "node scripts/recipe-review-precheck.mjs --write",
     "recipe-review:full": "node scripts/recipe-review-full.mjs",

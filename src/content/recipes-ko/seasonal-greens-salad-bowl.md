@@ -15,8 +15,8 @@ carbs: 14
 category: "집밥"
 scenarios:
 - 1인 요리
-- 가벼운 식사
 - 10분 요리
+- 다이어트 요리
 equipment:
 - 큰 그릇
 tags:

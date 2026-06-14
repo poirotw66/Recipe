@@ -1,6 +1,7 @@
 import type { APIRoute } from "astro";
 import { localePath } from "../lib/i18n";
 import { absoluteUrl } from "../lib/seo";
+import topicHubs from "../data/topic-hubs.json";
 
 const defaultPages = [
   "/",
@@ -12,11 +13,13 @@ const defaultPages = [
   "/beef/",
   "/air-fryer/",
   "/quick-meals/",
+  "/restaurant-replicas/",
   "/tools/fridge-recipe/",
   "/about/",
   "/contact/",
   "/privacy-policy/",
-  "/terms/"
+  "/terms/",
+  "/404/"
 ];
 
 const localizedShellPages = [
@@ -28,14 +31,20 @@ const localizedShellPages = [
   "/about/",
   "/contact/",
   "/privacy-policy/",
-  "/terms/"
+  "/terms/",
+  "/404/"
 ];
+
+const localizedTopicHubPages = topicHubs.map((hub) => `/${hub.slug}/`);
 
 const staticPages = [
   ...defaultPages,
-  ...(["en", "ja", "ko"] as const).flatMap((locale) =>
-    localizedShellPages.map((path) => localePath(locale, path === "" ? "/" : path.replace(/\/$/, "")))
-  )
+  ...(["en", "ja", "ko"] as const).flatMap((locale) => [
+    ...localizedShellPages.map((path) =>
+      localePath(locale, path === "" ? "/" : path.replace(/\/$/, ""))
+    ),
+    ...localizedTopicHubPages.map((path) => localePath(locale, path.replace(/\/$/, "")))
+  ])
 ];
 
 const renderUrlSet = (paths: string[]) => `<?xml version="1.0" encoding="UTF-8"?>

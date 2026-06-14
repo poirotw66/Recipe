@@ -347,17 +347,20 @@ for (const slug of ["fridge-cleanout-meals", "air-fryer-meals"]) {
 const pageExpectations = [
   {
     file: "src/pages/index.astro",
+    markers: ["HomePage", "getHomePage"]
+  },
+  {
+    file: "src/components/HomePage.astro",
     markers: [
       "data-home-search-error",
       "data-home-search-input",
-      "/tools/fridge-recipe",
+      "data-fridge-path",
       "RecipeCard",
       "topic-hub-grid",
       "topic-card",
       "#fridge-results",
-      "/quick-meals/",
-      "/air-fryer/",
-      "/restaurant-replicas/"
+      "content.topicHubs",
+      "card.slug"
     ]
   },
   {
@@ -389,10 +392,6 @@ const pageExpectations = [
     markers: ["hub-hero", "hub-hero__bg", "featured-card"]
   },
   {
-    file: "src/pages/recipes/index.astro",
-    markers: ["RecipeCard", "AdSlot", 'getCollection("recipes")', "buildItemListJsonLd", "Breadcrumb", "recipe-list-filter.js", "data-reset-filters"]
-  },
-  {
     file: "src/pages/recipes/[slug].astro",
     markers: [
       "buildRecipeJsonLd",
@@ -404,14 +403,6 @@ const pageExpectations = [
     ]
   },
   {
-    file: "src/pages/ingredients/index.astro",
-    markers: ["RecipeCard", "getIngredientsByCategory", "scenarioItems", "buildItemListJsonLd", "Breadcrumb"]
-  },
-  {
-    file: "src/pages/scenarios/index.astro",
-    markers: ["scenarioItems", "buildCollectionPageJsonLd", "buildItemListJsonLd", "Breadcrumb"]
-  },
-  {
     file: "src/pages/scenarios/[slug].astro",
     markers: ["本情境熱門", "buildThingJsonLd", "getStaticPaths", "buildItemListJsonLd"]
   },
@@ -421,24 +412,52 @@ const pageExpectations = [
   },
   {
     file: "src/pages/about.astro",
-    markers: ["contactEmail"]
+    markers: ["AboutArticle", "getAboutPage"]
   },
   {
     file: "src/pages/contact.astro",
-    markers: ["mailto:"]
+    markers: ["ContactArticle", "getContactPage"]
   },
   {
     file: "src/pages/privacy-policy.astro",
-    markers: ["Google Analytics", "Google AdSense", "Cookie", "contactEmail"]
+    markers: ["PrivacyArticle", "getPrivacyPage"]
+  },
+  {
+    file: "src/i18n/privacy-page.ts",
+    markers: ["Google Analytics", "Google AdSense", "Cookie"]
   },
   {
     file: "src/pages/404.astro",
-    markers: ["找不到頁面", "/recipes/", "/tools/fridge-recipe/"]
+    markers: ["errors.notFoundHeading", "/recipes/", "/tools/fridge-recipe/"]
   },
   {
     file: "src/pages/terms.astro",
-    markers: ["Google AdSense", "contactEmail"]
-  }
+    markers: ["TermsArticle", "getTermsPage", "Google AdSense"]
+  },
+  {
+    file: "src/pages/recipes/index.astro",
+    markers: ["RecipesListPage", "getRecipesListPage"]
+  },
+  {
+    file: "src/components/RecipesListPage.astro",
+    markers: ["data-recipe-filter-panel", "RecipeCard", "data-recipe-keyword"]
+  },
+  {
+    file: "src/pages/scenarios/index.astro",
+    markers: ["ScenariosListPage", "getScenariosListPage"]
+  },
+  {
+    file: "src/components/ScenariosListPage.astro",
+    markers: ["getScenarioDescription", "getRecipesByScenario"]
+  },
+  {
+    file: "src/pages/ingredients/index.astro",
+    markers: ["IngredientsListPage", "getIngredientsListPage"]
+  },
+  {
+    file: "src/components/IngredientsListPage.astro",
+    markers: ["getPopularIngredients", "getIngredientsByCategoryLocalized"]
+  },
 ];
 
 for (const page of pageExpectations) {
@@ -471,6 +490,25 @@ const firstIngredient = ingredients[0];
 if (!firstIngredient?.labels?.["zh-TW"] || !firstIngredient?.labels?.en) {
   console.error("spec-017: ingredients.json entries must include labels.zh-TW and labels.en");
   process.exit(1);
+}
+
+const localeRoutePages = [
+  "src/pages/[locale]/pasta/index.astro",
+  "src/pages/[locale]/beef/index.astro",
+  "src/pages/[locale]/brunch/index.astro",
+  "src/pages/[locale]/air-fryer/index.astro",
+  "src/pages/[locale]/quick-meals/index.astro",
+  "src/pages/[locale]/restaurant-replicas/index.astro",
+  "src/pages/[locale]/scenarios/[slug].astro",
+  "src/pages/[locale]/ingredients/[slug].astro",
+  "src/pages/[locale]/404.astro"
+];
+
+for (const page of localeRoutePages) {
+  if (!existsSync(join(root, page))) {
+    console.error(`Missing localized route page: ${page}`);
+    process.exit(1);
+  }
 }
 
 console.log("Site verification passed.");

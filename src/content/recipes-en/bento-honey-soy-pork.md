@@ -14,7 +14,7 @@ fat: 22
 carbs: 12
 category: "Bento sides"
 scenarios:
-- Bento prep
+- Bento-friendly dishes
 - Cooking for one
 equipment:
 - Small saucepan

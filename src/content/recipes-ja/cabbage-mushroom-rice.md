@@ -14,9 +14,9 @@ fat: 6
 carbs: 82
 category: "ご飯・麺"
 scenarios:
+- お弁当向けのおかず
 - 節約料理
-- お弁当向け
-- 10分料理
+- 10分でできる料理
 equipment:
 - 電気炊飯器
 ingredients:

@@ -14,9 +14,9 @@ fat: 12
 carbs: 18
 category: "お弁当向け"
 scenarios:
-- お弁当向け
-- 脂質控えめ
-- 高タンパク
+- お弁当向けのおかず
+- 高タンパク料理
+- 低脂質の料理
 equipment:
 - 電気炊飯器
 ingredients:

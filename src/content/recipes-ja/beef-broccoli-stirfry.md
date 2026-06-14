@@ -14,9 +14,9 @@ fat: 16
 carbs: 18
 category: "家庭料理"
 scenarios:
-- 一人分
-- 高タンパク
-- 脂質控えめ
+- 高タンパク料理
+- 一人分の料理
+- 低脂質の料理
 equipment:
 - フライパン
 ingredients:

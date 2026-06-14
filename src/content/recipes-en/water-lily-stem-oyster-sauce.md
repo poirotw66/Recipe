@@ -14,8 +14,8 @@ fat: 6
 carbs: 11
 category: "Home cooking"
 scenarios:
+- Bento-friendly dishes
 - 10-minute meals
-- Bento
 equipment:
 - Skillet
 tags:

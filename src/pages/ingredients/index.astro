@@ -1,103 +1,14 @@
 ---
-import { getCollection } from "astro:content";
-import JsonLd from "../../components/JsonLd.astro";
-import Breadcrumb from "../../components/Breadcrumb.astro";
-import RecipeCard from "../../components/RecipeCard.astro";
+import IngredientsListPage from "../../components/IngredientsListPage.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../lib/seo";
+import { getCollection } from "astro:content";
+import { getIngredientsListPage } from "../../i18n/ingredients-list-page";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
-import {
-  getIngredientsByCategory,
-  getPopularIngredients,
-  ingredientItems,
-  recipeUsesIngredient,
-  scenarioItems
-} from "../../lib/taxonomy";
 
-const groupedIngredients = getIngredientsByCategory();
-const relatedScenarios = scenarioItems.slice(0, 3);
+const content = getIngredientsListPage("zh-TW");
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
-const popularIngredients = getPopularIngredients(recipes, 8);
-const featuredRecipes = recipes
-  .filter((recipe) => popularIngredients.some((ingredient) => recipeUsesIngredient(recipe, ingredient)))
-  .slice(0, 3);
-const collectionJsonLd = buildCollectionPageJsonLd(
-  "食材列表",
-  "從台灣常見食材開始找食譜，先用分類、熱門食材與情境入口建立長尾 SEO 的起點。",
-  "/ingredients/"
-);
-const ingredientListJsonLd = buildItemListJsonLd(
-  "食材列表",
-  "/ingredients/",
-  ingredientItems.map((ingredient) => ({
-    name: ingredient.name,
-    path: `/ingredients/${ingredient.slug}/`
-  }))
-);
 ---
 
-<BaseLayout
-  title="食材列表"
-  description="從台灣常見食材開始找食譜，先用分類、熱門食材與情境入口建立長尾 SEO 的起點。"
-  canonicalPath="/ingredients"
->
-  <JsonLd data={collectionJsonLd} />
-  <JsonLd data={ingredientListJsonLd} />
-  <section class="section">
-    <div class="container">
-      <Breadcrumb items={[{ name: "首頁", href: "/" }, { name: "食材列表" }]} />
-      <p class="eyebrow">Ingredients</p>
-      <h1 class="page-title">食材列表</h1>
-      <p class="page-copy">
-        這裡已接上食材資料檔，先從分類、熱門食材與相關情境開始找，再慢慢縮小到適合今晚的料理方向。
-      </p>
-
-      <div class="search-panel">
-        <form class="search-form" action="/ingredients" method="get">
-          <label class="field">
-            <span class="eyebrow">搜尋食材</span>
-            <input name="keyword" type="search" placeholder="搜尋食材，例如 雞蛋" />
-          </label>
-          <button class="button primary" type="submit">搜尋食材</button>
-        </form>
-      </div>
-
-      <section class="section section-compact">
-        <p class="eyebrow">分類區塊</p>
-        <div class="grid">
-          {Object.entries(groupedIngredients).map(([category, items]) => (
-            <article class="card">
-              <div class="card-body">
-                <h2>{category}</h2>
-                <div class="chip-row">
-                  {items.map((item) => <a class="chip note" href={`/ingredients/${item.slug}/`}>{item.name}</a>)}
-                </div>
-              </div>
-            </article>
-          ))}
-        </div>
-      </section>
-
-      <section class="section section-compact">
-        <p class="eyebrow">熱門食材</p>
-        <div class="chip-row" aria-label="熱門食材">
-          {popularIngredients.map((ingredient) => <a class="chip" href={`/ingredients/${ingredient.slug}/`}>{ingredient.name}</a>)}
-        </div>
-      </section>
-
-      <section class="section section-compact">
-        <p class="eyebrow">相關情境入口</p>
-        <div class="chip-row" aria-label="相關情境入口">
-          {relatedScenarios.map((scenario) => <a class="chip note" href={`/scenarios/${scenario.slug}/`}>{scenario.name}</a>)}
-        </div>
-      </section>
-
-      <section class="section section-compact">
-        <p class="eyebrow">熱門食譜</p>
-        <div class="grid">
-          {featuredRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
-        </div>
-      </section>
-    </div>
-  </section>
+<BaseLayout title={content.title} description={content.description} canonicalPath="/ingredients">
+  <IngredientsListPage locale="zh-TW" recipes={recipes} />
 </BaseLayout>

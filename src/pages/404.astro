@@ -1,25 +1,24 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
-import { brandName, brandTagline } from "../lib/site";
+import { t } from "../lib/i18n";
 ---
 
 <BaseLayout
-  title="找不到頁面"
-  description={`${brandName}（${brandTagline}）找不到你要求的頁面，請從首頁或食譜列表重新開始。`}
+  title={t("zh-TW", "errors.notFoundTitle")}
+  description={t("zh-TW", "errors.notFoundDescription")}
   canonicalPath="/404"
+  alternatePath="/404"
 >
   <section class="article article-shell">
-    <Breadcrumb items={[{ name: "首頁", href: "/" }, { name: "找不到頁面" }]} />
+    <Breadcrumb items={[{ name: t("zh-TW", "nav.home"), href: "/" }, { name: t("zh-TW", "errors.notFoundTitle") }]} />
     <p class="eyebrow">404</p>
-    <h1 class="page-title">找不到這個頁面</h1>
-    <p class="page-copy">
-      連結可能已變更，或這道料理還沒寫進食譜庫。你可以從下面幾個入口繼續找今晚要煮什麼。
-    </p>
+    <h1 class="page-title">{t("zh-TW", "errors.notFoundHeading")}</h1>
+    <p class="page-copy">{t("zh-TW", "errors.notFoundBody")}</p>
     <div class="chip-row">
-      <a class="button primary" href="/">回到首頁</a>
-      <a class="button note" href="/recipes/">瀏覽食譜</a>
-      <a class="button note" href="/tools/fridge-recipe/">冰箱剩料工具</a>
+      <a class="button primary" href="/">{t("zh-TW", "errors.backHome")}</a>
+      <a class="button note" href="/recipes/">{t("zh-TW", "nav.recipes")}</a>
+      <a class="button note" href="/tools/fridge-recipe/">{t("zh-TW", "nav.fridge")}</a>
     </div>
   </section>
 </BaseLayout>

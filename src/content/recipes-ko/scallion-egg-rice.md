@@ -14,9 +14,9 @@ fat: 15
 carbs: 70
 category: "밥·면"
 scenarios:
+- 알뜰 요리
 - 1인 요리
 - 10분 요리
-- 알뜰 요리
 equipment:
 - 프라이팬
 ingredients:

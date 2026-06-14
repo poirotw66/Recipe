@@ -1,52 +1,18 @@
 ---
+import TermsArticle from "../components/TermsArticle.astro";
 import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
-import { brandName, brandTagline, contactEmail, legalLastUpdated } from "../lib/site";
+import { legalLastUpdated } from "../lib/site";
+import { getTermsPage } from "../i18n/terms-page";
+
+const content = getTermsPage("zh-TW");
 ---
 
 <StaticArticleLayout
-  title="使用條款"
-  description={`說明 ${brandName}（${brandTagline}）的內容用途、免責聲明、外部連結與廣告顯示原則。`}
+  title={content.title}
+  description={content.description}
   canonicalPath="/terms"
-  eyebrow="Terms"
+  eyebrow={content.eyebrow}
   updatedAt={legalLastUpdated}
 >
-  <section>
-    <h2>內容用途</h2>
-    <p>
-      本站內容以一般家常料理資訊整理與閱讀參考為主，提供食譜步驟、時間估算、食材搭配與保存建議，
-      不保證適用於每一位使用者的設備、口味、過敏原限制或健康需求。
-    </p>
-  </section>
-
-  <section>
-    <h2>食譜與營養資訊免責</h2>
-    <p>
-      食譜做法、份量、時間與營養相關說明均可能因品牌、食材狀態、火力、器具與個人操作而有所差異。
-      若你有過敏、慢性病、嬰幼兒飲食或特殊醫療需求，請優先參考專業醫療與營養建議。
-    </p>
-  </section>
-
-  <section>
-    <h2>智慧財產與引用</h2>
-    <p>
-      本站文字、整理架構與自製素材受著作權保護。若需引用，請保留來源並附上對應頁面連結；
-      未經同意不得大量重製、鏡像或作為其他內容農場素材使用。
-    </p>
-  </section>
-
-  <section>
-    <h2>廣告與外部連結</h2>
-    <p>
-      本站可能顯示 Google AdSense 或其他第三方廣告，也可能連向外部參考資源。外部網站內容與其隱私政策、
-      商品或服務品質，均不在本站控制範圍內。
-    </p>
-  </section>
-
-  <section>
-    <h2>條款更新與聯絡</h2>
-    <p>
-      本站可依站務調整、法規需求或廣告政策更新本條款。若你對條款內容有疑問，可寄信至
-      <a href={`mailto:${contactEmail}`}>{contactEmail}</a>，或查看 <a href="/contact">聯絡我們</a>。
-    </p>
-  </section>
+  <TermsArticle locale="zh-TW" />
 </StaticArticleLayout>

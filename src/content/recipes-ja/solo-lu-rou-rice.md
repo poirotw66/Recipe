@@ -14,7 +14,7 @@ fat: 28
 carbs: 52
 category: "ご飯・麺"
 scenarios:
-- 一人暮らし向け
+- 一人分の料理
 equipment:
 - 小さな鍋
 tags:

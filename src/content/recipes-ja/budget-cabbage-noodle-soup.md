@@ -15,7 +15,7 @@ carbs: 58
 category: "ご飯・麺"
 scenarios:
 - 節約料理
-- 10分料理
+- 10分でできる料理
 equipment:
 - 鍋
 ingredients:

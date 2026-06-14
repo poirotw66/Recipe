@@ -14,9 +14,9 @@ fat: 16
 carbs: 20
 category: "집밥"
 scenarios:
-- 다이어트 요리
 - 고단백 요리
 - 10분 요리
+- 다이어트 요리
 equipment:
 - 프라이팬
 ingredients:

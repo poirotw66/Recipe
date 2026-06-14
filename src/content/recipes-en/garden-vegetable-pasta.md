@@ -15,7 +15,7 @@ carbs: 58
 category: "Rice & noodles"
 scenarios:
 - Cooking for one
-- Lighter meals
+- "Light & lean meals"
 equipment:
 - Stockpot
 - Skillet

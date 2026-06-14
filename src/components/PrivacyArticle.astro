@@ -1,0 +1,33 @@
+---
+import { contactEmail } from "../lib/site";
+import { getPrivacyPage } from "../i18n/privacy-page";
+import type { Locale } from "../lib/i18n";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const content = getPrivacyPage(locale);
+---
+
+{
+  content.sections.map((section) => (
+    <section>
+      <h2>{section.heading}</h2>
+      {section.paragraphs?.map((paragraph) => <p>{paragraph}</p>)}
+      {(section.listItems || section.emailListItem) && (
+        <ul class="article-list">
+          {section.listItems?.map((item) => <li>{item}</li>)}
+          {section.emailListItem && (
+            <li>
+              {section.emailListItem.before}{" "}
+              <a href={`mailto:${contactEmail}`}>{contactEmail}</a>
+              {section.emailListItem.after}
+            </li>
+          )}
+        </ul>
+      )}
+    </section>
+  ))
+}

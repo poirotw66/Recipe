@@ -10,7 +10,9 @@ import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd } fr
 import {
   getIngredientBySlug,
   getIngredientCategoryLabel,
+  getIngredientDescription,
   getIngredientLabel,
+  getIngredientStorage,
   getRecipesByIngredient,
   getScenarioBySlug,
   getScenarioLabel,
@@ -69,7 +71,7 @@ const relatedRecipeListJsonLd =
 
 <BaseLayout
   title={`${ingredientName} ${t(locale, "nav.ingredients")}`}
-  description={ingredient.description}
+  description={getIngredientDescription(ingredient, locale)}
   canonicalPath={canonical}
   alternatePath={`/ingredients/${ingredient.slug}`}
   locale={locale}
@@ -91,7 +93,7 @@ const relatedRecipeListJsonLd =
         <div>
           <p class="eyebrow">{ingredientCategory}</p>
           <h1 class="page-title">{ingredientName}</h1>
-          <p class="page-copy">{ingredient.description}</p>
+          <p class="page-copy">{getIngredientDescription(ingredient, locale)}</p>
           <div class="chip-row">
             {ingredient.aliases.map((alias) => <span class="chip note">{alias}</span>)}
           </div>
@@ -113,7 +115,7 @@ const relatedRecipeListJsonLd =
             <div class="card-body">
               <p class="eyebrow">{t(locale, "taxonomy.storageEyebrow")}</p>
               <h2>{t(locale, "taxonomy.storageTitle")}</h2>
-              <p>{ingredient.storage}</p>
+              <p>{getIngredientStorage(ingredient, locale)}</p>
             </div>
           </article>
 

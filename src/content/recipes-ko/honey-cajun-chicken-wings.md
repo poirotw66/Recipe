@@ -14,8 +14,8 @@ fat: 32
 carbs: 22
 category: "메인 요리"
 scenarios:
-- 1인 요리
 - 에어프라이어 요리
+- 1인 요리
 equipment:
 - 오븐 또는 에어프라이어
 - 베이킹 팬

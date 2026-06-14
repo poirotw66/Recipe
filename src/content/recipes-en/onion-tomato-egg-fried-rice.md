@@ -15,7 +15,7 @@ carbs: 63
 category: "Rice & noodles"
 scenarios:
 - Cooking for one
-- Quick meals
+- 10-minute meals
 equipment:
 - Skillet
 ingredients:

@@ -1,112 +1,14 @@
 ---
-import { getCollection } from "astro:content";
-import AdSlot from "../../components/AdSlot.astro";
-import Breadcrumb from "../../components/Breadcrumb.astro";
-import JsonLd from "../../components/JsonLd.astro";
-import RecipeCard from "../../components/RecipeCard.astro";
+import RecipesListPage from "../../components/RecipesListPage.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../lib/seo";
+import { getCollection } from "astro:content";
+import { getRecipesListPage } from "../../i18n/recipes-list-page";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 
-const categories = ["全部", "家常菜", "飯麵", "主菜", "湯品", "便當菜"];
-const times = ["全部", "10 分鐘內", "15 分鐘內", "30 分鐘內"];
-const tools = ["全部", "平底鍋", "電鍋", "湯鍋", "氣炸鍋"];
-const recipeListItemLimit = 20;
-
+const content = getRecipesListPage("zh-TW");
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
-const collectionJsonLd = buildCollectionPageJsonLd(
-  "食譜列表",
-  "整理適合台灣小廚房的一人份與家常料理，快速查看時間、工具與常見食材。",
-  "/recipes/"
-);
-const recipeListJsonLd = buildItemListJsonLd(
-  "食譜列表",
-  "/recipes/",
-  recipes.slice(0, recipeListItemLimit).map((recipe) => ({
-    name: recipe.data.title,
-    path: `/recipes/${recipe.slug}/`
-  }))
-);
 ---
 
-<BaseLayout
-  title="食譜列表"
-  description="整理適合台灣小廚房的一人份與家常料理，快速查看時間、工具與常見食材。"
-  canonicalPath="/recipes"
->
-  <JsonLd data={collectionJsonLd} />
-  <JsonLd data={recipeListJsonLd} />
-  <section class="section">
-    <div class="container">
-      <Breadcrumb items={[{ name: "首頁", href: "/" }, { name: "食譜列表" }]} />
-      <p class="eyebrow">Recipes</p>
-      <h1 class="page-title">食譜列表</h1>
-      <p class="page-copy">
-        這裡收錄目前站上的 recipe content collection，方便依料理型態、準備時間與常用工具快速掃讀。
-      </p>
-
-      <div class="search-panel">
-        <label class="field">
-          <span class="eyebrow">關鍵字搜尋</span>
-          <input
-            type="search"
-            name="keyword"
-            placeholder="例如：蛋、豆腐、便當"
-            data-recipe-keyword
-            autocomplete="off"
-          />
-        </label>
-        <div class="filter-group">
-          <p class="filter-label">類型</p>
-          <div class="filter-bar">
-            {categories.map((filter) => (
-              <button class="chip" type="button" data-filter-group="category" data-filter-value={filter} aria-pressed="false">
-                {filter}
-              </button>
-            ))}
-          </div>
-        </div>
-        <div class="filter-group">
-          <p class="filter-label">時間</p>
-          <div class="filter-bar">
-            {times.map((filter) => (
-              <button class="chip" type="button" data-filter-group="time" data-filter-value={filter} aria-pressed="false">
-                {filter}
-              </button>
-            ))}
-          </div>
-        </div>
-        <div class="filter-group">
-          <p class="filter-label">工具</p>
-          <div class="filter-bar">
-            {tools.map((filter) => (
-              <button class="chip" type="button" data-filter-group="tool" data-filter-value={filter} aria-pressed="false">
-                {filter}
-              </button>
-            ))}
-          </div>
-        </div>
-        <div class="section-links">
-          <button class="button" type="button" data-reset-filters hidden>清除全部篩選</button>
-        </div>
-      </div>
-
-      <p class="caption" data-recipe-result-count>目前共 {recipes.length} 道食譜</p>
-      <p class="form-error" data-recipe-empty hidden>找不到符合條件的食譜，請換一個關鍵字。</p>
-
-      <div class="grid" data-recipe-grid>
-        {recipes.map((recipe) => <RecipeCard recipe={recipe} />)}
-      </div>
-
-      <section class="section section-compact">
-        <AdSlot slot="1000000001" label="食譜列表廣告位" minHeight={220} />
-      </section>
-
-      <div class="section-links">
-        <a class="button" href="/ingredients">查看食材索引</a>
-        <a class="button note" href="/scenarios">查看情境分類</a>
-      </div>
-    </div>
-  </section>
-  <script is:inline src="/scripts/recipe-list-filter.js"></script>
+<BaseLayout title={content.title} description={content.description} canonicalPath="/recipes">
+  <RecipesListPage locale="zh-TW" recipes={recipes} />
 </BaseLayout>

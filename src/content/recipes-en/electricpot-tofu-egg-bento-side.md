@@ -14,7 +14,7 @@ fat: 13
 carbs: 8
 category: "Bento sides"
 scenarios:
-- Bento prep
+- Bento-friendly dishes
 - Cooking for one
 equipment:
 - Rice cooker

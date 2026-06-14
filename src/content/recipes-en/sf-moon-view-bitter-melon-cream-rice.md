@@ -14,8 +14,8 @@ fat: 26
 carbs: 84
 category: "Rice & pasta"
 scenarios:
+- High-protein meals
 - Cooking for one
-- "High-protein meals"
 equipment:
 - Skillet
 - Pot

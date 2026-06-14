@@ -14,9 +14,9 @@ fat: 15
 carbs: 70
 category: "ご飯・麺"
 scenarios:
-- 一人分
-- 10分料理
 - 節約料理
+- 一人分の料理
+- 10分でできる料理
 equipment:
 - フライパン
 ingredients:

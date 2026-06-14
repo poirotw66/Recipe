@@ -14,8 +14,8 @@ fat: 11
 carbs: 18
 category: "家常菜"
 scenarios:
-- 脂質控えめ
-- 10分料理
+- 10分でできる料理
+- 低脂質の料理
 equipment:
 - フライパン
 ingredients:

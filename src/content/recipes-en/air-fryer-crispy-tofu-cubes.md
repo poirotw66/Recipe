@@ -14,8 +14,8 @@ fat: 16
 carbs: 12
 category: "Home cooking"
 scenarios:
-- Air fryer cooking
-- Quick meals
+- Air fryer meals
+- 10-minute meals
 equipment:
 - Air fryer
 tags:

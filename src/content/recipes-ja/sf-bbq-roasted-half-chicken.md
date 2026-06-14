@@ -14,8 +14,8 @@ fat: 54
 carbs: 56
 category: "プレートメイン"
 scenarios:
-- 一人分の料理
 - 高タンパク料理
+- 一人分の料理
 equipment:
 - オーブン
 - 鋳鉄フライパン

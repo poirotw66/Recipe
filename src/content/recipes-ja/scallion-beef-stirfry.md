@@ -14,8 +14,8 @@ fat: 18
 carbs: 10
 category: "主菜"
 scenarios:
-- 一人分
-- 高タンパク
+- 高タンパク料理
+- 一人分の料理
 equipment:
 - フライパン
 ingredients:

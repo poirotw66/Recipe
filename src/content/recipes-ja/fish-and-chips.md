@@ -14,7 +14,7 @@ fat: 32
 carbs: 52
 category: "主菜"
 scenarios:
-- 一人分
+- 一人分の料理
 equipment:
 - フライパン
 - 揚げ鍋または深いフライパン

@@ -14,8 +14,8 @@ fat: 32
 carbs: 22
 category: "Main dish"
 scenarios:
+- Air fryer meals
 - Cooking for one
-- Air fryer cooking
 equipment:
 - Oven or air fryer
 - Baking sheet

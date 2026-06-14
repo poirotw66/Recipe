@@ -106,6 +106,13 @@
     "privacy": "Privacy",
     "terms": "Terms"
   },
+  "errors": {
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "This page could not be found. Browse recipes or return home.",
+    "notFoundHeading": "Page not found",
+    "notFoundBody": "The link may have changed, or this recipe is not in the library yet. Try one of the entry points below.",
+    "backHome": "Back to home"
+  },
   "taxonomy": {
     "scenarioEyebrow": "Scenario cooking",
     "scenarioSummaryEyebrow": "How to use this hub",

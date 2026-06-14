@@ -15,7 +15,6 @@ carbs: 46
 category: "ブランチ"
 scenarios:
 - 一人分の料理
-- ブランチ
 equipment:
 - フライパン
 - 小鍋

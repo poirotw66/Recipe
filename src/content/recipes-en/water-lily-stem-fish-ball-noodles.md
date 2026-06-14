@@ -14,9 +14,9 @@ fat: 12
 carbs: 58
 category: "Rice & noodles"
 scenarios:
+- Budget-friendly meals
+- Late-night meals
 - 10-minute meals
-- Budget-friendly
-- Late-night snack
 equipment:
 - Pot
 tags:

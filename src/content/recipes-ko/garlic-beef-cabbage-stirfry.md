@@ -15,7 +15,7 @@ carbs: 22
 category: "집밥"
 scenarios:
 - 1인 요리
-- 저지방 요리
+- 다이어트 요리
 equipment:
 - 프라이팬
 ingredients:

@@ -14,9 +14,9 @@ fat: 4
 carbs: 7
 category: "スープ"
 scenarios:
-- 低脂質・ダイエット向け
-- 肉なし
-- 10分で作れる
+- ノンミート料理
+- 10分でできる料理
+- 低脂質の料理
 equipment:
 - 鍋
 tags:

@@ -14,8 +14,8 @@ fat: 10
 carbs: 78
 category: "밥·면"
 scenarios:
-- 고단백 요리
 - 도시락 반찬
+- 고단백 요리
 - 다이어트 요리
 equipment:
 - 프라이팬

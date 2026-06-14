@@ -15,7 +15,6 @@ carbs: 68
 category: "Rice & noodles"
 scenarios:
 - Cooking for one
-- Clear the fridge
 equipment:
 - Stockpot
 - Skillet

@@ -14,8 +14,8 @@ fat: 10
 carbs: 8
 category: "副菜"
 scenarios:
-- エアフライヤー料理
-- 10分以内
+- ノンフライヤー料理
+- 10分でできる料理
 equipment:
 - エアフライヤー
 tags:

@@ -14,7 +14,7 @@ fat: 16
 carbs: 8
 category: "お弁当向け"
 scenarios:
-- お弁当向け
+- お弁当向けのおかず
 - 節約料理
 equipment:
 - 小鍋

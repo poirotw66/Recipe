@@ -14,8 +14,8 @@ fat: 6
 carbs: 8
 category: "Soup"
 scenarios:
-- 10-minute meals
 - Cooking for one
+- 10-minute meals
 equipment:
 - Small saucepan
 tags:

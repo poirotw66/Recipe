@@ -15,7 +15,7 @@ carbs: 20
 category: "Light plates"
 scenarios:
 - Cooking for one
-- Light & lean meals
+- "Light & lean meals"
 equipment:
 - Skillet
 - Salad bowl

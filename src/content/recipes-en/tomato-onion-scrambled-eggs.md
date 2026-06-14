@@ -14,8 +14,8 @@ fat: 17
 carbs: 14
 category: "Home cooking"
 scenarios:
-- 10-minute meals
 - Cooking for one
+- 10-minute meals
 equipment:
 - Skillet
 ingredients:

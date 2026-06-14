@@ -14,8 +14,8 @@ fat: 16
 carbs: 52
 category: "Rice & noodles"
 scenarios:
+- Budget-friendly meals
 - 10-minute meals
-- Budget cooking
 equipment:
 - Large bowl
 tags:

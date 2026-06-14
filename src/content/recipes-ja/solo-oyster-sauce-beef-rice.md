@@ -14,8 +14,8 @@ fat: 20
 carbs: 50
 category: "主菜"
 scenarios:
-- 一人暮らし向け
-- 10分でできる
+- 一人分の料理
+- 10分でできる料理
 equipment:
 - フライパン
 tags:

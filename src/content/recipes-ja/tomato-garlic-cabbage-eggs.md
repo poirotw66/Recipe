@@ -14,7 +14,7 @@ fat: 16
 carbs: 18
 category: "家庭料理"
 scenarios:
-- 10分で作れる
+- 10分でできる料理
 equipment:
 - フライパン
 ingredients:

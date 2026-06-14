@@ -5,16 +5,77 @@
     "description": "收錄蒜香、番茄、青醬、白醬與肉類海鮮義大利麵，含多道青醬雞肉與鮭魚、蝦仁做法，適合小廚房快煮。",
     "seoTitle": "義大利麵食譜專區｜青醬肉類海鮮與家常快煮麵",
     "seoDescription": "義大利麵專區收錄青醬雞肉、青醬鮭魚、青醬蝦仁與蒜香番茄等做法，適合一人份平日晚餐。",
-    "tags": ["一人份", "快煮", "青醬", "海鮮"],
-    "recipeTags": ["義大利麵"],
+    "tags": [
+      "一人份",
+      "快煮",
+      "青醬",
+      "海鮮"
+    ],
+    "recipeTags": [
+      "義大利麵"
+    ],
     "recipeTagsByLocale": {
-      "zh-TW": ["義大利麵"],
-      "en": ["Pasta"],
-      "ja": ["パスタ"],
-      "ko": ["파스타"]
+      "zh-TW": [
+        "義大利麵"
+      ],
+      "en": [
+        "Pasta"
+      ],
+      "ja": [
+        "パスタ"
+      ],
+      "ko": [
+        "파스타"
+      ]
     },
-    "commonIngredients": ["pasta", "chicken-breast", "salmon", "shrimp", "scallion", "garlic"],
-    "relatedScenarios": ["one-person-meal", "ten-minute-meals", "budget-meals"]
+    "commonIngredients": [
+      "pasta",
+      "chicken-breast",
+      "salmon",
+      "shrimp",
+      "scallion",
+      "garlic"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "localeCopy": {
+      "en": {
+        "description": "Explore garlic, tomato, pesto, cream, meat, and seafood pasta recipes, including easy pesto chicken, salmon, and shrimp ideas for small kitchens.",
+        "seoTitle": "Pasta Recipe Hub | Pesto, Seafood, and Easy Weeknight Pasta",
+        "seoDescription": "The pasta hub collects pesto chicken, pesto salmon, pesto shrimp, garlic, and tomato pasta ideas for one-person dinners.",
+        "tags": [
+          "Single serving",
+          "Quick cook",
+          "Pesto",
+          "Seafood"
+        ]
+      },
+      "ja": {
+        "description": "にんにく、トマト、ジェノベーゼ、クリーム、肉系、魚介系のパスタをまとめた特集で、小さなキッチンでも作りやすい内容です。",
+        "seoTitle": "パスタレシピ特集 | ジェノベーゼと魚介と手早い家パスタ",
+        "seoDescription": "ジェノベーゼチキン、サーモン、えび、にんにく、トマトなど、一人分のパスタレシピをまとめました。",
+        "tags": [
+          "一人分",
+          "時短",
+          "ジェノベーゼ",
+          "魚介"
+        ]
+      },
+      "ko": {
+        "description": "마늘, 토마토, 페스토, 크림, 고기, 해산물 파스타를 모은 전용 허브로, 작은 주방에서도 만들기 좋은 레시피를 담았습니다.",
+        "seoTitle": "파스타 레시피 허브 | 페스토와 해산물, 평일용 간편 파스타",
+        "seoDescription": "페스토 치킨, 페스토 연어, 페스토 새우, 마늘, 토마토 파스타 등 1인분 저녁에 좋은 레시피를 모았습니다.",
+        "tags": [
+          "1인분",
+          "빠른 조리",
+          "페스토",
+          "해산물"
+        ]
+      }
+    }
   },
   {
     "name": "牛肉專區",
@@ -22,16 +83,73 @@
     "description": "收錄 14 道一人份牛肉料理，從炒飯蓋飯、快炒配菜到湯品與煎烤主菜，適合小廚房與平日晚餐。",
     "seoTitle": "牛肉食譜專區｜14 道炒飯快炒湯品家常牛肉料理",
     "seoDescription": "牛肉專區收錄蔥花牛肉炒飯、洋蔥牛肉蓋飯、蒜香牛肉片與紅蘿蔔牛肉湯等 14 道做法，適合一人份晚餐。",
-    "tags": ["一人份", "高蛋白", "家常牛肉"],
-    "recipeTags": ["牛肉"],
+    "tags": [
+      "一人份",
+      "高蛋白",
+      "家常牛肉"
+    ],
+    "recipeTags": [
+      "牛肉"
+    ],
     "recipeTagsByLocale": {
-      "zh-TW": ["牛肉"],
-      "en": ["Beef"],
-      "ja": ["牛肉"],
-      "ko": ["소고기"]
+      "zh-TW": [
+        "牛肉"
+      ],
+      "en": [
+        "Beef"
+      ],
+      "ja": [
+        "牛肉"
+      ],
+      "ko": [
+        "소고기"
+      ]
     },
-    "commonIngredients": ["beef", "noodles", "onion", "scallion", "tomato", "garlic"],
-    "relatedScenarios": ["one-person-meal", "high-protein-meals", "bento-meals"]
+    "commonIngredients": [
+      "beef",
+      "noodles",
+      "onion",
+      "scallion",
+      "tomato",
+      "garlic"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "high-protein-meals",
+      "bento-meals"
+    ],
+    "localeCopy": {
+      "en": {
+        "description": "A beef-focused collection with fried rice, rice bowls, quick stir-fries, soups, and pan-seared mains that fit small kitchens and weeknight dinners.",
+        "seoTitle": "Beef Recipe Hub | Home-Style Fried Rice, Soups, and Weeknight Beef",
+        "seoDescription": "The beef hub gathers onion beef rice bowls, garlic beef slices, beef fried rice, and soup ideas for one-person meals.",
+        "tags": [
+          "Single serving",
+          "High protein",
+          "Home-style beef"
+        ]
+      },
+      "ja": {
+        "description": "炒飯や丼、さっと炒める副菜、スープ、焼き物まで、一人分で作りやすい牛肉料理をまとめた特集です。",
+        "seoTitle": "牛肉レシピ特集 | 炒飯・炒め物・スープの家庭牛肉料理",
+        "seoDescription": "ねぎ入り牛肉炒飯、玉ねぎ牛丼、にんにく牛肉炒め、牛肉スープなどの一人分レシピをまとめました。",
+        "tags": [
+          "一人分",
+          "高タンパク",
+          "家庭の牛肉料理"
+        ]
+      },
+      "ko": {
+        "description": "볶음밥, 덮밥, 빠른 볶음반찬, 국물 요리, 구이 메인까지 작은 주방과 평일 저녁에 맞는 소고기 요리 모음입니다.",
+        "seoTitle": "소고기 레시피 허브 | 볶음밥, 국물, 집밥 소고기 메뉴",
+        "seoDescription": "파 소고기 볶음밥, 양파 소고기 덮밥, 마늘 소고기 볶음, 소고기 수프 등 1인분 레시피를 모았습니다.",
+        "tags": [
+          "1인분",
+          "고단백",
+          "집밥 소고기"
+        ]
+      }
+    }
   },
   {
     "name": "早午餐專區",
@@ -39,16 +157,73 @@
     "description": "收錄 7 道一人份早午餐主盤，從澎湃海陸、牛排煎烤到鮭魚、鱈魚與蛋奶素，適合週末或想在家吃出餐廳感。",
     "seoTitle": "早午餐食譜專區｜7 道牛排海鮮雞肉家常 Brunch",
     "seoDescription": "早午餐專區收錄澎湃海陸、香煎翼板牛排、爐烤鮭魚、煙燻鮭魚與野菇嫩蛋等做法，適合一人份週末早午餐。",
-    "tags": ["一人份", "週末", "Brunch"],
-    "recipeTags": ["早午餐"],
+    "tags": [
+      "一人份",
+      "週末",
+      "Brunch"
+    ],
+    "recipeTags": [
+      "早午餐"
+    ],
     "recipeTagsByLocale": {
-      "zh-TW": ["早午餐"],
-      "en": ["Brunch"],
-      "ja": ["ブランチ"],
-      "ko": ["브런치"]
+      "zh-TW": [
+        "早午餐"
+      ],
+      "en": [
+        "Brunch"
+      ],
+      "ja": [
+        "ブランチ"
+      ],
+      "ko": [
+        "브런치"
+      ]
     },
-    "commonIngredients": ["beef", "salmon", "shrimp", "egg", "chicken-breast", "mushroom"],
-    "relatedScenarios": ["one-person-meal", "high-protein-meals", "ten-minute-meals"]
+    "commonIngredients": [
+      "beef",
+      "salmon",
+      "shrimp",
+      "egg",
+      "chicken-breast",
+      "mushroom"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "high-protein-meals",
+      "ten-minute-meals"
+    ],
+    "localeCopy": {
+      "en": {
+        "description": "A brunch collection of one-person plates, from surf-and-turf and steak to salmon, cod, and vegetarian options for a more special at-home meal.",
+        "seoTitle": "Brunch Recipe Hub | Steak, Seafood, Chicken, and Home Brunch Plates",
+        "seoDescription": "The brunch hub gathers steak, roasted salmon, smoked salmon, seafood plates, and soft egg dishes for weekend cooking at home.",
+        "tags": [
+          "Single serving",
+          "Weekend",
+          "Brunch"
+        ]
+      },
+      "ja": {
+        "description": "海陸の盛り合わせ、ステーキ、サーモン、タラ、卵や野菜中心の一皿まで、一人分のブランチ主皿を集めた特集です。",
+        "seoTitle": "ブランチレシピ特集 | ステーキ・魚介・鶏肉の家ブランチ",
+        "seoDescription": "ステーキ、ローストサーモン、スモークサーモン、やわらか卵料理など、週末に楽しみたいブランチをまとめました。",
+        "tags": [
+          "一人分",
+          "週末",
+          "ブランチ"
+        ]
+      },
+      "ko": {
+        "description": "해산물과 고기를 곁들인 한 접시, 스테이크, 연어, 대구, 달걀 중심 메뉴까지 집에서 조금 특별하게 즐기기 좋은 브런치 모음입니다.",
+        "seoTitle": "브런치 레시피 허브 | 스테이크, 해산물, 치킨 홈 브런치",
+        "seoDescription": "스테이크, 구운 연어, 훈제 연어, 부드러운 달걀 요리 등 주말 한 끼에 어울리는 브런치 메뉴를 모았습니다.",
+        "tags": [
+          "1인분",
+          "주말",
+          "브런치"
+        ]
+      }
+    }
   },
   {
     "name": "氣炸鍋專區",
@@ -56,18 +231,77 @@
     "description": "收錄氣炸鍋一人份主菜與配菜，少顧鍋也能快速完成晚餐或便當。",
     "seoTitle": "氣炸鍋料理食譜專區｜少顧鍋的一人份主菜",
     "seoDescription": "氣炸鍋專區收錄鮭魚、雞胸肉、雞翅、豆腐與蔬菜等做法，適合租屋族平日晚餐。",
-    "tags": ["氣炸鍋", "少顧鍋", "一人份"],
-    "recipeTags": ["氣炸鍋"],
+    "tags": [
+      "氣炸鍋",
+      "少顧鍋",
+      "一人份"
+    ],
+    "recipeTags": [
+      "氣炸鍋"
+    ],
     "recipeTagsByLocale": {
-      "zh-TW": ["氣炸鍋"],
-      "en": ["Air fryer"],
-      "ja": ["エアフライヤー"],
-      "ko": ["에어프라이어"]
+      "zh-TW": [
+        "氣炸鍋"
+      ],
+      "en": [
+        "Air fryer"
+      ],
+      "ja": [
+        "エアフライヤー"
+      ],
+      "ko": [
+        "에어프라이어"
+      ]
     },
-    "recipeScenarios": ["氣炸鍋料理"],
-    "recipeScenarioSlugs": ["air-fryer-meals"],
-    "commonIngredients": ["chicken-breast", "salmon", "broccoli", "chicken-wings"],
-    "relatedScenarios": ["air-fryer-meals", "high-protein-meals", "bento-meals"]
+    "recipeScenarios": [
+      "氣炸鍋料理"
+    ],
+    "recipeScenarioSlugs": [
+      "air-fryer-meals"
+    ],
+    "commonIngredients": [
+      "chicken-breast",
+      "salmon",
+      "broccoli",
+      "chicken-wings"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "high-protein-meals",
+      "bento-meals"
+    ],
+    "localeCopy": {
+      "en": {
+        "description": "A hub for one-person air fryer mains and sides that let you finish dinner or meal prep with less hands-on stove time.",
+        "seoTitle": "Air Fryer Recipe Hub | Easy One-Person Main Dishes",
+        "seoDescription": "The air fryer hub includes salmon, chicken breast, wings, tofu, and vegetables that work well for weekday dinners and lunch boxes.",
+        "tags": [
+          "Air fryer",
+          "Hands-off",
+          "Single serving"
+        ]
+      },
+      "ja": {
+        "description": "エアフライヤーで作る一人分の主菜と副菜を集めた特集で、夕食やお弁当準備を手軽に進められます。",
+        "seoTitle": "エアフライヤーレシピ特集 | 一人分の手軽な主菜",
+        "seoDescription": "サーモン、鶏むね肉、手羽先、豆腐、野菜など、平日ごはんに合うエアフライヤー料理をまとめました。",
+        "tags": [
+          "エアフライヤー",
+          "ほったらかし",
+          "一人分"
+        ]
+      },
+      "ko": {
+        "description": "에어프라이어로 만드는 1인분 메인과 사이드를 모은 허브로, 저녁이나 도시락 준비를 더 수월하게 해 줍니다.",
+        "seoTitle": "에어프라이어 레시피 허브 | 1인분 메인 요리 모음",
+        "seoDescription": "연어, 닭가슴살, 닭날개, 두부, 채소 등 평일 저녁과 도시락에 잘 맞는 에어프라이어 요리를 모았습니다.",
+        "tags": [
+          "에어프라이어",
+          "덜 손감",
+          "1인분"
+        ]
+      }
+    }
   },
   {
     "name": "名店還原專區",
@@ -75,16 +309,68 @@
     "description": "盡力還原台灣知名餐廳與米其林名店的代表菜，收錄完整工序、醬料比例與上桌份量，不刻意簡化成快手版。",
     "seoTitle": "名店還原食譜專區｜台灣米其林與知名餐廳代表菜還原",
     "seoDescription": "名店還原專區收錄富錦樹、欣葉、明福、鼎泰豐、元紀等名店代表菜的還原食譜，含樹子水蓮、菜脯蛋、鳳梨苦瓜雞湯與擔仔麵。",
-    "tags": ["名店還原", "台菜", "米其林"],
-    "recipeTags": ["名店還原"],
+    "tags": [
+      "名店還原",
+      "台菜",
+      "米其林"
+    ],
+    "recipeTags": [
+      "名店還原"
+    ],
     "recipeTagsByLocale": {
-      "zh-TW": ["名店還原"],
-      "en": ["Restaurant replica"],
-      "ja": ["名店再現"],
-      "ko": ["맛집 재현"]
+      "zh-TW": [
+        "名店還原"
+      ],
+      "en": [
+        "Restaurant replica"
+      ],
+      "ja": [
+        "名店再現"
+      ],
+      "ko": [
+        "맛집 재현"
+      ]
     },
-    "commonIngredients": ["chicken", "pork", "egg", "water-lily-stem", "bitter-melon"],
-    "relatedScenarios": []
+    "commonIngredients": [
+      "chicken",
+      "pork",
+      "egg",
+      "water-lily-stem",
+      "bitter-melon"
+    ],
+    "relatedScenarios": [],
+    "localeCopy": {
+      "en": {
+        "description": "A collection that recreates signature dishes from famous Taiwanese restaurants with full steps, sauce ratios, and serving style instead of shortcut versions.",
+        "seoTitle": "Restaurant Replica Recipe Hub | Recreating Signature Taiwanese Dishes",
+        "seoDescription": "The restaurant replica hub covers signature dishes inspired by well-known Taiwanese restaurants, with full process notes and home-kitchen adaptations.",
+        "tags": [
+          "Restaurant replica",
+          "Taiwanese cuisine",
+          "Michelin-inspired"
+        ]
+      },
+      "ja": {
+        "description": "台湾の有名店やミシュラン掲載店の看板料理を、工程やたれの比率、盛り付け量まで含めて再現する特集です。",
+        "seoTitle": "名店再現レシピ特集 | 台湾の人気店と代表料理を家庭で再現",
+        "seoDescription": "台湾の有名店をイメージした代表料理を、工程を省かずに家庭向けへ落とし込んだ再現レシピです。",
+        "tags": [
+          "名店再現",
+          "台湾料理",
+          "ミシュラン風"
+        ]
+      },
+      "ko": {
+        "description": "대만의 유명 식당과 미슐랭 식당 대표 메뉴를 공정, 소스 비율, 담음새까지 살려 재현하는 레시피 모음입니다.",
+        "seoTitle": "맛집 재현 레시피 허브 | 대만 대표 요리를 집에서 재현",
+        "seoDescription": "대만 유명 식당의 대표 메뉴를 집에서도 재현할 수 있도록 공정과 비율을 자세히 담은 레시피 허브입니다.",
+        "tags": [
+          "맛집 재현",
+          "대만 요리",
+          "미슐랭 감성"
+        ]
+      }
+    }
   },
   {
     "name": "10 分鐘專區",
@@ -92,7 +378,11 @@
     "description": "收錄 10 到 15 分鐘就能完成的一人份料理，適合忙碌平日晚餐與宵夜。",
     "seoTitle": "10 分鐘料理食譜專區｜快速完成的一人份晚餐",
     "seoDescription": "10 分鐘專區收錄炒飯、拌麵、湯品與快手主菜，從雞蛋、豆腐與常備食材快速開飯。",
-    "tags": ["10 分鐘", "快手", "一人份"],
+    "tags": [
+      "10 分鐘",
+      "快手",
+      "一人份"
+    ],
     "recipeTags": [],
     "recipeTagsByLocale": {
       "zh-TW": [],
@@ -100,9 +390,54 @@
       "ja": [],
       "ko": []
     },
-    "recipeScenarios": ["10 分鐘料理"],
-    "recipeScenarioSlugs": ["ten-minute-meals"],
-    "commonIngredients": ["egg", "tofu", "rice", "scallion"],
-    "relatedScenarios": ["ten-minute-meals", "one-person-meal", "late-night-meals"]
+    "recipeScenarios": [
+      "10 分鐘料理"
+    ],
+    "recipeScenarioSlugs": [
+      "ten-minute-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "tofu",
+      "rice",
+      "scallion"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal",
+      "late-night-meals"
+    ],
+    "localeCopy": {
+      "en": {
+        "description": "A hub for one-person meals that come together in about 10 to 15 minutes, ideal for busy weeknights and late suppers.",
+        "seoTitle": "10-Minute Recipe Hub | Fast One-Person Dinners",
+        "seoDescription": "The quick-meals hub gathers fried rice, mixed noodles, soups, and fast mains built around eggs, tofu, and pantry-friendly staples.",
+        "tags": [
+          "10 minutes",
+          "Quick fix",
+          "Single serving"
+        ]
+      },
+      "ja": {
+        "description": "10分から15分ほどで作れる一人分料理を集めた特集で、忙しい平日や夜食にも向いています。",
+        "seoTitle": "10分料理特集 | 一人分で手早く作れる夕食",
+        "seoDescription": "炒飯、和え麺、スープ、手早い主菜など、卵や豆腐を使ってすぐ作れる料理をまとめました。",
+        "tags": [
+          "10分",
+          "時短",
+          "一人分"
+        ]
+      },
+      "ko": {
+        "description": "10분에서 15분 안팎으로 완성되는 1인분 요리를 모은 허브로, 바쁜 평일 저녁과 야식에 잘 맞습니다.",
+        "seoTitle": "10분 요리 허브 | 빠르게 만드는 1인분 저녁",
+        "seoDescription": "볶음밥, 비빔면, 국물, 빠른 메인 요리 등 달걀과 두부, 상비 재료로 만들기 좋은 메뉴를 모았습니다.",
+        "tags": [
+          "10분",
+          "간단 조리",
+          "1인분"
+        ]
+      }
+    }
   }
 ]

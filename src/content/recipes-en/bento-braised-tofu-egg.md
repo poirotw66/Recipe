@@ -14,8 +14,8 @@ fat: 16
 carbs: 8
 category: "Bento sides"
 scenarios:
-- Bento prep
-- Budget cooking
+- Bento-friendly dishes
+- Budget-friendly meals
 equipment:
 - Small saucepan
 tags:

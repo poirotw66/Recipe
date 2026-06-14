@@ -15,7 +15,7 @@ carbs: 48
 category: "ご飯・麺"
 scenarios:
 - 節約料理
-- 一人暮らし向け
+- 一人分の料理
 equipment:
 - フライパン
 tags:

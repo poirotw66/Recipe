@@ -1,77 +1,29 @@
 ---
+import RecipesListPage from "../../../components/RecipesListPage.astro";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
-import Breadcrumb from "../../../components/Breadcrumb.astro";
-import JsonLd from "../../../components/JsonLd.astro";
-import RecipeCard from "../../../components/RecipeCard.astro";
-import { localePath, t } from "../../../lib/i18n";
+import { localePath } from "../../../lib/i18n";
+import { getRecipesListPage } from "../../../i18n/recipes-list-page";
 import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
 import { listRecipesForLocale } from "../../../lib/recipe-locale";
 import { sortRecipesByPublishedDate } from "../../../lib/recipes";
-import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../../../lib/seo";
 
 export function getStaticPaths() {
   return localeStaticPaths();
 }
 
 const locale = requireNonDefaultLocale(Astro.params.locale);
+const content = getRecipesListPage(locale);
 const recipes = sortRecipesByPublishedDate(await listRecipesForLocale(locale));
 const canonical = localePath(locale, "/recipes");
 const hasRecipes = recipes.length > 0;
-const collectionJsonLd = buildCollectionPageJsonLd(
-  t(locale, "nav.recipes"),
-  hasRecipes ? t(locale, "recipes.listDescription") : t(locale, "recipes.emptyLocale"),
-  canonical
-);
-const recipeListJsonLd = hasRecipes
-  ? buildItemListJsonLd(
-      t(locale, "nav.recipes"),
-      canonical,
-      recipes.slice(0, 20).map((recipe) => ({
-        name: recipe.data.title,
-        path: localePath(locale, `/recipes/${recipe.slug}`)
-      }))
-    )
-  : null;
 ---
 
 <BaseLayout
-  title={t(locale, "nav.recipes")}
-  description={hasRecipes ? t(locale, "recipes.listDescription") : t(locale, "recipes.emptyLocale")}
+  title={content.title}
+  description={hasRecipes ? content.description : content.emptyLocale}
   canonicalPath={canonical}
   alternatePath="/recipes"
   locale={locale}
 >
-  {hasRecipes && <JsonLd data={collectionJsonLd} />}
-  {recipeListJsonLd && <JsonLd data={recipeListJsonLd} />}
-  <section class="section">
-    <div class="container">
-      <Breadcrumb
-        items={[
-          { name: t(locale, "nav.home"), href: localePath(locale, "/") },
-          { name: t(locale, "nav.recipes") }
-        ]}
-      />
-      <p class="eyebrow">{t(locale, "nav.recipes")}</p>
-      <h1 class="page-title">{t(locale, "nav.recipes")}</h1>
-      {
-        hasRecipes ? (
-          <>
-            <p class="page-copy">{t(locale, "recipes.listDescription")}</p>
-            <div class="grid">
-              {recipes.map((recipe) => (
-                <RecipeCard recipe={recipe} locale={locale} />
-              ))}
-            </div>
-          </>
-        ) : (
-          <>
-            <p class="page-copy">{t(locale, "recipes.emptyLocale")}</p>
-            <a class="button note" href="/recipes/">
-              {t(locale, "recipes.viewZh")}
-            </a>
-          </>
-        )
-      }
-    </div>
-  </section>
+  <RecipesListPage locale={locale} recipes={recipes} />
 </BaseLayout>

@@ -14,8 +14,8 @@ fat: 13
 carbs: 58
 category: "집밥"
 scenarios:
+- 1인 요리
 - 10분 요리
-- 원룸 요리
 equipment:
 - 프라이팬
 ingredients:

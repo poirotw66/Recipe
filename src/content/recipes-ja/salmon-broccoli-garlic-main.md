@@ -14,8 +14,8 @@ fat: 27
 carbs: 9
 category: "主菜"
 scenarios:
-- 高タンパク
-- ノンフライヤー
+- ノンフライヤー料理
+- 高タンパク料理
 equipment:
 - フライパン
 ingredients:

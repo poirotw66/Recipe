@@ -14,8 +14,8 @@ fat: 15
 carbs: 58
 category: "밥·면"
 scenarios:
+- 고단백 요리
 - 1인 요리
-- 고단백 식사
 equipment:
 - 프라이팬
 ingredients:

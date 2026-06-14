@@ -14,8 +14,8 @@ fat: 46
 carbs: 58
 category: "ハンバーガーとサンド"
 scenarios:
-- 一人分の料理
 - お弁当向けのおかず
+- 一人分の料理
 equipment:
 - フライパン
 - オーブン

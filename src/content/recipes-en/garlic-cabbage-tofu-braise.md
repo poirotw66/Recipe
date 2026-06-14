@@ -14,7 +14,7 @@ fat: 11
 carbs: 19
 category: "Home cooking"
 scenarios:
-- Budget cooking
+- Budget-friendly meals
 - 10-minute meals
 equipment:
 - Stockpot

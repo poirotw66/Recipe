@@ -14,8 +14,8 @@ fat: 20
 carbs: 16
 category: "Home cooking"
 scenarios:
-- Cooking for one
 - High-protein meals
+- Cooking for one
 equipment:
 - Skillet
 ingredients:

@@ -14,9 +14,9 @@ fat: 14
 carbs: 18
 category: "집밥"
 scenarios:
-- 10분 요리
-- 알뜰 요리
 - 도시락 반찬
+- 알뜰 요리
+- 10분 요리
 equipment:
 - 프라이팬
 ingredients:

@@ -14,8 +14,8 @@ fat: 32
 carbs: 28
 category: "메인"
 scenarios:
+- 고단백 요리
 - 1인 요리
-- 고단백 식사
 equipment:
 - 프라이팬
 - 오븐 또는 에어프라이어

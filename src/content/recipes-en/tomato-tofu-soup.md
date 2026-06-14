@@ -15,8 +15,7 @@ carbs: 18
 category: "Soup"
 scenarios:
 - Cooking for one
-- Lighter meals
-- Clear the fridge
+- "Light & lean meals"
 equipment:
 - Stockpot
 ingredients:

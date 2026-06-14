@@ -14,8 +14,8 @@ fat: 22
 carbs: 38
 category: "Main dish"
 scenarios:
-- Cooking for one
 - Air fryer meals
+- Cooking for one
 equipment:
 - Skillet or air fryer
 tags:

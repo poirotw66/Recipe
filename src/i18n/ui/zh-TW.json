@@ -106,6 +106,13 @@
     "privacy": "隱私權",
     "terms": "使用條款"
   },
+  "errors": {
+    "notFoundTitle": "找不到頁面",
+    "notFoundDescription": "找不到你要求的頁面，請從首頁或食譜列表重新開始。",
+    "notFoundHeading": "找不到這個頁面",
+    "notFoundBody": "連結可能已變更，或這道料理還沒寫進食譜庫。你可以從下面幾個入口繼續找今晚要煮什麼。",
+    "backHome": "回到首頁"
+  },
   "taxonomy": {
     "scenarioEyebrow": "情境料理",
     "scenarioSummaryEyebrow": "怎麼用這個入口找菜",

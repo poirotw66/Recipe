@@ -14,8 +14,8 @@ fat: 10
 carbs: 28
 category: "主菜"
 scenarios:
-- エアフライヤー料理
-- 一人暮らし向け
+- ノンフライヤー料理
+- 一人分の料理
 equipment:
 - エアフライヤー
 tags:

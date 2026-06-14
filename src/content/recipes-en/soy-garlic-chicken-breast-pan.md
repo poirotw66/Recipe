@@ -14,8 +14,8 @@ fat: 12
 carbs: 7
 category: "Main dish"
 scenarios:
-- High protein
-- Bento
+- Bento-friendly dishes
+- High-protein meals
 equipment:
 - Skillet
 ingredients:

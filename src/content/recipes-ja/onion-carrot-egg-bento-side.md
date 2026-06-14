@@ -14,7 +14,7 @@ fat: 14
 carbs: 16
 category: "お弁当のおかず"
 scenarios:
-- お弁当
+- お弁当向けのおかず
 - 節約料理
 equipment:
 - フライパン

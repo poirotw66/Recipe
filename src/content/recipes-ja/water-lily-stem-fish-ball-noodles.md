@@ -14,9 +14,9 @@ fat: 12
 carbs: 58
 category: "ご飯・麺"
 scenarios:
-- 10分で作れる
 - 節約料理
-- 夜食向け
+- 夜食
+- 10分でできる料理
 equipment:
 - 鍋
 tags:

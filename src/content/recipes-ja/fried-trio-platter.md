@@ -14,7 +14,7 @@ fat: 42
 carbs: 58
 category: "家常菜"
 scenarios:
-- 一人分
+- 一人分の料理
 equipment:
 - 揚げ鍋または深いフライパン
 - オーブン

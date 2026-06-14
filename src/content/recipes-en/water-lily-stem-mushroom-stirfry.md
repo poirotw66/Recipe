@@ -14,9 +14,9 @@ fat: 6
 carbs: 12
 category: "Home cooking"
 scenarios:
-- Bento
-- Lighter meals
+- Bento-friendly dishes
 - 10-minute meals
+- "Light & lean meals"
 equipment:
 - Skillet
 tags:

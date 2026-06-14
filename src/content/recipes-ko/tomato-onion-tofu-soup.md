@@ -15,7 +15,7 @@ carbs: 15
 category: "국·탕"
 scenarios:
 - 1인 요리
-- 가벼운 식사
+- 다이어트 요리
 equipment:
 - 냄비
 ingredients:

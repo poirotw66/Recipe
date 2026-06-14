@@ -1,0 +1,128 @@
+---
+import Breadcrumb from "./Breadcrumb.astro";
+import JsonLd from "./JsonLd.astro";
+import RecipeCard from "./RecipeCard.astro";
+import { localePath, t, type Locale } from "../lib/i18n";
+import { getIngredientsListPage } from "../i18n/ingredients-list-page";
+import type { LocalizedRecipeEntry } from "../lib/recipe-locale";
+import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../lib/seo";
+import {
+  getIngredientLabel,
+  getIngredientsByCategoryLocalized,
+  getPopularIngredients,
+  getScenarioLabel,
+  ingredientItems,
+  recipeUsesIngredient,
+  scenarioItems
+} from "../lib/taxonomy";
+
+interface Props {
+  locale: Locale;
+  recipes: LocalizedRecipeEntry[];
+}
+
+const { locale, recipes } = Astro.props;
+const content = getIngredientsListPage(locale);
+const groupedIngredients = getIngredientsByCategoryLocalized(locale);
+const relatedScenarios = scenarioItems.slice(0, 3);
+const popularIngredients = getPopularIngredients(recipes, 8);
+const featuredRecipes = recipes
+  .filter((recipe) => popularIngredients.some((ingredient) => recipeUsesIngredient(recipe, ingredient)))
+  .slice(0, 3);
+const ingredientsPath = localePath(locale, "/ingredients");
+
+const collectionJsonLd = buildCollectionPageJsonLd(content.title, content.description, ingredientsPath);
+const ingredientListJsonLd = buildItemListJsonLd(
+  content.title,
+  ingredientsPath,
+  ingredientItems.map((ingredient) => ({
+    name: getIngredientLabel(ingredient, locale),
+    path: localePath(locale, `/ingredients/${ingredient.slug}`)
+  }))
+);
+
+const homeLabel = locale === "zh-TW" ? "首頁" : t(locale, "nav.home");
+---
+
+<JsonLd data={collectionJsonLd} />
+<JsonLd data={ingredientListJsonLd} />
+<section class="section">
+  <div class="container">
+    <Breadcrumb
+      items={[
+        { name: homeLabel, href: localePath(locale, "/") },
+        { name: content.title }
+      ]}
+    />
+    <p class="eyebrow">{content.eyebrow}</p>
+    <h1 class="page-title">{content.title}</h1>
+    <p class="page-copy">{content.pageCopy}</p>
+
+    <div class="search-panel">
+      <form class="search-form" action={ingredientsPath} method="get">
+        <label class="field">
+          <span class="eyebrow">{content.searchLabel}</span>
+          <input name="keyword" type="search" placeholder={content.searchPlaceholder} />
+        </label>
+        <button class="button primary" type="submit">{content.searchSubmit}</button>
+      </form>
+    </div>
+
+    <section class="section section-compact">
+      <p class="eyebrow">{content.categoriesEyebrow}</p>
+      <div class="grid">
+        {
+          Object.entries(groupedIngredients).map(([category, items]) => (
+            <article class="card">
+              <div class="card-body">
+                <h2>{category}</h2>
+                <div class="chip-row">
+                  {items.map((item) => (
+                    <a class="chip note" href={localePath(locale, `/ingredients/${item.slug}`)}>
+                      {getIngredientLabel(item, locale)}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </article>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="section section-compact">
+      <p class="eyebrow">{content.popularEyebrow}</p>
+      <div class="chip-row" aria-label={content.popularEyebrow}>
+        {
+          popularIngredients.map((ingredient) => (
+            <a class="chip" href={localePath(locale, `/ingredients/${ingredient.slug}`)}>
+              {getIngredientLabel(ingredient, locale)}
+            </a>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="section section-compact">
+      <p class="eyebrow">{content.relatedScenariosEyebrow}</p>
+      <div class="chip-row" aria-label={content.relatedScenariosEyebrow}>
+        {
+          relatedScenarios.map((scenario) => (
+            <a class="chip note" href={localePath(locale, `/scenarios/${scenario.slug}`)}>
+              {getScenarioLabel(scenario, locale)}
+            </a>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="section section-compact">
+      <p class="eyebrow">{content.featuredRecipesEyebrow}</p>
+      <div class="grid">
+        {featuredRecipes.map((recipe) => (
+          <RecipeCard recipe={recipe} locale={locale} />
+        ))}
+      </div>
+    </section>
+  </div>
+</section>

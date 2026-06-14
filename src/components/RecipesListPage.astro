@@ -1,0 +1,182 @@
+---
+import AdSlot from "./AdSlot.astro";
+import Breadcrumb from "./Breadcrumb.astro";
+import JsonLd from "./JsonLd.astro";
+import RecipeCard from "./RecipeCard.astro";
+import { localePath, t, type Locale } from "../lib/i18n";
+import { getRecipesListPage } from "../i18n/recipes-list-page";
+import type { LocalizedRecipeEntry } from "../lib/recipe-locale";
+import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../lib/seo";
+
+interface Props {
+  locale: Locale;
+  recipes: LocalizedRecipeEntry[];
+}
+
+const { locale, recipes } = Astro.props;
+const content = getRecipesListPage(locale);
+const hasRecipes = recipes.length > 0;
+const recipesPath = localePath(locale, "/recipes");
+const ingredientsPath = localePath(locale, "/ingredients");
+const scenariosPath = localePath(locale, "/scenarios");
+const recipeListItemLimit = 20;
+
+const categorySet = new Set(recipes.map((recipe) => recipe.data.category));
+const toolSet = new Set(recipes.flatMap((recipe) => recipe.data.equipment));
+const categories = [content.filterAll, ...[...categorySet].sort((left, right) => left.localeCompare(right, locale))];
+const tools = [content.filterAll, ...[...toolSet].sort((left, right) => left.localeCompare(right, locale))];
+const timeFilters = [
+  { value: content.filterAll, label: content.filterAll },
+  { value: "10", label: content.timeUnder10 },
+  { value: "15", label: content.timeUnder15 },
+  { value: "30", label: content.timeUnder30 }
+];
+
+const collectionJsonLd = buildCollectionPageJsonLd(content.title, content.description, recipesPath);
+const recipeListJsonLd = hasRecipes
+  ? buildItemListJsonLd(
+      content.title,
+      recipesPath,
+      recipes.slice(0, recipeListItemLimit).map((recipe) => ({
+        name: recipe.data.title,
+        path: localePath(locale, `/recipes/${recipe.slug}`)
+      }))
+    )
+  : null;
+
+const homeLabel = locale === "zh-TW" ? "首頁" : t(locale, "nav.home");
+const resultCountAll = content.resultCountAll.replace("{count}", String(recipes.length));
+---
+
+{
+  hasRecipes && <JsonLd data={collectionJsonLd} />}
+{recipeListJsonLd && <JsonLd data={recipeListJsonLd} />}
+<section class="section">
+  <div class="container">
+    <Breadcrumb
+      items={[
+        { name: homeLabel, href: localePath(locale, "/") },
+        { name: content.title }
+      ]}
+    />
+    <p class="eyebrow">{content.eyebrow}</p>
+    <h1 class="page-title">{content.title}</h1>
+    {
+      hasRecipes ? (
+        <>
+          <p class="page-copy">{content.pageCopy}</p>
+
+          <div
+            class="search-panel"
+            data-recipe-filter-panel
+            data-filter-all={content.filterAll}
+            data-result-count-all={content.resultCountAll}
+            data-result-count-filtered={content.resultCountFiltered}
+            data-filter-label-keyword={content.searchLabel}
+            data-filter-label-category={content.categoryLabel}
+            data-filter-label-time={content.timeLabel}
+            data-filter-label-tool={content.toolLabel}
+          >
+            <label class="field">
+              <span class="eyebrow">{content.searchLabel}</span>
+              <input
+                type="search"
+                name="keyword"
+                placeholder={content.searchPlaceholder}
+                data-recipe-keyword
+                autocomplete="off"
+              />
+            </label>
+            <div class="filter-group">
+              <p class="filter-label">{content.categoryLabel}</p>
+              <div class="filter-bar">
+                {categories.map((filter) => (
+                  <button
+                    class="chip"
+                    type="button"
+                    data-filter-group="category"
+                    data-filter-value={filter}
+                    aria-pressed="false"
+                  >
+                    {filter}
+                  </button>
+                ))}
+              </div>
+            </div>
+            <div class="filter-group">
+              <p class="filter-label">{content.timeLabel}</p>
+              <div class="filter-bar">
+                {timeFilters.map((filter) => (
+                  <button
+                    class="chip"
+                    type="button"
+                    data-filter-group="time"
+                    data-filter-value={filter.value}
+                    aria-pressed="false"
+                  >
+                    {filter.label}
+                  </button>
+                ))}
+              </div>
+            </div>
+            <div class="filter-group">
+              <p class="filter-label">{content.toolLabel}</p>
+              <div class="filter-bar">
+                {tools.map((filter) => (
+                  <button
+                    class="chip"
+                    type="button"
+                    data-filter-group="tool"
+                    data-filter-value={filter}
+                    aria-pressed="false"
+                  >
+                    {filter}
+                  </button>
+                ))}
+              </div>
+            </div>
+            <div class="section-links">
+              <button class="button" type="button" data-reset-filters hidden>
+                {content.resetFilters}
+              </button>
+            </div>
+          </div>
+
+          <p class="caption" data-recipe-result-count>
+            {resultCountAll}
+          </p>
+          <p class="form-error" data-recipe-empty hidden>
+            {content.emptyMessage}
+          </p>
+
+          <div class="grid" data-recipe-grid>
+            {recipes.map((recipe) => (
+              <RecipeCard recipe={recipe} locale={locale} />
+            ))}
+          </div>
+
+          <section class="section section-compact">
+            <AdSlot slot="1000000001" label={content.adLabel} minHeight={220} />
+          </section>
+
+          <div class="section-links">
+            <a class="button" href={ingredientsPath}>
+              {content.viewIngredients}
+            </a>
+            <a class="button note" href={scenariosPath}>
+              {content.viewScenarios}
+            </a>
+          </div>
+        </>
+      ) : (
+        <>
+          <p class="page-copy">{content.emptyLocale}</p>
+          <a class="button note" href="/recipes/">
+            {content.viewZh}
+          </a>
+        </>
+      )
+    }
+  </div>
+</section>
+<script is:inline src="/scripts/recipe-list-filter.js"></script>

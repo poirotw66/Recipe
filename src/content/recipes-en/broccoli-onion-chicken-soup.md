@@ -15,7 +15,7 @@ carbs: 14
 category: "Soup"
 scenarios:
 - High-protein meals
-- Lighter meals
+- "Light & lean meals"
 equipment:
 - Stockpot
 ingredients:

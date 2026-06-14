@@ -14,8 +14,8 @@ fat: 18
 carbs: 14
 category: "Home cooking"
 scenarios:
+- Budget-friendly meals
 - Cooking for one
-- Budget cooking
 equipment:
 - Skillet
 ingredients:

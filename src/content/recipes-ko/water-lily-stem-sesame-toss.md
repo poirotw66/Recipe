@@ -15,8 +15,8 @@ carbs: 9
 category: "도시락 반찬"
 scenarios:
 - 도시락 반찬
-- 가벼운 식사
 - 10분 요리
+- 다이어트 요리
 equipment:
 - 냄비
 tags:

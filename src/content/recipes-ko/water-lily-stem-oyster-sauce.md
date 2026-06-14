@@ -14,8 +14,8 @@ fat: 6
 carbs: 11
 category: "집밥"
 scenarios:
-- 10분 요리
 - 도시락 반찬
+- 10분 요리
 equipment:
 - 프라이팬
 tags:

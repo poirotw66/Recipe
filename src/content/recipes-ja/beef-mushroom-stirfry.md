@@ -14,7 +14,7 @@ fat: 17
 carbs: 12
 category: "家庭料理"
 scenarios:
-- 一人暮らし向け
+- 一人分の料理
 equipment:
 - フライパン
 ingredients:

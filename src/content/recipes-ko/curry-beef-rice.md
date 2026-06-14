@@ -14,8 +14,8 @@ fat: 20
 carbs: 72
 category: "밥·면"
 scenarios:
-- 1인 요리
 - 도시락 반찬
+- 1인 요리
 equipment:
 - 프라이팬
 ingredients:

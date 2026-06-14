@@ -15,7 +15,7 @@ carbs: 15
 category: "Soup"
 scenarios:
 - Cooking for one
-- Lighter meals
+- "Light & lean meals"
 equipment:
 - Pot
 ingredients:

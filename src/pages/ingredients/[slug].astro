@@ -7,6 +7,8 @@ import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd } from "../../lib/seo";
 import {
   getIngredientBySlug,
+  getIngredientDescription,
+  getIngredientStorage,
   getRecipesByIngredient,
   getScenarioBySlug,
   ingredientItems
@@ -56,7 +58,7 @@ const relatedRecipeListJsonLd =
 
 <BaseLayout
   title={`${ingredient.name} 食材料理`}
-  description={`${ingredient.description} 這裡整理保存方式、營養資訊、搭配建議與相關食譜入口。`}
+  description={`${getIngredientDescription(ingredient, "zh-TW")} 這裡整理保存方式、營養資訊、搭配建議與相關食譜入口。`}
   canonicalPath={`/ingredients/${ingredient.slug}/`}
 >
   <JsonLd data={breadcrumbJsonLd} />
@@ -76,7 +78,7 @@ const relatedRecipeListJsonLd =
         <div>
           <p class="eyebrow">{ingredient.category}</p>
           <h1 class="page-title">{ingredient.name}</h1>
-          <p class="page-copy">{ingredient.description}</p>
+          <p class="page-copy">{getIngredientDescription(ingredient, "zh-TW")}</p>
           <div class="chip-row">
             {ingredient.aliases.map((alias) => <span class="chip note">{alias}</span>)}
           </div>
@@ -98,7 +100,7 @@ const relatedRecipeListJsonLd =
             <div class="card-body">
               <p class="eyebrow">保存方式</p>
               <h2>怎麼放比較穩</h2>
-              <p>{ingredient.storage}</p>
+              <p>{getIngredientStorage(ingredient, "zh-TW")}</p>
             </div>
           </article>
 

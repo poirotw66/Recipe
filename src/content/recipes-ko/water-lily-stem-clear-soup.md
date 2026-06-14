@@ -14,9 +14,9 @@ fat: 4
 carbs: 7
 category: "국·탕"
 scenarios:
-- 가벼운 식사
-- 채식 위주
+- 무고기 요리
 - 10분 요리
+- 다이어트 요리
 equipment:
 - 냄비
 tags:

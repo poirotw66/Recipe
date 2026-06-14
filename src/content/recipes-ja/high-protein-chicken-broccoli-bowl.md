@@ -14,8 +14,8 @@ fat: 10
 carbs: 18
 category: "メイン"
 scenarios:
-- 高タンパク
-- 減脂
+- 高タンパク料理
+- 低脂質の料理
 equipment:
 - フライパン
 - 鍋

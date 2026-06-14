@@ -14,8 +14,8 @@ fat: 6
 carbs: 82
 category: "밥·면"
 scenarios:
-- 알뜰 요리
 - 도시락 반찬
+- 알뜰 요리
 - 10분 요리
 equipment:
 - 전기밥솥

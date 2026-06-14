@@ -14,9 +14,9 @@ fat: 12
 carbs: 14
 category: "메인 요리"
 scenarios:
+- 도시락 반찬
 - 고단백 요리
 - 다이어트 요리
-- 도시락 반찬
 equipment:
 - 프라이팬
 ingredients:

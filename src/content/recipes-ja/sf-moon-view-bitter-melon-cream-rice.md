@@ -14,8 +14,8 @@ fat: 26
 carbs: 84
 category: "ご飯とパスタ"
 scenarios:
-- 一人分の料理
 - 高タンパク料理
+- 一人分の料理
 equipment:
 - フライパン
 - 鍋

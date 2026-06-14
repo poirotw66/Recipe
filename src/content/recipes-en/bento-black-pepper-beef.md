@@ -14,7 +14,7 @@ fat: 18
 carbs: 6
 category: "Bento sides"
 scenarios:
-- Bento prep
+- Bento-friendly dishes
 - High-protein meals
 equipment:
 - Skillet

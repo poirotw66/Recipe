@@ -12,7 +12,11 @@ import {
   getIngredientLabel,
   getRecipesByScenario,
   getScenarioBySlug,
+  getScenarioDescription,
   getScenarioLabel,
+  getScenarioSeoDescription,
+  getScenarioSeoTitle,
+  getScenarioTags,
   scenarioItems
 } from "../../../lib/taxonomy";
 
@@ -79,8 +83,8 @@ const relatedRecipeListJsonLd =
 ---
 
 <BaseLayout
-  title={scenario.seoTitle}
-  description={scenario.seoDescription}
+  title={getScenarioSeoTitle(scenario, locale)}
+  description={getScenarioSeoDescription(scenario, locale)}
   canonicalPath={canonical}
   alternatePath={`/scenarios/${scenario.slug}`}
   locale={locale}
@@ -102,14 +106,14 @@ const relatedRecipeListJsonLd =
         <div>
           <p class="eyebrow">{t(locale, "taxonomy.scenarioEyebrow")}</p>
           <h1 class="page-title">{scenarioName}</h1>
-          <p class="page-copy">{scenario.description}</p>
+          <p class="page-copy">{getScenarioDescription(scenario, locale)}</p>
           <div class="chip-row">
-            {scenario.tags.map((tag) => <span class="chip note">{tag}</span>)}
+            {getScenarioTags(scenario, locale).map((tag) => <span class="chip note">{tag}</span>)}
           </div>
         </div>
         <div class="card card-body taxonomy-summary">
           <p class="eyebrow">{t(locale, "taxonomy.scenarioSummaryEyebrow")}</p>
-          <p>{scenario.seoDescription}</p>
+          <p>{getScenarioSeoDescription(scenario, locale)}</p>
         </div>
       </section>
 

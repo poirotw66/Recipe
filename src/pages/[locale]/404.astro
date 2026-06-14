@@ -1,0 +1,38 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import { localePath, t } from "../../lib/i18n";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../lib/i18n-routes";
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const canonical = localePath(locale, "/404");
+---
+
+<BaseLayout
+  title={t(locale, "errors.notFoundTitle")}
+  description={t(locale, "errors.notFoundDescription")}
+  canonicalPath={canonical}
+  alternatePath="/404"
+  locale={locale}
+>
+  <section class="article article-shell">
+    <Breadcrumb
+      items={[
+        { name: t(locale, "nav.home"), href: localePath(locale, "/") },
+        { name: t(locale, "errors.notFoundTitle") }
+      ]}
+    />
+    <p class="eyebrow">404</p>
+    <h1 class="page-title">{t(locale, "errors.notFoundHeading")}</h1>
+    <p class="page-copy">{t(locale, "errors.notFoundBody")}</p>
+    <div class="chip-row">
+      <a class="button primary" href={localePath(locale, "/")}>{t(locale, "errors.backHome")}</a>
+      <a class="button note" href={localePath(locale, "/recipes")}>{t(locale, "nav.recipes")}</a>
+      <a class="button note" href={localePath(locale, "/tools/fridge-recipe")}>{t(locale, "nav.fridge")}</a>
+    </div>
+  </section>
+</BaseLayout>

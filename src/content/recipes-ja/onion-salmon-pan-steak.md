@@ -14,8 +14,8 @@ fat: 27
 carbs: 8
 category: "メイン"
 scenarios:
-- エアフライヤー
-- 高タンパク
+- ノンフライヤー料理
+- 高タンパク料理
 equipment:
 - フライパン
 ingredients:

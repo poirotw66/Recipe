@@ -14,9 +14,9 @@ fat: 4
 carbs: 7
 category: "Soup"
 scenarios:
-- Lighter meals
-- Meatless
+- Meatless meals
 - 10-minute meals
+- "Light & lean meals"
 equipment:
 - Pot
 tags:

@@ -14,8 +14,8 @@ fat: 15
 carbs: 61
 category: "ご飯・麺"
 scenarios:
-- 一人暮らし向け
 - 節約料理
+- 一人分の料理
 equipment:
 - 鍋
 - フードプロセッサーまたは包丁

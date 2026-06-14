@@ -15,7 +15,6 @@ carbs: 48
 category: "Linkou specials"
 scenarios:
 - Cooking for one
-- Brunch
 equipment:
 - Skillet
 - Oven

@@ -14,8 +14,8 @@ fat: 6
 carbs: 82
 category: "Rice & noodles"
 scenarios:
-- Budget cooking
-- Bento prep
+- Bento-friendly dishes
+- Budget-friendly meals
 - 10-minute meals
 equipment:
 - Rice cooker

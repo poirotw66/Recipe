@@ -14,7 +14,7 @@ fat: 10
 carbs: 65
 category: "Rice & noodles"
 scenarios:
-- Budget cooking
+- Budget-friendly meals
 - 10-minute meals
 equipment:
 - Skillet

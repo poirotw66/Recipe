@@ -1,3 +1,4 @@
+const panel = document.querySelector("[data-recipe-filter-panel]");
 const keywordInput = document.querySelector("[data-recipe-keyword]");
 const resultCount = document.querySelector("[data-recipe-result-count]");
 const emptyState = document.querySelector("[data-recipe-empty]");
@@ -6,26 +7,34 @@ const filterButtons = Array.from(document.querySelectorAll("[data-filter-group]"
 const resetButton = document.querySelector("[data-reset-filters]");
 
 if (
+  panel instanceof HTMLElement &&
   keywordInput instanceof HTMLInputElement &&
   resultCount instanceof HTMLElement &&
   emptyState instanceof HTMLElement &&
   recipeCards.length > 0 &&
   filterButtons.length > 0
 ) {
+  const filterAll = panel.dataset.filterAll ?? "all";
+  const resultCountAll = panel.dataset.resultCountAll ?? "{count} recipes";
+  const resultCountFiltered = panel.dataset.resultCountFiltered ?? "{filters} — {count} recipes";
+  const labelKeyword = panel.dataset.filterLabelKeyword ?? "Keyword";
+  const labelCategory = panel.dataset.filterLabelCategory ?? "Type";
+  const labelTime = panel.dataset.filterLabelTime ?? "Time";
+  const labelTool = panel.dataset.filterLabelTool ?? "Tool";
+
   const normalize = (value) => value.trim().toLowerCase();
   const state = {
     keyword: "",
-    category: "全部",
-    time: "全部",
-    tool: "全部"
+    category: filterAll,
+    time: filterAll,
+    tool: filterAll
   };
 
-  const timeMatched = (timeLabel, totalTime) => {
-    if (timeLabel === "全部") return true;
-    if (timeLabel === "10 分鐘內") return totalTime <= 10;
-    if (timeLabel === "15 分鐘內") return totalTime <= 15;
-    if (timeLabel === "30 分鐘內") return totalTime <= 30;
-    return true;
+  const timeMatched = (timeValue, totalTime) => {
+    if (timeValue === filterAll) return true;
+    const maxMinutes = Number(timeValue);
+    if (Number.isNaN(maxMinutes)) return true;
+    return totalTime <= maxMinutes;
   };
 
   const markActiveChip = () => {
@@ -42,9 +51,9 @@ if (
     if (resetButton instanceof HTMLButtonElement) {
       const hasActiveFilters =
         state.keyword.length > 0 ||
-        state.category !== "全部" ||
-        state.time !== "全部" ||
-        state.tool !== "全部";
+        state.category !== filterAll ||
+        state.time !== filterAll ||
+        state.tool !== filterAll;
       resetButton.hidden = !hasActiveFilters;
     }
   };
@@ -56,23 +65,29 @@ if (
     } else {
       url.searchParams.delete("keyword");
     }
-    if (state.category !== "全部") {
+    if (state.category !== filterAll) {
       url.searchParams.set("category", state.category);
     } else {
       url.searchParams.delete("category");
     }
-    if (state.time !== "全部") {
+    if (state.time !== filterAll) {
       url.searchParams.set("time", state.time);
     } else {
       url.searchParams.delete("time");
     }
-    if (state.tool !== "全部") {
+    if (state.tool !== filterAll) {
       url.searchParams.set("tool", state.tool);
     } else {
       url.searchParams.delete("tool");
     }
     window.history.replaceState({}, "", `${url.pathname}${url.search}`);
   };
+
+  const formatTemplate = (template, values) =>
+    Object.entries(values).reduce(
+      (text, [key, value]) => text.replaceAll(`{${key}}`, String(value)),
+      template
+    );
 
   const applyFilter = () => {
     const keyword = normalize(state.keyword);
@@ -85,9 +100,9 @@ if (
       const equipment = card.getAttribute("data-recipe-equipment") ?? "";
 
       const keywordMatched = keyword.length === 0 || haystack.includes(keyword);
-      const categoryMatched = state.category === "全部" || category === state.category;
+      const categoryMatched = state.category === filterAll || category === state.category;
       const timeFilterMatched = timeMatched(state.time, totalTime);
-      const toolMatched = state.tool === "全部" || equipment.includes(state.tool);
+      const toolMatched = state.tool === filterAll || equipment.includes(state.tool);
       const matched = keywordMatched && categoryMatched && timeFilterMatched && toolMatched;
 
       card.classList.toggle("is-hidden", !matched);
@@ -95,23 +110,37 @@ if (
     });
 
     const activeFilters = [];
-    if (state.keyword.length > 0) activeFilters.push(`關鍵字「${state.keyword}」`);
-    if (state.category !== "全部") activeFilters.push(`類型「${state.category}」`);
-    if (state.time !== "全部") activeFilters.push(`時間「${state.time}」`);
-    if (state.tool !== "全部") activeFilters.push(`工具「${state.tool}」`);
+    if (state.keyword.length > 0) activeFilters.push(`${labelKeyword}「${state.keyword}」`);
+    if (state.category !== filterAll) activeFilters.push(`${labelCategory}「${state.category}」`);
+    if (state.time !== filterAll) {
+      const timeButton = filterButtons.find(
+        (button) =>
+          button instanceof HTMLElement &&
+          button.dataset.filterGroup === "time" &&
+          button.dataset.filterValue === state.time
+      );
+      const timeLabel =
+        timeButton instanceof HTMLElement ? timeButton.textContent?.trim() ?? state.time : state.time;
+      activeFilters.push(`${labelTime}「${timeLabel}」`);
+    }
+    if (state.tool !== filterAll) activeFilters.push(`${labelTool}「${state.tool}」`);
 
-    resultCount.textContent = activeFilters.length > 0
-      ? `${activeFilters.join("、")}共找到 ${visibleCount} 道食譜`
-      : `目前共 ${recipeCards.length} 道食譜`;
+    resultCount.textContent =
+      activeFilters.length > 0
+        ? formatTemplate(resultCountFiltered, {
+            filters: activeFilters.join("、"),
+            count: visibleCount
+          })
+        : formatTemplate(resultCountAll, { count: recipeCards.length });
     emptyState.hidden = visibleCount > 0;
     markActiveChip();
   };
 
   const params = new URLSearchParams(window.location.search);
   state.keyword = params.get("keyword")?.trim() ?? "";
-  state.category = params.get("category")?.trim() || "全部";
-  state.time = params.get("time")?.trim() || "全部";
-  state.tool = params.get("tool")?.trim() || "全部";
+  state.category = params.get("category")?.trim() || filterAll;
+  state.time = params.get("time")?.trim() || filterAll;
+  state.tool = params.get("tool")?.trim() || filterAll;
   keywordInput.value = state.keyword;
   applyFilter();
 
@@ -136,9 +165,9 @@ if (
   if (resetButton instanceof HTMLButtonElement) {
     resetButton.addEventListener("click", () => {
       state.keyword = "";
-      state.category = "全部";
-      state.time = "全部";
-      state.tool = "全部";
+      state.category = filterAll;
+      state.time = filterAll;
+      state.tool = filterAll;
       keywordInput.value = "";
       applyFilter();
       syncParams();

@@ -15,7 +15,7 @@ carbs: 18
 category: "スープ"
 scenarios:
 - 節約料理
-- 10分料理
+- 10分でできる料理
 equipment:
 - 鍋
 ingredients:

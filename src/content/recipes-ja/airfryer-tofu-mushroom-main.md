@@ -14,8 +14,8 @@ fat: 15
 carbs: 18
 category: "主菜"
 scenarios:
-- ノンフライヤー
-- 低脂質
+- ノンフライヤー料理
+- 低脂質の料理
 equipment:
 - ノンフライヤー（エアフライヤー）
 ingredients:

@@ -14,9 +14,9 @@ fat: 10
 carbs: 78
 category: "Rice & noodles"
 scenarios:
+- Bento-friendly dishes
 - High-protein meals
-- Bento prep
-- Lighter meals
+- "Light & lean meals"
 equipment:
 - Skillet
 ingredients:

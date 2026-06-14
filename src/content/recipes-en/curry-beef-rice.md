@@ -14,8 +14,8 @@ fat: 20
 carbs: 72
 category: "Rice & noodles"
 scenarios:
+- Bento-friendly dishes
 - Cooking for one
-- Lunchbox dishes
 equipment:
 - Skillet
 ingredients:

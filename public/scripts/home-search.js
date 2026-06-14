@@ -15,10 +15,13 @@ homeSearchForm?.addEventListener("submit", (event) => {
     return;
   }
 
+  const fridgePath = homeSearchForm.dataset.fridgePath ?? "/tools/fridge-recipe/";
+  const errorEmpty = homeSearchForm.dataset.errorEmpty ?? "請先輸入 1 到 3 樣食材。";
+  const errorMax = homeSearchForm.dataset.errorMax ?? "首頁搜尋最多 3 樣食材，請精簡後再試。";
   const tokens = splitIngredientInput(input.value);
 
   if (tokens.length === 0) {
-    homeSearchError.textContent = "請先輸入 1 到 3 樣食材。";
+    homeSearchError.textContent = errorEmpty;
     homeSearchError.hidden = false;
     input.setAttribute("aria-invalid", "true");
     input.focus();
@@ -26,7 +29,7 @@ homeSearchForm?.addEventListener("submit", (event) => {
   }
 
   if (tokens.length > 3) {
-    homeSearchError.textContent = "首頁搜尋最多 3 樣食材，請精簡後再試。";
+    homeSearchError.textContent = errorMax;
     homeSearchError.hidden = false;
     input.setAttribute("aria-invalid", "true");
     input.focus();
@@ -35,5 +38,7 @@ homeSearchForm?.addEventListener("submit", (event) => {
 
   homeSearchError.hidden = true;
   input.removeAttribute("aria-invalid");
-  window.location.href = `/tools/fridge-recipe?ingredients=${encodeURIComponent(tokens.join("、"))}#fridge-results`;
+  const separator = fridgePath.startsWith("/en/") || fridgePath.startsWith("/ja/") || fridgePath.startsWith("/ko/") ? "," : "、";
+  const basePath = fridgePath.endsWith("/") ? fridgePath.slice(0, -1) : fridgePath;
+  window.location.href = `${basePath}?ingredients=${encodeURIComponent(tokens.join(separator))}#fridge-results`;
 });

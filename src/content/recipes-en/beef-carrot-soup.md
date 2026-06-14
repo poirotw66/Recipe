@@ -14,8 +14,8 @@ fat: 14
 carbs: 20
 category: "Soup"
 scenarios:
-- Cooking for one
 - High-protein meals
+- Cooking for one
 equipment:
 - Stockpot
 ingredients:

@@ -15,7 +15,7 @@ carbs: 18
 category: "메인 요리"
 scenarios:
 - 에어프라이어 요리
-- 저지방 요리
+- 다이어트 요리
 equipment:
 - 에어프라이어
 ingredients:

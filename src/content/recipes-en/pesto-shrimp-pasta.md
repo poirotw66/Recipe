@@ -14,8 +14,8 @@ fat: 15
 carbs: 53
 category: "Rice & noodles"
 scenarios:
-- Cooking for one
 - High-protein meals
+- Cooking for one
 equipment:
 - Saucepan
 - Skillet

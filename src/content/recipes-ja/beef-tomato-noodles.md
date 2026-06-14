@@ -14,7 +14,7 @@ fat: 16
 carbs: 62
 category: "ご飯・麺"
 scenarios:
-- 一人分
+- 一人分の料理
 equipment:
 - 鍋
 ingredients:

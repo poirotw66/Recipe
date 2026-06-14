@@ -14,8 +14,8 @@ fat: 8
 carbs: 10
 category: "Bento sides"
 scenarios:
-- Bento prep
-- Lighter meals
+- Bento-friendly dishes
+- "Light & lean meals"
 equipment:
 - Skillet
 tags:

@@ -14,8 +14,8 @@ fat: 10
 carbs: 4
 category: "主菜"
 scenarios:
-- エアフライヤー料理
-- 10分料理
+- ノンフライヤー料理
+- 10分でできる料理
 equipment:
 - エアフライヤー
 tags:

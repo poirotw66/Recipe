@@ -14,8 +14,8 @@ fat: 12
 carbs: 58
 category: "ご飯・麺"
 scenarios:
-- 一人分
-- 脂質控えめ
+- 一人分の料理
+- 低脂質の料理
 equipment:
 - 鍋
 - フライパン

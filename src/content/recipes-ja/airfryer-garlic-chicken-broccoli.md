@@ -14,8 +14,8 @@ fat: 12
 carbs: 16
 category: "主菜"
 scenarios:
-- 高タンパク
-- エアフライヤー料理
+- ノンフライヤー料理
+- 高タンパク料理
 equipment:
 - エアフライヤー
 ingredients:

@@ -14,9 +14,9 @@ fat: 20
 carbs: 12
 category: "Home cooking"
 scenarios:
-- Cooking for one
 - High-protein meals
-- Lighter meals
+- Cooking for one
+- "Light & lean meals"
 equipment:
 - Skillet
 - Large bowl

@@ -14,8 +14,8 @@ fat: 9
 carbs: 14
 category: "Soup"
 scenarios:
+- Budget-friendly meals
 - Cooking for one
-- Budget cooking
 equipment:
 - Stockpot
 ingredients:

@@ -14,8 +14,8 @@ fat: 28
 carbs: 38
 category: "前菜"
 scenarios:
-- 一人分の料理
 - 夜食
+- 一人分の料理
 equipment:
 - フライヤー
 - オーブン

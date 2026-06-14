@@ -1,9 +1,10 @@
 ---
-import BaseLayout from "../../layouts/BaseLayout.astro";
+import ContactArticle from "../../components/ContactArticle.astro";
 import Breadcrumb from "../../components/Breadcrumb.astro";
-import { contactEmail, legalLastUpdated } from "../../lib/site";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { legalLastUpdated } from "../../lib/site";
 import { localePath, t } from "../../lib/i18n";
-import { getLegalPage } from "../../i18n/legal-pages";
+import { getContactPage } from "../../i18n/contact-page";
 import { localeStaticPaths, requireNonDefaultLocale } from "../../lib/i18n-routes";
 
 export function getStaticPaths() {
@@ -11,7 +12,7 @@ export function getStaticPaths() {
 }
 
 const locale = requireNonDefaultLocale(Astro.params.locale);
-const content = getLegalPage(locale, "contact");
+const content = getContactPage(locale);
 const canonical = localePath(locale, "/contact");
 ---
 
@@ -32,21 +33,11 @@ const canonical = localePath(locale, "/contact");
     <p class="eyebrow">{content.eyebrow}</p>
     <h1 class="page-title">{content.title}</h1>
     <p class="page-copy">{content.description}</p>
-    <p class="caption">Updated: {legalLastUpdated}</p>
+    <p class="caption">
+      {content.updatedLabel}: {legalLastUpdated}
+    </p>
     <div class="article-sections">
-      {
-        content.sections.map((section) => (
-          <section>
-            <h2>{section.heading}</h2>
-            {section.paragraphs.map((p) => (
-              <p>{p}</p>
-            ))}
-            <p>
-              <a href={`mailto:${contactEmail}`}>{contactEmail}</a>
-            </p>
-          </section>
-        ))
-      }
+      <ContactArticle locale={locale} />
     </div>
   </article>
 </BaseLayout>

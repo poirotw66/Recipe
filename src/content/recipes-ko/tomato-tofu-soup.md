@@ -16,7 +16,6 @@ category: "국·탕"
 scenarios:
 - 1인 요리
 - 다이어트 요리
-- 냉장고 정리
 equipment:
 - 냄비
 ingredients:

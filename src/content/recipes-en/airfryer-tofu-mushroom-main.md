@@ -15,7 +15,7 @@ carbs: 18
 category: "Main dish"
 scenarios:
 - Air fryer meals
-- Lighter meals
+- "Light & lean meals"
 equipment:
 - Air fryer
 ingredients:

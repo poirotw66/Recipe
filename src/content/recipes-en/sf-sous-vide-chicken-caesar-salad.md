@@ -14,8 +14,8 @@ fat: 28
 carbs: 38
 category: "Appetizers"
 scenarios:
+- Late-night meals
 - Cooking for one
-- "Late-night meals"
 equipment:
 - Fryer
 - Oven

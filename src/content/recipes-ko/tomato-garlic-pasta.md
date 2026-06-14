@@ -15,7 +15,6 @@ carbs: 68
 category: "밥·면"
 scenarios:
 - 1인 요리
-- 냉장고 정리
 equipment:
 - 냄비
 - 프라이팬

@@ -14,8 +14,8 @@ fat: 16
 carbs: 58
 category: "Rice & noodles"
 scenarios:
+- Budget-friendly meals
 - Cooking for one
-- Budget cooking
 equipment:
 - Stockpot
 - Skillet

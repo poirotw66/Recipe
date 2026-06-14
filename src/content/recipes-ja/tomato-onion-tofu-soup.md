@@ -14,8 +14,8 @@ fat: 7
 carbs: 15
 category: "スープ"
 scenarios:
-- 一人暮らし向け
-- 低脂質・ダイエット向け
+- 一人分の料理
+- 低脂質の料理
 equipment:
 - 鍋
 ingredients:

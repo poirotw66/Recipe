@@ -14,8 +14,8 @@ fat: 46
 carbs: 58
 category: "Handheld mains"
 scenarios:
+- Bento-friendly dishes
 - Cooking for one
-- "Bento-friendly dishes"
 equipment:
 - Skillet
 - Oven

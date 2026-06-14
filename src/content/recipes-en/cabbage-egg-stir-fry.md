@@ -14,9 +14,9 @@ fat: 14
 carbs: 18
 category: "Home cooking"
 scenarios:
-- Quick meals
-- Budget cooking
-- Bento-friendly
+- Bento-friendly dishes
+- Budget-friendly meals
+- 10-minute meals
 equipment:
 - Skillet
 ingredients:

@@ -14,9 +14,9 @@ fat: 28
 carbs: 10
 category: "Main dish"
 scenarios:
-- Cooking for one
-- Air fryer cooking
+- Air fryer meals
 - High-protein meals
+- Cooking for one
 equipment:
 - Oven or air fryer
 - Baking sheet

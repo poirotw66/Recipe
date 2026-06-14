@@ -14,8 +14,8 @@ fat: 2
 carbs: 10
 category: "Soup"
 scenarios:
-- Lighter meals
 - Cooking for one
+- "Light & lean meals"
 equipment:
 - Pot
 tags:

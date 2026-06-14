@@ -14,8 +14,8 @@ fat: 20
 carbs: 70
 category: "キッズプレート"
 scenarios:
-- 一人分の料理
 - お弁当向けのおかず
+- 一人分の料理
 equipment:
 - フライパン
 tags:

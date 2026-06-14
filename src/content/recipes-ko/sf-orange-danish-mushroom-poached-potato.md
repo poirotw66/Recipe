@@ -15,7 +15,6 @@ carbs: 46
 category: "브런치"
 scenarios:
 - 1인 요리
-- 브런치
 equipment:
 - 프라이팬
 - 작은 냄비

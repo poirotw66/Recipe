@@ -14,8 +14,8 @@ fat: 12
 carbs: 54
 category: "밥·면"
 scenarios:
-- 10분 요리
 - 1인 요리
+- 10분 요리
 equipment:
 - 전기밥솥
 tags:

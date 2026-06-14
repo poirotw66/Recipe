@@ -14,8 +14,8 @@ fat: 8
 carbs: 10
 category: "お弁当向け"
 scenarios:
-- お弁当向け
-- 脂質控えめ
+- お弁当向けのおかず
+- 低脂質の料理
 equipment:
 - フライパン
 ingredients:

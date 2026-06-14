@@ -14,7 +14,11 @@ import {
   getRecipesByTopicHub,
   getScenarioBySlug,
   getScenarioLabel,
-  getTopicHubBySlug
+  getTopicHubBySlug,
+  getTopicHubDescription,
+  getTopicHubSeoDescription,
+  getTopicHubSeoTitle,
+  getTopicHubTags
 } from "../lib/taxonomy";
 
 interface Props {
@@ -42,7 +46,10 @@ const relatedScenarios = hub.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
 const hubTitle = t(locale, `nav.${hubSlug === "air-fryer" ? "airFryer" : hubSlug === "quick-meals" ? "quickMeals" : hubSlug === "restaurant-replicas" ? "restaurantReplicas" : hubSlug}`);
-const collectionJsonLd = buildCollectionPageJsonLd(hub.seoTitle, hub.seoDescription, canonical);
+const hubDescription = getTopicHubDescription(hub, locale);
+const hubSeoTitle = getTopicHubSeoTitle(hub, locale);
+const hubSeoDescription = getTopicHubSeoDescription(hub, locale);
+const collectionJsonLd = buildCollectionPageJsonLd(hubSeoTitle, hubSeoDescription, canonical);
 const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: t(locale, "nav.home"), path: localePath(locale, "/") },
   { name: hubTitle, path: canonical }
@@ -68,8 +75,8 @@ const tierLabels: Record<string, string> = {
 ---
 
 <BaseLayout
-  title={hub.seoTitle}
-  description={hub.seoDescription}
+  title={hubSeoTitle}
+  description={hubSeoDescription}
   canonicalPath={canonical}
   alternatePath={hubPath}
   locale={locale}
@@ -86,7 +93,7 @@ const tierLabels: Record<string, string> = {
       </nav>
 
       <TopicHubIntro
-        hub={{ name: hubTitle, description: hub.description }}
+        hub={{ name: hubTitle, description: hubDescription }}
         label={label}
         heroCover={heroCover}
         recipeCount={hubRecipes.length}

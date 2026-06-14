@@ -14,8 +14,8 @@ fat: 16
 carbs: 58
 category: "밥·면"
 scenarios:
-- 1인 요리
 - 알뜰 요리
+- 1인 요리
 equipment:
 - 냄비
 - 프라이팬

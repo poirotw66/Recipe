@@ -1,53 +1,18 @@
 ---
+import PrivacyArticle from "../components/PrivacyArticle.astro";
 import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
-import { brandName, brandTagline, contactEmail, legalLastUpdated } from "../lib/site";
+import { legalLastUpdated } from "../lib/site";
+import { getPrivacyPage } from "../i18n/privacy-page";
+
+const content = getPrivacyPage("zh-TW");
 ---
 
 <StaticArticleLayout
-  title="隱私權政策"
-  description={`說明 ${brandName}（${brandTagline}）如何處理基本流量資料、Cookie、第三方廣告與聯絡資訊。`}
+  title={content.title}
+  description={content.description}
   canonicalPath="/privacy-policy"
-  eyebrow="Privacy"
+  eyebrow={content.eyebrow}
   updatedAt={legalLastUpdated}
 >
-  <section>
-    <h2>我們收集哪些資料</h2>
-    <p>
-      {brandName} 目前以靜態網站形式提供內容，不提供會員登入與站內留言功能。網站營運過程中，可能會透過主機服務、
-      基礎流量分析工具或錯誤紀錄收集匿名技術資訊，例如瀏覽器類型、造訪時間、裝置類型與瀏覽頁面。
-    </p>
-  </section>
-
-  <section>
-    <h2>流量分析</h2>
-    <p>
-      本站可能使用 Google Analytics（GA4）等流量分析工具，以了解頁面瀏覽量、裝置類型與大致使用路徑。
-      這些資料以彙總、匿名化方式呈現，用於改善內容與站內動線，不會用於出售個人資料。
-    </p>
-  </section>
-
-  <section>
-    <h2>Cookie 與第三方服務</h2>
-    <p>
-      本站可能使用 Google Analytics、Google AdSense 等第三方服務。這些服務可能依其政策使用 Cookie 或類似技術，
-      以衡量流量、提供廣告或限制重複曝光。若你不希望接受相關 Cookie，可於瀏覽器設定中自行停用或清除。
-    </p>
-  </section>
-
-  <section>
-    <h2>聯絡資訊與來信內容</h2>
-    <p>
-      若你主動透過 email 聯絡我們，我們只會在處理回覆、站務溝通或必要紀錄的範圍內使用你提供的資訊，
-      不會將你的個人資料出售或任意提供給無關第三方。
-    </p>
-  </section>
-
-  <section>
-    <h2>你的選擇</h2>
-    <ul class="article-list">
-      <li>你可以透過瀏覽器限制 Cookie、刪除快取與網站資料。</li>
-      <li>你可以避免在來信中提供不必要的敏感個資。</li>
-      <li>若對本站資料處理有疑問，可寄信至 <a href={`mailto:${contactEmail}`}>{contactEmail}</a>。</li>
-    </ul>
-  </section>
+  <PrivacyArticle locale="zh-TW" />
 </StaticArticleLayout>

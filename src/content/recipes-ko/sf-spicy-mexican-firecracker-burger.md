@@ -14,8 +14,8 @@ fat: 46
 carbs: 58
 category: "버거와 샌드위치"
 scenarios:
-- 1인 요리
 - 도시락 반찬
+- 1인 요리
 equipment:
 - 프라이팬
 - 오븐

@@ -14,8 +14,8 @@ fat: 34
 carbs: 12
 category: "メイン"
 scenarios:
-- 一人暮らし向け
-- 高タンパク
+- 高タンパク料理
+- 一人分の料理
 equipment:
 - フライパン
 tags:

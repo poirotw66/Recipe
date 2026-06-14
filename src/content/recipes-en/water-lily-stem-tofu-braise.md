@@ -14,9 +14,9 @@ fat: 10
 carbs: 10
 category: "Home cooking"
 scenarios:
-- Meatless
-- Bento
-- Budget-friendly
+- Bento-friendly dishes
+- Budget-friendly meals
+- Meatless meals
 equipment:
 - Skillet
 tags:

@@ -14,8 +14,8 @@ fat: 16
 carbs: 70
 category: "Rice & noodles"
 scenarios:
+- Bento-friendly dishes
 - Cooking for one
-- Bento prep
 equipment:
 - Skillet
 ingredients:

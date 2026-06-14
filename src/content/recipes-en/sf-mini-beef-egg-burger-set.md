@@ -14,8 +14,8 @@ fat: 20
 carbs: 58
 category: "Kids plates"
 scenarios:
+- Bento-friendly dishes
 - Cooking for one
-- "Bento-friendly dishes"
 equipment:
 - Skillet
 tags:

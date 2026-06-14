@@ -14,8 +14,8 @@ fat: 18
 carbs: 48
 category: "Home cooking"
 scenarios:
-- Cooking for one
 - Air fryer meals
+- Cooking for one
 equipment:
 - Skillet or air fryer
 tags:

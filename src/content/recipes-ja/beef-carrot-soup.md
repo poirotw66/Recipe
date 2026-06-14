@@ -14,8 +14,8 @@ fat: 14
 carbs: 20
 category: "スープ"
 scenarios:
-- 一人分
-- 高タンパク
+- 高タンパク料理
+- 一人分の料理
 equipment:
 - 鍋
 ingredients:

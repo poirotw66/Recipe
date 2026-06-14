@@ -14,7 +14,7 @@ fat: 27
 carbs: 8
 category: "Main dish"
 scenarios:
-- Air fryer cooking
+- Air fryer meals
 - High-protein meals
 equipment:
 - Skillet

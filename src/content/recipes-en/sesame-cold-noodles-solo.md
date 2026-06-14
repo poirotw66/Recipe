@@ -14,8 +14,8 @@ fat: 18
 carbs: 50
 category: "Rice & noodles"
 scenarios:
-- 10-minute meals
 - Cooking for one
+- 10-minute meals
 equipment:
 - Pot
 - Large bowl

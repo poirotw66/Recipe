@@ -15,8 +15,8 @@ carbs: 14
 category: "Home cooking"
 scenarios:
 - Cooking for one
-- Lighter meals
 - 10-minute meals
+- "Light & lean meals"
 equipment:
 - Large bowl
 tags:

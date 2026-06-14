@@ -14,8 +14,8 @@ fat: 8
 carbs: 12
 category: "집밥"
 scenarios:
-- 가벼운 식사
-- 고단백 식사
+- 고단백 요리
+- 다이어트 요리
 equipment:
 - 프라이팬
 - 큰 그릇

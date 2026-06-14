@@ -14,8 +14,8 @@ fat: 2
 carbs: 10
 category: "국·탕"
 scenarios:
-- 가벼운 식사
 - 1인 요리
+- 다이어트 요리
 equipment:
 - 냄비
 tags:

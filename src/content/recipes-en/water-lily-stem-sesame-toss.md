@@ -14,9 +14,9 @@ fat: 9
 carbs: 9
 category: "Bento sides"
 scenarios:
-- Bento
-- Lighter meals
+- Bento-friendly dishes
 - 10-minute meals
+- "Light & lean meals"
 equipment:
 - Pot
 tags:

@@ -14,8 +14,8 @@ fat: 16
 carbs: 52
 category: "ご飯・麺"
 scenarios:
-- 10分でできる
 - 節約料理
+- 10分でできる料理
 equipment:
 - 大きめの碗
 tags:

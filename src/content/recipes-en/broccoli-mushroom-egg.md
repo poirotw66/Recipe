@@ -14,9 +14,9 @@ fat: 16
 carbs: 20
 category: "Home cooking"
 scenarios:
-- Lighter meals
 - High-protein meals
 - 10-minute meals
+- "Light & lean meals"
 equipment:
 - Skillet
 ingredients:

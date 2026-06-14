@@ -14,8 +14,8 @@ fat: 32
 carbs: 28
 category: "Main dish"
 scenarios:
+- High-protein meals
 - Cooking for one
-- High protein
 equipment:
 - Skillet
 - Oven or air fryer

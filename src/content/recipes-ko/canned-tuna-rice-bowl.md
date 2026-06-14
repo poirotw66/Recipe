@@ -14,8 +14,8 @@ fat: 16
 carbs: 52
 category: "밥·면"
 scenarios:
-- 10분 요리
 - 알뜰 요리
+- 10분 요리
 equipment:
 - 큰 그릇
 tags:
