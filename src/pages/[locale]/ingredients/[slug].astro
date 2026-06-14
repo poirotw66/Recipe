@@ -16,13 +16,15 @@ import {
   getRecipesByIngredient,
   getScenarioBySlug,
   getScenarioLabel,
-  ingredientItems
+  getVisibleIngredients
 } from "../../../lib/taxonomy";
 
 export async function getStaticPaths() {
   const paths: Array<{ params: { locale: string; slug: string } }> = [];
   for (const { params } of localeStaticPaths()) {
-    for (const ingredient of ingredientItems) {
+    const locale = requireNonDefaultLocale(params.locale);
+    const recipes = sortRecipesByPublishedDate(await listRecipesForLocale(locale));
+    for (const ingredient of getVisibleIngredients(recipes)) {
       paths.push({ params: { locale: params.locale, slug: ingredient.slug } });
     }
   }

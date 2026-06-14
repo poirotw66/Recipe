@@ -8,6 +8,7 @@ import catalog from "../../data/restaurant-replica-catalog.json";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../../lib/seo";
 import {
+  filterIngredientsWithRecipes,
   getIngredientBySlug,
   getRecipesByTopicHub,
   getTopicHubBySlug
@@ -21,9 +22,12 @@ if (!hub) {
 
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
 const replicaRecipes = getRecipesByTopicHub(recipes, hub.slug);
-const commonIngredients = hub.commonIngredients
-  .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
-  .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient));
+const commonIngredients = filterIngredientsWithRecipes(
+  recipes,
+  hub.commonIngredients
+    .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+    .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient))
+);
 const collectionJsonLd = buildCollectionPageJsonLd(
   hub.seoTitle,
   hub.seoDescription,

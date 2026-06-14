@@ -8,6 +8,7 @@ import { listRecipesForLocale } from "../../../lib/recipe-locale";
 import { sortRecipesByPublishedDate } from "../../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildItemListJsonLd, buildThingJsonLd } from "../../../lib/seo";
 import {
+  filterIngredientsWithRecipes,
   getIngredientBySlug,
   getIngredientLabel,
   getRecipesByScenario,
@@ -57,9 +58,12 @@ const relatedRecipes = allRelatedRecipes.slice(0, relatedRecipePreviewLimit);
 const hasMoreRelatedRecipes = allRelatedRecipes.length > relatedRecipePreviewLimit;
 const scenarioName = getScenarioLabel(scenario, locale);
 const canonical = localePath(locale, `/scenarios/${scenario.slug}`);
-const commonIngredients = scenario.commonIngredients
-  .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
-  .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient));
+const commonIngredients = filterIngredientsWithRecipes(
+  recipes,
+  scenario.commonIngredients
+    .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+    .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient))
+);
 const relatedScenarios = scenario.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((relatedScenario): relatedScenario is NonNullable<typeof relatedScenario> => Boolean(relatedScenario));

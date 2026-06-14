@@ -9,6 +9,7 @@ import { listRecipesForLocale } from "../lib/recipe-locale";
 import { sortRecipesByPublishedDate } from "../lib/recipes";
 import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../lib/seo";
 import {
+  filterIngredientsWithRecipes,
   getIngredientBySlug,
   getIngredientLabel,
   getRecipesByTopicHub,
@@ -39,9 +40,12 @@ const hubPath = `/${hub.slug}`;
 const canonical = localePath(locale, hubPath);
 const recipes = sortRecipesByPublishedDate(await listRecipesForLocale(locale));
 const hubRecipes = getRecipesByTopicHub(recipes, hub.slug, locale);
-const commonIngredients = hub.commonIngredients
-  .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
-  .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient));
+const commonIngredients = filterIngredientsWithRecipes(
+  recipes,
+  hub.commonIngredients
+    .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+    .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient))
+);
 const relatedScenarios = hub.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));

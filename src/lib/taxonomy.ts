@@ -169,12 +169,36 @@ export const recipeUsesIngredient = (recipe: RecipeEntry, ingredient: Ingredient
 export const countRecipesForIngredient = (recipes: RecipeEntry[], ingredient: IngredientItem) =>
   recipes.filter((recipe) => recipeUsesIngredient(recipe, ingredient)).length;
 
+export const ingredientHasRecipes = (recipes: RecipeEntry[], ingredient: IngredientItem) =>
+  countRecipesForIngredient(recipes, ingredient) > 0;
+
+export const filterIngredientsWithRecipes = (recipes: RecipeEntry[], ingredients: IngredientItem[]) =>
+  ingredients.filter((ingredient) => ingredientHasRecipes(recipes, ingredient));
+
+export const getVisibleIngredients = (recipes: RecipeEntry[]) =>
+  filterIngredientsWithRecipes(recipes, ingredientItems);
+
+export const getIngredientsByCategoryLocalizedVisible = (recipes: RecipeEntry[], locale: Locale) => {
+  const visibleSlugs = new Set(getVisibleIngredients(recipes).map((ingredient) => ingredient.slug));
+  return Object.entries(getIngredientsByCategoryLocalized(locale)).reduce<Record<string, IngredientItem[]>>(
+    (groups, [category, items]) => {
+      const visibleItems = items.filter((item) => visibleSlugs.has(item.slug));
+      if (visibleItems.length > 0) {
+        groups[category] = visibleItems;
+      }
+      return groups;
+    },
+    {}
+  );
+};
+
 export const getPopularIngredients = (recipes: RecipeEntry[], limit = 8) =>
   [...ingredientItems]
     .map((ingredient) => ({
       ingredient,
       count: countRecipesForIngredient(recipes, ingredient),
     }))
+    .filter((entry) => entry.count > 0)
     .sort(
       (left, right) =>
         right.count - left.count ||

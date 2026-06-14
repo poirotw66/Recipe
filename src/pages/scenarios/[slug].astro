@@ -6,6 +6,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildItemListJsonLd, buildThingJsonLd } from "../../lib/seo";
 import {
+  filterIngredientsWithRecipes,
   getIngredientBySlug,
   getRecipesByScenario,
   getScenarioBySlug,
@@ -42,9 +43,12 @@ const popularRecipes = [...allRelatedRecipes]
   .slice(0, 6);
 const relatedRecipes = allRelatedRecipes.slice(0, relatedRecipePreviewLimit);
 const hasMoreRelatedRecipes = allRelatedRecipes.length > relatedRecipePreviewLimit;
-const commonIngredients = scenario.commonIngredients
-  .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
-  .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient));
+const commonIngredients = filterIngredientsWithRecipes(
+  recipes,
+  scenario.commonIngredients
+    .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+    .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient))
+);
 const relatedScenarios = scenario.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((relatedScenario): relatedScenario is NonNullable<typeof relatedScenario> => Boolean(relatedScenario));

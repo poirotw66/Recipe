@@ -8,10 +8,10 @@ import type { LocalizedRecipeEntry } from "../lib/recipe-locale";
 import { buildCollectionPageJsonLd, buildItemListJsonLd } from "../lib/seo";
 import {
   getIngredientLabel,
-  getIngredientsByCategoryLocalized,
+  getIngredientsByCategoryLocalizedVisible,
   getPopularIngredients,
   getScenarioLabel,
-  ingredientItems,
+  getVisibleIngredients,
   recipeUsesIngredient,
   scenarioItems
 } from "../lib/taxonomy";
@@ -23,7 +23,8 @@ interface Props {
 
 const { locale, recipes } = Astro.props;
 const content = getIngredientsListPage(locale);
-const groupedIngredients = getIngredientsByCategoryLocalized(locale);
+const groupedIngredients = getIngredientsByCategoryLocalizedVisible(recipes, locale);
+const visibleIngredients = getVisibleIngredients(recipes);
 const relatedScenarios = scenarioItems.slice(0, 3);
 const popularIngredients = getPopularIngredients(recipes, 8);
 const featuredRecipes = recipes
@@ -32,10 +33,10 @@ const featuredRecipes = recipes
 const ingredientsPath = localePath(locale, "/ingredients");
 
 const collectionJsonLd = buildCollectionPageJsonLd(content.title, content.description, ingredientsPath);
-const ingredientListJsonLd = buildItemListJsonLd(
+const   ingredientListJsonLd = buildItemListJsonLd(
   content.title,
   ingredientsPath,
-  ingredientItems.map((ingredient) => ({
+  visibleIngredients.map((ingredient) => ({
     name: getIngredientLabel(ingredient, locale),
     path: localePath(locale, `/ingredients/${ingredient.slug}`)
   }))

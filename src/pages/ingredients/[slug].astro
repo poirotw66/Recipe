@@ -11,11 +11,14 @@ import {
   getIngredientStorage,
   getRecipesByIngredient,
   getScenarioBySlug,
+  getVisibleIngredients,
   ingredientItems
 } from "../../lib/taxonomy";
 
 export async function getStaticPaths() {
-  return ingredientItems.map((ingredient) => ({
+  const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+  const visibleIngredients = getVisibleIngredients(recipes);
+  return visibleIngredients.map((ingredient) => ({
     params: { slug: ingredient.slug }
   }));
 }

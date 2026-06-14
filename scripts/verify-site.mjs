@@ -432,7 +432,11 @@ const pageExpectations = [
   },
   {
     file: "src/pages/terms.astro",
-    markers: ["TermsArticle", "getTermsPage", "Google AdSense"]
+    markers: ["TermsArticle", "getTermsPage"]
+  },
+  {
+    file: "src/i18n/terms-page.ts",
+    markers: ["Google AdSense"]
   },
   {
     file: "src/pages/recipes/index.astro",

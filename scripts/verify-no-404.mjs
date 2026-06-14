@@ -1,6 +1,7 @@
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import { execSync } from "node:child_process";
 import { join, relative } from "node:path";
+import { getVisibleIngredientSlugsByLocale } from "./lib/visible-ingredients.mjs";
 
 const root = process.cwd();
 const distDir = join(root, "dist");
@@ -163,6 +164,7 @@ async function main() {
   const ingredients = loadJson("src/data/ingredients.json");
   const topicHubs = loadJson("src/data/topic-hubs.json");
   const recipeSlugs = loadRecipeSlugs();
+  const visibleIngredientSlugsByLocale = getVisibleIngredientSlugsByLocale(ingredients, locales);
 
   const shellPaths = [
     "/",
@@ -188,8 +190,8 @@ async function main() {
     for (const scenario of scenarios) {
       expectedPaths.add(normalizeInternalPath(localePath(locale, `/scenarios/${scenario.slug}`)));
     }
-    for (const ingredient of ingredients) {
-      expectedPaths.add(normalizeInternalPath(localePath(locale, `/ingredients/${ingredient.slug}`)));
+    for (const slug of visibleIngredientSlugsByLocale[locale] ?? []) {
+      expectedPaths.add(normalizeInternalPath(localePath(locale, `/ingredients/${slug}`)));
     }
     for (const slug of recipeSlugs) {
       expectedPaths.add(normalizeInternalPath(localePath(locale, `/recipes/${slug}`)));

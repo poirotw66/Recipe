@@ -7,6 +7,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../../lib/seo";
 import {
+  filterIngredientsWithRecipes,
   getIngredientBySlug,
   getRecipesByTopicHub,
   getScenarioBySlug,
@@ -28,9 +29,12 @@ const pestoBaseRecipes = pestoRecipes.filter(
   (recipe) => !recipe.data.tags.includes("雞肉料理") && !recipe.data.tags.includes("海鮮料理")
 );
 const otherPastaRecipes = pastaRecipes.filter((recipe) => !recipe.data.tags.includes("青醬"));
-const commonIngredients = hub.commonIngredients
-  .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
-  .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient));
+const commonIngredients = filterIngredientsWithRecipes(
+  recipes,
+  hub.commonIngredients
+    .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+    .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient))
+);
 const relatedScenarios = hub.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
