@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
+    "preview": "npm run build && wrangler dev",
     "test": "node scripts/verify-site.mjs && node scripts/test-fridge-logic.mjs && node scripts/test-i18n.mjs && node scripts/verify-pilot-recipes.mjs && node scripts/verify-recipe-scenarios.mjs && node scripts/verify-no-404.mjs",
     "lint": "node scripts/verify-site.mjs",
     "recipe-review:precheck": "node scripts/recipe-review-precheck.mjs --write",
@@ -16,13 +16,17 @@
     "recipe-review:expand-steps": "node scripts/apply-step-detail-fixes.mjs",
     "recipe-i18n:sync-detail-steps": "node scripts/sync-localized-detail-steps.mjs",
     "recipe-i18n:translate-steps": "node scripts/batch-translate-flagged-steps.mjs",
-    "recipe-i18n:translate-steps-one": "node scripts/gemini-translate-recipe-steps.mjs"
+    "recipe-i18n:translate-steps-one": "node scripts/gemini-translate-recipe-steps.mjs",
+    "deploy": "npm run build && wrangler deploy",
+    "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "12",
     "astro": "^5.0.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
-    "typescript": "^5.6.0"
+    "typescript": "^5.6.0",
+    "wrangler": "^4.100.0"
   }
 }
