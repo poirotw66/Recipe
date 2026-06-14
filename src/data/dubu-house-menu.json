@@ -1,0 +1,582 @@
+{
+  "brand": "涓豆腐 Dubu House",
+  "brandEnglish": "JBSD Dubu House",
+  "menuVersion": "2026-06-03",
+  "menuUrl": "https://www.dubuhouse.com.tw/Menu.html",
+  "recipePrefix": "dh-",
+  "recipeCount": 58,
+  "rules": {
+    "soondubuSides": "白飯、拉麵或烏龍麵（依門市）",
+    "stonePotUpgrades": "可升級黃金雞、鴨賞、吻仔魚石鍋飯",
+    "excludedFromRecipes": [
+      "飲品",
+      "伴手禮",
+      "多人組合餐"
+    ]
+  },
+  "topSignatures": [
+    {
+      "name": "嫩豆腐煲",
+      "englishName": "Soondubu",
+      "components": "(牛/羊/豬)",
+      "slug": "dh-classic-soondubu",
+      "vegetarian": false,
+      "spicy": false
+    },
+    {
+      "name": "打爆起司年糕嫩豆腐煲",
+      "englishName": "Cheese-Stuffed Rice Cake Soondubu",
+      "components": "(牛/豬)；打爆起司! 亦為Double cheese，一道充滿濃濃起司的嫩豆腐煲，攜手桂冠加入Q彈的切達起司年糕，搭配細嫩滑口的嫩豆腐、特選肉品與鮮蔬配料，放入香濃的起司湯頭一起烹煮，年糕的柔韌、豆腐的嫩滑、雙重起司的香濃，交織出一場舌尖上的饗宴，讓人陶醉。",
+      "slug": "dh-cheese-stuffed-rice-cake-soondubu",
+      "vegetarian": false,
+      "spicy": false
+    },
+    {
+      "name": "肯瓊醬韓式炸雞",
+      "englishName": "Korean Fried Chicken",
+      "components": "黃芥末與韓國辣椒醬的完美調配，融合香甜蜂蜜緊密包覆成細緻柔滑的醬汁，肯瓊醬澆淋在金黃脆皮炸雞上，每一口有著韓國辣醬的尾韻與淡淡的奶香，更可以嚐到炸雞的鮮嫩原味。",
+      "slug": "dh-cajun-korean-fried-chicken",
+      "vegetarian": false,
+      "spicy": false
+    },
+    {
+      "name": "韓式金絲豆腐捲",
+      "englishName": "Korean Vermicelli Tofu Roll",
+      "components": "韓式金絲豆腐捲",
+      "slug": "dh-korean-vermicelli-tofu-roll",
+      "vegetarian": false,
+      "spicy": false
+    },
+    {
+      "name": "韓式爆漿黑糖餅",
+      "englishName": "Brown Sugar Pancake",
+      "components": "正宗韓國甜品黑糖餅，外皮煎得酥脆Q彈，內餡加入滿滿黑糖及肉桂，一口咬下那餅皮酥脆口感及堅果帶來的香甜氣味，滿口的麵粉香、爆漿的黑糖醬、越嚼越香的堅果粒，完美組合一次呈現。",
+      "slug": "dh-brown-sugar-pancake",
+      "vegetarian": false,
+      "spicy": false
+    },
+    {
+      "name": "韓式石鍋飯",
+      "englishName": "Stone Pot Rice",
+      "components": "選用韓國特有角閃石鍋，以高溫高壓原鍋烹煮優質東部米，米飯呈現自然光澤，飽滿Ｑ彈，飯香撲鼻。",
+      "slug": "dh-classic-stone-pot-rice",
+      "vegetarian": false,
+      "spicy": false
+    }
+  ],
+  "categories": [
+    {
+      "slug": "soondubu",
+      "name": "韓式嫩豆腐煲系列",
+      "group": "main",
+      "items": [
+        {
+          "name": "打爆起司年糕嫩豆腐煲",
+          "englishName": "Cheese-Stuffed Rice Cake Soondubu",
+          "components": "(牛/豬)；打爆起司! 亦為Double cheese，一道充滿濃濃起司的嫩豆腐煲，攜手桂冠加入Q彈的切達起司年糕，搭配細嫩滑口的嫩豆腐、特選肉品與鮮蔬配料，放入香濃的起司湯頭一起烹煮，年糕的柔韌、豆腐的嫩滑、雙重起司的香濃，交織出一場舌尖上的饗宴，讓人陶醉。",
+          "slug": "dh-cheese-stuffed-rice-cake-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "海菜起司年糕鮮魚嫩豆腐煲",
+          "englishName": "Cheese-Stuffed Rice Cake with Fresh Fish & Seaweed Soondubu",
+          "components": "(鮮切鯛魚/酥炸旗魚)；選用新鮮的鯛魚，攜手桂冠加入Q彈的切達起司年糕、細嫩滑口嫩豆腐、海菜及蔬菜等配料，放入香濃的起司湯頭一起烹煮，匯聚多種鮮美食材使其香濃美味，每一口都滿載豐富的營養與濃郁的香氣，層次豐富讓人一試成主顧。",
+          "slug": "dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "植感炸雞鮮菇嫩豆腐煲",
+          "englishName": "Plant-Based Fried Chicken with Mushroom Soondubu",
+          "components": "吃得到的〝美味〞植物肉選用全新一代植物雞，搭配多種鮮蔬、菇類和嫩豆腐，讓湯頭更顯甘醇清甜，完美的雞肉咀嚼感，及豐富的蛋白質和纖維素，讓享受美食更無負擔。",
+          "slug": "dh-plant-based-fried-chicken-with-mushroom-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "嫩豆腐煲",
+          "englishName": "Soondubu",
+          "components": "(牛/羊/豬)",
+          "slug": "dh-classic-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "野菜鮮菇嫩豆腐煲",
+          "englishName": "Vegetable Soondubu",
+          "components": "野菜鮮菇嫩豆腐煲",
+          "slug": "dh-vegetable-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "泡菜嫩豆腐煲",
+          "englishName": "Kimchi Soondubu",
+          "components": "(牛/羊/豬/餃子)",
+          "slug": "dh-kimchi-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "泡菜鮮菇嫩豆腐煲",
+          "englishName": "Kimchi Soondubu",
+          "components": "泡菜鮮菇嫩豆腐煲",
+          "slug": "dh-kimchi-mushroom-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "起司泡菜鮮菇嫩豆腐煲",
+          "englishName": "Kimchi Soondubu",
+          "components": "起司泡菜鮮菇嫩豆腐煲",
+          "slug": "dh-cheese-kimchi-mushroom-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "咖哩嫩豆腐煲",
+          "englishName": "Curry Soondubu",
+          "components": "(牛/羊/豬)",
+          "slug": "dh-curry-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "起司嫩豆腐煲",
+          "englishName": "Cheese Soondubu",
+          "components": "(牛/豬)",
+          "slug": "dh-cheese-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "起司野菜鮮菇嫩豆腐煲",
+          "englishName": "Cheese Vegetable Soondubu",
+          "components": "起司野菜鮮菇嫩豆腐煲",
+          "slug": "dh-cheese-vegetable-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "海陸綜合嫩豆腐煲",
+          "englishName": "Combo Soondubu",
+          "components": "(牛/羊/豬)；嚴選粒粒飽滿非基因改造黃豆，以雙次過濾方式萃取出黃豆的濃香，製作成口感綿密而滑順的嫩豆腐，古法堅持慢而繁雜，一匙入口讚不絕口。",
+          "slug": "dh-combo-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "韓式餃子嫩豆腐煲",
+          "englishName": "Korean Dumpling Soondubu",
+          "components": "(牛/羊/豬)",
+          "slug": "dh-korean-dumpling-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "海鮮嫩豆腐煲",
+          "englishName": "Seafood Soondubu",
+          "components": "(原味/起司)",
+          "slug": "dh-seafood-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "蛤蜊鮮蝦嫩豆腐煲",
+          "englishName": "Clams & Shrimp Soondubu",
+          "components": "爆鍋半斤蛤蜊搭配肉實肥美鮮蝦，湯頭鮮海味足。",
+          "slug": "dh-clams-shrimp-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "泡菜海鮮嫩豆腐煲",
+          "englishName": "Kimchi Seafood Soondubu",
+          "components": "泡菜海鮮嫩豆腐煲",
+          "slug": "dh-kimchi-seafood-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "海菜鮮蚵嫩豆腐煲",
+          "englishName": "Seaweed Oyster Soondubu",
+          "components": "海菜鮮蚵嫩豆腐煲",
+          "slug": "dh-seaweed-oyster-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "鮮魚嫩豆腐煲",
+          "englishName": "Fish Soondubu",
+          "components": "(鮮切鯛魚/酥炸旗魚)",
+          "slug": "dh-fish-soondubu",
+          "vegetarian": false,
+          "spicy": false
+        }
+      ]
+    },
+    {
+      "slug": "stone-pot-rice",
+      "name": "韓式石鍋飯系列",
+      "group": "main",
+      "items": [
+        {
+          "name": "石燒拌飯",
+          "englishName": "Bibimbap",
+          "components": "(霜降牛/梅花豬)；油花分布如雪花般細緻的霜降牛或是口感軟嫩的梅花豬，搭配五色小菜澆上韓國辣醬拌炒，滋滋響的石鍋聲伴隨鍋巴香，讓人口水直流。",
+          "slug": "dh-bibimbap",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "鴨賞石鍋飯",
+          "englishName": "Stone Pot Rice",
+          "components": "鴨賞石鍋飯",
+          "slug": "dh-duck-jerky-stone-pot-rice",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "黃金雞石鍋飯",
+          "englishName": "Stone Pot Rice",
+          "components": "黃金雞石鍋飯",
+          "slug": "dh-golden-chicken-stone-pot-rice",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "韓式石鍋飯",
+          "englishName": "Stone Pot Rice",
+          "components": "選用韓國特有角閃石鍋，以高溫高壓原鍋烹煮優質東部米，米飯呈現自然光澤，飽滿Ｑ彈，飯香撲鼻。",
+          "slug": "dh-classic-stone-pot-rice",
+          "vegetarian": false,
+          "spicy": false
+        }
+      ]
+    },
+    {
+      "slug": "appetizer",
+      "name": "精選前菜",
+      "group": "classic",
+      "items": [
+        {
+          "name": "韓式金絲豆腐捲",
+          "englishName": "Korean Vermicelli Tofu Roll",
+          "components": "韓式金絲豆腐捲",
+          "slug": "dh-korean-vermicelli-tofu-roll",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "韓式酥炸脆薯",
+          "englishName": "French Fries with Korean-flavored Sauce",
+          "components": "韓式酥炸脆薯",
+          "slug": "dh-french-fries-with-korean-flavored-sauce",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "黃金酥炸嫩豆腐",
+          "englishName": "Deep-fried Tofu",
+          "components": "黃金酥炸嫩豆腐",
+          "slug": "dh-deep-fried-tofu",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "韓風辣味魚丸燒",
+          "englishName": "Korean-style BBQ Fish Ball",
+          "components": "韓風辣味魚丸燒",
+          "slug": "dh-korean-style-bbq-fish-ball",
+          "vegetarian": false,
+          "spicy": true
+        },
+        {
+          "name": "魚卵起司陶鍋蛋",
+          "englishName": "Steamed Eggs with Cheese & Roe",
+          "components": "魚卵起司陶鍋蛋",
+          "slug": "dh-steamed-eggs-with-cheese-roe",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "韓式炒冬粉",
+          "englishName": "Fried Glass Noodle",
+          "components": "韓式炒冬粉",
+          "slug": "dh-fried-glass-noodle",
+          "vegetarian": false,
+          "spicy": false
+        }
+      ]
+    },
+    {
+      "slug": "dessert",
+      "name": "甜品",
+      "group": "classic",
+      "items": [
+        {
+          "name": "韓式爆漿黑糖餅",
+          "englishName": "Brown Sugar Pancake",
+          "components": "正宗韓國甜品黑糖餅，外皮煎得酥脆Q彈，內餡加入滿滿黑糖及肉桂，一口咬下那餅皮酥脆口感及堅果帶來的香甜氣味，滿口的麵粉香、爆漿的黑糖醬、越嚼越香的堅果粒，完美組合一次呈現。",
+          "slug": "dh-brown-sugar-pancake",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "珍珠豆腐冰淇淋",
+          "englishName": "Tofu Ice Cream with Tapioca",
+          "components": "採用非基改黃豆製作的豆腐冰淇淋，淋上甜蜜的黑糖珍珠增添風味，每一口都能嚐到炭燒豆香，冰淇淋和黑糖融為一體的綿密口感，叫人難以忘懷。",
+          "slug": "dh-tofu-ice-cream-with-tapioca",
+          "vegetarian": false,
+          "spicy": false
+        }
+      ]
+    },
+    {
+      "slug": "specialty",
+      "name": "特色料理",
+      "group": "classic",
+      "items": [
+        {
+          "name": "韓式宮廷炒年糕",
+          "englishName": "Korean Royal Stir-fried Rice Cake",
+          "components": "(牛/豬)",
+          "slug": "dh-royal-stir-fried-rice-cake",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "黑松露炸醬起司年糕",
+          "englishName": "Truffle Jjajang Cheese Rice Cake",
+          "components": "攜手桂冠推出結合傳統與現代奢華風味的創意料理，年糕Q彈不黏牙，內餡包裹切達起司，再搭配高級黑松露及韓式黑炸醬，鹹甜風味的完美結合，賦予每一口獨特而奢華的香氣，最後再淋上濃郁滑順的巧達起司醬，口感層次豐富，令人回味無窮。",
+          "slug": "dh-truffle-jjajang-cheese-rice-cake",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "起司馬鈴薯煎餅",
+          "englishName": "Potato Pancake with Cheese",
+          "components": "最道地的韓國傳統美食，將新鮮馬鈴薯搗末成泥加上火腿、德式香腸、玉米、甜椒等配料，再用慢火煎至金黃酥脆，最後撒上滿滿起司，外層酥脆、內層柔軟，散發濃郁起司及馬鈴薯香味，入口時搭配特製洋蔥醬，清爽感十足，極度合拍。",
+          "slug": "dh-potato-pancake-with-cheese",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "植感炸雞年糕",
+          "englishName": "Plant-Based Fried Chicken with Rice Cake",
+          "components": "(醬味/辣味)；經典韓式炸雞也可以〝痛快〞吃全新一代植物雞，肉質富有彈性與嚼勁媲美真肉，放入Q彈年糕，再裹上獨家韓式炸雞醬，新嫩彈度，酥脆、無骨、多汁的口感，讓人一口就停不下來！",
+          "slug": "dh-plant-based-fried-chicken-with-rice-cake",
+          "vegetarian": false,
+          "spicy": true
+        },
+        {
+          "name": "起司玫瑰醬魷魚年糕",
+          "englishName": "Cheese Pink Sauce Fried Squid with Rice Cake",
+          "components": "由韓國辣醬加上滑順鮮奶油所熬煮的玫瑰醬，散發微辣香氣，鋪上厚厚的莫札瑞拉起司牽起的是外酥內軟的鮮美魷魚，一口咬下的迷人滋味，讓人回味再三！",
+          "slug": "dh-cheese-pink-sauce-fried-squid-with-rice-cake",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "絲瓜鮮蔬煎餅",
+          "englishName": "Vegetable Pancake",
+          "components": "絲瓜鮮蔬煎餅",
+          "slug": "dh-vegetable-pancake",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "田園醬燒飛虎魚",
+          "englishName": "Stired-fried Fish Fillet with Vegetables",
+          "components": "田園醬燒飛虎魚",
+          "slug": "dh-stired-fried-fish-fillet-with-vegetables",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "海鮮辣炒年糕",
+          "englishName": "Spicy Pan-fried Seafood Rice Cake",
+          "components": "海鮮辣炒年糕",
+          "slug": "dh-spicy-pan-fried-seafood-rice-cake",
+          "vegetarian": false,
+          "spicy": true
+        },
+        {
+          "name": "辣炒中卷",
+          "englishName": "Spicy Pan-fried Squid",
+          "components": "辣炒中卷",
+          "slug": "dh-spicy-pan-fried-squid",
+          "vegetarian": false,
+          "spicy": true
+        },
+        {
+          "name": "春川辣炒雞",
+          "englishName": "Spicy Stired-fried Chicken",
+          "components": "韓國五大必吃美食料理之一，選用鮮嫩去骨雞腿肉以韓國道地的春川辣醬快火拌炒，辣味溫潤而不嗆辣。",
+          "slug": "dh-spicy-stired-fried-chicken",
+          "vegetarian": false,
+          "spicy": true
+        },
+        {
+          "name": "人蔘砂鍋雞",
+          "englishName": "Ginseng Chicken Soup",
+          "components": "(1-2人份)",
+          "slug": "dh-ginseng-chicken-clay-pot",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "韓國人蔘雞火鍋",
+          "englishName": "Ginseng Chicken Soup",
+          "components": "(3-5人)；特選春雞內包糯米，並使用上等人蔘搭配香菇、紅棗、大白菜及年糕片等豐富配料一起燉煮，湯頭濃郁，骨軟肉綿，是韓國養生極品鍋物。",
+          "slug": "dh-ginseng-chicken-hot-pot",
+          "vegetarian": false,
+          "spicy": false
+        }
+      ]
+    },
+    {
+      "slug": "chef-recommendation",
+      "name": "主廚推薦",
+      "group": "classic",
+      "items": [
+        {
+          "name": "韓式BBQ鐵板翼板牛",
+          "englishName": "Korean BBQ Beef Short Ribs",
+          "components": "完美油花、肉質鮮美的翼板牛，以主廚精心特調韓式BBQ醬料醃製，搭配完美掌握的燒烤時間，肉質依然鮮嫩，創造多汁美味的口感。",
+          "slug": "dh-korean-bbq-beef-short-ribs",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "肯瓊醬韓式炸雞",
+          "englishName": "Korean Fried Chicken",
+          "components": "黃芥末與韓國辣椒醬的完美調配，融合香甜蜂蜜緊密包覆成細緻柔滑的醬汁，肯瓊醬澆淋在金黃脆皮炸雞上，每一口有著韓國辣醬的尾韻與淡淡的奶香，更可以嚐到炸雞的鮮嫩原味。",
+          "slug": "dh-cajun-korean-fried-chicken",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "洋蔥白醬韓式炸雞",
+          "englishName": "Korean Fried Chicken",
+          "components": "咕溜滑口的濃郁白醬，配上金黃酥脆的韓式炸雞，酸甜奶香的滑順口感，洋蔥白醬的濃郁香氣，讓人愛不釋口，越吃越開胃。",
+          "slug": "dh-creamy-onion-korean-fried-chicken",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "蜂蜜蒜味韓式炸雞",
+          "englishName": "Korean Fried Chicken",
+          "components": "蜂蜜蒜味韓式炸雞",
+          "slug": "dh-honey-garlic-korean-fried-chicken",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "原味韓式炸雞",
+          "englishName": "Korean Fried Chicken",
+          "components": "原味韓式炸雞",
+          "slug": "dh-original-korean-fried-chicken",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "辣味韓式炸雞",
+          "englishName": "Korean Fried Chicken",
+          "components": "辣味韓式炸雞",
+          "slug": "dh-spicy-korean-fried-chicken",
+          "vegetarian": false,
+          "spicy": true
+        },
+        {
+          "name": "醬味韓式炸雞",
+          "englishName": "Korean Fried Chicken",
+          "components": "醬味韓式炸雞",
+          "slug": "dh-bbq-korean-fried-chicken",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "韓式起司烘蛋捲",
+          "englishName": "Korean-style Cheese Egg Roll",
+          "components": "(魚卵/蟹味/雙味起司/松露)；新鮮蛋液以文火層層慢烘，舖上滿滿起司或魚卵 / 蟹味棒/黑松露，渾厚蛋香融合迷人起司牽絲，讓人吃了還想再吃。",
+          "slug": "dh-korean-cheese-egg-roll",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "韓國糖醋肉",
+          "englishName": "Korean Sweet and Sour Pork",
+          "components": "嚴選豬後腿肉，以醬汁醃製後裹上麵衣酥炸，淋上韓式經典糖醋醬，外酥內嫩口感，搭配酸甜醬汁，好吃又開胃。",
+          "slug": "dh-korean-sweet-and-sour-pork",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "巨濟島炸牡蠣",
+          "englishName": "Fried Oysters",
+          "components": "巨濟島炸牡蠣",
+          "slug": "dh-fried-oysters",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "泡菜豆腐煎餅",
+          "englishName": "Kimchi & Tofu Pancake",
+          "components": "(可做蔬食)",
+          "slug": "dh-kimchi-tofu-pancake",
+          "vegetarian": true,
+          "spicy": false
+        },
+        {
+          "name": "綜合海鮮煎餅",
+          "englishName": "Seafood Pancake",
+          "components": "(招牌薄香)",
+          "slug": "dh-seafood-pancake",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "醬燒青蔥牛五花/豬梅花",
+          "englishName": "BBQ Wrap",
+          "components": "(附生菜、年糕片、蒜片、韓式辣醬，如需加點，單點價50元)；新鮮生菜包入醬燒牛五花/豬梅花，搭配韓式辣醬、年糕片及蒜片，豐富口感，一口咬下，大大滿足。",
+          "slug": "dh-bbq-wrap",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "神仙霜降雪濃湯",
+          "englishName": "Ox Bone Soup",
+          "components": "(附贈石鍋飯)；選用油花均勻質地柔嫩霜降牛，倒入熱騰騰牛骨高湯，湯頭濃郁，牛肉甜美。",
+          "slug": "dh-ox-bone-soup",
+          "vegetarian": false,
+          "spicy": false
+        },
+        {
+          "name": "Combo雙享韓式炸雞",
+          "englishName": "Korean Fried Chicken Combo",
+          "components": "(原味+醬味/辣味/蜂蜜蒜味/洋蔥白醬/肯瓊醬)",
+          "slug": "dh-korean-fried-chicken-combo",
+          "vegetarian": false,
+          "spicy": true
+        }
+      ]
+    },
+    {
+      "slug": "truffle-tteok-season",
+      "name": "黑鑽松露年糕季",
+      "group": "seasonal",
+      "items": [
+        {
+          "name": "松露韓式起司烘蛋捲",
+          "englishName": "Korean Style Cheese Egg Roll (Truffle)",
+          "components": "新鮮蛋液以文火層層慢烘，軟嫩的蛋捲包覆著香氣十足的高級黑松露及香濃起司，松露獨特的香氣與起司的濃郁奶香完美融合，蛋捲的柔軟口感更增添了層次感，創造出全新高度，讓人回味無窮。",
+          "slug": "dh-truffle-cheese-egg-roll",
+          "vegetarian": false,
+          "spicy": false
+        }
+      ]
+    }
+  ]
+}

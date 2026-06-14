@@ -130,6 +130,30 @@
       ]
     },
     {
+      "slug": "dubu-house",
+      "name": "涓豆腐 Dubu House",
+      "description": "韓國嫩豆腐煲連鎖，還原順豆腐、石鍋飯、韓式炸雞與季節限定菜色。完整菜單見 docs/content/dubu-house-menu-replication.md",
+      "restaurants": [
+        {
+          "name": "涓豆腐 Dubu House",
+          "region": "全台約 20 家",
+          "tier": "classic",
+          "menuRef": "src/data/dubu-house-menu.json",
+          "menuDoc": "docs/content/dubu-house-menu-replication.md",
+          "recipePrefix": "dh-",
+          "recipeCount": 58,
+          "recipeStatus": "published",
+          "signatureDishes": [
+            { "name": "嫩豆腐煲", "slug": "dh-classic-soondubu", "status": "published" },
+            { "name": "打爆起司年糕嫩豆腐煲", "slug": "dh-cheese-stuffed-rice-cake-soondubu", "status": "published" },
+            { "name": "肯瓊醬韓式炸雞", "slug": "dh-cajun-korean-fried-chicken", "status": "published" },
+            { "name": "韓式金絲豆腐捲", "slug": "dh-korean-vermicelli-tofu-roll", "status": "published" },
+            { "name": "韓式爆漿黑糖餅", "slug": "dh-brown-sugar-pancake", "status": "published" }
+          ]
+        }
+      ]
+    },
+    {
       "slug": "famous-snacks",
       "name": "國民小吃與麵食名店",
       "description": "從麵線、牛肉麵到小籠與擔仔麵，還原湯頭、麵體與醬料比例。",

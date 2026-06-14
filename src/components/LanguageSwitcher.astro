@@ -11,11 +11,13 @@ import {
 
 interface Props {
   locale?: Locale;
+  alternateLocales?: Locale[];
 }
 
 const locale = Astro.props.locale ?? detectLocaleFromPath(Astro.url.pathname);
 const pathSuffix = stripLocalePrefix(Astro.url.pathname);
 const switchLabel = t(locale, "lang.switch");
+const availableLocales = Astro.props.alternateLocales ?? locales;
 ---
 
 <div class="lang-switcher">
@@ -28,7 +30,7 @@ const switchLabel = t(locale, "lang.switch");
       title={switchLabel}
     >
       {
-        locales.map((code) => (
+        availableLocales.map((code) => (
           <option value={localePath(code, pathSuffix)} selected={code === locale}>
             {localeSelectLabels[code]}
           </option>

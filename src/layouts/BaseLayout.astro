@@ -78,7 +78,7 @@ const htmlLang = localeToHtmlLang[locale];
     )}
   </head>
   <body>
-    <Header locale={locale} />
+    <Header locale={locale} alternateLocales={alternateLocales} />
     <main>
       <slot />
     </main>

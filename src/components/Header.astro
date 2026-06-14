@@ -11,9 +11,11 @@ import LanguageSwitcher from "./LanguageSwitcher.astro";
 
 interface Props {
   locale?: Locale;
+  alternateLocales?: Locale[];
 }
 
 const locale = Astro.props.locale ?? detectLocaleFromPath(Astro.url.pathname);
+const alternateLocales = Astro.props.alternateLocales;
 const primaryNavLinks = getPrimaryNavLinks(locale);
 const topicNavLinks = getTopicNavLinks(locale);
 const utilityNavLinks = getUtilityNavLinks(locale);
@@ -75,7 +77,7 @@ const linkClass = (href: string) =>
     </nav>
 
     <div class="site-header__toolbar">
-      <LanguageSwitcher locale={locale} />
+      <LanguageSwitcher locale={locale} alternateLocales={alternateLocales} />
       <button
         type="button"
         class="nav-toggle"

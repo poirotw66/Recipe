@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="蛤蜊鮮蝦嫩豆腐煲">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff8ef" />
+      <stop offset="100%" stop-color="#f7e2c8" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)" />
+  <rect x="44" y="44" width="712" height="512" rx="28" fill="#fffdfa" stroke="#9a5a2e" stroke-width="3" />
+  <text x="84" y="248" fill="#7a4a24" font-family="system-ui, 'Noto Sans TC', sans-serif" font-size="22" font-weight="700">Dubu House Replica</text>
+  <text x="84" y="322" fill="#2d2620" font-family="system-ui, 'Noto Sans TC', sans-serif" font-size="42" font-weight="800">蛤蜊鮮蝦嫩豆腐煲</text>
+  <text x="84" y="386" fill="#75685d" font-family="system-ui, sans-serif" font-size="20">Restaurant-style portion placeholder cover</text>
+</svg>

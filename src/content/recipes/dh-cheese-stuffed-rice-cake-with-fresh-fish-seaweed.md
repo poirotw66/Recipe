@@ -1,0 +1,57 @@
+---
+title: 海菜起司年糕鮮魚嫩豆腐煲
+description: 參考涓豆腐常見做法還原 海菜起司年糕鮮魚嫩豆腐煲，保留 嫩豆腐煲 系列的湯頭層次、配料比例與上桌份量。
+coverImage: /images/recipes/dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed.svg
+servings: 2
+prepTime: 20
+cookTime: 18
+totalTime: 38
+difficulty: 中等
+calories: 520
+protein: 28
+fat: 24
+carbs: 42
+category: "韓式鍋物"
+scenarios:
+- 一人料理
+equipment:
+- 韓式辣湯鍋
+- 小湯鍋
+tags:
+- 名店還原
+- 嫩豆腐煲
+restaurantSource:
+  restaurant: 涓豆腐 Dubu House
+  dishName: 海菜起司年糕鮮魚嫩豆腐煲
+  region: 全台連鎖
+intro: 這道 海菜起司年糕鮮魚嫩豆腐煲 還原版，以 嫩豆腐煲 為核心，依照餐廳常見的備料、爆香、下鍋與上桌順序撰寫。
+steps:
+- 將 海菜起司年糕鮮魚嫩豆腐煲 放入溫水中浸泡 15 分鐘使其變軟，撈出瀝乾備用。
+- 熱平底鍋下油，炒香蒜末與洋蔥，翻炒調味。
+- 倒入調製好的  與少量高湯，放入浸泡好的年糕條，以中火煮沸，持續翻拌防止年糕黏底。
+- 待年糕煮熟且醬汁收濃，在表面均勻撒上 關火微火燜煮 1 分鐘至融化即成。
+tips:
+- 烹調前請將醬料調和均勻，一次下鍋能確保風味分布完美。
+- 熱鍋熱油能快速鎖住食材水分，維持多汁口感。
+storage: 嫩豆腐煲建議現煮現吃；湯頭與豆腐分開冷藏可保存 1 天，回熱時小火加湯。
+substitutions:
+- 主要食材
+- 調味醬
+relatedIngredients:
+customAdditions:
+- 蔥花
+- 芝麻
+faqs:
+- question: 如何把 海菜起司年糕鮮魚嫩豆腐煲 做得更像涓豆腐？
+  answer: 先把 嫩豆腐煲 的醬料或湯頭煮到正確濃度，最後再下主要配料與嫩豆腐，最能還原門市口感。
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-06-03"
+ingredients:
+seasonings:
+---
+
+海菜起司年糕鮮魚嫩豆腐煲 的在家還原版，重點是還原涓豆腐 嫩豆腐煲 的湯頭或醬料層次，以及餐廳常見 of 2 人份鍋物／主菜份量。
+
+依照步驟先完成醬料或湯底，再組合主食材，就能做出接近門市視覺與風味的還原版。
+

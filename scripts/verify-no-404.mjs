@@ -254,7 +254,15 @@ async function main() {
       ? sourcePath
       : sourcePath.replace(/^\/(en|ja|ko)/, "") || "/";
     if (suffix !== "/404/") {
+      const ingredientMatch = suffix.match(/^\/ingredients\/([^/]+)\/?$/);
       for (const locale of locales) {
+        if (ingredientMatch) {
+          const slug = ingredientMatch[1];
+          const visibleSlugs = visibleIngredientSlugsByLocale[locale] ?? [];
+          if (!visibleSlugs.includes(slug)) {
+            continue;
+          }
+        }
         const switched = localePath(locale, suffix);
         checkPath(`${sourcePath} [lang-switch]`, switched, switched);
       }

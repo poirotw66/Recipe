@@ -4,6 +4,7 @@ import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
+import { localesWithVisibleIngredient } from "../../lib/recipe-locale";
 import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd } from "../../lib/seo";
 import {
   getIngredientBySlug,
@@ -36,6 +37,7 @@ if (!ingredient) {
 }
 
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+const alternateLocales = await localesWithVisibleIngredient(slug);
 const relatedRecipes = getRecipesByIngredient(recipes, ingredient.slug).slice(0, 3);
 const relatedScenarios = ingredient.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
@@ -63,6 +65,8 @@ const relatedRecipeListJsonLd =
   title={`${ingredient.name} 食材料理`}
   description={`${getIngredientDescription(ingredient, "zh-TW")} 這裡整理保存方式、營養資訊、搭配建議與相關食譜入口。`}
   canonicalPath={`/ingredients/${ingredient.slug}/`}
+  alternatePath={`/ingredients/${ingredient.slug}`}
+  alternateLocales={alternateLocales}
 >
   <JsonLd data={breadcrumbJsonLd} />
   <JsonLd data={ingredientJsonLd} />
