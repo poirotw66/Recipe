@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Cut Korean potato starch noodles into pieces. If using meat, marinate with minced garlic and soy sauce for 15 minutes. For pork, season with salt and pepper powder.
-- "Heat sesame oil in a skillet, sauté garlic and onion, then add the marinated Korean potato starch noodles and stir-fry."
-- Pour in soy sauce and a little broth. Toss over medium heat until Korean potato starch noodles is cooked and coated with glaze.
-- Transfer to a serving plate and garnish with fresh scallions or sesame seeds.
+- Soak Korean potato starch noodles in warm water. Blanch and drain spinach. Shred carrot, onion, and black wood ear mushroom.
+- "Heat oil in a pan, sauté garlic, then stir-fry carrot, onion, and wood ear mushroom until tender."
+- Add the soaked glass noodles, soy sauce, and sugar. Toss until the noodles absorb the sauce evenly.
+- Add spinach, drizzle with toasted sesame oil, toss quickly, and plate.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.

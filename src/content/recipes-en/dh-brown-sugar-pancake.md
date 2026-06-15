@@ -27,18 +27,22 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Finely shred or dice 韓式爆漿黑糖餅.
-- "In a bowl, whisk all-purpose flour, egg, salt, and water. Stir in the sliced 韓式爆漿黑糖餅 to form a thick batter."
-- Heat toasted sesame oil in a skillet, pour in the batter, and spread it thin. Fry over medium heat until bottom is crispy.
-- Carefully flip the pancake, drizzle more toasted sesame oil around edges, and fry until both sides are golden and crunchy. Slice and serve.
+- "Mix all-purpose flour to create the dessert base (knead dough for pancake, or puree soybeans for ice cream)."
+- Heat oil or butter in a skillet and cook the base over low heat (or whip the soybean puree in a mixing bowl until fluffy).
+- Prepare brown sugar (mix brown sugar, cinnamon powder, and crushed mixed nuts, or simmer tapioca pearls in sugar syrup).
+- Combine them (stuff pancake dough and griddle until sugar melts, or drizzle tapioca pearls over tofu ice cream).
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
 substitutions:
-- Main ingredient
 - "all-purpose flour"
+- unsalted butter
 relatedIngredients:
+- 中筋麵粉
+- 黑糖粉
+- 肉桂粉
+- 綜合堅果碎
 customAdditions:
 - chopped scallions
 - sesame seeds
@@ -49,19 +53,29 @@ featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-06-03"
 ingredients:
-seasonings:
 - name: "all-purpose flour"
   amount: "150"
   unit: g
-- name: egg
-  amount: "1"
-  unit: pc
+  isCore: true
+- name: brown sugar
+  amount: "50"
+  unit: g
+  isCore: true
+- name: cinnamon powder
+  amount: "0.5"
+  unit: tsp
+  isCore: true
+- name: crushed mixed nuts
+  amount: "20"
+  unit: g
+  isCore: true
+seasonings:
+- name: unsalted butter
+  amount: "20"
+  unit: g
 - name: salt
   amount: "0.25"
   unit: pinch
-- name: toasted sesame oil
-  amount: "1"
-  unit: tbsp
 ---
 
 This home version recreates the layered broth and generous plating associated with Dubu House desserts.

@@ -2,7 +2,7 @@ import type { Locale } from "../lib/i18n";
 
 export interface PolicySection {
   heading: string;
-  paragraphs: string[];
+  paragraphs?: string[];
   listItems?: string[];
   emailListItem?: { before: string; after: string };
 }

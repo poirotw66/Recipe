@@ -27,10 +27,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- "Cut mahi-mahi fillet into pieces. If using meat, marinate with minced garlic and soy sauce for 15 minutes. For pork, season with salt and pepper powder."
-- "Heat sesame oil in a skillet, sauté garlic and onion, then add the marinated mahi-mahi fillet and stir-fry."
-- "Pour in soy sauce and a little broth. Toss over medium heat until mahi-mahi fillet is cooked and coated with glaze."
-- Transfer to a serving plate and garnish with fresh scallions or sesame seeds.
+- "Slice mahi-mahi fillet and cut carrot and onion into thin pieces."
+- "Season fish with a pinch of salt for 10 minutes. Pan-fry in a skillet until golden on both sides."
+- In the same pan, sauté onion and carrot, then pour in soy sauce and sugar mixture and boil.
+- Add the cooked fish slices, toss quickly to coat with the sauce, and serve.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.

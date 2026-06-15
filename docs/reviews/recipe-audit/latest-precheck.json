@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-14",
+  "generated_at": "2026-06-15",
   "recipe_count": 289,
-  "pass": 40,
-  "warning": 249,
+  "pass": 60,
+  "warning": 229,
   "critical": 0,
   "recipes": [
     {
@@ -981,21 +981,8 @@
       "ingredient_count": 4,
       "seasoning_count": 3,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"韓式辣椒醬\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-bibimbap",
@@ -1017,8 +1004,8 @@
       "prepTime": 15,
       "cookTime": 12,
       "totalTime": 27,
-      "ingredient_count": 0,
-      "seasoning_count": 4,
+      "ingredient_count": 4,
+      "seasoning_count": 2,
       "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
@@ -1095,8 +1082,8 @@
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
+      "ingredient_count": 3,
+      "seasoning_count": 4,
       "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
@@ -1189,15 +1176,8 @@
       "ingredient_count": 5,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"醬油\" not found in steps text (heuristic)."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-deep-fried-tofu",
@@ -1209,27 +1189,8 @@
       "ingredient_count": 1,
       "seasoning_count": 3,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"白糖\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-duck-jerky-stone-pot-rice",
@@ -1267,27 +1228,8 @@
       "ingredient_count": 1,
       "seasoning_count": 3,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"蜂蜜\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-fried-glass-noodle",
@@ -1299,39 +1241,8 @@
       "ingredient_count": 5,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"胡蘿蔔\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"菠菜\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"黑木耳\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"白糖\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-fried-oysters",
@@ -1343,15 +1254,8 @@
       "ingredient_count": 1,
       "seasoning_count": 3,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-ginseng-chicken-clay-pot",
@@ -1467,15 +1371,8 @@
       "ingredient_count": 3,
       "seasoning_count": 3,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-korean-cheese-egg-roll",
@@ -1487,15 +1384,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"蟹味棒\" not found in steps text (heuristic)."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-korean-dumpling-soondubu",
@@ -1533,27 +1423,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"白糖\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-korean-sweet-and-sour-pork",
@@ -1565,27 +1436,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"胡蘿蔔\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"洋蔥\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-korean-vermicelli-tofu-roll",
@@ -1597,15 +1449,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-original-korean-fried-chicken",
@@ -1630,15 +1475,8 @@
       "ingredient_count": 3,
       "seasoning_count": 2,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-plant-based-fried-chicken-with-mushroom-soondubu",
@@ -1663,15 +1501,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"芝麻\" not found in steps text (heuristic)."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-potato-pancake-with-cheese",
@@ -1696,27 +1527,8 @@
       "ingredient_count": 5,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"胡蘿蔔\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"黑木耳\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"白糖\" not found in steps text (heuristic)."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-seafood-pancake",
@@ -1780,27 +1592,8 @@
       "ingredient_count": 5,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"蛤蜊\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"透抽\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"白糖\" not found in steps text (heuristic)."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-spicy-pan-fried-squid",
@@ -1812,27 +1605,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"白糖\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-spicy-stired-fried-chicken",
@@ -1844,15 +1618,8 @@
       "ingredient_count": 3,
       "seasoning_count": 3,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-steamed-eggs-with-cheese-roe",
@@ -1877,33 +1644,8 @@
       "ingredient_count": 3,
       "seasoning_count": 3,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"胡蘿蔔\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"白糖\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-tofu-ice-cream-with-tapioca",
@@ -1928,15 +1670,8 @@
       "ingredient_count": 1,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"黑松露醬\" not found in steps text (heuristic)."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-truffle-jjajang-cheese-rice-cake",
@@ -1948,15 +1683,8 @@
       "ingredient_count": 2,
       "seasoning_count": 4,
       "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"黑松露醬\" not found in steps text (heuristic)."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-vegetable-pancake",

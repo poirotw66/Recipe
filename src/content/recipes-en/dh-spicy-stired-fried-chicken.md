@@ -27,10 +27,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Cut boneless chicken thigh into pieces. If using meat, marinate with minced garlic and soy sauce for 15 minutes. For pork, season with salt and pepper powder.
-- "Heat sesame oil in a skillet, sauté garlic and onion, then add the marinated boneless chicken thigh and stir-fry."
-- "Pour in Chuncheon spicy stir-fry sauce and a little broth. Toss over medium heat until boneless chicken thigh is cooked and coated with glaze."
-- Transfer to a serving plate and garnish with fresh scallions or sesame seeds.
+- "Cut boneless chicken thigh into bite-sized pieces. Slice onion and cut green scallion into segments."
+- Marinate chicken with minced garlic and Chuncheon spicy sauce for 20 minutes.
+- "Heat toasted sesame oil in a pan, sauté onion, and add marinated chicken to stir-fry."
+- "Stir-fry until chicken is cooked, add scallions, toss quickly, and serve."
 tips:
 - "Double-frying is essential. The first fry cooks the meat, and the second fry makes it crispy."
 - Turn off the heat before tossing with the sauce, otherwise, the crispy skin will turn soggy.

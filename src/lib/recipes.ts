@@ -2,7 +2,7 @@ import type { CollectionEntry } from "astro:content";
 import type { Locale } from "./i18n";
 import type { LocalizedRecipeEntry } from "./recipe-locale";
 
-export type RecipeEntry = CollectionEntry<"recipes">;
+export type RecipeEntry = LocalizedRecipeEntry;
 
 const minutesLabel: Record<Locale, string> = {
   "zh-TW": "分鐘",

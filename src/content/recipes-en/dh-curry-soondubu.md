@@ -28,7 +28,7 @@ restaurantSource:
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
 - Heat toasted sesame oil in a small pot. Sauté garlic, onion, and curry powder until fragrant.
-- Pour in kelp broth. Bring to a boil, then lower the heat. Add pork slices and simmer for 5 minutes.
+- Pour in kelp broth and soy sauce. Bring to a boil, then lower the heat. Add pork slices and simmer for 5 minutes.
 - Scoop large chunks of soft tofu into the center of the pot. Cook over medium heat, pushing gently to prevent breaking.
 - In the last 2 minutes, crack an egg. Serve boiling hot in the pot.
 tips:

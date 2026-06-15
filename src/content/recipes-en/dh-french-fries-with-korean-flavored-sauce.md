@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Cut potato fries into pieces. If using meat, marinate with minced garlic and soy sauce for 15 minutes. For pork, season with salt and pepper powder.
-- "Heat sesame oil in a skillet, sauté garlic and onion, then add the marinated potato fries and stir-fry."
-- Pour in Korean chili paste (gochujang) and a little broth. Toss over medium heat until potato fries is cooked and coated with glaze.
-- Transfer to a serving plate and garnish with fresh scallions or sesame seeds.
+- Prepare potato fries and preheat the air fryer.
+- "Air-fry at 180°C for 12 minutes until crispy and golden."
+- In a separate pan, warm Korean chili paste and honey over low heat.
+- Toss fries with the sauce and serve.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.

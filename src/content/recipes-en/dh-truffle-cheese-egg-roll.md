@@ -28,7 +28,7 @@ restaurantSource:
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
 - Beat egg in a bowl with a pinch of salt and seasonings.
-- Brush toasted sesame oil on an egg roll pan over low heat. Pour in 1/3 of egg mixture. Arrange , mozzarella cheese, and cheddar cheese.
+- Brush toasted sesame oil on an egg roll pan over low heat. Pour in 1/3 of egg mixture. Arrange black truffle sauce and mozzarella cheese on top.
 - "Gently roll the semi-cooked egg sheet, push it to the end, pour in more egg to connect, and roll again."
 - Repeat until all egg is used. Remove from heat, let cool slightly, slice into thick rounds, and serve hot.
 tips:

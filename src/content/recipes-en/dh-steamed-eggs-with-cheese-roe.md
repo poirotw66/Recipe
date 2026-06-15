@@ -30,7 +30,7 @@ intro: "This version follows the common Dubu House prep and finishing order for 
 steps:
 - Beat egg in a bowl, add kelp broth, salt, and toasted sesame oil. Mix well.
 - Pour egg mixture into a clay pot, cook over low heat, and stir gently with chopsticks to prevent burning.
-- When eggs are 70% cooked, top with flying fish roe and cheddar cheese slice.
+- When eggs are 70% cooked, top with flying fish roe and cheddar cheese.
 - Cover with lid, simmer on low heat for 2 minutes until cheese melts, and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.

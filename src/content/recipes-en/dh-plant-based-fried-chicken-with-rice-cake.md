@@ -27,10 +27,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- "Soak plant-based chicken nuggets in warm water for 15 minutes to soften, then drain and set aside."
-- "Heat oil in a pan, sauté garlic and onion, then add Korean rice cakes and stir-fry until cooked."
-- Pour in Korean chili paste (gochujang) and a little broth. Add rice cakes, bring to a boil, and stir constantly to prevent sticking.
-- When rice cakes are chewy and sauce is thick, top with honey and let melt for 1 minute.
+- Soak Korean rice cakes in warm water for 15 minutes to soften, then drain and set aside.
+- "Heat oil in a pan, sauté garlic and onion, then add plant-based chicken nuggets and stir-fry until cooked."
+- Pour in the prepared Korean chili paste (gochujang), honey, minced garlic and a little broth. Add the soaked Korean rice cakes, bring to a boil, and stir constantly to prevent sticking.
+- When the rice cakes are chewy and the sauce is thick, top with sesame seeds, and let simmer for 1 minute before serving.
 tips:
 - "Double-frying is essential. The first fry cooks the meat, and the second fry makes it crispy."
 - Turn off the heat before tossing with the sauce, otherwise, the crispy skin will turn soggy.

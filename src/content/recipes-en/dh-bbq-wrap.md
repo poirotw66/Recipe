@@ -27,10 +27,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Cut beef brisket slices into pieces. If using meat, marinate with minced garlic and soy sauce for 15 minutes. For pork, season with salt and pepper powder.
-- "Heat sesame oil in a skillet, sauté garlic and onion, then add the marinated beef brisket slices and stir-fry."
-- "Stir-fry beef brisket slices until crispy. Serve with napa cabbage, garlic, and soy sauce."
-- Transfer to a serving plate and garnish with fresh scallions or sesame seeds.
+- Clean and drain cabbage leaves. Slice beef brisket slices and garlic.
+- Soak rice cakes in warm water. Marinate meat with soy sauce for 10 minutes.
+- "Heat toasted sesame oil in a skillet, stir-fry marinated meat, rice cakes, and garlic until cooked."
+- Plate and serve the meat, rice cakes, and garlic wrapped in cabbage leaves, and enjoy with Korean chili paste.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.

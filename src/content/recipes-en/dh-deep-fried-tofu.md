@@ -28,10 +28,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Cut soft tofu into pieces. If using meat, marinate with minced garlic and soy sauce for 15 minutes. For pork, season with salt and pepper powder.
-- "Heat sesame oil in a skillet, sauté garlic and onion, then add the marinated soft tofu and stir-fry."
-- Pour in soy sauce and a little broth. Toss over medium heat until soft tofu is cooked and coated with glaze.
-- Transfer to a serving plate and garnish with fresh scallions or sesame seeds.
+- "Cut soft tofu into bite-sized cubes and drain excess water."
+- Fry tofu cubes in hot oil over medium heat until golden and crispy, then drain.
+- Mix soy sauce, minced garlic, and sugar to make the classic dipping sauce.
+- Plate the tofu, drizzle with the garlic soy sauce, and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.

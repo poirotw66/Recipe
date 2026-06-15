@@ -27,10 +27,10 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Cut prime beef slices into pieces. If using meat, marinate with minced garlic and soy sauce for 15 minutes. For pork, season with salt and pepper powder.
-- "Heat sesame oil in a skillet, sauté garlic and onion, then add the marinated prime beef slices and stir-fry."
-- Pour in salt and a little broth. Toss over medium heat until prime beef slices is cooked and coated with glaze.
-- Transfer to a serving plate and garnish with fresh scallions or sesame seeds.
+- Slice prime beef slices thinly and chop green scallion.
+- Pour beef bone broth into a pot and bring to a boil.
+- Add meat slices, cook quickly until color changes (about 1 minute), turn off heat and skim foam.
+- Garnish with scallions and season with salt and pepper powder to taste.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
