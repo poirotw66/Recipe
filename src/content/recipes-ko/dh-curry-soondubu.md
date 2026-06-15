@@ -2,7 +2,7 @@
 title: 咖哩嫩豆腐煲 스타일 레시피
 recipeId: dh-curry-soondubu
 description: 涓豆腐 咖哩嫩豆腐煲 를 집에서 재현하는 한국식 전골 레시피입니다.
-coverImage: /images/recipes/dh-curry-soondubu.svg
+coverImage: /images/recipes/dh-curry-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

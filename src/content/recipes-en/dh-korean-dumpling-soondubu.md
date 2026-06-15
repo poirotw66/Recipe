@@ -2,7 +2,7 @@
 title: Korean Dumpling Soondubu
 recipeId: dh-korean-dumpling-soondubu
 description: "Dubu House-inspired korean hot pot recreating 韓式餃子嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-korean-dumpling-soondubu.svg
+coverImage: /images/recipes/dh-korean-dumpling-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

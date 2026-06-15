@@ -2,7 +2,7 @@
 title: Seaweed Oyster Soondubu
 recipeId: dh-seaweed-oyster-soondubu
 description: "Dubu House-inspired korean hot pot recreating 海菜鮮蚵嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-seaweed-oyster-soondubu.svg
+coverImage: /images/recipes/dh-seaweed-oyster-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

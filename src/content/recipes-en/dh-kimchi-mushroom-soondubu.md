@@ -2,7 +2,7 @@
 title: Kimchi Soondubu
 recipeId: dh-kimchi-mushroom-soondubu
 description: "Dubu House-inspired korean hot pot recreating 泡菜鮮菇嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-kimchi-mushroom-soondubu.svg
+coverImage: /images/recipes/dh-kimchi-mushroom-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

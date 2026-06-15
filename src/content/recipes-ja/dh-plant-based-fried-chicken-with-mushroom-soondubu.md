@@ -2,7 +2,7 @@
 title: 植感炸雞鮮菇嫩豆腐煲 再現レシピ
 recipeId: dh-plant-based-fried-chicken-with-mushroom-soondubu
 description: 涓豆腐の 植感炸雞鮮菇嫩豆腐煲 を家庭で再現する、韓国鍋料理 向けレシピです。
-coverImage: /images/recipes/dh-plant-based-fried-chicken-with-mushroom-soondubu.svg
+coverImage: /images/recipes/dh-plant-based-fried-chicken-with-mushroom-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

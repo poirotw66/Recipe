@@ -2,7 +2,7 @@
 title: Combo Soondubu
 recipeId: dh-combo-soondubu
 description: "Dubu House-inspired korean hot pot recreating 海陸綜合嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-combo-soondubu.svg
+coverImage: /images/recipes/dh-combo-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

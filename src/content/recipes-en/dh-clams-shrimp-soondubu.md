@@ -2,7 +2,7 @@
 title: Clams & Shrimp Soondubu
 recipeId: dh-clams-shrimp-soondubu
 description: "Dubu House-inspired korean hot pot recreating 蛤蜊鮮蝦嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-clams-shrimp-soondubu.svg
+coverImage: /images/recipes/dh-clams-shrimp-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

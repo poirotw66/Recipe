@@ -2,7 +2,7 @@
 title: Vegetable Soondubu
 recipeId: dh-vegetable-soondubu
 description: "Dubu House-inspired korean hot pot recreating 野菜鮮菇嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-vegetable-soondubu.svg
+coverImage: /images/recipes/dh-vegetable-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

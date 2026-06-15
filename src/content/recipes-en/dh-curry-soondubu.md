@@ -2,7 +2,7 @@
 title: Curry Soondubu
 recipeId: dh-curry-soondubu
 description: "Dubu House-inspired korean hot pot recreating 咖哩嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-curry-soondubu.svg
+coverImage: /images/recipes/dh-curry-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

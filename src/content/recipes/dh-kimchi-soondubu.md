@@ -1,7 +1,7 @@
 ---
 title: 泡菜嫩豆腐煲
 description: 參考涓豆腐常見做法還原 泡菜嫩豆腐煲，保留 嫩豆腐煲 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-kimchi-soondubu.svg
+coverImage: /images/recipes/dh-kimchi-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

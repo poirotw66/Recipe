@@ -2,7 +2,7 @@
 title: 泡菜嫩豆腐煲 再現レシピ
 recipeId: dh-kimchi-soondubu
 description: 涓豆腐の 泡菜嫩豆腐煲 を家庭で再現する、韓国鍋料理 向けレシピです。
-coverImage: /images/recipes/dh-kimchi-soondubu.svg
+coverImage: /images/recipes/dh-kimchi-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

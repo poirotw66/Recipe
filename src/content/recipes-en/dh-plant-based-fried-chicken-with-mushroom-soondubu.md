@@ -2,7 +2,7 @@
 title: "Plant-Based Fried Chicken with Mushroom Soondubu"
 recipeId: dh-plant-based-fried-chicken-with-mushroom-soondubu
 description: "Dubu House-inspired korean hot pot recreating 植感炸雞鮮菇嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-plant-based-fried-chicken-with-mushroom-soondubu.svg
+coverImage: /images/recipes/dh-plant-based-fried-chicken-with-mushroom-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

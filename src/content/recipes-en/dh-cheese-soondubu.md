@@ -2,7 +2,7 @@
 title: Cheese Soondubu
 recipeId: dh-cheese-soondubu
 description: "Dubu House-inspired korean hot pot recreating 起司嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-cheese-soondubu.svg
+coverImage: /images/recipes/dh-cheese-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

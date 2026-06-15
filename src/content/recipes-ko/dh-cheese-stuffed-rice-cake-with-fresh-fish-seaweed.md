@@ -2,7 +2,7 @@
 title: 海菜起司年糕鮮魚嫩豆腐煲 스타일 레시피
 recipeId: dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed
 description: 涓豆腐 海菜起司年糕鮮魚嫩豆腐煲 를 집에서 재현하는 한국식 전골 레시피입니다.
-coverImage: /images/recipes/dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed.svg
+coverImage: /images/recipes/dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed.webp
 servings: 2
 prepTime: 20
 cookTime: 18

@@ -2,7 +2,7 @@
 title: 海菜鮮蚵嫩豆腐煲 再現レシピ
 recipeId: dh-seaweed-oyster-soondubu
 description: 涓豆腐の 海菜鮮蚵嫩豆腐煲 を家庭で再現する、韓国鍋料理 向けレシピです。
-coverImage: /images/recipes/dh-seaweed-oyster-soondubu.svg
+coverImage: /images/recipes/dh-seaweed-oyster-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

@@ -2,7 +2,7 @@
 title: Kimchi Seafood Soondubu
 recipeId: dh-kimchi-seafood-soondubu
 description: "Dubu House-inspired korean hot pot recreating 泡菜海鮮嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-kimchi-seafood-soondubu.svg
+coverImage: /images/recipes/dh-kimchi-seafood-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

@@ -2,7 +2,7 @@
 title: 蛤蜊鮮蝦嫩豆腐煲 스타일 레시피
 recipeId: dh-clams-shrimp-soondubu
 description: 涓豆腐 蛤蜊鮮蝦嫩豆腐煲 를 집에서 재현하는 한국식 전골 레시피입니다.
-coverImage: /images/recipes/dh-clams-shrimp-soondubu.svg
+coverImage: /images/recipes/dh-clams-shrimp-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

@@ -2,7 +2,7 @@
 title: Seafood Soondubu
 recipeId: dh-seafood-soondubu
 description: "Dubu House-inspired korean hot pot recreating 海鮮嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-seafood-soondubu.svg
+coverImage: /images/recipes/dh-seafood-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

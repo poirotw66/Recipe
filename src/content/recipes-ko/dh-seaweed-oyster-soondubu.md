@@ -2,7 +2,7 @@
 title: 海菜鮮蚵嫩豆腐煲 스타일 레시피
 recipeId: dh-seaweed-oyster-soondubu
 description: 涓豆腐 海菜鮮蚵嫩豆腐煲 를 집에서 재현하는 한국식 전골 레시피입니다.
-coverImage: /images/recipes/dh-seaweed-oyster-soondubu.svg
+coverImage: /images/recipes/dh-seaweed-oyster-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

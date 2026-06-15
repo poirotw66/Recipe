@@ -2,7 +2,7 @@
 title: Soondubu
 recipeId: dh-classic-soondubu
 description: "Dubu House-inspired korean hot pot recreating 嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-classic-soondubu.svg
+coverImage: /images/recipes/dh-classic-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

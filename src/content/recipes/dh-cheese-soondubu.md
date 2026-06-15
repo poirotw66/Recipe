@@ -1,7 +1,7 @@
 ---
 title: 起司嫩豆腐煲
 description: 參考涓豆腐常見做法還原 起司嫩豆腐煲，保留 嫩豆腐煲 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-cheese-soondubu.svg
+coverImage: /images/recipes/dh-cheese-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

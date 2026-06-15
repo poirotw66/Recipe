@@ -2,7 +2,7 @@
 title: Cheese Vegetable Soondubu
 recipeId: dh-cheese-vegetable-soondubu
 description: "Dubu House-inspired korean hot pot recreating 起司野菜鮮菇嫩豆腐煲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-cheese-vegetable-soondubu.svg
+coverImage: /images/recipes/dh-cheese-vegetable-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18

@@ -2,7 +2,7 @@
 title: 泡菜嫩豆腐煲 스타일 레시피
 recipeId: dh-kimchi-soondubu
 description: 涓豆腐 泡菜嫩豆腐煲 를 집에서 재현하는 한국식 전골 레시피입니다.
-coverImage: /images/recipes/dh-kimchi-soondubu.svg
+coverImage: /images/recipes/dh-kimchi-soondubu.webp
 servings: 2
 prepTime: 20
 cookTime: 18
