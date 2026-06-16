@@ -23,9 +23,8 @@
 
 ## 圖片進度狀態
 
-- ⬜ **進行中（已完成 52 篇，剩餘 6 篇）**
-  - ✅ DH-01 ~ DH-52 (已產生 WebP 並更新四語系 Frontmatter)
-  - ⬜ DH-53 ~ DH-58 (待完成，因已達繪圖模型 API 容量上限 429，預計於 2026-06-16T20:17:00+08:00 後可繼續)
+- ✅ **已完成（58 篇全部完成）**
+  - ✅ DH-01 ~ DH-58 (已產生 WebP 並更新四語系 Frontmatter)
 
 ### 詳細進度清單
 
@@ -81,12 +80,12 @@
 - [x] **DH-50** 韓式起司烘蛋捲 (`dh-korean-cheese-egg-roll`)
 - [x] **DH-51** 韓國糖醋肉 (`dh-korean-sweet-and-sour-pork`)
 - [x] **DH-52** 巨濟島炸牡蠣 (`dh-fried-oysters`)
-- [ ] **DH-53** 泡菜豆腐煎餅 (`dh-kimchi-tofu-pancake`)
-- [ ] **DH-54** 綜合海鮮煎餅 (`dh-seafood-pancake`)
-- [ ] **DH-55** 醬燒青蔥牛五花/豬梅花 (`dh-bbq-wrap`)
-- [ ] **DH-56** 神仙霜降雪濃湯 (`dh-ox-bone-soup`)
-- [ ] **DH-57** Combo雙享韓式炸雞 (`dh-korean-fried-chicken-combo`)
-- [ ] **DH-58** 松露韓式起司烘蛋捲 (`dh-truffle-cheese-egg-roll`)
+- [x] **DH-53** 泡菜豆腐煎餅 (`dh-kimchi-tofu-pancake`)
+- [x] **DH-54** 綜合海鮮煎餅 (`dh-seafood-pancake`)
+- [x] **DH-55** 醬燒青蔥牛五花/豬梅花 (`dh-bbq-wrap`)
+- [x] **DH-56** 神仙霜降雪濃湯 (`dh-ox-bone-soup`)
+- [x] **DH-57** Combo雙享韓式炸雞 (`dh-korean-fried-chicken-combo`)
+- [x] **DH-58** 松露韓式起司烘蛋捲 (`dh-truffle-cheese-egg-roll`)
 
 
 ---
