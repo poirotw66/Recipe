@@ -1,7 +1,7 @@
 ---
 title: 月見苦瓜奶油飯
 description: 參考貳樓 Second Floor Cafe 常見做法，以 鹹蛋、山苦瓜、蕈菇、生蛋、起司 還原 月見苦瓜奶油飯 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-moon-view-bitter-melon-cream-rice.svg
+coverImage: /images/recipes/sf-moon-view-bitter-melon-cream-rice.webp
 servings: 1
 prepTime: 18
 cookTime: 18

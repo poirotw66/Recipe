@@ -1,7 +1,7 @@
 ---
 title: 主廚脆皮豬腳
 description: 參考貳樓 Second Floor Cafe 常見做法，以 德式豬腳、烤玉米、酸菜、芥末、薯條 還原 主廚脆皮豬腳 的餐廳份量與風味層次。
-coverImage: /images/recipes/sf-chef-crispy-pork-knuckle.svg
+coverImage: /images/recipes/sf-chef-crispy-pork-knuckle.webp
 servings: 2
 prepTime: 25
 cookTime: 35
