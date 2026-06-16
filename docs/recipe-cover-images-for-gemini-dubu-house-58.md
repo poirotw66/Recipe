@@ -23,9 +23,9 @@
 
 ## 圖片進度狀態
 
-- ⬜ **進行中（已完成 30 篇，剩餘 28 篇）**
-  - ✅ DH-01 ~ DH-30 (已產生 WebP 並更新四語系 Frontmatter)
-  - ⬜ DH-31 ~ DH-58 (待完成)
+- ⬜ **進行中（已完成 35 篇，剩餘 23 篇）**
+  - ✅ DH-01 ~ DH-35 (已產生 WebP 並更新四語系 Frontmatter)
+  - ⬜ DH-36 ~ DH-58 (待完成，因已達繪圖模型 API 容量上限 429，預計於 2026-06-16T15:17:00+08:00 後可繼續)
 
 ### 詳細進度清單
 
@@ -59,11 +59,11 @@
 - [x] **DH-28** 韓式炒冬粉 (`dh-fried-glass-noodle`)
 - [x] **DH-29** 韓式爆漿黑糖餅 (`dh-brown-sugar-pancake`)
 - [x] **DH-30** 珍珠豆腐冰淇淋 (`dh-tofu-ice-cream-with-tapioca`)
-- [ ] **DH-31** 韓式宮廷炒年糕 (`dh-royal-stir-fried-rice-cake`)
-- [ ] **DH-32** 黑松露炸醬起司年糕 (`dh-truffle-jjajang-cheese-rice-cake`)
-- [ ] **DH-33** 起司馬鈴薯煎餅 (`dh-potato-pancake-with-cheese`)
-- [ ] **DH-34** 植感炸雞年糕 (`dh-plant-based-fried-chicken-with-rice-cake`)
-- [ ] **DH-35** 起司玫瑰醬魷魚年糕 (`dh-cheese-pink-sauce-fried-squid-with-rice-cake`)
+- [x] **DH-31** 韓式宮廷炒年糕 (`dh-royal-stir-fried-rice-cake`)
+- [x] **DH-32** 黑松露炸醬起司年糕 (`dh-truffle-jjajang-cheese-rice-cake`)
+- [x] **DH-33** 起司馬鈴薯煎餅 (`dh-potato-pancake-with-cheese`)
+- [x] **DH-34** 植感炸雞年糕 (`dh-plant-based-fried-chicken-with-rice-cake`)
+- [x] **DH-35** 起司玫瑰醬魷魚年糕 (`dh-cheese-pink-sauce-fried-squid-with-rice-cake`)
 - [ ] **DH-36** 絲瓜鮮蔬煎餅 (`dh-vegetable-pancake`)
 - [ ] **DH-37** 田園醬燒飛虎魚 (`dh-stired-fried-fish-fillet-with-vegetables`)
 - [ ] **DH-38** 海鮮辣炒年糕 (`dh-spicy-pan-fried-seafood-rice-cake`)
