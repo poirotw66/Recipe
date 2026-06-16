@@ -2,7 +2,7 @@
 title: Combo雙享韓式炸雞 再現レシピ
 recipeId: dh-korean-fried-chicken-combo
 description: 涓豆腐の Combo雙享韓式炸雞 を家庭で再現する、シェフおすすめ 向けレシピです。
-coverImage: /images/recipes/dh-korean-fried-chicken-combo.svg
+coverImage: /images/recipes/dh-korean-fried-chicken-combo.webp
 servings: 2
 prepTime: 25
 cookTime: 20

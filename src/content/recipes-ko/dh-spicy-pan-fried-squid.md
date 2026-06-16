@@ -2,7 +2,7 @@
 title: 辣炒中卷 스타일 레시피
 recipeId: dh-spicy-pan-fried-squid
 description: 涓豆腐 辣炒中卷 를 집에서 재현하는 한국식 메인 레시피입니다.
-coverImage: /images/recipes/dh-spicy-pan-fried-squid.svg
+coverImage: /images/recipes/dh-spicy-pan-fried-squid.webp
 servings: 2
 prepTime: 22
 cookTime: 22

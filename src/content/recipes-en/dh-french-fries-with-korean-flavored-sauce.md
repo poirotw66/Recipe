@@ -2,7 +2,7 @@
 title: "French Fries with Korean-flavored Sauce"
 recipeId: dh-french-fries-with-korean-flavored-sauce
 description: "Dubu House-inspired korean appetizers recreating 韓式酥炸脆薯 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-french-fries-with-korean-flavored-sauce.svg
+coverImage: /images/recipes/dh-french-fries-with-korean-flavored-sauce.webp
 servings: 2
 prepTime: 18
 cookTime: 16

@@ -2,7 +2,7 @@
 title: Brown Sugar Pancake
 recipeId: dh-brown-sugar-pancake
 description: "Dubu House-inspired desserts recreating 韓式爆漿黑糖餅 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-brown-sugar-pancake.svg
+coverImage: /images/recipes/dh-brown-sugar-pancake.webp
 servings: 2
 prepTime: 15
 cookTime: 12

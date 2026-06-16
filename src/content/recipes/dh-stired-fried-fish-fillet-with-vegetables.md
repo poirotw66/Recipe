@@ -1,7 +1,7 @@
 ---
 title: 田園醬燒飛虎魚
 description: 參考涓豆腐常見做法還原 田園醬燒飛虎魚，保留 特色料理 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-stired-fried-fish-fillet-with-vegetables.svg
+coverImage: /images/recipes/dh-stired-fried-fish-fillet-with-vegetables.webp
 servings: 2
 prepTime: 22
 cookTime: 22

@@ -2,7 +2,7 @@
 title: 綜合海鮮煎餅 再現レシピ
 recipeId: dh-seafood-pancake
 description: 涓豆腐の 綜合海鮮煎餅 を家庭で再現する、シェフおすすめ 向けレシピです。
-coverImage: /images/recipes/dh-seafood-pancake.svg
+coverImage: /images/recipes/dh-seafood-pancake.webp
 servings: 2
 prepTime: 25
 cookTime: 20

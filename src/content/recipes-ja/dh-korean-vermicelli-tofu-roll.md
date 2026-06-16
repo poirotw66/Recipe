@@ -2,7 +2,7 @@
 title: 韓式金絲豆腐捲 再現レシピ
 recipeId: dh-korean-vermicelli-tofu-roll
 description: 涓豆腐の 韓式金絲豆腐捲 を家庭で再現する、韓国前菜 向けレシピです。
-coverImage: /images/recipes/dh-korean-vermicelli-tofu-roll.svg
+coverImage: /images/recipes/dh-korean-vermicelli-tofu-roll.webp
 servings: 2
 prepTime: 18
 cookTime: 16

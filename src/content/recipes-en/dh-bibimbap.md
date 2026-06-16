@@ -2,7 +2,7 @@
 title: Bibimbap
 recipeId: dh-bibimbap
 description: "Dubu House-inspired stone pot rice recreating 石燒拌飯 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-bibimbap.svg
+coverImage: /images/recipes/dh-bibimbap.webp
 servings: 1
 prepTime: 15
 cookTime: 20

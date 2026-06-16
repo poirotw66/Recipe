@@ -2,7 +2,7 @@
 title: 人蔘砂鍋雞 스타일 레시피
 recipeId: dh-ginseng-chicken-clay-pot
 description: 涓豆腐 人蔘砂鍋雞 를 집에서 재현하는 한국식 메인 레시피입니다.
-coverImage: /images/recipes/dh-ginseng-chicken-clay-pot.svg
+coverImage: /images/recipes/dh-ginseng-chicken-clay-pot.webp
 servings: 2
 prepTime: 22
 cookTime: 22

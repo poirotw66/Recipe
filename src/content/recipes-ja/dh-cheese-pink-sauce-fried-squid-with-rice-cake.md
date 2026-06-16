@@ -2,7 +2,7 @@
 title: 起司玫瑰醬魷魚年糕 再現レシピ
 recipeId: dh-cheese-pink-sauce-fried-squid-with-rice-cake
 description: 涓豆腐の 起司玫瑰醬魷魚年糕 を家庭で再現する、韓国主菜 向けレシピです。
-coverImage: /images/recipes/dh-cheese-pink-sauce-fried-squid-with-rice-cake.svg
+coverImage: /images/recipes/dh-cheese-pink-sauce-fried-squid-with-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

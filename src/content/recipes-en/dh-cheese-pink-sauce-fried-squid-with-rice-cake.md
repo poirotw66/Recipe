@@ -2,7 +2,7 @@
 title: Cheese Pink Sauce Fried Squid with Rice Cake
 recipeId: dh-cheese-pink-sauce-fried-squid-with-rice-cake
 description: "Dubu House-inspired korean mains recreating 起司玫瑰醬魷魚年糕 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-cheese-pink-sauce-fried-squid-with-rice-cake.svg
+coverImage: /images/recipes/dh-cheese-pink-sauce-fried-squid-with-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

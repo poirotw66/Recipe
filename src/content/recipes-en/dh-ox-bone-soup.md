@@ -2,7 +2,7 @@
 title: Ox Bone Soup
 recipeId: dh-ox-bone-soup
 description: "Dubu House-inspired chef specials recreating 神仙霜降雪濃湯 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-ox-bone-soup.svg
+coverImage: /images/recipes/dh-ox-bone-soup.webp
 servings: 2
 prepTime: 25
 cookTime: 20

@@ -2,7 +2,7 @@
 title: 田園醬燒飛虎魚 再現レシピ
 recipeId: dh-stired-fried-fish-fillet-with-vegetables
 description: 涓豆腐の 田園醬燒飛虎魚 を家庭で再現する、韓国主菜 向けレシピです。
-coverImage: /images/recipes/dh-stired-fried-fish-fillet-with-vegetables.svg
+coverImage: /images/recipes/dh-stired-fried-fish-fillet-with-vegetables.webp
 servings: 2
 prepTime: 22
 cookTime: 22

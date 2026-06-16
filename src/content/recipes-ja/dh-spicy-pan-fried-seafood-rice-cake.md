@@ -2,7 +2,7 @@
 title: 海鮮辣炒年糕 再現レシピ
 recipeId: dh-spicy-pan-fried-seafood-rice-cake
 description: 涓豆腐の 海鮮辣炒年糕 を家庭で再現する、韓国主菜 向けレシピです。
-coverImage: /images/recipes/dh-spicy-pan-fried-seafood-rice-cake.svg
+coverImage: /images/recipes/dh-spicy-pan-fried-seafood-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

@@ -2,7 +2,7 @@
 title: Ginseng Chicken Soup
 recipeId: dh-ginseng-chicken-clay-pot
 description: "Dubu House-inspired korean mains recreating 人蔘砂鍋雞 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-ginseng-chicken-clay-pot.svg
+coverImage: /images/recipes/dh-ginseng-chicken-clay-pot.webp
 servings: 2
 prepTime: 22
 cookTime: 22

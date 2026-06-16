@@ -1,7 +1,7 @@
 ---
 title: 蜂蜜蒜味韓式炸雞
 description: 參考涓豆腐常見做法還原 蜂蜜蒜味韓式炸雞，保留 主廚推薦 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-honey-garlic-korean-fried-chicken.svg
+coverImage: /images/recipes/dh-honey-garlic-korean-fried-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 20

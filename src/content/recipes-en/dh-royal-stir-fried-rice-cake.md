@@ -2,7 +2,7 @@
 title: "Korean Royal Stir-fried Rice Cake"
 recipeId: dh-royal-stir-fried-rice-cake
 description: "Dubu House-inspired korean mains recreating 韓式宮廷炒年糕 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-royal-stir-fried-rice-cake.svg
+coverImage: /images/recipes/dh-royal-stir-fried-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

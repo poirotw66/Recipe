@@ -2,7 +2,7 @@
 title: 黃金雞石鍋飯 스타일 레시피
 recipeId: dh-golden-chicken-stone-pot-rice
 description: 涓豆腐 黃金雞石鍋飯 를 집에서 재현하는 돌솥밥 레시피입니다.
-coverImage: /images/recipes/dh-golden-chicken-stone-pot-rice.svg
+coverImage: /images/recipes/dh-golden-chicken-stone-pot-rice.webp
 servings: 1
 prepTime: 15
 cookTime: 20

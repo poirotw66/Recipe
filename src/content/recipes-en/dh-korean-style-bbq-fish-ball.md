@@ -2,7 +2,7 @@
 title: "Korean-style BBQ Fish Ball"
 recipeId: dh-korean-style-bbq-fish-ball
 description: "Dubu House-inspired korean appetizers recreating 韓風辣味魚丸燒 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-korean-style-bbq-fish-ball.svg
+coverImage: /images/recipes/dh-korean-style-bbq-fish-ball.webp
 servings: 2
 prepTime: 18
 cookTime: 16

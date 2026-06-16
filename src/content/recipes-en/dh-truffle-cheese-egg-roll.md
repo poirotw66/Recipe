@@ -2,7 +2,7 @@
 title: Korean Style Cheese Egg Roll (Truffle)
 recipeId: dh-truffle-cheese-egg-roll
 description: "Dubu House-inspired seasonal specials recreating 松露韓式起司烘蛋捲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-truffle-cheese-egg-roll.svg
+coverImage: /images/recipes/dh-truffle-cheese-egg-roll.webp
 servings: 2
 prepTime: 22
 cookTime: 20

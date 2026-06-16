@@ -1,7 +1,7 @@
 ---
 title: 韓風辣味魚丸燒
 description: 參考涓豆腐常見做法還原 韓風辣味魚丸燒，保留 韓式前菜 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-korean-style-bbq-fish-ball.svg
+coverImage: /images/recipes/dh-korean-style-bbq-fish-ball.webp
 servings: 2
 prepTime: 18
 cookTime: 16

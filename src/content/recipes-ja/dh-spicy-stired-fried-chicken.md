@@ -2,7 +2,7 @@
 title: 春川辣炒雞 再現レシピ
 recipeId: dh-spicy-stired-fried-chicken
 description: 涓豆腐の 春川辣炒雞 を家庭で再現する、韓国主菜 向けレシピです。
-coverImage: /images/recipes/dh-spicy-stired-fried-chicken.svg
+coverImage: /images/recipes/dh-spicy-stired-fried-chicken.webp
 servings: 2
 prepTime: 22
 cookTime: 22

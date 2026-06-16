@@ -2,7 +2,7 @@
 title: BBQ Wrap
 recipeId: dh-bbq-wrap
 description: "Dubu House-inspired chef specials recreating 醬燒青蔥牛五花/豬梅花 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-bbq-wrap.svg
+coverImage: /images/recipes/dh-bbq-wrap.webp
 servings: 2
 prepTime: 25
 cookTime: 20

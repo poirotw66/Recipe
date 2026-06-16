@@ -2,7 +2,7 @@
 title: 韓國糖醋肉 스타일 레시피
 recipeId: dh-korean-sweet-and-sour-pork
 description: 涓豆腐 韓國糖醋肉 를 집에서 재현하는 셰프 추천 레시피입니다.
-coverImage: /images/recipes/dh-korean-sweet-and-sour-pork.svg
+coverImage: /images/recipes/dh-korean-sweet-and-sour-pork.webp
 servings: 2
 prepTime: 25
 cookTime: 20

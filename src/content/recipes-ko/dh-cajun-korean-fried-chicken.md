@@ -2,7 +2,7 @@
 title: 肯瓊醬韓式炸雞 스타일 레시피
 recipeId: dh-cajun-korean-fried-chicken
 description: 涓豆腐 肯瓊醬韓式炸雞 를 집에서 재현하는 셰프 추천 레시피입니다.
-coverImage: /images/recipes/dh-cajun-korean-fried-chicken.svg
+coverImage: /images/recipes/dh-cajun-korean-fried-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 20

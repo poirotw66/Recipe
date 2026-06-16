@@ -2,7 +2,7 @@
 title: 起司馬鈴薯煎餅 스타일 레시피
 recipeId: dh-potato-pancake-with-cheese
 description: 涓豆腐 起司馬鈴薯煎餅 를 집에서 재현하는 한국식 메인 레시피입니다.
-coverImage: /images/recipes/dh-potato-pancake-with-cheese.svg
+coverImage: /images/recipes/dh-potato-pancake-with-cheese.webp
 servings: 2
 prepTime: 22
 cookTime: 22

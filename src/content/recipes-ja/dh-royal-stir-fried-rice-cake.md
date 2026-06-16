@@ -2,7 +2,7 @@
 title: 韓式宮廷炒年糕 再現レシピ
 recipeId: dh-royal-stir-fried-rice-cake
 description: 涓豆腐の 韓式宮廷炒年糕 を家庭で再現する、韓国主菜 向けレシピです。
-coverImage: /images/recipes/dh-royal-stir-fried-rice-cake.svg
+coverImage: /images/recipes/dh-royal-stir-fried-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

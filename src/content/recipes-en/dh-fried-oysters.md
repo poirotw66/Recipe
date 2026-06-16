@@ -2,7 +2,7 @@
 title: Fried Oysters
 recipeId: dh-fried-oysters
 description: "Dubu House-inspired chef specials recreating 巨濟島炸牡蠣 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-fried-oysters.svg
+coverImage: /images/recipes/dh-fried-oysters.webp
 servings: 2
 prepTime: 25
 cookTime: 20

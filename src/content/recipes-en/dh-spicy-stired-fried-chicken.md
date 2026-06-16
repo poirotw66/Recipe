@@ -2,7 +2,7 @@
 title: "Spicy Stired-fried Chicken"
 recipeId: dh-spicy-stired-fried-chicken
 description: "Dubu House-inspired korean mains recreating 春川辣炒雞 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-spicy-stired-fried-chicken.svg
+coverImage: /images/recipes/dh-spicy-stired-fried-chicken.webp
 servings: 2
 prepTime: 22
 cookTime: 22

@@ -23,9 +23,9 @@
 
 ## 圖片進度狀態
 
-- ⬜ **進行中（已完成 18 篇，剩餘 40 篇）**
-  - ✅ DH-01 ~ DH-18 (已產生 WebP 並更新四語系 Frontmatter)
-  - ⬜ DH-19 ~ DH-58 (待完成，因已達繪圖模型 API 容量上限 429，預計於 2026-06-15T21:51:50Z 後可繼續)
+- ⬜ **進行中（已完成 30 篇，剩餘 28 篇）**
+  - ✅ DH-01 ~ DH-30 (已產生 WebP 並更新四語系 Frontmatter)
+  - ⬜ DH-31 ~ DH-58 (待完成)
 
 ### 詳細進度清單
 
@@ -47,18 +47,18 @@
 - [x] **DH-16** 泡菜海鮮嫩豆腐煲 (`dh-kimchi-seafood-soondubu`)
 - [x] **DH-17** 海菜鮮蚵嫩豆腐煲 (`dh-seaweed-oyster-soondubu`)
 - [x] **DH-18** 鮮魚嫩豆腐煲 (`dh-fish-soondubu`)
-- [ ] **DH-19** 石燒拌飯 (`dh-bibimbap`)
-- [ ] **DH-20** 鴨賞石鍋飯 (`dh-duck-jerky-stone-pot-rice`)
-- [ ] **DH-21** 黃金雞石鍋飯 (`dh-golden-chicken-stone-pot-rice`)
-- [ ] **DH-22** 韓式石鍋飯 (`dh-classic-stone-pot-rice`)
-- [ ] **DH-23** 韓式金絲豆腐捲 (`dh-korean-vermicelli-tofu-roll`)
-- [ ] **DH-24** 韓式酥炸脆薯 (`dh-french-fries-with-korean-flavored-sauce`)
-- [ ] **DH-25** 黃金酥炸嫩豆腐 (`dh-deep-fried-tofu`)
-- [ ] **DH-26** 韓風辣味魚丸燒 (`dh-korean-style-bbq-fish-ball`)
-- [ ] **DH-27** 魚卵起司陶鍋蛋 (`dh-steamed-eggs-with-cheese-roe`)
-- [ ] **DH-28** 韓式炒冬粉 (`dh-fried-glass-noodle`)
-- [ ] **DH-29** 韓式爆漿黑糖餅 (`dh-brown-sugar-pancake`)
-- [ ] **DH-30** 珍珠豆腐冰淇淋 (`dh-tofu-ice-cream-with-tapioca`)
+- [x] **DH-19** 石燒拌飯 (`dh-bibimbap`)
+- [x] **DH-20** 鴨賞石鍋飯 (`dh-duck-jerky-stone-pot-rice`)
+- [x] **DH-21** 黃金雞石鍋飯 (`dh-golden-chicken-stone-pot-rice`)
+- [x] **DH-22** 韓式石鍋飯 (`dh-classic-stone-pot-rice`)
+- [x] **DH-23** 韓式金絲豆腐捲 (`dh-korean-vermicelli-tofu-roll`)
+- [x] **DH-24** 韓式酥炸脆薯 (`dh-french-fries-with-korean-flavored-sauce`)
+- [x] **DH-25** 黃金酥炸嫩豆腐 (`dh-deep-fried-tofu`)
+- [x] **DH-26** 韓風辣味魚丸燒 (`dh-korean-style-bbq-fish-ball`)
+- [x] **DH-27** 魚卵起司陶鍋蛋 (`dh-steamed-eggs-with-cheese-roe`)
+- [x] **DH-28** 韓式炒冬粉 (`dh-fried-glass-noodle`)
+- [x] **DH-29** 韓式爆漿黑糖餅 (`dh-brown-sugar-pancake`)
+- [x] **DH-30** 珍珠豆腐冰淇淋 (`dh-tofu-ice-cream-with-tapioca`)
 - [ ] **DH-31** 韓式宮廷炒年糕 (`dh-royal-stir-fried-rice-cake`)
 - [ ] **DH-32** 黑松露炸醬起司年糕 (`dh-truffle-jjajang-cheese-rice-cake`)
 - [ ] **DH-33** 起司馬鈴薯煎餅 (`dh-potato-pancake-with-cheese`)

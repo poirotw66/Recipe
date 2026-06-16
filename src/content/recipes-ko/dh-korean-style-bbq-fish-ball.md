@@ -2,7 +2,7 @@
 title: 韓風辣味魚丸燒 스타일 레시피
 recipeId: dh-korean-style-bbq-fish-ball
 description: 涓豆腐 韓風辣味魚丸燒 를 집에서 재현하는 한국식 전채 레시피입니다.
-coverImage: /images/recipes/dh-korean-style-bbq-fish-ball.svg
+coverImage: /images/recipes/dh-korean-style-bbq-fish-ball.webp
 servings: 2
 prepTime: 18
 cookTime: 16

@@ -2,7 +2,7 @@
 title: "Spicy Pan-fried Seafood Rice Cake"
 recipeId: dh-spicy-pan-fried-seafood-rice-cake
 description: "Dubu House-inspired korean mains recreating 海鮮辣炒年糕 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-spicy-pan-fried-seafood-rice-cake.svg
+coverImage: /images/recipes/dh-spicy-pan-fried-seafood-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

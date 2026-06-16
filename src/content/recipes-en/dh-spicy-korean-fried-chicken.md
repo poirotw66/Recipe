@@ -2,7 +2,7 @@
 title: Korean Fried Chicken
 recipeId: dh-spicy-korean-fried-chicken
 description: "Dubu House-inspired chef specials recreating 辣味韓式炸雞 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-spicy-korean-fried-chicken.svg
+coverImage: /images/recipes/dh-spicy-korean-fried-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 20

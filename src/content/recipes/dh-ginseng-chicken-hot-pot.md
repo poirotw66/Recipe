@@ -1,7 +1,7 @@
 ---
 title: 韓國人蔘雞火鍋
 description: 參考涓豆腐常見做法還原 韓國人蔘雞火鍋，保留 特色料理 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-ginseng-chicken-hot-pot.svg
+coverImage: /images/recipes/dh-ginseng-chicken-hot-pot.webp
 servings: 2
 prepTime: 22
 cookTime: 22

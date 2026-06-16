@@ -2,7 +2,7 @@
 title: Korean Fried Chicken Combo
 recipeId: dh-korean-fried-chicken-combo
 description: "Dubu House-inspired chef specials recreating Combo雙享韓式炸雞 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-korean-fried-chicken-combo.svg
+coverImage: /images/recipes/dh-korean-fried-chicken-combo.webp
 servings: 2
 prepTime: 25
 cookTime: 20

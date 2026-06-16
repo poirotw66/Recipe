@@ -2,7 +2,7 @@
 title: Korean BBQ Beef Short Ribs
 recipeId: dh-korean-bbq-beef-short-ribs
 description: "Dubu House-inspired chef specials recreating 韓式BBQ鐵板翼板牛 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-korean-bbq-beef-short-ribs.svg
+coverImage: /images/recipes/dh-korean-bbq-beef-short-ribs.webp
 servings: 2
 prepTime: 25
 cookTime: 20

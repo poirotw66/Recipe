@@ -2,7 +2,7 @@
 title: Korean Sweet and Sour Pork
 recipeId: dh-korean-sweet-and-sour-pork
 description: "Dubu House-inspired chef specials recreating 韓國糖醋肉 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-korean-sweet-and-sour-pork.svg
+coverImage: /images/recipes/dh-korean-sweet-and-sour-pork.webp
 servings: 2
 prepTime: 25
 cookTime: 20

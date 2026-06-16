@@ -2,7 +2,7 @@
 title: 黃金酥炸嫩豆腐 스타일 레시피
 recipeId: dh-deep-fried-tofu
 description: 涓豆腐 黃金酥炸嫩豆腐 를 집에서 재현하는 한국식 전채 레시피입니다.
-coverImage: /images/recipes/dh-deep-fried-tofu.svg
+coverImage: /images/recipes/dh-deep-fried-tofu.webp
 servings: 2
 prepTime: 18
 cookTime: 16

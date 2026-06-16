@@ -2,7 +2,7 @@
 title: Fried Glass Noodle
 recipeId: dh-fried-glass-noodle
 description: "Dubu House-inspired korean appetizers recreating 韓式炒冬粉 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-fried-glass-noodle.svg
+coverImage: /images/recipes/dh-fried-glass-noodle.webp
 servings: 2
 prepTime: 18
 cookTime: 16

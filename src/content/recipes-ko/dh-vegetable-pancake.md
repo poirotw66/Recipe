@@ -2,7 +2,7 @@
 title: 絲瓜鮮蔬煎餅 스타일 레시피
 recipeId: dh-vegetable-pancake
 description: 涓豆腐 絲瓜鮮蔬煎餅 를 집에서 재현하는 한국식 메인 레시피입니다.
-coverImage: /images/recipes/dh-vegetable-pancake.svg
+coverImage: /images/recipes/dh-vegetable-pancake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

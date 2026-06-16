@@ -2,7 +2,7 @@
 title: Potato Pancake with Cheese
 recipeId: dh-potato-pancake-with-cheese
 description: "Dubu House-inspired korean mains recreating 起司馬鈴薯煎餅 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-potato-pancake-with-cheese.svg
+coverImage: /images/recipes/dh-potato-pancake-with-cheese.webp
 servings: 2
 prepTime: 22
 cookTime: 22

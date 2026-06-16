@@ -2,7 +2,7 @@
 title: Seafood Pancake
 recipeId: dh-seafood-pancake
 description: "Dubu House-inspired chef specials recreating 綜合海鮮煎餅 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-seafood-pancake.svg
+coverImage: /images/recipes/dh-seafood-pancake.webp
 servings: 2
 prepTime: 25
 cookTime: 20

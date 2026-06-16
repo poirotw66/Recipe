@@ -1,7 +1,7 @@
 ---
 title: 起司玫瑰醬魷魚年糕
 description: 參考涓豆腐常見做法還原 起司玫瑰醬魷魚年糕，保留 特色料理 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-cheese-pink-sauce-fried-squid-with-rice-cake.svg
+coverImage: /images/recipes/dh-cheese-pink-sauce-fried-squid-with-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

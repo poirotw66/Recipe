@@ -1,7 +1,7 @@
 ---
 title: 魚卵起司陶鍋蛋
 description: 參考涓豆腐常見做法還原 魚卵起司陶鍋蛋，保留 韓式前菜 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-steamed-eggs-with-cheese-roe.svg
+coverImage: /images/recipes/dh-steamed-eggs-with-cheese-roe.webp
 servings: 2
 prepTime: 18
 cookTime: 16

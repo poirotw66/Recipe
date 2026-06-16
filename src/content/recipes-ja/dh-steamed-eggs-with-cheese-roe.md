@@ -2,7 +2,7 @@
 title: 魚卵起司陶鍋蛋 再現レシピ
 recipeId: dh-steamed-eggs-with-cheese-roe
 description: 涓豆腐の 魚卵起司陶鍋蛋 を家庭で再現する、韓国前菜 向けレシピです。
-coverImage: /images/recipes/dh-steamed-eggs-with-cheese-roe.svg
+coverImage: /images/recipes/dh-steamed-eggs-with-cheese-roe.webp
 servings: 2
 prepTime: 18
 cookTime: 16

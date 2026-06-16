@@ -2,7 +2,7 @@
 title: 肯瓊醬韓式炸雞 再現レシピ
 recipeId: dh-cajun-korean-fried-chicken
 description: 涓豆腐の 肯瓊醬韓式炸雞 を家庭で再現する、シェフおすすめ 向けレシピです。
-coverImage: /images/recipes/dh-cajun-korean-fried-chicken.svg
+coverImage: /images/recipes/dh-cajun-korean-fried-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 20

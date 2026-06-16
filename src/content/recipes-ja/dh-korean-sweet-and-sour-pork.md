@@ -2,7 +2,7 @@
 title: 韓國糖醋肉 再現レシピ
 recipeId: dh-korean-sweet-and-sour-pork
 description: 涓豆腐の 韓國糖醋肉 を家庭で再現する、シェフおすすめ 向けレシピです。
-coverImage: /images/recipes/dh-korean-sweet-and-sour-pork.svg
+coverImage: /images/recipes/dh-korean-sweet-and-sour-pork.webp
 servings: 2
 prepTime: 25
 cookTime: 20

@@ -2,7 +2,7 @@
 title: 黑松露炸醬起司年糕 스타일 레시피
 recipeId: dh-truffle-jjajang-cheese-rice-cake
 description: 涓豆腐 黑松露炸醬起司年糕 를 집에서 재현하는 한국식 메인 레시피입니다.
-coverImage: /images/recipes/dh-truffle-jjajang-cheese-rice-cake.svg
+coverImage: /images/recipes/dh-truffle-jjajang-cheese-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

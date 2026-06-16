@@ -2,7 +2,7 @@
 title: 神仙霜降雪濃湯 再現レシピ
 recipeId: dh-ox-bone-soup
 description: 涓豆腐の 神仙霜降雪濃湯 を家庭で再現する、シェフおすすめ 向けレシピです。
-coverImage: /images/recipes/dh-ox-bone-soup.svg
+coverImage: /images/recipes/dh-ox-bone-soup.webp
 servings: 2
 prepTime: 25
 cookTime: 20

@@ -2,7 +2,7 @@
 title: Truffle Jjajang Cheese Rice Cake
 recipeId: dh-truffle-jjajang-cheese-rice-cake
 description: "Dubu House-inspired korean mains recreating 黑松露炸醬起司年糕 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-truffle-jjajang-cheese-rice-cake.svg
+coverImage: /images/recipes/dh-truffle-jjajang-cheese-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

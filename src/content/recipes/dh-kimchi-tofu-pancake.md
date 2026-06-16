@@ -1,7 +1,7 @@
 ---
 title: 泡菜豆腐煎餅
 description: 參考涓豆腐常見做法還原 泡菜豆腐煎餅，保留 主廚推薦 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-kimchi-tofu-pancake.svg
+coverImage: /images/recipes/dh-kimchi-tofu-pancake.webp
 servings: 2
 prepTime: 25
 cookTime: 20

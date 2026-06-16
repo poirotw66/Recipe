@@ -2,7 +2,7 @@
 title: Korean Vermicelli Tofu Roll
 recipeId: dh-korean-vermicelli-tofu-roll
 description: "Dubu House-inspired korean appetizers recreating 韓式金絲豆腐捲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-korean-vermicelli-tofu-roll.svg
+coverImage: /images/recipes/dh-korean-vermicelli-tofu-roll.webp
 servings: 2
 prepTime: 18
 cookTime: 16

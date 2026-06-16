@@ -2,7 +2,7 @@
 title: 韓式起司烘蛋捲 스타일 레시피
 recipeId: dh-korean-cheese-egg-roll
 description: 涓豆腐 韓式起司烘蛋捲 를 집에서 재현하는 셰프 추천 레시피입니다.
-coverImage: /images/recipes/dh-korean-cheese-egg-roll.svg
+coverImage: /images/recipes/dh-korean-cheese-egg-roll.webp
 servings: 2
 prepTime: 25
 cookTime: 20

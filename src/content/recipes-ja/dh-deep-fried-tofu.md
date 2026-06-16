@@ -2,7 +2,7 @@
 title: 黃金酥炸嫩豆腐 再現レシピ
 recipeId: dh-deep-fried-tofu
 description: 涓豆腐の 黃金酥炸嫩豆腐 を家庭で再現する、韓国前菜 向けレシピです。
-coverImage: /images/recipes/dh-deep-fried-tofu.svg
+coverImage: /images/recipes/dh-deep-fried-tofu.webp
 servings: 2
 prepTime: 18
 cookTime: 16

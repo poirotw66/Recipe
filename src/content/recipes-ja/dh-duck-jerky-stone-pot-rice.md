@@ -2,7 +2,7 @@
 title: 鴨賞石鍋飯 再現レシピ
 recipeId: dh-duck-jerky-stone-pot-rice
 description: 涓豆腐の 鴨賞石鍋飯 を家庭で再現する、石焼ご飯 向けレシピです。
-coverImage: /images/recipes/dh-duck-jerky-stone-pot-rice.svg
+coverImage: /images/recipes/dh-duck-jerky-stone-pot-rice.webp
 servings: 1
 prepTime: 15
 cookTime: 20

@@ -2,7 +2,7 @@
 title: 辣味韓式炸雞 再現レシピ
 recipeId: dh-spicy-korean-fried-chicken
 description: 涓豆腐の 辣味韓式炸雞 を家庭で再現する、シェフおすすめ 向けレシピです。
-coverImage: /images/recipes/dh-spicy-korean-fried-chicken.svg
+coverImage: /images/recipes/dh-spicy-korean-fried-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 20

@@ -2,7 +2,7 @@
 title: 綜合海鮮煎餅 스타일 레시피
 recipeId: dh-seafood-pancake
 description: 涓豆腐 綜合海鮮煎餅 를 집에서 재현하는 셰프 추천 레시피입니다.
-coverImage: /images/recipes/dh-seafood-pancake.svg
+coverImage: /images/recipes/dh-seafood-pancake.webp
 servings: 2
 prepTime: 25
 cookTime: 20

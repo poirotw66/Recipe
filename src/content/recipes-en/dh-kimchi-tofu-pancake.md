@@ -2,7 +2,7 @@
 title: Kimchi & Tofu Pancake
 recipeId: dh-kimchi-tofu-pancake
 description: "Dubu House-inspired chef specials recreating 泡菜豆腐煎餅 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-kimchi-tofu-pancake.svg
+coverImage: /images/recipes/dh-kimchi-tofu-pancake.webp
 servings: 2
 prepTime: 25
 cookTime: 20

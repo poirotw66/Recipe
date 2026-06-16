@@ -2,7 +2,7 @@
 title: 魚卵起司陶鍋蛋 스타일 레시피
 recipeId: dh-steamed-eggs-with-cheese-roe
 description: 涓豆腐 魚卵起司陶鍋蛋 를 집에서 재현하는 한국식 전채 레시피입니다.
-coverImage: /images/recipes/dh-steamed-eggs-with-cheese-roe.svg
+coverImage: /images/recipes/dh-steamed-eggs-with-cheese-roe.webp
 servings: 2
 prepTime: 18
 cookTime: 16

@@ -2,7 +2,7 @@
 title: "Korean-style Cheese Egg Roll"
 recipeId: dh-korean-cheese-egg-roll
 description: "Dubu House-inspired chef specials recreating 韓式起司烘蛋捲 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-korean-cheese-egg-roll.svg
+coverImage: /images/recipes/dh-korean-cheese-egg-roll.webp
 servings: 2
 prepTime: 25
 cookTime: 20

@@ -2,7 +2,7 @@
 title: 韓式爆漿黑糖餅 再現レシピ
 recipeId: dh-brown-sugar-pancake
 description: 涓豆腐の 韓式爆漿黑糖餅 を家庭で再現する、デザート 向けレシピです。
-coverImage: /images/recipes/dh-brown-sugar-pancake.svg
+coverImage: /images/recipes/dh-brown-sugar-pancake.webp
 servings: 2
 prepTime: 15
 cookTime: 12

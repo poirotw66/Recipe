@@ -2,7 +2,7 @@
 title: 韓式爆漿黑糖餅 스타일 레시피
 recipeId: dh-brown-sugar-pancake
 description: 涓豆腐 韓式爆漿黑糖餅 를 집에서 재현하는 디저트 레시피입니다.
-coverImage: /images/recipes/dh-brown-sugar-pancake.svg
+coverImage: /images/recipes/dh-brown-sugar-pancake.webp
 servings: 2
 prepTime: 15
 cookTime: 12

@@ -1,7 +1,7 @@
 ---
 title: 韓國糖醋肉
 description: 參考涓豆腐常見做法還原 韓國糖醋肉，保留 主廚推薦 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-korean-sweet-and-sour-pork.svg
+coverImage: /images/recipes/dh-korean-sweet-and-sour-pork.webp
 servings: 2
 prepTime: 25
 cookTime: 20

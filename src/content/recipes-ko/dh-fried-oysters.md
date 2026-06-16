@@ -2,7 +2,7 @@
 title: 巨濟島炸牡蠣 스타일 레시피
 recipeId: dh-fried-oysters
 description: 涓豆腐 巨濟島炸牡蠣 를 집에서 재현하는 셰프 추천 레시피입니다.
-coverImage: /images/recipes/dh-fried-oysters.svg
+coverImage: /images/recipes/dh-fried-oysters.webp
 servings: 2
 prepTime: 25
 cookTime: 20

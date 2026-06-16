@@ -1,7 +1,7 @@
 ---
 title: 醬燒青蔥牛五花/豬梅花
 description: 參考涓豆腐常見做法還原 醬燒青蔥牛五花/豬梅花，保留 主廚推薦 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-bbq-wrap.svg
+coverImage: /images/recipes/dh-bbq-wrap.webp
 servings: 2
 prepTime: 25
 cookTime: 20

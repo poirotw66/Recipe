@@ -1,7 +1,7 @@
 ---
 title: 海鮮辣炒年糕
 description: 參考涓豆腐常見做法還原 海鮮辣炒年糕，保留 特色料理 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-spicy-pan-fried-seafood-rice-cake.svg
+coverImage: /images/recipes/dh-spicy-pan-fried-seafood-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

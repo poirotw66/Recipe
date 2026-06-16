@@ -2,7 +2,7 @@
 title: 韓國人蔘雞火鍋 스타일 레시피
 recipeId: dh-ginseng-chicken-hot-pot
 description: 涓豆腐 韓國人蔘雞火鍋 를 집에서 재현하는 한국식 메인 레시피입니다.
-coverImage: /images/recipes/dh-ginseng-chicken-hot-pot.svg
+coverImage: /images/recipes/dh-ginseng-chicken-hot-pot.webp
 servings: 2
 prepTime: 22
 cookTime: 22

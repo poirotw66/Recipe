@@ -2,7 +2,7 @@
 title: Vegetable Pancake
 recipeId: dh-vegetable-pancake
 description: "Dubu House-inspired korean mains recreating 絲瓜鮮蔬煎餅 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-vegetable-pancake.svg
+coverImage: /images/recipes/dh-vegetable-pancake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

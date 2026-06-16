@@ -1,7 +1,7 @@
 ---
 title: 神仙霜降雪濃湯
 description: 參考涓豆腐常見做法還原 神仙霜降雪濃湯，保留 主廚推薦 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-ox-bone-soup.svg
+coverImage: /images/recipes/dh-ox-bone-soup.webp
 servings: 2
 prepTime: 25
 cookTime: 20

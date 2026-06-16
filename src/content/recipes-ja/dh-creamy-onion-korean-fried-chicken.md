@@ -2,7 +2,7 @@
 title: 洋蔥白醬韓式炸雞 再現レシピ
 recipeId: dh-creamy-onion-korean-fried-chicken
 description: 涓豆腐の 洋蔥白醬韓式炸雞 を家庭で再現する、シェフおすすめ 向けレシピです。
-coverImage: /images/recipes/dh-creamy-onion-korean-fried-chicken.svg
+coverImage: /images/recipes/dh-creamy-onion-korean-fried-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 20

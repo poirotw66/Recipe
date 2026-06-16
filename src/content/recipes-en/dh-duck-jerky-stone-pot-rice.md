@@ -2,7 +2,7 @@
 title: Stone Pot Rice
 recipeId: dh-duck-jerky-stone-pot-rice
 description: "Dubu House-inspired stone pot rice recreating 鴨賞石鍋飯 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-duck-jerky-stone-pot-rice.svg
+coverImage: /images/recipes/dh-duck-jerky-stone-pot-rice.webp
 servings: 1
 prepTime: 15
 cookTime: 20

@@ -2,7 +2,7 @@
 title: "Deep-fried Tofu"
 recipeId: dh-deep-fried-tofu
 description: "Dubu House-inspired korean appetizers recreating 黃金酥炸嫩豆腐 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-deep-fried-tofu.svg
+coverImage: /images/recipes/dh-deep-fried-tofu.webp
 servings: 2
 prepTime: 18
 cookTime: 16

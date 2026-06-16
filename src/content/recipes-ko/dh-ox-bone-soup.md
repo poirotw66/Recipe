@@ -2,7 +2,7 @@
 title: 神仙霜降雪濃湯 스타일 레시피
 recipeId: dh-ox-bone-soup
 description: 涓豆腐 神仙霜降雪濃湯 를 집에서 재현하는 셰프 추천 레시피입니다.
-coverImage: /images/recipes/dh-ox-bone-soup.svg
+coverImage: /images/recipes/dh-ox-bone-soup.webp
 servings: 2
 prepTime: 25
 cookTime: 20

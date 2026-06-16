@@ -2,7 +2,7 @@
 title: "Stired-fried Fish Fillet with Vegetables"
 recipeId: dh-stired-fried-fish-fillet-with-vegetables
 description: "Dubu House-inspired korean mains recreating 田園醬燒飛虎魚 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-stired-fried-fish-fillet-with-vegetables.svg
+coverImage: /images/recipes/dh-stired-fried-fish-fillet-with-vegetables.webp
 servings: 2
 prepTime: 22
 cookTime: 22

@@ -2,7 +2,7 @@
 title: Ginseng Chicken Soup
 recipeId: dh-ginseng-chicken-hot-pot
 description: "Dubu House-inspired korean mains recreating 韓國人蔘雞火鍋 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-ginseng-chicken-hot-pot.svg
+coverImage: /images/recipes/dh-ginseng-chicken-hot-pot.webp
 servings: 2
 prepTime: 22
 cookTime: 22

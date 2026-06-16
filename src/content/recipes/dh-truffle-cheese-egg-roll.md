@@ -1,7 +1,7 @@
 ---
 title: 松露韓式起司烘蛋捲
 description: 參考涓豆腐常見做法還原 松露韓式起司烘蛋捲，保留 季節限定 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-truffle-cheese-egg-roll.svg
+coverImage: /images/recipes/dh-truffle-cheese-egg-roll.webp
 servings: 2
 prepTime: 22
 cookTime: 20

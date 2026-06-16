@@ -1,7 +1,7 @@
 ---
 title: 春川辣炒雞
 description: 參考涓豆腐常見做法還原 春川辣炒雞，保留 特色料理 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-spicy-stired-fried-chicken.svg
+coverImage: /images/recipes/dh-spicy-stired-fried-chicken.webp
 servings: 2
 prepTime: 22
 cookTime: 22

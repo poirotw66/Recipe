@@ -2,7 +2,7 @@
 title: 珍珠豆腐冰淇淋 스타일 레시피
 recipeId: dh-tofu-ice-cream-with-tapioca
 description: 涓豆腐 珍珠豆腐冰淇淋 를 집에서 재현하는 디저트 레시피입니다.
-coverImage: /images/recipes/dh-tofu-ice-cream-with-tapioca.svg
+coverImage: /images/recipes/dh-tofu-ice-cream-with-tapioca.webp
 servings: 2
 prepTime: 15
 cookTime: 12

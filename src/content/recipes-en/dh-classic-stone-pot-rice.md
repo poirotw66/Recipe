@@ -2,7 +2,7 @@
 title: Stone Pot Rice
 recipeId: dh-classic-stone-pot-rice
 description: "Dubu House-inspired stone pot rice recreating 韓式石鍋飯 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-classic-stone-pot-rice.svg
+coverImage: /images/recipes/dh-classic-stone-pot-rice.webp
 servings: 1
 prepTime: 15
 cookTime: 20

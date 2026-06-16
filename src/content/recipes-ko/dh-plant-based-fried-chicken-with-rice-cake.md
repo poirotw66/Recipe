@@ -2,7 +2,7 @@
 title: 植感炸雞年糕 스타일 레시피
 recipeId: dh-plant-based-fried-chicken-with-rice-cake
 description: 涓豆腐 植感炸雞年糕 를 집에서 재현하는 한국식 메인 레시피입니다.
-coverImage: /images/recipes/dh-plant-based-fried-chicken-with-rice-cake.svg
+coverImage: /images/recipes/dh-plant-based-fried-chicken-with-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

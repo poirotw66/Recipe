@@ -2,7 +2,7 @@
 title: 絲瓜鮮蔬煎餅 再現レシピ
 recipeId: dh-vegetable-pancake
 description: 涓豆腐の 絲瓜鮮蔬煎餅 を家庭で再現する、韓国主菜 向けレシピです。
-coverImage: /images/recipes/dh-vegetable-pancake.svg
+coverImage: /images/recipes/dh-vegetable-pancake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

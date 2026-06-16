@@ -2,7 +2,7 @@
 title: 蜂蜜蒜味韓式炸雞 스타일 레시피
 recipeId: dh-honey-garlic-korean-fried-chicken
 description: 涓豆腐 蜂蜜蒜味韓式炸雞 를 집에서 재현하는 셰프 추천 레시피입니다.
-coverImage: /images/recipes/dh-honey-garlic-korean-fried-chicken.svg
+coverImage: /images/recipes/dh-honey-garlic-korean-fried-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 20

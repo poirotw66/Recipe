@@ -1,7 +1,7 @@
 ---
 title: 韓式爆漿黑糖餅
 description: 參考涓豆腐常見做法還原 韓式爆漿黑糖餅，保留 甜品 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-brown-sugar-pancake.svg
+coverImage: /images/recipes/dh-brown-sugar-pancake.webp
 servings: 2
 prepTime: 15
 cookTime: 12

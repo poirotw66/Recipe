@@ -2,7 +2,7 @@
 title: Steamed Eggs with Cheese & Roe
 recipeId: dh-steamed-eggs-with-cheese-roe
 description: "Dubu House-inspired korean appetizers recreating 魚卵起司陶鍋蛋 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-steamed-eggs-with-cheese-roe.svg
+coverImage: /images/recipes/dh-steamed-eggs-with-cheese-roe.webp
 servings: 2
 prepTime: 18
 cookTime: 16

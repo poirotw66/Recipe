@@ -2,7 +2,7 @@
 title: 韓式酥炸脆薯 스타일 레시피
 recipeId: dh-french-fries-with-korean-flavored-sauce
 description: 涓豆腐 韓式酥炸脆薯 를 집에서 재현하는 한국식 전채 레시피입니다.
-coverImage: /images/recipes/dh-french-fries-with-korean-flavored-sauce.svg
+coverImage: /images/recipes/dh-french-fries-with-korean-flavored-sauce.webp
 servings: 2
 prepTime: 18
 cookTime: 16

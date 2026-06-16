@@ -2,7 +2,7 @@
 title: Tofu Ice Cream with Tapioca
 recipeId: dh-tofu-ice-cream-with-tapioca
 description: "Dubu House-inspired desserts recreating 珍珠豆腐冰淇淋 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-tofu-ice-cream-with-tapioca.svg
+coverImage: /images/recipes/dh-tofu-ice-cream-with-tapioca.webp
 servings: 2
 prepTime: 15
 cookTime: 12

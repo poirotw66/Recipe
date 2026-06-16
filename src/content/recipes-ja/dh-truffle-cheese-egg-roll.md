@@ -2,7 +2,7 @@
 title: 松露韓式起司烘蛋捲 再現レシピ
 recipeId: dh-truffle-cheese-egg-roll
 description: 涓豆腐の 松露韓式起司烘蛋捲 を家庭で再現する、季節限定 向けレシピです。
-coverImage: /images/recipes/dh-truffle-cheese-egg-roll.svg
+coverImage: /images/recipes/dh-truffle-cheese-egg-roll.webp
 servings: 2
 prepTime: 22
 cookTime: 20

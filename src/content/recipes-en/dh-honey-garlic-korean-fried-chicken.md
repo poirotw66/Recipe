@@ -2,7 +2,7 @@
 title: Korean Fried Chicken
 recipeId: dh-honey-garlic-korean-fried-chicken
 description: "Dubu House-inspired chef specials recreating 蜂蜜蒜味韓式炸雞 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-honey-garlic-korean-fried-chicken.svg
+coverImage: /images/recipes/dh-honey-garlic-korean-fried-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 20

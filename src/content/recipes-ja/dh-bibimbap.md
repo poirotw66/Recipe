@@ -2,7 +2,7 @@
 title: 石燒拌飯 再現レシピ
 recipeId: dh-bibimbap
 description: 涓豆腐の 石燒拌飯 を家庭で再現する、石焼ご飯 向けレシピです。
-coverImage: /images/recipes/dh-bibimbap.svg
+coverImage: /images/recipes/dh-bibimbap.webp
 servings: 1
 prepTime: 15
 cookTime: 20

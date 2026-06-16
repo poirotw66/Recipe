@@ -2,7 +2,7 @@
 title: Korean Fried Chicken
 recipeId: dh-cajun-korean-fried-chicken
 description: "Dubu House-inspired chef specials recreating 肯瓊醬韓式炸雞 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-cajun-korean-fried-chicken.svg
+coverImage: /images/recipes/dh-cajun-korean-fried-chicken.webp
 servings: 2
 prepTime: 25
 cookTime: 20

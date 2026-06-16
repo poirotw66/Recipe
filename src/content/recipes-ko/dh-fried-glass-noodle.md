@@ -2,7 +2,7 @@
 title: 韓式炒冬粉 스타일 레시피
 recipeId: dh-fried-glass-noodle
 description: 涓豆腐 韓式炒冬粉 를 집에서 재현하는 한국식 전채 레시피입니다.
-coverImage: /images/recipes/dh-fried-glass-noodle.svg
+coverImage: /images/recipes/dh-fried-glass-noodle.webp
 servings: 2
 prepTime: 18
 cookTime: 16

@@ -2,7 +2,7 @@
 title: 韓式酥炸脆薯 再現レシピ
 recipeId: dh-french-fries-with-korean-flavored-sauce
 description: 涓豆腐の 韓式酥炸脆薯 を家庭で再現する、韓国前菜 向けレシピです。
-coverImage: /images/recipes/dh-french-fries-with-korean-flavored-sauce.svg
+coverImage: /images/recipes/dh-french-fries-with-korean-flavored-sauce.webp
 servings: 2
 prepTime: 18
 cookTime: 16

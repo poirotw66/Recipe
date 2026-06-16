@@ -1,7 +1,7 @@
 ---
 title: 黃金雞石鍋飯
 description: 參考涓豆腐常見做法還原 黃金雞石鍋飯，保留 石鍋飯 系列的湯頭層次、配料比例與上桌份量。
-coverImage: /images/recipes/dh-golden-chicken-stone-pot-rice.svg
+coverImage: /images/recipes/dh-golden-chicken-stone-pot-rice.webp
 servings: 1
 prepTime: 15
 cookTime: 20

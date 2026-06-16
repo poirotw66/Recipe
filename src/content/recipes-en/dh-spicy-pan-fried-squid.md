@@ -2,7 +2,7 @@
 title: "Spicy Pan-fried Squid"
 recipeId: dh-spicy-pan-fried-squid
 description: "Dubu House-inspired korean mains recreating 辣炒中卷 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-spicy-pan-fried-squid.svg
+coverImage: /images/recipes/dh-spicy-pan-fried-squid.webp
 servings: 2
 prepTime: 22
 cookTime: 22

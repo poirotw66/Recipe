@@ -2,7 +2,7 @@
 title: "Plant-Based Fried Chicken with Rice Cake"
 recipeId: dh-plant-based-fried-chicken-with-rice-cake
 description: "Dubu House-inspired korean mains recreating 植感炸雞年糕 with restaurant-style broth depth and plating."
-coverImage: /images/recipes/dh-plant-based-fried-chicken-with-rice-cake.svg
+coverImage: /images/recipes/dh-plant-based-fried-chicken-with-rice-cake.webp
 servings: 2
 prepTime: 22
 cookTime: 22

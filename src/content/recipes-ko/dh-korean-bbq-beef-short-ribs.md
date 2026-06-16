@@ -2,7 +2,7 @@
 title: 韓式BBQ鐵板翼板牛 스타일 레시피
 recipeId: dh-korean-bbq-beef-short-ribs
 description: 涓豆腐 韓式BBQ鐵板翼板牛 를 집에서 재현하는 셰프 추천 레시피입니다.
-coverImage: /images/recipes/dh-korean-bbq-beef-short-ribs.svg
+coverImage: /images/recipes/dh-korean-bbq-beef-short-ribs.webp
 servings: 2
 prepTime: 25
 cookTime: 20

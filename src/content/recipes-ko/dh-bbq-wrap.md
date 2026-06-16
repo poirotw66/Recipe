@@ -2,7 +2,7 @@
 title: 醬燒青蔥牛五花/豬梅花 스타일 레시피
 recipeId: dh-bbq-wrap
 description: 涓豆腐 醬燒青蔥牛五花/豬梅花 를 집에서 재현하는 셰프 추천 레시피입니다.
-coverImage: /images/recipes/dh-bbq-wrap.svg
+coverImage: /images/recipes/dh-bbq-wrap.webp
 servings: 2
 prepTime: 25
 cookTime: 20
