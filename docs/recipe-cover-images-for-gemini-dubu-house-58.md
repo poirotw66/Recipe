@@ -23,9 +23,9 @@
 
 ## 圖片進度狀態
 
-- ⬜ **進行中（已完成 35 篇，剩餘 23 篇）**
-  - ✅ DH-01 ~ DH-35 (已產生 WebP 並更新四語系 Frontmatter)
-  - ⬜ DH-36 ~ DH-58 (待完成，因已達繪圖模型 API 容量上限 429，預計於 2026-06-16T15:17:00+08:00 後可繼續)
+- ⬜ **進行中（已完成 52 篇，剩餘 6 篇）**
+  - ✅ DH-01 ~ DH-52 (已產生 WebP 並更新四語系 Frontmatter)
+  - ⬜ DH-53 ~ DH-58 (待完成，因已達繪圖模型 API 容量上限 429，預計於 2026-06-16T20:17:00+08:00 後可繼續)
 
 ### 詳細進度清單
 
@@ -64,23 +64,23 @@
 - [x] **DH-33** 起司馬鈴薯煎餅 (`dh-potato-pancake-with-cheese`)
 - [x] **DH-34** 植感炸雞年糕 (`dh-plant-based-fried-chicken-with-rice-cake`)
 - [x] **DH-35** 起司玫瑰醬魷魚年糕 (`dh-cheese-pink-sauce-fried-squid-with-rice-cake`)
-- [ ] **DH-36** 絲瓜鮮蔬煎餅 (`dh-vegetable-pancake`)
-- [ ] **DH-37** 田園醬燒飛虎魚 (`dh-stired-fried-fish-fillet-with-vegetables`)
-- [ ] **DH-38** 海鮮辣炒年糕 (`dh-spicy-pan-fried-seafood-rice-cake`)
-- [ ] **DH-39** 辣炒中卷 (`dh-spicy-pan-fried-squid`)
-- [ ] **DH-40** 春川辣炒雞 (`dh-spicy-stired-fried-chicken`)
-- [ ] **DH-41** 人蔘砂鍋雞 (`dh-ginseng-chicken-clay-pot`)
-- [ ] **DH-42** 韓國人蔘雞火鍋 (`dh-ginseng-chicken-hot-pot`)
-- [ ] **DH-43** 韓式BBQ鐵板翼板牛 (`dh-korean-bbq-beef-short-ribs`)
-- [ ] **DH-44** 肯瓊醬韓式炸雞 (`dh-cajun-korean-fried-chicken`)
-- [ ] **DH-45** 洋蔥白醬韓式炸雞 (`dh-creamy-onion-korean-fried-chicken`)
-- [ ] **DH-46** 蜂蜜蒜味韓式炸雞 (`dh-honey-garlic-korean-fried-chicken`)
-- [ ] **DH-47** 原味韓式炸雞 (`dh-original-korean-fried-chicken`)
-- [ ] **DH-48** 辣味韓式炸雞 (`dh-spicy-korean-fried-chicken`)
-- [ ] **DH-49** 醬味韓式炸雞 (`dh-bbq-korean-fried-chicken`)
-- [ ] **DH-50** 韓式起司烘蛋捲 (`dh-korean-cheese-egg-roll`)
-- [ ] **DH-51** 韓國糖醋肉 (`dh-korean-sweet-and-sour-pork`)
-- [ ] **DH-52** 巨濟島炸牡蠣 (`dh-fried-oysters`)
+- [x] **DH-36** 絲瓜鮮蔬煎餅 (`dh-vegetable-pancake`)
+- [x] **DH-37** 田園醬燒飛虎魚 (`dh-stired-fried-fish-fillet-with-vegetables`)
+- [x] **DH-38** 海鮮辣炒年糕 (`dh-spicy-pan-fried-seafood-rice-cake`)
+- [x] **DH-39** 辣炒中卷 (`dh-spicy-pan-fried-squid`)
+- [x] **DH-40** 春川辣炒雞 (`dh-spicy-stired-fried-chicken`)
+- [x] **DH-41** 人蔘砂鍋雞 (`dh-ginseng-chicken-clay-pot`)
+- [x] **DH-42** 韓國人蔘雞火鍋 (`dh-ginseng-chicken-hot-pot`)
+- [x] **DH-43** 韓式BBQ鐵板翼板牛 (`dh-korean-bbq-beef-short-ribs`)
+- [x] **DH-44** 肯瓊醬韓式炸雞 (`dh-cajun-korean-fried-chicken`)
+- [x] **DH-45** 洋蔥白醬韓式炸雞 (`dh-creamy-onion-korean-fried-chicken`)
+- [x] **DH-46** 蜂蜜蒜味韓式炸雞 (`dh-honey-garlic-korean-fried-chicken`)
+- [x] **DH-47** 原味韓式炸雞 (`dh-original-korean-fried-chicken`)
+- [x] **DH-48** 辣味韓式炸雞 (`dh-spicy-korean-fried-chicken`)
+- [x] **DH-49** 醬味韓式炸雞 (`dh-bbq-korean-fried-chicken`)
+- [x] **DH-50** 韓式起司烘蛋捲 (`dh-korean-cheese-egg-roll`)
+- [x] **DH-51** 韓國糖醋肉 (`dh-korean-sweet-and-sour-pork`)
+- [x] **DH-52** 巨濟島炸牡蠣 (`dh-fried-oysters`)
 - [ ] **DH-53** 泡菜豆腐煎餅 (`dh-kimchi-tofu-pancake`)
 - [ ] **DH-54** 綜合海鮮煎餅 (`dh-seafood-pancake`)
 - [ ] **DH-55** 醬燒青蔥牛五花/豬梅花 (`dh-bbq-wrap`)
