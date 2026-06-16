@@ -147,6 +147,17 @@
     "restaurantReplicasLiveTitle": "Follow the steps—no shortcuts",
     "restaurantReplicasSecondary": "Restaurant-style portions",
     "restaurantReplicasPlanned": "Planned",
-    "restaurantReplicasCatalogEyebrow": "Planned replicas"
+    "restaurantReplicasCatalogEyebrow": "Planned replicas",
+    "restaurantFilterAll": "All",
+    "restaurantFilterSecondFloor": "Second Floor Cafe",
+    "restaurantFilterDubuHouse": "Dubu House",
+    "restaurantReplicasPlannedTitle": "Other Upcoming Restaurants",
+    "brandSpecialShowcase": "Brand Showcases",
+    "brandSpecialBack": "Back to Restaurant Replicas",
+    "brandSpecialView": "View Brand Page",
+    "brandSpecialCompletion": "Replication Rate",
+    "brandSpecialSignature": "Signature Dishes",
+    "brandSpecialMenu": "Full Replicated Menu",
+    "brandSpecialIntro": "Brand Statistics"
   }
 }

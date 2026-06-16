@@ -24,6 +24,12 @@ const searchableText = [
 ]
   .join(" ")
   .toLowerCase();
+let brand = "other";
+if (recipe.slug.startsWith("sf-")) {
+  brand = "second-floor-cafe";
+} else if (recipe.slug.startsWith("dh-")) {
+  brand = "dubu-house";
+}
 ---
 
 <article
@@ -32,6 +38,7 @@ const searchableText = [
   data-recipe-category={recipe.data.category}
   data-recipe-time={String(recipe.data.totalTime)}
   data-recipe-equipment={equipmentText}
+  data-brand={brand}
 >
   <a class="recipe-card__link" href={recipeHref}>
     <RecipeImage src={recipe.data.coverImage} alt={`${recipe.data.title}成品圖`} />

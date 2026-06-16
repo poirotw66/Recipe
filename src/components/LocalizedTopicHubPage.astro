@@ -109,6 +109,51 @@ const tierLabels: Record<string, string> = {
       {
         hubSlug === "restaurant-replicas" ? (
           <>
+            {/* Brand Showcase Section */}
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">{t(locale, "brandSpecialShowcase")}</p>
+                  <h2>{t(locale, "brandSpecialIntro")}</h2>
+                </div>
+              </div>
+              <div class="brand-showcases-grid">
+                <article class="brand-card">
+                  <div>
+                    <div class="chip-row">
+                      <span class="chip success">{t(locale, "brandSpecialCompletion")}: {hubRecipes.filter(r => r.slug.startsWith('sf-')).length}/70</span>
+                      <span class="chip note">100%</span>
+                    </div>
+                    <h3>貳樓 Second Floor Cafe</h3>
+                    <p class="brand-meta">
+                      {locale === "zh-TW" ? "全台連鎖早午餐品牌。包含熱門班尼迪克蛋、燉飯麵食與主廚甜點全系列還原。" :
+                       locale === "en" ? "Famous Taiwanese brunch chain. Fully replicated Benedicts, pastas, risottos, and chef desserts." :
+                       locale === "ja" ? "台湾で大人気のブランチチェーン。エッグベネディクト、パスタ、リゾット、特製デザートの完全再現。" :
+                       "대만 인기 브런치 체인. 에그 베네딕트, 파스타, 리조토, 셰프 디저트 전 메뉴 완전 재현."}
+                    </p>
+                  </div>
+                  <a href={localePath(locale, "/restaurant-replicas/second-floor-cafe")} class="button small">{t(locale, "brandSpecialView")}</a>
+                </article>
+                
+                <article class="brand-card">
+                  <div>
+                    <div class="chip-row">
+                      <span class="chip success">{t(locale, "brandSpecialCompletion")}: {hubRecipes.filter(r => r.slug.startsWith('dh-')).length}/58</span>
+                      <span class="chip note">100%</span>
+                    </div>
+                    <h3>涓豆腐 Dubu House</h3>
+                    <p class="brand-meta">
+                      {locale === "zh-TW" ? "韓式第一連鎖品牌。包含經典豆腐煲系列、石鍋飯與蜂蜜蒜味炸雞全系列還原。" :
+                       locale === "en" ? "Top Korean soft tofu stew chain. Fully replicated soondubu, stone pot rice, and fried chicken." :
+                       locale === "ja" ? "韓国の純豆腐チゲ専門店。定番の純豆腐チゲ、石釜ご飯、韓国風フライドチキンの完全再現。" :
+                       "대한민국 대표 순두부찌개 전문점. 대표 순두부찌개, 돌솥밥, 한국식 치킨 전 메뉴 완전 재현."}
+                    </p>
+                  </div>
+                  <a href={localePath(locale, "/restaurant-replicas/dubu-house")} class="button small">{t(locale, "brandSpecialView")}</a>
+                </article>
+              </div>
+            </section>
+
             <section class="hub-section">
               <div class="hub-section__head">
                 <div>
@@ -119,6 +164,15 @@ const tierLabels: Record<string, string> = {
                   {hubRecipes.length} {t(locale, "taxonomy.topicHubCount")}
                 </span>
               </div>
+
+              <div class="filter-tabs-wrapper" style="margin-bottom: var(--space-6);">
+                <div class="filter-tabs" style="display: flex; gap: var(--space-2); flex-wrap: wrap;">
+                  <button class="button filter-tab active" data-filter="all">{t(locale, "restaurantFilterAll")}</button>
+                  <button class="button note filter-tab" data-filter="second-floor-cafe">{t(locale, "restaurantFilterSecondFloor").replace(" Second Floor Cafe", "")} ({hubRecipes.filter(r => r.slug.startsWith('sf-')).length})</button>
+                  <button class="button note filter-tab" data-filter="dubu-house">{t(locale, "restaurantFilterDubuHouse").replace(" Dubu House", "")} ({hubRecipes.filter(r => r.slug.startsWith('dh-')).length})</button>
+                </div>
+              </div>
+
               {hubRecipes.length === 0 ? (
                 <article class="card empty-panel">
                   <div class="card-body">
@@ -127,13 +181,97 @@ const tierLabels: Record<string, string> = {
                   </div>
                 </article>
               ) : (
-                <div class="grid">
+                <div class="grid recipes-grid-container">
                   {hubRecipes.map((recipe) => (
                     <RecipeCard recipe={recipe} locale={locale} />
                   ))}
                 </div>
               )}
             </section>
+
+            <style>
+              .filter-tab {
+                transition: background-color 0.2s, color 0.2s;
+                cursor: pointer;
+              }
+              .filter-tab.active {
+                background-color: var(--scallion) !important;
+                color: #fff !important;
+                border-color: var(--scallion-deep) !important;
+              }
+              .brand-showcases-grid {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: var(--space-4);
+                margin-bottom: var(--space-8);
+              }
+              @media (min-width: 720px) {
+                .brand-showcases-grid {
+                  grid-template-columns: 1fr 1fr;
+                }
+              }
+              .brand-card {
+                border: 1px solid var(--bran-line);
+                border-radius: var(--radius-md);
+                background: var(--porcelain);
+                padding: var(--space-6);
+                box-shadow: var(--shadow-sm);
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                transition: transform 0.2s, box-shadow 0.2s;
+              }
+              .brand-card:hover {
+                transform: translateY(-2px);
+                box-shadow: var(--shadow-md);
+              }
+              .brand-card h3 {
+                margin-top: var(--space-2);
+                margin-bottom: var(--space-2);
+              }
+              .brand-card .brand-meta {
+                font-size: var(--small);
+                color: var(--mushroom);
+                margin-bottom: var(--space-4);
+                line-height: 1.5;
+              }
+              .recipes-grid-container .recipe-card {
+                transition: opacity 0.2s ease, transform 0.2s ease;
+              }
+            </style>
+
+            <script>
+              const tabs = document.querySelectorAll('.filter-tab');
+              const cards = document.querySelectorAll('.recipes-grid-container .recipe-card');
+
+              tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                  tabs.forEach(t => t.classList.remove('active'));
+                  tab.classList.add('active');
+
+                  const filterValue = tab.getAttribute('data-filter');
+
+                  cards.forEach(card => {
+                    const brand = card.getAttribute('data-brand');
+                    const el = card as HTMLElement;
+                    
+                    if (filterValue === 'all' || brand === filterValue) {
+                      el.style.display = 'block';
+                      setTimeout(() => {
+                        el.style.opacity = '1';
+                        el.style.transform = 'scale(1)';
+                      }, 10);
+                    } else {
+                      el.style.opacity = '0';
+                      el.style.transform = 'scale(0.95)';
+                      setTimeout(() => {
+                        el.style.display = 'none';
+                      }, 200);
+                    }
+                  });
+                });
+              });
+            </script>
 
             {
               catalog.categories.map((category) => (

@@ -142,6 +142,17 @@
     "restaurantReplicasLiveTitle": "手順どおりに再現",
     "restaurantReplicasSecondary": "名店の味わいを再現",
     "restaurantReplicasPlanned": "準備中",
-    "restaurantReplicasCatalogEyebrow": "予定の再現メニュー"
+    "restaurantReplicasCatalogEyebrow": "予定の再現メニュー",
+    "restaurantFilterAll": "すべて",
+    "restaurantFilterSecondFloor": "貳樓 Second Floor Cafe",
+    "restaurantFilterDubuHouse": "涓豆腐 Dubu House",
+    "restaurantReplicasPlannedTitle": "その他の予定店舗",
+    "brandSpecialShowcase": "ブランド特設エリア",
+    "brandSpecialBack": "名店再現エリアに戻る",
+    "brandSpecialView": "ブランドページを見る",
+    "brandSpecialCompletion": "再現達成率",
+    "brandSpecialSignature": "おすすめ看板メニュー",
+    "brandSpecialMenu": "完全再現メニュー",
+    "brandSpecialIntro": "店舗再現データ"
   }
 }

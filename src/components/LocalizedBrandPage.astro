@@ -1,0 +1,293 @@
+---
+import JsonLd from "./JsonLd.astro";
+import RecipeCard from "./RecipeCard.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import catalog from "../data/restaurant-replica-catalog.json";
+import { localePath, t, type Locale } from "../lib/i18n";
+import { listRecipesForLocale } from "../lib/recipe-locale";
+import { sortRecipesByPublishedDate } from "../lib/recipes";
+import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd } from "../lib/seo";
+
+interface Props {
+  brandSlug: "second-floor-cafe" | "dubu-house";
+  locale: Locale;
+}
+
+const { brandSlug, locale } = Astro.props;
+
+// 1. Get Brand Catalog configuration
+const categoryData = catalog.categories.find(c => c.slug === brandSlug);
+const brandData = categoryData?.restaurants[0];
+
+if (!brandData) {
+  throw new Error(`Brand not found in catalog: ${brandSlug}`);
+}
+
+// 2. Fetch and filter recipes for this brand
+const allRecipes = sortRecipesByPublishedDate(await listRecipesForLocale(locale));
+const prefix = brandData.recipePrefix; // 'sf-' or 'dh-'
+const brandRecipes = allRecipes.filter(r => r.slug.startsWith(prefix));
+
+// 3. Define brand specific visual metadata
+const brandConfig = {
+  "second-floor-cafe": {
+    zhName: "貳樓 Second Floor Cafe",
+    enName: "Second Floor Cafe",
+    cover: "/images/recipes/sf-dawn-shrimp-chicken-linguine.webp",
+    totalPlanned: 70,
+    accentColor: "var(--egg-yolk)"
+  },
+  "dubu-house": {
+    zhName: "涓豆腐 Dubu House",
+    enName: "Dubu House",
+    cover: "/images/recipes/dh-classic-soondubu.webp",
+    totalPlanned: 58,
+    accentColor: "var(--tomato)"
+  }
+}[brandSlug];
+
+const brandName = locale === "zh-TW" ? brandConfig.zhName : brandConfig.enName;
+const brandDesc = locale === "zh-TW" ? brandData.description :
+                 locale === "en" ? (brandSlug === "second-floor-cafe" ? "Famous Taiwanese brunch chain. Fully replicated Benedicts, pastas, risottos, and chef desserts." : "Top Korean soft tofu stew chain. Fully replicated soondubu, stone pot rice, and fried chicken.") :
+                 locale === "ja" ? (brandSlug === "second-floor-cafe" ? "台湾で大人気のブランチチェーン。エッグベネディクト、パスタ、リゾット、特製デザートの完全再現。" : "韓国の純豆腐チゲ専門店。定番の純豆腐チゲ、石釜ご飯、韓国風フライドチキンの完全再現。") :
+                 (brandSlug === "second-floor-cafe" ? "대만 인기 브런치 체인. 에그 베네딕트, 파스타, 리조토, 셰프 디저트 전 메뉴 완전 재현." : "대한민국 대표 순두부찌개 전문점. 대표 순두부찌개, 돌솥밥, 한국식 치킨 전 메뉴 완전 재현.");
+
+// 4. Calculate stats
+const totalPlanned = brandConfig.totalPlanned;
+const publishedCount = brandRecipes.length;
+const completionPercent = Math.min(100, Math.round((publishedCount / totalPlanned) * 100));
+
+// 5. Group recipes by category
+const recipesByCategory: Record<string, typeof brandRecipes> = {};
+brandRecipes.forEach(recipe => {
+  const cat = recipe.data.category || (locale === "zh-TW" ? "其他" : "Others");
+  if (!recipesByCategory[cat]) {
+    recipesByCategory[cat] = [];
+  }
+  recipesByCategory[cat].push(recipe);
+});
+
+// 6. Identify signature dishes
+const signatureSlugs = brandData.signatureDishes.map(d => d.slug).filter(Boolean) as string[];
+const signatureRecipes = brandRecipes.filter(r => signatureSlugs.includes(r.slug));
+
+// 7. SEO
+const canonical = localePath(locale, `/restaurant-replicas/${brandSlug}`);
+const seoTitle = locale === "zh-TW" ? `${brandName} 還原專區 | Bloom Kitchen 今天煮什麼` : `${brandName} Replica Showcase | Bloom Kitchen`;
+const seoDescription = brandDesc;
+const collectionJsonLd = buildCollectionPageJsonLd(seoTitle, seoDescription, canonical);
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: t(locale, "nav.home"), path: localePath(locale, "/") },
+  { name: t(locale, "nav.restaurantReplicas"), path: localePath(locale, "/restaurant-replicas") },
+  { name: brandName, path: canonical }
+]);
+---
+
+<BaseLayout
+  title={seoTitle}
+  description={seoDescription}
+  canonicalPath={canonical}
+  alternatePath={`/restaurant-replicas/${brandSlug}`}
+  locale={locale}
+>
+  <JsonLd data={collectionJsonLd} />
+  <JsonLd data={breadcrumbJsonLd} />
+
+  {/* Brand Hero Banner */}
+  <header class="brand-hero" style={`background-image: linear-gradient(rgba(45, 38, 32, 0.65), rgba(45, 38, 32, 0.85)), url(${brandConfig.cover});`}>
+    <div class="container brand-hero__content">
+      <a href={localePath(locale, "/restaurant-replicas")} class="brand-hero__back-link">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 4px; vertical-align: middle;"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+        {t(locale, "brandSpecialBack")}
+      </a>
+      <p class="eyebrow brand-hero__eyebrow">{t(locale, "brandSpecialShowcase")}</p>
+      <h1 class="brand-hero__title">{brandName}</h1>
+      <p class="brand-hero__desc">{brandDesc}</p>
+    </div>
+  </header>
+
+  <section class="section brand-body">
+    <div class="container">
+      {/* Progress Board */}
+      <div class="progress-board card">
+        <div class="progress-board__header">
+          <h3>{t(locale, "brandSpecialIntro")}</h3>
+          <span class="progress-board__badge chip success">{completionPercent}% Completed</span>
+        </div>
+        <div class="progress-board__metrics">
+          <div class="metric">
+            <span class="metric__label">{t(locale, "brandSpecialCompletion")}</span>
+            <span class="metric__val">{publishedCount} / {totalPlanned} {t(locale, "taxonomy.topicHubCount")}</span>
+          </div>
+          <div class="progress-bar-container">
+            <div class="progress-bar" style={`width: ${completionPercent}%; background-color: ${brandConfig.accentColor};`}></div>
+          </div>
+        </div>
+      </div>
+
+      {/* Signature Spotlights */}
+      {signatureRecipes.length > 0 && (
+        <section class="hub-section">
+          <div class="hub-section__head">
+            <div>
+              <p class="eyebrow">{brandName}</p>
+              <h2>{t(locale, "brandSpecialSignature")}</h2>
+            </div>
+          </div>
+          <div class="grid signature-grid">
+            {signatureRecipes.map((recipe) => (
+              <RecipeCard recipe={recipe} locale={locale} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Full Replicated Menu Groups */}
+      <section class="hub-section">
+        <div class="hub-section__head brand-menu-head">
+          <div>
+            <p class="eyebrow">{brandName}</p>
+            <h2>{t(locale, "brandSpecialMenu")}</h2>
+          </div>
+        </div>
+
+        {Object.entries(recipesByCategory).map(([category, list]) => (
+          <div class="menu-group">
+            <h3 class="menu-group__title">{category}</h3>
+            <div class="grid">
+              {list.map((recipe) => (
+                <RecipeCard recipe={recipe} locale={locale} />
+              ))}
+            </div>
+          </div>
+        ))}
+      </section>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .brand-hero {
+    background-size: cover;
+    background-position: center;
+    color: var(--rice);
+    padding: var(--space-12) 0;
+    text-align: left;
+  }
+  .brand-hero__content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 var(--space-4);
+  }
+  .brand-hero__back-link {
+    color: var(--board);
+    text-decoration: none;
+    font-size: var(--small);
+    font-weight: 500;
+    display: inline-block;
+    margin-bottom: var(--space-4);
+    transition: color 0.2s;
+  }
+  .brand-hero__back-link:hover {
+    color: var(--rice);
+  }
+  .brand-hero__eyebrow {
+    color: var(--champagne);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: var(--space-2);
+  }
+  .brand-hero__title {
+    font-family: var(--font-serif);
+    font-size: var(--display);
+    margin-bottom: var(--space-3);
+    line-height: 1.2;
+    color: #fff;
+  }
+  .brand-hero__desc {
+    font-size: var(--body);
+    line-height: 1.6;
+    color: var(--cooker);
+  }
+  .brand-body {
+    padding-top: var(--space-8);
+  }
+  .progress-board {
+    background: var(--porcelain);
+    border: 1px solid var(--bran-line);
+    border-radius: var(--radius-md);
+    padding: var(--space-6);
+    box-shadow: var(--shadow-sm);
+    margin-top: calc(-1 * var(--space-12));
+    margin-bottom: var(--space-8);
+    position: relative;
+    z-index: 10;
+  }
+  .progress-board__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--space-4);
+    border-bottom: 1px solid var(--bran-line);
+    padding-bottom: var(--space-3);
+  }
+  .progress-board__header h3 {
+    margin: 0;
+    font-family: var(--font-serif);
+  }
+  .progress-board__metrics {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+  .metric {
+    display: flex;
+    justify-content: space-between;
+    font-size: var(--small);
+    color: var(--mushroom);
+  }
+  .metric__val {
+    font-weight: 600;
+    color: var(--soy-ink);
+  }
+  .progress-bar-container {
+    height: 8px;
+    background-color: var(--cooker);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+  }
+  .progress-bar {
+    height: 100%;
+    border-radius: var(--radius-sm);
+    transition: width 0.3s ease;
+  }
+  .signature-grid {
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 720px) {
+    .signature-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media (min-width: 1040px) {
+    .signature-grid {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+  .brand-menu-head {
+    border-bottom: 2px solid var(--board);
+    padding-bottom: var(--space-3);
+    margin-bottom: var(--space-6);
+  }
+  .menu-group {
+    margin-bottom: var(--space-8);
+  }
+  .menu-group__title {
+    font-family: var(--font-serif);
+    font-size: var(--h2);
+    color: var(--scallion);
+    border-left: 4px solid var(--scallion);
+    padding-left: var(--space-3);
+    margin-bottom: var(--space-4);
+  }
+</style>

@@ -1,0 +1,28 @@
+---
+import LocalizedBrandPage from "../../../components/LocalizedBrandPage.astro";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
+
+export function getStaticPaths() {
+  const paths: any[] = [];
+  const brands = ["second-floor-cafe", "dubu-house"];
+  const locales = localeStaticPaths();
+
+  for (const localePath of locales) {
+    for (const brand of brands) {
+      paths.push({
+        params: {
+          locale: localePath.params.locale,
+          brand
+        }
+      });
+    }
+  }
+
+  return paths;
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const { brand } = Astro.params;
+---
+
+<LocalizedBrandPage brandSlug={brand as "second-floor-cafe" | "dubu-house"} locale={locale} />

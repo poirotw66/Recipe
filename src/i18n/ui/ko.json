@@ -142,6 +142,17 @@
     "restaurantReplicasLiveTitle": "단계대로 재현하기",
     "restaurantReplicasSecondary": "맛집 풍미 재현",
     "restaurantReplicasPlanned": "준비 중",
-    "restaurantReplicasCatalogEyebrow": "예정 재현 메뉴"
+    "restaurantReplicasCatalogEyebrow": "예정 재현 메뉴",
+    "restaurantFilterAll": "전체",
+    "restaurantFilterSecondFloor": "貳樓 Second Floor Cafe",
+    "restaurantFilterDubuHouse": "涓豆腐 Dubu House",
+    "restaurantReplicasPlannedTitle": "기타 예정 맛집",
+    "brandSpecialShowcase": "브랜드 전용관",
+    "brandSpecialBack": "맛집 재현 홈으로",
+    "brandSpecialView": "브랜드 페이지로",
+    "brandSpecialCompletion": "재현 완료율",
+    "brandSpecialSignature": "추천 대표 메뉴",
+    "brandSpecialMenu": "전체 재현 메뉴",
+    "brandSpecialIntro": "매장 재현 통계"
   }
 }

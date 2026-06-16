@@ -147,6 +147,17 @@
     "restaurantReplicasLiveTitle": "照步驟還原，不刻意簡化",
     "restaurantReplicasSecondary": "盡力還原名店風味",
     "restaurantReplicasPlanned": "規劃中",
-    "restaurantReplicasCatalogEyebrow": "規劃還原菜色"
+    "restaurantReplicasCatalogEyebrow": "規劃還原菜色",
+    "restaurantFilterAll": "全部",
+    "restaurantFilterSecondFloor": "貳樓 Second Floor Cafe",
+    "restaurantFilterDubuHouse": "涓豆腐 Dubu House",
+    "restaurantReplicasPlannedTitle": "其他預告名店",
+    "brandSpecialShowcase": "品牌店家專區",
+    "brandSpecialBack": "返回名店還原專區",
+    "brandSpecialView": "進入店家專區",
+    "brandSpecialCompletion": "還原度達成率",
+    "brandSpecialSignature": "精選招牌推薦",
+    "brandSpecialMenu": "完整還原菜單",
+    "brandSpecialIntro": "店家還原度統計"
   }
 }
