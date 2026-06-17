@@ -55,19 +55,19 @@ seasonings:
   unit: ''
 intro: Shimeji, shiitake, and king oyster all work; halve large caps, leave small ones whole.
 steps:
-- "Prep: Mixed mushrooms 200g; pat protein dry and rub with Garlic 4cloves, Olive oil 1.5tbsp, Soy sauce 1tsp, Salt pinch, Black pepper pinch."
-- Wipe mushrooms clean; halve or slice large ones; pat surfaces dry.
-- Mince garlic; mix with olive oil, soy sauce, salt, and pepper into a seasoning oil.
-- Toss mushrooms with the oil; rest 3 minutes.
-- Preheat air fryer to 180°C for 3 minutes; spread in one layer.
-- Taste and adjust seasoning; serve while hot.
+- Wipe mushrooms (200 g) with a damp cloth or paper towels—avoid rinsing if possible. Halve or thick-slice large caps; leave small clusters whole; pat all surfaces dry.
+- Mince garlic (4 cloves). In a bowl, mix olive oil (1.5 tbsp), soy sauce (1 tsp), salt, and black pepper into a garlic oil.
+- Toss mushrooms thoroughly; rest 3 minutes to absorb flavor.
+- Preheat air fryer to 180°C for 3 minutes. Spread in one layer without stacking.
+- Air-fry at 180°C for 6 minutes; open and toss or flip.
+- Air-fry 5 minutes more until edges are lightly charred and mushrooms are slightly shrunk but still juicy. Garnish with scallion or shichimi if desired.
 storage: Refrigerate up to 1 day; reheat at 160°C for 3 minutes.
 faqs:
 - question: Only one mushroom type?
   answer: Yes—this method works for a single variety too.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-06-17"
 ---
 
 Low fuss, big aroma—a renter-friendly side from the air fryer.

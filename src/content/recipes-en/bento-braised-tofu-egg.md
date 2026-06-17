@@ -1,7 +1,7 @@
 ---
 title: Bento Braised Tofu and Eggs
 recipeId: bento-braised-tofu-egg
-description: Tofu and eggs braised in one potâ€”a classic bento side you can batch ahead.
+description: Tofu and eggs braised in one pot?”a classic bento side you can batch ahead.
 coverImage: /images/recipes/bento-braised-tofu-egg.webp
 servings: 1
 prepTime: 8
@@ -26,8 +26,8 @@ tips:
 - Add kelp or extra firm tofu for variety in the same braise.
 substitutions: []
 relatedIngredients:
-- è±†è…
-- é›è›‹
+- è±†è?
+- ?è?
 customAdditions: []
 ingredients:
 - name: Tofu
@@ -53,18 +53,18 @@ seasonings:
   unit: ''
 intro: Pan-fry tofu before braising so it holds shape; braise liquid can be reused.
 steps:
-- Cut tofu into blocks and pan-fry until golden on both sides; boil eggs, peel.
-- In a small pot, combine water, soy sauce, sugar, and star anise; bring to a boil.
-- Add tofu and eggs; braise on low 12 minutes.
-- Turn off heat and steep 10 minutes.
-- Cool, then packâ€”halve eggs for the box if you like.
+- Place eggs (2) in cold water; bring to a boil, then simmer 8 minutes. Cool, peel. Cut tofu into blocks; pan-fry until golden both sides.
+- In a small pot, combine water (300 ml), soy sauce (3 tbsp), rock sugar (1 tsp), and star anise (1); boil until sugar dissolves.
+- Add tofu and eggs; braise on low 12 minutes, gently turning so sauce coats evenly.
+- Turn off heat; steep 10 minutes.
+- Cool; halve eggs for the bento box. Drain excess sauce or pack separately.
 storage: Refrigerate up to 3 days; eat cold or reheat in the microwave.
 faqs:
 - question: Braise too salty?
   answer: Dilute with water and taste again, or use less soy sauce next time.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-06-17"
 ---
 
 Braised tofu and eggs are economical, make-ahead bento staples.

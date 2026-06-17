@@ -29,8 +29,8 @@ intro: "This version follows the common Dubu House prep and finishing order for 
 steps:
 - Clean and cut squid into rings. Shred onion and cut green scallion into segments.
 - Heat oil in a pan, and sauté garlic and onion.
-- "Add squid rings and stir-fry over high heat, then add Korean chili paste, chili powder, and sugar."
-- "Stir-fry until squid is cooked, add scallions, toss quickly, and serve."
+- Add squid rings and stir-fry over high heat, then add Korean chili paste, chili powder, and sugar.
+- Stir-fry until squid is cooked, add scallions, toss quickly, and serve.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -50,7 +50,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: squid
   amount: "150"

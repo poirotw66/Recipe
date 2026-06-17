@@ -31,6 +31,7 @@ steps:
 - In a bowl, whisk melted butter, sugar, eggs, and flour (or assemble pie crust and fillings); pour into molds.
 - Bake for 25–30 minutes until the cake/brownie is set but still slightly moist in the center; cool slightly.
 - Arrange on plates, add vanilla ice cream scoops or whipped cream, and drizzle with hot 無鹽奶油 30公克, 細砂糖 2大匙.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

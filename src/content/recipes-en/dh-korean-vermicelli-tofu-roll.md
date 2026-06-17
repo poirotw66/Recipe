@@ -30,7 +30,7 @@ intro: "This version follows the common Dubu House prep and finishing order for 
 steps:
 - Mash 主食材 and drain excess water. Finely chop onion and green scallion.
 - Mix tofu, onion, scallion, garlic, soy sauce, and salt, and shape into rolls.
-- "Heat oil in a skillet and pan-fry tofu rolls until golden and crispy."
+- Heat oil in a skillet and pan-fry tofu rolls until golden and crispy.
 - Plate, drizzle with toasted sesame oil for aroma, and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
@@ -51,7 +51,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: 主食材
   amount: "1"

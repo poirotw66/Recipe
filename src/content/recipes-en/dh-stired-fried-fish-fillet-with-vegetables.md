@@ -27,8 +27,8 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- "Slice mahi-mahi fillet and cut carrot and onion into thin pieces."
-- "Season fish with a pinch of salt for 10 minutes. Pan-fry in a skillet until golden on both sides."
+- Slice mahi-mahi fillet and cut carrot and onion into thin pieces.
+- Season fish with a pinch of salt for 10 minutes. Pan-fry in a skillet until golden on both sides.
 - In the same pan, sauté onion and carrot, then pour in soy sauce and sugar mixture and boil.
 - Add the cooked fish slices, toss quickly to coat with the sauce, and serve.
 tips:
@@ -50,7 +50,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: "mahi-mahi fillet"
   amount: "180"

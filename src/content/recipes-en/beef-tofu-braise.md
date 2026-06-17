@@ -1,7 +1,7 @@
 ---
 title: Braised Beef and Tofu
 recipeId: beef-tofu-braise
-description: Beef and tofu braised in a savory sauceâ€”tender, saucy, and built for rice.
+description: Beef and tofu braised in a savory sauce?”tender, saucy, and built for rice.
 coverImage: /images/recipes/beef-tofu-braise.webp
 servings: 1
 prepTime: 10
@@ -52,27 +52,28 @@ tags:
 - Braise
 intro: Use hot-pot beef slices or thin cuts; thicker pieces need up to 20 minutes braising.
 steps:
-- Slice the beef thinly against the grain. Cut tofu into cubes and pat dry. Shred the onion; mince the garlic.
-- Pan-fry the tofu until lightly golden on both sides; set aside.
-- In the same pan, stir-fry the beef and garlic over high heat until the beef is mostly colored (about 70â€“80% done), then remove the beef. SautÃ© the onion until soft.
-- Return the tofu and beef, add soy sauce, sugar, and water, cover, and braise on low 12â€“15 minutes until the sauce thickens slightly.
+- Slice beef (100 g) thinly against the grain; cut tofu (half block) into cubes and drain. Shred onion (1/4); mince garlic (2 cloves).
+- Heat olive oil (1 tbsp) over medium; pan-fry tofu until lightly golden both sides; set aside.
+- In the same pan, stir-fry beef and garlic over high heat until colored; add onion and cook until translucent.
+- Return tofu; add soy sauce (2 tbsp), sugar (1 tsp), and water (150 ml). Cover and braise on low 12??5 minutes until sauce thickens and beef is tender.
+- Taste for salt?”soy sauce may be enough. Nudge tofu gently to avoid breaking.
 tips:
 - Keep the heat low and nudge tofu from the edge of the pan so it does not break.
-- Taste before adding saltâ€”soy sauce may be enough.
+- Taste before adding salt?”soy sauce may be enough.
 storage: Refrigerate and eat within 1 day; reheat gently and splash in a little water.
 substitutions:
 - Firm tofu
 relatedIngredients:
-- ç‰›è‚‰
-- è±†è…
+- ?›è?
+- è±†è?
 - æ´‹è”¥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-06-17"
 customAdditions:
 - Scallions
 - Chili
 - Enoki mushrooms
 ---
 
-Braised beef and tofu packs protein and staying powerâ€”one bowl of rice completes the meal.
+Braised beef and tofu packs protein and staying power?”one bowl of rice completes the meal.

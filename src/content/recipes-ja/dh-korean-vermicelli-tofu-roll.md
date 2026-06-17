@@ -51,7 +51,7 @@ faqs:
   answer: スープやタレの濃度を先に整え、最後に具材を加えるのが近道です。
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: 主食材
   amount: "1"

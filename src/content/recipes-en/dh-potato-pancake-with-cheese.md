@@ -28,9 +28,10 @@ restaurantSource:
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
 - Finely shred or dice potato.
-- "In a bowl, whisk all-purpose flour, egg, salt, and water. Stir in the sliced potato, diced ham, sausage coins, sweet corn, diced bell pepper to form a thick batter."
+- In a bowl, whisk all-purpose flour, egg, salt, and water. Stir in the sliced potato, diced ham, sausage coins, sweet corn, diced bell pepper to form a thick batter.
 - Heat toasted sesame oil in a skillet, pour in the batter, and spread it thin. Fry over medium heat until bottom is crispy. Sprinkle mozzarella cheese evenly on top.
 - Flip the pancake (let cheese touch skillet to melt and crisp), drizzle toasted sesame oil, and cook until golden. Slice and serve.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -51,7 +52,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: potato
   amount: "2"

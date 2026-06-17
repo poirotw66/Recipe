@@ -27,7 +27,7 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- "Mix non-GMO soybeans to create the dessert base (knead dough for pancake, or puree soybeans for ice cream)."
+- Mix non-GMO soybeans to create the dessert base (knead dough for pancake, or puree soybeans for ice cream).
 - Heat oil or butter in a skillet and cook the base over low heat (or whip the soybean puree in a mixing bowl until fluffy).
 - Prepare tapioca pearls in brown sugar (mix brown sugar, cinnamon powder, and crushed mixed nuts, or simmer tapioca pearls in sugar syrup).
 - Combine them (stuff pancake dough and griddle until sugar melts, or drizzle tapioca pearls over tofu ice cream).
@@ -49,7 +49,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: "non-GMO soybeans"
   amount: "150"

@@ -32,7 +32,6 @@ steps:
 - Heat oil in skillet over medium; sauté garlic and onions, then add 綜合蕈菇 120公克, 起司 40公克, 義大利麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.
 - Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 松露奶油醬 3大匙, 松露醬 3大匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
 - Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
-- Taste and adjust seasoning; serve while hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

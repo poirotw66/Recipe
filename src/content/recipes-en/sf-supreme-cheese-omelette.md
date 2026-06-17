@@ -31,7 +31,6 @@ steps:
 - Sauté filling ingredients (onion, mushrooms, or ham) in butter until fragrant; set aside.
 - Melt butter in skillet, add eggs and stir quickly until half-set, then lay fillings and cheese in the center.
 - Fold the omelette into a half-moon shape, cover to melt cheese for 30 seconds, and slide onto a plate with sides.
-- Taste and adjust seasoning; serve while hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

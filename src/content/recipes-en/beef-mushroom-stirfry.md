@@ -1,7 +1,7 @@
 ---
 title: Beef and Mushroom Stir-Fry
 recipeId: beef-mushroom-stirfry
-description: Beef and mushrooms over high heat‚Äîumami-rich, quick, good with rice or solo.
+description: Beef and mushrooms over high heat?îumami-rich, quick, good with rice or solo.
 coverImage: /images/recipes/beef-mushroom-stirfry.webp
 servings: 1
 prepTime: 7
@@ -44,22 +44,21 @@ tags:
 - Stir-fry
 intro: Cook mushrooms until their moisture dries and aroma concentrates, then combine with beef for sweeter depth.
 steps:
-- "Prep: Beef 120g, Mushrooms 100g; mix Olive oil 1.5tbsp, Soy sauce 1tbsp, Garlic 2cloves, Black pepper pinch in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Shred beef; slice mushrooms; mince garlic.
-- Oil in pan; stir-fry mushrooms until lightly dried and fragrant; set aside.
-- Same pan; beef until color changes; add mushrooms, soy sauce, and pepper; toss fast.
+- Cut beef (120 g) into thin strips against the grain; slice mushrooms (100 g); mince garlic (2 cloves).
+- Heat 1 tbsp olive oil over medium-high; stir-fry mushrooms until they release water and dry slightly; set aside.
+- Add 1/2 tbsp more oil; stir-fry beef over high heat until color changes.
+- Return mushrooms; add soy sauce (1 tbsp) and black pepper; toss over high heat 30 seconds.
 tips:
 - Let mushroom liquid cook off patiently for better flavor.
 storage: Best eaten right after cooking.
 substitutions:
 - King oyster mushroom
 relatedIngredients:
-- ÁâõËÇâ
-- ËèáÈ°û
+- ?õË?
+- ?áÈ?
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-06-17"
 customAdditions:
 - Scallions
 - Chili

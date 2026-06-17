@@ -29,9 +29,11 @@ restaurantSource:
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
 - Cook uncooked white rice. Sauté prime beef slices in a pan with soy sauce and set aside.
-- "Stir-fry carrot, spinach, soybean sprouts, and wood ear mushroom separately with salt and toasted sesame oil."
+- Stir-fry carrot, spinach, soybean sprouts, and wood ear mushroom separately with salt and toasted sesame oil.
 - Brush a stone pot with toasted sesame oil, add rice, arrange beef and vegetables on top, and add a raw egg yolk.
 - Heat until a crispy rice crust forms, drizzle with sesame seeds and Korean chili paste, mix and enjoy.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -52,7 +54,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: uncooked white rice
   amount: "150"

@@ -28,9 +28,12 @@ restaurantSource:
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
 - Cut chicken into pieces, and marinate with garlic, salt, black pepper powder, and toasted sesame oil for 30 minutes.
-- "Coat chicken with Korean fried chicken mix. Deep-fry at 170°C for 7 minutes, then drain."
+- Coat chicken with Korean fried chicken mix. Deep-fry at 170°C for 7 minutes, then drain.
 - Heat oil to 185°C and fry chicken again for 2 minutes until extra crispy and golden.
 - Heat toasted sesame oil in a clean pan. Sauté onion and scallion, add Korean chili paste (gochujang) and honey until thick. Turn off heat, coat chicken, and garnish with sesame seeds.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - "Double-frying is essential. The first fry cooks the meat, and the second fry makes it crispy."
 - Turn off the heat before tossing with the sauce, otherwise, the crispy skin will turn soggy.
@@ -50,7 +53,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: boneless chicken thigh
   amount: "250"

@@ -29,9 +29,10 @@ restaurantSource:
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
 - Soak Korean potato starch noodles in warm water. Blanch and drain spinach. Shred carrot, onion, and black wood ear mushroom.
-- "Heat oil in a pan, sauté garlic, then stir-fry carrot, onion, and wood ear mushroom until tender."
+- Heat oil in a pan, sauté garlic, then stir-fry carrot, onion, and wood ear mushroom until tender.
 - Add the soaked glass noodles, soy sauce, and sugar. Toss until the noodles absorb the sauce evenly.
 - Add spinach, drizzle with toasted sesame oil, toss quickly, and plate.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -52,7 +53,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: Korean potato starch noodles
   amount: "100"

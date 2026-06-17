@@ -28,7 +28,7 @@ restaurantSource:
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
 - Cut pork hind shank cubes into strips, season with salt and pepper powder for 15 minutes. Slice carrot and onion.
-- "Coat pork with all-purpose flour batter and deep-fry until golden and cooked, then drain."
+- Coat pork with all-purpose flour batter and deep-fry until golden and cooked, then drain.
 - Heat Korean sweet and sour sauce in a pan, add carrot and onion, and simmer.
 - Plate the pork and pour the sauce over.
 tips:
@@ -50,7 +50,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: pork hind shank cubes
   amount: "200"

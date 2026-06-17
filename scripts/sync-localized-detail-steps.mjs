@@ -73,9 +73,12 @@ const allZhSlugs = readdirSync(join(root, "src/content/recipes"))
   .map((f) => f.replace(/\.md$/, ""))
   .sort();
 const onlySlug = process.argv.find((a) => a.startsWith("--slug="))?.split("=")[1];
+const onlyPrefix = process.argv.find((a) => a.startsWith("--prefix="))?.split("=")[1];
 const useAll = process.argv.includes("--all");
-const slugs = useAll ? allZhSlugs : flaggedSlugs;
-const targets = onlySlug ? slugs.filter((s) => s === onlySlug) : slugs;
+const baseSlugs = useAll || onlyPrefix ? allZhSlugs : flaggedSlugs;
+const targets = baseSlugs
+  .filter((s) => (onlySlug ? s === onlySlug : true))
+  .filter((s) => (onlyPrefix ? s.startsWith(onlyPrefix) : true));
 
 let count = 0;
 for (const slug of targets) {

@@ -59,18 +59,18 @@ seasonings:
   unit: tbsp
 intro: Cut breast into bite cubes; dry well before coating. Mist oil before air-frying for a crisp shell.
 steps:
-- Cut breast into about 3 cm cubes and pat dry. Beat egg; mix flour with garlic powder, salt, and pepper.
-- Dip cubes in egg, then flour; shake off excess and rest 5 minutes so the coating sets.
-- Preheat air fryer to 190°C for 3 minutes. Arrange in one layer; mist olive oil on top.
-- Air-fry at 190°C for 7 minutes, flip, then 5 more until golden and crisp.
-- Sprinkle a little pepper; serve with optional dips above.
+- Cut breast into about 3 cm bite-size cubes; pat thoroughly dry. Beat egg in a bowl. In a shallow dish, mix flour (3 tbsp), garlic powder (1/2 tsp), salt, and black pepper.
+- Dip each cube in a thin layer of egg, then coat in flour; press gently and shake off excess. Rest all pieces 5 minutes so the coating sets.
+- Preheat air fryer to 190°C for 3 minutes. Arrange in one layer with space between pieces; mist or brush 1 tbsp olive oil on top.
+- Air-fry at 190°C for 7 minutes, flip, then 5 more until golden and crisp; thickest piece should show no pink inside.
+- Sprinkle a little more black pepper if desired; serve hot with ketchup.
 storage: Best fresh; refrigerated bites soften—re-crisp in the air fryer.
 faqs:
 - question: Can I skip the egg?
   answer: Use a thin slurry of water or milk instead—coating sticks a bit less.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-06-17"
 ---
 
 When you want a treat without deep-frying in a big pot of oil.

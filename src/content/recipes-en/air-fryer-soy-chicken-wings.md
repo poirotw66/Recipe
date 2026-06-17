@@ -1,7 +1,7 @@
 ---
 title: Air-Fryer Soy Sauce Chicken Wings
 recipeId: air-fryer-soy-chicken-wings
-description: Wings marinated in soy sauce and rice wine, air-fried until skin crisps and meat stays juicy—four wings per serving.
+description: Wings marinated in soy sauce and rice wine, air-fried until skin crisps and meat stays juicy?�four wings per serving.
 coverImage: /images/recipes/air-fryer-soy-chicken-wings.webp
 servings: 1
 prepTime: 12
@@ -23,11 +23,11 @@ tags:
 - Air fryer
 - Chicken
 tips:
-- Wet marinade dulls crisp skin—pat wings dry before air-frying.
+- Wet marinade dulls crisp skin?�pat wings dry before air-frying.
 substitutions:
 - Chicken thigh chunks
 relatedIngredients:
-- 雞翅
+- ?��?
 customAdditions: []
 ingredients:
 - name: Chicken wings
@@ -55,19 +55,19 @@ seasonings:
   unit: ''
 intro: Dry wings before marinating; drain marinade before the basket so skin crisps.
 steps:
-- "Prep: Chicken wings 4pieces; pat Chicken wings dry and rub with Soy sauce 2tbsp, Rice wine 1tbsp, Garlic 3cloves, Ginger 3slices, Salt pinch, Black pepper pinch."
-- Rinse wings and pat dry; score each twice for flavor. Mince garlic; slice ginger.
-- Mix soy sauce, rice wine, garlic, ginger, salt, and pepper; toss wings and marinate 15 minutes.
-- Preheat air fryer to 190°C for 3 minutes. Drain wings and arrange in one layer.
-- Air-fry at 190°C for 10 minutes, flip, then 8 more.
-- Taste and adjust seasoning; serve while hot.
+- Rinse 4 chicken wings; score each twice and pat thoroughly dry.
+- Mince garlic (3 cloves) and slice ginger (3 slices); mix with soy sauce (2 tbsp), rice wine (1 tbsp), salt, and black pepper.
+- Toss wings with marinade; rest 15 minutes.
+- Preheat air fryer to 190°C for 3 minutes. Drain excess marinade; arrange wings in one layer.
+- Air-fry at 190°C for 10 minutes, flip, then 8 more until skin is crisp and meat shows no bloody juices.
+- For extra char, air-fry at 200°C for 2 more minutes.
 storage: Refrigerate up to 2 days; reheat at 170°C for 5 minutes.
 faqs:
 - question: Can I use drumsticks instead?
-  answer: Yes—cut into chunks and add 3–5 minutes until cooked through.
+  answer: Yes?�cut into chunks and add 3?? minutes until cooked through.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-06-17"
 ---
 
-Great for a weekend drink or binge-watch—solo wings without the fryer pot.
+Great for a weekend drink or binge-watch?�solo wings without the fryer pot.

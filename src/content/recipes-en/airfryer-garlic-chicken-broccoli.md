@@ -43,10 +43,12 @@ tags:
 - High protein
 intro: Thick-cut chicken gets a short marinade, then air-fries with a quick browning outside and moisture inside.
 steps:
-- "Prep: Chicken breast 260g, Broccoli 180g, Garlic 3cloves; pat Chicken breast dry and rub with Soy sauce 2tsp, Salt pinch."
-- Cut the chicken into even thick slices. Mince the garlic and rub with soy sauce and a pinch of salt; marinate 10 minutes.
-- Break the broccoli into small florets, toss with a little oil, and load into the air fryer with the chicken.
-- Taste and adjust seasoning; serve while hot.
+- Rinse chicken breast and slice about 1 cm thick; pat dry. Mince garlic (3 cloves) and mix with soy sauce (2 tsp) and a pinch of salt.
+- Toss chicken with the marinade; rest 10 minutes. Meanwhile, break broccoli into small florets, rinse, drain, and pat dry.
+- Preheat air fryer to 190°C for 3 minutes. Layer broccoli in the basket, then chicken slices in one even layer—do not stack thickly.
+- Air-fry at 190°C for 8 minutes; open, flip chicken and toss broccoli lightly.
+- Air-fry 4–6 minutes more until chicken is golden and no pink at the thickest part; broccoli stems should pierce easily with a fork.
+- Serve hot, spooning pan juices over the top (cool before packing for bento).
 tips:
 - Keep chicken thickness even for uniform doneness.
 storage: Refrigerate up to 1 day; re-crisp about 3 minutes in the air fryer.
@@ -63,7 +65,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-10'
-updatedAt: "2026-06-09"
+updatedAt: "2026-06-17"
 customAdditions:
 - King oyster mushrooms
 - Baby corn

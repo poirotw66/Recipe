@@ -54,19 +54,18 @@ seasonings:
   unit: ''
 intro: Press water from the block before cubing; a light starch coat and oil give crisp skin, not soggy.
 steps:
-- "Prep: Firm tofu 1block, Scallion 1stalk; pat Firm tofu dry and rub with Cornstarch 2tbsp, Soy sauce 1tbsp, Olive oil 1tbsp, Salt pinch."
-- Halve tofu and weight-press 10 minutes; cut ~2 cm cubes and pat dry.
-- Toss cubes with a pinch of salt and cornstarch; brush a thin layer of olive oil.
-- Preheat air fryer to 190°C for 3 minutes; arrange in one layer.
-- Air-fry at 190°C for 8 minutes, flip, then 6 more until golden.
-- Taste and adjust seasoning; serve while hot.
+- Remove firm tofu from the pack; halve and stack with paper towels under and a weight on top (e.g. cans) for 10 minutes. Cut into ~2 cm cubes and pat dry.
+- Mix cornstarch (2 tbsp) with a pinch of salt. Lightly brush cubes with soy sauce (1 tbsp), then coat thinly in cornstarch; shake off excess. Slice scallion for garnish.
+- Preheat air fryer to 190°C for 3 minutes. Arrange tofu in one layer; brush or mist olive oil so pieces do not overlap.
+- Air-fry at 190°C for 8 minutes, flip, then 6 more until golden; shaking the basket should sound crisp.
+- Plate, drizzle remaining soy sauce to taste, and scatter scallion.
 storage: Refrigerate up to 2 days; re-crisp at 160°C for 3 minutes.
 faqs:
 - question: Will tofu turn dry?
   answer: Don’t press too long—leave a little moisture inside for tenderness.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-06-17"
 ---
 
 One of the easiest ways to use tofu from the fridge.

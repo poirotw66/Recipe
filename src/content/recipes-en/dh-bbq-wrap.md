@@ -29,7 +29,7 @@ intro: "This version follows the common Dubu House prep and finishing order for 
 steps:
 - Clean and drain cabbage leaves. Slice beef brisket slices and garlic.
 - Soak rice cakes in warm water. Marinate meat with soy sauce for 10 minutes.
-- "Heat toasted sesame oil in a skillet, stir-fry marinated meat, rice cakes, and garlic until cooked."
+- Heat toasted sesame oil in a skillet, stir-fry marinated meat, rice cakes, and garlic until cooked.
 - Plate and serve the meat, rice cakes, and garlic wrapped in cabbage leaves, and enjoy with Korean chili paste.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
@@ -51,7 +51,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: beef brisket slices
   amount: "180"

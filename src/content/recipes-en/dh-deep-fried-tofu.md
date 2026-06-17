@@ -28,7 +28,7 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- "Cut soft tofu into bite-sized cubes and drain excess water."
+- Cut soft tofu into bite-sized cubes and drain excess water.
 - Fry tofu cubes in hot oil over medium heat until golden and crispy, then drain.
 - Mix soy sauce, minced garlic, and sugar to make the classic dipping sauce.
 - Plate the tofu, drizzle with the garlic soy sauce, and serve hot.
@@ -49,7 +49,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: soft tofu
   amount: "1"

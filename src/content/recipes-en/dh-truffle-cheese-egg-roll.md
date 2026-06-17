@@ -29,8 +29,9 @@ intro: "This version follows the common Dubu House prep and finishing order for 
 steps:
 - Beat egg in a bowl with a pinch of salt and seasonings.
 - Brush toasted sesame oil on an egg roll pan over low heat. Pour in 1/3 of egg mixture. Arrange black truffle sauce and mozzarella cheese on top.
-- "Gently roll the semi-cooked egg sheet, push it to the end, pour in more egg to connect, and roll again."
+- Gently roll the semi-cooked egg sheet, push it to the end, pour in more egg to connect, and roll again.
 - Repeat until all egg is used. Remove from heat, let cool slightly, slice into thick rounds, and serve hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -48,7 +49,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: egg
   amount: "1"

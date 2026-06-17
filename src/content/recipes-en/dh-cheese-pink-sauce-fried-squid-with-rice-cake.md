@@ -28,9 +28,10 @@ restaurantSource:
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
 - Soak Korean rice cakes in warm water for 15 minutes to soften, then drain and set aside.
-- "Heat oil in a pan, sauté garlic and onion, then add squid and stir-fry until cooked."
-- "Pour in the prepared K-Rose sauce, minced garlic and a little broth. Add the soaked Korean rice cakes, bring to a boil, and stir constantly to prevent sticking."
+- Heat oil in a pan, sauté garlic and onion, then add squid and stir-fry until cooked.
+- Pour in the prepared K-Rose sauce, minced garlic and a little broth. Add the soaked Korean rice cakes, bring to a boil, and stir constantly to prevent sticking.
 - When the rice cakes are chewy and the sauce is thick, top with cheese, and let simmer for 1 minute before serving.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -50,7 +51,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: squid
   amount: "150"

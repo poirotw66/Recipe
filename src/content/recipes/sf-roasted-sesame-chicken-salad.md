@@ -49,7 +49,7 @@ faqs:
   answer: 先把 綜合生菜與炸雞 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-06-17"
 ingredients:
 - name: 綜合生菜
   amount: "120"
@@ -78,9 +78,9 @@ seasonings:
   amount: "2"
   unit: 大匙
 ---
----
 
 焙煎胡麻雞沙拉 的在家還原版，重點是把 綜合生菜、炸雞、焙煎胡麻醬 做出分層口感，並保留貳樓常見的 分享盤 大份量出餐感。
 
 只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
+
 

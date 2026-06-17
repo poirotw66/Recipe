@@ -31,6 +31,7 @@ steps:
 - Place stuffed chicken in a large clay pot, add ginseng root, red dates, garlic, and cabbage.
 - Pour in water to submerge hen. Boil on high heat, skim foam, cover and simmer for 1.5 to 2 hours.
 - Simmer until chicken meat is extremely tender and broth is milky white. Season with salt and pepper.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -51,7 +52,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: whole Cornish hen
   amount: "1"

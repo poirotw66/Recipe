@@ -29,7 +29,7 @@ restaurantSource:
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
 - Prepare potato fries and preheat the air fryer.
-- "Air-fry at 180°C for 12 minutes until crispy and golden."
+- Air-fry at 180°C for 12 minutes until crispy and golden.
 - In a separate pan, warm Korean chili paste and honey over low heat.
 - Toss fries with the sauce and serve.
 tips:
@@ -49,7 +49,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: potato fries
   amount: "200"

@@ -28,9 +28,11 @@ restaurantSource:
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
 - Heat toasted sesame oil in a small pot. Sauté garlic, onion, and Korean chili paste (gochujang) until fragrant.
-- "Pour in kelp broth and soy sauce. Bring to a boil, then lower the heat. Add plant-based chicken nuggets, shiitake mushrooms and simmer for 5 minutes."
+- Pour in kelp broth and soy sauce. Bring to a boil, then lower the heat. Add plant-based chicken nuggets, shiitake mushrooms and simmer for 5 minutes.
 - Scoop large chunks of soft tofu into the center of the pot. Cook over medium heat, pushing gently to prevent breaking.
 - In the last 2 minutes, crack an egg. Serve boiling hot in the pot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Soft tofu breaks easily. Scoop in large chunks only after the broth is boiling.
 - Add cheese slices and egg in the last minute. The residual heat will melt them beautifully.
@@ -51,7 +53,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: soft tofu
   amount: "1"

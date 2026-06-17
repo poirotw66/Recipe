@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, unlinkSync, writeFile
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { renderRecipeMarkdown, renderSvg } from "./lib/restaurant-recipe-markdown.mjs";
+import { buildDetailedDhSteps } from "./lib/dh-zh-steps.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const menuPath = join(root, "src/data/dubu-house-menu.json");
@@ -1877,7 +1878,13 @@ function buildRecipe(entry) {
       ko: "涓豆腐에서 흔히 쓰는 준비와 마무리 순서를 참고한 재현 레시피입니다."
     },
     steps: {
-      "zh-TW": buildStepsForLocale(slug, entry.displayName, ingredients, seasonings, "zh-TW"),
+      "zh-TW": buildDetailedDhSteps({
+        slug,
+        title: entry.displayName,
+        ingredients,
+        seasonings,
+        equipment: config.equipment
+      }),
       en: buildStepsForLocale(slug, entry.displayName, ingredients, seasonings, "en"),
       ja: buildStepsForLocale(slug, entry.displayName, ingredients, seasonings, "ja"),
       ko: buildStepsForLocale(slug, entry.displayName, ingredients, seasonings, "ko")

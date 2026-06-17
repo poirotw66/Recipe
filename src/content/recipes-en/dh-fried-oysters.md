@@ -29,7 +29,7 @@ intro: "This version follows the common Dubu House prep and finishing order for 
 steps:
 - Wash fresh oysters and dry them thoroughly with paper towels.
 - Sprinkle oysters with a pinch of salt and pepper powder, let sit for 5 minutes.
-- "Coat oysters with all-purpose flour, and fry in 170°C oil until golden and crispy."
+- Coat oysters with all-purpose flour, and fry in 170°C oil until golden and crispy.
 - Drain well, plate, and serve hot with dipping sauce or pepper salt.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
@@ -48,7 +48,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: fresh oysters
   amount: "150"

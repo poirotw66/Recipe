@@ -29,7 +29,7 @@ intro: "This version follows the common Dubu House prep and finishing order for 
 steps:
 - Slice flat iron steak, slice onion, and cut green scallion into segments.
 - Marinate beef with minced garlic and Korean BBQ sauce for 15 minutes.
-- "Heat toasted sesame oil in a pan, sauté onion, then add marinated beef and stir-fry over high heat."
+- Heat toasted sesame oil in a pan, sauté onion, then add marinated beef and stir-fry over high heat.
 - Once cooked, add scallions, toss for a few seconds, and transfer to a hot plate.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
@@ -50,7 +50,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: flat iron steak
   amount: "200"

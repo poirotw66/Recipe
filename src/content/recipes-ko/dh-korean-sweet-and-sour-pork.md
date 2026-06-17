@@ -50,7 +50,7 @@ faqs:
   answer: 국물이나 소스 농도를 먼저 맞추고 마지막에 재료를 넣으세요.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-03"
+updatedAt: "2026-06-09"
 ingredients:
 - name: 돼지 뒷다리살
   amount: "200"
