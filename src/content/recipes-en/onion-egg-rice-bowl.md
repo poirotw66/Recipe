@@ -47,6 +47,8 @@ steps:
 - Peel the onion and slice into thin, even strips along the grain. Beat the eggs with a pinch of salt and 1 tsp water until lightly frothy. Portion rice into a bowl.
 - In a skillet, cook the onion until tender. Add soy sauce, sugar, and a splash of water; simmer about 1 minute.
 - Pour in the eggs and, when half set, slide the mixture over the rice.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Leave a little extra sauce if you like a moister bowl.
 storage: Cook and eat the same day for best egg aroma and texture.

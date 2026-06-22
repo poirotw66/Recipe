@@ -6,28 +6,296 @@
 
 | # | slug | 標題 | 狀態 | 備註 |
 |---|------|------|------|------|
-| 1 | air-fryer-butter-corn | 氣炸奶油玉米 | done | |
-| 2 | air-fryer-crispy-chicken-bites | 氣炸台式雞塊 | done | |
-| 3 | air-fryer-crispy-tofu-cubes | 氣炸酥炸豆腐丁 | done | |
-| 4 | airfryer-garlic-chicken-broccoli | 氣炸蒜香雞胸佐青花菜 | done | |
-| 5 | air-fryer-garlic-mushrooms | 氣炸蒜香菇類 | done | |
-| 6 | air-fryer-garlic-okra | 氣炸蒜香秋葵 | done | |
-| 7 | air-fryer-garlic-pork-chop | 氣炸蒜香豬排 | done | |
-| 8 | air-fryer-garlic-shrimp | 氣炸蒜香蝦仁 | done | |
-| 9 | air-fryer-honey-sweet-potato | 氣炸蜜蕃薯 | done | 蜜汁後刷、兩段溫度 |
-| 10 | air-fryer-lemon-fish-fillet | 氣炸檸檬魚排 | done | 魚先炸、青花菜分開 |
-| 11 | air-fryer-salmon-broccoli | 氣炸鮭魚青花菜 | done | |
-| 12 | air-fryer-soy-chicken-wings | 氣炸醬油雞翅 | done | |
-| 13 | airfryer-tofu-mushroom-main | 氣炸豆腐菇菇主菜 | done | |
-| 14 | beef-broccoli-stirfry | 牛肉青花快炒 | done | 重排快炒順序 |
-| 15 | beef-carrot-soup | 紅蘿蔔牛肉湯 | skip | 步驟已詳盡，略過 |
-| 16 | beef-mushroom-stirfry | 牛肉炒香菇 | done | |
-| 17 | beef-tofu-braise | 牛肉豆腐燉煮 | done | 補回牛肉燉煮 |
-| 18 | beef-tomato-noodles | 番茄牛肉麵 | skip | 步驟已詳盡，略過 |
-| 19 | bento-black-pepper-beef | 便當黑椒牛肉 | done | |
-| 20 | bento-braised-tofu-egg | 便當滷蛋豆腐 | done | |
-| 21 | bento-honey-soy-pork | | pending | |
+| 1 | air-fryer-butter-corn | 氣炸奶油玉米 | done | 先前手動完成 |
+| 2 | air-fryer-crispy-chicken-bites | 氣炸台式雞塊 | done | 先前手動完成 |
+| 3 | air-fryer-crispy-tofu-cubes | 氣炸酥炸豆腐丁 | done | 先前手動完成 |
+| 4 | air-fryer-garlic-mushrooms | 氣炸蒜香菇類 | done | 先前手動完成 |
+| 5 | air-fryer-garlic-okra | 氣炸蒜香秋葵 | done | 先前手動完成 |
+| 6 | air-fryer-garlic-pork-chop | 氣炸蒜香豬排 | done | 先前手動完成 |
+| 7 | air-fryer-garlic-shrimp | 氣炸蒜香蝦仁 | done | 先前手動完成 |
+| 8 | air-fryer-honey-sweet-potato | 氣炸蜜蕃薯 | done | 先前手動完成 |
+| 9 | air-fryer-lemon-fish-fillet | 氣炸檸檬魚排 | done | 先前手動完成 |
+| 10 | air-fryer-salmon-broccoli | 氣炸鮭魚青花菜 | done | 先前手動完成 |
+| 11 | air-fryer-soy-chicken-wings | 氣炸醬油雞翅 | done | 先前手動完成 |
+| 12 | airfryer-garlic-chicken-broccoli | 氣炸蒜香雞胸佐青花菜 | done | 先前手動完成 |
+| 13 | airfryer-tofu-mushroom-main | 氣炸豆腐菇菇主菜 | done | 先前手動完成 |
+| 14 | beef-broccoli-stirfry | 牛肉青花快炒 | done | 先前手動完成 |
+| 15 | beef-carrot-soup | 紅蘿蔔牛肉湯 | done | 先前手動完成 |
+| 16 | beef-mushroom-stirfry | 牛肉炒香菇 | done | 先前手動完成 |
+| 17 | beef-tofu-braise | 牛肉豆腐燉煮 | done | 先前手動完成 |
+| 18 | beef-tomato-noodles | 番茄牛肉麵 | done | 先前手動完成 |
+| 19 | bento-black-pepper-beef | 便當黑椒牛肉 | done | 先前手動完成 |
+| 20 | bento-braised-tofu-egg | 便當滷蛋豆腐 | done | 先前手動完成 |
+| 21 | bento-ginger-chicken | 便當薑炒雞肉 | done | 先前手動完成 |
+| 22 | bento-honey-soy-pork | 便當蜜汁滷肉 | done | 先前手動完成 |
+| 23 | bento-stir-fried-cabbage | 便當炒高麗菜 | done | 先前手動完成 |
+| 24 | broccoli-mushroom-chicken-rice-bowl | 青花菜菇菇雞胸飯 | done | 先前手動完成 |
+| 25 | broccoli-mushroom-egg | 青花菜菇菇炒蛋 | done | 先前手動完成 |
+| 26 | broccoli-onion-chicken-soup | 青花菜洋蔥雞湯 | done | 先前手動完成 |
+| 27 | broccoli-tofu-garlic-stirfry | 青花菜豆腐蒜炒 | done | 先前手動完成 |
+| 28 | budget-cabbage-noodle-soup | 省錢高麗菜麵 | done | 先前手動完成 |
+| 29 | budget-simple-egg-fried-rice | 省錢蛋炒飯 | done | 先前手動完成 |
+| 30 | budget-tofu-rice-bowl | 省錢豆腐蓋飯 | done | 先前手動完成 |
+| 31 | butter-garlic-instant-noodles | 奶油蒜香泡麵 | done | 先前手動完成 |
+| 32 | cabbage-carrot-chicken-rice-bowl | 高麗菜紅蘿蔔雞胸飯 | done | 先前手動完成 |
+| 33 | cabbage-egg-stir-fry | 高麗菜炒蛋 | done | 先前手動完成 |
+| 34 | cabbage-mushroom-clear-soup | 高麗菜菇菇清湯 | done | 先前手動完成 |
+| 35 | cabbage-mushroom-rice | 高麗菜菇菇炊飯 | done | 先前手動完成 |
+| 36 | cabbage-onion-eggs | 高麗菜洋蔥炒蛋 | done | 先前手動完成 |
+| 37 | cabbage-tofu-egg-drop-soup | 高麗菜豆腐蛋花湯 | done | 先前手動完成 |
+| 38 | cajun-fries | 肯瓊香辣薯條 | done | 先前手動完成 |
+| 39 | canned-tuna-rice-bowl | 鮪魚罐頭飯 | done | 先前手動完成 |
+| 40 | carrot-chicken-rice-bowl | 紅蘿蔔雞胸飯 | done | 先前手動完成 |
+| 41 | chefs-daily-soup | 主廚每日例湯 | done | 批次擴寫 |
+| 42 | chicken-broccoli-pasta | 雞胸青花義大利麵 | done | 批次擴寫 |
+| 43 | classic-caesar-chicken-salad | 經典凱薩嫩雞沙拉 | skip | 步驟已詳盡 |
+| 44 | clearout-tofu-veggie-soup | 豆腐蔬菜清湯 | done | 批次擴寫 |
+| 45 | clearout-veggie-egg-fried-rice | 家常蛋炒飯 | skip | 步驟已詳盡 |
+| 46 | creamy-mushroom-pasta | 奶香菇類義大利麵 | done | 批次擴寫 |
+| 47 | crispy-cod-brunch | 金黃酥炸鱈魚早午餐 | skip | 步驟已詳盡 |
+| 48 | curry-beef-rice | 咖哩牛肉飯 | done | 批次擴寫 |
+| 49 | dh-bbq-korean-fried-chicken | 醬味韓式炸雞 | skip | 步驟已詳盡 |
+| 50 | dh-bbq-wrap | 醬燒青蔥牛五花/豬梅花 | skip | 步驟已詳盡 |
+| 51 | dh-bibimbap | 石燒拌飯 | skip | 步驟已詳盡 |
+| 52 | dh-brown-sugar-pancake | 韓式爆漿黑糖餅 | skip | 步驟已詳盡 |
+| 53 | dh-cajun-korean-fried-chicken | 肯瓊醬韓式炸雞 | skip | 步驟已詳盡 |
+| 54 | dh-cheese-kimchi-mushroom-soondubu | 起司泡菜鮮菇嫩豆腐煲 | skip | 步驟已詳盡 |
+| 55 | dh-cheese-pink-sauce-fried-squid-with-rice-cake | 起司玫瑰醬魷魚年糕 | skip | 步驟已詳盡 |
+| 56 | dh-cheese-soondubu | 起司嫩豆腐煲 | skip | 步驟已詳盡 |
+| 57 | dh-cheese-stuffed-rice-cake-soondubu | 打爆起司年糕嫩豆腐煲 | skip | 步驟已詳盡 |
+| 58 | dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed | 海菜起司年糕鮮魚嫩豆腐煲 | skip | 步驟已詳盡 |
+| 59 | dh-cheese-vegetable-soondubu | 起司野菜鮮菇嫩豆腐煲 | skip | 步驟已詳盡 |
+| 60 | dh-clams-shrimp-soondubu | 蛤蜊鮮蝦嫩豆腐煲 | skip | 步驟已詳盡 |
+| 61 | dh-classic-soondubu | 嫩豆腐煲 | skip | 步驟已詳盡 |
+| 62 | dh-classic-stone-pot-rice | 韓式石鍋飯 | skip | 步驟已詳盡 |
+| 63 | dh-combo-soondubu | 海陸綜合嫩豆腐煲 | skip | 步驟已詳盡 |
+| 64 | dh-creamy-onion-korean-fried-chicken | 洋蔥白醬韓式炸雞 | skip | 步驟已詳盡 |
+| 65 | dh-curry-soondubu | 咖哩嫩豆腐煲 | skip | 步驟已詳盡 |
+| 66 | dh-deep-fried-tofu | 黃金酥炸嫩豆腐 | skip | 步驟已詳盡 |
+| 67 | dh-duck-jerky-stone-pot-rice | 鴨賞石鍋飯 | skip | 步驟已詳盡 |
+| 68 | dh-fish-soondubu | 鮮魚嫩豆腐煲 | skip | 步驟已詳盡 |
+| 69 | dh-french-fries-with-korean-flavored-sauce | 韓式酥炸脆薯 | skip | 步驟已詳盡 |
+| 70 | dh-fried-glass-noodle | 韓式炒冬粉 | skip | 步驟已詳盡 |
+| 71 | dh-fried-oysters | 巨濟島炸牡蠣 | skip | 步驟已詳盡 |
+| 72 | dh-ginseng-chicken-clay-pot | 人蔘砂鍋雞 | skip | 步驟已詳盡 |
+| 73 | dh-ginseng-chicken-hot-pot | 韓國人蔘雞火鍋 | skip | 步驟已詳盡 |
+| 74 | dh-golden-chicken-stone-pot-rice | 黃金雞石鍋飯 | skip | 步驟已詳盡 |
+| 75 | dh-honey-garlic-korean-fried-chicken | 蜂蜜蒜味韓式炸雞 | skip | 步驟已詳盡 |
+| 76 | dh-kimchi-mushroom-soondubu | 泡菜鮮菇嫩豆腐煲 | skip | 步驟已詳盡 |
+| 77 | dh-kimchi-seafood-soondubu | 泡菜海鮮嫩豆腐煲 | skip | 步驟已詳盡 |
+| 78 | dh-kimchi-soondubu | 泡菜嫩豆腐煲 | skip | 步驟已詳盡 |
+| 79 | dh-kimchi-tofu-pancake | 泡菜豆腐煎餅 | skip | 步驟已詳盡 |
+| 80 | dh-korean-bbq-beef-short-ribs | 韓式BBQ鐵板翼板牛 | skip | 步驟已詳盡 |
+| 81 | dh-korean-cheese-egg-roll | 韓式起司烘蛋捲 | skip | 步驟已詳盡 |
+| 82 | dh-korean-dumpling-soondubu | 韓式餃子嫩豆腐煲 | skip | 步驟已詳盡 |
+| 83 | dh-korean-fried-chicken-combo | Combo雙享韓式炸雞 | skip | 步驟已詳盡 |
+| 84 | dh-korean-style-bbq-fish-ball | 韓風辣味魚丸燒 | skip | 步驟已詳盡 |
+| 85 | dh-korean-sweet-and-sour-pork | 韓國糖醋肉 | skip | 步驟已詳盡 |
+| 86 | dh-korean-vermicelli-tofu-roll | 韓式金絲豆腐捲 | skip | 步驟已詳盡 |
+| 87 | dh-original-korean-fried-chicken | 原味韓式炸雞 | skip | 步驟已詳盡 |
+| 88 | dh-ox-bone-soup | 神仙霜降雪濃湯 | skip | 步驟已詳盡 |
+| 89 | dh-plant-based-fried-chicken-with-mushroom-soondubu | 植感炸雞鮮菇嫩豆腐煲 | skip | 步驟已詳盡 |
+| 90 | dh-plant-based-fried-chicken-with-rice-cake | 植感炸雞年糕 | skip | 步驟已詳盡 |
+| 91 | dh-potato-pancake-with-cheese | 起司馬鈴薯煎餅 | skip | 步驟已詳盡 |
+| 92 | dh-royal-stir-fried-rice-cake | 韓式宮廷炒年糕 | skip | 步驟已詳盡 |
+| 93 | dh-seafood-pancake | 綜合海鮮煎餅 | skip | 步驟已詳盡 |
+| 94 | dh-seafood-soondubu | 海鮮嫩豆腐煲 | skip | 步驟已詳盡 |
+| 95 | dh-seaweed-oyster-soondubu | 海菜鮮蚵嫩豆腐煲 | skip | 步驟已詳盡 |
+| 96 | dh-spicy-korean-fried-chicken | 辣味韓式炸雞 | skip | 步驟已詳盡 |
+| 97 | dh-spicy-pan-fried-seafood-rice-cake | 海鮮辣炒年糕 | skip | 步驟已詳盡 |
+| 98 | dh-spicy-pan-fried-squid | 辣炒中卷 | skip | 步驟已詳盡 |
+| 99 | dh-spicy-stired-fried-chicken | 春川辣炒雞 | skip | 步驟已詳盡 |
+| 100 | dh-steamed-eggs-with-cheese-roe | 魚卵起司陶鍋蛋 | skip | 步驟已詳盡 |
+| 101 | dh-stired-fried-fish-fillet-with-vegetables | 田園醬燒飛虎魚 | skip | 步驟已詳盡 |
+| 102 | dh-tofu-ice-cream-with-tapioca | 珍珠豆腐冰淇淋 | skip | 步驟已詳盡 |
+| 103 | dh-truffle-cheese-egg-roll | 松露韓式起司烘蛋捲 | skip | 步驟已詳盡 |
+| 104 | dh-truffle-jjajang-cheese-rice-cake | 黑松露炸醬起司年糕 | skip | 步驟已詳盡 |
+| 105 | dh-vegetable-pancake | 絲瓜鮮蔬煎餅 | skip | 步驟已詳盡 |
+| 106 | dh-vegetable-soondubu | 野菜鮮菇嫩豆腐煲 | skip | 步驟已詳盡 |
+| 107 | egg-scallion-oil-noodles | 蛋蔥油麵 | skip | 步驟已詳盡 |
+| 108 | electricpot-broccoli-chicken-bento | 電鍋青花菜雞胸便當菜 | skip | 步驟已詳盡 |
+| 109 | electricpot-mushroom-chicken-bento | 電鍋菇菇雞胸便當菜 | skip | 步驟已詳盡 |
+| 110 | electricpot-tofu-egg-bento-side | 電鍋豆腐蛋便當菜 | skip | 步驟已詳盡 |
+| 111 | fish-and-chips | 英式炸魚薯條 | skip | 步驟已詳盡 |
+| 112 | fridge-bottom-soup-noodles | 什錦蔬菜湯麵 | done | 批次擴寫 |
+| 113 | fried-trio-platter | 炸物三重奏 | skip | 步驟已詳盡 |
+| 114 | garden-vegetable-pasta | 田園時蔬義大利麵 | skip | 步驟已詳盡 |
+| 115 | garlic-beef-cabbage-stirfry | 蒜香牛肉炒高麗菜 | done | 批次擴寫 |
+| 116 | garlic-cabbage-tofu-braise | 蒜頭高麗菜豆腐煮 | done | 批次擴寫 |
+| 117 | garlic-cream-shrimp-pasta | 蒜香奶油鮮蝦麵 | skip | 步驟已詳盡 |
+| 118 | garlic-egg-cabbage-bento-side | 蒜香蛋炒高麗菜便當菜 | done | 批次擴寫 |
+| 119 | garlic-mushroom-chicken | 蒜香菇菇雞胸 | done | 批次擴寫 |
+| 120 | garlic-mushroom-tofu-rice-bowl | 蒜香菇豆腐拌飯 | done | 批次擴寫 |
+| 121 | garlic-oil-pasta | 蒜香義大利麵 | skip | 步驟已詳盡 |
+| 122 | garlic-tofu-chicken-pan-main | 蒜香豆腐雞胸主菜 | done | 批次擴寫 |
+| 123 | garlic-tomato-chicken-rice-bowl | 蒜香番茄雞胸飯 | done | 批次擴寫 |
+| 124 | garlic-tomato-tofu-eggs | 蒜香番茄豆腐炒蛋 | done | 批次擴寫 |
+| 125 | herb-pan-chicken-brunch | 香草煎雞胸早午餐 | skip | 步驟已詳盡 |
+| 126 | high-protein-chicken-broccoli-bowl | 高蛋白雞肉青花碗 | skip | 步驟已詳盡 |
+| 127 | high-protein-egg-white-stirfry | 高蛋白蛋白炒 | skip | 步驟已詳盡 |
+| 128 | high-protein-shrimp-tofu-bowl | 高蛋白蝦豆腐碗 | skip | 步驟已詳盡 |
+| 129 | high-protein-tofu-steak-plate | 高蛋白豆腐排 | skip | 步驟已詳盡 |
+| 130 | honey-cajun-chicken-wings | 蜜汁紐澳良雞翅 | skip | 步驟已詳盡 |
+| 131 | instant-miso-egg-soup | 味噌蛋花湯 | done | 批次擴寫 |
+| 132 | leftover-meat-quick-stirfry | 豬肉青椒快炒 | skip | 步驟已詳盡 |
+| 133 | leftover-mixed-veggie-fried-rice | 綜合蔬菜炒飯 | skip | 步驟已詳盡 |
+| 134 | leftover-rice-egg-pancake | 米飯蛋煎餅 | done | 批次擴寫 |
+| 135 | microwave-steamed-egg-rice | 電子鍋蒸蛋蓋飯 | skip | 步驟已詳盡 |
+| 136 | mixed-leftover-congee | 蛋花鹹粥 | done | 批次擴寫 |
+| 137 | mushroom-beef-rice-bowl | 香菇牛肉蓋飯 | done | 批次擴寫 |
+| 138 | mushroom-cabbage-rice-bowl | 菇菇高麗菜燴飯 | done | 批次擴寫 |
+| 139 | mushroom-scallion-soft-eggs | 菇菇青蔥滑蛋 | done | 批次擴寫 |
+| 140 | mushroom-soft-egg-brunch | 野菇嫩蛋早午餐 | skip | 步驟已詳盡 |
+| 141 | onion-bacon-style-egg-pasta | 洋蔥蛋香義大利麵 | skip | 步驟已詳盡 |
+| 142 | onion-beef-rice-bowl | 洋蔥牛肉蓋飯 | done | 批次擴寫 |
+| 143 | onion-beef-slices | 洋蔥牛肉片 | skip | 步驟已詳盡 |
+| 144 | onion-cabbage-mushroom-saute | 洋蔥高麗菜菇菇炒 | done | 批次擴寫 |
+| 145 | onion-carrot-egg-bento-side | 洋蔥紅蘿蔔炒蛋便當菜 | done | 批次擴寫 |
+| 146 | onion-egg-rice-bowl | 洋蔥滑蛋飯 | done | 批次擴寫 |
+| 147 | onion-garlic-tofu-eggs | 洋蔥蒜香豆腐炒蛋 | done | 批次擴寫 |
+| 148 | onion-salmon-pan-steak | 洋蔥香煎鮭魚排 | done | 批次擴寫 |
+| 149 | onion-tomato-egg-fried-rice | 洋蔥番茄蛋炒飯 | done | 批次擴寫 |
+| 150 | pan-seared-flap-steak-brunch | 香煎翼板牛排早午餐 | skip | 步驟已詳盡 |
+| 151 | pesto-chicken-broccoli-pasta | 青蔥蒜香雞肉青花義大利麵 | skip | 步驟已詳盡 |
+| 152 | pesto-chicken-mushroom-pasta | 青蔥蒜香雞肉菇類義大利麵 | skip | 步驟已詳盡 |
+| 153 | pesto-chicken-pasta | 青蔥蒜香雞胸義大利麵 | done | 批次擴寫 |
+| 154 | pesto-salmon-broccoli-pasta | 青蔥蒜香鮭魚青花義大利麵 | skip | 步驟已詳盡 |
+| 155 | pesto-salmon-pasta | 青蔥蒜香鮭魚義大利麵 | done | 批次擴寫 |
+| 156 | pesto-shrimp-pasta | 青蔥蒜香蝦仁義大利麵 | done | 批次擴寫 |
+| 157 | pesto-style-scallion-pasta | 青蔥風味義大利麵 | done | 批次擴寫 |
+| 158 | quick-kimchi-fried-rice | 快速泡菜炒飯 | skip | 步驟已詳盡 |
+| 159 | quick-pickled-cucumber-egg-rice | 菜脯蛋飯 | done | 批次擴寫 |
+| 160 | random-veggie-egg-pancake | 雜菜雞蛋煎餅 | skip | 步驟已詳盡 |
+| 161 | roasted-lemon-salmon-brunch | 爐烤檸香鮭魚早午餐 | skip | 步驟已詳盡 |
+| 162 | salmon-broccoli-garlic-main | 蒜香鮭魚青花菜主菜 | done | 批次擴寫 |
+| 163 | salmon-garlic-pasta | 蒜香鮭魚義大利麵 | done | 批次擴寫 |
+| 164 | scallion-beef-fried-rice | 蔥花牛肉炒飯 | done | 批次擴寫 |
+| 165 | scallion-beef-stirfry | 蔥爆牛肉 | skip | 步驟已詳盡 |
+| 166 | scallion-chicken-rice-bowl | 青蔥雞胸拌飯 | done | 批次擴寫 |
+| 167 | scallion-egg-rice | 蔥蛋拌飯 | done | 批次擴寫 |
+| 168 | scallion-garlic-pasta | 青蔥蒜香義大利麵 | done | 批次擴寫 |
+| 169 | scallion-mushroom-egg-pan | 青蔥菇菇蛋煎盤 | done | 批次擴寫 |
+| 170 | scallion-oil-dry-noodles | 蔥油乾麵 | skip | 步驟已詳盡 |
+| 171 | seasonal-greens-salad-bowl | 季節鮮蔬沙拉碗 | skip | 步驟已詳盡 |
+| 172 | sesame-cold-noodles-solo | 一人麻醬涼麵 | skip | 步驟已詳盡 |
+| 173 | sesame-onion-chicken-rice-bowl | 麻油洋蔥雞胸拌飯 | done | 批次擴寫 |
+| 174 | sf-acai-berry-yogurt-bowl | 巴西莓果優格碗 | skip | 步驟已詳盡 |
+| 175 | sf-american-cheesecake | 全美起司蛋糕 | skip | 步驟已詳盡 |
+| 176 | sf-asahi-cordon-bleu-pork-burger | 朝日藍帶豬排堡 | skip | 步驟已詳盡 |
+| 177 | sf-avocado-bacon-open-toast | 酪梨慢煎培根／歐包 Open | skip | 步驟已詳盡 |
+| 178 | sf-avocado-local-sausage-danish-open | 酪梨 Local 香腸／丹麥 Open | skip | 步驟已詳盡 |
+| 179 | sf-avocado-smoked-salmon-open-toast | 酪梨燻鮭魚／歐包 Open | skip | 步驟已詳盡 |
+| 180 | sf-baked-thick-cut-pork-cream-rice | 焗厚切豬排奶油飯 | done | 批次擴寫 |
+| 181 | sf-balsamic-mushroom-pasta | 巴薩米克蕈菇麵 | skip | 步驟已詳盡 |
+| 182 | sf-bbq-roasted-half-chicken | BBQ 溫烤半雞 | skip | 步驟已詳盡 |
+| 183 | sf-black-pepper-hamburg-rice | 老闆黑胡椒漢堡排飯 | done | 批次擴寫 |
+| 184 | sf-black-truffle-cordon-bleu-pork-open | 黑松露厚切藍帶豬／歐包 Open | skip | 步驟已詳盡 |
+| 185 | sf-bloody-mary-spicy-rice | 血腥瑪麗辣味飯 | done | 批次擴寫 |
+| 186 | sf-brownie-ice-cream | 布朗尼冰淇淋 | skip | 步驟已詳盡 |
+| 187 | sf-buffalo-chicken-wings | 水牛城辣雞翅 | skip | 步驟已詳盡 |
+| 188 | sf-campfire-lemon-zucchini-fish-fillet | 野炊系義式檸香櫛瓜魚菲力 | skip | 步驟已詳盡 |
+| 189 | sf-cheesy-chicken-egg-rice | 吃光光起司蛋雞肉飯 | done | 批次擴寫 |
+| 190 | sf-cheesy-local-sausage-cream-pasta | 起司 Local 香腸奶白麵 | skip | 步驟已詳盡 |
+| 191 | sf-chef-crispy-pork-knuckle | 主廚脆皮豬腳 | skip | 步驟已詳盡 |
+| 192 | sf-chicken-quesadilla | 墨西哥雞肉酥餅 | skip | 步驟已詳盡 |
+| 193 | sf-classic-beef-mushroom-eggs-benedict | 經典牛肉奶油炒菇班尼蛋 | skip | 步驟已詳盡 |
+| 194 | sf-classic-caesar-salad | 經典凱薩沙拉 | skip | 步驟已詳盡 |
+| 195 | sf-classic-ham-mushroom-eggs-benedict | 經典火腿奶油炒菇班尼蛋 | skip | 步驟已詳盡 |
+| 196 | sf-classic-pesto-shrimp-pasta | 經典青醬鮮蝦麵 | skip | 步驟已詳盡 |
+| 197 | sf-country-cinnamon-peach-pie | 鄉村肉桂蜜桃派 | skip | 步驟已詳盡 |
+| 198 | sf-crispy-calamari-cocktail-sauce | 酥炸鮮魷佐雞尾酒醬 | skip | 步驟已詳盡 |
+| 199 | sf-dawn-shrimp-chicken-linguine | 曙光汁鮮蝦雞肉麵 | skip | 步驟已詳盡 |
+| 200 | sf-greek-campfire-grilled-chicken-brunch | Greek style 野炊系炭烤雞肉早午餐 | skip | 步驟已詳盡 |
+| 201 | sf-green-superhero-quinoa-buddha-bowl | 綠超人藜麥佛陀碗 | skip | 步驟已詳盡 |
+| 202 | sf-griddled-butter-ham-sandwich | 厚烤奶油 Ham 三明治 | skip | 步驟已詳盡 |
+| 203 | sf-homestyle-meat-sauce-penne-with-meatballs | 家鄉肉醬長管麵佐老媽肉丸 | skip | 步驟已詳盡 |
+| 204 | sf-keto-surf-and-turf-platter | 生酮總匯海陸拼盤 | skip | 步驟已詳盡 |
+| 205 | sf-kids-cream-chicken-penne | 北鼻奶油雞肉長管麵 | skip | 步驟已詳盡 |
+| 206 | sf-local-sausage-quesadilla | 墨西哥 Local 香腸酥餅 | skip | 步驟已詳盡 |
+| 207 | sf-mini-beef-egg-burger-set | 牛蛋小堡堡套餐 | skip | 步驟已詳盡 |
+| 208 | sf-moon-view-bitter-melon-cream-rice | 月見苦瓜奶油飯 | done | 批次擴寫 |
+| 209 | sf-mushroom-cheese-omelette | 蕈菇奶起司歐姆蕾 | skip | 步驟已詳盡 |
+| 210 | sf-oat-crusted-fish-and-fries | 燕麥脆脆炸魚薯條 | skip | 步驟已詳盡 |
+| 211 | sf-orange-danish-mushroom-poached-potato | 橙香法式丹麥 蕈菇水波洋芋 | skip | 步驟已詳盡 |
+| 212 | sf-orange-danish-poached-seafood-potato | 橙香法式丹麥 水波海鮮洋芋 | skip | 步驟已詳盡 |
+| 213 | sf-orange-danish-sous-vide-steak | 橙香法式丹麥 舒肥牛排 | skip | 步驟已詳盡 |
+| 214 | sf-orange-danish-sunny-sous-vide-chicken | 橙香法式丹麥 Sunny 舒肥雞 | skip | 步驟已詳盡 |
+| 215 | sf-poached-egg-smoked-beef-danish-open | 水波燻牛肉／丹麥 Open | skip | 步驟已詳盡 |
+| 216 | sf-poutine-meat-sauce-fries | 普丁肉醬薯條 | skip | 步驟已詳盡 |
+| 217 | sf-roasted-sesame-chicken-salad | 焙煎胡麻雞沙拉 | skip | 步驟已詳盡 |
+| 218 | sf-salsa-black-curry-fried-chicken | 莎莎黑咖哩炸雞 | skip | 步驟已詳盡 |
+| 219 | sf-salted-egg-bitter-melon-pasta | 台式熱炒鹹蛋苦瓜麵 | skip | 步驟已詳盡 |
+| 220 | sf-salted-egg-seafood-pizza | 金黃流沙海鮮披薩 | skip | 步驟已詳盡 |
+| 221 | sf-salted-egg-yolk-fries | 金黃流沙薯條 | skip | 步驟已詳盡 |
+| 222 | sf-san-francisco-garlic-fries | 舊金山蒜香薯條 | skip | 步驟已詳盡 |
+| 223 | sf-second-floor-fiesta-shrimp-penne | 貳樓費氏鮮蝦長管麵 | skip | 步驟已詳盡 |
+| 224 | sf-second-floor-saltwater-chicken-salad | 貳樓金牌鹽水雞沙拉 | skip | 步驟已詳盡 |
+| 225 | sf-sichuan-chicken-mushroom-eggs-benedict | 台胃口水雞奶油炒菇班尼蛋 | skip | 步驟已詳盡 |
+| 226 | sf-signature-double-stack-burger | 實打實招牌漢堡 | skip | 步驟已詳盡 |
+| 227 | sf-smoked-salmon-caesar-salad | 經典燻鮭魚凱薩沙拉 | skip | 步驟已詳盡 |
+| 228 | sf-smoked-salmon-mushroom-eggs-benedict | 燻鮭魚奶油炒菇班尼蛋 | skip | 步驟已詳盡 |
+| 229 | sf-sous-vide-chicken-caesar-salad | 經典舒肥雞凱薩沙拉 | skip | 步驟已詳盡 |
+| 230 | sf-sous-vide-chicken-quinoa-cauliflower-rice | 舒肥雞藜麥花椰飯 | done | 批次擴寫 |
+| 231 | sf-south-sea-spiced-chicken-rice | 南洋辛香雞肉飯 | done | 批次擴寫 |
+| 232 | sf-spicy-mexican-firecracker-burger | 老墨辣鞭炮漢堡 | skip | 步驟已詳盡 |
+| 233 | sf-spicy-pepper-karaage-pasta | 香爆椒麻唐揚雞麵 | skip | 步驟已詳盡 |
+| 234 | sf-spicy-spanish-surf-and-turf-rice | 西班牙辣炒海陸飯 | done | 批次擴寫 |
+| 235 | sf-spicy-tomato-bacon-penne | 辣茄汁香煸培根長管麵 | skip | 步驟已詳盡 |
+| 236 | sf-strong-chocolate-cake | 強的 | skip | 步驟已詳盡 |
+| 237 | sf-supreme-cheese-omelette | 總匯奶起司歐姆蕾 | skip | 步驟已詳盡 |
+| 238 | sf-sweet-savory-rice | 甘味飯 | done | 批次擴寫 |
+| 239 | sf-tropical-yogurt-bowl | 熱帶水果優格碗 | skip | 步驟已詳盡 |
+| 240 | sf-truffle-fries | 松露薯條 | skip | 步驟已詳盡 |
+| 241 | sf-truffle-mushroom-cream-pasta | 松露蕈菇奶油麵 | skip | 步驟已詳盡 |
+| 242 | sf-white-wine-garlic-clam-squid-ink-pasta | 酒香蒜味蛤蜊墨魚麵 | skip | 步驟已詳盡 |
+| 243 | sf-worcester-meat-sauce-omelette | 烏斯特肉醬歐姆蕾 | skip | 步驟已詳盡 |
+| 244 | smoked-salmon-brunch | 煙燻鮭魚早午餐 | skip | 步驟已詳盡 |
+| 245 | smoked-salmon-caesar-salad | 煙燻鮭魚凱薩沙拉 | skip | 步驟已詳盡 |
+| 246 | solo-ginger-pork-rice | 薑絲肉燥飯 | done | 批次擴寫 |
+| 247 | solo-lu-rou-rice | 滷肉飯一人份 | done | 批次擴寫 |
+| 248 | solo-mapo-tofu-rice-bowl | 麻婆豆腐蓋飯 | done | 批次擴寫 |
+| 249 | solo-oyster-sauce-beef-rice | 蠔油牛肉蓋飯 | done | 批次擴寫 |
+| 250 | solo-pan-fried-pork-cutlet-rice | 煎豬排蓋飯 | done | 批次擴寫 |
+| 251 | solo-sesame-chicken-rice | 芝麻雞蓋飯 | done | 批次擴寫 |
+| 252 | solo-three-cup-chicken-rice | 三杯雞蓋飯 | done | 批次擴寫 |
+| 253 | soy-garlic-beef-slices | 醬蒜牛肉片 | done | 批次擴寫 |
+| 254 | soy-garlic-chicken-breast-pan | 醬香蒜煎雞胸 | done | 批次擴寫 |
+| 255 | spicy-garlic-bacon-pasta | 蒜辣培根橄欖油麵 | skip | 步驟已詳盡 |
+| 256 | spicy-seafood-tomato-pasta | 海鮮番茄辣麵 | skip | 步驟已詳盡 |
+| 257 | steamed-chicken-bento | 電鍋雞胸便當菜 | skip | 步驟已詳盡 |
+| 258 | surf-turf-brunch | 澎湃海陸早午餐 | skip | 步驟已詳盡 |
+| 259 | ten-minute-udon-soup | 十分鐘烏龍麵湯 | done | 批次擴寫 |
+| 260 | tofu-cabbage-mushroom-stirfry | 豆腐高麗菜菇菇炒 | done | 批次擴寫 |
+| 261 | tofu-egg-savory-rice-bowl | 豆腐蛋香拌飯 | done | 批次擴寫 |
+| 262 | tofu-scrambled-eggs | 豆腐炒蛋 | done | 批次擴寫 |
+| 263 | tofu-tomato-pasta | 豆腐番茄義大利麵 | skip | 步驟已詳盡 |
+| 264 | tomato-beef-rice-bowl | 番茄牛肉燴飯 | done | 批次擴寫 |
+| 265 | tomato-broccoli-egg-rice | 番茄青花菜蛋炒飯 | done | 批次擴寫 |
+| 266 | tomato-cabbage-soft-eggs | 番茄高麗菜滑蛋 | done | 批次擴寫 |
+| 267 | tomato-egg-rice | 番茄雞蛋飯 | done | 批次擴寫 |
+| 268 | tomato-egg-tofu-light-soup | 番茄蛋豆腐清湯 | done | 批次擴寫 |
+| 269 | tomato-garlic-cabbage-eggs | 番茄蒜香高麗菜炒蛋 | done | 批次擴寫 |
+| 270 | tomato-garlic-pasta | 番茄蒜香義大利麵 | done | 批次擴寫 |
+| 271 | tomato-onion-scrambled-eggs | 番茄洋蔥滑蛋 | done | 批次擴寫 |
+| 272 | tomato-onion-tofu-soup | 番茄洋蔥豆腐湯 | done | 批次擴寫 |
+| 273 | tomato-tofu-soup | 番茄豆腐湯 | done | 批次擴寫 |
+| 274 | truffle-mushroom-farfalle | 黑松露野菇蝴蝶麵 | skip | 步驟已詳盡 |
+| 275 | water-lily-stem-chicken-rice-bowl | 水蓮雞肉蓋飯 | skip | 步驟已詳盡 |
+| 276 | water-lily-stem-clear-soup | 水蓮清湯 | skip | 步驟已詳盡 |
+| 277 | water-lily-stem-egg-stirfry | 水蓮炒蛋 | skip | 步驟已詳盡 |
+| 278 | water-lily-stem-fish-ball-noodles | 水蓮貢丸湯麵 | skip | 步驟已詳盡 |
+| 279 | water-lily-stem-garlic-stirfry | 蒜蓉炒水蓮 | skip | 步驟已詳盡 |
+| 280 | water-lily-stem-mushroom-stirfry | 水蓮炒菇類 | skip | 步驟已詳盡 |
+| 281 | water-lily-stem-oyster-sauce | 蠔油炒水蓮 | skip | 步驟已詳盡 |
+| 282 | water-lily-stem-pork-soup | 水蓮肉片湯 | skip | 步驟已詳盡 |
+| 283 | water-lily-stem-sesame-toss | 麻油拌水蓮 | skip | 步驟已詳盡 |
+| 284 | water-lily-stem-shrimp-stirfry | 水蓮炒蝦仁 | skip | 步驟已詳盡 |
+| 285 | water-lily-stem-tofu-braise | 水蓮燒豆腐 | skip | 步驟已詳盡 |
+| 286 | weight-loss-clear-mushroom-soup | 減脂菇類清湯 | done | 批次擴寫 |
+| 287 | weight-loss-shrimp-veg-salad | 減脂鮮蝦沙拉 | skip | 步驟已詳盡 |
+| 288 | weight-loss-zucchini-chicken | 減脂櫛瓜雞肉 | skip | 步驟已詳盡 |
+| 289 | white-sauce-chicken-pasta | 白醬雞肉義大利麵 | skip | 步驟已詳盡 |
 
-**進度**：18 / 289（審修完成 16 篇 + 2 篇略過）
+**進度**：289 / 289（全部處理完畢）
 
-**下一篇**：`bento-honey-soy-pork`
+**狀態**：全部 slug 已處理完畢。機械審查 **Pass 289 / Warning 0 / Critical 0**（2026-06-22）。

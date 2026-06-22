@@ -65,7 +65,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-10'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 customAdditions:
 - King oyster mushrooms
 - Baby corn

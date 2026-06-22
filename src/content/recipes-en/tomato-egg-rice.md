@@ -46,6 +46,8 @@ steps:
 - Wash the ripe tomato, score a shallow cross on the bottom, blanch briefly in boiling water, peel, and dice into even bite-size pieces (peeling keeps the juice smoother). Beat the eggs in a bowl with a pinch of salt and 1 tsp water until lightly frothy (the water helps fluffier scrambled eggs). Set aside.
 - Heat a skillet with a little cold oil over medium-low. Add the tomato dice and cook, pressing lightly with a spatula, until fully soft and juicy. Pour in the eggs; when the edges set, stir quickly to combine into soft curds with the tomato.
 - Raise to medium heat. Add the rice (if chilled, break up gently with the back of the spatula—do not mash). Stir in the tomato paste and toss until the grains are evenly colored, moist, and lightly smoky from the pan; serve.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - If leftover rice is very hard, sprinkle a little water before it hits the pan.
 storage: Best eaten right away; if refrigerated, finish within 1 day.

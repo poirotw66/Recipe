@@ -1,7 +1,7 @@
 ---
 title: Air-Fryer Honey Sweet Potato
 recipeId: air-fryer-honey-sweet-potato
-description: Sweet potato cubes glazed with honey in the air fryer?”caramelized outside, fluffy inside, snack or light meal.
+description: Sweet potato cubes glazed with honey in the air fryer?ï¿½caramelized outside, fluffy inside, snack or light meal.
 coverImage: /images/recipes/air-fryer-honey-sweet-potato.webp
 servings: 1
 prepTime: 8
@@ -26,7 +26,7 @@ tips:
 - To cut sugar, use half the honey or a sugar substitute.
 substitutions: []
 relatedIngredients:
-- ?°ç?
+- ?ï¿½ï¿½?
 customAdditions: []
 ingredients:
 - name: Sweet potato
@@ -43,7 +43,7 @@ seasonings:
 - name: Salt
   amount: pinch
   unit: ''
-intro: Choose a slender potato for even cubes; brush honey late so it doesn?™t burn early.
+intro: Choose a slender potato for even cubes; brush honey late so it doesn?ï¿½t burn early.
 steps:
 - Peel sweet potato; cut into about 2 cm cubes and pat dry.
 - Toss with olive oil (1 tsp) and a pinch of salt; rest 2 minutes.
@@ -54,10 +54,10 @@ steps:
 storage: Best fresh; refrigerate up to 2 days; reheat at 160Â°C for 4 minutes.
 faqs:
 - question: Can I use potato?
-  answer: Yes?”soak cubes in cold water to remove starch, then add 2?? minutes air-fry time.
+  answer: Yes?ï¿½soak cubes in cold water to remove starch, then add 2?? minutes air-fry time.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 ---
 
 Fragrant and filling as a light solo dinner starch.

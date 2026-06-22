@@ -70,7 +70,7 @@ faqs:
   answer: Use a thin slurry of water or milk instead—coating sticks a bit less.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 ---
 
 When you want a treat without deep-frying in a big pot of oil.

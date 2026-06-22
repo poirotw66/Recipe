@@ -66,8 +66,6 @@ steps:
 - Chop cabbage; slice scallions; beat egg.
 - Bring water and soy sauce to a boil; add noodles and cabbage.
 - Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; noodles turn mushy overnight.
 faqs:
 - question: Instant noodles instead?

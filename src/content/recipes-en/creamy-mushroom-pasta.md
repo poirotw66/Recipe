@@ -49,6 +49,8 @@ steps:
 - Slice the mushrooms. Cook the pasta until al dente, drain, and reserve ½ cup pasta water.
 - Melt butter in a skillet; cook mushrooms until they release liquid and smell nutty. Pour in milk and simmer gently until it bubbles.
 - Add pasta with a little pasta water; toss until the sauce thickens. Season with salt and black pepper.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Milk scorches easily—keep heat low and stir steadily.
 storage: Best fresh; if chilled, finish within 1 day.

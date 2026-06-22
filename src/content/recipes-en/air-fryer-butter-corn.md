@@ -57,7 +57,7 @@ faqs:
   answer: Thaw, pat dry, air-fry about 2 minutes longer.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 ---
 
 Fragrant and fast—a renter-friendly extra side.

@@ -54,6 +54,7 @@ steps:
 - Heat oil over medium-high; pour mixture; press flat with a spatula.
 - Medium heat 4 minutes until the bottom is golden and set.
 - Flip; cook 3 minutes more, pressing lightly to compact grains.
+- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; re-crisp in a skillet 1 minute next day.
 faqs:
 - question: Rice too wet?

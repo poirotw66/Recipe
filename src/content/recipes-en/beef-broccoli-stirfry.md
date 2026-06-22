@@ -49,20 +49,20 @@ steps:
 - Add a little more oil if needed; sautÃ© garlic, then return broccoli and beef.
 - Pour in sauce; toss over high heat 30 seconds until evenly coated and beef is cooked through.
 tips:
-- Do not overcook the beef?”it stays more tender.
+- Do not overcook the beef?ï¿½it stays more tender.
 storage: Keeps 1 day refrigerated; reheat with a little oil in a hot pan.
 substitutions:
 - Cauliflower
 relatedIngredients:
-- ?›è?
-- ?’èŠ±??
+- ?ï¿½ï¿½?
+- ?ï¿½èŠ±??
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 customAdditions:
 - Scallions
 - Chili
 - Onion
 ---
 
-Beef and broccoli balances protein and greens?”solid for an even-keel weekday dinner.
+Beef and broccoli balances protein and greens?ï¿½solid for an even-keel weekday dinner.

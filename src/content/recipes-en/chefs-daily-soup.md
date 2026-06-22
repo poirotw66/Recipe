@@ -68,7 +68,6 @@ steps:
 - Heat olive oil; cook onion until translucent, add carrot and cabbage and stir 2 minutes.
 - Taste and adjust seasoning; serve while hot.
 - Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
 storage: Refrigerate up to 2 days; freeze up to 1 week; do not boil hard when reheating.
 featured: false
 publishedAt: '2026-06-03'

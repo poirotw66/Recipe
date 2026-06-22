@@ -1,7 +1,7 @@
 ---
 title: Air-Fryer Lemon Fish Fillet
 recipeId: air-fryer-lemon-fish-fillet
-description: White fish with lemon and herbs air-fried until delicate and tangy?”one serving.
+description: White fish with lemon and herbs air-fried until delicate and tangy?ï¿½one serving.
 coverImage: /images/recipes/air-fryer-lemon-fish-fillet.webp
 servings: 1
 prepTime: 8
@@ -23,13 +23,13 @@ tags:
 - Air fryer
 - Seafood
 tips:
-- If thicker than 2 cm, add 2 minutes?”but test with a fork first.
+- If thicker than 2 cm, add 2 minutes?ï¿½but test with a fork first.
 substitutions:
 - Salmon
 - Milkfish
 relatedIngredients:
-- é±ˆé?
-- ?’èŠ±??
+- é±ˆï¿½?
+- ?ï¿½èŠ±??
 customAdditions: []
 ingredients:
 - name: Cod fillet
@@ -56,7 +56,7 @@ seasonings:
 - name: Black pepper
   amount: pinch
   unit: ''
-intro: Overcooked fish dries out?”slightly under is better than tough; aim for moist center.
+intro: Overcooked fish dries out?ï¿½slightly under is better than tough; aim for moist center.
 steps:
 - Pat cod fillet thoroughly dry; mince garlic (1 clove). Cut broccoli (80 g) into small florets; rinse and drain.
 - Mix lemon juice (1.5 tbsp), olive oil (1 tbsp), garlic, salt, and black pepper; rub half on both sides of fish; rest 5 minutes.
@@ -64,13 +64,13 @@ steps:
 - Air-fry at 180Â°C for 6 minutes, flip gently, then 4?? more until lightly browned and opaque; flesh flakes easily.
 - Remove fish to keep warm. Air-fry broccoli at 180Â°C for 3?? minutes until stems are tender-crisp (or blanch 1 minute).
 - Plate fish with broccoli; drizzle a little more lemon juice if desired.
-storage: Best fresh; refrigerated fish toughens on reheat?”finish the same meal if possible.
+storage: Best fresh; refrigerated fish toughens on reheat?ï¿½finish the same meal if possible.
 faqs:
 - question: Will fish stick to the basket?
   answer: Parchment or a light oil coat helps; flip gently.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 ---
 
 Bright lemon fish you can finish at home without ordering out.

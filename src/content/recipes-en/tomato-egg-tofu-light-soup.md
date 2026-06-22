@@ -50,6 +50,8 @@ steps:
 - Chunk tomato; cube tofu; beat egg with pinch of salt and 1 tsp water until lightly foamy; slice scallion.
 - Tomatoes and 650 ml water; boil, then covered simmer 5 minutes for sweetness.
 - Add tofu; drizzle egg along the side for ribbons; salt and scallion.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Stir gently with chopsticks for finer egg threads.
 storage: Refrigerate 1 day; reheat gently.

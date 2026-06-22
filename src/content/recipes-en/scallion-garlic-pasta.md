@@ -49,6 +49,9 @@ steps:
 - Cook pasta al dente; reserve ½ cup pasta water. Separate scallion white and green; mince garlic.
 - Heat oil; sauté white parts and garlic until fragrant; add green parts briefly.
 - Toss pasta with soy sauce and a little pasta water until coated; serve.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Add scallion greens last for brighter color and scent.
 storage: Best fresh; up to 1 day refrigerated.

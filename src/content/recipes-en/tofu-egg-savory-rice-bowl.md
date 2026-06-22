@@ -49,6 +49,8 @@ steps:
 - Press and cube tofu; slice scallion; beat egg with a pinch of salt and 1 tsp water until lightly foamy.
 - Pan-fry tofu until lightly golden; pour in egg and scramble quickly.
 - Soy sauce and salt; plate over rice; scatter scallion.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - 1 tsp water in the egg keeps it softer.
 storage: Best the same meal.

@@ -46,8 +46,6 @@ steps:
 - "Prep: Salmon 240g, Broccoli 150g, Garlic 2cloves; mix Soy sauce 1tsp, Salt pinch in a small bowl if using."
 - Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Pat salmon dry and cut into portions; broccoli into small florets; mince garlic.
-- Skillet first—sear salmon until both sides color.
-- Add garlic and broccoli; stir-fry; season with soy sauce and a pinch of salt.
 tips:
 - Dry salmon well before the pan for crisper skin.
 storage: Best eaten the same meal.

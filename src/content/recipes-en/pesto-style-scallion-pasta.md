@@ -53,6 +53,9 @@ steps:
 - Cook pasta al dente. Blend scallion greens with minced garlic, oil, and cheese into a fine paste.
 - Without a processor, mince greens and garlic very fine and mix thoroughly with oil and cheese.
 - Toss drained pasta with the paste; loosen with pasta water as needed.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Add cheese gradually and taste—easy to oversalt.
 storage: Best fresh; green paste fades if held long.

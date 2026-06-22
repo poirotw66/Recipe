@@ -47,6 +47,7 @@ steps:
 - Shred the cabbage coarsely; smash the garlic. Beat the eggs with a pinch of salt and 1 tsp water until slightly frothy (the water helps fluffy, tender curds); set aside.
 - Heat oil in a skillet; stir-fry garlic, then cabbage until slightly softened.
 - Push the cabbage to the side, pour in the eggs and scramble into chunks, then toss with the cabbage and season.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Don’t cook the cabbage until it releases too much water—crisper texture is nicer.
 storage: Refrigerate up to 2 days; reheat in a dry skillet rather than the microwave for better aroma.

@@ -32,6 +32,7 @@ steps:
 - Heat oil in skillet; sauté aromatics and vegetables, then stir-fry rice quickly over medium-high heat.
 - Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 曙光醬 適量, 鮮奶油 適量 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).
 - Plate rice, top with main proteins (steak, patty, or egg yolk), and garnish with green onions.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."

@@ -50,6 +50,7 @@ steps:
 - Marinate Tofu with Garlic 2cloves, Soy sauce 1tsp, Salt pinch for 10 minutes; prep vegetables as needed.
 - Heat 1 Tbsp oil in a skillet over medium heat. Add Tofu, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Pat the tofu dry first—it browns more easily.
 storage: Best eaten fresh; refrigerate up to 1 day if needed.

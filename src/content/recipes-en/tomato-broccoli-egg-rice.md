@@ -49,6 +49,8 @@ steps:
 - Dice tomato; cut broccoli small; beat egg with pinch of salt and 1 tsp water until lightly foamy; fluff rice.
 - Scramble egg to half-set; remove. Wok tomato and broccoli until slightly soft.
 - Add rice and egg; toss evenly; finish with salt and soy sauce.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Let tomato release juice briefly so rice stays dry.
 storage: Eat fresh; leftovers 1 day refrigerated.

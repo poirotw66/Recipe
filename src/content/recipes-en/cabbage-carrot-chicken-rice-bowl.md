@@ -50,6 +50,7 @@ steps:
 - Marinate Chicken breast with Carrot 80g, Soy sauce 2tsp, Garlic 1clove for 10 minutes; dice Cabbage finely.
 - Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Cabbage 2 minutes until slightly tender; Add Chicken breast, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Finer carrot strips cook faster.
 storage: Refrigerate 1–2 days; reheat with a splash of water.

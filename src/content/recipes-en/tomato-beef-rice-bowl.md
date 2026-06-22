@@ -49,6 +49,7 @@ steps:
 - Marinate Beef with Tomato paste or ketchup 1tbsp, Soy sauce 1tsp, Sugar 1/2tsp for 10 minutes; dice Tomato finely.
 - Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Tomato 2 minutes until slightly tender; Add Beef, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - If tomato is sharp, add a pinch more sugar.
 storage: Best eaten right away.

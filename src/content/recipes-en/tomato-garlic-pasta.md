@@ -49,6 +49,8 @@ steps:
 - Dice the tomato and mince the garlic. Cook the pasta until al dente so it stays firm when tossed with sauce. Reserve ½ cup pasta water.
 - Heat oil in a skillet over medium-low. Sauté the garlic until fragrant, then add the tomato and cook until slightly soft and juicy.
 - Stir in tomato paste and a little pasta water. Add the drained pasta and toss evenly. Season with salt.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - If the tomato is very tart, balance with a pinch of sugar.
 storage: Best eaten fresh; refrigerated pasta softens—finish within 1 day.

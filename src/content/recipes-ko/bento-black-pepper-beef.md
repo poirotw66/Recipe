@@ -67,7 +67,7 @@ faqs:
   answer: 가능합니다. 등심을 얇게 썰어 같은 시간으로 볶으세요.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 ---
 
 도시락 후추 소고기는 도시락 메인으로 가장 인기 있는 요리 중 하나입니다.

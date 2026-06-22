@@ -61,6 +61,9 @@ steps:
 - Cut salmon into chunks and pat dry. Cook pasta until al dente; reserve ½ cup pasta water.
 - Blend scallion greens (green parts only), minced garlic, 2 tbsp olive oil, and grated cheese into a pesto paste.
 - Pan-fry salmon in remaining oil until golden both sides. Add pasta, pesto, and a little pasta water; toss. Finish with lemon juice and black pepper.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Toss gently so salmon doesn’t break into too many small pieces.
 storage: Best eaten immediately; fish loses quality overnight.

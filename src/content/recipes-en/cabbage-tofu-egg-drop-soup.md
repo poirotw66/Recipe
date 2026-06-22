@@ -50,6 +50,8 @@ steps:
 - Shred cabbage; cube tofu; beat egg with a pinch of salt and 1 tsp water; chop scallions.
 - Bring water and cabbage to a simmer about 6 minutes until tender.
 - Add tofu, lower heat, and stream in egg while stirring gently to form ribbons; season with salt and scallions.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Stir too fast and the egg breaks into fine grains—slow circles work best.
 storage: Refrigerate up to 1 day; reheat on low.

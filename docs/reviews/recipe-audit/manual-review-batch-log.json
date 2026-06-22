@@ -1,0 +1,1526 @@
+{
+  "updatedAt": "2026-06-22",
+  "doneCount": 113,
+  "skipCount": 176,
+  "errorCount": 0,
+  "results": [
+    {
+      "slug": "air-fryer-butter-corn",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "air-fryer-crispy-chicken-bites",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "air-fryer-crispy-tofu-cubes",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "air-fryer-garlic-mushrooms",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "air-fryer-garlic-okra",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "air-fryer-garlic-pork-chop",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "air-fryer-garlic-shrimp",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "air-fryer-honey-sweet-potato",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "air-fryer-lemon-fish-fillet",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "air-fryer-salmon-broccoli",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "air-fryer-soy-chicken-wings",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "airfryer-garlic-chicken-broccoli",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "airfryer-tofu-mushroom-main",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "beef-broccoli-stirfry",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "beef-carrot-soup",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "beef-mushroom-stirfry",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "beef-tofu-braise",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "beef-tomato-noodles",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "bento-black-pepper-beef",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "bento-braised-tofu-egg",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "bento-ginger-chicken",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "bento-honey-soy-pork",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "bento-stir-fried-cabbage",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "broccoli-mushroom-chicken-rice-bowl",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "broccoli-mushroom-egg",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "broccoli-onion-chicken-soup",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "broccoli-tofu-garlic-stirfry",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "budget-cabbage-noodle-soup",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "budget-simple-egg-fried-rice",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "budget-tofu-rice-bowl",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "butter-garlic-instant-noodles",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "cabbage-carrot-chicken-rice-bowl",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "cabbage-egg-stir-fry",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "cabbage-mushroom-clear-soup",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "cabbage-mushroom-rice",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "cabbage-onion-eggs",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "cabbage-tofu-egg-drop-soup",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "cajun-fries",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "canned-tuna-rice-bowl",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "carrot-chicken-rice-bowl",
+      "status": "done",
+      "reason": "先前手動完成"
+    },
+    {
+      "slug": "chefs-daily-soup",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "chicken-broccoli-pasta",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 6
+    },
+    {
+      "slug": "classic-caesar-chicken-salad",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "clearout-tofu-veggie-soup",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "clearout-veggie-egg-fried-rice",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "creamy-mushroom-pasta",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "crispy-cod-brunch",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "curry-beef-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "dh-bbq-korean-fried-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-bbq-wrap",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-bibimbap",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-brown-sugar-pancake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-cajun-korean-fried-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-cheese-kimchi-mushroom-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-cheese-pink-sauce-fried-squid-with-rice-cake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-cheese-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-cheese-stuffed-rice-cake-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-cheese-vegetable-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-clams-shrimp-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-classic-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-classic-stone-pot-rice",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-combo-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-creamy-onion-korean-fried-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-curry-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-deep-fried-tofu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-duck-jerky-stone-pot-rice",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-fish-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-french-fries-with-korean-flavored-sauce",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-fried-glass-noodle",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-fried-oysters",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-ginseng-chicken-clay-pot",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-ginseng-chicken-hot-pot",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-golden-chicken-stone-pot-rice",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-honey-garlic-korean-fried-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-kimchi-mushroom-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-kimchi-seafood-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-kimchi-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-kimchi-tofu-pancake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-korean-bbq-beef-short-ribs",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-korean-cheese-egg-roll",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-korean-dumpling-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-korean-fried-chicken-combo",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-korean-style-bbq-fish-ball",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-korean-sweet-and-sour-pork",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-korean-vermicelli-tofu-roll",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-original-korean-fried-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-ox-bone-soup",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-plant-based-fried-chicken-with-mushroom-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-plant-based-fried-chicken-with-rice-cake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-potato-pancake-with-cheese",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-royal-stir-fried-rice-cake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-seafood-pancake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-seafood-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-seaweed-oyster-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-spicy-korean-fried-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-spicy-pan-fried-seafood-rice-cake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-spicy-pan-fried-squid",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-spicy-stired-fried-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-steamed-eggs-with-cheese-roe",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-stired-fried-fish-fillet-with-vegetables",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-tofu-ice-cream-with-tapioca",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-truffle-cheese-egg-roll",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-truffle-jjajang-cheese-rice-cake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-vegetable-pancake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "dh-vegetable-soondubu",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "egg-scallion-oil-noodles",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "electricpot-broccoli-chicken-bento",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "electricpot-mushroom-chicken-bento",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "electricpot-tofu-egg-bento-side",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "fish-and-chips",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "fridge-bottom-soup-noodles",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "fried-trio-platter",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "garden-vegetable-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "garlic-beef-cabbage-stirfry",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "garlic-cabbage-tofu-braise",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "garlic-cream-shrimp-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "garlic-egg-cabbage-bento-side",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "garlic-mushroom-chicken",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "garlic-mushroom-tofu-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "garlic-oil-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "garlic-tofu-chicken-pan-main",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "garlic-tomato-chicken-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "garlic-tomato-tofu-eggs",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "herb-pan-chicken-brunch",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "high-protein-chicken-broccoli-bowl",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "high-protein-egg-white-stirfry",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "high-protein-shrimp-tofu-bowl",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "high-protein-tofu-steak-plate",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "honey-cajun-chicken-wings",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "instant-miso-egg-soup",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "leftover-meat-quick-stirfry",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "leftover-mixed-veggie-fried-rice",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "leftover-rice-egg-pancake",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "microwave-steamed-egg-rice",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "mixed-leftover-congee",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "mushroom-beef-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "mushroom-cabbage-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "mushroom-scallion-soft-eggs",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "mushroom-soft-egg-brunch",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "onion-bacon-style-egg-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "onion-beef-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "onion-beef-slices",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "onion-cabbage-mushroom-saute",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "onion-carrot-egg-bento-side",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "onion-egg-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "onion-garlic-tofu-eggs",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "onion-salmon-pan-steak",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "onion-tomato-egg-fried-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "pan-seared-flap-steak-brunch",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "pesto-chicken-broccoli-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "pesto-chicken-mushroom-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "pesto-chicken-pasta",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 6
+    },
+    {
+      "slug": "pesto-salmon-broccoli-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "pesto-salmon-pasta",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "pesto-shrimp-pasta",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 6
+    },
+    {
+      "slug": "pesto-style-scallion-pasta",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "quick-kimchi-fried-rice",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "quick-pickled-cucumber-egg-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "random-veggie-egg-pancake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "roasted-lemon-salmon-brunch",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "salmon-broccoli-garlic-main",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "salmon-garlic-pasta",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "scallion-beef-fried-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "scallion-beef-stirfry",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "scallion-chicken-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "scallion-egg-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "scallion-garlic-pasta",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "scallion-mushroom-egg-pan",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "scallion-oil-dry-noodles",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "seasonal-greens-salad-bowl",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sesame-cold-noodles-solo",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sesame-onion-chicken-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "sf-acai-berry-yogurt-bowl",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-american-cheesecake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-asahi-cordon-bleu-pork-burger",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-avocado-bacon-open-toast",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-avocado-local-sausage-danish-open",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-avocado-smoked-salmon-open-toast",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-baked-thick-cut-pork-cream-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "sf-balsamic-mushroom-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-bbq-roasted-half-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-black-pepper-hamburg-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "sf-black-truffle-cordon-bleu-pork-open",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-bloody-mary-spicy-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "sf-brownie-ice-cream",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-buffalo-chicken-wings",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-campfire-lemon-zucchini-fish-fillet",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-cheesy-chicken-egg-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "sf-cheesy-local-sausage-cream-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-chef-crispy-pork-knuckle",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-chicken-quesadilla",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-classic-beef-mushroom-eggs-benedict",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-classic-caesar-salad",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-classic-ham-mushroom-eggs-benedict",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-classic-pesto-shrimp-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-country-cinnamon-peach-pie",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-crispy-calamari-cocktail-sauce",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-dawn-shrimp-chicken-linguine",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-greek-campfire-grilled-chicken-brunch",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-green-superhero-quinoa-buddha-bowl",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-griddled-butter-ham-sandwich",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-keto-surf-and-turf-platter",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-kids-cream-chicken-penne",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-local-sausage-quesadilla",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-mini-beef-egg-burger-set",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-moon-view-bitter-melon-cream-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "sf-mushroom-cheese-omelette",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-oat-crusted-fish-and-fries",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-orange-danish-mushroom-poached-potato",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-orange-danish-poached-seafood-potato",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-orange-danish-sous-vide-steak",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-orange-danish-sunny-sous-vide-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-poached-egg-smoked-beef-danish-open",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-poutine-meat-sauce-fries",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-roasted-sesame-chicken-salad",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-salsa-black-curry-fried-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-salted-egg-bitter-melon-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-salted-egg-seafood-pizza",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-salted-egg-yolk-fries",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-san-francisco-garlic-fries",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-second-floor-fiesta-shrimp-penne",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-second-floor-saltwater-chicken-salad",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-signature-double-stack-burger",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-smoked-salmon-caesar-salad",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-sous-vide-chicken-caesar-salad",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "sf-south-sea-spiced-chicken-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "sf-spicy-mexican-firecracker-burger",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-spicy-pepper-karaage-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-spicy-spanish-surf-and-turf-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "sf-spicy-tomato-bacon-penne",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-strong-chocolate-cake",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-supreme-cheese-omelette",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-sweet-savory-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "sf-tropical-yogurt-bowl",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-truffle-fries",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-truffle-mushroom-cream-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-white-wine-garlic-clam-squid-ink-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "sf-worcester-meat-sauce-omelette",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "smoked-salmon-brunch",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "smoked-salmon-caesar-salad",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "solo-ginger-pork-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "solo-lu-rou-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "solo-mapo-tofu-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "solo-oyster-sauce-beef-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "solo-pan-fried-pork-cutlet-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "solo-sesame-chicken-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "solo-three-cup-chicken-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "soy-garlic-beef-slices",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "soy-garlic-chicken-breast-pan",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "spicy-garlic-bacon-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "spicy-seafood-tomato-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "steamed-chicken-bento",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "surf-turf-brunch",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "ten-minute-udon-soup",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "tofu-cabbage-mushroom-stirfry",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "tofu-egg-savory-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "tofu-scrambled-eggs",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "tofu-tomato-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "tomato-beef-rice-bowl",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "tomato-broccoli-egg-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "tomato-cabbage-soft-eggs",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "tomato-egg-rice",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "tomato-egg-tofu-light-soup",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "tomato-garlic-cabbage-eggs",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "tomato-garlic-pasta",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 4
+    },
+    {
+      "slug": "tomato-onion-scrambled-eggs",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 3
+    },
+    {
+      "slug": "tomato-onion-tofu-soup",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "tomato-tofu-soup",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "truffle-mushroom-farfalle",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-chicken-rice-bowl",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-clear-soup",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-egg-stirfry",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-fish-ball-noodles",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-garlic-stirfry",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-mushroom-stirfry",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-oyster-sauce",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-pork-soup",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-sesame-toss",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-shrimp-stirfry",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "water-lily-stem-tofu-braise",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "weight-loss-clear-mushroom-soup",
+      "status": "done",
+      "reason": "批次擴寫",
+      "steps": 5
+    },
+    {
+      "slug": "weight-loss-shrimp-veg-salad",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "weight-loss-zucchini-chicken",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    },
+    {
+      "slug": "white-sauce-chicken-pasta",
+      "status": "skip",
+      "reason": "步驟已詳盡"
+    }
+  ]
+}

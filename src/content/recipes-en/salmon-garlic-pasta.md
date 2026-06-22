@@ -53,6 +53,9 @@ steps:
 - Cube salmon; pat dry. Cook pasta al dente; reserve ½ cup pasta water.
 - Heat oil; sear salmon golden both sides; set aside.
 - Lower heat; gently cook garlic slices; add pasta and pasta water; fold salmon back in; lemon and pepper to finish.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Return salmon at the end so it does not break apart.
 storage: Best fresh; fish quality drops overnight.

@@ -68,7 +68,7 @@ faqs:
   answer: Yes—thaw completely and pat very dry or they’ll steam and weep.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 ---
 
 From prep to plate in under 20 minutes—a solid weeknight option.

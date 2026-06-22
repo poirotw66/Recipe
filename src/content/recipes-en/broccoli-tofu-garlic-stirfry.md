@@ -47,7 +47,6 @@ steps:
 - Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Cut broccoli into florets; cube tofu; mince garlic.
 - Pan-fry tofu until lightly golden; set aside.
-- Heat oil over medium, sauté garlic until fragrant, stir-fry broccoli until bright green, return tofu, and season with salt and soy sauce.
 tips:
 - Blanch broccoli 30 seconds first for more predictable doneness.
 storage: Refrigerate up to 1 day; reheat over medium-high in a skillet.

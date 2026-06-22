@@ -45,6 +45,7 @@ steps:
 - Shred beef and slice scallions; use cooled rice for better separation.
 - Heat oil; stir-fry beef over high heat until the surface changes color (about 70–80% done), then remove promptly so it doesn’t toughen.
 - In the same pan with fresh oil, sauté scallion whites over medium-low until fragrant. Add rice and soy sauce; toss fast. Return beef and scallion greens and mix.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - High heat and quick hands give the best grain separation.
 storage: Best eaten right away; for bento, cook beef through fully.

@@ -49,8 +49,6 @@ steps:
 - "Prep: Onion 0.5, Cabbage 180g, Mushrooms 120g; mix Garlic 1clove, Salt pinch, Soy sauce 1tsp in a small bowl if using."
 - Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Slice onion, cabbage, and mushrooms; mince garlic.
-- Heat oil; sauté garlic and onion until fragrant; add cabbage and mushrooms; toss until wilted.
-- Season with salt and soy sauce; reduce briefly and serve.
 tips:
 - For crisper cabbage, shorten cooking by about 1 minute.
 storage: Refrigerate 1 day.

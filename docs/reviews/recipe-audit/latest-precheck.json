@@ -1,5369 +1,1743 @@
 {
-  "generated_at": "2026-06-15",
+  "generated_at": "2026-06-22",
   "recipe_count": 289,
-  "pass": 60,
-  "warning": 229,
+  "pass": 289,
+  "warning": 0,
   "critical": 0,
   "recipes": [
     {
       "slug": "air-fryer-butter-corn",
       "title": "氣炸奶油玉米",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 12,
-      "totalTime": 17,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-crispy-chicken-bites",
       "title": "氣炸台式雞塊",
-      "servings": 1,
-      "prepTime": 12,
-      "cookTime": 14,
-      "totalTime": 26,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-crispy-tofu-cubes",
       "title": "氣炸酥炸豆腐丁",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 16,
-      "totalTime": 26,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-garlic-mushrooms",
       "title": "氣炸蒜香菇類",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-garlic-okra",
       "title": "氣炸蒜香秋葵",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-garlic-pork-chop",
       "title": "氣炸蒜香豬排",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 16,
-      "totalTime": 26,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-garlic-shrimp",
       "title": "氣炸蒜香蝦仁",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 8,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-honey-sweet-potato",
       "title": "氣炸蜜蕃薯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 18,
-      "totalTime": 26,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-lemon-fish-fillet",
       "title": "氣炸檸檬魚排",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-salmon-broccoli",
       "title": "氣炸鮭魚青花菜",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 14,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-soy-chicken-wings",
       "title": "氣炸醬油雞翅",
-      "servings": 1,
-      "prepTime": 12,
-      "cookTime": 20,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "airfryer-garlic-chicken-broccoli",
       "title": "氣炸蒜香雞胸佐青花菜",
-      "servings": 2,
-      "prepTime": 10,
-      "cookTime": 15,
-      "totalTime": 25,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "airfryer-tofu-mushroom-main",
       "title": "氣炸豆腐菇菇主菜",
-      "servings": 2,
-      "prepTime": 9,
-      "cookTime": 14,
-      "totalTime": 23,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "beef-broccoli-stirfry",
       "title": "牛肉青花快炒",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "beef-carrot-soup",
       "title": "紅蘿蔔牛肉湯",
-      "servings": 1,
-      "prepTime": 12,
-      "cookTime": 38,
-      "totalTime": 50,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "beef-mushroom-stirfry",
       "title": "牛肉炒香菇",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 10,
-      "totalTime": 17,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "beef-tofu-braise",
       "title": "牛肉豆腐燉煮",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 28,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "beef-tomato-noodles",
       "title": "番茄牛肉麵",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 20,
-      "totalTime": 30,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "bento-black-pepper-beef",
       "title": "便當黑椒牛肉",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 8,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "bento-braised-tofu-egg",
       "title": "便當滷蛋豆腐",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 18,
-      "totalTime": 26,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "bento-ginger-chicken",
       "title": "便當薑炒雞肉",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 12,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "bento-honey-soy-pork",
       "title": "便當蜜汁滷肉",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 20,
-      "totalTime": 28,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "bento-stir-fried-cabbage",
       "title": "便當炒高麗菜",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 8,
-      "totalTime": 14,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "broccoli-mushroom-chicken-rice-bowl",
       "title": "青花菜菇菇雞胸飯",
-      "servings": 2,
-      "prepTime": 10,
-      "cookTime": 12,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "broccoli-mushroom-egg",
       "title": "青花菜菇菇炒蛋",
-      "servings": 2,
-      "prepTime": 7,
-      "cookTime": 10,
-      "totalTime": 17,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "broccoli-onion-chicken-soup",
       "title": "青花菜洋蔥雞湯",
-      "servings": 2,
-      "prepTime": 9,
-      "cookTime": 14,
-      "totalTime": 23,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "broccoli-tofu-garlic-stirfry",
       "title": "青花菜豆腐蒜炒",
-      "servings": 2,
-      "prepTime": 9,
-      "cookTime": 10,
-      "totalTime": 19,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "budget-cabbage-noodle-soup",
       "title": "省錢高麗菜麵",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 10,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "budget-simple-egg-fried-rice",
       "title": "省錢蛋炒飯",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 8,
-      "totalTime": 13,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "budget-tofu-rice-bowl",
       "title": "省錢豆腐蓋飯",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 10,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "butter-garlic-instant-noodles",
       "title": "奶油蒜香泡麵",
-      "servings": 1,
-      "prepTime": 4,
-      "cookTime": 8,
-      "totalTime": 12,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "cabbage-carrot-chicken-rice-bowl",
       "title": "高麗菜紅蘿蔔雞胸飯",
-      "servings": 2,
-      "prepTime": 10,
-      "cookTime": 12,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "cabbage-egg-stir-fry",
       "title": "高麗菜炒蛋",
-      "servings": 2,
-      "prepTime": 5,
-      "cookTime": 10,
-      "totalTime": 15,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "cabbage-mushroom-clear-soup",
       "title": "高麗菜菇菇清湯",
-      "servings": 2,
-      "prepTime": 7,
-      "cookTime": 11,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "cabbage-mushroom-rice",
       "title": "高麗菜菇菇炊飯",
-      "servings": 3,
-      "prepTime": 8,
-      "cookTime": 25,
-      "totalTime": 33,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "cabbage-onion-eggs",
       "title": "高麗菜洋蔥炒蛋",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 9,
-      "totalTime": 17,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 3,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "cabbage-tofu-egg-drop-soup",
       "title": "高麗菜豆腐蛋花湯",
-      "servings": 2,
-      "prepTime": 7,
-      "cookTime": 12,
-      "totalTime": 19,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "cajun-fries",
       "title": "肯瓊香辣薯條",
-      "servings": 1,
-      "prepTime": 12,
-      "cookTime": 18,
-      "totalTime": 30,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "canned-tuna-rice-bowl",
       "title": "鮪魚罐頭飯",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 3,
-      "totalTime": 8,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "carrot-chicken-rice-bowl",
       "title": "紅蘿蔔雞胸飯",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 15,
-      "totalTime": 23,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "chefs-daily-soup",
       "title": "主廚每日例湯",
-      "servings": 2,
-      "prepTime": 10,
-      "cookTime": 25,
-      "totalTime": 35,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "chicken-broccoli-pasta",
       "title": "雞胸青花義大利麵",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 16,
-      "totalTime": 24,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "classic-caesar-chicken-salad",
       "title": "經典凱薩嫩雞沙拉",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 10,
-      "totalTime": 20,
-      "ingredient_count": 2,
-      "seasoning_count": 6,
-      "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "clearout-tofu-veggie-soup",
       "title": "豆腐蔬菜清湯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "clearout-veggie-egg-fried-rice",
       "title": "家常蛋炒飯",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 8,
-      "totalTime": 14,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "creamy-mushroom-pasta",
       "title": "奶香菇類義大利麵",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 15,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "crispy-cod-brunch",
       "title": "金黃酥炸鱈魚早午餐",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 12,
-      "totalTime": 22,
-      "ingredient_count": 3,
-      "seasoning_count": 6,
-      "step_count": 5,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "curry-beef-rice",
       "title": "咖哩牛肉飯",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 18,
-      "totalTime": 28,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-bbq-korean-fried-chicken",
       "title": "醬味韓式炸雞",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 7,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-bbq-wrap",
       "title": "醬燒青蔥牛五花/豬梅花",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 4,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-bibimbap",
       "title": "石燒拌飯",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 20,
-      "totalTime": 35,
-      "ingredient_count": 7,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-brown-sugar-pancake",
       "title": "韓式爆漿黑糖餅",
-      "servings": 2,
-      "prepTime": 15,
-      "cookTime": 12,
-      "totalTime": 27,
-      "ingredient_count": 4,
-      "seasoning_count": 2,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-cajun-korean-fried-chicken",
       "title": "肯瓊醬韓式炸雞",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 6,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-cheese-kimchi-mushroom-soondubu",
       "title": "起司泡菜鮮菇嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-cheese-pink-sauce-fried-squid-with-rice-cake",
       "title": "起司玫瑰醬魷魚年糕",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-cheese-soondubu",
       "title": "起司嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 5,
-      "seasoning_count": 6,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-cheese-stuffed-rice-cake-soondubu",
       "title": "打爆起司年糕嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 5,
-      "seasoning_count": 6,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed",
       "title": "海菜起司年糕鮮魚嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-cheese-vegetable-soondubu",
       "title": "起司野菜鮮菇嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 5,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-clams-shrimp-soondubu",
       "title": "蛤蜊鮮蝦嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-classic-soondubu",
       "title": "嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 4,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-classic-stone-pot-rice",
       "title": "韓式石鍋飯",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 20,
-      "totalTime": 35,
-      "ingredient_count": 4,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-combo-soondubu",
       "title": "海陸綜合嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 7,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-creamy-onion-korean-fried-chicken",
       "title": "洋蔥白醬韓式炸雞",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 6,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-curry-soondubu",
       "title": "咖哩嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 5,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-deep-fried-tofu",
       "title": "黃金酥炸嫩豆腐",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
-      "ingredient_count": 1,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-duck-jerky-stone-pot-rice",
       "title": "鴨賞石鍋飯",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 20,
-      "totalTime": 35,
-      "ingredient_count": 4,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-fish-soondubu",
       "title": "鮮魚嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 5,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-french-fries-with-korean-flavored-sauce",
       "title": "韓式酥炸脆薯",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
-      "ingredient_count": 1,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-fried-glass-noodle",
       "title": "韓式炒冬粉",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
-      "ingredient_count": 5,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-fried-oysters",
       "title": "巨濟島炸牡蠣",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 1,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-ginseng-chicken-clay-pot",
       "title": "人蔘砂鍋雞",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 6,
-      "seasoning_count": 2,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-ginseng-chicken-hot-pot",
       "title": "韓國人蔘雞火鍋",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 8,
-      "seasoning_count": 2,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-golden-chicken-stone-pot-rice",
       "title": "黃金雞石鍋飯",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 20,
-      "totalTime": 35,
-      "ingredient_count": 4,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-honey-garlic-korean-fried-chicken",
       "title": "蜂蜜蒜味韓式炸雞",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 6,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-kimchi-mushroom-soondubu",
       "title": "泡菜鮮菇嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-kimchi-seafood-soondubu",
       "title": "泡菜海鮮嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-kimchi-soondubu",
       "title": "泡菜嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-kimchi-tofu-pancake",
       "title": "泡菜豆腐煎餅",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-korean-bbq-beef-short-ribs",
       "title": "韓式BBQ鐵板翼板牛",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-korean-cheese-egg-roll",
       "title": "韓式起司烘蛋捲",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-korean-dumpling-soondubu",
       "title": "韓式餃子嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-korean-fried-chicken-combo",
       "title": "Combo雙享韓式炸雞",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 1,
-      "seasoning_count": 7,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-korean-style-bbq-fish-ball",
       "title": "韓風辣味魚丸燒",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-korean-sweet-and-sour-pork",
       "title": "韓國糖醋肉",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-korean-vermicelli-tofu-roll",
       "title": "韓式金絲豆腐捲",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-original-korean-fried-chicken",
       "title": "原味韓式炸雞",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-ox-bone-soup",
       "title": "神仙霜降雪濃湯",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 2,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-plant-based-fried-chicken-with-mushroom-soondubu",
       "title": "植感炸雞鮮菇嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-plant-based-fried-chicken-with-rice-cake",
       "title": "植感炸雞年糕",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-potato-pancake-with-cheese",
       "title": "起司馬鈴薯煎餅",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 5,
-      "seasoning_count": 5,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-royal-stir-fried-rice-cake",
       "title": "韓式宮廷炒年糕",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 5,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-seafood-pancake",
       "title": "綜合海鮮煎餅",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-seafood-soondubu",
       "title": "海鮮嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 7,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-seaweed-oyster-soondubu",
       "title": "海菜鮮蚵嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-spicy-korean-fried-chicken",
       "title": "辣味韓式炸雞",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
-      "seasoning_count": 7,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-spicy-pan-fried-seafood-rice-cake",
       "title": "海鮮辣炒年糕",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 5,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-spicy-pan-fried-squid",
       "title": "辣炒中卷",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-spicy-stired-fried-chicken",
       "title": "春川辣炒雞",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-steamed-eggs-with-cheese-roe",
       "title": "魚卵起司陶鍋蛋",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
-      "ingredient_count": 2,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-stired-fried-fish-fillet-with-vegetables",
       "title": "田園醬燒飛虎魚",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-tofu-ice-cream-with-tapioca",
       "title": "珍珠豆腐冰淇淋",
-      "servings": 2,
-      "prepTime": 15,
-      "cookTime": 12,
-      "totalTime": 27,
-      "ingredient_count": 2,
-      "seasoning_count": 2,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-truffle-cheese-egg-roll",
       "title": "松露韓式起司烘蛋捲",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 20,
-      "totalTime": 42,
-      "ingredient_count": 1,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-truffle-jjajang-cheese-rice-cake",
       "title": "黑松露炸醬起司年糕",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 2,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-vegetable-pancake",
       "title": "絲瓜鮮蔬煎餅",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-vegetable-soondubu",
       "title": "野菜鮮菇嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 4,
-      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "egg-scallion-oil-noodles",
       "title": "蛋蔥油麵",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 9,
-      "totalTime": 15,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "electricpot-broccoli-chicken-bento",
       "title": "電鍋青花菜雞胸便當菜",
-      "servings": 2,
-      "prepTime": 10,
-      "cookTime": 18,
-      "totalTime": 28,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "electricpot-mushroom-chicken-bento",
       "title": "電鍋菇菇雞胸便當菜",
-      "servings": 2,
-      "prepTime": 10,
-      "cookTime": 18,
-      "totalTime": 28,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "electricpot-tofu-egg-bento-side",
       "title": "電鍋豆腐蛋便當菜",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 15,
-      "totalTime": 23,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "fish-and-chips",
       "title": "英式炸魚薯條",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 20,
-      "totalTime": 35,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "fridge-bottom-soup-noodles",
       "title": "什錦蔬菜湯麵",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "fried-trio-platter",
       "title": "炸物三重奏",
-      "servings": 2,
-      "prepTime": 15,
-      "cookTime": 22,
-      "totalTime": 37,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garden-vegetable-pasta",
       "title": "田園時蔬義大利麵",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 14,
-      "totalTime": 24,
-      "ingredient_count": 4,
-      "seasoning_count": 5,
-      "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-beef-cabbage-stirfry",
       "title": "蒜香牛肉炒高麗菜",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-cabbage-tofu-braise",
       "title": "蒜頭高麗菜豆腐煮",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-cream-shrimp-pasta",
       "title": "蒜香奶油鮮蝦麵",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 16,
-      "totalTime": 24,
-      "ingredient_count": 3,
-      "seasoning_count": 6,
-      "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-egg-cabbage-bento-side",
       "title": "蒜香蛋炒高麗菜便當菜",
-      "servings": 2,
-      "prepTime": 7,
-      "cookTime": 8,
-      "totalTime": 15,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-mushroom-chicken",
       "title": "蒜香菇菇雞胸",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-mushroom-tofu-rice-bowl",
       "title": "蒜香菇豆腐拌飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-oil-pasta",
       "title": "蒜香義大利麵",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 12,
-      "totalTime": 17,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-tofu-chicken-pan-main",
       "title": "蒜香豆腐雞胸主菜",
-      "servings": 2,
-      "prepTime": 9,
-      "cookTime": 12,
-      "totalTime": 21,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-tomato-chicken-rice-bowl",
       "title": "蒜香番茄雞胸飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 11,
-      "totalTime": 19,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-tomato-tofu-eggs",
       "title": "蒜香番茄豆腐炒蛋",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 10,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "herb-pan-chicken-brunch",
       "title": "香草煎雞胸早午餐",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 12,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "high-protein-chicken-broccoli-bowl",
       "title": "高蛋白雞肉青花碗",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 14,
-      "totalTime": 24,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "high-protein-egg-white-stirfry",
       "title": "高蛋白蛋白炒",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 6,
-      "totalTime": 14,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "high-protein-shrimp-tofu-bowl",
       "title": "高蛋白蝦豆腐碗",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 12,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "high-protein-tofu-steak-plate",
       "title": "高蛋白豆腐排",
-      "servings": 1,
-      "prepTime": 12,
-      "cookTime": 10,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "honey-cajun-chicken-wings",
       "title": "蜜汁紐澳良雞翅",
-      "servings": 2,
-      "prepTime": 10,
-      "cookTime": 28,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "instant-miso-egg-soup",
       "title": "味噌蛋花湯",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 6,
-      "totalTime": 11,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "leftover-meat-quick-stirfry",
       "title": "豬肉青椒快炒",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 8,
-      "totalTime": 14,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "leftover-mixed-veggie-fried-rice",
       "title": "綜合蔬菜炒飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "leftover-rice-egg-pancake",
       "title": "米飯蛋煎餅",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 10,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "microwave-steamed-egg-rice",
       "title": "電子鍋蒸蛋蓋飯",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 12,
-      "totalTime": 17,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "mixed-leftover-congee",
       "title": "蛋花鹹粥",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 15,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "mushroom-beef-rice-bowl",
       "title": "香菇牛肉蓋飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 14,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "mushroom-cabbage-rice-bowl",
       "title": "菇菇高麗菜燴飯",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "mushroom-scallion-soft-eggs",
       "title": "菇菇青蔥滑蛋",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 8,
-      "totalTime": 13,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "mushroom-soft-egg-brunch",
       "title": "野菇嫩蛋早午餐",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 10,
-      "totalTime": 17,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-bacon-style-egg-pasta",
       "title": "洋蔥蛋香義大利麵",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 14,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-beef-rice-bowl",
       "title": "洋蔥牛肉蓋飯",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 13,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-beef-slices",
       "title": "洋蔥牛肉片",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-cabbage-mushroom-saute",
       "title": "洋蔥高麗菜菇菇炒",
-      "servings": 2,
-      "prepTime": 9,
-      "cookTime": 10,
-      "totalTime": 19,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-carrot-egg-bento-side",
       "title": "洋蔥紅蘿蔔炒蛋便當菜",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 9,
-      "totalTime": 17,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-egg-rice-bowl",
       "title": "洋蔥滑蛋飯",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 10,
-      "totalTime": 15,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-garlic-tofu-eggs",
       "title": "洋蔥蒜香豆腐炒蛋",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-salmon-pan-steak",
       "title": "洋蔥香煎鮭魚排",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-tomato-egg-fried-rice",
       "title": "洋蔥番茄蛋炒飯",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 9,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pan-seared-flap-steak-brunch",
       "title": "香煎翼板牛排早午餐",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 14,
-      "totalTime": 22,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 5,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-chicken-broccoli-pasta",
       "title": "青蔥蒜香雞肉青花義大利麵",
-      "servings": 1,
-      "prepTime": 9,
-      "cookTime": 18,
-      "totalTime": 27,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-chicken-mushroom-pasta",
       "title": "青蔥蒜香雞肉菇類義大利麵",
-      "servings": 1,
-      "prepTime": 9,
-      "cookTime": 17,
-      "totalTime": 26,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-chicken-pasta",
       "title": "青蔥蒜香雞胸義大利麵",
-      "servings": 1,
-      "prepTime": 9,
-      "cookTime": 16,
-      "totalTime": 25,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-salmon-broccoli-pasta",
       "title": "青蔥蒜香鮭魚青花義大利麵",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 18,
-      "totalTime": 28,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-salmon-pasta",
       "title": "青蔥蒜香鮭魚義大利麵",
-      "servings": 1,
-      "prepTime": 9,
-      "cookTime": 16,
-      "totalTime": 25,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-shrimp-pasta",
       "title": "青蔥蒜香蝦仁義大利麵",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 14,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-style-scallion-pasta",
       "title": "青蔥風味義大利麵",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "quick-kimchi-fried-rice",
       "title": "快速泡菜炒飯",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 8,
-      "totalTime": 13,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "quick-pickled-cucumber-egg-rice",
       "title": "菜脯蛋飯",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 8,
-      "totalTime": 13,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "random-veggie-egg-pancake",
       "title": "雜菜雞蛋煎餅",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "roasted-lemon-salmon-brunch",
       "title": "爐烤檸香鮭魚早午餐",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 16,
-      "totalTime": 24,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "salmon-broccoli-garlic-main",
       "title": "蒜香鮭魚青花菜主菜",
-      "servings": 2,
-      "prepTime": 9,
-      "cookTime": 12,
-      "totalTime": 21,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "salmon-garlic-pasta",
       "title": "蒜香鮭魚義大利麵",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 16,
-      "totalTime": 24,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "scallion-beef-fried-rice",
       "title": "蔥花牛肉炒飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "scallion-beef-stirfry",
       "title": "蔥爆牛肉",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 6,
-      "totalTime": 21,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "scallion-chicken-rice-bowl",
       "title": "青蔥雞胸拌飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "scallion-egg-rice",
       "title": "蔥蛋拌飯",
-      "servings": 1,
-      "prepTime": 3,
-      "cookTime": 7,
-      "totalTime": 10,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "scallion-garlic-pasta",
       "title": "青蔥蒜香義大利麵",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 12,
-      "totalTime": 18,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 3,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "scallion-mushroom-egg-pan",
       "title": "青蔥菇菇蛋煎盤",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 8,
-      "totalTime": 14,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "scallion-oil-dry-noodles",
       "title": "蔥油乾麵",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 8,
-      "totalTime": 13,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "seasonal-greens-salad-bowl",
       "title": "季節鮮蔬沙拉碗",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 0,
-      "totalTime": 10,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sesame-cold-noodles-solo",
       "title": "一人麻醬涼麵",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 5,
-      "totalTime": 13,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sesame-onion-chicken-rice-bowl",
       "title": "麻油洋蔥雞胸拌飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 11,
-      "totalTime": 19,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-acai-berry-yogurt-bowl",
       "title": "巴西莓果優格碗",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 12,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-american-cheesecake",
       "title": "全美起司蛋糕",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 28,
-      "totalTime": 48,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-asahi-cordon-bleu-pork-burger",
       "title": "朝日藍帶豬排堡",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-avocado-bacon-open-toast",
       "title": "酪梨慢煎培根／歐包 Open",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 14,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-avocado-local-sausage-danish-open",
       "title": "酪梨 Local 香腸／丹麥 Open",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 14,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-avocado-smoked-salmon-open-toast",
       "title": "酪梨燻鮭魚／歐包 Open",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 14,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-baked-thick-cut-pork-cream-rice",
       "title": "焗厚切豬排奶油飯",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-balsamic-mushroom-pasta",
       "title": "巴薩米克蕈菇麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-bbq-roasted-half-chicken",
       "title": "BBQ 溫烤半雞",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 35,
-      "totalTime": 60,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-black-pepper-hamburg-rice",
       "title": "老闆黑胡椒漢堡排飯",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-black-truffle-cordon-bleu-pork-open",
       "title": "黑松露厚切藍帶豬／歐包 Open",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 14,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-bloody-mary-spicy-rice",
       "title": "血腥瑪麗辣味飯",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-brownie-ice-cream",
       "title": "布朗尼冰淇淋",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 28,
-      "totalTime": 48,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-buffalo-chicken-wings",
       "title": "水牛城辣雞翅",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-campfire-lemon-zucchini-fish-fillet",
       "title": "野炊系義式檸香櫛瓜魚菲力",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-cheesy-chicken-egg-rice",
       "title": "吃光光起司蛋雞肉飯",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 14,
-      "totalTime": 29,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-cheesy-local-sausage-cream-pasta",
       "title": "起司 Local 香腸奶白麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-chef-crispy-pork-knuckle",
       "title": "主廚脆皮豬腳",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 35,
-      "totalTime": 60,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-chicken-quesadilla",
       "title": "墨西哥雞肉酥餅",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-classic-beef-mushroom-eggs-benedict",
       "title": "經典牛肉奶油炒菇班尼蛋",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-classic-caesar-salad",
       "title": "經典凱薩沙拉",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-classic-ham-mushroom-eggs-benedict",
       "title": "經典火腿奶油炒菇班尼蛋",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-classic-pesto-shrimp-pasta",
       "title": "經典青醬鮮蝦麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-country-cinnamon-peach-pie",
       "title": "鄉村肉桂蜜桃派",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 28,
-      "totalTime": 48,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-crispy-calamari-cocktail-sauce",
       "title": "酥炸鮮魷佐雞尾酒醬",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-dawn-shrimp-chicken-linguine",
       "title": "曙光汁鮮蝦雞肉麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-greek-campfire-grilled-chicken-brunch",
       "title": "Greek style 野炊系炭烤雞肉早午餐",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-green-superhero-quinoa-buddha-bowl",
       "title": "綠超人藜麥佛陀碗",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 12,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-griddled-butter-ham-sandwich",
       "title": "厚烤奶油 Ham 三明治",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 15,
-      "totalTime": 33,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
       "title": "家鄉肉醬長管麵佐老媽肉丸",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-keto-surf-and-turf-platter",
       "title": "生酮總匯海陸拼盤",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 12,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-kids-cream-chicken-penne",
       "title": "北鼻奶油雞肉長管麵",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 14,
-      "totalTime": 29,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-local-sausage-quesadilla",
       "title": "墨西哥 Local 香腸酥餅",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-mini-beef-egg-burger-set",
       "title": "牛蛋小堡堡套餐",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 14,
-      "totalTime": 29,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-moon-view-bitter-melon-cream-rice",
       "title": "月見苦瓜奶油飯",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-mushroom-cheese-omelette",
       "title": "蕈菇奶起司歐姆蕾",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-oat-crusted-fish-and-fries",
       "title": "燕麥脆脆炸魚薯條",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-orange-danish-mushroom-poached-potato",
       "title": "橙香法式丹麥 蕈菇水波洋芋",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-orange-danish-poached-seafood-potato",
       "title": "橙香法式丹麥 水波海鮮洋芋",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-orange-danish-sous-vide-steak",
       "title": "橙香法式丹麥 舒肥牛排",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-orange-danish-sunny-sous-vide-chicken",
       "title": "橙香法式丹麥 Sunny 舒肥雞",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-poached-egg-smoked-beef-danish-open",
       "title": "水波燻牛肉／丹麥 Open",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 14,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-poutine-meat-sauce-fries",
       "title": "普丁肉醬薯條",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-roasted-sesame-chicken-salad",
       "title": "焙煎胡麻雞沙拉",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-salsa-black-curry-fried-chicken",
       "title": "莎莎黑咖哩炸雞",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-salted-egg-bitter-melon-pasta",
       "title": "台式熱炒鹹蛋苦瓜麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-salted-egg-seafood-pizza",
       "title": "金黃流沙海鮮披薩",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-salted-egg-yolk-fries",
       "title": "金黃流沙薯條",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-san-francisco-garlic-fries",
       "title": "舊金山蒜香薯條",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-second-floor-fiesta-shrimp-penne",
       "title": "貳樓費氏鮮蝦長管麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-second-floor-saltwater-chicken-salad",
       "title": "貳樓金牌鹽水雞沙拉",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
       "title": "台胃口水雞奶油炒菇班尼蛋",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-signature-double-stack-burger",
       "title": "實打實招牌漢堡",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 15,
-      "totalTime": 33,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-smoked-salmon-caesar-salad",
       "title": "經典燻鮭魚凱薩沙拉",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
       "title": "燻鮭魚奶油炒菇班尼蛋",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-sous-vide-chicken-caesar-salad",
       "title": "經典舒肥雞凱薩沙拉",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
       "title": "舒肥雞藜麥花椰飯",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 12,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-south-sea-spiced-chicken-rice",
       "title": "南洋辛香雞肉飯",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-spicy-mexican-firecracker-burger",
       "title": "老墨辣鞭炮漢堡",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 15,
-      "totalTime": 33,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-spicy-pepper-karaage-pasta",
       "title": "香爆椒麻唐揚雞麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-spicy-spanish-surf-and-turf-rice",
       "title": "西班牙辣炒海陸飯",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-spicy-tomato-bacon-penne",
       "title": "辣茄汁香煸培根長管麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-strong-chocolate-cake",
       "title": "強的",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 28,
-      "totalTime": 48,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-supreme-cheese-omelette",
       "title": "總匯奶起司歐姆蕾",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-sweet-savory-rice",
       "title": "甘味飯",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-tropical-yogurt-bowl",
       "title": "熱帶水果優格碗",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 12,
-      "totalTime": 32,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-truffle-fries",
       "title": "松露薯條",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-truffle-mushroom-cream-pasta",
       "title": "松露蕈菇奶油麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-white-wine-garlic-clam-squid-ink-pasta",
       "title": "酒香蒜味蛤蜊墨魚麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-worcester-meat-sauce-omelette",
       "title": "烏斯特肉醬歐姆蕾",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "smoked-salmon-brunch",
       "title": "煙燻鮭魚早午餐",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 5,
-      "totalTime": 13,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "smoked-salmon-caesar-salad",
       "title": "煙燻鮭魚凱薩沙拉",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 5,
-      "totalTime": 13,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "solo-ginger-pork-rice",
       "title": "薑絲肉燥飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "solo-lu-rou-rice",
       "title": "滷肉飯一人份",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 25,
-      "totalTime": 33,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "solo-mapo-tofu-rice-bowl",
       "title": "麻婆豆腐蓋飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "solo-oyster-sauce-beef-rice",
       "title": "蠔油牛肉蓋飯",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 8,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "solo-pan-fried-pork-cutlet-rice",
       "title": "煎豬排蓋飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 14,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "solo-sesame-chicken-rice",
       "title": "芝麻雞蓋飯",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 12,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "solo-three-cup-chicken-rice",
       "title": "三杯雞蓋飯",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 18,
-      "totalTime": 28,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "soy-garlic-beef-slices",
       "title": "醬蒜牛肉片",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 8,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "soy-garlic-chicken-breast-pan",
       "title": "醬香蒜煎雞胸",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "spicy-garlic-bacon-pasta",
       "title": "蒜辣培根橄欖油麵",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 14,
-      "totalTime": 20,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "spicy-seafood-tomato-pasta",
       "title": "海鮮番茄辣麵",
-      "servings": 1,
-      "prepTime": 9,
-      "cookTime": 16,
-      "totalTime": 25,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "steamed-chicken-bento",
       "title": "電鍋雞胸便當菜",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "surf-turf-brunch",
       "title": "澎湃海陸早午餐",
-      "servings": 1,
-      "prepTime": 12,
-      "cookTime": 18,
-      "totalTime": 30,
-      "ingredient_count": 4,
-      "seasoning_count": 5,
-      "step_count": 5,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "ten-minute-udon-soup",
       "title": "十分鐘烏龍麵湯",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 8,
-      "totalTime": 13,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tofu-cabbage-mushroom-stirfry",
       "title": "豆腐高麗菜菇菇炒",
-      "servings": 2,
-      "prepTime": 9,
-      "cookTime": 10,
-      "totalTime": 19,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tofu-egg-savory-rice-bowl",
       "title": "豆腐蛋香拌飯",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 9,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tofu-scrambled-eggs",
       "title": "豆腐炒蛋",
-      "servings": 1,
-      "prepTime": 4,
-      "cookTime": 8,
-      "totalTime": 12,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tofu-tomato-pasta",
       "title": "豆腐番茄義大利麵",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 14,
-      "totalTime": 21,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tomato-beef-rice-bowl",
       "title": "番茄牛肉燴飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 14,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tomato-broccoli-egg-rice",
       "title": "番茄青花菜蛋炒飯",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 10,
-      "totalTime": 17,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tomato-cabbage-soft-eggs",
       "title": "番茄高麗菜滑蛋",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 9,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tomato-egg-rice",
       "title": "番茄雞蛋飯",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 10,
-      "totalTime": 15,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tomato-egg-tofu-light-soup",
       "title": "番茄蛋豆腐清湯",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 12,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tomato-garlic-cabbage-eggs",
       "title": "番茄蒜香高麗菜炒蛋",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 9,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tomato-garlic-pasta",
       "title": "番茄蒜香義大利麵",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 14,
-      "totalTime": 20,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tomato-onion-scrambled-eggs",
       "title": "番茄洋蔥滑蛋",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 8,
-      "totalTime": 14,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tomato-onion-tofu-soup",
       "title": "番茄洋蔥豆腐湯",
-      "servings": 2,
-      "prepTime": 8,
-      "cookTime": 14,
-      "totalTime": 22,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "tomato-tofu-soup",
       "title": "番茄豆腐湯",
-      "servings": 2,
-      "prepTime": 6,
-      "cookTime": 12,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "truffle-mushroom-farfalle",
       "title": "黑松露野菇蝴蝶麵",
-      "servings": 1,
-      "prepTime": 7,
-      "cookTime": 15,
-      "totalTime": 22,
-      "ingredient_count": 3,
-      "seasoning_count": 6,
-      "step_count": 4,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-chicken-rice-bowl",
       "title": "水蓮雞肉蓋飯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-clear-soup",
       "title": "水蓮清湯",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 8,
-      "totalTime": 13,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-egg-stirfry",
       "title": "水蓮炒蛋",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 9,
-      "totalTime": 14,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-fish-ball-noodles",
       "title": "水蓮貢丸湯麵",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 10,
-      "totalTime": 15,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-garlic-stirfry",
       "title": "蒜蓉炒水蓮",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 5,
-      "totalTime": 10,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-mushroom-stirfry",
       "title": "水蓮炒菇類",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 7,
-      "totalTime": 13,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-oyster-sauce",
       "title": "蠔油炒水蓮",
-      "servings": 1,
-      "prepTime": 5,
-      "cookTime": 6,
-      "totalTime": 11,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-pork-soup",
       "title": "水蓮肉片湯",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-sesame-toss",
       "title": "麻油拌水蓮",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 4,
-      "totalTime": 10,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-shrimp-stirfry",
       "title": "水蓮炒蝦仁",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 7,
-      "totalTime": 15,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-tofu-braise",
       "title": "水蓮燒豆腐",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 10,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "weight-loss-clear-mushroom-soup",
       "title": "減脂菇類清湯",
-      "servings": 1,
-      "prepTime": 6,
-      "cookTime": 12,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "weight-loss-shrimp-veg-salad",
       "title": "減脂鮮蝦沙拉",
-      "servings": 1,
-      "prepTime": 10,
-      "cookTime": 6,
-      "totalTime": 16,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "weight-loss-zucchini-chicken",
       "title": "減脂櫛瓜雞肉",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 10,
-      "totalTime": 18,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "white-sauce-chicken-pasta",
       "title": "白醬雞肉義大利麵",
-      "servings": 1,
-      "prepTime": 8,
-      "cookTime": 18,
-      "totalTime": 26,
-      "ingredient_count": 0,
-      "seasoning_count": 0,
-      "step_count": 0,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Format_Inconsistency",
-          "code": "thin_steps",
-          "severity": "Warning",
-          "description": "Only 0 step(s); schema expects at least 3."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     }
   ]
 }

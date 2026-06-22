@@ -56,6 +56,7 @@ steps:
 - Marinate protein with Preserved radish (cai po) 2Tbsp, Olive oil 1Tbsp, Garlic 1clove for 10 minutes; prep vegetables as needed.
 - Heat 1 Tbsp oil in a skillet over medium heat. Add protein, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; microwave reheat about 1 minute.
 faqs:
 - question: No preserved radish?

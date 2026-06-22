@@ -64,6 +64,7 @@ steps:
 - Marinate Tofu with Doubanjiang 1tbsp, Soy sauce 1tbsp, Garlic 2cloves for 10 minutes; prep vegetables as needed.
 - Heat 1 Tbsp oil in a skillet over medium heat. Add Tofu, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
 storage: Refrigerate up to 1 day; reheat gently so tofu doesn’t crumble.
 faqs:
 - question: Can I skip the meat?

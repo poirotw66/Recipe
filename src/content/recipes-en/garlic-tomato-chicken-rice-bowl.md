@@ -50,6 +50,7 @@ steps:
 - Marinate Chicken breast with Garlic 2cloves, Soy sauce 1.5tsp, Salt pinch for 10 minutes; dice Tomato finely.
 - Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Tomato 2 minutes until slightly tender; Add Chicken breast, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Rub chicken with a little oil before cooking for a tenderer bite.
 storage: Best eaten fresh; lunchbox OK refrigerated 1 day.

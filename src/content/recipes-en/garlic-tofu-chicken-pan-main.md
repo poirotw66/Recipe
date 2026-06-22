@@ -46,8 +46,6 @@ steps:
 - "Prep: Chicken breast 220g, Firm tofu 0.5block, Garlic 3cloves; mix Soy sauce 1.5tsp, Salt pinch in a small bowl if using."
 - Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Cube chicken and tofu; mince garlic.
-- Pan-fry tofu until golden on both sides; set aside.
-- Fresh oil in pan; stir-fry garlic and chicken until cooked; return tofu; soy sauce and salt; reduce briefly.
 tips:
 - Keep chicken cubes moderate size for even doneness.
 storage: Refrigerate 1 day; reheat quickly in a hot pan.

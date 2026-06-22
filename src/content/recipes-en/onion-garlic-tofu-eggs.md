@@ -50,7 +50,6 @@ steps:
 - Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Slice onion fine; mince garlic; cube tofu. Beat eggs with a pinch of salt and 1 tsp water.
 - Heat oil; medium-low sauté garlic and onion until translucent; add tofu and toss.
-- Pour eggs; stir until set; season with salt and soy sauce.
 tips:
 - Pat tofu dry so it holds shape.
 storage: Best fresh; refrigerate up to 1 day and reheat in a pan.

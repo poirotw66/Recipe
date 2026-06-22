@@ -55,7 +55,6 @@ steps:
 - Boil water; add tofu; simmer 2 minutes.
 - Taste and adjust seasoning; serve while hot.
 - Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; reheat gently without a hard boil so egg stays tender.
 faqs:
 - question: Can I use red miso?

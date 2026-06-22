@@ -65,7 +65,7 @@ faqs:
   answer: Don’t press too long—leave a little moisture inside for tenderness.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 ---
 
 One of the easiest ways to use tofu from the fridge.

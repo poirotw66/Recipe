@@ -66,7 +66,6 @@ steps:
 - Combine rice and water in a pot; bring to a boil, then simmer.
 - Taste and adjust seasoning; serve while hot.
 - Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
 storage: Refrigerate 1 day; thin with water and stir over low heat when reheating.
 faqs:
 - question: How do I make it richer?

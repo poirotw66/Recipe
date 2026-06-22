@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-10",
-  "recipe_count": 231,
-  "pass": 231,
+  "generated_at": "2026-06-22",
+  "recipe_count": 289,
+  "pass": 289,
   "warning": 0,
   "critical": 0,
-  "summary_markdown": "docs/reviews/recipe-audit/audit-summary-2026-06-10-full-231.md",
+  "summary_markdown": "docs/reviews/recipe-audit/audit-summary-2026-06-22-full-289.md",
   "slugs": [
     {
       "slug": "air-fryer-butter-corn",
@@ -244,6 +244,296 @@
     {
       "slug": "curry-beef-rice",
       "title": "咖哩牛肉飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-bbq-korean-fried-chicken",
+      "title": "醬味韓式炸雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-bbq-wrap",
+      "title": "醬燒青蔥牛五花/豬梅花",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-bibimbap",
+      "title": "石燒拌飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-brown-sugar-pancake",
+      "title": "韓式爆漿黑糖餅",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-cajun-korean-fried-chicken",
+      "title": "肯瓊醬韓式炸雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-cheese-kimchi-mushroom-soondubu",
+      "title": "起司泡菜鮮菇嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-cheese-pink-sauce-fried-squid-with-rice-cake",
+      "title": "起司玫瑰醬魷魚年糕",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-cheese-soondubu",
+      "title": "起司嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-cheese-stuffed-rice-cake-soondubu",
+      "title": "打爆起司年糕嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed",
+      "title": "海菜起司年糕鮮魚嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-cheese-vegetable-soondubu",
+      "title": "起司野菜鮮菇嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-clams-shrimp-soondubu",
+      "title": "蛤蜊鮮蝦嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-classic-soondubu",
+      "title": "嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-classic-stone-pot-rice",
+      "title": "韓式石鍋飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-combo-soondubu",
+      "title": "海陸綜合嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-creamy-onion-korean-fried-chicken",
+      "title": "洋蔥白醬韓式炸雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-curry-soondubu",
+      "title": "咖哩嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-deep-fried-tofu",
+      "title": "黃金酥炸嫩豆腐",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-duck-jerky-stone-pot-rice",
+      "title": "鴨賞石鍋飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-fish-soondubu",
+      "title": "鮮魚嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-french-fries-with-korean-flavored-sauce",
+      "title": "韓式酥炸脆薯",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-fried-glass-noodle",
+      "title": "韓式炒冬粉",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-fried-oysters",
+      "title": "巨濟島炸牡蠣",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-ginseng-chicken-clay-pot",
+      "title": "人蔘砂鍋雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-ginseng-chicken-hot-pot",
+      "title": "韓國人蔘雞火鍋",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-golden-chicken-stone-pot-rice",
+      "title": "黃金雞石鍋飯",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-honey-garlic-korean-fried-chicken",
+      "title": "蜂蜜蒜味韓式炸雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-kimchi-mushroom-soondubu",
+      "title": "泡菜鮮菇嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-kimchi-seafood-soondubu",
+      "title": "泡菜海鮮嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-kimchi-soondubu",
+      "title": "泡菜嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-kimchi-tofu-pancake",
+      "title": "泡菜豆腐煎餅",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-korean-bbq-beef-short-ribs",
+      "title": "韓式BBQ鐵板翼板牛",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-korean-cheese-egg-roll",
+      "title": "韓式起司烘蛋捲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-korean-dumpling-soondubu",
+      "title": "韓式餃子嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-korean-fried-chicken-combo",
+      "title": "Combo雙享韓式炸雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-korean-style-bbq-fish-ball",
+      "title": "韓風辣味魚丸燒",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-korean-sweet-and-sour-pork",
+      "title": "韓國糖醋肉",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-korean-vermicelli-tofu-roll",
+      "title": "韓式金絲豆腐捲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-original-korean-fried-chicken",
+      "title": "原味韓式炸雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-ox-bone-soup",
+      "title": "神仙霜降雪濃湯",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-plant-based-fried-chicken-with-mushroom-soondubu",
+      "title": "植感炸雞鮮菇嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-plant-based-fried-chicken-with-rice-cake",
+      "title": "植感炸雞年糕",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-potato-pancake-with-cheese",
+      "title": "起司馬鈴薯煎餅",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-royal-stir-fried-rice-cake",
+      "title": "韓式宮廷炒年糕",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-seafood-pancake",
+      "title": "綜合海鮮煎餅",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-seafood-soondubu",
+      "title": "海鮮嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-seaweed-oyster-soondubu",
+      "title": "海菜鮮蚵嫩豆腐煲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-spicy-korean-fried-chicken",
+      "title": "辣味韓式炸雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-spicy-pan-fried-seafood-rice-cake",
+      "title": "海鮮辣炒年糕",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-spicy-pan-fried-squid",
+      "title": "辣炒中卷",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-spicy-stired-fried-chicken",
+      "title": "春川辣炒雞",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-steamed-eggs-with-cheese-roe",
+      "title": "魚卵起司陶鍋蛋",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-stired-fried-fish-fillet-with-vegetables",
+      "title": "田園醬燒飛虎魚",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-tofu-ice-cream-with-tapioca",
+      "title": "珍珠豆腐冰淇淋",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-truffle-cheese-egg-roll",
+      "title": "松露韓式起司烘蛋捲",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-truffle-jjajang-cheese-rice-cake",
+      "title": "黑松露炸醬起司年糕",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-vegetable-pancake",
+      "title": "絲瓜鮮蔬煎餅",
+      "status": "Pass"
+    },
+    {
+      "slug": "dh-vegetable-soondubu",
+      "title": "野菜鮮菇嫩豆腐煲",
       "status": "Pass"
     },
     {

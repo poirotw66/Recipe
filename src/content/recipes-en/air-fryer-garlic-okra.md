@@ -61,7 +61,7 @@ faqs:
   answer: Air-fry 2 minutes longer for crisper edges—mucilage feels less pronounced.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 ---
 
 A quick summer vegetable side for one.

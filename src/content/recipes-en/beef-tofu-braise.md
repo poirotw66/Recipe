@@ -1,7 +1,7 @@
 ---
 title: Braised Beef and Tofu
 recipeId: beef-tofu-braise
-description: Beef and tofu braised in a savory sauce?”tender, saucy, and built for rice.
+description: Beef and tofu braised in a savory sauce?ï¿½tender, saucy, and built for rice.
 coverImage: /images/recipes/beef-tofu-braise.webp
 servings: 1
 prepTime: 10
@@ -56,24 +56,24 @@ steps:
 - Heat olive oil (1 tbsp) over medium; pan-fry tofu until lightly golden both sides; set aside.
 - In the same pan, stir-fry beef and garlic over high heat until colored; add onion and cook until translucent.
 - Return tofu; add soy sauce (2 tbsp), sugar (1 tsp), and water (150 ml). Cover and braise on low 12??5 minutes until sauce thickens and beef is tender.
-- Taste for salt?”soy sauce may be enough. Nudge tofu gently to avoid breaking.
+- Taste for salt?ï¿½soy sauce may be enough. Nudge tofu gently to avoid breaking.
 tips:
 - Keep the heat low and nudge tofu from the edge of the pan so it does not break.
-- Taste before adding salt?”soy sauce may be enough.
+- Taste before adding salt?ï¿½soy sauce may be enough.
 storage: Refrigerate and eat within 1 day; reheat gently and splash in a little water.
 substitutions:
 - Firm tofu
 relatedIngredients:
-- ?›è?
-- è±†è?
+- ?ï¿½ï¿½?
+- è±†ï¿½?
 - æ´‹è”¥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 customAdditions:
 - Scallions
 - Chili
 - Enoki mushrooms
 ---
 
-Braised beef and tofu packs protein and staying power?”one bowl of rice completes the meal.
+Braised beef and tofu packs protein and staying power?ï¿½one bowl of rice completes the meal.

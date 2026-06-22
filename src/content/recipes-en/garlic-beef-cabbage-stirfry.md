@@ -46,8 +46,6 @@ steps:
 - "Prep: Beef 120g, Cabbage 200g, Garlic 3cloves; mix Soy sauce 1tbsp, Salt pinch in a small bowl if using."
 - Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Shred beef; cut cabbage bite-size; mince garlic.
-- Hot oiled pan; fry garlic; stir-fry beef on high until mostly colored (70–80% done); set aside promptly.
-- Same pan, cabbage until slightly wilted; return beef; soy sauce and salt; toss quickly.
 tips:
 - Do not overcook cabbage—some crunch is the point.
 storage: Eat within 1 day refrigerated; reheat briefly.

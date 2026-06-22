@@ -58,7 +58,7 @@ relatedIngredients:
 - 브로콜리
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 customAdditions:
 - 대파
 - 고추

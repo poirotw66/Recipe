@@ -61,7 +61,6 @@ steps:
 - Wash cabbage and cut into chunks; chop scallions.
 - Taste and adjust seasoning; serve while hot.
 - Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; noodles turn mushy overnight.
 faqs:
 - question: Can I use instant noodles?

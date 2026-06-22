@@ -58,6 +58,9 @@ steps:
 - Rinse and pat shrimp dry; boil pasta until al dente; reserve 1/2 cup pasta water.
 - Blend scallion greens (green parts only), garlic, 2 tbsp olive oil, and cheese into a pesto paste.
 - Remaining oil in skillet; cook shrimp until opaque; set aside. Same pan—pasta, pesto, and pasta water; toss; return shrimp and fold gently.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Thaw frozen shrimp fully and dry well so the pan does not steam.
 storage: Best fresh; shrimp toughens overnight.

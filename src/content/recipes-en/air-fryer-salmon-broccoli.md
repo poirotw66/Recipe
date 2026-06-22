@@ -48,7 +48,7 @@ steps:
 - Preheat air fryer to 180Â°C for 3 minutes. Place salmon skin-side down (if skin-on) in a single layer.
 - Air-fry at 180Â°C for 8 minutes; add 2 minutes if fillet is over 2.5 cm thick.
 - Add broccoli around the salmon; air-fry 6 minutes more.
-- Insert chopsticks at the thickest part?”should pass through easily with no pink juices. Sprinkle black pepper if desired.
+- Insert chopsticks at the thickest part?ï¿½should pass through easily with no pink juices. Sprinkle black pepper if desired.
 tips:
 - Cut broccoli into small florets so it finishes around the same time as the salmon.
 storage: Best eaten the same meal; refrigerate up to 1 day.
@@ -59,16 +59,16 @@ faqs:
 - question: Can I make this without an air fryer?
   answer: Use a 190Â°C oven and roast about 15 minutes instead.
 relatedIngredients:
-- é®­é?
-- ?’èŠ±??
-- ?œé ­
+- é®­ï¿½?
+- ?ï¿½èŠ±??
+- ?ï¿½é ­
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushrooms
 ---
 
-A light combo for weeknights?”protein and vegetables done in one go.
+A light combo for weeknights?ï¿½protein and vegetables done in one go.

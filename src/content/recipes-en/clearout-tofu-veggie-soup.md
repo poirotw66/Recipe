@@ -65,7 +65,6 @@ steps:
 - Warm oil over low heat; stir carrot and cabbage 2 minutes.
 - Taste and adjust seasoning; serve while hot.
 - Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
 storage: Refrigerate up to 2 days; reheat gently so tofu stays tender.
 faqs:
 - question: Only tofu, no vegetables?

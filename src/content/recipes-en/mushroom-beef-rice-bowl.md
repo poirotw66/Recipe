@@ -50,6 +50,8 @@ steps:
 - Marinate Beef with Soy sauce 1.5Tbsp, Garlic 2cloves for 10 minutes; prep vegetables as needed.
 - Heat 1 Tbsp oil in a skillet over medium heat. Add Beef, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Cook mushrooms a little longer after they release water—the sauce tastes deeper.
 storage: Best eaten immediately after cooking.

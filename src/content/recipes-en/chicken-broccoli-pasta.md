@@ -54,6 +54,9 @@ steps:
 - Cut chicken into strips; season lightly with salt and pepper. Cut broccoli into florets; boil pasta until al dente.
 - Pan-fry chicken in oil until golden and cooked through; set aside.
 - In the same pan, sauté garlic and broccoli until bright; add pasta, chicken, and a splash of pasta water; toss until coated.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Keep chicken strips thin so they cook quickly.
 storage: Best fresh; refrigerated pasta softens— not ideal for bento.

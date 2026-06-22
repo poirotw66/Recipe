@@ -59,6 +59,9 @@ steps:
 - Cut the chicken into strips; season with salt and pepper. Cook the pasta until al dente; reserve ½ cup pasta water.
 - Blend scallion greens, minced garlic, 1.5 Tbsp olive oil, and cheese powder into a paste—or chop very fine and mix.
 - Heat the remaining oil in a skillet and cook the chicken through. Add pasta, pesto paste, and a splash of pasta water; toss until coated.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - After the chicken is done, lower heat and toss the pasta quickly so the meat does not dry out.
 storage: Refrigerate up to 1 day; add a little water or oil when reheating.

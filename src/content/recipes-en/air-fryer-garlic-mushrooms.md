@@ -67,7 +67,7 @@ faqs:
   answer: Yes—this method works for a single variety too.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 ---
 
 Low fuss, big aroma—a renter-friendly side from the air fryer.

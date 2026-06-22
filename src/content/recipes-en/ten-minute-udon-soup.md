@@ -58,8 +58,6 @@ steps:
 - Pour dashi into saucepan; add soy sauce and mirin; bring to a boil over medium heat.
 - Taste; adjust salt.
 - Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; noodles swell if stored overnight.
 faqs:
 - question: No prepared dashi?

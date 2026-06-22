@@ -49,6 +49,8 @@ steps:
 - Chunk tomato; peel onion and slice thin along the grain; cube tofu; chop scallion.
 - Pot with a little oil; stir onion, then tomato 2 minutes.
 - Add about 600 ml water; boil, covered simmer 5 minutes; tofu 5 minutes more; salt and scallion.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Mash part of the tomato for a richer body.
 storage: Refrigerate 1 day; reheat gently.

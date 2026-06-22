@@ -61,6 +61,7 @@ steps:
 - Marinate Pork loin cutlet with Salt pinch, Black pepper pinch, Olive oil 1tbsp for 10 minutes; prep vegetables as needed.
 - Heat 1 Tbsp oil in a skillet over medium heat. Add Pork loin cutlet, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
 storage: Best fresh; pork dries if reheated next day.
 faqs:
 - question: Can I use chicken cutlet instead?

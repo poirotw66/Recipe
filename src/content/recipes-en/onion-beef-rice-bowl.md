@@ -50,6 +50,8 @@ steps:
 - Marinate Beef with Soy sauce 1.5Tbsp, Sugar 1tsp for 10 minutes; dice Onion finely.
 - Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Onion 2 minutes until slightly tender; Add Beef, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Longer onion cooking deepens sweetness for the bowl.
 storage: Best fresh; pack sauce separately for bento.

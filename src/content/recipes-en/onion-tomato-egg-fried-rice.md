@@ -49,6 +49,8 @@ steps:
 - Dice onion and tomato. Beat the egg with a pinch of salt and 1 tsp water until slightly frothy; fluff the rice.
 - Scramble the egg until half-set and set aside. In the same pan with fresh oil, sauté onion and tomato over medium-low until fragrant.
 - Add rice and toss; return the egg, then season with salt and soy sauce.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Cool rice fries better—if hot, let it rest 5 minutes first.
 storage: Best fresh; if storing, refrigerate and reheat within 1 day.

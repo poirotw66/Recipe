@@ -1,7 +1,7 @@
 ---
 title: Beef and Mushroom Stir-Fry
 recipeId: beef-mushroom-stirfry
-description: Beef and mushrooms over high heat?”umami-rich, quick, good with rice or solo.
+description: Beef and mushrooms over high heat?ï¿½umami-rich, quick, good with rice or solo.
 coverImage: /images/recipes/beef-mushroom-stirfry.webp
 servings: 1
 prepTime: 7
@@ -54,11 +54,11 @@ storage: Best eaten right after cooking.
 substitutions:
 - King oyster mushroom
 relatedIngredients:
-- ?›è?
-- ?‡é?
+- ?ï¿½ï¿½?
+- ?ï¿½ï¿½?
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 customAdditions:
 - Scallions
 - Chili

@@ -64,7 +64,7 @@ faqs:
   answer: 물을 보태 맞추거나 다음에는 간장을 줄이세요.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-17"
+updatedAt: "2026-06-09"
 ---
 
 도시락 두부 계란 조림은 시간도 아끼고 경제적인 도시락 반찬 조합입니다.

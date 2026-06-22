@@ -47,8 +47,6 @@ steps:
 - "Prep: Chicken breast 2fillets, Mushrooms 1bowl, Garlic 2cloves; mix Soy sauce 1tbsp, Black pepper pinch in a small bowl if using."
 - Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
 - Slice the chicken; marinate with soy sauce and black pepper 5 minutes.
-- Tear mushrooms into bite pieces; mince garlic. Heat oil and pan-fry the chicken first.
-- When the chicken changes color, add garlic and mushrooms; stir-fry until mushrooms are tender and juices have reduced.
 tips:
 - Slice the breast thinner—it cooks faster and stays juicier.
 storage: Refrigerate up to 2 days; good for next-day bento.

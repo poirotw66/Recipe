@@ -63,6 +63,7 @@ steps:
 - Marinate Chicken thigh with Soy sauce 3tbsp, Rice wine 3tbsp, Sesame oil 2tbsp for 10 minutes; prep vegetables as needed.
 - Heat 1 Tbsp oil in a skillet over medium heat. Add Chicken thigh, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
 storage: Refrigerate up to 2 days; add a splash of water when reheating.
 faqs:
 - question: Must the three-cup ratio be exact?

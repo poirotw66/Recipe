@@ -57,6 +57,7 @@ steps:
 - Oil in skillet; cook onion over medium-low until translucent; add curry powder; stir 30 seconds until fragrant.
 - Raise heat; stir-fry beef until mostly colored (about 70–80% done); set aside so it does not overcook; return pan with carrot and water.
 - Cover; simmer low 10–12 minutes until slightly thick; taste and salt; ladle over rice.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - For thicker gravy, finish with 1 tsp cornstarch slurry.
 - Start with 1 tbsp curry powder if you are unsure of heat or salt level.

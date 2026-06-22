@@ -53,7 +53,6 @@ steps:
 - Boil water; add mushrooms.
 - Taste and adjust seasoning; serve while hot.
 - Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
 storage: Refrigerate 2 days; do not boil hard on reheat.
 faqs:
 - question: Only one mushroom type?

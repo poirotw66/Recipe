@@ -47,6 +47,8 @@ steps:
 - Chop the scallions. Beat the eggs with a pinch of salt and 1 tsp water until lightly frothy. Reheat the rice.
 - Heat oil in a skillet, pour in the eggs, and cook until just set; add most of the scallions.
 - Spoon the scallion eggs over the rice, drizzle soy sauce and sesame oil, and mix.
+- Taste and adjust seasoning; serve while hot.
+- Taste and adjust seasoning; serve while hot.
 tips:
 - Add scallions in two batches—half in the pan, half on top—for more layers of flavor.
 storage: Make and eat the same day; not ideal to hold long.

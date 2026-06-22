@@ -60,6 +60,7 @@ steps:
 - Marinate Chicken breast with Soy sauce 2tbsp, Rice wine 1tbsp, White sesame seeds 1tbsp for 10 minutes; prep vegetables as needed.
 - Heat 1 Tbsp oil in a skillet over medium heat. Add Chicken breast, sear and stir-fry until opaque and cooked through.
 - Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Taste and adjust seasoning; serve while hot.
 storage: Refrigerate 1 day; microwave covered with a damp paper towel about 1 minute to reheat.
 faqs:
 - question: Can I use chicken thigh?
