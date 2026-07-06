@@ -50,18 +50,19 @@ seasonings:
   unit: Tbsp
 intro: Cool and loosen rice 5 minutes before mixing with egg so the cake holds together.
 steps:
-- Fluff rice and cool 5 minutes. Beat eggs with rice, salt, and pepper.
-- Heat oil over medium-high; pour mixture; press flat with a spatula.
-- Medium heat 4 minutes until the bottom is golden and set.
-- Flip; cook 3 minutes more, pressing lightly to compact grains.
-- Taste and adjust seasoning; serve while hot.
+- Loosen 1 bowl chilled or day-old rice and cool 5 minutes so excess moisture evaporates; beat 2 eggs with a pinch of salt and white pepper.
+- Mix rice into the beaten eggs until every grain is coated.
+- Heat 1 Tbsp olive oil in a skillet over medium-high; pour in the rice-egg mixture and press flat into a round cake with a spatula.
+- Reduce to medium heat and cook 4 minutes until the bottom is golden and set (edges curling up signal it is ready to flip).
+- Flip and cook 3 minutes more, pressing lightly to compact grains—both sides should be golden with a slight crisp and a rice-grain center.
+- Cut into wedges and serve (soy paste or sweet chili sauce on the side works well).
 storage: Best fresh; re-crisp in a skillet 1 minute next day.
 faqs:
 - question: Rice too wet?
   answer: Add 1 Tbsp flour or use slightly less egg.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 A sturdy solo meal from pantry staples.

@@ -45,19 +45,20 @@ seasonings:
   unit: ''
 intro: Sweet corn tastes best; butter spreads evenly when the cob is still hot.
 steps:
-- Peel away outer husks, leaving the innermost 1–2 layers. Rinse, pat dry with paper towels. Halve if too long for the basket.
-- Soften butter (15 g) at room temperature; mix with a pinch of salt and black pepper. Brush evenly over kernels and into leaf gaps; rest 2 minutes.
+- Peel away outer husks, leaving the innermost 1–2 layers. Rinse, drain, and pat dry with paper towels. Halve if too long for the basket.
+- Soften butter (15 g) at room temperature; mix with a pinch of salt and black pepper into a spread. Brush evenly over kernels and into leaf gaps; rest 2 minutes so seasoning adheres.
 - Preheat air fryer to 180°C for 3 minutes.
-- Place corn in a single layer in the basket. Air-fry at 180°C for 8 minutes; open, flip or rotate once.
-- Air-fry 4–5 minutes more until plump with light char spots; a skewer should pierce easily.
-- Peel outer leaves (or serve in sections). Sprinkle a little more salt and pepper while hot.
+- Place corn in the basket in a single layer—do not stack. If using two halves side by side, leave a gap in the middle for hot air to circulate.
+- Air-fry at 180°C for 8 minutes; open the basket and flip or rotate the corn once for even browning.
+- Air-fry 4–5 minutes more until kernels are plump and lightly charred; a skewer should pierce through easily.
+- Peel away outer leaves (or serve in sections with leaves). Sprinkle a little more salt and black pepper while hot; serve immediately.
 storage: Best fresh; reheated corn turns firm.
 faqs:
 - question: Frozen corn?
   answer: Thaw, pat dry, air-fry about 2 minutes longer.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Fragrant and fast—a renter-friendly extra side.

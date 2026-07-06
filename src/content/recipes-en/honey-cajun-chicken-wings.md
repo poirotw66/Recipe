@@ -58,15 +58,17 @@ seasonings:
   unit: ''
 intro: Dry wings roast crisper; brush honey glaze only in the last few minutes to avoid burning.
 steps:
-- "Prep: Chicken wings 8pieces; pat Chicken wings dry and rub with Honey 2Tbsp, Soy sauce 1Tbsp, Paprika 1tsp, Garlic powder 1/2tsp, Chili powder 1/4tsp, Salt pinch, Black pepper pinch."
-- Pat wings dry; rub with salt, pepper, and half the spice mix (paprika, garlic powder, chili powder); marinate 15 minutes.
-- Preheat oven to 200°C; arrange wings on parchment; roast 18 minutes, flipping once.
-- Mix honey, soy sauce, and remaining spices into a glaze.
-- Taste and adjust seasoning; serve while hot.
+- Rinse 8 chicken wings and pat completely dry—the drier the skin, the crispier after roasting.
+- Rub with a pinch of salt, a pinch of pepper, 1/2 tsp paprika, 1/4 tsp garlic powder, and 1/8 tsp chili powder; marinate 15 minutes.
+- Preheat oven to 200°C; line a baking sheet with parchment; arrange wings skin-side up; roast 18 minutes, flipping once at the 9-minute mark.
+- In a small bowl, whisk 2 Tbsp honey, 1 Tbsp soy sauce, and the remaining paprika, garlic powder, and chili powder into a glaze.
+- Remove wings, brush glaze on both sides, and return to the oven.
+- Roast 8–10 minutes more until caramelized and juices tighten—watch the last 2 minutes to avoid burning.
+- Rest 2 minutes before serving.
 storage: Refrigerate up to 2 days; reheat in the oven to restore crisp skin.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Sweet-heat wings that work well for gatherings.

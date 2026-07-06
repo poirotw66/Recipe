@@ -32,6 +32,9 @@ ingredients:
   unit: ""
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 - name: Salt
   amount: pinch
   unit: ''
@@ -46,9 +49,12 @@ tags:
 - Cabbage
 intro: Cook tomato until juicy, then cabbage and eggs—moist but not watery.
 steps:
-- Dice tomato; shred cabbage; mince garlic; beat eggs with pinch of salt and 1 tsp water until lightly foamy.
-- Warm oil; medium-low garlic and tomato until soft; add cabbage.
-- When cabbage softens, pour eggs and push to half-set; salt and soy sauce.
+- Dice tomato 1; slice cabbage 120 g; beat 2 eggs; mince 1 garlic clove. Have a pinch of salt and 0.5 tsp soy sauce ready.
+- "Heat 1 tbsp olive oil in a skillet over medium heat; sauté garlic 20 seconds until fragrant."
+- "Add tomato; stir-fry over medium heat 2 minutes until slightly soft and juicy, skins curling."
+- Add cabbage and stir-fry 2 minutes until slightly softened and edges translucent but still crisp.
+- "Push vegetables to the side, pour in eggs; over low heat wait for edges to set, then gently push into soft curds with a spatula (about 1 minute)."
+- "Toss everything together; drizzle with soy sauce and salt. Serve when eggs are half-set and silky and vegetables are cooked through."
 tips:
 - Lower heat after eggs go in for a tender set.
 storage: Egg dishes best same meal.
@@ -65,7 +71,7 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-07-02'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

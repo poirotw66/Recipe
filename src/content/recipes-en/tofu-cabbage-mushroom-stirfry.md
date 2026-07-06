@@ -32,6 +32,9 @@ ingredients:
   unit: g
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 - name: Garlic
   amount: '2'
   unit: cloves
@@ -46,10 +49,12 @@ tags:
 - Vegetable stir-fry
 intro: Sear tofu first so it holds shape and stays dry when vegetables go in.
 steps:
-- Cube tofu; slice cabbage; slice or tear mushrooms; mince garlic.
-- "Skillet: fry tofu until lightly golden both sides; set aside."
-- Fresh oil, medium-low garlic until fragrant; add cabbage and mushrooms until soft; return tofu; season with soy and salt.
-- Taste and adjust seasoning; serve immediately while hot.
+- Cube tofu 1 box and pat dry; slice cabbage 180 g; slice mushrooms 120 g; mince 2 garlic cloves.
+- "Heat 1 tbsp olive oil in a skillet over medium heat; pan-fry tofu in a single layer until lightly golden on both sides (about 1 minute per side); set aside."
+- "Add 1 tsp olive oil to the same pan; sauté garlic 20 seconds until fragrant."
+- "Add cabbage and mushrooms over high heat; stir-fry 2 minutes until slightly softened and cabbage edges turn translucent."
+- Return tofu and gently toss 1 minute; drizzle with 1.5 tsp soy sauce and a pinch of salt.
+- Serve when tofu is evenly coated and vegetables are tender but still crisp.
 tips:
 - Add cabbage in two batches for even cooking.
 storage: Refrigerate 1 day; reheat over medium-high quickly.
@@ -66,7 +71,7 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-06-25'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Shredded pork
 - Shrimp

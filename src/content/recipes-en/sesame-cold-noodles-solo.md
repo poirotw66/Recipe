@@ -56,19 +56,19 @@ seasonings:
   unit: clove
 intro: Thin sesame paste with warm water first so it does not clump; an ice bath is what makes cold noodles right.
 steps:
-- Thin sesame paste with 2 tbsp warm water; stir in soy sauce, vinegar, sugar, and minced garlic.
-- Julienne cucumber; soak in ice water to stay crisp.
-- Boil noodles in a pot per package time; drain and rinse in ice water.
-- Toss noodles with sauce well; if thick, add 1 tbsp noodle cooking water.
-- Plate and top with cucumber; white sesame optional.
-- Taste and adjust seasoning; serve while hot.
+- Mince 1 garlic clove; julienne 1/2 cucumber and soak in ice water 5 minutes, then drain well.
+- "In a large bowl, slowly thin 2 tbsp sesame paste with 2 tbsp warm water, then stir in 1 tbsp soy sauce, 1 tbsp black vinegar, 1 tsp sugar, and minced garlic to make the sauce."
+- "Bring a large pot of water to a rolling boil; cook 1 serving oil noodles 2–3 minutes per package until done."
+- Immediately drain noodles and rinse in ice water 30 seconds; drain thoroughly (water dilutes the sauce).
+- Toss noodles with sauce until well coated; if too thick, add 1 tbsp noodle cooking water to loosen.
+- Plate, top with cucumber strips, sprinkle white sesame if you like, and serve right after tossing for the best flavor.
 storage: Eat right after tossing; sauce and noodles separate up to 1 day refrigerated.
 faqs:
 - question: Can I skip garlic?
   answer: Yes—try ginger paste or leave it out for a milder taste.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 A go-to when you want a full meal without firing up the stove in summer.

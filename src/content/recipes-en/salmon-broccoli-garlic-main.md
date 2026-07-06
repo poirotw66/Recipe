@@ -32,6 +32,9 @@ ingredients:
   unit: cloves
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: Tbsp
 - name: Soy sauce
   amount: '1'
   unit: tsp
@@ -43,9 +46,13 @@ tags:
 - Broccoli dishes
 intro: Sear salmon first, then add broccoli so you keep crisp skin and bright vegetable texture.
 steps:
-- "Prep: Salmon 240g, Broccoli 150g, Garlic 2cloves; mix Soy sauce 1tsp, Salt pinch in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Pat salmon dry and cut into portions; broccoli into small florets; mince garlic.
+- Pat 240 g salmon dry on both sides; salt lightly and rest 3 minutes; cut 150 g broccoli into small florets; mince 2 garlic cloves.
+- Heat 1 Tbsp olive oil in a skillet over medium-high; place salmon skin-side down without moving; sear 3–4 minutes until the skin is golden.
+- Flip and sear 2 minutes until about medium; transfer salmon out.
+- In the same pan over medium, cook garlic 30 seconds until fragrant—do not let it burn.
+- Add broccoli; stir-fry over high heat 2–3 minutes until bright green with stems slightly tender but still crisp.
+- Return salmon; drizzle 1 tsp soy sauce along the pan edge; reduce over medium 1 minute, spooning sauce over the fish.
+- Taste and serve—the center should be opaque and flake easily with a fork.
 tips:
 - Dry salmon well before the pan for crisper skin.
 storage: Best eaten the same meal.
@@ -62,7 +69,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-07-10'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Shredded pork
 - Shrimp

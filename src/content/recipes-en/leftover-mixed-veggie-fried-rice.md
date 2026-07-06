@@ -60,19 +60,20 @@ seasonings:
   unit: ''
 intro: Hard vegetables first, leafy greens next; loosen rice before it hits the pan so it does not clump.
 steps:
-- "Prep: Cooked white rice 1bowl, Carrot 1/3, Cabbage 80g, Egg 1; fluff cold rice and beat eggs with a pinch of salt."
-- Dice carrot small; shred cabbage; beat egg; fluff rice.
-- Heat oil over medium-high; stir-fry carrot 2 minutes until slightly tender.
-- Add cabbage 1 minute; push aside, scramble egg into soft curds.
-- Add rice; toss; splash soy from the pan edge.
-- Season with salt; fry until grains are dry and smoky.
+- Loosen 1 bowl chilled or day-old rice; dice 1/3 leftover carrot small and shred 80 g cabbage; beat 1 egg with a pinch of salt.
+- Heat 1 Tbsp olive oil in a skillet over medium-high; stir-fry carrot 2 minutes over medium until slightly tender.
+- Add shredded cabbage and stir-fry 1 minute until wilted but still green; push to the side.
+- Pour in egg and quickly scramble into soft curds (about 30 seconds); set aside.
+- Add rice to the same pan; stir-fry over medium 2 minutes until grains separate and smell wok-toasted.
+- Splash 1.5 Tbsp soy sauce from the pan edge; return scrambled egg and toss; season with a pinch of salt.
+- Stir-fry on high heat 30 seconds until grains are dry and lightly smoky; serve.
 storage: Refrigerate 1 day; reheat in a skillet over low heat.
 faqs:
 - question: What vegetables can I swap in?
   answer: Bok choy, corn, bell pepper, mushrooms—adjust order by hardness.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Flexible fried rice for ordinary weeknights.

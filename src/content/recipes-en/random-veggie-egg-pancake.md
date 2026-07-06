@@ -60,18 +60,19 @@ seasonings:
   unit: Tbsp
 intro: A little flour helps the cake set; fine vegetable shreds cook through evenly.
 steps:
-- Shred cabbage and carrot fine. Beat eggs with flour, salt, and pepper.
-- Fold vegetables into the egg mixture.
-- Heat oil over medium-high; pour batter; spread flat.
-- Medium heat 4 minutes until the bottom is golden; flip; cook 3 minutes more.
-- Cut and serve with dipping sauces from custom additions if desired.
+- "Shred cabbage 80 g and carrot 1/3 fine; beat 3 eggs with 2 tbsp flour, a pinch of salt, and white pepper."
+- Fold vegetable shreds into the egg mixture until evenly coated.
+- "Heat 1 tbsp olive oil in a skillet over medium-high heat; pour in batter and spread flat; when edges set, reduce to medium heat."
+- Cook over medium heat 4 minutes until the bottom is golden and the top is mostly set.
+- Flip and cook 3 minutes more until both sides are golden and the center is cooked through.
+- Cut into pieces and serve with dipping sauces from custom additions if desired.
 storage: Refrigerate 1 day; re-crisp in a skillet 1 minute.
 faqs:
 - question: Can I skip flour?
   answer: Yes—use a smaller pan and a thicker layer.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 A balanced solo meal with minimal shopping.

@@ -49,19 +49,20 @@ seasonings:
   unit: ''
 intro: Wash okra and dry thoroughly; oil before air-frying so it doesn’t steam soft.
 steps:
-- Rinse okra (150 g); trim stems only—keep whole. Pat each piece dry, including fuzz and surface moisture.
-- Mince garlic (3 cloves); mix with olive oil (1 tbsp), salt, and black pepper into a garlic oil.
-- Toss okra until lightly coated all over.
-- Preheat air fryer to 190°C for 3 minutes. Arrange in one layer with space between pieces.
-- Air-fry at 190°C for 5 minutes, flip, then 4 more until lightly charred and tender when pierced.
-- Sprinkle extra garlic or pepper if desired; serve hot for best texture.
+- Rinse okra (150 g) under running water; trim stems only—keep whole pods intact. Pat each piece dry one by one, including fuzz and surface moisture.
+- Mince garlic (3 cloves); mix with olive oil (1 tbsp), a pinch of salt, and black pepper into a garlic oil.
+- Toss okra thoroughly with the garlic oil so each pod gets a thin coat; rest 2 minutes to absorb flavor.
+- Preheat air fryer to 190°C for 3 minutes.
+- Arrange okra in the basket in one layer with space between pods—do not stack.
+- Air-fry at 190°C for 5 minutes; open, flip, then air-fry 4 minutes more until lightly charred on the surface.
+- Pierce a stem with chopsticks—it should be slightly tender inside while still pleasantly slippery. Sprinkle a little more black pepper if desired and serve hot.
 storage: Best fresh; reheated okra softens.
 faqs:
 - question: I dislike slimy okra?
   answer: Air-fry 2 minutes longer for crisper edges—mucilage feels less pronounced.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 A quick summer vegetable side for one.

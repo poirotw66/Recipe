@@ -28,10 +28,12 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 藍帶豬排 220公克, 水波蛋 2顆."
-- Sear patty or cutlet in skillet over medium heat until fully cooked. Melt cheese on top during the last 30 seconds.
-- Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 黑松露醬 3大匙, 松露醬 3大匙 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.
-- Close the burger (or leave open for sandwich); serve hot with a side of crispy fries.
+- "Slice 2 baguette rolls crosswise; butter the cut sides and bake at 180°C / 350°F 5–7 minutes until golden and lightly crisp."
+- "Rest 220 g cordon bleu pork at room temperature 10 minutes; season both sides with a pinch of sea salt and black pepper; skillet over medium heat with olive oil, sear 4–5 minutes per side until golden and cooked through; rest 2 minutes, then slice on a bias."
+- In a small bowl, whisk 3 tbsp black truffle paste, 3 tbsp truffle sauce, 1 tbsp olive oil, 1/3 tsp sea salt, and 1/4 tsp cracked black pepper into a truffle sauce.
+- "Bring a saucepan of water to a boil with a splash of vinegar; reduce to low, stir a whirlpool, crack in 2 eggs, and poach about 3 minutes until yolks stay runny."
+- Spread one-third of the truffle sauce on toasted baguette; layer cordon bleu pork slices.
+- Top with 2 poached eggs, drizzle remaining truffle sauce, and serve hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -51,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 歐包
   amount: "2"

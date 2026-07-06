@@ -32,6 +32,9 @@ ingredients:
   unit: cloves
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 - name: Salt
   amount: pinch
   unit: ''
@@ -43,10 +46,12 @@ tags:
 - Tofu
 intro: Pan-fry tofu first so it stays intact; keep broccoli crisp in the wok.
 steps:
-- "Prep: Broccoli 160g, Tofu 1block, Garlic 2cloves; mix Salt pinch, Soy sauce 1tsp in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Cut broccoli into florets; cube tofu; mince garlic.
-- Pan-fry tofu until lightly golden; set aside.
+- "Cut broccoli 160 g into small florets; cube tofu 1 block about 2 cm and pat dry; mince 2 garlic cloves. Mix 1 tsp soy sauce and a pinch of salt in a small bowl."
+- "Heat 1 tbsp olive oil in a skillet over medium heat; pan-fry tofu in a single layer until lightly golden on both sides (about 1 minute per side); set aside."
+- "Add 1 tsp olive oil to the same pan; sauté garlic 20 seconds until fragrant."
+- "Add broccoli over high heat and stir-fry 2 minutes until deep green; stems should stay slightly crisp."
+- Return tofu and gently toss 1 minute; drizzle with soy sauce and salt.
+- Serve when tofu is evenly coated and broccoli is tender but still crisp.
 tips:
 - Blanch broccoli 30 seconds first for more predictable doneness.
 storage: Refrigerate up to 1 day; reheat over medium-high in a skillet.
@@ -63,7 +68,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-07-04'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Shredded pork
 - Shrimp

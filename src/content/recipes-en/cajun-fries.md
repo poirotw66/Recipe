@@ -53,15 +53,17 @@ seasonings:
   unit: tsp
 intro: Soak cut fries in cold water, dry well, then fry; toss spices while hot.
 steps:
-- "Prep: Potatoes 2; pat protein dry and rub with Olive oil 2Tbsp, Salt pinch, Black pepper pinch, Paprika 1tsp, Garlic powder 1/2tsp, Cayenne pepper 1/4tsp."
-- Peel potatoes and cut into thick sticks; soak in cold water 15 minutes, drain, and pat completely dry.
-- Fry at about 170°C in batches 4 minutes until pale gold; drain.
-- Raise oil to about 190°C and fry again 1–2 minutes until crisp; drain well.
-- Taste and adjust seasoning; serve while hot.
+- Peel 2 potatoes and cut into thick sticks (about 1 cm thick, finger-length); soak in cold water 15 minutes to rinse off surface starch.
+- Drain and pat each stick completely dry with paper towels—the drier the surface, the crispier after frying.
+- In a large bowl, combine 2 Tbsp olive oil, a pinch of salt, a pinch of black pepper, 1 tsp paprika, 1/2 tsp garlic powder, and 1/4 tsp cayenne; add fries and toss to coat; marinate 5 minutes.
+- Pour enough oil into a deep pot or heavy skillet; heat over medium to about 170°C (fine bubbles around a chopstick dipped in the oil).
+- Fry in batches without stacking, 4 minutes until lightly golden; scoop out, drain, and rest 1 minute.
+- Raise oil to about 190°C; return all fries for a second fry 1–2 minutes until the outside is crisp and the center stays tender; drain well.
+- Toss hot fries with a little more salt and pepper; serve immediately—they soften as they cool.
 storage: Best eaten fresh; leftovers soften overnight.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Cajun fries are a crowd-pleasing side or snack with a kick.

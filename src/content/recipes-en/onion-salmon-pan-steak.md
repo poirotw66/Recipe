@@ -32,6 +32,9 @@ ingredients:
   unit: g
   isCore: false
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: Tbsp
 - name: Salt
   amount: pinch
   unit: ''
@@ -46,9 +49,13 @@ tags:
 - Pan-seared fish
 intro: Pat salmon dry for crisp skin; onion balances richness.
 steps:
-- Pat salmon dry; salt lightly. Slice onion; cut broccoli into small florets.
-- Medium heat; sear salmon until colored both sides; set aside.
-- Same pan—cook onion and garlic; return salmon and broccoli; splash soy sauce; toss gently.
+- Pat 240 g salmon dry on both sides; salt lightly and rest 3 minutes; slice 1/2 onion into thin strips; cut 100 g broccoli into small florets; mince 1 garlic clove.
+- Heat 1 Tbsp olive oil in a skillet over medium-high; place salmon skin-side down without moving; sear 3–4 minutes until the skin is golden and crisp.
+- Flip and sear 2–3 minutes until about medium (center still slightly pink); transfer salmon out.
+- Add a little more oil to the same pan; cook onion and garlic over medium 2 minutes until translucent and fragrant.
+- Add broccoli; stir-fry over high heat 2 minutes until bright green with stems slightly tender but still crisp.
+- Return salmon; drizzle 1 tsp soy sauce along the pan edge; reduce over medium 1 minute, spooning sauce over the fish.
+- Taste and serve—the center should be opaque and flake easily with a fork.
 tips:
 - Let the first side set before flipping to avoid torn skin.
 storage: Best same day; reheated fish dries out.
@@ -65,7 +72,7 @@ relatedIngredients:
 - 青花菜
 featured: false
 publishedAt: '2026-06-18'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Minced garlic

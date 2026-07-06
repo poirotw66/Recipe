@@ -59,18 +59,20 @@ seasonings:
   unit: tbsp
 intro: Cut breast into bite cubes; dry well before coating. Mist oil before air-frying for a crisp shell.
 steps:
-- Cut breast into about 3 cm bite-size cubes; pat thoroughly dry. Beat egg in a bowl. In a shallow dish, mix flour (3 tbsp), garlic powder (1/2 tsp), salt, and black pepper.
-- Dip each cube in a thin layer of egg, then coat in flour; press gently and shake off excess. Rest all pieces 5 minutes so the coating sets.
-- Preheat air fryer to 190°C for 3 minutes. Arrange in one layer with space between pieces; mist or brush 1 tbsp olive oil on top.
-- Air-fry at 190°C for 7 minutes, flip, then 5 more until golden and crisp; thickest piece should show no pink inside.
-- Sprinkle a little more black pepper if desired; serve hot with ketchup.
+- Rinse chicken breast (200 g) and cut into about 3 cm bite-size cubes; pat thoroughly dry—the drier the surface, the crisper the coating.
+- Beat egg (1) in a bowl. In a shallow dish, mix all-purpose flour (3 tbsp), garlic powder (1/2 tsp), salt, and black pepper into a coating mix.
+- Dip each cube in a thin layer of egg, then coat in flour; press gently so the coating sticks and shake off excess dry flour. Rest all pieces 5 minutes so the batter sets.
+- Preheat air fryer to 190°C for 3 minutes.
+- Arrange chicken in the basket in one layer with space between pieces—do not stack. Mist or brush olive oil (1 tbsp) over the top.
+- Air-fry at 190°C for 7 minutes; open, flip, then air-fry 5 minutes more until golden and crisp.
+- Cut open the thickest piece—the center should show no pink and juices should run clear. Sprinkle a little more black pepper if desired and serve hot with ketchup.
 storage: Best fresh; refrigerated bites soften—re-crisp in the air fryer.
 faqs:
 - question: Can I skip the egg?
   answer: Use a thin slurry of water or milk instead—coating sticks a bit less.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 When you want a treat without deep-frying in a big pot of oil.

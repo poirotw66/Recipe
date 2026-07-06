@@ -28,10 +28,11 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: place orange French Danish pastry on baking sheet, bake at 350°F for 3–5 min until fragrant."
-- Heat oil in skillet; sear main protein (chicken, steak, seafood, or mushrooms from 丹麥麵包 2份, 燻牛肉 160公克, 水波蛋 2顆) with salt and pepper.
-- Prepare sunny-side or poached eggs; fry potato hash or wedges in skillet until golden brown.
-- Plate toast, proteins, eggs, and salad separately; drizzle 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 芥末醬 適量 over the main components; serve immediately.
+- "Slice 2 Danish pastries crosswise; butter the cut sides and bake at 180°C / 350°F 5–7 minutes until golden and lightly crisp."
+- Rest 160 g smoked beef from the fridge until lightly softened, keeping slices intact; squeeze mustard to taste into a small bowl and set aside.
+- "Bring a saucepan of water to a boil with 1 tbsp vinegar; reduce to low, stir a whirlpool with a spoon, crack in 2 eggs, and poach about 3 minutes; drain well."
+- Brush 1 tbsp olive oil on toasted Danish; layer smoked beef slices and top with 2 poached eggs.
+- Sprinkle 1/3 tsp sea salt and 1/4 tsp cracked black pepper, dot with mustard to taste, and serve hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -51,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 丹麥麵包
   amount: "2"

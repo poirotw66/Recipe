@@ -56,19 +56,20 @@ seasonings:
   unit: ''
 intro: Pat shrimp completely dry before marinating—air-fry time is short; too long and they shrink and toughen.
 steps:
-- Rinse shrimp; devein if needed; pat thoroughly dry. Mince garlic (4 cloves).
-- Mix olive oil (1 tbsp), soy sauce (1 tsp), lemon juice (1 tsp), salt, black pepper, and garlic into a marinade.
-- Toss shrimp with marinade; rest 8 minutes (preheat air fryer meanwhile).
-- Preheat air fryer to 190°C for 3 minutes. Arrange shrimp in one layer without stacking.
-- Air-fry at 190°C for 4 minutes, flip, then 3 more until shells turn pink-orange, curled, and flesh is opaque.
-- Squeeze a little more lemon if desired; serve immediately.
+- Rinse shrimp (200 g) under running water; devein if needed; pat thoroughly dry with paper towels. Mince garlic (4 cloves).
+- In a bowl, mix olive oil (1 tbsp), soy sauce (1 tsp), lemon juice (1 tsp), salt, black pepper, and garlic into a marinade.
+- Toss shrimp with the marinade until evenly coated; rest 8 minutes to absorb flavor.
+- Preheat air fryer to 190°C for 3 minutes.
+- Arrange shrimp in the basket in one layer, separated—not stacked—so each shrimp heats evenly.
+- Air-fry at 190°C for 4 minutes; open, flip, then air-fry 3 minutes more until shells turn pink-orange and bodies curl.
+- Flesh should be opaque and springy. Squeeze a little more lemon juice if desired and serve immediately while hot.
 storage: Best fresh; reheated shrimp turn tough overnight.
 faqs:
 - question: Can I use frozen shrimp?
   answer: Yes—thaw completely and pat very dry or they’ll steam and weep.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 From prep to plate in under 20 minutes—a solid weeknight option.

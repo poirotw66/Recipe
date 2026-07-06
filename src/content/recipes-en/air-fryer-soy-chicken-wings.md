@@ -55,19 +55,20 @@ seasonings:
   unit: ''
 intro: Dry wings before marinating; drain marinade before the basket so skin crisps.
 steps:
-- Rinse 4 chicken wings; score each twice and pat thoroughly dry.
-- Mince garlic (3 cloves) and slice ginger (3 slices); mix with soy sauce (2 tbsp), rice wine (1 tbsp), salt, and black pepper.
-- Toss wings with marinade; rest 15 minutes.
-- Preheat air fryer to 190°C for 3 minutes. Drain excess marinade; arrange wings in one layer.
-- Air-fry at 190°C for 10 minutes, flip, then 8 more until skin is crisp and meat shows no bloody juices.
-- For extra char, air-fry at 200°C for 2 more minutes.
+- Rinse 4 chicken wings; score two shallow cuts on each wing to help seasoning penetrate; pat thoroughly dry with paper towels.
+- Mince garlic (3 cloves) and slice ginger (3 slices) thinly; mix with soy sauce (2 tbsp), rice wine (1 tbsp), salt, and black pepper into a marinade.
+- Toss wings with the marinade until evenly coated; rest 15 minutes to absorb flavor.
+- Preheat air fryer to 190°C for 3 minutes.
+- Drain excess marinade from the wings (pat lightly with paper towels if needed). Arrange in the basket in one layer without stacking, skin side up for a crisper finish.
+- Air-fry at 190°C for 10 minutes; open, flip, then air-fry 8 minutes more until skin is golden.
+- Cut into the thickest wing along the bone—meat should show no bloody juices and skin should be crisp with tender meat. For extra char, air-fry at 200°C for 2 more minutes; serve hot.
 storage: Refrigerate up to 2 days; reheat at 170°C for 5 minutes.
 faqs:
 - question: Can I use drumsticks instead?
   answer: Yes?�cut into chunks and add 3?? minutes until cooked through.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Great for a weekend drink or binge-watch?�solo wings without the fryer pot.
