@@ -62,17 +62,19 @@ seasonings:
   unit: ''
 intro: The point is a clean broth plus whatever vegetables are on hand—not a rigid recipe.
 steps:
-- "Prep: Noodles 1serving, Cabbage 60g, Egg 1; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch."
-- Chop cabbage; slice scallions; beat egg.
-- Bring water and soy sauce to a boil; add noodles and cabbage.
-- Taste and adjust seasoning; serve while hot.
+- Shred 60 g cabbage; beat 1 egg; slice 1 scallion; have 1 serving noodles ready.
+- "In a stockpot, combine 600 ml water and 2 tbsp soy sauce; bring to a boil over high heat, then reduce to medium."
+- "Add cabbage and cook 3 minutes until translucent but still slightly crisp (overcooked cabbage turns mushy)."
+- "Add noodles and cook per package until springy (chopsticks should cut through with a slight firm core)."
+- "Lower heat; drizzle egg along the pan edge, rest 5 seconds, then gently push into wispy egg strands."
+- "Taste and adjust with a pinch of salt and white pepper; scatter scallions and serve right away."
 storage: Best fresh; noodles turn mushy overnight.
 faqs:
 - question: Instant noodles instead?
   answer: Yes—use half the seasoning packet to avoid oversalting.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Fridge-bottom soup noodles are a practical busy-night bowl with flexible add-ins.

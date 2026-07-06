@@ -38,16 +38,22 @@ seasonings:
 - name: Garlic
   amount: '1'
   unit: clove
+- name: Olive oil
+  amount: '1'
+  unit: Tbsp
 tags:
 - Chicken breast
 - Mixed rice bowl
 intro: Sear chicken first to lock in moisture, then fold in scallion sauce for a tenderer bite than all-in stir-fry.
 steps:
-- "Prep: Chicken breast 130g, Scallions 2stalks, Cooked rice 1bowl; dice Chicken breast about ½ inch, divide Cooked rice 1bowl into serving bowls."
-- Marinate Chicken breast with Soy sauce 1.5tsp, Garlic 1clove for 10 minutes; prep vegetables as needed.
-- Heat 1 Tbsp oil in a skillet over medium heat. Add Chicken breast, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve while hot.
+- "Dice 130g chicken breast crosswise against the grain; mince 1 clove garlic; chop 2 scallions, keeping whites and greens separate; place 1 bowl cooked rice in a large serving bowl."
+- "In a small bowl, mix 1 tsp soy sauce, 2 Tbsp warm water, and the scallion whites to make scallion sauce."
+- "Toss chicken with 0.5 tsp soy sauce; rest 5 minutes to marinate."
+- "Heat 1 Tbsp olive oil in a skillet over medium heat; add chicken in a single layer and sear about 3 minutes until golden, then flip and stir-fry 2 more minutes until fully cooked (no pink when cut)."
+- "Add minced garlic and stir-fry 30 seconds until fragrant."
+- "Pour in scallion sauce and stir-fry over high heat 1 minute until the sauce coats the chicken."
+- "Add scallion greens and toss 10 seconds, then turn off the heat (greens stay bright)."
+- "Pour chicken and sauce over rice and toss while hot; for bento, pack rice and chicken separately."
 tips:
 - Toss chicken with a pinch of salt and oil before cooking for a silkier texture.
 storage: Best fresh; pack rice and chicken separately for lunchboxes to avoid soggy rice.
@@ -64,7 +70,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-08'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - King oyster mushroom
 - Baby corn

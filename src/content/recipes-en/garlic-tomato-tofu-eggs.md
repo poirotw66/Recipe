@@ -41,14 +41,20 @@ seasonings:
 - name: Soy sauce
   amount: '1'
   unit: tsp
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 tags:
 - Tofu dishes
 - Rice-friendly home cooking
 intro: Lightly sear the tofu before folding in tomato and egg for more texture and less watery pooling.
 steps:
-- Mince the garlic; dice the tomato. Cut the tofu into bite-size cubes. Beat the eggs with a pinch of salt and 1 tsp water until lightly frothy.
-- Heat a little oil in a skillet; pan-fry the tofu until lightly golden on both sides. Set aside.
-- In the same pan, sauté garlic and tomato until soft. Return the tofu, pour in the eggs, and stir until half-set; season with salt and soy sauce.
+- Beat 2 eggs with a pinch of salt; pat ½ pack tofu dry and cut into 1.5 cm cubes; dice 1 tomato; mince 2 garlic cloves.
+- "Heat 1 tbsp olive oil in a skillet over medium heat; pan-fry tofu until golden on all sides, about 3 minutes; set aside."
+- "In the same pan, add a little more oil if needed; sauté garlic 30 seconds, then cook tomato over medium heat 2 minutes until slightly soft and juicy."
+- Return tofu and gently toss so tomato juices coat the cubes.
+- "Push ingredients to one side; pour in eggs; when half-set, gently fold into soft curds over about 1 minute."
+- "Drizzle 1 tsp soy sauce down the pan edge, toss quickly, and serve while eggs stay moist and garlicky."
 tips:
 - Do not overcook the eggs—slightly soft curds taste best.
 storage: Best fresh; refrigerate up to 1 day and reheat through.
@@ -65,7 +71,7 @@ relatedIngredients:
 - 番茄
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

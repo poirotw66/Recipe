@@ -50,19 +50,20 @@ seasonings:
   unit: ''
 intro: Egg-to-water ratio about 1:1.5; strain for a finer custard; steaming with rice saves time.
 steps:
-- "Prep: Cooked white rice 1bowl, Eggs 2; rinse rice if using and chop vegetables."
-- Put rice and water in the rice cooker inner pot; add 1 cup water to the outer pot.
-- Beat eggs with water and a pinch of salt; strain into a heatproof bowl.
-- Set the egg bowl on the rice or a steam rack; cover and run normal cook cycle.
-- After it switches off, rest 3 minutes—the egg should be pudding-soft.
-- Taste and adjust seasoning; serve while hot.
+- "Place 1 bowl cooked rice in the rice cooker inner pot; add water to the inner-pot line (if rice was refrigerated, sprinkle 1–2 Tbsp water on top before steaming)."
+- "Crack 2 eggs into a bowl, add 180 ml cold water and a pinch of salt, and whisk well; strain once for a finer texture."
+- "Pour strained egg into a heatproof bowl and cover the rim with vented plastic wrap (2–3 small holes)."
+- "Set the egg bowl on the rice or a steam rack (keep it above the rice water, not submerged)."
+- "Add 1 cup water to the outer pot, cover, and run the normal rice-cook cycle."
+- "When the switch pops up, rest 3 minutes; the egg center should be pudding-soft with a smooth, hole-free surface."
+- "Drizzle 1 Tbsp soy sauce over the steamed egg and eat mixed with rice or separately; best served right away."
 storage: Best fresh; steamed egg weeps if refrigerated.
 faqs:
 - question: No rice cooker?
   answer: Steam over boiling water, medium heat 12 minutes, off heat 3 minutes.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 One of the laziest reliable meals in a small rental kitchen.

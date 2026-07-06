@@ -38,14 +38,19 @@ seasonings:
 - name: Scallion
   amount: '1'
   unit: stalk
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 tags:
 - Soft eggs
 - Tomato
 intro: Balance tomato and onion so egg aroma stays forward—the dish stays craveable.
 steps:
-- Dice tomato; peel onion and slice thin along the grain; beat eggs with pinch of salt and 1 tsp water until lightly foamy; slice scallion.
-- Stir-fry onion until translucent; add tomato until juicy.
-- Low heat; pour eggs and push to half-set; salt and scallion.
+- Dice 1 tomato; slice ¼ onion into thin strips; beat 2 eggs with a pinch of salt; slice 1 scallion into rounds.
+- "Heat 1 tbsp olive oil in a skillet over medium heat; stir-fry onion 2 minutes until slightly translucent and sweet."
+- "Add tomato and cook over medium heat 2 minutes until slightly soft and juicy (skins curl when ready)."
+- "Push vegetables to one side; pour in eggs; when edges set, gently push into soft curds over about 1 minute."
+- "Fold everything together, taste, and scatter scallions; eggs should stay half-set and silky—do not dry them out."
 tips:
 - Leave the pan earlier for softer eggs.
 storage: Eggs best fresh; refrigeration firms texture.
@@ -62,7 +67,7 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-06-24'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

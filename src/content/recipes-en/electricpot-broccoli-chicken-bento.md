@@ -46,10 +46,13 @@ tags:
 - Bento main
 intro: Brief marinade keeps breast moist; steaming vegetables with the chicken saves prep time.
 steps:
-- "Prep: Chicken breast 260g, Broccoli 180g, Carrot 80g; rinse rice if using and chop vegetables."
-- Cut chicken into thick slices; mix minced garlic, soy sauce, and a pinch of salt; marinate 10 minutes.
-- Cut broccoli into florets; slice carrot; place with chicken in a heatproof dish.
-- Taste and adjust seasoning; serve while hot.
+- "Pat dry 260g chicken breast; cut 180g broccoli into small florets and rinse; peel 80g carrot and slice into thin half-moons; mince 2 cloves garlic."
+- "Slice chicken crosswise against the grain into thick pieces (about 1 cm); toss with 1.5 tsp soy sauce, minced garlic, and a pinch of salt; rest 10 minutes to marinate."
+- "In a heatproof dish that fits the rice cooker, layer carrot slices on the bottom, broccoli florets next, then lay chicken slices flat on top (leave space between pieces—do not stack)."
+- "Add 1 cup water to the outer pot, place the dish in the inner pot, cover, and start steaming."
+- "When the switch pops up, rest 5 minutes so residual heat keeps the breast tender."
+- "Open the lid and pierce the thickest part of the chicken with a skewer—the juices should run clear with no pink; broccoli should still look bright green."
+- "Cut into pieces or keep as slices and divide into 2 bento portions; let cool before closing the lids."
 tips:
 - Avoid slicing breast too thin or it dries out—keep some thickness.
 storage: Refrigerate portions up to 2 days; splash water before microwaving.
@@ -66,7 +69,7 @@ relatedIngredients:
 - 紅蘿蔔
 featured: false
 publishedAt: '2026-06-12'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - King oyster mushroom
 - Baby corn

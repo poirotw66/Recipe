@@ -41,14 +41,20 @@ seasonings:
 - name: Soy sauce
   amount: '1'
   unit: tsp
+- name: Olive oil
+  amount: '1'
+  unit: Tbsp
 tags:
 - Vegetable stir-fry
 - Home-style
 intro: Start with onion for aroma, then cabbage and mushrooms so flavors meld.
 steps:
-- "Prep: Onion 0.5, Cabbage 180g, Mushrooms 120g; mix Garlic 1clove, Salt pinch, Soy sauce 1tsp in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Slice onion, cabbage, and mushrooms; mince garlic.
+- Julienne 1/2 onion into thin strips; cut 180 g cabbage into wide shreds; slice 120 g mushrooms; mince 1 garlic clove.
+- Heat a skillet over medium. Add 1 tbsp olive oil. When hot, sauté minced garlic about 30 seconds until fragrant.
+- Add onion; stir-fry about 2 minutes until slightly translucent and sweet.
+- Add mushrooms over medium heat; stir-fry about 2 minutes until slightly soft with lightly browned edges.
+- Add cabbage over high heat; stir-fry about 2 minutes until just wilted but still crisp (stems turn slightly translucent).
+- Drizzle 1 tsp soy sauce down the side of the pan; toss quickly, taste with a pinch of salt, and serve.
 tips:
 - For crisper cabbage, shorten cooking by about 1 minute.
 storage: Refrigerate 1 day.
@@ -65,7 +71,7 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-07-05'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Shredded pork
 - Shrimp

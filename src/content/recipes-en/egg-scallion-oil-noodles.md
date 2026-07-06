@@ -55,19 +55,18 @@ seasonings:
   unit: ''
 intro: Fry the egg last so the yolk stays runny and enriches the noodles when you break it in.
 steps:
-- Slice scallions; mix soy sauce, 1 tbsp scallions, and a little oil into a base sauce.
-- Boil noodles until springy; drain; toss with base sauce.
-- Skillet with oil; fry egg on low until whites set and yolk still soft.
-- Plate noodles; top with egg; scatter remaining scallions.
-- Break yolk into noodles when you eat for best flavor.
-- Taste and adjust seasoning; serve while hot.
+- Chop 2 scallions into greens and whites separately. Mix 2 tbsp soy sauce with scallion whites and 1 tbsp olive oil into a base sauce.
+- Bring a pot of water to a boil. Cook 1 serving fresh oil noodles per package time until springy (about 2–3 minutes); drain well.
+- Toss noodles quickly with the base sauce until every strand is coated with scallion oil.
+- Heat a skillet over medium. Add the remaining 1 tbsp olive oil. Crack in 1 egg and fry over low about 2 minutes until whites are set and yolk is still soft-set.
+- Plate the noodles, top with the fried egg, and scatter scallion greens; break the yolk into the noodles when you eat for the best flavor.
 storage: Best fresh; egg and noodles decline overnight.
 faqs:
 - question: Can I use two eggs?
   answer: Yes—more protein; bump sauce slightly.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 An upgraded scallion oil noodle plate sized for one.

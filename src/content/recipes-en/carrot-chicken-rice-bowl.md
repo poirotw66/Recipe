@@ -39,16 +39,21 @@ seasonings:
 - name: Rice wine or dry sherry
   amount: '1'
   unit: tsp
+- name: Olive oil
+  amount: '1'
+  unit: Tbsp
 tags:
 - Bento
 - High protein
 intro: Carrot adds color and sweetness; diced breast stir-fries fast for two lunch boxes.
 steps:
-- "Prep: Chicken breast 2pieces, Carrot 1/2, Cooked white rice 2bowls; dice Chicken breast about ½ inch, divide Cooked white rice 2bowls into serving bowls."
-- Marinate Chicken breast with Soy sauce 1Tbsp, Rice wine or dry sherry 1tsp for 10 minutes; dice Carrot finely.
-- Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Carrot 2 minutes until slightly tender; Add Chicken breast, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve while hot.
+- "Dice 2 chicken breasts crosswise against the grain; peel and finely dice 1/2 carrot (about 0.5 cm); divide 2 bowls cooked rice into bento containers."
+- "Toss chicken with 1/2 Tbsp soy sauce and 1 tsp rice wine; rest 10 minutes to marinate (reserve the remaining 1/2 Tbsp soy sauce for stir-frying)."
+- "Heat 1 Tbsp olive oil in a skillet over medium heat; stir-fry carrot 2 minutes until edges soften but still slightly crisp."
+- "Push carrot to the side, add chicken in a single layer, and sear over medium heat 3–4 minutes until golden on the surface."
+- "Toss everything together and stir-fry 1–2 more minutes until chicken is fully cooked (no pink when cut)."
+- "Pour the reserved 1/2 Tbsp soy sauce along the pan edge and stir-fry over high heat 30 seconds to reduce the sauce."
+- "Taste and portion chicken and carrot over rice; let cool to room temperature before closing bento lids (keeps rice from getting soggy)."
 tips:
 - Smaller carrot dice cooks quicker.
 storage: Refrigerate up to 2 days; reheat thoroughly.
@@ -64,7 +69,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - King oyster mushroom
 - Baby corn

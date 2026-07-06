@@ -58,19 +58,19 @@ seasonings:
   unit: tsp
 intro: Kimchi is salty—use little soy sauce; fluff rice first so it doesn’t clump.
 steps:
-- "Prep: Cooked rice 1bowl, Kimchi 80g, Egg 1; fluff cold rice and beat eggs with a pinch of salt."
-- Dice kimchi; beat egg; break up rice with a spatula.
-- Heat oil over medium-high; scramble egg into soft curds and set aside.
-- Stir-fry kimchi 1 minute; add rice and toss quickly.
-- Drizzle soy sauce down the side of the pan; fold in egg.
-- Sprinkle sesame seeds; add optional toppings above.
+- "Fluff 1 bowl cooked rice by hand or spatula (chilled rice clumps less); dice 80 g kimchi small and reserve 1 tbsp kimchi brine if you have it."
+- Beat 1 egg with a pinch of salt until even.
+- "Heat 1 tbsp olive oil in a skillet over medium-high; pour in egg and scramble into soft curds in about 30 seconds; set aside."
+- "In the same pan over medium heat, stir-fry kimchi 1 minute until tangy aroma is clear."
+- "Add rice and toss quickly 1–2 minutes until grains separate and pick up light golden spots."
+- "Drizzle 1 tsp soy sauce and kimchi brine down the pan edge; fold in scrambled egg; finish with white sesame seeds."
 storage: Best fresh; if reheating next day, splash a little water.
 faqs:
 - question: Rice too wet?
   answer: Cool fresh rice 10 minutes before frying—less moisture, less sticking.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Tangy and bold—one of the fastest dinners when you have kimchi on hand.
