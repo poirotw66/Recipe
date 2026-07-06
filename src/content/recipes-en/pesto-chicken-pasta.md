@@ -56,12 +56,14 @@ tags:
 - Chicken dishes
 intro: Brown the chicken first, then fold in a fresh scallion pesto (scallion and garlic, not classic basil pesto) so meat and aromatics match.
 steps:
-- Cut the chicken into strips; season with salt and pepper. Cook the pasta until al dente; reserve ½ cup pasta water.
-- Blend scallion greens, minced garlic, 1.5 Tbsp olive oil, and cheese powder into a paste—or chop very fine and mix.
-- Heat the remaining oil in a skillet and cook the chicken through. Add pasta, pesto paste, and a splash of pasta water; toss until coated.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Cut 120 g chicken breast against the grain into strips; rub with a pinch of salt and black pepper. Wash 3 scallions and separate the whites from the greens. Mince 2 garlic cloves.
+- In a bowl, finely chop the scallion whites, minced garlic, and half the scallion greens. Mix with 2 tbsp olive oil and 2 tbsp grated cheese into a scallion-garlic pesto base (taste and adjust salt if needed).
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 1 tbsp olive oil and lay the chicken in a single layer. Sear both sides golden until cooked through, about 5–6 minutes. Set aside.
+- In the same pan over low heat, add the pasta, chicken, pesto base, and 3–4 tbsp pasta water.
+- Toss over high heat 1–2 minutes until the pasta is coated and the sauce is slightly reduced.
+- Taste and adjust seasoning; sprinkle the remaining scallion greens.
+- Plate while hot.
 tips:
 - After the chicken is done, lower heat and toss the pasta quickly so the meat does not dry out.
 storage: Refrigerate up to 1 day; add a little water or oil when reheating.
@@ -76,7 +78,7 @@ relatedIngredients:
 - 青蔥
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

@@ -33,9 +33,12 @@ ingredients:
   unit: cloves
   isCore: true
 seasonings:
+- name: Cooking oil
+  amount: '1'
+  unit: Tbsp
 - name: Soy sauce
   amount: '1'
-  unit: tbsp
+  unit: Tbsp
 - name: Black pepper
   amount: pinch
   unit: ''
@@ -44,9 +47,12 @@ tags:
 - Lean meals
 intro: Mushrooms add moisture so breast meat stays pleasant—and bento mains feel less one-note.
 steps:
-- "Prep: Chicken breast 2fillets, Mushrooms 1bowl, Garlic 2cloves; mix Soy sauce 1tbsp, Black pepper pinch in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Slice the chicken; marinate with soy sauce and black pepper 5 minutes.
+- Slice 2 chicken breasts against the grain into thin 0.5 cm pieces; pat dry. Slice 1 bowl of mushrooms. Mince 2 garlic cloves.
+- Heat a skillet over medium-high with 1 Tbsp oil. When hot, lay the chicken in a single layer and cook until the surface turns white and the meat is about 70% done, 2–3 minutes. Transfer to a plate.
+- In the same pan, sauté the garlic about 20 seconds—watch it does not burn.
+- Add the mushrooms and stir-fry over medium-high 2–3 minutes until they release liquid, cook dry, and the edges lightly brown.
+- Return the chicken, add 1 Tbsp soy sauce and a pinch of black pepper, and toss over high heat 1 minute until the chicken is fully cooked and evenly coated.
+- Taste and adjust seasoning; divide into 2 portions and serve hot, or cool for bento.
 tips:
 - Slice the breast thinner—it cooks faster and stays juicier.
 storage: Refrigerate up to 2 days; good for next-day bento.
@@ -62,7 +68,7 @@ relatedIngredients:
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - King oyster mushroom
 - Baby corn

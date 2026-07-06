@@ -50,13 +50,16 @@ seasonings:
 tags:
 - Pasta
 - White sauce
-intro: Sear chicken first, then thicken milk and cheese into white sauce—rich but straightforward.
+intro: Sear the chicken first, then thicken milk and grated cheese into white sauce—rich and creamy, but straightforward.
 steps:
-- "Prep: Spaghetti 80g, Chicken breast 100g."
-- Dice chicken; season with salt and pepper. Cook pasta until al dente; reserve ½ cup pasta water.
-- Melt butter; pan-fry chicken until golden. Add minced garlic and stir until fragrant.
-- Pour in milk and grated cheese; simmer gently and stir until slightly thickened.
-- Taste and adjust seasoning; serve while hot.
+- Cut 100 g chicken breast against the grain into roughly 1.5 cm dice. Rub with a pinch of salt and black pepper and let sit 5 minutes. Mince 2 garlic cloves.
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti 7–9 minutes until al dente per package directions. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium heat. Add 1 tbsp butter; once melted and bubbling, add the chicken. Sear on all sides until golden and cooked through, about 4–5 minutes (no pink inside when cut).
+- Add the minced garlic over medium heat and stir until fragrant, about 30 seconds—do not let it burn.
+- Lower the heat. Pour in 150 ml milk and 1 tbsp grated cheese. Stir gently with a spoon; once simmering, cook on low about 2 minutes until the sauce coats a spoon (keep heat low to avoid splitting).
+- Add the pasta and 2–3 tbsp pasta water. Toss over medium heat 1–2 minutes until every strand is coated in white sauce.
+- Taste and add more salt and black pepper if needed.
+- Plate while hot. Sprinkle Parmesan or add bacon if you like.
 tips:
 - Keep heat low throughout so milk doesn’t split.
 storage: Eat within 1 day refrigerated; add a splash of milk when reheating.
@@ -70,7 +73,7 @@ relatedIngredients:
 - 雞胸肉
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

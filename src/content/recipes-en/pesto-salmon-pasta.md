@@ -56,14 +56,16 @@ tags:
 - Pasta
 - Pesto
 - Seafood
-intro: Sear salmon until lightly charred, then gently toss with pesto pasta at the end to keep fillets intact. This pesto uses scallion greens and garlic (not classic basil pesto).
+intro: For pesto salmon pasta, sear the salmon until the surface is lightly charred, then gently toss with the pesto pasta at the end to keep the fish intact. This recipe uses a scallion-and-garlic pesto (not classic basil pesto).
 steps:
-- Cut salmon into chunks and pat dry. Cook pasta until al dente; reserve ½ cup pasta water.
-- Blend scallion greens (green parts only), minced garlic, 2 tbsp olive oil, and grated cheese into a pesto paste.
-- Pan-fry salmon in remaining oil until golden both sides. Add pasta, pesto, and a little pasta water; toss. Finish with lemon juice and black pepper.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Pat dry 120 g salmon with paper towels; season both sides with a pinch of salt and black pepper. Rinse 3 scallions and separate the white and green parts. Mince 2 cloves garlic.
+- In a bowl, finely chop the scallion whites, garlic, and half the green tops. Mix with 2 tbsp olive oil, 2 tbsp grated cheese, and 1 tsp lemon juice to form a scallion-garlic pesto base.
+- Bring a stockpot of water to a rolling boil over high heat. Add a pinch of salt and cook 80 g spaghetti until al dente. Drain, reserving ½ cup pasta water.
+- Heat a skillet over medium-high heat with 1 tbsp olive oil. Place salmon skin-side down (if it has skin) in a single layer. Sear until golden on the surface and cooked through in the center (about 4–5 minutes; a chopstick should pass through easily). Transfer to a plate.
+- In the same skillet over low heat, add the pasta, salmon, pesto base, and 3–4 tbsp pasta water.
+- Raise to high heat and toss gently for 1–2 minutes until the noodles are coated (work carefully so the salmon doesn't break into too many small pieces).
+- Taste and adjust seasoning. Scatter the remaining scallion greens and a pinch of black pepper on top.
+- Plate and serve while hot.
 tips:
 - Toss gently so salmon doesn’t break into too many small pieces.
 storage: Best eaten immediately; fish loses quality overnight.
@@ -78,7 +80,7 @@ relatedIngredients:
 - 青蔥
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

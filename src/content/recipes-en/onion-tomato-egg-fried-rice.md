@@ -35,6 +35,9 @@ seasonings:
 - name: Tomato
   amount: '1'
   unit: ''
+- name: Cooking oil
+  amount: '2'
+  unit: tbsp
 - name: Salt
   amount: pinch
   unit: ''
@@ -46,11 +49,13 @@ tags:
 - Fried rice
 intro: Cook the tomato first so the rice picks up juice—fried rice stays a little moist, not dry.
 steps:
-- Dice onion and tomato. Beat the egg with a pinch of salt and 1 tsp water until slightly frothy; fluff the rice.
-- Scramble the egg until half-set and set aside. In the same pan with fresh oil, sauté onion and tomato over medium-low until fragrant.
-- Add rice and toss; return the egg, then season with salt and soy sauce.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Fluff 1 bowl of cooked rice with chopsticks to break up clumps. Thinly slice ½ onion. Rinse 1 tomato and dice into small cubes. Beat 1 egg with a pinch of salt until combined.
+- Heat a skillet over medium-high heat with 1 tbsp cooking oil. When hot, pour in the eggs and scramble into soft curds for about 30 seconds. Transfer to a plate.
+- Add 1 tbsp cooking oil to the same pan. Stir-fry the onion for 1–2 minutes until translucent and fragrant.
+- Add the tomato dice and cook over medium heat for 2–3 minutes until soft and juicy.
+- Add the rice and stir-fry over high heat for 2–3 minutes until grains are separate and have absorbed the tomato juices.
+- Return the eggs, add 1 tsp soy sauce, and toss over high heat for 1 minute until everything is evenly mixed. Taste and adjust.
+- Plate and serve while hot. Optional garnish: scallions or diced ham.
 tips:
 - Cool rice fries better—if hot, let it rest 5 minutes first.
 storage: Best fresh; if storing, refrigerate and reheat within 1 day.
@@ -67,13 +72,11 @@ relatedIngredients:
 - 雞蛋
 featured: true
 publishedAt: '2026-06-07'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese
 - Scallions
----
-
 ---
 
 Tangy, easy fried rice for everyday dinners.

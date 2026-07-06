@@ -29,6 +29,9 @@ ingredients:
   unit: g
   isCore: true
 seasonings:
+- name: Cooking oil
+  amount: '1'
+  unit: Tbsp
 - name: Garlic
   amount: '2'
   unit: cloves
@@ -43,26 +46,27 @@ tags:
 - Stir-fry
 intro: Slice the beef, blanch the broccoli first, then stir-fry over high heat to keep crunch and tenderness.
 steps:
-- Cut beef (120 g) into strips against the grain; cut broccoli (200 g) into small florets. Mince garlic (2 cloves); mix soy sauce (1 tbsp) and oyster sauce (1 tsp) in a small bowl.
-- Blanch broccoli in boiling water 1 minute until bright green; drain.
-- Heat 1 tbsp oil in a skillet over high heat; stir-fry beef until mostly colored (~70% done) and remove promptly.
-- Add a little more oil if needed; sauté garlic, then return broccoli and beef.
-- Pour in sauce; toss over high heat 30 seconds until evenly coated and beef is cooked through.
+- Cut 120 g beef into strips against the grain and pat dry. Cut 200 g broccoli into small florets and rinse. Mince 2 garlic cloves. In a small bowl, mix 1 Tbsp soy sauce and 1 tsp oyster sauce.
+- Bring a pot of water to a boil. Blanch the broccoli 1 minute until bright green, then drain immediately.
+- Heat a skillet over medium-high with 1 Tbsp oil. When hot, stir-fry the beef until the surface changes color and the meat is about 70% done, 1–2 minutes. Transfer promptly to a plate.
+- In the same pan, add a little more oil if needed and sauté the garlic about 20 seconds.
+- Add the blanched broccoli and beef back to the pan. Pour in the sauce.
+- Toss over high heat 30 seconds until evenly coated and the beef is fully cooked. Taste and adjust seasoning, then serve.
 tips:
-- Do not overcook the beef?�it stays more tender.
+- Do not overcook the beef—it stays more tender.
 storage: Keeps 1 day refrigerated; reheat with a little oil in a hot pan.
 substitutions:
 - Cauliflower
 relatedIngredients:
-- ?��?
-- ?�花??
+- 牛肉
+- 青花菜
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Chili
 - Onion
 ---
 
-Beef and broccoli balances protein and greens?�solid for an even-keel weekday dinner.
+Beef and broccoli balances protein and greens—solid for an even-keel weekday dinner.
