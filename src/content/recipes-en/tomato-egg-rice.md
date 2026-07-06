@@ -32,6 +32,9 @@ ingredients:
   unit: ''
   isCore: true
 seasonings:
+- name: Cooking oil
+  amount: '1'
+  unit: Tbsp
 - name: Tomato paste or ketchup
   amount: '1'
   unit: Tbsp
@@ -41,15 +44,19 @@ seasonings:
 tags:
 - Leftover rice
 - Easy dinner
-intro: Tomato egg rice is a reliable way to revive dry fridge rice with a familiar flavor and a high success rate.
+intro: This tomato egg rice cooks the tomato until juicy, folds in soft scrambled eggs, then tosses with rice so every grain picks up a sweet-tangy sauce—easy even for beginners.
 steps:
-- Wash the ripe tomato, score a shallow cross on the bottom, blanch briefly in boiling water, peel, and dice into even bite-size pieces (peeling keeps the juice smoother). Beat the eggs in a bowl with a pinch of salt and 1 tsp water until lightly frothy (the water helps fluffier scrambled eggs). Set aside.
-- Heat a skillet with a little cold oil over medium-low. Add the tomato dice and cook, pressing lightly with a spatula, until fully soft and juicy. Pour in the eggs; when the edges set, stir quickly to combine into soft curds with the tomato.
-- Raise to medium heat. Add the rice (if chilled, break up gently with the back of the spatula—do not mash). Stir in the tomato paste and toss until the grains are evenly colored, moist, and lightly smoky from the pan; serve.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Rinse 1 tomato, score a shallow cross on the bottom, blanch in boiling water for about 30 seconds, then peel in cold water. Remove the core and dice into roughly 1.5 cm pieces (peeling keeps the juice smoother).
+- Crack 2 eggs into a bowl, add a pinch of salt and 1 tsp water, and beat until lightly frothy (a little water helps fluffier scrambled eggs).
+- Fluff 1 bowl of cooked rice with chopsticks or a fork; if the rice is cold and hard, sprinkle 1–2 tsp water and break up clumps. Set the rice and 1 Tbsp ketchup or tomato paste nearby.
+- Heat a skillet over medium heat with 1 Tbsp cooking oil. When the oil shimmers, add the tomato dice and cook, pressing lightly with a spatula, for 2–3 minutes until fully soft and juicy.
+- Lower to medium-low. Pour in the beaten eggs evenly. When the edges start to set, push from the outside in with a spatula to form soft curds mixed with the tomato (about 1 minute—do not overcook).
+- Raise back to medium heat. Add the rice and gently break up any clumps with the back of the spatula—do not mash. Stir-fry for about 1 minute so the rice absorbs the tomato juices.
+- Add 1 Tbsp ketchup or tomato paste and toss for 1–2 minutes until the grains are evenly colored, moist, and lightly smoky from the pan. Taste and add a pinch more salt if needed.
+- Transfer to a bowl and serve hot. Optional garnish: scallions, diced ham, or shredded cheese.
 tips:
 - If leftover rice is very hard, sprinkle a little water before it hits the pan.
+- Cook the tomato until it releases juice before adding the eggs—the finished rice stays moist.
 storage: Best eaten right away; if refrigerated, finish within 1 day.
 substitutions:
 - Cherry tomatoes
@@ -65,11 +72,11 @@ relatedIngredients:
 - 白飯
 featured: true
 publishedAt: '2026-05-24'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese
 - Chopped scallions
 ---
 
-If you want one low-prep dinner tonight, tomato egg rice is a steady pick. It also works well as a single-pan weekday meal.
+If you want one low-prep dinner tonight, tomato egg rice is a steady pick. One skillet and one bowl of rice are all you need for a familiar sweet-tangy plate.
