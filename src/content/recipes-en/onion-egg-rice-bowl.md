@@ -33,6 +33,9 @@ ingredients:
   unit: ''
   isCore: true
 seasonings:
+- name: Cooking oil
+  amount: '1'
+  unit: Tbsp
 - name: Soy sauce
   amount: '1'
   unit: Tbsp
@@ -44,11 +47,13 @@ tags:
 - Budget
 intro: Soft onions bring natural sweetness; semi-set eggs on rice make a filling bowl.
 steps:
-- Peel the onion and slice into thin, even strips along the grain. Beat the eggs with a pinch of salt and 1 tsp water until lightly frothy. Portion rice into a bowl.
-- In a skillet, cook the onion until tender. Add soy sauce, sugar, and a splash of water; simmer about 1 minute.
-- Pour in the eggs and, when half set, slide the mixture over the rice.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Slice half an onion into thin strips. Beat 2 eggs with a pinch of salt. Portion 1 bowl of rice into a large bowl and keep warm.
+- In a small bowl, whisk together 1 Tbsp soy sauce, 1/2 tsp sugar, and 2 Tbsp water to make the sauce.
+- Heat a skillet over medium heat with 1 Tbsp oil. When hot, add the onion and cook 3–4 minutes until translucent, soft, and lightly caramelized at the edges.
+- Pour in half the sauce and simmer about 30 seconds so the onion picks up flavor.
+- Pour the eggs evenly into the pan. Lower the heat, cover or keep on low, and cook 1–2 minutes until the eggs are about 70% set—surface firm, center still slightly runny.
+- Add the remaining sauce and gently swirl the pan to coat evenly. Taste and adjust salt or sweetness if needed.
+- Slide the onion and eggs with all the sauce over the rice. Serve right away while hot.
 tips:
 - Leave a little extra sauce if you like a moister bowl.
 storage: Cook and eat the same day for best egg aroma and texture.
@@ -64,7 +69,7 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

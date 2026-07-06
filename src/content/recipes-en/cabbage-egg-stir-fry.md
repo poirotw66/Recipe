@@ -33,6 +33,9 @@ ingredients:
   unit: clove
   isCore: false
 seasonings:
+- name: Cooking oil
+  amount: '1'
+  unit: Tbsp
 - name: Salt
   amount: 1/4
   unit: tsp
@@ -42,14 +45,16 @@ seasonings:
 tags:
 - Budget
 - Bento-friendly
-intro: Cabbage and egg is easy to make—the egg aroma lifts the cabbage’s natural sweetness.
+intro: Cabbage and egg is easy to make—the egg aroma lifts the cabbage's natural sweetness.
 steps:
-- Shred the cabbage coarsely; smash the garlic. Beat the eggs with a pinch of salt and 1 tsp water until slightly frothy (the water helps fluffy, tender curds); set aside.
-- Heat oil in a skillet; stir-fry garlic, then cabbage until slightly softened.
-- Push the cabbage to the side, pour in the eggs and scramble into chunks, then toss with the cabbage and season.
-- Taste and adjust seasoning; serve while hot.
+- Shred a quarter head of cabbage into coarse strips; rinse and drain well. Smash and mince 1 garlic clove. Beat 2 eggs in a bowl with 1/4 tsp salt and 1 tsp water until lightly frothy.
+- Heat a skillet over medium heat with 1 Tbsp oil. When hot, sauté the garlic about 20 seconds.
+- Add the cabbage and stir-fry over high heat 2 minutes until the leaves soften slightly but still hold some crunch and have not released much water.
+- Push the cabbage to the side of the pan. Pour the eggs into the center and, once the bottom sets, gently push into soft curds with a spatula, about 1 minute.
+- Toss the eggs with the cabbage and sprinkle a pinch of white pepper. Taste and add a little more salt if needed.
+- Divide into 2 portions and serve hot, or cool for bento.
 tips:
-- Don’t cook the cabbage until it releases too much water—crisper texture is nicer.
+- Don't cook the cabbage until it releases too much water—crisper texture is nicer.
 storage: Refrigerate up to 2 days; reheat in a dry skillet rather than the microwave for better aroma.
 substitutions:
 - Bok choy
@@ -63,7 +68,7 @@ relatedIngredients:
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

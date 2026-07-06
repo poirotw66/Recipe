@@ -33,6 +33,9 @@ ingredients:
   unit: stalks
   isCore: false
 seasonings:
+- name: Cooking oil
+  amount: '1'
+  unit: tbsp
 - name: Soy sauce
   amount: '1'
   unit: tsp
@@ -42,13 +45,15 @@ seasonings:
 tags:
 - 10 minutes
 - One-bowl rice
-intro: Scallion egg rice is basic but comforting—ideal on nights when you do not want to shop.
+intro: Scallion egg rice is the most basic yet comforting bowl—soft scrambled eggs first, then a high-heat toss with rice brings out scallion and egg aroma clearly.
 steps:
-- Chop the scallions. Beat the eggs with a pinch of salt and 1 tsp water until lightly frothy. Reheat the rice.
-- Heat oil in a skillet, pour in the eggs, and cook until just set; add most of the scallions.
-- Spoon the scallion eggs over the rice, drizzle soy sauce and sesame oil, and mix.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Beat 2 eggs with a pinch of salt until lightly frothy. Fluff 1 bowl of cooked rice with chopsticks to break up clumps. Chop 2 scallions, keeping whites and greens separate.
+- Heat a skillet over medium-high heat with 1 tbsp cooking oil. When hot, sauté the scallion whites for about 20 seconds until fragrant.
+- Pour in the eggs. Lower to medium-low and push into soft curds for about 1 minute (do not overcook). Transfer to a plate.
+- Add a little more oil to the same pan if needed. Add the rice and stir-fry over high heat for 2 minutes until grains are separate and lightly smoky.
+- Return the eggs, add 1 tsp soy sauce, and toss over high heat for 30 seconds until the rice is evenly colored.
+- Turn off the heat. Drizzle a little sesame oil, scatter the scallion greens, and toss evenly. Taste and adjust.
+- Serve hot in a bowl.
 tips:
 - Add scallions in two batches—half in the pan, half on top—for more layers of flavor.
 storage: Make and eat the same day; not ideal to hold long.
@@ -64,7 +69,7 @@ relatedIngredients:
 - 青蔥
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

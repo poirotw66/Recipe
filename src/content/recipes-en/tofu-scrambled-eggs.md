@@ -32,6 +32,9 @@ ingredients:
   unit: stalk
   isCore: false
 seasonings:
+- name: Cooking oil
+  amount: '1'
+  unit: tbsp
 - name: Soy sauce
   amount: '1'
   unit: tsp
@@ -42,11 +45,15 @@ tags:
 - High protein
 - Budget
 - Bento-friendly
-intro: Tofu scrambled eggs pack protein into a short weeknight routine and help clear the fridge.
+intro: Tofu scrambled eggs are a perfect one-serving weeknight dish—plenty of protein, few steps, and easy-to-find ingredients.
 steps:
-- Press excess water from the tofu with paper towels, cut into large chunks, and chop scallions.
-- Beat the eggs with a pinch of salt and 1 tsp water until lightly frothy. Heat oil in a skillet and pan-fry the tofu until lightly golden on the surface.
-- Pour in the eggs and stir gently. When the eggs are almost set, add soy sauce and scallions; toss 2–3 times and serve.
+- Cut ½ box firm tofu into roughly 2 cm cubes; press dry with paper towels. Beat 2 eggs. Chop 1 scallion, keeping the white and green parts separate.
+- Heat a skillet over medium heat. Add 1 tbsp cooking oil; once hot, add the tofu and pan-fry until golden on all sides, about 3–4 minutes. Set aside.
+- In the same pan, add a little more oil if needed. Stir-fry the scallion whites until fragrant, about 20 seconds.
+- Pour in the eggs and lower to medium-low. Gently push from the edges inward into soft scrambled eggs, about 1–2 minutes—do not overcook.
+- Return the tofu. Add 1 tsp soy sauce and gently toss 30 seconds so the sauce clings.
+- Taste and add a pinch of salt if needed. Sprinkle the scallion greens and toss evenly.
+- Plate while hot and serve with rice.
 tips:
 - Keep tofu in large pieces so the pan does not turn mushy.
 - For extra savor, finish with a pinch of white pepper.
@@ -65,7 +72,7 @@ relatedIngredients:
 - 青蔥
 featured: true
 publishedAt: '2026-05-20'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese
