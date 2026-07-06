@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep English muffins (split and toasted 350°F until golden); prep 歐包 2份, 燻鮭 120公克, 酸豆 適量, 奶油炒菇 120公克; sauté mushrooms with butter and salt.
-- Sear main proteins (ham, chicken, beef, or smoked salmon) in a hot skillet; keep warm. Prep 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙.
-- Bring water to a simmer with vinegar; swirl water and poach fresh eggs for 3 minutes for a runny yolk.
-- Layer mushrooms, proteins, and poached eggs on muffins; drizzle warm hollandaise or specialty sauce (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙); serve immediately.
+- Slice 2 baguette rolls crosswise; butter the cut sides and bake at 180°C / 350°F 5–7 minutes until golden and lightly crisp.
+- Heat a skillet over medium with 1/2 tbsp olive oil and a little butter; add 120 g sautéed mushrooms; stir-fry until they release moisture, then reduce heat until dry; sprinkle 1/6 tsp sea salt and a little cracked black pepper; keep warm.
+- Bring 120 g smoked salmon to room temperature from the fridge; roll into bite-size portions; drain capers to taste.
+- Bring a saucepan of water to a boil with 1 tbsp white vinegar; reduce heat; stir a gentle whirlpool with a spoon; crack in 2 eggs and poach over low heat about 3 minutes until whites set and yolks runny; drain well.
+- In a separate small pan over low heat, gently warm the remaining 1/2 tbsp olive oil into a warm drizzling sauce.
+- Divide toasted baguette on plates; layer sautéed mushrooms, smoked salmon, and 2 poached eggs on each; garnish with capers to taste.
+- Drizzle warm olive oil sauce; sprinkle 1/3 tsp sea salt and 1/4 tsp cracked black pepper; serve hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -51,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 歐包
   amount: "2"
@@ -83,6 +86,7 @@ seasonings:
 - name: 黑胡椒碎
   amount: "1/4"
   unit: 小匙
+
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

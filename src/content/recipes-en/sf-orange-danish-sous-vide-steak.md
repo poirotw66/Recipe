@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: place orange French Danish pastry on baking sheet, bake at 350°F for 3–5 min until fragrant."
-- Heat oil in skillet; sear main protein (chicken, steak, seafood, or mushrooms from 橙香丹麥 2份, 舒肥牛排 220公克, 荷包蛋 2顆, 炒薯 250公克) with salt and pepper.
-- Prepare sunny-side or poached eggs; fry potato hash or wedges in skillet until golden brown.
-- Plate toast, proteins, eggs, and salad separately; drizzle 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 蜂蜜芥末 2大匙 over the main components; serve immediately.
+- Arrange 2 orange Danish pastries on a baking sheet; bake at 180°C / 350°F 3–5 minutes until crisp outside and soft inside; portion 2 tbsp honey mustard into a small bowl.
+- Pat dry 220 g sous-vide steak with paper towels; sprinkle 1/6 tsp sea salt and a little cracked black pepper; heat a skillet over high with 1/2 tbsp olive oil; sear 1–1.5 minutes per side until charred outside; rest 3 minutes and slice.
+- In another skillet, fry 250 g potatoes over medium until golden and crisp; keep warm.
+- Heat a skillet over medium with a little butter; crack in 2 eggs; cover and fry 2–3 minutes until whites set and yolks runny (sunny-side up); keep warm.
+- On a large plate, arrange toasted orange Danish, sliced steak, fried potatoes, and 2 sunny-side-up eggs.
+- Drizzle 2 tbsp honey mustard over the steak and eggs, then 1 tbsp olive oil; sprinkle 1/3 tsp sea salt and 1/4 tsp cracked black pepper.
+- Check the sauce is evenly distributed; serve hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -51,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 橙香丹麥
   amount: "2"
@@ -82,6 +85,7 @@ seasonings:
 - name: 蜂蜜芥末
   amount: "2"
   unit: 大匙
+
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
