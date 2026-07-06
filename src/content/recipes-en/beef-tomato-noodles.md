@@ -51,11 +51,12 @@ tags:
 - Main dish
 intro: Use hot-pot slices or thin lean beef; cook noodles al dente and add beef at the end for tenderness.
 steps:
-- Slice the beef thinly against the grain. Cut the tomato into chunks. Cook noodles per package until springy, drain, and divide into bowls.
-- Heat olive oil in the pot over medium-high. Add tomato and cook, stirring, until soft and juicy.
-- Stir in tomato paste, soy sauce, sugar, and water. Boil, then simmer on medium-low about 5 minutes.
-- Raise to high, add beef, separate with chopsticks, and cook 1–2 minutes until just colored; turn off heat.
-- Ladle broth and beef over the noodles; top with scallions or black pepper if you like.
+- Slice beef 100 g thinly against the grain; cut tomato 1 into chunks; prepare noodles 1 serving per package directions.
+- Bring a pot of salted water to a boil; cook noodles 7–10 minutes per package until springy, drain, and portion into a large bowl.
+- Heat 1 tbsp olive oil in a skillet over medium-high heat; cook tomato chunks 2–3 minutes until slightly softened and juicy.
+- Add 1 tbsp tomato paste, 1 tbsp soy sauce, ½ tsp sugar, and 500 ml water; bring to a boil over high heat, then simmer on medium-low 5 minutes until flavors meld.
+- Raise heat to high; add beef slices and separate with chopsticks; cook 1–2 minutes until just colored; turn off heat (do not overcook).
+- Ladle hot broth and beef over the noodles; top with scallions or black pepper if desired; serve hot.
 tips:
 - Add beef last—within about 2 minutes of a rolling boil—for the best texture.
 - For a richer broth, simmer 2 minutes longer or add another 1/2 tsp tomato paste.
@@ -75,7 +76,7 @@ relatedIngredients:
 - 麵條
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Chili

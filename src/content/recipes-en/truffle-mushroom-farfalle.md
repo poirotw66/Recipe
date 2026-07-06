@@ -65,14 +65,17 @@ seasonings:
   unit: ""
 intro: No farfalle? Any pasta shape works; add truffle oil off heat so aroma stays.
 steps:
-- Cook pasta (or farfalle) al dente; reserve 1/2 cup water; slice mushrooms; mince garlic.
-- Skillet over medium-high with olive oil; mushrooms until they release water, then medium until lightly browned.
-- Butter, garlic, splash of pasta water; emulsify slightly; toss pasta.
-- Off heat, Parmesan, truffle oil, and pepper; serve.
+- Slice 150 g mushrooms; mince 2 garlic cloves; set aside 80 g pasta (farfalle).
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g pasta per package, 7–9 minutes, until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 2 tbsp olive oil and lay the mushrooms in a single layer. Cook until they release water, then over medium heat until lightly browned and fragrant, about 4–5 minutes.
+- Lower the heat. Add 15 g butter and the minced garlic; cook until the butter melts and the garlic is fragrant. Pour in 3–4 tbsp pasta water and stir until slightly emulsified.
+- Add the pasta and toss over high heat 1–2 minutes until evenly coated.
+- Turn off the heat. Stir in 1 tbsp grated Parmesan, 1 tsp truffle oil, and a pinch of black pepper (add truffle oil last so the aroma stays intact).
+- Plate while hot.
 storage: Eat fresh; mushrooms weep overnight.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Fragrant pasta pick that works without meat.

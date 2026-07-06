@@ -57,10 +57,13 @@ tags:
 - Chicken dishes
 intro: Keep broccoli crisp; this uses scallion-garlic pesto (not classic basil pesto) for a lighter bowl.
 steps:
-- Blanch broccoli florets 1 minute; drain. Cut chicken into strips; pinch of salt. Cook pasta al dente; reserve ½ cup pasta water.
-- Blend scallion greens, minced garlic, 1.5 Tbsp oil, and cheese into a paste—or chop ultra-fine and mix.
-- Skillet with remaining oil; sear chicken until cooked through; set aside.
-- Same pan, broccoli 1 minute; add pasta, chicken, pesto, and 2–3 Tbsp pasta water; toss to coat.
+- Cut 100 g chicken breast against the grain into strips; rub with a pinch of salt. Cut 100 g broccoli into small florets. Wash 2 scallions and use the greens; mince 2 garlic cloves.
+- Blanch the broccoli 1 minute and drain. In a bowl, blend the scallion greens, minced garlic, 1.5 tbsp olive oil, and 2 tbsp grated cheese into pesto paste (without a processor, chop ultra-fine and mix).
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 1.5 tbsp olive oil and lay the chicken in a single layer. Sear both sides golden until cooked through, about 5–6 minutes. Set aside.
+- In the same pan, stir-fry the broccoli 1 minute. Lower the heat, then add the pasta, chicken, pesto paste, and 3–4 tbsp pasta water.
+- Toss over high heat 1–2 minutes until the pasta is coated and the sauce slightly reduces.
+- Plate while hot.
 tips:
 - Blanch broccoli first so final toss stays short and crisp.
 - Pull chicken out before long pasta tossing so it stays juicy.
@@ -76,7 +79,7 @@ relatedIngredients:
 - 青花菜
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

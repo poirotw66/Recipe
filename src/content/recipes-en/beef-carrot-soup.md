@@ -46,10 +46,11 @@ tags:
 - Soup
 intro: Use chuck or small cubes of lean beef; blanch first, then simmer on low for a clearer broth.
 steps:
-- Cut the beef into even 2–3 cm cubes. Blanch in cold water over low heat until foam rises, then rinse in warm water. Peel the carrot and cut into chunks; peel the onion and cut into bite-size pieces.
-- Pour the water into the pot with the blanched beef and ginger. Bring to a boil, skim foam, cover, and simmer on low about 20 minutes.
-- Add the carrot and onion, cover, and simmer about 30 minutes more until the carrot is tender and the beef pierces easily with a chopstick.
-- Season with salt to taste; finish with cracked black pepper or cilantro if you like.
+- Cut 120 g beef into even 2–3 cm cubes; peel and chunk 1 carrot; peel 1/4 onion into bite-size pieces; keep 3 ginger slices ready.
+- Put beef in cold water; blanch on low until lots of foam rises; lift out, rinse in warm water, and drain (for a clearer broth).
+- "Pour 600 ml water into the pot; add beef and ginger. Bring to a boil over high heat, skim foam, cover, and simmer on low about 20 minutes."
+- Add carrot and onion; cover and simmer 15–18 minutes more until carrot is tender and beef pierces easily with a chopstick.
+- Season with a pinch of salt to taste; finish with cracked black pepper or cilantro if you like, then serve.
 tips:
 - Cut the carrot smaller to finish in about 20 minutes total simmer after adding.
 - Made the night before and reheated, flavors meld—refrigerate until then.
@@ -66,7 +67,7 @@ relatedIngredients:
 - 紅蘿蔔
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Chili

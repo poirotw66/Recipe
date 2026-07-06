@@ -50,10 +50,12 @@ tags:
 - Tofu
 intro: Lightly sear tofu before tomato sauce—more texture than tossing raw tofu in.
 steps:
-- "Prep: Pasta 80g, Tofu 0.5box, Tomato 1."
-- Cube tofu; dice tomato; cook pasta al dente; reserve 1/2 cup pasta water.
-- Skillet with oil; fry tofu until lightly golden; add garlic and tomato until soft.
-- Tomato paste and pasta water; toss pasta until sauce clings.
+- Cut 0.5 box tofu into cubes and pat dry with paper towels. Dice 1 tomato; mince 2 garlic cloves.
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 1.5 tbsp olive oil and lay the tofu in a single layer. Pan-fry until lightly golden on both sides, about 3 minutes.
+- Add the minced garlic and diced tomato; cook over medium heat 2–3 minutes until the tomato softens and releases juice.
+- Add 1 tbsp tomato paste and 3–4 tbsp pasta water; bring to a boil, then add the pasta and toss over high heat 1–2 minutes until the sauce thickens slightly and coats the noodles.
+- Taste and adjust with a pinch of salt; plate while hot.
 tips:
 - Dry tofu well to reduce splatter.
 storage: Eat fresh; refrigerated tofu softens.
@@ -69,7 +71,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Cream

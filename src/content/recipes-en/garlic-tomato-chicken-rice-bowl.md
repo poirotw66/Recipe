@@ -41,16 +41,21 @@ seasonings:
 - name: Salt
   amount: pinch
   unit: ''
+- name: Olive oil
+  amount: '1'
+  unit: Tbsp
 tags:
 - Chicken rice bowl
 - Tomato dishes
 intro: Cook tomato until juicy before finishing the chicken so sauce coats the meat and mixes smoothly into rice.
 steps:
-- "Prep: Chicken breast 130g, Tomato 1, Cooked rice 1bowl; dice Chicken breast about ½ inch, divide Cooked rice 1bowl into serving bowls."
-- Marinate Chicken breast with Garlic 2cloves, Soy sauce 1.5tsp, Salt pinch for 10 minutes; dice Tomato finely.
-- Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Tomato 2 minutes until slightly tender; Add Chicken breast, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve while hot.
+- Dice chicken breast 130 g against the grain; cut tomato 1 into chunks; mince 2 garlic cloves. Portion 1 bowl cooked rice into a large bowl and keep warm.
+- Toss chicken with 0.75 tsp soy sauce and rest 5–10 minutes to marinate (reserve 0.75 tsp soy sauce for stir-frying).
+- Heat 1 tbsp olive oil in a skillet over medium heat; sauté minced garlic 30 seconds until fragrant.
+- Add tomato chunks and cook over medium heat 2–3 minutes until slightly softened and juicy.
+- Spread chicken in the pan and cook over medium heat 3–4 minutes until golden outside and cooked through (no pink inside).
+- Drizzle the remaining 0.75 tsp soy sauce; stir-fry over high heat 30 seconds until the sauce thickens slightly and coats the chicken.
+- Season with a pinch of salt to taste; ladle chicken and tomato juices over rice and toss while hot.
 tips:
 - Rub chicken with a little oil before cooking for a tenderer bite.
 storage: Best eaten fresh; lunchbox OK refrigerated 1 day.
@@ -67,7 +72,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-07-06'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - King oyster mushroom
 - Baby corn

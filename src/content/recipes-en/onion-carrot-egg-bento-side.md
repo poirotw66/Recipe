@@ -32,6 +32,9 @@ ingredients:
   unit: ''
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 - name: Salt
   amount: pinch
   unit: ''
@@ -43,9 +46,11 @@ tags:
 - Egg dishes
 intro: Soften onion and carrot before eggs so sweetness concentrates and the side stays light when cool.
 steps:
-- Slice onion; cut carrot into thin strips. Beat eggs with a pinch of salt and 1 tsp water until lightly frothy.
-- Stir-fry onion and carrot until tender.
-- Pour in eggs; fold until set; season with salt and soy sauce.
+- Cut 1/2 onion into fine strips; cut 80 g carrot into fine strips or small dice; beat 2 eggs. Mix a pinch of salt with 1/2 tsp soy sauce and set aside.
+- "Heat 1 tbsp olive oil in a skillet over medium; stir-fry onion and carrot about 3 minutes until onion turns translucent and carrot softens slightly."
+- Push vegetables to the side; pour eggs into the center. When the bottom sets, gently fold into chunks (about 1 minute).
+- Toss vegetables and egg together; drizzle in the soy sauce and salt mixture.
+- When egg is fully set and vegetables are tender but still sweet, serve. Let cool before packing bento to reduce moisture.
 tips:
 - Thinner carrot cooks faster.
 storage: Refrigerate 1–2 days.
@@ -62,7 +67,7 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-07-14'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

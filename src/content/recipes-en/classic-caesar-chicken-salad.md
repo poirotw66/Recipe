@@ -61,14 +61,16 @@ seasonings:
   unit: ''
 intro: Emulsify dressing with cooked yolk and olive oil; dry lettuce so dressing clings.
 steps:
-- Pat chicken dry, season with salt and pepper; sear in oil over medium-high until golden and cooked through; slice.
-- Hard-boil the egg; mash yolk with garlic, lemon juice, and cheese, then whisk in olive oil until thick.
-- Wash and dry romaine or lettuce; toss lightly with salt and plate.
-- Top with chicken, drizzle dressing, and finish with extra cheese and pepper.
+- Pat chicken breast 120 g dry; season both sides with a pinch of salt and black pepper. Place egg 1 in cold water, bring to a boil, then simmer over medium heat 8 minutes; cool in water, peel, and set aside the yolk.
+- Mash yolk in a small bowl; add 1 minced garlic clove, 1.5 tbsp lemon juice, and 1 tbsp grated Parmesan; whisk in the remaining olive oil until emulsified into Caesar dressing; adjust salt to taste.
+- "Heat 1 tsp olive oil in a skillet over medium-high; sear chicken 3 minutes on the first side until golden."
+- Flip, reduce to medium, and cook 2–3 minutes more until the center reaches 74°C or shows no pink when cut; rest 2 minutes, then slice against the grain.
+- Wash lettuce thoroughly and dry well; tear into bite-size pieces in a large bowl.
+- Toss with about two-thirds of the dressing; plate, top with chicken slices, serve remaining dressing on the side, and finish with extra cheese and pepper.
 storage: Keep dressing separate from greens; eat the same day for best texture.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Caesar chicken salad is the menu’s cleanest main-style salad bowl.

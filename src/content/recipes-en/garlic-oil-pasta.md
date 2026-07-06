@@ -43,9 +43,12 @@ tags:
 - Garlic dishes
 intro: Aglio e olio needs few ingredients and straightforward steps—great when the fridge only has pasta and garlic.
 steps:
-- Boil plenty of salted water (about 1% salt). Cook the pasta 1–2 minutes shy of the package time until al dente. Drain, toss with a little olive oil, and reserve about ½ cup pasta water.
-- Peel the garlic and slice evenly. In a skillet, combine olive oil and garlic slices; start in cold oil and cook over low heat until the edges turn pale gold—do not let them burn bitter.
-- Add the pasta with a splash of pasta water over high heat. Toss with tongs until the starch and oil emulsify into a silky coat on every strand. Season with salt and freshly ground black pepper.
+- Peel and thinly slice 3 garlic cloves; set aside 80 g spaghetti.
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti per package, 7–9 minutes, until al dente. Drain and reserve ½ cup pasta water.
+- In a cold skillet, add 2 tbsp olive oil and the garlic slices. Cook over low heat 2–3 minutes until the edges turn pale gold and fragrant (do not let them burn bitter).
+- Add the pasta and 3–4 tbsp pasta water; toss over high heat 1–2 minutes until the starch and garlic oil emulsify and coat every strand.
+- Taste and adjust saltiness with a pinch of salt and black pepper.
+- Plate while hot.
 tips:
 - When the garlic nears golden, lower the heat so bitterness does not overpower the aroma.
 storage: Best fresh; if refrigerated, reheat within 1 day.
@@ -61,7 +64,7 @@ relatedIngredients:
 - 蒜頭
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

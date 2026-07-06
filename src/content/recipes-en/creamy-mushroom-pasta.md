@@ -46,11 +46,12 @@ tags:
 - Creamy dishes
 intro: No fancy pantry needed—brown the mushrooms, reduce milk, and you get a satisfying creamy pasta.
 steps:
-- Slice the mushrooms. Cook the pasta until al dente, drain, and reserve ½ cup pasta water.
-- Melt butter in a skillet; cook mushrooms until they release liquid and smell nutty. Pour in milk and simmer gently until it bubbles.
-- Add pasta with a little pasta water; toss until the sauce thickens. Season with salt and black pepper.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Slice mushrooms 80 g.
+- Bring a pot of salted water to a boil; cook spaghetti 80 g 7–9 minutes per package until al dente, drain, and reserve ½ cup pasta water.
+- Heat a skillet over medium heat with 1 tsp butter; melt butter and stir-fry mushrooms 2–3 minutes until softened and lightly browned at the edges.
+- Lower heat; pour in 120 ml milk and stir gently. Bring to a simmer and reduce on low about 2 minutes until sauce coats a spoon (keep heat low to avoid scorching).
+- Add pasta and 3–4 tbsp pasta water; toss over medium-high heat 1–2 minutes until every strand is coated with cream sauce.
+- Season with a pinch of salt and black pepper to taste; plate and serve hot.
 tips:
 - Milk scorches easily—keep heat low and stir steadily.
 storage: Best fresh; if chilled, finish within 1 day.
@@ -65,7 +66,7 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

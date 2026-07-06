@@ -50,12 +50,13 @@ tags:
 - Pesto
 intro: Scallion greens and garlic blended with oil and cheese—a fresh green sauce without basil.
 steps:
-- Cook pasta al dente. Blend scallion greens with minced garlic, oil, and cheese into a fine paste.
-- Without a processor, mince greens and garlic very fine and mix thoroughly with oil and cheese.
-- Toss drained pasta with the paste; loosen with pasta water as needed.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Wash 3 scallions and separate the whites from the greens; mince 2 garlic cloves.
+- In a bowl, finely chop the scallion whites, minced garlic, and half the scallion greens. Mix with 2 tbsp olive oil and 2 tbsp grated cheese into a scallion-garlic pesto base.
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over low heat. Add 1 tbsp olive oil, then the pasta, pesto base, and 3–4 tbsp pasta water.
+- Toss over high heat 1–2 minutes until the pasta is coated and the sauce slightly reduces.
+- Taste and adjust with a pinch of salt and black pepper; sprinkle the remaining scallion greens.
+- Plate while hot.
 tips:
 - Add cheese gradually and taste—easy to oversalt.
 storage: Best fresh; green paste fades if held long.
@@ -70,7 +71,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

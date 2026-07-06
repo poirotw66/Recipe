@@ -55,12 +55,13 @@ tags:
 - Seafood
 intro: Do not overcook shrimp—curl and color change is enough. This pesto uses scallion greens and garlic (not classic basil pesto).
 steps:
-- Rinse and pat shrimp dry; boil pasta until al dente; reserve 1/2 cup pasta water.
-- Blend scallion greens (green parts only), garlic, 2 tbsp olive oil, and cheese into a pesto paste.
-- Remaining oil in skillet; cook shrimp until opaque; set aside. Same pan—pasta, pesto, and pasta water; toss; return shrimp and fold gently.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Peel and devein 120 g shrimp; rinse and pat dry. Wash 3 scallions and separate the whites from the greens; mince 2 garlic cloves.
+- In a bowl, finely chop the scallion whites, minced garlic, and half the scallion greens. Mix with 2 tbsp olive oil and 2 tbsp grated cheese into a scallion-garlic pesto base.
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 1 tbsp olive oil and lay the shrimp in a single layer. Sear quickly until pink and curled, about 2 minutes. Set aside.
+- In the same pan over low heat, add the pasta, shrimp, pesto base, and 3–4 tbsp pasta water.
+- Toss over high heat 1–2 minutes until the pasta is coated and the sauce slightly reduces.
+- Taste and adjust with a pinch of salt and black pepper; sprinkle the remaining scallion greens and plate while hot.
 tips:
 - Thaw frozen shrimp fully and dry well so the pan does not steam.
 storage: Best fresh; shrimp toughens overnight.
@@ -75,7 +76,7 @@ relatedIngredients:
 - 青蔥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

@@ -36,6 +36,9 @@ ingredients:
   unit: ml
   isCore: false
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tsp
 - name: Salt
   amount: 1/3
   unit: tsp
@@ -47,11 +50,11 @@ tags:
 - Lighter meals
 intro: Tomato tofu soup suits a lighter dinner or using up tomatoes that need to go.
 steps:
-- "Prep: Tomato 2, Tofu 1box, Scallions 1stalk, Water 600ml; seasonings ready: Salt 1/3tsp, Sesame oil pinch."
-- Cut the tomatoes into chunks, dice the tofu, and chop scallions.
-- Bring about 600 ml water to a boil, add tomatoes, and simmer until they break down and the broth turns red.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Chunk 2 tomatoes; cut 1 block tofu into 2 cm cubes; chop 1 scallion.
+- "Heat 1 tsp olive oil in the pot over medium; stir-fry tomatoes about 2 minutes until slightly soft and juicy."
+- "Pour in 600 ml water; bring to a boil over high heat, then cover and simmer on medium about 8 minutes until tomatoes break down."
+- Uncover; add tofu and simmer 3 minutes more until heated through (nudge gently so it does not break).
+- Season with 1/3 tsp salt, drizzle a pinch of sesame oil, scatter scallions, taste, and serve.
 tips:
 - Sauté tomatoes briefly before adding water for a deeper flavor.
 storage: Refrigerate up to 2 days; reheat gently and avoid rough stirring so tofu stays intact.
@@ -67,7 +70,7 @@ relatedIngredients:
 - 青蔥
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Fish balls
 - Clams

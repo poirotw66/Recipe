@@ -70,18 +70,19 @@ seasonings:
   unit: tsp
 intro: Cook steak and shrimp separately, then compose—juicy meat and snappy shrimp; tomato and eggs balance the fat.
 steps:
-- Bring beef to room temp; pat dry; salt and pepper. Rinse shrimp, devein.
-- Skillet over medium-high with 1 tbsp oil; sear steak 2 minutes before first flip; cook to preference (55–60°C center for pink); rest 3 minutes, then slice.
-- Same pan, 1 tsp oil; garlic, then shrimp over high until pink and curled; lemon squeeze; set aside.
-- Thick tomato slices in remaining oil until soft; softly scramble egg in another pan.
-- Arrange steak, shrimp, tomato, and eggs on a plate; drizzle oil and pepper.
+- Bring beef 120 g to room temperature 15 minutes; pat dry; season both sides with a pinch of salt and black pepper. Rinse shrimp 80 g, drain, and devein; cut tomato 1/2 into thick slices; mince 2 garlic cloves.
+- "Heat 1 tbsp olive oil in a skillet over medium-high; sear steak 2 minutes on the first side until deep brown, then flip and cook 2 minutes more (center 55–60°C for pink, or extend to 65°C for medium)."
+- Rest steak 3 minutes, then slice against the grain; add 1 tsp olive oil to the same pan and sauté garlic 15 seconds until fragrant.
+- Add shrimp over high heat and stir-fry 1–2 minutes until orange-pink and curled; squeeze 1 tsp lemon juice and remove.
+- Pan-fry tomato slices in the remaining oil 1 minute per side until slightly softened; in another pan, scramble egg 1 over low heat until softly set.
+- Arrange steak, shrimp, tomato, and eggs on a plate; drizzle a little olive oil and black pepper; serve immediately.
 storage: Best fresh; reheated steak and shrimp lose texture.
 faqs:
 - question: No flank steak—what else?
   answer: Top sirloin or strip works; keep thickness around 2 cm for even doneness.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 For weekends when you want a feast without the brunch line.

@@ -32,6 +32,9 @@ ingredients:
   unit: cloves
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 - name: Salt
   amount: pinch
   unit: ''
@@ -43,9 +46,12 @@ tags:
 - Cabbage dishes
 intro: Stir-fry cabbage over high heat before adding egg so excess moisture stays down and bento texture holds better the next day.
 steps:
-- Shred the cabbage; mince the garlic. Beat the eggs with a pinch of salt and 1 tsp water until lightly frothy (water helps fluffier scrambled eggs).
-- Heat a skillet with a little cold oil over medium-low; stir-fry the garlic until fragrant. Add the cabbage over high heat and toss until evenly wilted but still slightly crisp.
-- Pour the eggs along the side of the pan and fold through; finish with salt and a little soy sauce.
+- Slice 180 g cabbage; beat 2 eggs; mince 2 garlic cloves. Mix a pinch of salt with 1/2 tsp soy sauce and set aside.
+- "Heat 1 tbsp olive oil in a skillet over medium; stir-fry garlic about 20 seconds until fragrant."
+- Add cabbage over high heat; stir-fry about 2 minutes until leaves soften slightly and edges turn translucent (still a little crisp).
+- Push cabbage to the side; pour eggs into the center. When the bottom sets, gently fold into chunks (about 1 minute).
+- Toss cabbage and egg together; drizzle in the soy sauce and salt mixture.
+- When egg is fully set and cabbage still has some crunch, serve. Let cool before packing bento to reduce moisture.
 tips:
 - For bento, cook the egg a bit more thoroughly.
 storage: Refrigerate 1–2 days.
@@ -62,7 +68,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-23'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

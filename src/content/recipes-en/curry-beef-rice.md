@@ -19,6 +19,10 @@ scenarios:
 equipment:
 - Skillet
 ingredients:
+- name: Water
+  amount: '200'
+  unit: ml
+  isCore: false
 - name: Cooked rice
   amount: '1'
   unit: bowl
@@ -53,11 +57,12 @@ tags:
 - Rice bowls
 intro: Dice or shred beef small; toast curry powder in oil before simmering for a deeper flavor than dumping powder in cold liquid.
 steps:
-- Dice beef small; peel onion and slice thin along the grain; dice carrot; rice in a bowl.
-- Oil in skillet; cook onion over medium-low until translucent; add curry powder; stir 30 seconds until fragrant.
-- Raise heat; stir-fry beef until mostly colored (about 70–80% done); set aside so it does not overcook; return pan with carrot and water.
-- Cover; simmer low 10–12 minutes until slightly thick; taste and salt; ladle over rice.
-- Taste and adjust seasoning; serve while hot.
+- Dice beef 100 g against the grain; slice onion ½ thinly along the grain; dice carrot 50 g. Portion 1 bowl cooked rice into a large bowl and keep warm.
+- Heat 1 tbsp olive oil in a skillet over medium heat; stir-fry onion and carrot 2–3 minutes until slightly softened and fragrant.
+- Add beef and stir-fry over high heat 1–2 minutes until the surface changes color.
+- Sprinkle in 1.5 tbsp curry powder and stir-fry 30 seconds until fragrant (keep heat moderate to avoid scorching).
+- Pour in 200 ml water; bring to a boil over high heat, then cover and simmer on low 10–12 minutes until beef is tender and the sauce slightly thickens.
+- Season with a pinch of salt to taste; ladle curry beef and sauce over rice and serve.
 tips:
 - For thicker gravy, finish with 1 tsp cornstarch slurry.
 - Start with 1 tbsp curry powder if you are unsure of heat or salt level.
@@ -74,7 +79,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Chili

@@ -41,16 +41,18 @@ seasonings:
 - name: Garlic
   amount: '1'
   unit: clove
-tags:
-- Chicken rice bowl
-- Bento main
+- name: Olive oil
+  amount: '1'
+  unit: Tbsp
 intro: Cook chicken first, then vegetables, so cabbage does not flood the pan.
 steps:
-- "Prep: Chicken breast 220g, Cabbage 180g, Cooked white rice 2bowls; dice Chicken breast about ½ inch, divide Cooked white rice 2bowls into serving bowls."
-- Marinate Chicken breast with Carrot 80g, Soy sauce 2tsp, Garlic 1clove for 10 minutes; dice Cabbage finely.
-- Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Cabbage 2 minutes until slightly tender; Add Chicken breast, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve while hot.
+- Dice chicken breast 220 g against the grain; cut cabbage 180 g into bite-size pieces; dice carrot 80 g finely; mince 1 garlic clove. Portion 2 bowls cooked white rice into serving bowls.
+- Toss chicken with 1 tsp soy sauce and rest 5–10 minutes to marinate (reserve 1 tsp soy sauce for finishing).
+- Heat 1 tbsp olive oil in a skillet over medium heat; stir-fry carrot 2 minutes until slightly softened.
+- Push carrot to the side; spread chicken in the pan and cook over medium heat 3–4 minutes until golden outside and cooked through (no pink inside).
+- Add cabbage and minced garlic; stir-fry over high heat 1–2 minutes until bright green.
+- Drizzle the remaining 1 tsp soy sauce around the edge of the pan; stir-fry over high heat 30 seconds to reduce juices.
+- Taste and portion over rice. For bento, cool to room temperature before closing the lid.
 tips:
 - Finer carrot strips cook faster.
 storage: Refrigerate 1–2 days; reheat with a splash of water.
@@ -67,7 +69,7 @@ relatedIngredients:
 - 雞胸肉
 featured: false
 publishedAt: '2026-06-16'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - King oyster mushroom
 - Baby corn

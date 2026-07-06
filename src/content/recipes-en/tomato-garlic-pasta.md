@@ -46,11 +46,12 @@ tags:
 - Tomato dishes
 intro: Tomato garlic pasta is tangy and easy to eat; the tomato juices keep the noodles moist and use up ripe tomatoes.
 steps:
-- Dice the tomato and mince the garlic. Cook the pasta until al dente so it stays firm when tossed with sauce. Reserve ½ cup pasta water.
-- Heat oil in a skillet over medium-low. Sauté the garlic until fragrant, then add the tomato and cook until slightly soft and juicy.
-- Stir in tomato paste and a little pasta water. Add the drained pasta and toss evenly. Season with salt.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Dice 1 tomato; mince 2 garlic cloves.
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 1.5 tbsp olive oil and sauté the garlic about 30 seconds until fragrant (do not let it burn).
+- Add the diced tomato and cook over medium heat 2–3 minutes until slightly soft and juicy. Pour in 1 tbsp tomato paste and 3–4 tbsp pasta water; bring to a boil to form a tomato-garlic sauce base.
+- Add the pasta and toss over high heat 1–2 minutes until evenly coated and the sauce slightly reduces.
+- Taste and adjust with a pinch of salt; plate while hot.
 tips:
 - If the tomato is very tart, balance with a pinch of sugar.
 storage: Best eaten fresh; refrigerated pasta softens—finish within 1 day.
@@ -66,7 +67,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

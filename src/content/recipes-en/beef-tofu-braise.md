@@ -1,7 +1,7 @@
 ---
 title: Braised Beef and Tofu
 recipeId: beef-tofu-braise
-description: Beef and tofu braised in a savory sauce?�tender, saucy, and built for rice.
+description: Beef and tofu braised in a savory sauce—tender, saucy, and built for rice.
 coverImage: /images/recipes/beef-tofu-braise.webp
 servings: 1
 prepTime: 10
@@ -52,28 +52,28 @@ tags:
 - Braise
 intro: Use hot-pot beef slices or thin cuts; thicker pieces need up to 20 minutes braising.
 steps:
-- Slice beef (100 g) thinly against the grain; cut tofu (half block) into cubes and drain. Shred onion (1/4); mince garlic (2 cloves).
-- Heat olive oil (1 tbsp) over medium; pan-fry tofu until lightly golden both sides; set aside.
-- In the same pan, stir-fry beef and garlic over high heat until colored; add onion and cook until translucent.
-- Return tofu; add soy sauce (2 tbsp), sugar (1 tsp), and water (150 ml). Cover and braise on low 12??5 minutes until sauce thickens and beef is tender.
-- Taste for salt?�soy sauce may be enough. Nudge tofu gently to avoid breaking.
+- Slice 100 g beef thinly against the grain; cut 1/2 block tofu into cubes and pat dry; shred 1/4 onion; mince 2 garlic cloves.
+- "Heat 1 tbsp olive oil in a skillet over medium; pan-fry tofu in a single layer until lightly golden on each side (about 1 minute per side); set aside."
+- In the same pan, stir-fry garlic and beef over high heat until beef changes color; add onion and cook about 2 minutes until translucent.
+- Return tofu; add 2 tbsp soy sauce, 1 tsp sugar, and 150 ml water. Cover and braise on low 12–15 minutes.
+- "Uncover when sauce looks slightly thick and beef pierces easily with a chopstick; if sauce tastes salty enough, skip extra salt. Nudge tofu gently and serve."
 tips:
 - Keep the heat low and nudge tofu from the edge of the pan so it does not break.
-- Taste before adding salt?�soy sauce may be enough.
+- Taste before adding salt—soy sauce may be enough.
 storage: Refrigerate and eat within 1 day; reheat gently and splash in a little water.
 substitutions:
 - Firm tofu
 relatedIngredients:
-- ?��?
-- 豆�?
-- 洋蔥
+- Beef
+- Tofu
+- Onion
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Chili
 - Enoki mushrooms
 ---
 
-Braised beef and tofu packs protein and staying power?�one bowl of rice completes the meal.
+Braised beef and tofu packs protein and staying power—one bowl of rice completes the meal.

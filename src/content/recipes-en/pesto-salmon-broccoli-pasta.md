@@ -60,10 +60,13 @@ tags:
 - Seafood
 intro: Cook fish and veg separately, then fold together for color and control. Scallion-garlic pesto, not classic basil.
 steps:
-- Blanch broccoli 1 minute; drain. Cube salmon and pat dry. Pasta al dente; reserve ½ cup water.
-- Blend scallion greens, garlic, 1.5 Tbsp oil, and cheese into pesto.
-- Skillet with remaining oil; sear salmon until golden; flip gently; set aside.
-- Broccoli 1 minute in the pan; add pasta, pesto, 2–3 Tbsp pasta water; return salmon; fold lightly; finish with lemon juice.
+- Pat 100 g salmon dry with paper towels, cut into cubes, and sprinkle with a pinch of salt. Cut 100 g broccoli into small florets. Wash 2 scallions and use the greens; mince 2 garlic cloves.
+- Blanch the broccoli 1 minute and drain. In a bowl, blend the scallion greens, minced garlic, 1.5 tbsp olive oil, and 2 tbsp grated cheese into pesto paste.
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 1.5 tbsp olive oil and lay the salmon in a single layer. Sear both sides golden, about 4 minutes; flip gently to avoid breaking. Set aside.
+- In the same pan, stir-fry the broccoli 1 minute. Lower the heat, then add the pasta, pesto paste, and 3–4 tbsp pasta water.
+- Toss gently over high heat 1–2 minutes until the pasta is coated; return the salmon and fold lightly. Drizzle 1 tsp lemon juice.
+- Plate while hot.
 tips:
 - Add salmon last with gentle folds to keep chunks intact.
 - Lemon goes in at the end so aroma stays bright.
@@ -79,7 +82,7 @@ relatedIngredients:
 - 青花菜
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream
