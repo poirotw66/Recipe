@@ -27,11 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Mix all-purpose flour to create the dessert base (knead dough for pancake, or puree soybeans for ice cream).
-- Heat oil or butter in a skillet and cook the base over low heat (or whip the soybean puree in a mixing bowl until fluffy).
-- Prepare brown sugar (mix brown sugar, cinnamon powder, and crushed mixed nuts, or simmer tapioca pearls in sugar syrup).
-- Combine them (stuff pancake dough and griddle until sugar melts, or drizzle tapioca pearls over tofu ice cream).
-- Taste and adjust seasoning; serve while hot.
+- "Filling: Mix brown sugar powder 50 g with cinnamon powder ½ tsp and mixed nut crumbles 20 g until even; divide into 4 equal portions and set aside."
+- In a large bowl, combine all-purpose flour 150 g and salt pinch; slowly add warm water 100 ml and knead into a smooth, non-sticky dough. Cover and rest 15 minutes.
+- Divide the rested dough into 4 equal pieces. Flatten each into a round, wrap 1 portion of brown sugar filling, pinch the seam tightly closed (to prevent bursting while frying), then gently press into a pancake about 1 cm thick.
+- Preheat a 26 cm skillet over medium-low heat for 2 minutes; spread unsalted butter 20 g in a thin layer across the pan. The pan should be hot but not smoking.
+- Place the filled rounds in the pan with space between them. Pan-fry 3 minutes until the bottom is golden and slightly puffed; press lightly with a spatula for even heating.
+- Carefully flip and cook 3 minutes more until both sides are golden and the pancake puffs slightly. Turn off heat, cover, and steam 1 minute so the filling melts into a thick syrup.
+- Cut open and enjoy while hot—watch for molten brown sugar. Best texture is crisp outside and chewy inside.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -52,7 +54,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: "all-purpose flour"
   amount: "150"

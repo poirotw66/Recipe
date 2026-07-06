@@ -27,12 +27,12 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Heat toasted sesame oil in a small pot. Sauté garlic, onion, and Korean chili paste (gochujang) until fragrant.
-- Pour in kelp broth and soy sauce. Bring to a boil, then lower the heat. Add plant-based chicken nuggets, shiitake mushrooms and simmer for 5 minutes.
-- Scoop large chunks of soft tofu into the center of the pot. Cook over medium heat, pushing gently to prevent breaking.
-- In the last 2 minutes, crack an egg. Serve boiling hot in the pot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: bring plant-based chicken nuggets 150 g to room temperature; remove stems from 3 shiitake mushrooms and cut into thick slices; slice ½ onion into strips and cut 1 scallion into sections; portion 1 tbsp minced garlic, 1.5 tbsp gochujang, 1 tbsp soy sauce, and 1 tbsp Korean sesame oil separately."
+- Preheat a Korean spicy stew pot or thick-bottomed small pot over medium heat for 1 minute. Add 1 tbsp Korean sesame oil, sauté 1 tbsp minced garlic and onion strips until translucent, then add 1.5 tbsp gochujang and stir until fragrant and the oil turns red (about 1 minute; do not scorch).
+- Add plant-based chicken nuggets 150 g and pan-fry over medium heat until golden and lightly crisp on the surface (about 3 minutes) to release aroma.
+- Pour in 400 ml broth and 1 tbsp soy sauce. Bring to a boil over high heat, then reduce to medium-low. Add 3 shiitake mushrooms, cover, and simmer 5–8 minutes until mushrooms are tender and the broth is flavorful.
+- Lower the heat. Scoop 1 pack soft tofu in large chunks into the center of the pot. Gently push along the edge so broth flows over the tofu without vigorous stirring (simmer 2 more minutes until piping hot).
+- Before turning off the heat, crack in 1 egg and wait until the white sets and the yolk is soft-set. Top with scallions and sesame seeds and serve boiling hot in the pot.
 tips:
 - Soft tofu breaks easily. Scoop in large chunks only after the broth is boiling.
 - Add cheese slices and egg in the last minute. The residual heat will melt them beautifully.
@@ -53,13 +53,13 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: soft tofu
   amount: "1"
   unit: pack
   isCore: true
-- name: "plant-based chicken nuggets"
+- name: plant-based chicken nuggets
   amount: "150"
   unit: g
   isCore: true
@@ -75,7 +75,7 @@ ingredients:
   amount: "1"
   unit: stalk
   isCore: true
-- name: kelp broth
+- name: broth
   amount: "400"
   unit: ml
   isCore: true
@@ -89,7 +89,7 @@ seasonings:
 - name: minced garlic
   amount: "1"
   unit: tbsp
-- name: toasted sesame oil
+- name: Korean sesame oil
   amount: "1"
   unit: tbsp
 ---

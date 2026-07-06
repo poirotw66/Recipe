@@ -27,10 +27,12 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Slice prime beef slices thinly and chop green scallion.
-- Pour beef bone broth into a pot and bring to a boil.
-- Add meat slices, cook quickly until color changes (about 1 minute), turn off heat and skim foam.
-- Garnish with scallions and season with salt and pepper powder to taste.
+- Spread out marbled beef slices 150 g on a plate and pat dry with paper towels. Finely chop 1 scallion for garnish.
+- Pour 400 ml broth into a soup pot. Bring to a boil over high heat, then reduce to medium and keep the surface at a steady gentle boil (about 95°C; avoid a rolling boil that toughens the meat).
+- Pick up beef slices with chopsticks and swish in the hot broth until the color changes and the center is still lightly pink (about 30–60 seconds). Remove immediately.
+- Ladle hot broth into a bowl, add the swished beef, and season with a pinch of salt and a pinch of black pepper.
+- Top with chopped scallions and serve while the broth is still piping hot; drizzle a little sesame oil if desired.
+- Best made and served immediately; do not leave the beef soaking in the broth or the texture will toughen.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -50,13 +52,13 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
-- name: prime beef slices
+- name: marbled beef slices
   amount: "150"
   unit: g
   isCore: true
-- name: kelp broth
+- name: broth
   amount: "400"
   unit: ml
   isCore: true
@@ -68,7 +70,7 @@ seasonings:
 - name: salt
   amount: "0.25"
   unit: pinch
-- name: black pepper powder
+- name: black pepper
   amount: "0.25"
   unit: pinch
 ---

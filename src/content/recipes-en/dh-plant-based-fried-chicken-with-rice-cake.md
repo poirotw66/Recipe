@@ -27,11 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Soak Korean rice cakes in warm water for 15 minutes to soften, then drain and set aside.
-- Heat oil in a pan, sauté garlic and onion, then add plant-based chicken nuggets and stir-fry until cooked.
-- Pour in the prepared Korean chili paste (gochujang), honey, minced garlic and a little broth. Add the soaked Korean rice cakes, bring to a boil, and stir constantly to prevent sticking.
-- When the rice cakes are chewy and the sauce is thick, top with sesame seeds, and let simmer for 1 minute before serving.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: If Korean rice cake sticks 150 g are firm from the fridge, soak in warm water 10 minutes until slightly soft, then drain. Bring plant-based chicken bites 150 g to room temperature; shred onion ½."
+- In a small bowl, mix gochujang 1.5 Tbsp, honey 1 Tbsp, minced garlic 1 Tbsp, sesame seeds pinch, and water 2 Tbsp into a sweet-spicy sauce; set aside.
+- Preheat a skillet over medium heat with 1 Tbsp oil; stir-fry onion 1 minute until translucent and fragrant.
+- Add plant-based chicken bites and stir-fry over high heat 2–3 minutes until golden and lightly crisp on the surface (adjust time per package directions).
+- Add drained rice cakes and the prepared sweet-spicy sauce; stir-fry over high heat 1 minute until the rice cakes are evenly coated.
+- Pour in broth or water 100 ml, cover, and simmer over medium heat 5 minutes, stirring to prevent sticking.
+- Uncover and reduce over high heat 1–2 minutes until the sauce is thick and clings to the rice cakes and chicken. Top with sesame seeds or scallions and serve hot.
 tips:
 - "Double-frying is essential. The first fry cooks the meat, and the second fry makes it crispy."
 - Turn off the heat before tossing with the sauce, otherwise, the crispy skin will turn soggy.
@@ -51,7 +53,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: "plant-based chicken nuggets"
   amount: "150"

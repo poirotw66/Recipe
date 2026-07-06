@@ -28,10 +28,12 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Wash uncooked white rice, add kelp broth, and cook until fluffy. Set aside.
-- Heat toasted sesame oil in a skillet, sauté 鴨賞, cabbage, scallion separately, and season with salt and soy sauce.
-- Brush toasted sesame oil generously on the stone pot, spread cooked rice, and arrange ingredients on top.
-- Heat stone pot over medium until crackling sound is heard and a crispy crust forms. Serve hot.
+- Rinse uncooked white rice 150 g, add 360 ml water, soak 20 minutes, and cook until grains are separate and slightly chewy. Fluff to release steam and keep warm.
+- Slice duck jerky 1 pack thinly; shred cabbage 100 g and cut 1 scallion into short sections. Blanch cabbage 1 minute and drain; if jerky is very firm, steam 3 minutes before slicing.
+- Heat 1 tbsp Korean sesame oil in a skillet over medium heat. Stir-fry cabbage 100 g about 2 minutes, add duck jerky and scallion, and stir-fry 1 minute. Season with 1 tbsp soy sauce and a pinch of salt. Set aside.
+- Brush the stone pot evenly with 1–2 tbsp Korean sesame oil, spread hot rice and press flat, and arrange the stir-fried toppings neatly on top.
+- Place the stone pot over medium heat 4–6 minutes until a golden nurungji crust forms, you smell toasted rice, and hear sizzling. Turn off the heat.
+- Before serving, mix rice and toppings together, or enjoy the crispy edge crust with duck jerky and vegetables for the best flavor.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -52,15 +54,15 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: uncooked white rice
   amount: "150"
   unit: g
   isCore: true
-- name: 鴨賞
+- name: duck jerky
   amount: "1"
-  unit: pcs
+  unit: pack
   isCore: true
 - name: cabbage
   amount: "100"
@@ -71,7 +73,7 @@ ingredients:
   unit: stalk
   isCore: true
 seasonings:
-- name: toasted sesame oil
+- name: Korean sesame oil
   amount: "1"
   unit: tbsp
 - name: soy sauce

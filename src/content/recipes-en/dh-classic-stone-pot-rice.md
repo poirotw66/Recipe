@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Wash uncooked white rice, add kelp broth, and cook until fluffy. Set aside.
-- Heat toasted sesame oil in a skillet, sauté carrot, spinach, scallion separately, and season with salt and soy sauce.
-- Brush toasted sesame oil generously on the stone pot, spread cooked rice, and arrange ingredients on top.
-- Heat stone pot over medium until crackling sound is heard and a crispy crust forms. Serve hot.
+- "Rinse uncooked white rice 150 g, add 360 ml water (rice-to-water ratio about 1:2.4), soak 20 minutes, and cook until grains are separate and slightly chewy. Fluff to release steam and keep warm."
+- Julienne carrot 30 g, cut spinach 50 g into sections, and cut 1 scallion into short sections. Blanch spinach 30 seconds and carrot 1 minute in boiling water; drain and toss each separately with a little salt and sesame oil.
+- Heat 1 tbsp Korean sesame oil in a skillet over medium heat. Stir-fry carrot and spinach separately 1–2 minutes until tender but still colorful. Set aside.
+- Brush the stone pot evenly with 1–2 tbsp Korean sesame oil (enough oil helps form nurungji), spread hot rice, and press flat with a rice paddle.
+- Arrange stir-fried carrot, spinach, and scallions neatly on the rice by color; leave a center space if desired.
+- Place the stone pot over medium heat 4–6 minutes until a golden crust forms on the bottom, you smell toasted rice, and hear sizzling. Turn off the heat.
+- Before serving, season with 1 tbsp soy sauce and a pinch of salt. Mix and enjoy, or eat the crispy crust with the toppings.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -52,7 +55,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: uncooked white rice
   amount: "150"
@@ -71,7 +74,7 @@ ingredients:
   unit: stalk
   isCore: true
 seasonings:
-- name: toasted sesame oil
+- name: Korean sesame oil
   amount: "1"
   unit: tbsp
 - name: soy sauce

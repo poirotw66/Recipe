@@ -27,10 +27,12 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Cut boneless chicken thigh into bite-sized pieces. Slice onion and cut green scallion into segments.
-- Marinate chicken with minced garlic and Chuncheon spicy sauce for 20 minutes.
-- Heat toasted sesame oil in a pan, sauté onion, and add marinated chicken to stir-fry.
-- Stir-fry until chicken is cooked, add scallions, toss quickly, and serve.
+- Cut boneless chicken thigh 250 g into about 3 cm chunks; julienne onion ½ pc and cut scallion 1 stalk into segments.
+- Marinate chicken with 1.5 tbsp Chuncheon spicy stir-fry sauce and 1 tbsp minced garlic for 20 minutes (reserve the remaining sauce for later).
+- Heat a heavy skillet or cast-iron pan over high heat with 1 tbsp toasted sesame oil; spread marinated chicken and sear until the surface changes color (about 3 minutes).
+- Add julienned onion and stir-fry 1 minute; pour in the remaining 1.5 tbsp Chuncheon spicy stir-fry sauce and 2–3 tbsp water; cover and simmer over medium heat 5 minutes.
+- Uncover, raise heat to high, and reduce, stirring constantly until the sauce thickens and coats the chicken.
+- Add scallion segments and a pinch of sesame seeds; toss briefly and serve hot.
 tips:
 - "Double-frying is essential. The first fry cooks the meat, and the second fry makes it crispy."
 - Turn off the heat before tossing with the sauce, otherwise, the crispy skin will turn soggy.
@@ -50,7 +52,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: boneless chicken thigh
   amount: "250"

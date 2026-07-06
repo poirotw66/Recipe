@@ -27,11 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Soak cheese-stuffed rice cake in warm water for 15 minutes to soften, then drain and set aside.
-- Heat oil in a pan, sauté garlic and onion, and stir-fry.
-- Pour in the prepared Korean black bean paste (chunjang), cheddar cheese sauce, black truffle paste, minced garlic and a little broth. Add the soaked cheese-stuffed rice cake, bring to a boil, and stir constantly to prevent sticking.
-- When the rice cakes are chewy and the sauce is thick, top with cheese, and let simmer for 1 minute before serving.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: If cheese rice cakes 80 g are firm from the fridge, soak in warm water 10 minutes until slightly soft, then drain; shred onion ½."
+- In a small bowl, mix Korean black jjajang paste 2 Tbsp, cheddar cheese sauce 2 Tbsp, truffle sauce 1 tsp, minced garlic 1 Tbsp, and water 2 Tbsp into a truffle jjajang sauce; set aside.
+- Preheat a skillet over medium heat with 1 Tbsp oil; stir-fry onion 2 minutes until translucent and fragrant.
+- Add drained cheese rice cakes and stir-fry over high heat 1 minute until lightly colored on the surface.
+- Pour in the prepared truffle jjajang sauce and keep stir-frying 1 minute until each rice cake is evenly coated.
+- Pour in broth or water 100 ml, cover, and simmer over medium heat 5 minutes, stirring to prevent sticking so the rice cakes absorb the sauce.
+- Uncover and reduce over high heat 1–2 minutes until the sauce is thick and clings to the rice cakes. Before serving, stir in another cheddar cheese sauce 2 Tbsp until melted and stretchy; top with sesame seeds or scallions and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -50,7 +52,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: "cheese-stuffed rice cake"
   amount: "80"

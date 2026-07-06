@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Wash uncooked white rice, add kelp broth, and cook until fluffy. Set aside.
-- Heat toasted sesame oil in a skillet, sauté boneless chicken thigh, shiitake mushrooms, scallion separately, and season with salt and soy sauce (add a pinch of sugar for chicken).
-- Brush toasted sesame oil generously on the stone pot, spread cooked rice, and arrange ingredients on top.
-- Heat stone pot over medium until crackling sound is heard and a crispy crust forms. Serve hot.
+- "Wash uncooked white rice 150 g; soak with broth or water at a 1:1.2 ratio for 20 minutes, then cook until grains are separate and pleasantly chewy; fluff to release steam."
+- Cut boneless chicken thigh 250 g into small pieces; marinate 10 minutes with 1 tbsp soy sauce and 1 tsp sugar; slice shiitake mushrooms 3 pcs and cut scallion 1 stalk into segments.
+- Heat a skillet over medium heat with 1 tbsp toasted sesame oil; spread chicken in a single layer and sear until golden on the surface (about 3 minutes); flip and cook 2 more minutes until done; transfer out.
+- Add a little more oil to the same pan; stir-fry mushroom slices 2 minutes until they release moisture and lightly brown; mix with chicken and set aside.
+- Brush the stone pot interior evenly with 1 tbsp toasted sesame oil; layer hot rice and press flat; arrange chicken and mushrooms neatly on top; scatter scallion segments.
+- Heat the stone pot over medium heat 4–6 minutes until you hear sizzling at the bottom and smell toasted rice crust; turn off heat.
+- Before serving, mix from the outside inward with a spoon; enjoy the crust and toppings while hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -52,7 +55,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: uncooked white rice
   amount: "150"

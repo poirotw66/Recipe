@@ -27,13 +27,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Cut chicken into pieces, and marinate with garlic, salt, black pepper powder, and toasted sesame oil for 30 minutes.
-- Coat chicken with Korean fried chicken mix. Deep-fry at 170°C for 7 minutes, then drain.
-- Heat oil to 185°C and fry chicken again for 2 minutes until extra crispy and golden.
-- Heat toasted sesame oil in a clean pan. Sauté onion and scallion, add Korean chili paste (gochujang) and honey until thick. Turn off heat, coat chicken, and garnish with sesame seeds.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Cut boneless chicken thigh 250 g into bite-size pieces (about 3–4 cm); pat the surface thoroughly dry with paper towels.
+- Massage with a pinch of salt, a pinch of black pepper powder, and 1 tbsp toasted sesame oil; refrigerate 30 minutes to marinate.
+- Spread 150 g Korean fried chicken mix in a deep plate; coat each piece evenly, press lightly, and shake off excess flour.
+- Fill the fryer with enough oil and use a kitchen thermometer to confirm 170°C; fry chicken in batches over medium heat about 7 minutes until set on the outside and cooked through inside (avoid crowding to keep oil temperature steady).
+- Drain and rest on a wire rack 3–5 minutes so steam escapes from inside.
+- Raise oil temperature to 185°C; return chicken for a second fry 1.5–2 minutes until golden and crispy, then drain on a wire rack.
+- "In two skillets, heat ½ tbsp toasted sesame oil each over low heat and sauté julienned onion: in one skillet mix in 1.5 tbsp Korean chili paste (gochujang) and ½ tbsp honey for a spicy sauce; in the other whisk ½ tbsp honey with ½ tbsp toasted sesame oil for a honey glaze; simmer both until slightly thickened, then turn off heat."
+- Divide fried chicken in half; quickly toss each portion off heat with a different sauce, sprinkle a pinch of sesame seeds, and plate in two sections while hot.
 tips:
 - "Double-frying is essential. The first fry cooks the meat, and the second fry makes it crispy."
 - Turn off the heat before tossing with the sauce, otherwise, the crispy skin will turn soggy.
@@ -51,7 +52,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: boneless chicken thigh
   amount: "250"
@@ -68,14 +69,14 @@ seasonings:
   amount: "1"
   unit: tbsp
 - name: sesame seeds
-  amount: "0.25"
-  unit: pinch
+  amount: pinch
+  unit: ""
 - name: salt
-  amount: "0.25"
-  unit: pinch
+  amount: pinch
+  unit: ""
 - name: black pepper powder
-  amount: "0.25"
-  unit: pinch
+  amount: pinch
+  unit: ""
 - name: toasted sesame oil
   amount: "1"
   unit: tbsp

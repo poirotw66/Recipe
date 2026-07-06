@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Slice mahi-mahi fillet and cut carrot and onion into thin pieces.
-- Season fish with a pinch of salt for 10 minutes. Pan-fry in a skillet until golden on both sides.
-- In the same pan, sauté onion and carrot, then pour in soy sauce and sugar mixture and boil.
-- Add the cooked fish slices, toss quickly to coat with the sauce, and serve.
+- Pat mahi-mahi fillet 180 g dry with paper towels; slice carrot 30 g thinly and julienne onion ½ pc.
+- Lightly salt the fish with a pinch of salt for 10 minutes; drain excess moisture.
+- Heat a skillet over medium heat with 1 tbsp toasted sesame oil; pan-fry fish on one side 2 minutes until golden, flip and cook 2 minutes more; set aside.
+- In the same pan, stir-fry julienned onion 1 minute until translucent; add carrot slices and stir 1 minute.
+- Add 1 tbsp soy sauce, 1 tsp sugar, and 3 tbsp water; boil over high heat, then simmer over medium-low 1–2 minutes until slightly thickened.
+- Gently return fish to the pan; spoon sauce over the fillets and swirl the pan off heat to coat (avoid flipping hard so the fish does not break apart).
+- Transfer to a plate and serve hot to match the restaurant glazed fish flavor.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -50,7 +53,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: "mahi-mahi fillet"
   amount: "180"
@@ -72,8 +75,8 @@ seasonings:
   amount: "1"
   unit: tsp
 - name: salt
-  amount: "0.25"
-  unit: pinch
+  amount: pinch
+  unit: ""
 ---
 
 This home version recreates the layered broth and generous plating associated with Dubu House korean mains.

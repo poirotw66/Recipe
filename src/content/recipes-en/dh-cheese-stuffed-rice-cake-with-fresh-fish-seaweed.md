@@ -27,20 +27,19 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Soak Korean rice cakes in warm water for 15 minutes to soften, then drain and set aside.
-- Heat oil in a pan, sauté garlic and onion, and stir-fry.
-- Pour in the prepared soy sauce, minced garlic, salt and a little broth. Add the soaked Korean rice cakes, bring to a boil, and stir constantly to prevent sticking.
-- When the rice cakes are chewy and the sauce is thick, top with sesame seeds, and let simmer for 1 minute before serving.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: soak cheese-stuffed rice cakes 80 g in warm water 10 minutes; cut sea bream fillet 150 g into chunks and pat dry; soak wakame 15 g in cold water until soft and drain; slice ½ onion into strips and cut 1 scallion into sections; portion 1 tbsp minced garlic, 1.5 tbsp gochujang, 1 tbsp soy sauce, and 1 tbsp Korean sesame oil separately."
+- Preheat a Korean spicy stew pot or thick-bottomed small pot over medium heat for 1 minute. Add 1 tbsp Korean sesame oil, sauté 1 tbsp minced garlic and onion strips until translucent, then add 1.5 tbsp gochujang and stir until fragrant and the oil turns red (about 1 minute; do not scorch).
+- Add sea bream fillet 150 g and sear over high heat until the surface turns white and sets (about 1–2 minutes); avoid over-turning so the fish does not break apart.
+- Pour in 400 ml broth and 1 tbsp soy sauce. Bring to a boil over high heat, then reduce to medium-low. Add cheese-stuffed rice cakes 80 g and wakame 15 g and simmer 5–8 minutes until rice cakes are chewy and fish is cooked through.
+- Gently press the rice cakes so a little cheese oozes out to enrich the broth. Lower the heat, scoop 1 pack soft tofu in large chunks into the center, and gently push along the edge (simmer 2 more minutes until piping hot).
+- Before turning off the heat, layer 1 cheddar cheese slice, let it half-melt, then crack in 1 egg. When the white sets and the yolk is soft-set, top with scallions and sesame seeds and serve boiling hot in the pot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
 substitutions:
-- Korean rice cakes
-- soy sauce
+- soft tofu
+- cheddar cheese slice
 relatedIngredients:
 - 韓式年糕條
 - 洋蔥
@@ -53,10 +52,22 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
-- name: Korean rice cakes
+- name: soft tofu
+  amount: "1"
+  unit: pack
+  isCore: true
+- name: cheese-stuffed rice cake
+  amount: "80"
+  unit: g
+  isCore: true
+- name: sea bream fillet
   amount: "150"
+  unit: g
+  isCore: true
+- name: wakame
+  amount: "15"
   unit: g
   isCore: true
 - name: onion
@@ -67,19 +78,26 @@ ingredients:
   amount: "1"
   unit: stalk
   isCore: true
+- name: broth
+  amount: "400"
+  unit: ml
+  isCore: true
 seasonings:
-- name: soy sauce
+- name: cheddar cheese slice
   amount: "1"
+  unit: slice
+- name: Korean chili paste (gochujang)
+  amount: "1.5"
   unit: tbsp
-- name: toasted sesame oil
+- name: soy sauce
   amount: "1"
   unit: tbsp
 - name: minced garlic
   amount: "1"
   unit: tbsp
-- name: salt
-  amount: "0.25"
-  unit: pinch
+- name: Korean sesame oil
+  amount: "1"
+  unit: tbsp
 ---
 
 This home version recreates the layered broth and generous plating associated with Dubu House korean hot pot.
