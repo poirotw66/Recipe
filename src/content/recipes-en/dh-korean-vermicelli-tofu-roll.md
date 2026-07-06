@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Mash 主食材 and drain excess water. Finely chop onion and green scallion.
-- Mix tofu, onion, scallion, garlic, soy sauce, and salt, and shape into rolls.
-- Heat oil in a skillet and pan-fry tofu rolls until golden and crispy.
-- Plate, drizzle with toasted sesame oil for aroma, and serve hot.
+- Soak Korean glass noodles in cold water 20 minutes until soft; drain and cut into about 5 cm lengths. Cut tofu skin or soft tofu into strips. Mince 0.5 onion and cut 1 scallion into sections. Blanch carrot and spinach, squeeze dry, and shred.
+- Heat a little oil in a skillet over low heat and sauté 1 Tbsp minced garlic until fragrant. If using ground beef or minced mushrooms, cook until browned and separated.
+- Add minced onion and scallion sections; stir-fry 1 minute until aromatic. Season with 1 Tbsp soy sauce, 1 Tbsp toasted sesame oil, and a pinch of salt; remove from heat.
+- "Mix the stir-fried filling with glass noodle pieces. Taste and adjust salt (filling should be slightly salty so the roll won't taste bland)."
+- Lay tofu skin flat. Layer spinach shreds, carrot shreds, and the glass noodle filling. Roll tightly from the near edge with the seam facing down to set shape.
+- Brush a skillet lightly with oil. Over medium heat, pan-fry all four sides of each roll 1–2 minutes until golden and crisp and the seam seals.
+- Move to a cutting board and slice about 2 cm thick with cut sides up. Plate, sprinkle with chopped scallions and sesame seeds, and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -51,7 +54,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 主食材
   amount: "1"

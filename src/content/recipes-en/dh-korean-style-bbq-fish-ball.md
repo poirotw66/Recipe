@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Clean Korean fish balls, slice onion, and cut green scallion into segments.
-- Heat oil in a pan, sauté garlic and onion, then add fish balls and fry until lightly browned.
-- Add Korean chili paste, soy sauce, sugar, and a little water. Simmer over medium heat.
-- When the sauce thickens and coats the fish balls, add scallions, toss quickly, and serve.
+- If 150 g Korean fish cake balls are frozen, thaw at room temperature 10 minutes. Slice 0.5 onion into strips and cut 1 scallion into sections.
+- Pour 1 Tbsp toasted sesame oil into a skillet and heat over low heat. Add 1.5 Tbsp Korean chili paste and stir-fry until fragrant red oil appears (about 30 seconds; do not scorch).
+- Add 1 Tbsp minced garlic and 1 tsp sugar; stir quickly for a sweet-spicy base. Drizzle in 1 Tbsp soy sauce and stir-fry evenly.
+- Add fish balls and stir-fry over medium heat 2 minutes, turning often, until lightly charred on the surface (centers should stay tender).
+- Add onion strips and stir-fry 1 minute until translucent and sweet.
+- Add 3 Tbsp water, cover, and simmer over medium-low heat 2 minutes until sauce clings to the fish balls with a light gloss.
+- Transfer to a plate, sprinkle with chopped scallions and sesame seeds, and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -51,7 +54,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Korean fish balls
   amount: "150"

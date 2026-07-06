@@ -27,11 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Beat egg in a bowl with a pinch of salt and seasonings.
-- Brush toasted sesame oil on an egg roll pan over low heat. Pour in 1/3 of egg mixture. Arrange black truffle sauce and mozzarella cheese on top.
-- Gently roll the semi-cooked egg sheet, push it to the end, pour in more egg to connect, and roll again.
-- Repeat until all egg is used. Remove from heat, let cool slightly, slice into thick rounds, and serve hot.
-- Taste and adjust seasoning; serve while hot.
+- Beat 3 eggs in a bowl with a pinch of salt and 1 Tbsp toasted sesame oil until smooth. Cut 60 g shredded mozzarella into short pieces and set 1 tsp black truffle paste aside in a small dish (do not add all at once; high heat dissipates aroma).
+- Brush a skillet or Korean egg-roll pan lightly with oil and preheat over low heat. Pour in about 1/3 of the egg mixture and tilt to spread a thin sheet.
+- When the sheet is half set, layer part of the mozzarella on the side nearest you and dot about 1/3 of the truffle paste with a teaspoon.
+- Gently roll into a log with a spatula and push to the edge. Pour in another 1/3 of egg to connect, then repeat cheese and truffle before rolling again.
+- Repeat until all egg is used, rolling 2–3 layers total. On the last layer you may add cheese only for an even outer color.
+- Pan-fry the whole roll 1 minute more, pressing lightly on all sides until lightly browned and cheese begins to melt (truffle aroma should be clear, not bitter).
+- Move to a cutting board, rest 1 minute, slice into thick rounds. Drizzle a little more truffle paste if desired, sprinkle with chopped scallions and sesame seeds, and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -49,7 +51,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: egg
   amount: "1"
