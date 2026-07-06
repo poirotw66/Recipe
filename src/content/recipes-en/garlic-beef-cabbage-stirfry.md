@@ -32,6 +32,9 @@ ingredients:
   unit: cloves
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 - name: Soy sauce
   amount: '1'
   unit: tbsp
@@ -43,9 +46,12 @@ tags:
 - Stir-fry
 intro: High heat and short time keep cabbage crisp and beef from drying out.
 steps:
-- "Prep: Beef 120g, Cabbage 200g, Garlic 3cloves; mix Soy sauce 1tbsp, Salt pinch in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Shred beef; cut cabbage bite-size; mince garlic.
+- Cut 120 g beef into small cubes against the grain; slice 200 g cabbage; mince 3 garlic cloves. Mix 1 tbsp soy sauce with a pinch of salt and set aside.
+- "Heat 1 tbsp olive oil in a skillet over medium; stir-fry garlic about 20 seconds until fragrant."
+- Add beef over high heat; stir-fry 1–2 minutes until color changes and no red remains in the center; set aside.
+- In the same pan, add cabbage over high heat; stir-fry about 2 minutes until leaves soften slightly and edges turn translucent.
+- Return beef; drizzle in the soy sauce and salt mixture; toss over high heat about 1 minute until evenly seasoned.
+- When beef is cooked through and cabbage still has some crunch, serve.
 tips:
 - Do not overcook cabbage—some crunch is the point.
 storage: Eat within 1 day refrigerated; reheat briefly.
@@ -57,7 +63,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Chili

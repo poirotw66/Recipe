@@ -66,15 +66,16 @@ seasonings:
   unit: ""
 intro: Peel and dice tomatoes for a thick sauce; shrimp go in last so they stay springy.
 steps:
-- "Prep: Pasta 80g, Shrimp 100g, Tomato 2."
-- Score tomato bases, blanch 30 seconds, peel and dice; cook pasta al dente, reserve water; peel and dry shrimp.
-- Skillet with olive oil; bloom garlic and chili; add tomato over medium until juicy and thick.
-- Add 4 tbsp pasta water and halved olives; boil; season with salt and pepper.
-- Taste and adjust seasoning; serve while hot.
+- Score the base of 2 tomatoes, blanch in boiling water 30 seconds, peel, and dice. Peel and devein 100 g shrimp; rinse and pat dry. Mince 3 garlic cloves. Halve 5 olives.
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 2 tbsp olive oil and sauté the garlic and ½ tsp dried chili flakes about 30 seconds until fragrant (keep heat low so they do not burn).
+- Add the diced tomatoes and cook over medium heat 3–4 minutes until juicy and thick. Pour in 4 tbsp pasta water and the olives; bring to a boil and season with a pinch of salt and black pepper.
+- Add the pasta and toss over high heat 1 minute. Add the shrimp last and cook until pink and curled, about 1–2 minutes (do not overcook).
+- Plate while hot.
 storage: Eat fresh; seafood overnight is weaker.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Sour, salty, and spicy—one of the brighter pasta picks.

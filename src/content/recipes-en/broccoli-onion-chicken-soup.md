@@ -47,9 +47,12 @@ tags:
 - High-protein soup
 intro: Sliced breast cooks faster than whole pieces; onion adds natural sweetness with minimal seasoning.
 steps:
-- Slice chicken breast; shred onion; cut broccoli into small florets; slice garlic.
-- Bring water to a boil with onion and garlic; simmer on low about 5 minutes, then add chicken slices.
-- When chicken turns opaque, add broccoli and cook 3–4 minutes; season with salt.
+- Slice 180 g chicken breast thin against the grain; peel 1/2 onion and cut into fine strips; cut 120 g broccoli into small florets; slice 1 garlic clove.
+- "Pour 700 ml water into the pot; add onion and garlic. Bring to a boil over high heat."
+- Cover, lower to low, and simmer about 5 minutes until onion turns translucent and sweet.
+- Add chicken slices; cook 3–4 minutes until opaque with no pink in the center (do not boil hard or the meat turns dry).
+- Add broccoli; cook 3–4 minutes more until stems are slightly tender and color stays bright green.
+- Season with a pinch of salt to taste and serve.
 tips:
 - Add broccoli last for color and bite.
 storage: Refrigerate up to 1 day; reheat gently.
@@ -66,7 +69,7 @@ relatedIngredients:
 - 青花菜
 featured: false
 publishedAt: '2026-06-21'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Fish balls
 - Tofu

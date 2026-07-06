@@ -32,6 +32,9 @@ ingredients:
   unit: ""
   isCore: false
 seasonings:
+- name: Olive oil
+  amount: '1.5'
+  unit: Tbsp
 - name: Soy sauce
   amount: '2'
   unit: tsp
@@ -43,9 +46,12 @@ tags:
 - Skillet
 intro: Brief marinade before searing; let pan juices reduce at the end for concentrated flavor.
 steps:
-- "Prep: Chicken breast 260g, Garlic 3cloves, Onion 0.25; mix Soy sauce 2tsp, Salt pinch in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Cut chicken into thick slices; mince garlic; peel onion and slice thin along the grain.
+- Cut chicken breast 260 g against the grain into about 2 cm cubes and pat dry; mince 3 garlic cloves; slice onion 0.25 into thin strips. Mix 2 tsp soy sauce, a pinch of salt, and minced garlic into a marinade.
+- Toss chicken cubes in the marinade; rest 5–10 minutes.
+- "Heat 1 tbsp olive oil in a skillet over medium-high; lay chicken in a single layer and sear 2 minutes until the bottom is golden and the surface turns white."
+- Flip and cook 1–2 minutes more; add onion strips and stir-fry 1 minute until translucent.
+- Stir-fry over high heat 1–2 minutes until the center shows no pink and juices are slightly reduced.
+- Taste and adjust salt if needed; serve hot.
 tips:
 - Do not flip constantly—better browning if you let each side sit.
 storage: Refrigerate up to 2 days; splash water when reheating.
@@ -62,7 +68,7 @@ relatedIngredients:
 - 洋蔥
 featured: false
 publishedAt: '2026-06-17'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - King oyster mushroom
 - Baby corn

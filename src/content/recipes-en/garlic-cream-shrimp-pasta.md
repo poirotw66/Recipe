@@ -65,14 +65,16 @@ seasonings:
   unit: tsp
 intro: Sear shrimp separately, then build cream sauce with pasta water for the right cling.
 steps:
-- Salt pasta water; boil pasta al dente and reserve 1 cup cooking water. Peel and devein shrimp; pat dry.
-- Heat olive oil with minced garlic over low until fragrant; raise heat, add shrimp until pink and curled; remove.
-- Add butter and milk; simmer gently and loosen with pasta water until saucy.
-- Toss in pasta and shrimp on high about 1 minute; season with salt, pepper, and lemon juice.
+- Peel and devein shrimp 120 g; pat dry with paper towels. Mince 3 garlic cloves.
+- Bring a pot of salted water to a boil; cook spaghetti 80 g 7–9 minutes per package until al dente, drain, and reserve 1 cup pasta water.
+- Heat a skillet over medium heat with 1 tbsp olive oil and minced garlic; cook over low heat about 30 seconds until fragrant (do not burn).
+- Raise heat to high; add shrimp and stir-fry 1–2 minutes until pink and curled; remove promptly.
+- Lower heat; add 20 g butter and 100 ml milk; stir gently until simmering; add 3–4 tbsp pasta water to reach a creamy sauce consistency.
+- Add pasta and shrimp; toss over high heat 1 minute until sauce coats the noodles. Season with a pinch of salt, black pepper, and 1 tsp lemon juice; serve hot.
 storage: Best fresh; reheat with a little milk if needed.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Garlic cream shrimp pasta is the crowd favorite among richer pasta bowls on the site.

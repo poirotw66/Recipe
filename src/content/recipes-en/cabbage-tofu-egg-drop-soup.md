@@ -47,11 +47,11 @@ tags:
 - Light soup
 intro: Simmer cabbage for sweetness, then drizzle beaten egg slowly for silky ribbons.
 steps:
-- Shred cabbage; cube tofu; beat egg with a pinch of salt and 1 tsp water; chop scallions.
-- Bring water and cabbage to a simmer about 6 minutes until tender.
-- Add tofu, lower heat, and stream in egg while stirring gently to form ribbons; season with salt and scallions.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Shred 150 g cabbage; cut 1/2 block tofu into 2 cm cubes; beat 1 egg; chop 1 scallion.
+- "Add 650 ml water and cabbage to the pot; bring to a boil over high heat, then cover and simmer on medium about 6 minutes until cabbage turns soft and translucent."
+- Uncover; add tofu and simmer on low about 2 minutes until heated through (nudge gently so it does not break).
+- "Turn heat to lowest; drizzle beaten egg along the pot edge and stir gently with chopsticks for about 10 seconds to form fine ribbons (do not stir hard)."
+- Season with a pinch of salt, scatter scallions, taste, and serve.
 tips:
 - Stir too fast and the egg breaks into fine grains—slow circles work best.
 storage: Refrigerate up to 1 day; reheat on low.
@@ -68,7 +68,7 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-06-20'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

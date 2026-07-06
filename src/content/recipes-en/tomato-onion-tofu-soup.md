@@ -35,6 +35,9 @@ seasonings:
 - name: Water
   amount: '600'
   unit: ml
+- name: Olive oil
+  amount: '1'
+  unit: tsp
 - name: Scallion
   amount: '1'
   unit: stalk
@@ -46,11 +49,12 @@ tags:
 - Light soup
 intro: Soft tomatoes before tofu—natural sweet-sour base with little seasoning.
 steps:
-- Chunk tomato; peel onion and slice thin along the grain; cube tofu; chop scallion.
-- Pot with a little oil; stir onion, then tomato 2 minutes.
-- Add about 600 ml water; boil, covered simmer 5 minutes; tofu 5 minutes more; salt and scallion.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Chunk 2 tomatoes; peel 1/2 onion and cut into fine strips; cut 1/2 block tofu into 2 cm cubes; chop 1 scallion.
+- "Heat 1 tsp olive oil in the pot over medium; stir-fry onion about 2 minutes until translucent and sweet."
+- Add tomatoes; stir-fry about 2 minutes until slightly soft and juicy.
+- "Pour in 600 ml water; bring to a boil over high heat, then cover and simmer on low 8–10 minutes until tomatoes break down."
+- Uncover; add tofu and simmer 3 minutes more until heated through.
+- Season with a pinch of salt, scatter scallions, taste, and serve.
 tips:
 - Mash part of the tomato for a richer body.
 storage: Refrigerate 1 day; reheat gently.
@@ -67,7 +71,7 @@ relatedIngredients:
 - 豆腐
 featured: false
 publishedAt: '2026-06-11'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Fish balls
 - Clams

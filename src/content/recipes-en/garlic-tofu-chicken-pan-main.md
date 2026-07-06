@@ -32,6 +32,9 @@ ingredients:
   unit: cloves
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1.5'
+  unit: Tbsp
 - name: Soy sauce
   amount: '1.5'
   unit: tsp
@@ -43,9 +46,12 @@ tags:
 - Chicken breast
 intro: Pan-fry tofu until lightly crisp before tossing with chicken for better texture layers.
 steps:
-- "Prep: Chicken breast 220g, Firm tofu 0.5block, Garlic 3cloves; mix Soy sauce 1.5tsp, Salt pinch in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Cube chicken and tofu; mince garlic.
+- Cut chicken breast 220 g against the grain into about 2 cm cubes and pat dry; cube firm tofu 0.5 block and pat dry; mince 3 garlic cloves. Mix 1.5 tsp soy sauce, a pinch of salt, and minced garlic into a marinade.
+- Toss chicken cubes in the marinade; rest 5–10 minutes. Lightly salt the tofu cubes and set aside.
+- "Heat 1 tbsp olive oil in a skillet over medium heat; pan-fry tofu in a single layer 1.5–2 minutes per side until lightly golden; set aside."
+- "Add 0.5 tbsp olive oil to the same pan; lay chicken in a single layer and sear over medium heat 2 minutes until the surface turns white and the bottom is lightly charred."
+- Flip and cook 1–2 minutes more; return tofu and stir-fry over high heat 1 minute to release the garlic aroma.
+- Serve when the center shows no pink and tofu is hot through; adjust salt to taste.
 tips:
 - Keep chicken cubes moderate size for even doneness.
 storage: Refrigerate 1 day; reheat quickly in a hot pan.
@@ -62,7 +68,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-07-09'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - King oyster mushroom
 - Baby corn

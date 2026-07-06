@@ -42,16 +42,20 @@ seasonings:
 - name: Scallion
   amount: '1'
   unit: stalk
+- name: Olive oil
+  amount: '1'
+  unit: tsp
 tags:
 - Egg drop soup
 - Tomato soup
 intro: Soften tomatoes first, then tofu and egg—natural sweetness without heavy seasoning.
 steps:
-- Chunk tomato; cube tofu; beat egg with pinch of salt and 1 tsp water until lightly foamy; slice scallion.
-- Tomatoes and 650 ml water; boil, then covered simmer 5 minutes for sweetness.
-- Add tofu; drizzle egg along the side for ribbons; salt and scallion.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Chunk 2 tomatoes; beat 1 egg; cut 1/2 block tofu into 2 cm cubes; chop 1 scallion.
+- "Heat 1 tsp olive oil in the pot over medium; stir-fry tomatoes about 2 minutes until slightly soft and juicy."
+- "Pour in 650 ml water; bring to a boil over high heat, then cover and simmer on medium 6–8 minutes until tomatoes break down and broth turns red."
+- Uncover; add tofu and simmer on low about 2 minutes until heated through (nudge gently so it does not break).
+- Turn heat to lowest; drizzle beaten egg along the pot edge and stir gently for about 10 seconds to form egg ribbons.
+- Season with a pinch of salt, scatter scallions, taste, and serve.
 tips:
 - Stir gently with chopsticks for finer egg threads.
 storage: Refrigerate 1 day; reheat gently.
@@ -68,7 +72,7 @@ relatedIngredients:
 - 豆腐
 featured: false
 publishedAt: '2026-07-11'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

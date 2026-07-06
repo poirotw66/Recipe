@@ -61,15 +61,16 @@ seasonings:
   unit: clove
 intro: Butterfly or pound the breast for even cooking; rest 2 minutes after searing so juices stay in the meat.
 steps:
-- Split the breast to even thickness; marinate 10 minutes with lemon juice, salt, pepper, and minced garlic.
-- Heat 1 Tbsp olive oil in a skillet over medium-high; sear the chicken 3 minutes until golden on the first side.
-- Flip, reduce to medium, and cook 2–3 minutes more until no pink remains at the center. Rest off heat.
-- In the same pan, stir-fry broccoli until crisp-tender; fry an egg sunny-side or scrambled in a clean spot.
-- Slice the chicken; plate with egg and broccoli; drizzle remaining lemon juice.
+- Split chicken breast 150 g from the side into even thickness and pat dry; cut broccoli 80 g into small florets, rinse, and drain.
+- Toss chicken with 1 tbsp lemon juice, a pinch of salt and black pepper, and 1 minced garlic clove; rest 10 minutes.
+- "Heat 1 tbsp olive oil in a skillet over medium-high; sear chicken 3 minutes on the first side until golden."
+- Flip, reduce to medium, and cook 2–3 minutes more until the center reaches 74°C or shows no pink when cut; rest 2 minutes, then slice against the grain.
+- Add 1 tbsp olive oil to the same pan; stir-fry broccoli over medium heat 2 minutes until deep green and stems still slightly crisp.
+- Fry egg 1 sunny-side up (set whites, runny yolk) or scrambled in a clean spot over low heat; plate chicken, egg, and broccoli separately; drizzle remaining lemon juice.
 storage: Refrigerate up to 1 day; reheat sliced chicken covered with a damp paper towel, about 1 minute in the microwave.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 High-protein and light—especially nice after a workout brunch.

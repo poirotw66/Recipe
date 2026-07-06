@@ -45,10 +45,11 @@ tags:
 - Stir-fry
 intro: Use sirloin or thin hot-pot slices cut into strips; marinate about 10 minutes, then sear fast over high heat for tenderness.
 steps:
-- Slice the beef against the grain into even strips. Mix with a little soy sauce, rice wine, and cornstarch; marinate about 10 minutes. Cut scallions into sections; keep white and green parts separate.
-- Heat a skillet over high heat with oil. Sauté the scallion whites about 20 seconds until fragrant.
-- Lay the marinated beef in the hot pan in one layer; let it sear about 30 seconds to set the surface, then stir-fry over high heat until mostly colored (70–80% done). Remove to a plate so it does not overcook.
-- In the same pan, toss the scallion greens over high heat 20–30 seconds until aromatic. Return the beef, toss quickly, and finish with a splash of soy sauce along the pan edge. Serve immediately.
+- Cut beef 120 g against the grain into about 0.5 cm strips; toss with 0.5 tbsp soy sauce, 1 tbsp rice wine, and 1 tsp cornstarch; rest 10 minutes. Cut 3 scallions into sections; keep whites and greens separate.
+- Heat 1.5 tbsp olive oil in a skillet over high heat; sauté scallion whites 20 seconds until fragrant.
+- Lay beef strips in a single layer; rest 30 seconds, then stir-fry 1 minute until the surface colors (about 70–80% done); remove to a plate.
+- In the same pan over high heat, toss scallion greens 20–30 seconds until aromatic and deep green.
+- Return beef; drizzle the remaining 0.5 tbsp soy sauce along the pan edge to sizzle; toss over high heat 20 seconds until evenly glazed; serve immediately.
 tips:
 - Keep the heat high and moves quick—the beef stays juicier.
 - If short on time, marinate 5 minutes; texture will be slightly less tender.
@@ -63,7 +64,7 @@ relatedIngredients:
 - 青蔥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Chili
 - Onion

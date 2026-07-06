@@ -29,6 +29,9 @@ ingredients:
   unit: cloves
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1.5'
+  unit: Tbsp
 - name: Soy sauce
   amount: '1.5'
   unit: tbsp
@@ -43,9 +46,12 @@ tags:
 - Main dish
 intro: Slice thin and sear over high heat so edges char while the center stays tender.
 steps:
-- Slice beef thinly against the grain; slice garlic.
-- Hot skillet with oil; slowly fry garlic in cold oil until edges turn light gold.
-- Add beef; stir-fry quickly with soy sauce, sugar, and pepper; remove as soon as color changes.
+- Slice beef 150 g thin against the grain (about 0.3 cm) and pat dry; mince 4 garlic cloves. Mix 1.5 tbsp soy sauce, 1 tsp sugar, a pinch of black pepper, and minced garlic into a sauce.
+- Toss beef slices with half the sauce; rest 5 minutes to marinate.
+- Heat 1.5 tbsp olive oil in a skillet over medium-high; lay beef in a single layer and rest 30 seconds until the surface colors.
+- Stir-fry quickly 1 minute until about 70–80% done (center still slightly pink); remove to a plate.
+- In the same pan, pour in the remaining sauce and simmer over low heat 30 seconds until lightly thickened and bubbling.
+- Return beef and toss over high heat 30 seconds to coat; serve when fully cooked but still tender.
 tips:
 - Thinner slices need less time and stay more tender.
 storage: Bento within 1 day; reheat briefly.
@@ -56,7 +62,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Chili

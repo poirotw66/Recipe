@@ -44,10 +44,11 @@ tags:
 - Main dish
 intro: Use hot-pot thin slices or reverse-cut sirloin; onion first, beef briefly, sauce at the end.
 steps:
-- Slice beef thin against the grain; cut onion into thin strips.
-- Heat oil over medium-high; cook onion until translucent and sweet at the edges.
-- Push onion aside; lay beef flat; sear 30 seconds, then toss quickly.
-- Add soy sauce, oyster sauce, and water; high heat 30 seconds until lightly thickened; serve.
+- Slice beef 150 g thin against the grain (about 0.3 cm) and pat dry; cut onion 1/2 into thin strips. Mix 1.5 tbsp soy sauce, 1 tsp oyster sauce, and 40 ml water into a sauce.
+- Heat 1.5 tbsp olive oil in a skillet over medium-high; cook onion 2–3 minutes until translucent with lightly caramelized edges.
+- Push onion to the side; lay beef in a single layer; rest 30 seconds until the surface colors, then toss quickly 30 seconds.
+- When beef is about 70–80% done (browned outside, still slightly pink inside), pour in the sauce and stir-fry over high heat 30 seconds.
+- Serve when the sauce is slightly thickened and beef is fully cooked but still tender; do not over-stir or it toughens.
 tips:
 - Do not stir-fry beef too long or it toughens.
 storage: Best fresh.
@@ -58,7 +59,7 @@ relatedIngredients:
 - 洋蔥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Chili

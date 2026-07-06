@@ -32,6 +32,9 @@ ingredients:
   unit: bowl
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1.5'
+  unit: Tbsp
 - name: Garlic
   amount: '2'
   unit: cloves
@@ -46,11 +49,12 @@ tags:
 - Meat-free
 intro: Sear the tofu first for better texture; cook mushrooms until fragrant so they lose any raw taste.
 steps:
-- "Prep: Tofu 0.5pack, Mushrooms 120g, Cooked white rice 1bowl; dice Tofu about ½ inch, divide Cooked white rice 1bowl into serving bowls."
-- Marinate Tofu with Garlic 2cloves, Soy sauce 1tsp, Salt pinch for 10 minutes; prep vegetables as needed.
-- Heat 1 Tbsp oil in a skillet over medium heat. Add Tofu, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve while hot.
+- Cube tofu 0.5 pack and pat dry; slice mushrooms 120 g; mince 2 garlic cloves; place cooked white rice 1 bowl in a serving bowl.
+- Mix 1 tsp soy sauce, a pinch of salt, and minced garlic into a sauce; toss tofu with half the sauce and rest 5 minutes.
+- "Heat 1 tbsp olive oil in a skillet over medium heat; stir-fry mushrooms 2 minutes until they release moisture, soften slightly, and turn fragrant."
+- Lay tofu in a single layer; pan-fry over medium heat 1.5–2 minutes per side until lightly golden, then gently toss 1 minute.
+- Pour in the remaining sauce and stir-fry over high heat 30 seconds until evenly coated.
+- Spoon tofu and mushrooms over rice; toss and eat while hot.
 tips:
 - Pat the tofu dry first—it browns more easily.
 storage: Best eaten fresh; refrigerate up to 1 day if needed.
@@ -67,7 +71,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-15'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Shredded pork
 - Shrimp

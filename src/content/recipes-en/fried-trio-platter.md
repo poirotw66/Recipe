@@ -59,14 +59,16 @@ seasonings:
   unit: ''
 intro: Each item wants a slightly different oil temperature—cheese highest heat, fish and fries steady medium.
 steps:
-- Soak potato sticks in cold water and drain; pat cod and freeze cheese sticks 10 minutes if possible.
-- At about 170°C fry potatoes until golden; drain. Fry breaded cod at the same temperature until crisp.
-- Coat cheese sticks lightly in flour and egg; fry at about 180°C until golden and cheese just melts inside.
-- Arrange all three on a platter with ketchup or mustard; serve hot.
+- Cut potatoes 2 into sticks; soak in cold water 10 minutes, drain, and pat dry. Cut cod fillet 1 into chunks, pat dry, and season with a pinch of salt and black pepper. Freeze mozzarella sticks 6 for 10 minutes if possible so they hold shape.
+- Divide 5 tbsp flour into two portions; spread one on a shallow plate and mix the other with beaten egg 1 into a batter.
+- "Pour olive oil into a deep pot to about 3 cm depth; heat over medium to 170°C (small bubbles around a chopstick tip)."
+- Fry potato sticks 4 minutes until golden; drain. At the same temperature, fry cod chunks 2–3 minutes per side until the coating is crisp and the fish is opaque; drain.
+- Raise oil to 180°C; lightly coat cheese sticks in flour and egg; fry about 1 minute until golden and cheese just melts inside (longer risks bursting).
+- Arrange fries, fish, and cheese sticks on a platter; serve hot with ketchup or mustard.
 storage: Best eaten immediately; cheese sticks harden when cold.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 The fried trio platter is for gatherings when you want several textures at once.

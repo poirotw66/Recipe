@@ -19,6 +19,10 @@ scenarios:
 equipment:
 - Skillet
 ingredients:
+- name: Water
+  amount: '60'
+  unit: ml
+  isCore: false
 - name: Cooked white rice
   amount: '1'
   unit: bowl
@@ -41,17 +45,21 @@ seasonings:
 - name: Water
   amount: '60'
   unit: ml
+- name: Olive oil
+  amount: '1'
+  unit: Tbsp
 tags:
 - Beef
 - Rice bowls
 intro: Sauté mushrooms first, then add beef—the umami comes through clearly.
 steps:
-- "Prep: Cooked white rice 1bowl, Beef 100g, Mushrooms 80g; dice Beef about ½ inch, divide Cooked white rice 1bowl into serving bowls."
-- Marinate Beef with Soy sauce 1.5Tbsp, Garlic 2cloves for 10 minutes; prep vegetables as needed.
-- Heat 1 Tbsp oil in a skillet over medium heat. Add Beef, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Dice beef 100 g against the grain; slice mushrooms 80 g; mince 2 garlic cloves. Portion 1 bowl cooked white rice into a large bowl and keep warm.
+- Toss beef with 0.75 tbsp soy sauce and rest 5–10 minutes to marinate (reserve 0.75 tbsp soy sauce for finishing).
+- Heat 1 tbsp olive oil in a skillet over medium heat; sauté minced garlic 30 seconds until fragrant.
+- Add mushrooms and stir-fry over medium heat 2 minutes until slightly softened, releasing moisture, and lightly browned at the edges.
+- Spread beef in the pan and cook over medium heat 3–4 minutes until the surface changes color and cooked through.
+- Pour in 60 ml water; cover and simmer on low 3–4 minutes. Uncover, drizzle the remaining 0.75 tbsp soy sauce, and stir-fry over high heat 30 seconds to reduce.
+- Taste and ladle beef and sauce over rice.
 tips:
 - Cook mushrooms a little longer after they release water—the sauce tastes deeper.
 storage: Best eaten immediately after cooking.
@@ -63,7 +71,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Chili

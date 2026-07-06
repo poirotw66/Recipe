@@ -51,12 +51,13 @@ tags:
 - High protein
 intro: Sear chicken first, then toss with pasta and broccoli for a sturdy, controlled dinner.
 steps:
-- Cut chicken into strips; season lightly with salt and pepper. Cut broccoli into florets; boil pasta until al dente.
-- Pan-fry chicken in oil until golden and cooked through; set aside.
-- In the same pan, sauté garlic and broccoli until bright; add pasta, chicken, and a splash of pasta water; toss until coated.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Cut chicken breast 120 g into strips against the grain; season with a pinch of salt and black pepper and rest 5 minutes. Cut broccoli 100 g into small florets; mince 2 garlic cloves.
+- Bring a pot of salted water to a boil; cook spaghetti 80 g 7–9 minutes per package until al dente, drain, and reserve ½ cup pasta water.
+- Heat 1 tbsp olive oil in a skillet over medium heat; lay chicken in a single layer and pan-fry 5–6 minutes until golden both sides and cooked through (no pink inside); set aside.
+- Add ½ tbsp more olive oil to the same pan if needed; sauté minced garlic 30 seconds until fragrant.
+- Add broccoli and stir-fry over medium heat 2 minutes until bright green and slightly tender (blanch 1 minute first if you prefer softer).
+- Add pasta, chicken, and 3–4 tbsp pasta water; toss over high heat 1–2 minutes until pasta is coated and lightly glossy.
+- Taste and adjust salt and pepper; plate and serve hot.
 tips:
 - Keep chicken strips thin so they cook quickly.
 storage: Best fresh; refrigerated pasta softens— not ideal for bento.
@@ -71,7 +72,7 @@ relatedIngredients:
 - 青花菜
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

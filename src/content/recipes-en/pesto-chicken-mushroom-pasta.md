@@ -59,10 +59,13 @@ tags:
 - Chicken dishes
 intro: Brown mushrooms first, then chicken and pesto pasta for more depth than plain green sauce noodles. Scallion-garlic pesto, not basil pesto.
 steps:
-- "Prep: Spaghetti 80g, Chicken breast 100g, Mushrooms 80g, Scallions 2stalks, Garlic 2cloves."
-- Slice chicken and mushrooms. Cook pasta al dente; reserve ½ cup water. Blend scallion greens, garlic, 2 Tbsp oil, and cheese into pesto paste.
-- Heat oil; cook mushrooms and chicken through.
-- Add pasta, pesto, and a splash of pasta water; season with salt and pepper.
+- Cut 100 g chicken breast against the grain into strips; rub with a pinch of salt and black pepper. Slice 80 g mushrooms. Wash 2 scallions and use the greens; mince 2 garlic cloves.
+- In a bowl, blend the scallion greens, minced garlic, 2 tbsp olive oil, and 2 tbsp grated cheese into pesto paste (without a processor, chop ultra-fine and mix).
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 1 tbsp olive oil, stir-fry the mushrooms 2–3 minutes until they release water and dry again, then add the chicken and sear both sides golden until cooked through, about 5 minutes.
+- Lower the heat, then add the pasta, pesto paste, and 3–4 tbsp pasta water.
+- Toss over high heat 1–2 minutes until the pasta is coated and the sauce slightly reduces.
+- Taste and adjust with a pinch of salt and black pepper; plate while hot.
 tips:
 - Cook mushrooms until they release water and dry again for stronger aroma.
 storage: Best fresh; mushrooms soften after refrigeration.
@@ -77,7 +80,7 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

@@ -46,12 +46,12 @@ tags:
 - Garlic dishes
 intro: Cook white and green parts of scallion separately for clearer aroma layers.
 steps:
-- Cook pasta al dente; reserve ½ cup pasta water. Separate scallion white and green; mince garlic.
-- Heat oil; sauté white parts and garlic until fragrant; add green parts briefly.
-- Toss pasta with soy sauce and a little pasta water until coated; serve.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Wash 2 scallions and separate the whites from the greens; cut each into sections. Mince 2 garlic cloves.
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 1.5 tbsp olive oil and sauté the scallion whites and garlic 1 minute until fragrant.
+- Add the scallion greens and stir-fry 30 seconds. Pour in 1 tsp soy sauce and 2–3 tbsp pasta water; bring to a boil to form a scallion-garlic sauce base.
+- Add the pasta and toss over high heat 1–2 minutes until evenly coated.
+- Taste and adjust with a pinch of salt; plate while hot.
 tips:
 - Add scallion greens last for brighter color and scent.
 storage: Best fresh; up to 1 day refrigerated.
@@ -66,7 +66,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

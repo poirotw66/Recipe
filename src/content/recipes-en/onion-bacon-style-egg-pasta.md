@@ -47,10 +47,13 @@ tags:
 - Egg dishes
 intro: Cook onion until sweet and translucent; finish eggs off the burner so the sauce stays creamy, not scrambled.
 steps:
-- Slice onion fine. Beat eggs with salt and pepper. Cook pasta al dente; reserve about ½ cup pasta water.
-- Skillet over medium-high with olive oil; cook onion until translucent with light caramel edges.
-- Off heat, away from the burner, add eggs and 2–3 Tbsp pasta water; stir into a thick sauce.
-- Toss drained pasta; thin with more pasta water if needed; adjust salt and pepper to taste.
+- Cut 0.5 onion into fine strips. Beat 2 eggs with a pinch of salt and black pepper.
+- Bring plenty of water to a rolling boil in a stockpot; add a pinch of salt. Cook 80 g spaghetti until al dente. Drain and reserve ½ cup pasta water.
+- Heat a skillet over medium-high heat. Add 1.5 tbsp olive oil and sauté the onion 3–4 minutes until translucent with lightly caramelized edges.
+- Turn off the heat and move the pan off the burner. Add the beaten eggs and 2–3 tbsp pasta water; stir quickly into a thick egg sauce (high pan heat will scramble the eggs).
+- Add the drained pasta and toss quickly until the egg coats every strand; if too thick, add 1–2 more tbsp pasta water.
+- Taste and adjust salt; sprinkle a pinch of black pepper.
+- Plate while hot.
 tips:
 - High pan heat will scramble the eggs—keep the pan off direct heat when adding them.
 - 1 tsp grated cheese at the end nudges the flavor toward Western egg pasta.
@@ -66,7 +69,7 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Bacon
 - Heavy cream

@@ -19,6 +19,10 @@ scenarios:
 equipment:
 - Skillet
 ingredients:
+- name: Water
+  amount: '80'
+  unit: ml
+  isCore: false
 - name: Cooked white rice
   amount: '1'
   unit: bowl
@@ -41,17 +45,21 @@ seasonings:
 - name: Water
   amount: '80'
   unit: ml
+- name: Olive oil
+  amount: '1'
+  unit: Tbsp
 tags:
 - Beef
 - Rice bowls
 intro: Leave the sauce a little loose—it coats rice better than a dry glaze.
 steps:
-- "Prep: Cooked white rice 1bowl, Beef 100g, Onion 1/2; dice Beef about ½ inch, divide Cooked white rice 1bowl into serving bowls."
-- Marinate Beef with Soy sauce 1.5Tbsp, Sugar 1tsp for 10 minutes; dice Onion finely.
-- Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Onion 2 minutes until slightly tender; Add Beef, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Dice beef 100 g against the grain; slice onion ½ thinly. Portion 1 bowl cooked white rice into a large bowl and keep warm.
+- Toss beef with 0.75 tbsp soy sauce and rest 5–10 minutes to marinate (reserve 0.75 tbsp soy sauce for the sauce).
+- In a small bowl, stir together the remaining 0.75 tbsp soy sauce, 1 tsp sugar, and 80 ml water.
+- Heat 1 tbsp olive oil in a skillet over medium heat; stir-fry onion 2–3 minutes until translucent, soft, and sweet-smelling.
+- Spread beef in the pan and cook over medium heat 3–4 minutes until the surface changes color and cooked through.
+- Pour in the sauce; cover and simmer on low 3–4 minutes. Uncover and stir-fry over high heat 30 seconds until slightly thickened (keep a little moisture for mixing with rice).
+- Taste and ladle beef and sauce over rice.
 tips:
 - Longer onion cooking deepens sweetness for the bowl.
 storage: Best fresh; pack sauce separately for bento.
@@ -66,7 +74,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Scallions
 - Chili

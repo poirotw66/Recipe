@@ -32,6 +32,9 @@ ingredients:
   unit: ''
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 - name: Garlic
   amount: '2'
   unit: cloves
@@ -46,10 +49,12 @@ tags:
 - Quick stir-fry
 intro: Sweat onion until sweet, let tofu pick up garlic, then bind everything with egg.
 steps:
-- "Prep: Tofu 0.5pack, Eggs 2, Onion 0.5; mix Garlic 2cloves, Salt pinch, Soy sauce 1tsp in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Slice onion fine; mince garlic; cube tofu. Beat eggs with a pinch of salt and 1 tsp water.
-- Heat oil; medium-low sauté garlic and onion until translucent; add tofu and toss.
+- Cut 1/2 block tofu into cubes and pat dry; beat 2 eggs; cut 1/2 onion into fine strips; mince 2 garlic cloves.
+- "Heat 1 tbsp olive oil in a skillet over medium; pan-fry tofu in a single layer until lightly golden on each side (about 1 minute per side); set aside."
+- Add 1 tsp more olive oil to the same pan; stir-fry garlic about 20 seconds, then add onion over high heat and cook about 2 minutes until translucent and sweet.
+- Return tofu; toss gently about 1 minute, then drizzle in 1 tsp soy sauce and a pinch of salt.
+- Push the mixture to the side; pour eggs into the center. When half set, fold gently and toss with the tofu and onion (about 1 minute).
+- When egg is fully set and tofu stays mostly intact, serve.
 tips:
 - Pat tofu dry so it holds shape.
 storage: Best fresh; refrigerate up to 1 day and reheat in a pan.
@@ -66,7 +71,7 @@ relatedIngredients:
 - 洋蔥
 featured: false
 publishedAt: '2026-07-01'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese
