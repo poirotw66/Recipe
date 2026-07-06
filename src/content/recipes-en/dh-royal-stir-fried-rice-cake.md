@@ -27,11 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Soak Korean rice cakes in warm water for 15 minutes to soften, then drain and set aside.
-- Heat oil in a pan, sauté garlic and onion, then add beef slices, carrot, wood ear mushroom and stir-fry until cooked.
-- Pour in the prepared soy sauce, sugar, minced garlic and a little broth. Add the soaked Korean rice cakes, bring to a boil, and stir constantly to prevent sticking.
-- When the rice cakes are chewy and the sauce is thick, top with sesame seeds, and let simmer for 1 minute before serving.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: If Korean rice cake sticks 150 g are firm from the fridge, soak in warm water 10 minutes until slightly soft, then drain. Bring beef slices 120 g to room temperature; shred onion ½, carrot 30 g, and rehydrated wood ear mushroom 30 g."
+- In a small bowl, mix soy sauce 1 Tbsp, toasted sesame oil 1 Tbsp, sugar 1 tsp, and minced garlic 1 Tbsp into a stir-fry sauce; set aside.
+- Preheat a skillet over medium heat with 1 Tbsp oil; add beef and stir-fry over high heat 1–2 minutes until the surface changes color; remove and set aside.
+- In the same pan, add onion, carrot, and wood ear mushroom; stir-fry over medium heat 2 minutes until vegetables soften slightly and release aroma.
+- Return beef to the pan, add drained rice cakes and the prepared sauce, and stir-fry over high heat 1 minute until the rice cakes are evenly coated.
+- Pour in broth or water 100 ml, cover, and simmer over medium heat 5 minutes, stirring every 1–2 minutes to prevent sticking.
+- Uncover and reduce over high heat 1–2 minutes until the sauce is thick and clings to the rice cakes. Top with sesame seeds or scallions and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -52,7 +54,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Korean rice cakes
   amount: "150"

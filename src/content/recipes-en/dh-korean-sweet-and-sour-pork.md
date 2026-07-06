@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Cut pork hind shank cubes into strips, season with salt and pepper powder for 15 minutes. Slice carrot and onion.
-- Coat pork with all-purpose flour batter and deep-fry until golden and cooked, then drain.
-- Heat Korean sweet and sour sauce in a pan, add carrot and onion, and simmer.
-- Plate the pork and pour the sauce over.
+- Cut pork hind shank cubes 200 g into about 2 cm pieces; cut carrot 30 g into diamond slices and dice onion ½ pc.
+- Marinate pork with a pinch of salt and a pinch of black pepper powder for 10 minutes; dredge each piece in all-purpose flour, shake off excess.
+- Heat fryer oil to 170°C; fry pork in batches about 4–5 minutes until golden and cooked through; drain and rest 2 minutes.
+- Raise oil to 185°C; second fry 1 minute for a crisper crust; set aside.
+- In another skillet, leave 1 tbsp oil; sauté onion and carrot over medium heat 1–2 minutes.
+- Pour in 150 ml Korean sweet and sour sauce; boil over high heat, then simmer over medium-low about 2 minutes until slightly thickened.
+- Add fried pork and toss quickly to coat; turn off heat and serve hot to match the restaurant sweet-and-sour pork texture.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -50,7 +53,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: pork hind shank cubes
   amount: "200"
@@ -72,11 +75,11 @@ seasonings:
   amount: "150"
   unit: ml
 - name: salt
-  amount: "0.25"
-  unit: pinch
+  amount: pinch
+  unit: ""
 - name: black pepper powder
-  amount: "0.25"
-  unit: pinch
+  amount: pinch
+  unit: ""
 ---
 
 This home version recreates the layered broth and generous plating associated with Dubu House chef specials.

@@ -27,11 +27,12 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Clean whole Cornish hen, soak glutinous rice for 1 hour, stuff rice into chicken cavity, and seal opening.
-- Place stuffed chicken in a large clay pot, add ginseng root, red dates, garlic, and cabbage.
-- Pour in water to submerge hen. Boil on high heat, skim foam, cover and simmer for 1.5 to 2 hours.
-- Simmer until chicken meat is extremely tender and broth is milky white. Season with salt and pepper.
-- Taste and adjust seasoning; serve while hot.
+- Clean 1 whole chicken inside and out and pat dry; trim excess fat. Scrub and slice 1 fresh Korean ginseng root, pit 4 red dates, cut napa cabbage 200 g into sections, and peel 1 garlic bulb into cloves.
+- Soak glutinous rice 50 g in cold water 30 minutes and drain. Stuff into the chicken cavity and seal with toothpicks or kitchen twine to keep rice from leaking.
+- Add about 800 ml water or broth to a clay pot or thick soup pot. Add the chicken, ginseng, red dates, napa cabbage, and garlic. Bring to a boil over high heat and skim foam.
+- Reduce to medium-low, cover, and maintain a gentle simmer 35–40 minutes. Avoid opening the lid often to preserve the broth aroma.
+- Insert a skewer into the thickest part of the thigh; clear juices mean it is done. Season with a pinch of salt and a pinch of black pepper to taste.
+- Serve whole or cut into pieces with the broth; dipping sauce optional. The stuffed glutinous rice is best eaten while hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -52,9 +53,9 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
-- name: whole Cornish hen
+- name: whole chicken
   amount: "1"
   unit: whole
   isCore: true
@@ -74,15 +75,15 @@ ingredients:
   amount: "200"
   unit: g
   isCore: true
-- name: 蒜頭
+- name: garlic bulb
   amount: "1"
-  unit: pcs
+  unit: bulb
   isCore: true
 seasonings:
 - name: salt
   amount: "0.25"
   unit: pinch
-- name: black pepper powder
+- name: black pepper
   amount: "0.25"
   unit: pinch
 ---

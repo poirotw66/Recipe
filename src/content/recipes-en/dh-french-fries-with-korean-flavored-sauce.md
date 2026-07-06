@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Prepare potato fries and preheat the air fryer.
-- Air-fry at 180°C for 12 minutes until crispy and golden.
-- In a separate pan, warm Korean chili paste and honey over low heat.
-- Toss fries with the sauce and serve.
+- Use 200 g frozen fries (or cut potatoes into thick sticks about 1 cm square). Soak in cold water 10 minutes to remove surface starch, drain, and pat completely dry with paper towels (dry surface reduces oil splatter).
+- In a small bowl, mix 1.5 Tbsp Korean chili paste, 1 Tbsp honey, and a pinch of salt into a Korean dipping sauce; set aside.
+- Pour enough oil into a fryer and heat over medium heat to 160°C (thermometer steady). Fry fries in batches without stacking.
+- First fry about 5 minutes until slightly soft and pale yellow. Drain and rest on a rack 5 minutes (lets interior moisture escape for a crisper second fry).
+- Raise oil temperature to 190°C. Return fries and fry about 2 minutes until golden and crisp with a hollow tap sound.
+- Drain oil and toss hot fries with a pinch of salt.
+- Plate and drizzle or serve with the Korean dipping sauce; sprinkle with chopped scallions and sesame seeds and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -49,7 +52,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: potato fries
   amount: "200"

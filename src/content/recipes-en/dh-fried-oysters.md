@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Wash fresh oysters and dry them thoroughly with paper towels.
-- Sprinkle oysters with a pinch of salt and pepper powder, let sit for 5 minutes.
-- Coat oysters with all-purpose flour, and fry in 170°C oil until golden and crispy.
-- Drain well, plate, and serve hot with dipping sauce or pepper salt.
+- Rinse 150 g fresh oysters gently under running water. Drain and pat each oyster dry with paper towels (the drier the surface, the better the coating adheres and the crispier the fry).
+- Mix 150 g all-purpose flour with a pinch of salt and a pinch of black pepper powder. Prepare separate shallow dishes of beaten egg and breadcrumbs.
+- Coat each oyster in flour → egg → breadcrumbs, pressing lightly at each layer so the coating sticks. Rest on a plate 2 minutes so the coating sets.
+- Pour enough oil into a fryer and heat over medium heat to 175°C (thermometer steady, or chopsticks inserted in oil produce steady bubbles).
+- Fry oysters in batches without crowding. Fry about 2 minutes until golden and crisp; edges curl slightly while the inside stays juicy (overcooking makes them tough and shrunken).
+- Drain on a rack for 1 minute to keep the crust crisp.
+- Plate and serve hot with tartar sauce, Korean chili paste, or lemon wedges; sprinkle with chopped scallions and sesame seeds.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -48,7 +51,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: fresh oysters
   amount: "150"

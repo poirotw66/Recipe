@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Mix non-GMO soybeans to create the dessert base (knead dough for pancake, or puree soybeans for ice cream).
-- Heat oil or butter in a skillet and cook the base over low heat (or whip the soybean puree in a mixing bowl until fluffy).
-- Prepare tapioca pearls in brown sugar (mix brown sugar, cinnamon powder, and crushed mixed nuts, or simmer tapioca pearls in sugar syrup).
-- Combine them (stuff pancake dough and griddle until sugar melts, or drizzle tapioca pearls over tofu ice cream).
+- Rinse 150 g non-GMO soybeans and soak in cold water at least 4 hours (or 2 hours in warm water) until plump. Drain and blend with 300 ml water in a blender until silky smooth.
+- Pour soy milk into a pot, heat over low heat while stirring constantly. After boiling, simmer on lower heat 3 minutes to remove beany taste; cool to room temperature. Stir in 30 g brown sugar and a pinch of salt (adjust sweetness to taste).
+- Pour cooled soy milk into a sealed container, cover, and freeze. Every 30 minutes remove and scrape with a fork; repeat 3–4 times (about 2 hours) until texture is creamy like ice cream (if short on time, chill 4 hours for a softer tofu slush texture).
+- Cook 50 g brown sugar tapioca pearls per package directions. Simmer until centers are clear and pearls are chewy (usually 15–20 minutes). Rinse in cold water, toss with a little syrup to prevent sticking, and drain.
+- In a small pot, simmer remaining 20 g brown sugar with 30 ml water over low heat, stirring until thick enough to coat a spoon with caramel aroma; set aside.
+- Scoop 2 balls of tofu ice cream into a bowl or glass (ice cream should be creamy, not runny).
+- Layer tapioca pearls on top, then drizzle warm brown sugar syrup (warm sauce over cold ice cream gives the best contrast). Serve immediately while cold.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -49,7 +52,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: "non-GMO soybeans"
   amount: "150"

@@ -27,11 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Soak Korean rice cakes in warm water for 15 minutes to soften, then drain and set aside.
-- Heat oil in a pan, sauté garlic and onion, then add squid and stir-fry until cooked.
-- Pour in the prepared K-Rose sauce, minced garlic and a little broth. Add the soaked Korean rice cakes, bring to a boil, and stir constantly to prevent sticking.
-- When the rice cakes are chewy and the sauce is thick, top with cheese, and let simmer for 1 minute before serving.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: If Korean rice cake sticks 150 g are firm from the fridge, soak in warm water 10 minutes until slightly soft, then drain. Clean squid 150 g, remove innards, and cut into rings; shred onion ½. Pat squid dry with paper towels."
+- Preheat a skillet over medium heat with 1 Tbsp oil; stir-fry onion 2 minutes until slightly soft and translucent.
+- Add squid and stir-fry over high heat 1–2 minutes until curled and opaque; remove squid and onion and set aside (prevents overcooking and toughness).
+- In the same pan, add drained rice cakes, rose sauce 150 ml, minced garlic 1 Tbsp, and mozzarella shreds 60 g; stir-fry over medium heat 1 minute until the rice cakes are coated.
+- Pour in broth or water 100 ml, cover, and simmer over medium heat 5 minutes, stirring to prevent sticking.
+- Uncover, return squid and onion, and reduce over high heat 1–2 minutes until the sauce is thick, rosy, and clings to everything.
+- Before serving, toss in another mozzarella shreds 60 g until melted and stretchy; top with sesame seeds or scallions and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -51,7 +53,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: squid
   amount: "150"

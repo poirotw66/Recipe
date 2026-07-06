@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Clean and drain cabbage leaves. Slice beef brisket slices and garlic.
-- Soak rice cakes in warm water. Marinate meat with soy sauce for 10 minutes.
-- Heat toasted sesame oil in a skillet, stir-fry marinated meat, rice cakes, and garlic until cooked.
-- Plate and serve the meat, rice cakes, and garlic wrapped in cabbage leaves, and enjoy with Korean chili paste.
+- Rinse and drain 100 g cabbage; use large leaves as wrappers (or heat a tortilla in a dry skillet over medium heat 20–30 seconds per side until lightly spotted but still soft and pliable). Cut scallions into long sections.
+- Marinate 180 g beef brisket slices with 1 Tbsp soy sauce, minced garlic from 1 head of garlic, and a little sugar for 10 minutes. If 150 g Korean rice cakes are firm from refrigeration, soak in warm water 10 minutes until slightly softened.
+- Pour 1 Tbsp toasted sesame oil into a skillet over medium heat. Lay out beef slices and pan-fry about 1 minute per side until colored with light char. Add rice cakes and garlic slices; stir-fry 2 minutes until meat is cooked and rice cakes are soft and chewy. Slice into strips.
+- In a small bowl, mix 1.5 Tbsp Korean chili paste with a little sesame oil into a drizzle sauce. Arrange cabbage leaves (or tortillas), meat strips, rice cakes, scallion sections, garlic slices, and sauce separately.
+- "Lay a cabbage leaf (or tortilla) flat. Stack from bottom to top: scallion sections → meat strips → rice cake strips → garlic slices (drizzle sauce last to keep the wrapper from getting soggy)."
+- Roll tightly from the bottom into a cylinder. Fold in both ends, then roll once more to secure the filling.
+- Cut in half or on a diagonal to show the cross-section. Plate and drizzle a little more Korean chili paste if desired; sprinkle with chopped scallions and sesame seeds and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -51,7 +54,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: beef brisket slices
   amount: "180"

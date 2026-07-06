@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Slice flat iron steak, slice onion, and cut green scallion into segments.
-- Marinate beef with minced garlic and Korean BBQ sauce for 15 minutes.
-- Heat toasted sesame oil in a pan, sauté onion, then add marinated beef and stir-fry over high heat.
-- Once cooked, add scallions, toss for a few seconds, and transfer to a hot plate.
+- Slice flat iron steak 200 g against the grain into sheets about 0.3 cm thick; julienne onion ½ pc and cut scallion 1 stalk into segments.
+- Mix 3 tbsp Korean BBQ marinade, 1 tbsp toasted sesame oil, and 1 tbsp minced garlic into a marinade; massage beef slices 15–30 minutes (overnight in the fridge for deeper flavor).
+- Preheat a griddle or cast-iron pan over high heat until faint smoke rises; add 1 tsp toasted sesame oil to coat the pan.
+- Lay beef slices in a single layer; let sit 2 minutes without moving until char marks form on the bottom, then flip.
+- After flipping, cook 1.5–2 minutes more; add julienned onion and stir-fry over high heat 1 minute until translucent and sweet.
+- When beef is cooked, snip into bite-size pieces directly on the griddle with kitchen scissors; scatter scallion segments.
+- Serve immediately, matching Dubu House tabletop BBQ pacing; pair with rice or lettuce wraps.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -50,7 +53,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: flat iron steak
   amount: "200"

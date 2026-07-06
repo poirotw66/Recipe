@@ -28,11 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Soak Korean potato starch noodles in warm water. Blanch and drain spinach. Shred carrot, onion, and black wood ear mushroom.
-- Heat oil in a pan, sauté garlic, then stir-fry carrot, onion, and wood ear mushroom until tender.
-- Add the soaked glass noodles, soy sauce, and sugar. Toss until the noodles absorb the sauce evenly.
-- Add spinach, drizzle with toasted sesame oil, toss quickly, and plate.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: Soak Korean glass noodles 100 g in cold water 20 minutes until soft, then drain; shred carrot 30 g, cut spinach 50 g into segments, shred onion ½, and shred rehydrated wood ear mushroom 30 g. Marinate shredded meat with soy sauce and minced garlic 10 minutes."
+- Bring a pot of water to a rolling boil; blanch soaked glass noodles 2 minutes until translucent, then immediately rinse with cold water, drain, and cut into about 4-inch lengths.
+- In a small bowl, mix soy sauce 1 Tbsp, toasted sesame oil 1 Tbsp, sugar 1 tsp, and minced garlic 1 Tbsp into a stir-fry sauce; set aside.
+- Preheat a skillet over medium heat with toasted sesame oil 1 Tbsp; stir-fry onion and carrot 2 minutes until slightly softened and fragrant.
+- Add marinated meat and stir-fry over high heat 1–2 minutes until the color changes; add spinach and wood ear mushroom and stir-fry 1 minute.
+- Add drained glass noodles and the prepared sauce; stir-fry over medium heat 2–3 minutes until the noodles are evenly colored and seasoned without clumping.
+- Taste and adjust salt and sweetness; finish with sesame seeds and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -53,7 +55,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Korean potato starch noodles
   amount: "100"

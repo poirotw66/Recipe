@@ -27,11 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Finely shred or dice potato.
-- In a bowl, whisk all-purpose flour, egg, salt, and water. Stir in the sliced potato, diced ham, sausage coins, sweet corn, diced bell pepper to form a thick batter.
-- Heat toasted sesame oil in a skillet, pour in the batter, and spread it thin. Fry over medium heat until bottom is crispy. Sprinkle mozzarella cheese evenly on top.
-- Flip the pancake (let cheese touch skillet to melt and crisp), drizzle toasted sesame oil, and cook until golden. Slice and serve.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: Peel potatoes 2 and cut into fine shreds; soak 5 minutes to remove starch, then drain. Have ham dice 50 g, sausage dice 50 g, corn kernels 30 g, and bell pepper dice 30 g ready."
+- In a large bowl, mix all-purpose flour 150 g, egg 1, salt pinch, and cold water 120 ml into a slightly thick, lump-free batter; rest 10 minutes so the flour hydrates.
+- Fold potato shreds and all add-ins into the batter and gently mix until evenly coated (potato shreds must be well drained to avoid thinning the batter).
+- Preheat a 26 cm skillet over medium heat for 2 minutes; add toasted sesame oil 1 Tbsp and swirl to coat. When ripples appear in the oil, the pan is hot enough.
+- Pour in all the batter and spread into a round pancake with a spatula. Pan-fry over medium heat 3–4 minutes until the bottom is golden and set; then evenly sprinkle mozzarella shreds 60 g on top.
+- Carefully flip and cook 3 minutes more; press lightly so the center cooks through and the cheese is half melted. When both sides are golden and crisp, remove from the pan.
+- Cut into pieces and serve hot with soy-vinegar dipping sauce or Korean dipping sauce—the cheese pull is best while hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -52,7 +54,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: potato
   amount: "2"

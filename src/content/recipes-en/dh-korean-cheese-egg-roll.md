@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
 steps:
-- Beat egg in a bowl with a pinch of salt and seasonings.
-- Brush toasted sesame oil on an egg roll pan over low heat. Pour in 1/3 of egg mixture. Arrange flying fish roe, crab sticks and mozzarella cheese and cheddar cheese on top.
-- Gently roll the semi-cooked egg sheet, push it to the end, pour in more egg to connect, and roll again.
-- Repeat until all egg is used. Remove from heat, let cool slightly, slice into thick rounds, and serve hot.
+- Beat 3 eggs in a bowl with a pinch of salt and 1 Tbsp toasted sesame oil until smooth with fine bubbles. Cut 60 g shredded mozzarella into short pieces, slice 1 cheddar cheese slice into strips, cut 30 g flying fish roe and 50 g crab sticks into short pieces, and mince scallions.
+- Brush a skillet or Korean egg-roll pan lightly with oil and preheat over low heat. Pour in about 1/3 of the egg mixture and tilt to spread a thin sheet.
+- When the sheet is half set (surface still slightly wet, edges firm), layer mozzarella, cheddar strips, flying fish roe, crab sticks, and minced scallion on the side nearest you.
+- Gently roll into a log with a spatula and push to one end of the pan. Pour in another 1/3 of egg so the new layer connects to the rolled log.
+- Repeat fill → roll → add egg until all egg is used, rolling 2–3 layers total. On the last layer you may roll without filling for a clean outer wrap.
+- Pan-fry the whole roll 1 minute more, pressing lightly on all sides until lightly browned and cheese begins to melt.
+- Move to a cutting board, rest 1 minute, slice into about 2 cm thick rounds with cut sides up. Plate, sprinkle with chopped scallions and sesame seeds, and serve hot.
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
@@ -50,7 +53,7 @@ faqs:
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: egg
   amount: "1"
