@@ -53,18 +53,18 @@ seasonings:
   unit: ml
 intro: Reduce the sauce until thick so the bento box stays dry; pack sauce separately if needed.
 steps:
-- Mince the garlic; set the pork aside.
-- In a dry pot, brown the pork over medium heat until colored and some fat renders.
-- Add garlic, soy sauce, rice wine, honey, and water; braise on low 15 minutes.
-- Reduce until thick; adjust salt and sweetness to taste.
-- Cool and portion—serve over rice with greens from custom additions if you like.
+- Mince garlic (2 cloves); set ground pork (200 g) aside.
+- In a small pot without oil, cook pork over medium-high 3–4 minutes, pressing with a spatula to break up clumps until colored and fat renders.
+- Add garlic and stir 30 seconds until fragrant; pour in soy sauce (2 tbsp), rice wine (1 tbsp), honey (1.5 tbsp), and water (100 ml). Stir to combine, then reduce to low heat.
+- Braise covered or uncovered on low 12–15 minutes, gently stirring every 5 minutes to prevent sticking on the bottom.
+- Uncover and reduce over medium heat until thick enough to coat a spoon; taste and adjust salt and sweetness. Cool completely and pack in bento boxes (meat and sauce separately if you like); serve with rice and blanched greens.
 storage: Refrigerate up to 3 days; reheat and spoon over rice.
 faqs:
 - question: Can I freeze it?
   answer: Yes—in small containers up to 2 weeks; thaw and microwave.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Honey soy pork is a practical weekend batch for the week’s bentos.

@@ -57,17 +57,18 @@ seasonings:
   unit: ''
 intro: Cabbage is inexpensive and keeps well—soup noodles are one of the cheapest ways to use it.
 steps:
-- "Prep: Noodles 1serving, Cabbage 150g; seasonings ready: Water 600ml, Scallion 1stalk, Soy sauce 2Tbsp, Salt pinch, White pepper pinch."
-- Wash cabbage and cut into chunks; chop scallions.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Wash cabbage (150 g), cut into chunks, and drain; chop scallion (1 stalk) for garnish; set noodles (1 serving) aside.
+- In a stockpot, combine water (600 ml) and soy sauce (2 tbsp); bring to a boil over high heat.
+- Add cabbage and simmer over medium heat 5 minutes until slightly soft but still crisp.
+- Add noodles and cook per package directions until springy (about 3–5 minutes), gently stirring to prevent sticking.
+- Season with a pinch of salt and white pepper, taste, and serve topped with scallions.
 storage: Best fresh; noodles turn mushy overnight.
 faqs:
 - question: Can I use instant noodles?
   answer: Yes—cook cabbage with the noodles and use half the seasoning packet to avoid oversalting.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Budget cabbage noodle soup is a practical pick when you are watching grocery spend.

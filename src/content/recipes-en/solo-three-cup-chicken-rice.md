@@ -59,18 +59,20 @@ seasonings:
   unit: slices
 intro: Cut thigh, sear dry first for springy skin; add Thai basil at the very end to keep fragrance.
 steps:
-- "Prep: Cooked rice 1bowl, Chicken thigh 1piece, Thai basil 1bunch; dice Chicken thigh about ½ inch, divide Cooked rice 1bowl into serving bowls."
-- Marinate Chicken thigh with Soy sauce 3tbsp, Rice wine 3tbsp, Sesame oil 2tbsp for 10 minutes; prep vegetables as needed.
-- Heat 1 Tbsp oil in a skillet over medium heat. Add Chicken thigh, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve while hot.
+- Wash 1 chicken thigh, cut into chunks, and pat dry with paper towels. Smash 4 garlic cloves and slice 5 pieces of ginger. Wash 1 bunch Thai basil and drain. Spoon 1 bowl cooked rice into a large bowl to keep warm.
+- Heat a skillet over medium-high. Add 1 tbsp sesame oil. Place chicken skin-side down and sear until golden on the surface (about 3 minutes), then flip and sear 2 more minutes.
+- Add garlic and ginger; stir-fry 30 seconds until fragrant.
+- Add 3 tbsp soy sauce, 3 tbsp rice wine, and the remaining 1 tbsp sesame oil. Stir to combine, then bring to a boil over high heat.
+- Lower to a simmer, cover, and braise 10–12 minutes. Stir once during cooking until the chicken is fully cooked and the sauce thickens.
+- Uncover, raise to medium heat, and reduce the sauce 1–2 minutes. Off heat, add Thai basil and toss 10 seconds.
+- Pour the three-cup chicken and sauce over the rice and serve.
 storage: Refrigerate up to 2 days; add a splash of water when reheating.
 faqs:
 - question: Must the three-cup ratio be exact?
   answer: Adjust to taste—equal soy and rice wine with slightly less sesame oil is the baseline.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 A classic Taiwanese one-person main for renters.

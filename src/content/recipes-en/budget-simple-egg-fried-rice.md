@@ -52,17 +52,17 @@ seasonings:
   unit: ''
 intro: Simple fried rice rewards cold rice, high heat, and quick tossing.
 steps:
-- "Prep: Cooked white rice 1 bowl, eggs 2; fluff cold rice and beat eggs with a pinch of salt."
-- Heat oil over medium-high; scramble eggs until half set; remove.
-- Add rice to the pan and stir-fry until grains separate.
-- Return eggs, add salt and white pepper, and toss on high about 1 minute.
+- If using chilled rice (1 bowl), break up clumps by hand; beat eggs (2) with a pinch of salt.
+- Heat olive oil (1 tbsp) over medium-high; pour in eggs and quickly scramble into soft, half-set curds; remove from pan.
+- Add a little more oil to the same pan; add rice and stir-fry over high heat 2–3 minutes until grains separate and lightly toasted.
+- Return scrambled eggs, sprinkle white pepper, and stir-fry over high heat 1 minute until egg and rice are evenly mixed; serve immediately.
 storage: Refrigerate up to 1 day; reheat in a skillet.
 faqs:
 - question: Can I use freshly cooked rice?
   answer: Yes—spread it to cool or chill 30 minutes so it fries dry and separate.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 When the budget is tight, this egg fried rice is the meal you can always fall back on.

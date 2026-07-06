@@ -48,18 +48,18 @@ seasonings:
   unit: Tbsp
 intro: High heat and a short cook keep cabbage from turning mushy overnight.
 steps:
-- Wash cabbage and cut into chunks; slice garlic.
-- Heat oil over medium-high; sizzle garlic until fragrant.
-- Add cabbage and stir-fry 2 minutes.
-- Splash in water, cover 1 minute, then uncover and stir-fry until tender-crisp.
-- Season with salt, cool, and pack.
+- Wash cabbage (250 g), cut into about 3 cm chunks, and drain well; slice garlic (3 cloves).
+- Heat olive oil (1 tbsp) over medium-high; add garlic and sizzle about 20 seconds until lightly golden (do not burn).
+- Add cabbage and stir-fry over high heat 2 minutes until leaves soften slightly but stay crisp.
+- Add water (2 tbsp), cover 1 minute to steam, then uncover and stir-fry over high heat until tender-crisp with crisp edges.
+- Season with a pinch of salt, taste, and cool completely before packing in bento boxes.
 storage: Refrigerate up to 2 days; microwave about 40 seconds.
 faqs:
 - question: Can I use bok choy instead?
   answer: Yes—shorten the cook to about 3 minutes total.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Stir-fried cabbage is the classic bento side that rarely goes wrong.

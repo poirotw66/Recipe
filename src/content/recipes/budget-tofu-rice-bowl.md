@@ -62,7 +62,7 @@ faqs:
   answer: "板豆腐最適合，嫩豆腐易碎，硬豆腐需切薄。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-22"
+updatedAt: "2026-07-06"
 ---
 
 省錢豆腐蓋飯是學生族最經濟的晚餐選擇。

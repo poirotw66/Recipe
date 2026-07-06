@@ -44,6 +44,9 @@ ingredients:
   unit: ''
   isCore: false
 seasonings:
+- name: Cooking oil
+  amount: '1'
+  unit: tbsp
 - name: Oyster sauce
   amount: '2'
   unit: tbsp
@@ -61,18 +64,19 @@ seasonings:
   unit: tbsp
 intro: Slice beef against the grain, marinate with cornstarch, and stir-fry quickly for tender bites.
 steps:
-- "Prep: Cooked rice 1bowl, Beef 150g, Onion 1/4; dice Beef about ½ inch, divide Cooked rice 1bowl into serving bowls."
-- Marinate Beef with Oyster sauce 2tbsp, Soy sauce 1tsp, Rice wine 1tbsp for 10 minutes; dice Onion finely.
-- Heat 1 Tbsp oil in a skillet over medium heat. Stir-fry Onion 2 minutes until slightly tender; Add Beef, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve while hot.
+- Slice 150 g beef against the grain into thin pieces. Marinate with 1 tsp soy sauce, 1 tbsp rice wine, and 1 tsp cornstarch for 10 minutes; julienne 1/4 onion. Spoon 1 bowl cooked rice into a large bowl to keep warm.
+- In a small bowl, mix 2 tbsp oyster sauce with 2 tbsp water to make the sauce.
+- Heat a skillet over medium-high. Add 1 tbsp cooking oil. When hot, stir-fry the onion 1 minute until translucent and fragrant.
+- Spread out the beef and stir-fry over high heat 1–2 minutes until the color changes and about 80% cooked. Transfer out immediately (do not overcook).
+- In the same pan, pour in the oyster sauce mixture. Once boiling, return the beef and stir-fry over high heat 30 seconds until the sauce coats evenly and the beef is fully cooked.
+- Taste and adjust; pour the oyster sauce beef and sauce over the rice and serve.
 storage: Best fresh; beef reheats tough overnight.
 faqs:
 - question: Can I use pork instead?
   answer: Yes—pork loin sliced thin works the same way.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 A takeout-style oyster sauce beef bowl you can make at home in minutes.

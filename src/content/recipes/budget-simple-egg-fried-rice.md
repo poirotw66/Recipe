@@ -61,7 +61,7 @@ faqs:
   answer: "可以，但需放涼或冷藏 30 分鐘，水分較少較不易黏。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-22"
+updatedAt: "2026-07-06"
 ---
 
 省錢蛋炒飯是月底預算緊時最可靠的一餐。
