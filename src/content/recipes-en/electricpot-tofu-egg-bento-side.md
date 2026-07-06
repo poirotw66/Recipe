@@ -43,10 +43,13 @@ tags:
 - Bento side
 intro: Crumbled tofu baked into eggs yields a texture between steamed egg and scramble—great in a box.
 steps:
-- "Prep: Tofu 0.75block, Eggs 2, Scallion 1stalk; rinse rice if using and chop vegetables."
-- Crumble tofu; beat eggs with a pinch of salt and 1 tsp water until foamy; chop scallions.
-- Mix tofu, eggs, soy sauce, and salt in a heatproof bowl.
-- Taste and adjust seasoning; serve while hot.
+- "Press 3/4 block tofu with paper towels for 5 minutes to drain; crack 2 eggs into a bowl; chop 1 scallion into rounds."
+- "Crumble tofu in the bowl with a fork (leave some small lumps for texture); add beaten eggs, 1 tsp soy sauce, and a pinch of salt."
+- "Add 2 Tbsp cold water and whisk until the surface is lightly foamy (steamed egg will be silkier)."
+- "Fold in half the scallions, pour into a heatproof steaming bowl, and cover the rim with vented plastic wrap (2–3 small holes for a smoother surface)."
+- "Add 0.8 cup water to the outer pot, place the steaming bowl in the inner pot, cover, and start steaming."
+- "When the switch pops up, rest 3 more minutes; insert a skewer—the center should be set with no runny egg."
+- "Remove, scatter the remaining scallions on top, and cut or scoop into 2 bento side portions."
 tips:
 - Strain the egg mixture for silkier texture if you like.
 storage: Refrigerate up to 1 day.
@@ -63,7 +66,7 @@ relatedIngredients:
 - 青蔥
 featured: false
 publishedAt: '2026-07-13'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

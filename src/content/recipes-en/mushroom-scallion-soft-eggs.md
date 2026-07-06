@@ -38,14 +38,18 @@ seasonings:
 - name: Soy sauce
   amount: '0.5'
   unit: tsp
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 tags:
 - Mushroom dishes
 - Soft eggs
 intro: Cook mushrooms until they release water and dry again so they bind with the eggs instead of thinning the pan.
 steps:
-- Slice mushrooms; chop scallion. Beat eggs with a pinch of salt and 1 tsp water until lightly frothy; set aside.
-- Dry-pan mushrooms over medium until soft and lightly browned; pinch of salt.
-- Lower heat; pour eggs; gently push to half-set; scatter scallion and soy; remove from heat.
+- Slice 120 g mushrooms; beat 2 eggs with 1 tsp water and a pinch of salt; slice 1 scallion into rounds.
+- "Heat 1 tbsp olive oil in a skillet over medium heat; spread mushrooms in one layer and cook 2–3 minutes until they release water, dry again, and edges lightly brown."
+- "Push mushrooms to one side; pour in eggs; when edges set, gently push into soft curds over about 1 minute."
+- "Fold everything together; drizzle 0.5 tsp soy sauce, taste, and scatter scallions; eggs should stay moist around the mushrooms."
 tips:
 - Another 1 tsp water in the eggs adds silkiness.
 storage: Egg dishes are best fresh; texture falls off if held.
@@ -62,7 +66,7 @@ relatedIngredients:
 - 青蔥
 featured: false
 publishedAt: '2026-06-05'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

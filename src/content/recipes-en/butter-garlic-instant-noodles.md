@@ -53,18 +53,18 @@ seasonings:
   unit: ''
 intro: Drain noodles and stir-fry for more texture than soup alone; butter and garlic carry the flavor.
 steps:
-- Boil noodles to about 80% done; drain and reserve 3 Tbsp cooking water; mince garlic.
-- Melt butter over low heat; cook garlic until golden.
-- Add noodles and reserved water; toss on medium-high about 1 minute.
-- Push noodles aside and fry the egg sunny-side or soft in the same pan if you like.
-- Season with salt and pepper; add a small knob of butter off heat.
+- "Mince 3 garlic cloves. Boil 1 pack instant noodles about 2 minutes until 80% cooked (center still slightly firm); drain and reserve 3 tbsp cooking water."
+- "Melt 15 g butter in a skillet over low heat; cook garlic until golden and fragrant, about 1 minute (watch it does not burn bitter)."
+- "Add noodles and reserved water; toss over medium heat about 1 minute until coated in garlic butter."
+- "Push noodles to one side; crack in 1 egg and fry over low heat until whites set and yolk stays runny if you like."
+- "Taste and adjust with a pinch of salt and black pepper; finish with the remaining 5 g butter off heat."
 storage: Best eaten immediately.
 faqs:
 - question: No butter?
   answer: Olive oil plus a splash of milk works with a milder flavor.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Butter garlic instant noodles are a renter-kitchen rescue when you want comfort fast.

@@ -46,10 +46,13 @@ tags:
 - Chicken
 intro: Layer chicken and mushrooms so they steam without turning mushy—easy to divide into boxes.
 steps:
-- "Prep: Chicken breast 260g, Mushrooms 160g, Onion 0.25; rinse rice if using and chop vegetables."
-- Slice chicken; cut mushrooms into bite cubes; shred onion; mince garlic.
-- Toss ingredients with soy sauce and garlic; transfer to a heatproof container.
-- Taste and adjust seasoning; serve while hot.
+- "Pat dry 260g chicken breast; trim and cut 160g mushrooms into bite-size pieces; shred 1/4 onion into fine strips; mince 2 cloves garlic."
+- "Slice chicken crosswise against the grain into thick pieces; toss with 1.5 tsp soy sauce and minced garlic; rest 10 minutes to marinate."
+- "In a heatproof dish, layer onion strips on the bottom, mushrooms in the middle, and chicken slices flat on top (layering keeps everything from turning mushy)."
+- "Add 1 cup water to the outer pot, place the dish in the inner pot, cover, and start steaming."
+- "When the switch pops up, rest 5 minutes."
+- "Check that chicken is fully cooked (skewer should show no pink juices) and mushrooms are soft but still hold their shape."
+- "Toss gently, season with a pinch of salt to taste, and divide into 2 portions; let cool before refrigerating."
 tips:
 - Rub with 1 tsp oil before steaming for extra tenderness.
 storage: Refrigerate up to 2 days; reheat before eating.
@@ -66,7 +69,7 @@ relatedIngredients:
 - 洋蔥
 featured: false
 publishedAt: '2026-06-22'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - King oyster mushroom
 - Baby corn

@@ -57,17 +57,18 @@ seasonings:
   unit: tsp
 intro: Drain oil from oil-packed tuna for lighter calories; mix while rice is still warm so everything blends.
 steps:
-- "Prep: Cooked rice 1bowl, Canned tuna 1can, Egg 1; dice protein about ½ inch, divide Cooked rice 1bowl into serving bowls."
-- Marinate protein with Mayonnaise 1tbsp, Soy sauce 1tsp, White sesame seeds 1tsp for 10 minutes; prep vegetables as needed.
-- Heat 1 Tbsp oil in a skillet over medium heat. Add protein, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Spoon 1 bowl cooked rice into a large bowl. Drain excess oil from 1 can tuna; flake with a fork into chunks.
+- In a small bowl, mix 1 tbsp mayonnaise with 1 tsp soy sauce; fold in tuna and 1 tsp white sesame seeds until even.
+- Heat a little oil in a skillet over low. Fry 1 egg sunny-side up (whites set, yolk runny) or scramble into soft curds—optional.
+- Spread tuna mixture over the rice and top with the fried egg; add shredded nori or chopped scallions if you like (see custom additions above).
+- Toss while rice is still hot for the best blend; best served fresh.
 storage: Best fresh; filling keeps 1 day refrigerated—reheat before serving.
 faqs:
 - question: No mayonnaise?
   answer: Yogurt or a little olive oil works for a lighter taste.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 A fast, pantry-friendly solo dinner for small kitchens.

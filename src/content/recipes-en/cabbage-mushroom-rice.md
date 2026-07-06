@@ -44,10 +44,13 @@ tags:
 - Home cooking
 intro: Layer sliced cabbage and torn mushrooms over rinsed rice—it is a reliable batch staple.
 steps:
-- "Prep: White rice 2cups, Cabbage 1/4head, Mushrooms 1bowl; rinse rice if using and chop vegetables."
-- Rinse rice and add to the cooker inner pot with slightly less water than usual.
-- Slice cabbage, tear mushrooms, and lay them on the rice with soy sauce.
-- Taste and adjust seasoning; serve while hot.
+- "Rinse 2 cups white rice and drain until the grains look barely damp; shred 1/4 head cabbage into thick strips; tear 1 bowl mushrooms into small pieces and rinse."
+- "Add rice to the inner pot and fill with water to the 2-cup rice line minus about 1/4 mark (cabbage releases water—too much makes mushy rice)."
+- "Spread cabbage and mushrooms evenly over the rice (do not stir yet, or grains may sit under the waterline)."
+- "Drizzle 1.5 Tbsp soy sauce evenly over the top."
+- "Add 1 cup water to the outer pot (amounts vary by brand—start with 1 cup on the first try) and press start."
+- "When the switch pops up, rest 10 minutes, then open and fluff from the bottom upward with a rice paddle (distributes soy sauce and vegetables)."
+- "Season with a pinch of salt to taste; rice should be separate, cabbage translucent and lightly sweet—divide into 3 portions."
 tips:
 - Vegetables release water—reduce liquid so the rice is not mushy.
 storage: Refrigerate up to 2 days; freeze portions up to 1 week.
@@ -63,7 +66,7 @@ relatedIngredients:
 - 菇類
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Shredded pork
 - Shrimp

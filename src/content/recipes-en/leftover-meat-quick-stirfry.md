@@ -60,18 +60,19 @@ seasonings:
   unit: ''
 intro: Slice pork thin for fast cooking; splash soy and wine against the hot pan edge for a concentrated aroma.
 steps:
-- Slice pork thin; shred onion; cut pepper into strips; slice garlic.
-- Heat oil over medium-high; stir-fry garlic and onion until translucent.
-- Add pork; stir-fry 2 minutes until colored and lightly browned.
-- Add pepper; toss 1 minute.
-- Pour soy sauce and rice wine down the side of the pan; toss and serve.
+- Slice 120 g pork against the grain into thin pieces; shred 1/4 onion; seed and cut 1/2 green bell pepper into strips; slice 2 garlic cloves.
+- Toss pork with 1/2 tbsp soy sauce and 1/2 tbsp rice wine; let rest 5 minutes to marinate (reserve the remaining half of each for stir-frying).
+- Heat a skillet over medium-high. Add 1 tbsp olive oil. When hot, stir-fry garlic slices and onion about 1 minute until translucent.
+- Add pork over high heat; stir-fry about 2 minutes until color changes and surfaces are lightly browned (do not overcook or meat will toughen).
+- Add pepper strips over medium heat; toss about 1 minute until still crisp and brightly colored.
+- Drizzle the remaining soy sauce and rice wine down the side of the pan; toss quickly about 30 seconds, taste with a pinch of salt, and serve.
 storage: Best fresh; refrigerate 1 day; reheat over high heat 1 minute.
 faqs:
 - question: No green pepper?
   answer: Bell pepper, celery, or cabbage strips work.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Handy when you want a fresh-tasting main dish in a small kitchen, fast.

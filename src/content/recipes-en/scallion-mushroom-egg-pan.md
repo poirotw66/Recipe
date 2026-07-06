@@ -38,14 +38,19 @@ seasonings:
 - name: Soy sauce
   amount: '0.5'
   unit: tsp
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 tags:
 - Egg dishes
 - Mushroom dishes
 intro: Brown mushrooms first so their aroma carries into the egg layer.
 steps:
-- Slice mushrooms; chop scallion. Beat eggs with a pinch of salt and 1 tsp water until lightly frothy.
-- Medium heat; cook mushrooms until fragrant and lightly colored.
-- Pour eggs and scallion; cook until both sides set; season with salt and soy sauce.
+- Slice 130 g mushrooms; beat 2 eggs with a pinch of salt; slice 1 scallion (reserve half for garnish).
+- "Heat 1 tbsp olive oil in a skillet over medium heat; lay mushrooms flat without stacking; cook 2–3 minutes until one side is golden, then flip."
+- "When mushrooms are lightly browned and fragrant, spread flat; mix scallion into eggs and pour evenly over mushrooms."
+- "Cover and cook over low heat 2 minutes until egg surface sets but center stays slightly soft; or leave uncovered and gently push into a thick omelet."
+- "Drizzle 0.5 tsp soy sauce, fold or cut into pieces, and serve; you should taste scallion aroma and browned mushroom edges."
 tips:
 - Do not overcrowd mushrooms or they steam instead of sear.
 storage: Refrigerate 1 day; reheat in a pan—texture dries slightly.
@@ -62,7 +67,7 @@ relatedIngredients:
 - 青蔥
 featured: false
 publishedAt: '2026-07-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

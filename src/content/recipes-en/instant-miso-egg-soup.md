@@ -50,18 +50,18 @@ seasonings:
   unit: stalk
 intro: Dissolve miso off a rolling boil so aroma and nutrients stay intact.
 steps:
-- "Prep: Tofu 100g, Egg 1; seasonings ready: Miso paste 1.5tbsp, Water 500ml, Scallion 1stalk."
-- Dice tofu; slice scallions; beat egg.
-- Boil water; add tofu; simmer 2 minutes.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Cut 100 g tofu into 1 cm cubes; beat 1 egg; slice 1 scallion into thin rounds.
+- "In a small bowl, whisk 1.5 tbsp miso with 2–3 tbsp warm water into a smooth slurry (prevents clumps in boiling water)."
+- "Pour 500 ml water into a small saucepan; bring to a boil over high heat, then reduce to medium; add tofu and simmer 2 minutes until heated through."
+- "Turn off heat or set to lowest; drizzle egg slowly along the pan edge, rest 10 seconds, then gently swirl into wispy strands (do not stir hard)."
+- "Stir in miso slurry until dissolved; taste for salt; scatter scallions and serve (never boil miso hard)."
 storage: Best fresh; reheat gently without a hard boil so egg stays tender.
 faqs:
 - question: Can I use red miso?
   answer: Yes—it is saltier; start with half and taste.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 A renter-kitchen classic when you want hot soup fast.

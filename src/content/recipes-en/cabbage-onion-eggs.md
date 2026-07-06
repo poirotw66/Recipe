@@ -41,14 +41,19 @@ seasonings:
 - name: Soy sauce
   amount: '1'
   unit: tsp
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 tags:
 - Cabbage
 - Quick stir-fry
 intro: Cook onion until translucent before cabbage; finish with softly scrambled eggs.
 steps:
-- Slice cabbage; shred onion; mince garlic. Beat eggs with a pinch of salt and 1 tsp water until foamy.
-- Heat the pan; stir-fry onion and garlic until fragrant, add cabbage and cook until tender.
-- Pour eggs around the edge of the pan and fold until set; season with salt and soy sauce.
+- Shred 200 g cabbage; slice ½ onion into thin strips; mince 1 garlic clove; beat 2 eggs with 1 tsp water and a pinch of salt.
+- "Heat 1 tbsp olive oil in a skillet over medium heat; sauté garlic 30 seconds until fragrant."
+- "Add onion and cook 2 minutes until slightly translucent; add cabbage and stir-fry over high heat 2 minutes until slightly softened but still crisp."
+- "Push vegetables to one side; pour in eggs; when edges set, gently push into soft curds over about 1 minute."
+- "Fold everything together; drizzle 1 tsp soy sauce and taste; eggs should coat the vegetables with a moist finish."
 tips:
 - Use high heat early so cabbage does not water out; lower heat to set the eggs.
 storage: Refrigerate up to 1 day; reheat with a splash of water.
@@ -65,7 +70,7 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-06-04'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese
