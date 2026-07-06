@@ -53,7 +53,7 @@ steps:
 - Lower to medium-low. Pour in the beaten eggs evenly. When the edges start to set, push from the outside in with a spatula to form soft curds mixed with the tomato (about 1 minute—do not overcook).
 - Raise back to medium heat. Add the rice and gently break up any clumps with the back of the spatula—do not mash. Stir-fry for about 1 minute so the rice absorbs the tomato juices.
 - Add 1 Tbsp ketchup or tomato paste and toss for 1–2 minutes until the grains are evenly colored, moist, and lightly smoky from the pan. Taste and add a pinch more salt if needed.
-- Transfer to a bowl and serve hot. Optional garnish: scallions, diced ham, or shredded cheese.
+- "Transfer to a bowl and serve hot. Optional garnish — scallions, diced ham, or shredded cheese."
 tips:
 - If leftover rice is very hard, sprinkle a little water before it hits the pan.
 - Cook the tomato until it releases juice before adding the eggs—the finished rice stays moist.
