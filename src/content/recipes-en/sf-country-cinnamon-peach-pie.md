@@ -27,10 +27,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Bring cream cheese or chocolate to room temp; preheat oven to 350°F; prepare molds.
-- In a bowl, whisk melted butter, sugar, eggs, and flour (or assemble pie crust and fillings); pour into molds.
-- Bake for 25–30 minutes until the cake/brownie is set but still slightly moist in the center; cool slightly.
-- Arrange on plates, add vanilla ice cream scoops or whipped cream, and drizzle with hot 無鹽奶油 30公克, 細砂糖 2大匙.
+- "Prep: roll out 2 pie crusts to fit the pan; toss diced peaches with 1 tsp cinnamon and 40 g sugar and rest 10 minutes to release juice; beat 1 egg for egg wash."
+- Fit the bottom crust in the pie dish and prick the base evenly with a fork (to prevent puffing); cover with parchment and pie weights (or beans) and blind-bake at 180°C 10 minutes until the edges just set.
+- Remove weights and parchment; spread peach filling with its juices into the crust, mounding slightly above the rim; top with lattice or a full top crust and pinch edges firmly.
+- Brush the crust with egg wash and sprinkle a little extra sugar for shine; wrap pie edges in foil to prevent over-browning.
+- Bake at 180°C 30–35 minutes until the crust is golden and the filling bubbles in the center (a skewer should show no raw starch).
+- Cool on a rack at least 15 minutes so the filling sets before slicing (cutting too early makes the filling run).
+- Slice and serve with 2 scoops vanilla ice cream; set 30 g unsalted butter and 2 Tbsp granulated sugar on the side for dipping.
+- Serve while the pie is still warm and the ice cream cold—the sweet-salty temperature contrast matches Second Floor country pie service.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 肉桂蜜桃派
   amount: "1"

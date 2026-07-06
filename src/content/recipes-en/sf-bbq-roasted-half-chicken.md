@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: clean and dry main meats (half chicken or pork knuckle), rub with sea salt, pepper, and spices; preheat oven to 400°F."
-- Sear meats in a hot skillet to lock in juices, transfer to oven, and roast at 375°F for 30 minutes until fully cooked.
-- Brush generously with remaining 橄欖油 2大匙, 海鹽 1小匙, 黑胡椒碎 1/2小匙, BBQ 醬 2大匙 during the last 5 minutes of roasting; bake sides (corn, wedges) together.
-- Let meats rest for 5 minutes, carve, and arrange on a large platter with sauerkraut and corn.
+- Clean and pat dry half chicken 1/2 pc; rub inside and out with olive oil 2 tbsp, sea salt 1 tsp, and black pepper 1/2 tsp; refrigerate 20 minutes; preheat oven to 200°C.
+- Sear skin-side down in a cast-iron or heavy skillet over high heat until golden to lock juices (about 4 minutes); flip and sear 2 minutes more.
+- Transfer to a roasting pan; bake at 190°C about 25 minutes until juices run clear when pierced at the thickest part of the thigh.
+- During the last 5 minutes, brush BBQ sauce 2 tbsp and add roasted corn 100 g and fries 250 g to heat in the oven.
+- Rest 5 minutes out of the oven so juices redistribute.
+- Carve along the bone and arrange chicken, corn, and fries on a large platter.
+- Drizzle a little more BBQ sauce if desired; serve hot to match Second Floor Cafe BBQ roasted half chicken.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -49,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 半雞
   amount: "1/2"

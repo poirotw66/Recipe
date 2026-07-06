@@ -27,11 +27,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Bring cream cheese or chocolate to room temp; preheat oven to 350°F; prepare molds.
-- In a bowl, whisk melted butter, sugar, eggs, and flour (or assemble pie crust and fillings); pour into molds.
-- Bake for 25–30 minutes until the cake/brownie is set but still slightly moist in the center; cool slightly.
-- Arrange on plates, add vanilla ice cream scoops or whipped cream, and drizzle with hot 無鹽奶油 30公克, 細砂糖 2大匙.
-- Taste and adjust seasoning; serve while hot.
+- Bring 1 portion 4-inch chocolate cake from the fridge to room temperature 15 minutes; soften 80 g cream cheese until it yields to a light press; cut 30 g unsalted butter into small pieces.
+- Beat 80 g cream cheese with 2 Tbsp granulated sugar on low with a spatula or mixer until smooth with no lumps—do not over-whip.
+- Slice the cake horizontally into two layers with a long knife (skip if already single-layer); place the bottom on a plate, spread half the cream cheese frosting, and set the top layer on lightly.
+- Frost the top and sides evenly with the remaining cream cheese frosting, spinning the cake stand to smooth with an offset spatula; dust lightly with cocoa powder or chocolate shavings if desired.
+- Chill 30 minutes so the cream cheese layer sets and flavors meld.
+- Dip a knife in hot water, wipe dry, and cut into 2 equal pieces or wedges; wipe the blade between cuts for clean edges.
+- Plate with small pieces of 30 g unsalted butter and 2 Tbsp granulated sugar on the side for guests to add as they like.
+- "Serve while the cake is slightly cool and the cream cheese layer is creamy—the rich chocolate and cheese contrast matches Second Floor \"strong\" dessert style."
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 4 吋巧克力蛋糕
   amount: "1"

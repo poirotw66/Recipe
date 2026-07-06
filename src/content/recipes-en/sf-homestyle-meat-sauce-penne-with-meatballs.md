@@ -28,10 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Boil pasta in salted water until al dente; drain and reserve 1/2 cup of pasta cooking water.
-- Heat oil in skillet over medium; sauté garlic and onions, then add 牛肉丸 160公克, 番茄乾 40公克, 起司 40公克, 長管麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 肉醬 適量 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
-- Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
+- "Prep: halve beef meatballs 160 g; dice sun-dried tomatoes 40 g; shred cheese 40 g; mince garlic 2 cloves and onion ¼."
+- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook penne 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
+- Heat olive oil 1 Tbsp in a skillet over medium heat; sauté onion and garlic until translucent and sweet, about 2 minutes.
+- Add halved meatballs; sear 1.5–2 minutes per side until browned and heated through; set aside.
+- In the same pan, add meat sauce as needed and diced sun-dried tomatoes; bring to a boil over medium heat, then simmer on low 3–4 minutes until slightly thickened. Add 2–3 Tbsp pasta water to adjust consistency.
+- Raise heat to high; add penne; toss vigorously 1–2 minutes so sauce enters the tube centers.
+- Off heat, fold in half the shredded cheese; return seared meatballs on top.
+- Plate in a deep dish; top with remaining cheese and black pepper; serve hot to match Second Floor Cafe homestyle meat sauce penne with meatballs.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 牛肉丸
   amount: "160"

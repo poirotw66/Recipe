@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 綜合生菜 120公克, 鹽水雞 適量, 山苦瓜 120公克, 火烤玉米 100公克.
-- Sear proteins (chicken, bacon, shrimp, or salmon) in a skillet with salt and pepper until golden; toast croutons.
-- In a large bowl, toss greens with 2/3 of 炸油 600毫升, 海鹽 1/2小匙, 鹽水雞油醋 2大匙, 辣椒粉 1/2小匙, 辣椒碎 1/2小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.
-- Transfer greens to a serving dish, arrange proteins, tomatoes, and croutons on top, then finish with grated parmesan and nuts.
+- Wash, spin-dry, and tear 綜合生菜 120 g; seed and thinly slice 山苦瓜 120 g, blanch 1 minute, shock in ice water to reduce bitterness, and drain.
+- Cut 火烤玉米 100 g into short segments; sear in a lightly oiled skillet about 3 minutes until charred spots appear; finish with a pinch of 海鹽.
+- Remove 鹽水雞 as needed from the refrigerator; shred against the grain into strips, keeping meat moist; warm slightly.
+- In a small bowl, whisk 鹽水雞油醋 2 tbsp, 辣椒粉 1/2 tsp, and 辣椒碎 1/2 tsp into a tangy spicy vinaigrette.
+- Add greens to a salad bowl; pour about 2/3 of the vinaigrette and toss gently so each leaf is lightly coated.
+- Transfer dressed greens to a large platter; mound shredded saltwater chicken in the center with bitter melon and grilled corn in separate zones.
+- Drizzle remaining vinaigrette; add extra 辣椒碎 to taste; serve while chicken is still warm and corn is fragrant with char.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -52,7 +55,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 綜合生菜
   amount: "120"

@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Boil pasta in salted water until al dente; drain and reserve 1/2 cup of pasta cooking water.
-- Heat oil in skillet over medium; sauté garlic and onions, then add 蕈菇 120公克, 生蛋 適量, 義大利麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 巴薩米克 適量, 松子 1/2小匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
-- Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
+- "Prep: slice mushrooms 120 g; crack raw egg 1 into a small bowl; mince garlic 2 cloves; toast pine nuts ½ tsp in a dry pan over low heat until fragrant and set aside."
+- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp (about 1 Tbsp salt per liter of water). Cook spaghetti 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
+- Heat olive oil 1 Tbsp in a skillet over medium heat; sauté minced garlic until lightly golden and fragrant, about 30 seconds.
+- Add mushrooms in a single layer; cook without changing heat until they release moisture, then raise heat to high and cook until edges are lightly charred and deeply fragrant, about 5–6 minutes. Drizzle balsamic vinegar as needed and toss quickly to color the mushrooms.
+- Lower heat; add 3–4 Tbsp pasta water and black pepper ¼ tsp; stir until the sauce slightly thickens.
+- Raise heat to high; add cooked pasta and toasted pine nuts; toss vigorously 1–2 minutes until sauce coats the noodles. During the last 30 seconds off heat, pour raw egg along the pan edge and toss quickly off heat for a silky, creamy finish.
+- Plate in a deep dish; adjust salt to taste and serve hot to match Second Floor Cafe balsamic mushroom pasta.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -49,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 蕈菇
   amount: "120"

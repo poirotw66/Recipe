@@ -28,11 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 漢堡排 180公克, 起司 40公克, 荷包蛋 2顆, 香米 220公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.
-- Heat oil in skillet; sauté aromatics and vegetables, then stir-fry rice quickly over medium-high heat.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 黑胡椒醬 適量, 辣椒碎 1/2小匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).
-- Plate rice, top with main proteins (steak, patty, or egg yolk), and garnish with green onions.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: season both sides of 180 g hamburger patty with 1/3 tsp sea salt and 1/4 tsp cracked black pepper; cube 40 g cheese; have 2 fried eggs ready; steam 220 g jasmine rice and keep warm, fluffing with a spatula."
+- Heat 1 Tbsp olive oil in a skillet over medium; sear patty 3 minutes per side until browned and cooked through (no pink); rest 2 minutes.
+- In the same pan over low heat, fry 2 eggs one at a time until whites set and yolks are half-runny (about 2 minutes each); set aside.
+- Leave pan drippings; add 220 g jasmine rice with black pepper sauce to taste and 1/2 tsp chili flakes; stir-fry over medium heat 2 minutes until grains are evenly coated.
+- Taste and adjust with 1/3 tsp sea salt and 1/4 tsp cracked black pepper; stir until rice is dry with wok aroma and sauce is slightly reduced, then turn off heat.
+- Mound rice in a deep plate; lay 40 g cheese on top to half-melt from residual heat.
+- Top with the patty and 2 fried eggs; drizzle a little more black pepper sauce if desired.
+- Serve hot; break the runny yolks and mix into the rice.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -53,7 +56,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 漢堡排
   amount: "180"

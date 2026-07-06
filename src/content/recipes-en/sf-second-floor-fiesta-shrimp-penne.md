@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Boil pasta in salted water until al dente; drain and reserve 1/2 cup of pasta cooking water.
-- Heat oil in skillet over medium; sauté garlic and onions, then add Taco 調味 適量, 鮮蝦 180公克, 長管麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 奶油醬 適量, 辣椒碎 1/2小匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
-- Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
+- "Prep: peel and devein shrimp 180 g and pat dry; mix taco seasoning as needed with chili flakes ½ tsp into a Mexican spice blend. Mince garlic 2 cloves."
+- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook penne 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
+- Heat olive oil 1 Tbsp in a skillet over medium-high heat; lay shrimp in a single layer, sprinkle taco spice blend, and sear about 1 minute per side until pink, curled, and lightly charred with spice aroma; set aside.
+- Lower heat; sauté minced garlic until fragrant, about 20 seconds.
+- Add cream sauce as needed and 3–4 Tbsp pasta water; stir over low heat until lightly simmering and smooth with a creamy aroma.
+- Raise heat to high; add penne and seared shrimp; toss vigorously 1–2 minutes until cream sauce coats the tube centers.
+- Plate in a deep dish; sprinkle black pepper and a little chili flakes; serve hot to match Second Floor Cafe fiesta shrimp penne.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -51,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Taco 調味
   amount: "適量"

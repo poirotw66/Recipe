@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: clean and dry main meats (half chicken or pork knuckle), rub with sea salt, pepper, and spices; preheat oven to 400°F."
-- Sear meats in a hot skillet to lock in juices, transfer to oven, and roast at 375°F for 30 minutes until fully cooked.
-- Brush generously with remaining 炸油 600毫升, 海鹽 1/2小匙, 黑咖哩醬 2大匙, 莎莎醬 2大匙, 辣椒碎 1/2小匙 during the last 5 minutes of roasting; bake sides (corn, wedges) together.
-- Let meats rest for 5 minutes, carve, and arrange on a large platter with sauerkraut and corn.
+- Cut fried chicken 適量 into bite-size pieces; pat thoroughly dry; massage with sea salt 1/2 tsp and a pinch of black pepper; rest 10 minutes.
+- Coat chicken evenly in a thin layer of crispy fry mix; press lightly and shake off excess.
+- Fill fryer with oil 600 ml; heat to 170°C; fry chicken in batches over medium heat 6–7 minutes until cooked through and set on the outside.
+- Drain on a wire rack and rest 3 minutes.
+- Raise oil to 185°C; second fry 1.5–2 minutes until golden crisp; drain.
+- Mix black curry sauce 2 tbsp with salsa sauce 2 tbsp and chili flakes 1/2 tsp into a dual dip.
+- Plate fried chicken with the black curry salsa sauce on the side for dipping to match Second Floor Cafe share-plate crispness.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -49,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 炸雞
   amount: "適量"

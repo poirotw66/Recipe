@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: organize 海鮮 180公克, 九層塔 10公克, 披薩餅皮 2份 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙)."
-- Cook main proteins and starches over medium-high until properly browned and cooked through.
-- Toast bread or heat side dishes in a skillet to build layers and crispy textures.
-- Drizzle signature sauces (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 金沙醬 適量, 鹹蛋黃醬 2大匙) and arrange ingredients beautifully on a large plate for Salted Egg Seafood Pizza.
+- "Prep: clean seafood mix 180 g (shrimp, squid, etc.) and cut bite-size; pat thoroughly dry; wash basil 10 g; blend salted egg sauce 適量 with salted egg yolk sauce 2 tbsp into a flowing golden base and taste to adjust."
+- Preheat oven to 220°C; brush pizza crusts 2 pc lightly with olive oil 1 tbsp.
+- Heat a little oil in a skillet over medium; spread seafood in a single layer and sear until 70% cooked with light char (shrimp pink, squid curled, about 2 minutes); set aside to avoid overcooking in the oven.
+- Spread the golden sauce evenly on crusts, leaving about 1 cm bare at the edge.
+- Top with seared seafood and basil; season with sea salt 1/3 tsp and black pepper 1/4 tsp.
+- Bake at 220°C for 8–10 minutes until the crust is golden crisp and the sauce bubbles lightly.
+- Rest 2 minutes, slice, and serve hot to match Second Floor Cafe golden flowing seafood pizza.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -48,7 +51,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 海鮮
   amount: "180"

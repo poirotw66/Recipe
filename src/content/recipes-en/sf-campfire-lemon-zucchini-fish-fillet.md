@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: organize 魚菲力 180公克, 櫛瓜 適量, 檸香醬汁 適量 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙)."
-- Cook main proteins and starches over medium-high until properly browned and cooked through.
-- Toast bread or heat side dishes in a skillet to build layers and crispy textures.
-- Drizzle signature sauces (橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙) and arrange ingredients beautifully on a large plate for Campfire Lemon Zucchini Fish Fillet.
+- Pat fish fillet 180 g dry with paper towels; slice zucchini 適量 into 0.5 cm rounds; prepare lemon sauce 適量.
+- Season both sides of fish with sea salt 1/3 tsp and black pepper 1/4 tsp; rest 5 minutes.
+- Heat olive oil 1 tbsp in a skillet over medium until shimmering; sear fish skin-side down (if skin-on) 3 minutes until golden on the bottom.
+- Flip and cook 2–3 minutes until opaque and flakes easily with a fork; set aside and keep warm.
+- In the same pan, sauté zucchini rounds over medium 2 minutes until edges lightly char and still crisp-tender.
+- Turn off heat; squeeze a little lemon juice and fold in lemon sauce 適量 into a warm glaze.
+- Plate fish and zucchini separately; drizzle lemon sauce and serve hot for the Linkou campfire lemon zucchini fish fillet.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -48,7 +51,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 魚菲力
   amount: "180"

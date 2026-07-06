@@ -28,10 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 牛肉排 180公克, 炸魚 適量, 培根 80公克, 薯塊 250公克."
-- Sear patty or cutlet in skillet over medium heat until fully cooked. Melt cheese on top during the last 30 seconds.
-- Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 巴薩米克醬 適量 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.
-- Close the burger (or leave open for sandwich); serve hot with a side of crispy fries.
+- Set out beef patty 180 g, bacon 80 g, fried fish 適量, potato wedges 250 g, and burger buns 2 pc; wash and slice lettuce and tomato and keep dry.
+- Cook bacon 80 g in a skillet over medium until crisp both sides (about 3 minutes); drain on paper towels.
+- Add olive oil 1 tbsp to the same pan and heat until shimmering; season beef both sides with sea salt 1/3 tsp and black pepper 1/4 tsp; lay in pan and sear 3 minutes without moving.
+- Flip beef and cook 2–3 minutes until cooked through (no pink inside); cover 30 seconds at the end to rest juices.
+- Reheat fried fish in an air fryer at 180°C for 4 minutes, or pan-fry with a little oil 2 minutes per side until golden crisp.
+- Toast bun cut sides dry 1–2 minutes until golden; cook wedges per package until golden.
+- Spread balsamic sauce 適量 on the bottom bun; stack lettuce, tomato, beef, bacon, and fried fish; cap and press gently.
+- Halve the burger, plate with hot wedges to match Second Floor Cafe signature double-stack burger.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -52,7 +56,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 牛肉排
   amount: "180"

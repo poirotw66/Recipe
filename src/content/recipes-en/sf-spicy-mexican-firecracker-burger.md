@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 牛肉排 180公克, 起司 40公克, 炸墨西哥辣椒 適量, 薯塊 250公克."
-- Sear patty or cutlet in skillet over medium heat until fully cooked. Melt cheese on top during the last 30 seconds.
-- Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, BBQ 醬 2大匙, 辣椒碎 1/2小匙 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.
-- Close the burger (or leave open for sandwich); serve hot with a side of crispy fries.
+- Set out beef patty 180 g, cheese 40 g, fried jalapeños 適量, potato wedges 250 g, and burger buns 2 pc; wash and slice lettuce and tomato.
+- Heat olive oil 1 tbsp in a skillet over medium until shimmering; season beef with sea salt 1/3 tsp, black pepper 1/4 tsp, and chili flakes 1/2 tsp.
+- Sear beef 3 minutes until the bottom chars; flip and cook 2–3 minutes until done; top with cheese 40 g, cover 30 seconds until slightly melted.
+- Toast bun cut sides in the same pan 1–2 minutes until golden; cook wedges until golden.
+- Spread a little olive oil and BBQ sauce 2 tbsp on the bottom bun; layer lettuce, tomato, and hot beef.
+- Add fried jalapeños 適量; cap with top bun and press gently.
+- Halve the burger, plate with hot wedges while hot to match the Mexican firecracker burger heat.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -52,7 +55,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 牛肉排
   amount: "180"

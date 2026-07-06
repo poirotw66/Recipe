@@ -28,11 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 厚切豬排 220公克, 花椰菜 120公克, 培根 80公克, 起司 40公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.
-- Heat oil in skillet; sauté aromatics and vegetables, then stir-fry rice quickly over medium-high heat.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 曙光醬 適量, 鮮奶油 適量 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).
-- Plate rice, top with main proteins (steak, patty, or egg yolk), and garnish with green onions.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: season both sides of 220 g thick-cut pork chop with 1/3 tsp sea salt and 1/4 tsp cracked black pepper; cut 120 g broccoli into small florets; dice 80 g bacon; shred 40 g cheese; warm 300 ml broth over low heat."
+- Heat 1 Tbsp olive oil in a skillet over medium; sear pork 3–4 minutes per side until golden and cooked through (no pink juices), rest 3 minutes, then slice thick.
+- In the same pan, cook bacon 2 minutes until crisp and fat renders; add broccoli and stir-fry 2 minutes until bright green; set aside with pork.
+- Add a little more oil to the pan; stir-fry 220 g cream rice with Dawn sauce to taste over medium heat 2 minutes until grains are coated and separate (toast the rice).
+- Reduce to medium-low; add about 1/2 ladle hot broth at a time, stirring until almost absorbed before the next addition; keep stirring with a spatula, repeat 4–5 times about 8 minutes until creamy risotto texture.
+- Stir in heavy cream to taste with 1/3 tsp sea salt and 1/4 tsp cracked black pepper; simmer 1 minute until thickened to risotto consistency.
+- Spread cream rice in an ovenproof dish; top with sliced pork, bacon, and broccoli; cover with 40 g shredded cheese.
+- Bake at 200°C 8 minutes until cheese is golden and melted; serve hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -51,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 厚切豬排
   amount: "220"

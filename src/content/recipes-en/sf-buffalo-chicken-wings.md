@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 炸雞翅 8隻 (wings, calamari, or fish); pat dry, season with salt/pepper, and coat lightly in flour.
-- Heat oil to 350°F; deep-fry in batches until golden and cooked through (5-6 min for chicken, 1.5 min for calamari); drain oil.
-- Warm 炸油 600毫升, 海鹽 1/2小匙, 水牛城醬 適量, 藍紋起司醬 2大匙, 辣椒碎 1/2小匙 in a small pan. If making wings, toss fried chicken in a large bowl with the hot sauce until coated.
-- Line plate with paper, arrange fried items, and serve with lemon wedges and dipping sauces on the side.
+- Rinse chicken wings 8 pc; pat thoroughly dry; massage with sea salt 1/2 tsp and a pinch of black pepper; rest 10 minutes.
+- Coat wings evenly in a thin layer of crispy fry mix (or all-purpose flour); press lightly and shake off excess.
+- Fill fryer with oil 600 ml; heat to 170°C; fry wings in batches over medium heat 6 minutes until set and cooked through.
+- Drain on a wire rack and rest 3 minutes to release steam.
+- Raise oil to 185°C; second fry 1.5–2 minutes until golden crisp; drain.
+- Warm buffalo sauce 適量 in a small pan over low heat (do not boil); turn off heat and toss wings quickly to coat.
+- Line a plate with paper towels; arrange wings with blue cheese sauce 2 tbsp and chili flakes 1/2 tsp for dipping; serve hot to share.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -49,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 炸雞翅
   amount: "8"

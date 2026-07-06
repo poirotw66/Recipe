@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: dice 薄餅 適量, 香腸 140公克, 起司 40公克, 莎莎 適量 (chicken, sausage) and onions; warm tortillas and grate cheese."
-- Sauté proteins and onions in a skillet until fully cooked, season with salt and pepper; set aside.
-- Lay tortilla flat, cover half with cheese and fillings, fold in half, and pan-grill over medium-low heat until golden-crisp on both sides.
-- Cut quesadilla into wedges, plate nicely, and serve with 炸油 600毫升, 海鹽 1/2小匙, 酪梨醬 2大匙, 酸奶油 1.5大匙, BBQ 適量 (guacamole, salsa, or sour cream).
+- Slice sausage 140 g thin; dice onion finely; warm tortillas 適量; shred cheese 40 g.
+- Heat a little oil in a skillet over medium; sauté onion 1 minute, add sausage and cook until lightly charred and oily (about 3 minutes); season with sea salt 1/2 tsp; set aside.
+- Heat another skillet over low; lay a tortilla flat and cover half with cheese, sausage-onion filling, and salsa 適量.
+- Fold into a half-moon and press with a spatula.
+- Cook over medium-low 2–3 minutes until the bottom is golden speckled and cheese edges melt.
+- Flip and cook 2–3 minutes more until crisp and cheese is fully melted.
+- Cut into wedges; serve with guacamole 2 tbsp, sour cream 1.5 tbsp, and BBQ 適量 while hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 薄餅
   amount: "適量"

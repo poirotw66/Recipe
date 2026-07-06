@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: clean and dry main meats (half chicken or pork knuckle), rub with sea salt, pepper, and spices; preheat oven to 400°F."
-- Sear meats in a hot skillet to lock in juices, transfer to oven, and roast at 375°F for 30 minutes until fully cooked.
-- Brush generously with remaining 橄欖油 2大匙, 海鹽 1小匙, 黑胡椒碎 1/2小匙 during the last 5 minutes of roasting; bake sides (corn, wedges) together.
-- Let meats rest for 5 minutes, carve, and arrange on a large platter with sauerkraut and corn.
+- Clean and dry German pork knuckle 900 g; score the skin; rub inside and out with olive oil 2 tbsp, sea salt 1 tsp, and black pepper 1/2 tsp; marinate 20 minutes; preheat oven to 200°C.
+- Sear skin-side down in a cast-iron pan over high heat until golden (about 5 minutes); flip and sear 2 minutes more to lock juices.
+- Transfer to a roasting pan; bake at 190°C about 35 minutes until skin blisters crisp and meat is tender.
+- During the last 5 minutes, add roasted corn 100 g and fries 250 g to the oven; brush a little more olive oil if needed for color.
+- Rest out of the oven 5 minutes.
+- Carve along the joints; arrange pork knuckle, corn, fries, and sauerkraut 50 g on a large platter.
+- Serve with mustard 適量 for dipping to match Second Floor Cafe chef crispy pork knuckle.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 德式豬腳
   amount: "900"

@@ -28,11 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 舒肥雞 180公克, 花椰菜飯 120公克, 藜麥 80公克, 火烤玉米 100公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.
-- Heat oil in skillet; sauté aromatics and vegetables, then stir-fry rice quickly over medium-high heat.
-- Pour in 橄欖油 1.5大匙, 海鹽 1/3小匙, 起司醬 2大匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).
-- Plate rice, top with main proteins (steak, patty, or egg yolk), and garnish with green onions.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: slice 180 g sous-vide chicken thick; dice 100 g fire-roasted corn; cook 80 g quinoa per package and drain; heat 120 g cauliflower rice; warm 2 Tbsp cheese sauce."
+- In a salad bowl, layer 120 g cauliflower rice and 80 g quinoa; drizzle 1/2 Tbsp olive oil and a pinch of sea salt and toss for the grain base.
+- Heat 1/2 Tbsp olive oil in a skillet over medium; sear sous-vide chicken 1–2 minutes per side until golden while keeping the center tender; rest 2 minutes and slice on a bias.
+- In the same pan, dry-sear 100 g fire-roasted corn 1 minute until lightly charred for aroma; set aside with chicken (protein finish).
+- Arrange chicken slices and corn over the grains in a fan or layered pattern.
+- Drizzle 2 Tbsp cheese sauce over chicken and grains with the back of a spoon; add remaining 1/2 Tbsp olive oil.
+- Season with 1/3 tsp sea salt and cracked black pepper to taste; keep hot and cool layers distinct.
+- Serve while chicken is warm and grains are gently heated; toss lightly before eating for a balanced plate.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -51,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 舒肥雞
   amount: "180"

@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 魷魚 300公克, 薯條 250公克, 檸檬 1/2顆 (wings, calamari, or fish); pat dry, season with salt/pepper, and coat lightly in flour.
-- Heat oil to 350°F; deep-fry in batches until golden and cooked through (5-6 min for chicken, 1.5 min for calamari); drain oil.
-- Warm 炸油 600毫升, 海鹽 1/2小匙, 雞尾酒醬 2大匙 in a small pan. If making wings, toss fried chicken in a large bowl with the hot sauce until coated.
-- Line plate with paper, arrange fried items, and serve with lemon wedges and dipping sauces on the side.
+- Cut squid 300 g into rings or strips; pat thoroughly dry; lightly season with sea salt 1/2 tsp and a pinch of black pepper; rest 10 minutes.
+- Coat squid evenly in a thin layer of crispy fry mix; shake off excess.
+- Fill fryer with oil 600 ml; heat to 175°C; fry squid in batches 1.5–2 minutes until golden and springy (do not overcook or it toughens).
+- Drain on a wire rack or paper towels.
+- Cook fries 250 g per package until golden; dust lightly with salt.
+- Cut lemon 1/2 into wedges; portion cocktail sauce 2 tbsp into a small dish.
+- Line a large plate with paper towels; arrange crispy squid and fries with lemon wedges and cocktail sauce for dipping.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -49,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 魷魚
   amount: "300"

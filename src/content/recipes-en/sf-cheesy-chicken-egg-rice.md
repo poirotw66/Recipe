@@ -27,11 +27,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 雞肉 180公克, 花椰菜 120公克, 起司 40公克, 奶油飯 220公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.
-- Heat oil in skillet; sauté aromatics and vegetables, then stir-fry rice quickly over medium-high heat.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 曙光醬 適量 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).
-- Plate rice, top with main proteins (steak, patty, or egg yolk), and garnish with green onions.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: dice 180 g chicken; cut 120 g broccoli into small florets; cube 40 g cheese; beat 2 eggs with a pinch of salt; warm 200 ml broth over low heat."
+- Heat 1 Tbsp olive oil in a skillet over medium; stir-fry broccoli 2 minutes until bright green, add chicken and cook 4–5 minutes until fully cooked with no pink; set aside.
+- In the same pan, stir-fry 220 g cream rice with Dawn sauce to taste over medium heat 2 minutes until grains are coated and separated (toast the rice).
+- Reduce to medium-low; add about 1/2 ladle hot broth at a time, stirring until absorbed, repeat 4–5 times about 6 minutes until creamy risotto texture.
+- Return chicken and broccoli; toss with the cream rice; season with 1/3 tsp sea salt and 1/4 tsp cracked black pepper.
+- Push rice aside in the pan; pour in beaten eggs and cook over low heat into soft scrambled eggs about 1 minute, then fold into the rice.
+- Turn off heat and fold in 40 g cheese until half-melted and stringy.
+- "Serve in bowls while warm—the gentle cheese-and-egg flavor suited to a kids' plate."
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 雞肉
   amount: "180"

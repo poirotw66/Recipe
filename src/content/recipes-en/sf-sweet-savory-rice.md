@@ -27,11 +27,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 蜜餞 40公克, 米飯 適量, 台南限定 適量; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.
-- Heat oil in skillet; sauté aromatics and vegetables, then stir-fry rice quickly over medium-high heat.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).
-- Plate rice, top with main proteins (steak, patty, or egg yolk), and garnish with green onions.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: dice 40 g candied fruit; steam rice to taste until fluffy and keep warm, fluffing with a spatula; prepare Tainan specialty to taste per package."
+- Heat 1 Tbsp olive oil in a skillet over low heat; stir candied fruit 1 minute until glossy and fragrant (do not let it burn).
+- Add rice to taste; raise to medium heat and stir-fry 2 minutes until grains are coated with oil and separate (toast the rice).
+- Add 2 Tbsp hot water at a time, stirring until absorbed, repeat 2–3 times about 4 minutes until grains are lightly moist and sticky.
+- Balance sweetness with 1/3 tsp sea salt and 1/4 tsp cracked black pepper; taste and adjust sweet-savory ratio.
+- Fold in Tainan specialty to taste and stir-fry 1 minute to distribute sweet-savory flavor evenly.
+- Turn off heat and toss gently to avoid breaking grains.
+- Serve in bowls while hot—the sweet-salty layers of Second Floor Tainan sweet rice.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -49,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 蜜餞
   amount: "40"
