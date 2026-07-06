@@ -60,18 +60,18 @@ seasonings:
   unit: tsp
 intro: No fixed formula—use whatever vegetables balance the bowl.
 steps:
-- "Prep: Tofu 1/2block, Cabbage 100g, Carrot 1/3; seasonings ready: Water 600ml, Salt pinch, White pepper pinch, Olive oil 1tsp."
-- Cube tofu; chop cabbage; slice carrot thinly.
-- Warm oil over low heat; stir carrot and cabbage 2 minutes.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Cut 1/2 block tofu into 2 cm cubes; slice 100 g leftover cabbage and thinly slice 1/3 carrot (swap in bok choy, mushrooms, or other fridge vegetables).
+- Warm 1 tsp olive oil in a stockpot over low heat; stir-fry carrot and cabbage 2 minutes until slightly soft and fragrant.
+- Pour in 600 ml water; bring to a boil over high heat, then reduce to medium-low, cover, and simmer 8 minutes until vegetables soften.
+- Uncover, add tofu, and simmer 3 minutes more until heated through—stir gently so tofu does not break.
+- Season with a pinch of salt and white pepper; taste before serving.
 storage: Refrigerate up to 2 days; reheat gently so tofu stays tender.
 faqs:
 - question: Only tofu, no vegetables?
   answer: Yes—scallions and white pepper make a simple tofu soup.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Clear tofu vegetable soup is an easy light dinner when you want something warm.

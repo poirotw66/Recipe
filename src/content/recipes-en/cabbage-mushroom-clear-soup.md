@@ -36,6 +36,9 @@ ingredients:
   unit: ml
   isCore: false
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tsp
 - name: Salt
   amount: pinch
   unit: ''
@@ -47,11 +50,12 @@ tags:
 - Vegetable soup
 intro: Sauté onion before simmering for depth without heavy seasoning.
 steps:
-- "Prep: Cabbage 180g, Mushrooms 120g, Onion 0.25, Water 700ml; seasonings ready: Salt pinch, Garlic 1clove."
-- Slice cabbage and mushrooms; shred onion; slice garlic.
-- In the pot with a little oil, cook onion and garlic, then add cabbage and mushrooms.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- Slice cabbage 180 g; slice mushrooms 120 g; shred onion 1/4; slice 1 garlic clove.
+- "Heat 1 tsp olive oil in a stockpot over medium heat; sauté onion and garlic 1 minute until translucent and fragrant."
+- Add cabbage and mushrooms; stir-fry 2 minutes until slightly softened and volume reduces.
+- "Pour in 700 ml water; bring to a boil over high heat, then cover and simmer over medium heat 8 minutes."
+- "Uncover—cabbage should be translucent and tender, mushrooms cooked through; season with a pinch of salt and taste."
+- Serve when broth is clear and vegetables still taste sweet.
 tips:
 - Simmer 2 minutes longer for a slightly richer broth.
 storage: Refrigerate up to 1 day.
@@ -68,7 +72,7 @@ relatedIngredients:
 - 洋蔥
 featured: false
 publishedAt: '2026-07-12'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Fish balls
 - Tofu

@@ -28,10 +28,12 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 酪梨 1顆, 培根 80公克, 水波蛋 2顆."
-- Sear patty or cutlet in skillet over medium heat until fully cooked. Melt cheese on top during the last 30 seconds.
-- Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 巴薩米克 適量 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.
-- Close the burger (or leave open for sandwich); serve hot with a side of crispy fries.
+- "Slice 2 baguette rolls crosswise; butter the cut sides and bake at 180°C / 350°F 5–7 minutes until golden and lightly crisp (or toast both sides in a dry skillet over low heat)."
+- Cut 80 g bacon into small pieces; in a dry skillet over medium-low heat, render 3–4 minutes until fat releases and edges are crisp; blot excess fat with paper towels.
+- Halve and pit 1 avocado, slice the flesh thinly; drizzle a little lemon juice to prevent browning if you like.
+- "Bring a saucepan of water to a boil with 1 tbsp vinegar; reduce to low and stir a gentle whirlpool with a spoon; crack in 2 eggs and poach about 3 minutes until whites set and yolks runny; drain well."
+- On toasted baguette, layer avocado slices and bacon; place 2 poached eggs on top.
+- Drizzle 1 tbsp olive oil, sprinkle 1/3 tsp sea salt and 1/4 tsp cracked black pepper, add balsamic to taste, and serve hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -52,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 歐包
   amount: "2"

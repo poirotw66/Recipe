@@ -55,19 +55,18 @@ seasonings:
   unit: ''
 intro: Scramble eggs halfway first, then fold back in so grains stay coated evenly.
 steps:
-- "Prep: Cooked white rice 1bowl, Eggs 2, Scallion 1stalk; fluff cold rice and beat eggs with a pinch of salt."
-- Fluff rice; beat eggs; slice scallions.
-- Heat oil over medium-high; scramble eggs until half set; remove.
-- Add a little more oil if needed; stir-fry rice until grains separate.
-- Return eggs with salt and white pepper; toss on high about 1 minute.
-- Finish with scallions and serve.
+- Loosen 1 bowl chilled or day-old rice by hand or spatula (cold rice has less moisture and clumps less); beat 2 eggs with a pinch of salt; slice 1 scallion.
+- Heat 1 Tbsp olive oil in a skillet over medium-high; pour in eggs and quickly scramble into soft curds (about 30 seconds, 80% set); set aside.
+- Add 1/2 Tbsp more olive oil to the same pan; add rice and stir-fry over medium 1–2 minutes until grains separate and smell lightly toasted.
+- Return scrambled eggs with a pinch of salt and white pepper; toss on high heat 1 minute so egg coats each grain.
+- Scatter scallions, toss once more, and serve.
 storage: Refrigerate up to 1 day; reheat in a skillet.
 faqs:
 - question: How do I keep grains separate?
   answer: Use cooled or chilled rice, high heat, and avoid too much sauce at once.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Home-style egg fried rice is fragrant, fast, and one of the easiest weeknight wins.

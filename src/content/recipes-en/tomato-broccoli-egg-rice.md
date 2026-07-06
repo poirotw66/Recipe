@@ -35,6 +35,9 @@ seasonings:
 - name: Tomato
   amount: '1'
   unit: ""
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 - name: Salt
   amount: pinch
   unit: ''
@@ -46,11 +49,13 @@ tags:
 - Vegetable mains
 intro: Blanch broccoli florets 1 minute first—keeps color, crunch, and short wok time.
 steps:
-- Dice tomato; cut broccoli small; beat egg with pinch of salt and 1 tsp water until lightly foamy; fluff rice.
-- Scramble egg to half-set; remove. Wok tomato and broccoli until slightly soft.
-- Add rice and egg; toss evenly; finish with salt and soy sauce.
-- Taste and adjust seasoning; serve while hot.
-- Taste and adjust seasoning; serve while hot.
+- "If using chilled rice, break up 1 bowl with your hands; cut broccoli 80 g into small florets; dice 1 tomato; beat 1 egg with a pinch of salt."
+- Microwave broccoli florets 1 minute or blanch 30 seconds until half tender; drain and set aside.
+- "Heat 1 tbsp olive oil in a skillet over medium heat; stir-fry tomato 1–2 minutes until slightly soft and juicy."
+- Add broccoli and stir-fry 1 minute until brighter green.
+- "Push vegetables to the side, pour in eggs; quickly scramble into half-set soft curds (about 30 seconds); set aside."
+- "Add 1 tsp olive oil to the same pan; add rice and stir-fry over high heat 2–3 minutes until grains separate and lightly toast."
+- "Return eggs and vegetables; drizzle with 1 tsp soy sauce and stir-fry over high heat 1 minute until evenly mixed; rice should be dry with half-set egg curds."
 tips:
 - Let tomato release juice briefly so rice stays dry.
 storage: Eat fresh; leftovers 1 day refrigerated.
@@ -67,7 +72,7 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-06-14'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

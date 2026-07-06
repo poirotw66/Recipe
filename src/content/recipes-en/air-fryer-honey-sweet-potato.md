@@ -57,7 +57,7 @@ faqs:
   answer: Yes?�soak cubes in cold water to remove starch, then add 2?? minutes air-fry time.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Fragrant and filling as a light solo dinner starch.

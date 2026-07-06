@@ -59,14 +59,15 @@ seasonings:
   unit: tsp
 intro: Cold-smoked salmon stays raw; only the eggs get heat. Keep salmon in neat slices for the plate.
 steps:
-- Rest smoked salmon from the fridge 5 minutes; slice tomato; beat eggs with a pinch of salt and pepper.
-- Skillet on low with olive oil; pour in eggs and push gently into soft curds; remove at about 70% set.
-- Layer eggs on a plate, top with smoked salmon, tomato, and bread if using.
-- Finish with lemon juice and pepper; yogurt or sourdough on the side optional.
+- Rest 80 g smoked salmon from the fridge 5 minutes, keeping slices intact; slice 1/2 tomato and set aside.
+- Beat 2 eggs with a pinch each of salt and pepper.
+- "Skillet on low with 1 tbsp olive oil; pour in eggs and push gently from the edges toward the center, scrambling 1–2 minutes until about 70% set (surface still slightly moist), then remove from heat."
+- Layer scrambled eggs on a large plate, top with smoked salmon slices, and arrange tomato alongside; toast bread soft if using and add to the plate.
+- Finish with 1 tsp lemon juice and a little black pepper; serve right away for the best flavor.
 storage: Eat the same day; use opened salmon promptly.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Barely any stove time—ideal for rushed mornings.

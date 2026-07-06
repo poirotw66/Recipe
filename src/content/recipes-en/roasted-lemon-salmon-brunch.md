@@ -63,16 +63,17 @@ seasonings:
   unit: clove
 intro: Stop before the center dries out; roasting veg on the same pan saves time.
 steps:
-- "Prep: Salmon 150g, Broccoli 100g, Onion 1/4; pat Salmon dry and rub with Olive oil 2Tbsp, Lemon juice 1Tbsp, Salt pinch, Black pepper pinch, Garlic 1clove."
-- Preheat oven to 200°C. Pat salmon dry; cut broccoli and onion into chunks.
-- Toss vegetables on a lined tray with 1 Tbsp oil, salt, and pepper; roast 8 minutes.
-- Brush salmon with remaining oil; salt, pepper, and minced garlic; place on vegetables; drizzle lemon juice.
-- Roast 8–10 minutes until edges color and fish flakes but center stays moist.
-- Taste and adjust seasoning; serve while hot.
+- Pat 150 g salmon dry on both sides; cut 100 g broccoli into small florets; cut 1/4 onion into chunks; mince 1 garlic clove.
+- In a small bowl, mix 2 Tbsp olive oil, 1 Tbsp lemon juice, a pinch of salt, a pinch of pepper, and minced garlic; divide into two portions.
+- Preheat oven to 200°C; line a baking sheet; toss vegetables with half the seasoned oil, spread flat, and roast 8 minutes.
+- Brush salmon on both sides with the remaining oil; place on roasted vegetables and drizzle a little more lemon juice.
+- Roast 8–10 minutes more until edges color and fish flakes easily but the center stays moist—overcooking dries it out.
+- Rest 2 minutes so juices settle, then plate.
+- Squeeze a little more lemon over the top before serving if you like.
 storage: Eat within 1 day; reheat covered with foil to avoid drying.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Bright and rich—a healthier brunch centerpiece.

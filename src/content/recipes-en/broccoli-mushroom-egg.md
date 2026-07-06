@@ -33,6 +33,9 @@ ingredients:
   unit: ''
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 - name: Salt
   amount: 1/4
   unit: tsp
@@ -44,11 +47,12 @@ tags:
 - High fiber
 intro: Par-cook broccoli in the microwave or a quick blanch before stir-frying for even texture.
 steps:
-- "Prep: Broccoli 1bowl, Mushrooms 1bowl, Eggs 2; mix Salt 1/4tsp, Black pepper pinch in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Cut broccoli into small florets; microwave 1 minute or blanch until half tender.
-- Heat oil in a skillet over medium. Stir-fry mushrooms until they release moisture, add broccoli, and toss.
-- Pour in beaten eggs and scramble into soft curds; season with salt and pepper.
+- "Cut broccoli 1 bowl into small florets; slice mushrooms 1 bowl; beat 2 eggs. Mix 1/4 tsp salt and a pinch of black pepper in a small bowl."
+- Microwave broccoli florets 1 minute or blanch 30 seconds until half tender; drain and set aside.
+- "Heat 1 tbsp olive oil in a skillet over medium heat; stir-fry mushrooms 2 minutes until they release moisture, soften slightly, and edges curl."
+- Add broccoli and toss 1 minute until brighter green; stems should stay crisp.
+- "Push vegetables to the side, pour in beaten eggs; when the bottom half-sets, gently push into soft curds with a spatula (about 1 minute)."
+- "Toss everything together; season with salt and black pepper. Serve when eggs are half-set and still moist."
 tips:
 - Do not overcook broccoli—keep a little snap.
 storage: Refrigerate up to 1 day; good for next-day lunch.
@@ -64,7 +68,7 @@ relatedIngredients:
 - 雞蛋
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Diced ham
 - Shredded cheese

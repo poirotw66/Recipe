@@ -59,14 +59,15 @@ seasonings:
   unit: ""
 intro: Bacon renders its own fat—go easy on extra oil; watch garlic and chili so they do not burn.
 steps:
-- Cook pasta al dente; reserve 1/2 cup pasta water; cut bacon small and garlic thin.
-- Cold skillet, bacon over medium-low until crisp; remove bacon, leave fat in pan.
-- Garlic and chili over low until fragrant; add 3 tbsp pasta water and boil.
-- Toss pasta and bacon over high about 1 minute to coat; season with salt and pepper.
+- "Bring a large pot of water to a rolling boil with a pinch of salt; cook 80 g pasta 8–10 minutes per package until al dente (slightly firm to the bite); drain, reserving 1/2 cup pasta water. Cut 60 g bacon into small pieces and slice 4 garlic cloves thin."
+- "Start bacon in a cold skillet; over medium-low heat, render 3–4 minutes until fat releases and edges are crisp; remove bacon, leaving fat in the pan."
+- "Add garlic and 1/2 tsp dried chili flakes; cook over low heat until fragrant (about 30 seconds—do not burn), then pour in 3 tbsp pasta water and 1 tbsp olive oil and bring to a boil."
+- Add pasta and bacon; toss over high heat about 1 minute until the noodles coat in the garlicky chili oil.
+- "Taste and season with a pinch of salt and pepper (bacon is salty—go easy on salt); serve hot right away."
 storage: Best eaten immediately.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Salty and punchy—when you want pasta with attitude.

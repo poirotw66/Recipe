@@ -61,19 +61,20 @@ seasonings:
   unit: tsp
 intro: Pound thin, marinate, then air-fry—easier than deep-frying in a small kitchen.
 steps:
-- Pound pork chop to about 1 cm thick; score tough membranes; pat dry.
-- Mince garlic (3 cloves); mix with soy sauce (1 tbsp), rice wine (1 tbsp), salt, black pepper, and olive oil (1 tsp). Coat both sides and marinate 10 minutes.
-- While marinating, shred cabbage (80 g), massage with a pinch of salt for 3 minutes, rinse, squeeze dry, and set aside.
-- Preheat air fryer to 190°C for 3 minutes. Place chop in a single layer without folding.
-- Air-fry at 190°C for 8 minutes, flip, then 6 more until golden; thickest part should show no bloody juices.
-- Rest chop 2 minutes, slice, and serve with shredded cabbage.
+- Pound pork loin chop to about 1 cm thick with a meat mallet or the back of a knife; score tough membranes; pat surface dry with paper towels.
+- Mince garlic (3 cloves); mix with soy sauce (1 tbsp), rice wine (1 tbsp), salt, black pepper, and olive oil (1 tsp) into a marinade. Rub both sides of the chop and marinate 10 minutes.
+- While marinating, shred cabbage (80 g), massage with a pinch of salt for 3 minutes, rinse off salt, squeeze dry, and set aside.
+- Preheat air fryer to 190°C for 3 minutes.
+- Place chop in the basket in a single layer—do not fold or stack. Air-fry at 190°C for 8 minutes; open, flip, then air-fry 6 minutes more until golden.
+- Pierce the thickest part with a knife tip—no bloody juices and meat juices should look slightly clear when fully cooked. Rest chop 2 minutes to reabsorb juices.
+- Slice and plate with shredded cabbage; serve hot.
 storage: Best fresh; refrigerate up to 1 day; reheat at 160°C for 3 minutes.
 faqs:
 - question: No air fryer?
   answer: Pan-sear with little oil, about 3–4 minutes per side—similar but needs more attention.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 A reliable one-person main from the air fryer.

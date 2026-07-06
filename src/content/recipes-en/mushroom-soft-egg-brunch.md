@@ -58,14 +58,15 @@ seasonings:
   unit: ''
 intro: Sauté mushrooms until water evaporates and edges color; finish eggs off heat for the softest curds.
 steps:
-- Slice mushrooms; chop scallion. Beat eggs with a pinch of salt.
-- Heat butter and oil over medium-high; cook mushrooms until dry and lightly golden at the edges.
-- Push mushrooms aside; pour in eggs; low heat, slow folds to half-set.
-- Off heat, finish to your preferred creaminess; scallion and pepper on top.
+- "Slice mushrooms 120 g; chop scallion 1 stalk; beat 2 eggs with a pinch of salt and black pepper."
+- "Heat 1 tbsp butter and 1 tsp olive oil in a skillet over medium-high until butter melts and small bubbles appear."
+- "Add mushrooms; cook until they release moisture, then reduce to medium and dry 3–4 minutes until edges are lightly golden and fragrant."
+- "Push mushrooms to the side, pour in eggs; over low heat slowly push into half-set curds (about 1–2 minutes)."
+- "Off heat, finish with residual warmth until eggs are silky, not fully set; top with scallion and black pepper."
 storage: Best fresh; eggs toughen overnight.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Easy ingredients and one of the friendliest lacto-ovo brunch plates on the menu.

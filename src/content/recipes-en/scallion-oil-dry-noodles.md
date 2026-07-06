@@ -50,18 +50,18 @@ seasonings:
   unit: tsp
 intro: Low heat until scallions turn golden—high heat burns them bitter.
 steps:
-- Separate scallion whites and greens; mix soy sauce and sugar.
-- Saucepan with 2 Tbsp oil; low heat fry whites until pale gold; add greens until golden; set scallion oil aside.
-- Boil noodles until springy; drain, keep 2 Tbsp cooking water.
-- Toss noodles with sauce, 1 Tbsp scallion oil, and cooking water.
-- Plate; drizzle remaining scallion oil; add blanched greens or braised egg if you like.
+- Separate whites and greens from 3 scallions; whisk 2 tbsp soy sauce and 1/2 tsp sugar in a small bowl into a sauce.
+- "In a small saucepan over low heat, add 2 tbsp olive oil; fry scallion whites until pale yellow (about 2 minutes), then add greens until golden; set aside, reserving 1 tbsp scallion oil."
+- "Bring a large pot of water to a rolling boil; cook 1 serving oil noodles 2–3 minutes per package until springy; drain, reserving 2 tbsp noodle cooking water."
+- Toss noodles with the sauce, 1 tbsp scallion oil, and cooking water until every strand is coated.
+- Plate, drizzle remaining scallion oil, and serve hot; blanched greens or a braised egg are nice on the side.
 storage: Best fresh; next day add hot water when reheating.
 faqs:
 - question: Skip sugar?
   answer: Optional—a little balances soy saltiness like street noodles.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 One of the most familiar fast dinners in a Taiwanese small kitchen.

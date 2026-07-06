@@ -55,19 +55,20 @@ seasonings:
   unit: ''
 intro: Shimeji, shiitake, and king oyster all work; halve large caps, leave small ones whole.
 steps:
-- Wipe mushrooms (200 g) with a damp cloth or paper towels—avoid rinsing if possible. Halve or thick-slice large caps; leave small clusters whole; pat all surfaces dry.
-- Mince garlic (4 cloves). In a bowl, mix olive oil (1.5 tbsp), soy sauce (1 tsp), salt, and black pepper into a garlic oil.
-- Toss mushrooms thoroughly; rest 3 minutes to absorb flavor.
-- Preheat air fryer to 180°C for 3 minutes. Spread in one layer without stacking.
-- Air-fry at 180°C for 6 minutes; open and toss or flip.
-- Air-fry 5 minutes more until edges are lightly charred and mushrooms are slightly shrunk but still juicy. Garnish with scallion or shichimi if desired.
+- Wipe mushrooms (200 g) with a damp cloth or paper towels—avoid rinsing if possible. Halve or thick-slice large shiitake and king oyster caps; leave small shimeji clusters whole; pat all surfaces thoroughly dry.
+- Mince garlic (4 cloves). In a large bowl, mix olive oil (1.5 tbsp), soy sauce (1 tsp), salt, and black pepper into a garlic oil.
+- Toss mushrooms thoroughly with the seasoned oil; rest 3 minutes so flavor soaks in.
+- Preheat air fryer to 180°C for 3 minutes.
+- Spread mushrooms in the basket in one layer without stacking so each piece gets hot air.
+- Air-fry at 180°C for 6 minutes; open and toss or flip once.
+- Air-fry 5 minutes more until edges are lightly charred and mushrooms are slightly shrunk but still juicy; a chopstick should pierce the stem easily. Garnish with scallion or shichimi if desired and serve hot.
 storage: Refrigerate up to 1 day; reheat at 160°C for 3 minutes.
 faqs:
 - question: Only one mushroom type?
   answer: Yes—this method works for a single variety too.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Low fuss, big aroma—a renter-friendly side from the air fryer.

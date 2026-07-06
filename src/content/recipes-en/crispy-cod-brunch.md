@@ -65,15 +65,17 @@ seasonings:
   unit: ''
 intro: Pat cod completely dry before breading; medium-high oil keeps the crust crisp.
 steps:
-- Pat cod dry; season both sides. Beat egg; spread flour on a plate.
-- Dredge fish in flour, egg, then flour again; shake off excess.
-- Heat about 1/2 cm oil to roughly 170°C (bubbles around a chopstick); fry each side about 3 minutes until golden.
-- Drain on a rack 2 minutes. Dice tomato; mix with yogurt, lemon juice, and a pinch of salt for sauce.
-- Plate fish with sauce, lemon wedges, and lettuce or tomato slices if you like.
+- Pat cod fillet completely dry on both sides; season lightly with salt and pepper; beat 1 egg and spread 3 Tbsp flour on a shallow plate.
+- Dice 1/2 tomato; mix 2 Tbsp yogurt with 1 Tbsp lemon juice and a pinch of salt into tartar-style sauce; chill until needed.
+- Dredge fish in flour, egg, then flour again; pat off excess so the coating stays thin and even.
+- Pour about 0.5 cm olive oil into a skillet; heat over medium to roughly 170°C (small bubbles around a chopstick).
+- Place fish in the pan; fry one side 3 minutes until golden without flipping often; flip and fry 3 more minutes until the other side is golden and the center is opaque and flakes easily with a fork.
+- Transfer to a rack and drain 2 minutes so the crust stays crisp.
+- Plate the fish with tartar sauce and lemon wedges.
 storage: Best eaten immediately; crust softens when chilled.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Crispy cod brunch is for days when you want a café-style plate without leaving home.

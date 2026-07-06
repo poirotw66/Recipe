@@ -38,16 +38,21 @@ seasonings:
 - name: Salt
   amount: pinch
   unit: ''
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
 tags:
 - Air fryer
 - Tofu main
 intro: Press tofu dry before seasoning and air-frying so the surface can turn crisp and golden.
 steps:
-- Cut firm tofu into ~2 cm cubes; press between towels with a weight 5??0 minutes, then pat dry. Wipe mushrooms (160 g) and tear into bite pieces; mince garlic (2 cloves).
-- Toss tofu, mushrooms, garlic, soy sauce (1.5 tsp), and a pinch of salt; rest 5 minutes.
-- Preheat air fryer to 190°C for 3 minutes. Spread in one layer.
-- Air-fry at 190°C for 7 minutes; open and toss once.
-- Air-fry 5?? minutes more until tofu is golden and mushrooms are slightly shrunk but still juicy; adjust salt if needed.
+- Cut firm tofu (1 block) into about 2 cm cubes; stack with paper towels underneath and a weight on top for 5–10 minutes to press out water, then pat dry. Wipe mushrooms (160 g) clean and tear into bite-size pieces; mince garlic (2 cloves).
+- In a large bowl, toss tofu, mushrooms, garlic, soy sauce (1.5 tsp), olive oil (1 tbsp), and a pinch of salt; rest 5 minutes so seasoning soaks in.
+- Preheat air fryer to 190°C for 3 minutes.
+- Spread ingredients in the basket in one layer as much as possible so tofu and mushrooms both contact hot air.
+- Air-fry at 190°C for 7 minutes; open and toss once to prevent sticking on the bottom.
+- Air-fry 5–7 minutes more until tofu is golden and mushrooms are slightly shrunk but still juicy.
+- Press tofu lightly—it should be crisp outside and tender inside. Adjust salt to taste and serve hot.
 tips:
 - Wet tofu browns poorly?�drying is the key step.
 storage: Refrigerate 1 day; re-crisp in air fryer 3 minutes.
@@ -64,7 +69,7 @@ relatedIngredients:
 - ?�頭
 featured: false
 publishedAt: '2026-06-19'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Shredded pork
 - Shrimp

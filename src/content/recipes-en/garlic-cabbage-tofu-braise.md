@@ -32,6 +32,9 @@ ingredients:
   unit: cloves
   isCore: true
 seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tsp
 - name: Soy sauce
   amount: '1.5'
   unit: tsp
@@ -43,11 +46,12 @@ tags:
 - Tofu home cooking
 intro: Simmering is forgiving; tofu soaks up cabbage sweetness and eats well on its own.
 steps:
-- "Prep: Cabbage 220g, Tofu 1block, Garlic 3cloves; mix Soy sauce 1.5tsp, Salt pinch in a small bowl if using."
-- Heat 1 Tbsp oil in a skillet over medium until shimmering, then add ingredients.
-- Cut cabbage into chunks; slice garlic; cut tofu into large cubes.
-- Warm a little oil over medium; sauté garlic until fragrant, add cabbage and stir 2 minutes.
-- Add tofu and about 250 ml water; simmer on low 8 minutes; finish with soy sauce and salt.
+- Slice cabbage 220 g; cube tofu 1 block; mince 3 garlic cloves. Have 1.5 tsp soy sauce and a pinch of salt ready.
+- "Heat 1 tsp olive oil in a stockpot over medium heat; sauté garlic 30 seconds until fragrant."
+- Add cabbage and stir-fry 2 minutes until slightly softened and edges turn translucent.
+- "Add tofu, drizzle with soy sauce and 2 tbsp water; bring to a boil over high heat."
+- "Cover and simmer over low heat 8–10 minutes until cabbage releases sweetness and tofu absorbs flavor."
+- "Uncover and reduce over medium heat 1–2 minutes; season with salt. Cabbage should be soft but not mushy; tofu intact."
 tips:
 - Pan-fry tofu first for a firmer bite.
 storage: Refrigerate up to 1 day; reheat gently so tofu does not break.
@@ -64,7 +68,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-06'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 customAdditions:
 - Shredded pork
 - Shrimp
