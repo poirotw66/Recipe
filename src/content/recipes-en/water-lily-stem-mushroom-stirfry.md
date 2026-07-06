@@ -24,11 +24,13 @@ tags:
 - Lighter meals
 intro: Cook mushrooms partway first, then water dropwort—both stay snappy.
 steps:
-- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Hot oil; mushrooms until they start to release moisture.
-- Water dropwort and garlic over high 1 minute.
-- Salt and white pepper; serve.
-- Taste and adjust seasoning; serve immediately while hot.
+- Rinse 180 g water dropwort and cut into about 5 cm lengths; drain well. Slice or tear 100 g mushrooms into thin pieces. Peel and mince 2 garlic cloves.
+- Heat a skillet over medium. Add 1 tbsp olive oil. When hot, lay mushrooms in a single layer.
+- Cook mushrooms over medium about 2 minutes until they release a little moisture and edges soften slightly.
+- Add minced garlic; over high heat, sauté about 20 seconds until fragrant.
+- Add water dropwort; stir-fry over high heat 1 minute, tossing so both ingredients heat evenly.
+- Add 1/4 tsp salt and a pinch of white pepper; toss quickly.
+- Taste and serve immediately.
 tips:
 - King oyster or shimeji mushrooms work well.
 storage: Refrigerate 1 day; microwave softens texture.
@@ -43,7 +45,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Water dropwort
   amount: "180"

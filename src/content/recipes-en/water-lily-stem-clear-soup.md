@@ -24,11 +24,13 @@ tags:
 - Lighter meals
 intro: Little oil and seasoning—flavor from water dropwort and tofu themselves.
 steps:
-- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Pot with water and ginger; boil; tofu 2 minutes.
-- Add water dropwort 1–2 minutes until crisp-tender.
-- Salt and white pepper to taste.
-- Taste and adjust seasoning; serve immediately while hot.
+- Rinse 150 g water dropwort and cut into about 5 cm lengths. Cut 100 g tofu into 2 cm cubes. Rinse 2 ginger slices and set aside.
+- Pour 600 ml water into a pot and bring to a rolling boil over high heat.
+- Add 2 ginger slices; simmer over medium-low 1 minute to release aroma.
+- Add tofu cubes; cook 2 minutes until heated through.
+- Add water dropwort; boil over high heat 1–2 minutes until bright green and still crisp.
+- Lower heat; add 1/4 tsp salt and a pinch of white pepper; stir gently to combine.
+- Taste and ladle into a bowl. For extra aroma, drizzle a few drops of sesame oil before serving.
 tips:
 - Few drops of sesame oil at the end optional.
 storage: Eat fresh; greens soften overnight.
@@ -44,7 +46,7 @@ customAdditions:
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Water dropwort
   amount: "150"

@@ -24,11 +24,12 @@ tags:
 - Seafood
 intro: Cook shrimp first, stir-fry greens, then combine—shrimp stay plump.
 steps:
-- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Hot oil; shrimp until pink; set aside.
-- Same pan; garlic; water dropwort over high 1 minute.
-- Return shrimp; salt and white pepper; toss.
-- Taste and adjust seasoning; serve immediately while hot.
+- Rinse water dropwort (180 g) under running water, rub off root mud, trim tough stems, cut into about 2-inch pieces, and drain well.
+- Rinse shrimp (120 g), pat dry with paper towels, toss lightly with rice wine (1 tsp) to remove fishiness. Peel garlic (2 cloves) and mince.
+- Set salt (1/4 tsp) and a pinch of white pepper nearby for quick seasoning at the end.
+- Heat a skillet over medium-high, add olive oil (1 tbsp), spread shrimp in a single layer, and cook over medium until pink on both sides; transfer out.
+- Add a little more oil if needed, sizzle garlic about 10 seconds, then stir-fry water dropwort over high heat about 1 minute.
+- Return shrimp, sprinkle salt and white pepper, and toss over high heat about 30 seconds until evenly seasoned; serve.
 tips:
 - Brief rice wine on shrimp reduces fishiness.
 storage: Same day; shrimp firmness drops overnight.
@@ -43,7 +44,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Water dropwort
   amount: "180"

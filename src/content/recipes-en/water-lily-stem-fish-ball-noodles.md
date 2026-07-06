@@ -24,11 +24,13 @@ tags:
 - Late night
 intro: Cook fish balls and noodles first; water dropwort last for balanced crunch and broth.
 steps:
-- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Add noodles; cook to chewy per package.
-- Water dropwort 1 minute; salt and white pepper.
-- Chop scallion; scatter before serving.
-- Taste and adjust seasoning; serve immediately while hot.
+- Rinse 120 g water dropwort and cut into about 5 cm lengths. Rinse 1 scallion and chop into thin rounds; set aside.
+- Pour 700 ml water into a pot and bring to a rolling boil over high heat.
+- Add 6 fish balls; simmer over medium until they all float (about 3–4 minutes).
+- Add 1 serving noodles; cook per package until chewy (usually 3–5 minutes).
+- Add water dropwort; cook 1 minute until bright green and still crisp.
+- Season with 1/2 tsp salt and a pinch of white pepper; stir gently to combine.
+- Off heat, scatter scallion; ladle into a bowl and serve.
 tips:
 - Ginger slices or a little soy deepens the broth.
 storage: Eat fresh; noodles swell overnight.
@@ -45,7 +47,7 @@ customAdditions:
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Water dropwort
   amount: "120"

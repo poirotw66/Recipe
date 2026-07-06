@@ -22,11 +22,12 @@ tags:
 - Comfort
 intro: Marinate pork slices with rice wine and salt before the broth boils for a tender bite.
 steps:
-- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Pot with water and ginger; boil; add pork, stir until color changes.
-- Water dropwort 1–2 minutes until crisp-tender.
-- Salt to taste; serve.
-- Taste and adjust seasoning; serve immediately while hot.
+- Rinse water dropwort (150 g) under running water, rub off root mud, trim tough stems, cut into about 2-inch pieces, and drain well.
+- Slice pork (100 g) thin across the grain, toss with rice wine (1 tbsp) and a pinch of salt for 5 minutes. Rinse ginger (3 slices) and set aside.
+- Pour water (600 ml) into a pot, add ginger, and bring to a rolling boil over high heat.
+- Add pork slices and separate with chopsticks; simmer over medium heat about 1–2 minutes until no longer pink.
+- Add water dropwort and cook 1–2 minutes until deep green and still crisp-tender, then turn off the heat.
+- Season with salt (1/2 tsp), taste and adjust, and serve piping hot.
 tips:
 - Do not overcook greens—crisp is best.
 storage: Same day; reheating softens greens.
@@ -41,7 +42,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Water dropwort
   amount: "150"

@@ -53,18 +53,20 @@ seasonings:
   unit: tsp
 intro: Zucchini goes in last—it releases water; chicken strips need a fast sear.
 steps:
-- Cut chicken into strips; salt and pepper; zucchini half-moons; slice garlic.
-- Medium-high oil; chicken about 4 minutes until color changes; remove.
-- Same pan; garlic; zucchini 2 minutes over high.
-- Return chicken; toss 1 minute over high.
-- Serve alone or with salad.
+- Cut 180 g chicken breast against the grain into about 1 cm wide strips; massage with a pinch of salt and black pepper and let marinate 2 minutes.
+- Rinse 1 zucchini, halve lengthwise, scrape out seeds if you like (optional), then cut into about 0.5 cm half-moons; slice 2 garlic cloves.
+- Heat a skillet over medium-high with 1 tsp olive oil; when ripples appear in the oil, you are ready to cook (less oil for a lighter version—a hot pan prevents sticking).
+- Spread chicken strips in a single layer and stir-fry over high heat 3–4 minutes until color changes on the outside and centers stay slightly tender; transfer to a plate.
+- In the same pan, add a little oil if needed and sauté garlic slices about 15 seconds until lightly golden.
+- Add zucchini and stir-fry over high heat 2 minutes until edges soften slightly but still crisp; some water release is normal.
+- Return chicken and toss over high heat 1 minute to bring juices back; taste, plate, and serve as a main or with salad.
 storage: Refrigerate 1 day; microwave about 1 minute to reheat.
 faqs:
 - question: No zucchini?
   answer: Cucumber, bell pepper, or broccoli florets substitute.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 One of the cleaner mains when you are keeping portions light.

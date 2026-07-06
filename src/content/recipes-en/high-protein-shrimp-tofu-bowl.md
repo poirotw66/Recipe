@@ -55,18 +55,20 @@ seasonings:
   unit: ''
 intro: Both shrimp and tofu need high heat and short time—too long toughens shrimp or breaks tofu.
 steps:
-- Devein and pat shrimp dry; cube tofu and pat dry; mince garlic.
-- Heat oil; pan-fry tofu until golden on both sides. Set aside.
-- Sauté garlic; add shrimp and stir-fry 2 minutes until pink.
-- Return tofu; add soy sauce and white pepper; fold gently 30 seconds.
-- Plate; add rice or sides from custom additions if desired.
+- Devein 150 g shrimp one by one, rinse under running water, and pat completely dry with paper towels (moisture lowers pan heat and makes shrimp watery and tough). Cut 1/2 pack tofu into about 2 cm cubes and press between paper towels top and bottom to absorb surface moisture. Mince 2 garlic cloves and set aside.
+- Heat a skillet over medium-high and add 1 tsp olive oil; when hot, lay tofu cubes in a single layer and do not flip yet.
+- Sear about 2 minutes per side until golden and slightly firm on the outside; transfer gently to a plate and set aside (the drier the tofu, the less likely it breaks).
+- If the pan looks dry, add a little more oil; switch to medium heat and sauté minced garlic about 20 seconds until fragrant and edges turn light gold (do not burn).
+- Turn heat to high, spread in shrimp, and stir-fry quickly about 2 minutes until curled and fully opaque pink-orange (about 70–80% done—it will finish in the pan).
+- Return tofu; drizzle 1 tbsp soy sauce along the pan edge and sprinkle a pinch of white pepper; over medium-high, fold gently about 30 seconds until sauce coats evenly and shrimp are fully cooked.
+- Plate and serve hot; pair with rice or sweet potato from the custom additions above if you like.
 storage: Best fresh; shrimp texture drops overnight.
 faqs:
 - question: Can I use chicken instead of shrimp?
   answer: Yes—cut into strips and cook 2 minutes longer.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 A fast protein boost for gym days.

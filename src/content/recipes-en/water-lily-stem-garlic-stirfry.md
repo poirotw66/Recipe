@@ -25,11 +25,13 @@ tags:
 - Vegetables
 intro: Drain greens well; 1–2 minutes over high heat—longer and they wilt.
 steps:
-- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Hot oil; garlic until light gold.
-- Water dropwort over high 1–2 minutes; keep crisp.
-- Salt; toss and serve.
-- Taste and adjust seasoning; serve immediately while hot.
+- Rinse 200 g water dropwort and cut into about 5 cm lengths; drain well.
+- Peel and mince 3 garlic cloves.
+- Heat a skillet over high heat. Add 1 tbsp olive oil until ripples appear.
+- Add minced garlic over medium-high heat; sauté until lightly golden and fragrant (about 30 seconds—do not burn).
+- Add water dropwort over high heat and stir-fry 1–2 minutes, tossing constantly to keep crisp.
+- Off heat, add 1/4 tsp salt and toss quickly.
+- Taste and serve immediately while hot.
 tips:
 - A very hot wok keeps greens from steaming in their own water.
 storage: Same meal; reheat over high 30 seconds.
@@ -43,7 +45,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Water dropwort
   amount: "200"

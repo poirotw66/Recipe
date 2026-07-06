@@ -24,11 +24,13 @@ tags:
 - High protein
 intro: Slice chicken thin, cook to about 70% done, then finish with water dropwort over rice.
 steps:
-- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Hot oil; cook chicken until color changes; set aside.
-- Bloom minced garlic; stir-fry water dropwort 1 minute; return chicken.
-- Soy sauce to taste; toss and plate over rice.
-- Taste and adjust seasoning; serve immediately while hot.
+- Rinse 150 g water dropwort and cut into about 5 cm lengths; drain well. Slice 120 g chicken breast thin against the grain; mince 2 garlic cloves. Spoon 1 bowl cooked rice into a large bowl to keep warm.
+- In a bowl, add 1 tbsp rice wine to the chicken slices; gently massage and marinate 2 minutes to remove odor and season.
+- Heat a skillet over medium. Add 1 tbsp olive oil. When hot, lay chicken in a single layer and cook over medium until the surface changes color (about 2 minutes); set aside.
+- In the same pan with remaining oil, sauté minced garlic over low heat until lightly golden (about 20 seconds).
+- Add water dropwort over high heat and stir-fry about 1 minute to keep crisp.
+- Return chicken; add 1 tbsp soy sauce. Over high heat, toss about 1 minute until chicken is fully cooked and coated evenly.
+- Taste and adjust. Spoon the stir-fry and sauce over the rice and serve.
 tips:
 - Do not overcook chicken for tenderness.
 storage: Eat fresh; refrigerate bento properly.
@@ -43,7 +45,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Water dropwort
   amount: "150"
