@@ -30,7 +30,8 @@ relatedIngredients:
 - 蝦仁
 - 番茄
 - 小黃瓜
-customAdditions: []
+customAdditions:
+- White sesame seeds, pinch
 ingredients:
 - name: Shrimp
   amount: "150"
@@ -59,18 +60,20 @@ seasonings:
   unit: ""
 intro: Pan-sear or blanch shrimp; dry vegetables so dressing clings.
 steps:
-- Devein shrimp and pat dry; cut cucumber and tomato to bite size.
-- Little oil in skillet; shrimp 2 minutes until pink, or blanch 1 minute in boiling water.
-- Whisk lemon juice, olive oil, salt, and pepper.
-- Toss vegetables with dressing in a large bowl.
-- Top with shrimp; white sesame optional.
+- Devein 150 g shrimp one by one and pat completely dry with paper towels (moisture makes stir-fry watery and dressing slide off).
+- Rinse 1/2 cucumber and slice into rounds or half-moons; rinse 1 tomato and cut into wedges or chunks, removing core only.
+- Heat a skillet over medium-high with 1 tsp olive oil, spread shrimp in a single layer, and stir-fry over high heat about 1 minute per side until opaque pink-orange; or blanch 1 minute in boiling water, drain, and cool.
+- In a small bowl whisk 1.5 tbsp lemon juice, 1 tsp olive oil, a pinch of salt, and a pinch of black pepper until emulsified into a vinaigrette.
+- Put cucumber and tomato in a large bowl, pour in about half the dressing, and toss lightly so vegetables pick up flavor first.
+- Top with shrimp, pour remaining dressing, and fold gently—avoid rough tossing so shrimp do not break.
+- Before serving, sprinkle a pinch of white sesame seeds if using; toss and eat right away for best texture.
 storage: Toss fresh; shrimp and dressing separate up to 1 day refrigerated.
 faqs:
 - question: No oil at all?
   answer: Lemon and salt only—even lighter.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Summer salad when you want to skip the stove.

@@ -52,18 +52,19 @@ seasonings:
   unit: tsp
 intro: Save yolks for another dish; gently pushed egg whites feel like soft scrambled eggs.
 steps:
-- Separate whites from yolks; lightly beat whites with a pinch of salt. Dice the cucumber small.
-- Heat oil in a skillet over low; pour in whites and push into soft curds with a spatula.
-- Add cucumber; stir-fry 1 minute.
-- Season with white pepper; serve.
-- Pair with a main from the custom additions if you like; yolks can be used separately.
+- Separate whites from yolks on 4 eggs (save yolks refrigerated for another use); whisk whites in a bowl with a pinch of salt until fine bubbles form on the surface. Rinse and dice 1/2 cucumber into about 0.5 cm cubes; set aside.
+- Heat a skillet over low and add 1 tsp olive oil; when oil is just warm, pour in whites—do not wait for heavy smoke (low heat keeps them tender).
+- After pouring, let sit about 10 seconds so the bottom sets slightly, then use a spatula to push gently from the outer edge toward the center; about 1 minute to form large soft curds (better texture than scrambling into fine bits).
+- Turn heat to high, add diced cucumber, and stir-fry about 1 minute until bright green and still slightly crisp.
+- Sprinkle a pinch of white pepper, fold quickly 10 seconds, taste, and add a little more salt if needed.
+- Transfer to a plate; pair with a main from custom additions if desired, and use saved yolks for baked eggs or mayo.
 storage: Best fresh; whites weep if held overnight.
 faqs:
 - question: What do I do with the yolks?
   answer: Refrigerate up to 1 day for mayo, baked eggs, or toast topping.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 One of the simplest protein hits during a cut.

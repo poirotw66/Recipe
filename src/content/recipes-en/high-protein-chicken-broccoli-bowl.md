@@ -58,18 +58,20 @@ seasonings:
   unit: tsp
 intro: Cook chicken and broccoli separately so each keeps its best texture; keep seasoning simple to highlight the protein.
 steps:
-- Butterfly and pound the chicken; season with salt and pepper. Cut broccoli into small florets.
-- Blanch broccoli in salted boiling water 2 minutes; drain.
-- Heat oil in a skillet over medium-high; sear chicken 3 minutes per side until golden.
-- Rest 2 minutes; slice.
-- Rice in a bowl; top with broccoli and chicken; drizzle lemon juice.
+- Split 200 g chicken breast in half and pound to about 1 cm thick with a meat mallet or the back of a knife; season both sides with a pinch of salt and black pepper and let rest. Break 150 g broccoli into small florets, split thick stems lengthwise if needed, rinse under running water, and drain.
+- Fill a stockpot with about 1 liter water and bring to a rolling boil over high heat; add a pinch of salt. Blanch broccoli 2 minutes until stems turn bright green and still crisp; drain and set aside (over-blanching turns it yellow and wilted).
+- Heat a skillet over medium-high and add 1 tsp olive oil; when fine ripples appear in the oil, lay in chicken breast skin-side down first and do not move it yet.
+- Sear over medium-high about 3 minutes until the bottom is golden and edges turn white; flip with a spatula and sear 3 more minutes until fully cooked (a cut through the center shows no pink juice).
+- Turn off heat, transfer chicken to a board, and rest 2 minutes so juices redistribute; slice on a slight diagonal into about 1 cm thick pieces.
+- Spoon 1/2 bowl cooked white rice into a serving bowl, top with blanched broccoli, then arrange chicken slices.
+- Drizzle 1 tsp lemon juice for brightness, and serve while hot.
 storage: Refrigerate up to 1 day; microwave reheat with a damp paper towel.
 faqs:
 - question: Can I skip the rice?
   answer: Yes—more broccoli or salad makes a lower-carb plate.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 One of the most reliable bowls when you are watching what you eat.

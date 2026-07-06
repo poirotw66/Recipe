@@ -25,12 +25,13 @@ tags:
 - Eggs
 intro: High-heat rice wine with water dropwort first, then eggs—crunch and aroma stay intact.
 steps:
-- water lily stems rinsed and cut; other ingredients prepped in separate bowls.
-- Hot oil; garlic until fragrant; water dropwort over high about 30 seconds.
-- Rice wine down the side; high heat about 30 seconds until aroma lifts and greens stay crisp.
-- Push greens aside; pour eggs; when edges set, push into soft curds.
-- Combine; salt and white pepper.
-- Taste and adjust seasoning; serve immediately while hot.
+- Rinse 180 g water dropwort and cut into about 5 cm lengths; drain well. Peel and mince 1 garlic clove.
+- Beat 2 eggs in a bowl and set aside.
+- Heat a skillet over high heat. Add 1 tbsp olive oil. When hot, add minced garlic and sauté until fragrant (about 15 seconds).
+- Add water dropwort and stir-fry over high heat about 30 seconds.
+- Pour 1 tbsp rice wine down the side of the pan; over high heat, blast-fry about 30 seconds until the aroma lifts and greens stay crisp.
+- Push water dropwort to the side; pour eggs into the center. When edges set, gently push into soft curds with a spatula (about 1 minute).
+- Toss water dropwort and egg together; add 1/4 tsp salt and a pinch of white pepper. Serve immediately.
 tips:
 - High heat cooks off wine so greens do not stew.
 storage: Same day best; reheat over high quickly.
@@ -45,7 +46,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Water dropwort
   amount: "180"
