@@ -53,18 +53,18 @@ seasonings:
   unit: ''
 intro: Pan-fry tofu before braising so it holds shape; braise liquid can be reused.
 steps:
-- Place eggs (2) in cold water; bring to a boil, then simmer 8 minutes. Cool, peel. Cut tofu into blocks; pan-fry until golden both sides.
-- In a small pot, combine water (300 ml), soy sauce (3 tbsp), rock sugar (1 tsp), and star anise (1); boil until sugar dissolves.
-- Add tofu and eggs; braise on low 12 minutes, gently turning so sauce coats evenly.
-- Turn off heat; steep 10 minutes.
-- Cool; halve eggs for the bento box. Drain excess sauce or pack separately.
+- Place eggs (2) in cold water; bring to a boil over high heat, then simmer on medium-low 8 minutes. Cool in water, peel. Cut tofu (1 block) into chunks; pan-fry in a little oil until golden on both sides (about 2 minutes per side).
+- In a small pot, combine water (300 ml), soy sauce (3 tbsp), rock sugar (1 tsp), and star anise (1); bring to a boil over high heat until sugar dissolves.
+- Add tofu and eggs; braise on low 12 minutes, gently pushing with a spatula so sauce coats evenly (do not flip vigorously).
+- Turn off heat and steep 10 minutes to absorb flavor; taste and add a little water if too salty.
+- Cool completely; halve eggs for the bento box. Pack sauce separately or drain lightly.
 storage: Refrigerate up to 3 days; eat cold or reheat in the microwave.
 faqs:
 - question: Braise too salty?
   answer: Dilute with water and taste again, or use less soy sauce next time.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Braised tofu and eggs are economical, make-ahead bento staples.

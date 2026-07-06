@@ -52,18 +52,18 @@ seasonings:
   unit: ''
 intro: For bento, stop at medium doneness—carryover heat finishes the breast without drying it out.
 steps:
-- Cut chicken into strips; shred ginger finely. Toss chicken with a pinch of salt and 1 tsp soy sauce for 5 minutes.
-- Heat oil over medium-high; stir-fry chicken about 3 minutes until surfaces turn color.
-- Add ginger and stir 1 minute until fragrant.
-- Add remaining soy sauce and rice wine; stir-fry on high about 1 minute to glaze.
-- Cool and pack for the next day.
+- Cut chicken breast (200 g) into strips against the grain; shred ginger (20 g) into fine strips. Toss chicken with a pinch of salt and soy sauce (1 tsp) for 5 minutes.
+- Heat olive oil (1 tbsp) over medium-high in a skillet; lay chicken flat and stir-fry 2–3 minutes until surfaces turn color and centers are still slightly pink.
+- Add ginger and stir over medium heat 1 minute until fragrant; then add remaining soy sauce (about 1 tbsp) and rice wine (1 tbsp).
+- Stir-fry over high heat 1 minute until glazed and chicken is just cooked through; turn off heat before it dries out.
+- Cool completely and pack in bento boxes; reheat in the microwave about 1 minute next meal—cover with a damp paper towel to prevent drying.
 storage: Refrigerate up to 2 days; microwave about 1 minute with a damp paper towel over the box.
 faqs:
 - question: Can I use chicken thigh?
   answer: Yes—it stays juicier but carries a bit more fat in the bento.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Ginger chicken is a reliable weekday bento main you can prep ahead.

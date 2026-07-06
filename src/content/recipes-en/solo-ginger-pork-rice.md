@@ -54,18 +54,19 @@ seasonings:
   unit: tsp
 intro: Use plenty of ginger shreds for flavor; brown the pork before seasoning so the topping stays aromatic.
 steps:
-- "Prep: Cooked rice 1bowl, Ground pork 120g; dice Ground pork about ½ inch, divide Cooked rice 1bowl into serving bowls."
-- Marinate Ground pork with Ginger 15g, Soy sauce 2tbsp, Rice wine 1tbsp for 10 minutes; prep vegetables as needed.
-- Heat 1 Tbsp oil in a skillet over medium heat. Add Ground pork, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
-- Taste and adjust seasoning; serve while hot.
+- Cut ginger 15 g into fine shreds. Place 1 bowl of cooked rice in a large bowl to keep warm. Toss ground pork 120 g with 1 tbsp soy sauce and 1 tbsp rice wine; let sit 5 minutes to absorb flavor.
+- Heat a skillet over medium-high heat with no oil or just a tiny drizzle. Add the ground pork, spread it in an even layer, and press apart with a spatula.
+- Stir-fry 3–4 minutes until the pork changes color and parts turn lightly browned and fragrant (moisture should dry out so it resembles minced pork topping).
+- Add the ginger shreds and stir-fry over medium heat for 1 minute until the ginger aroma is clear.
+- Add the remaining 1 tbsp soy sauce, 1/2 tsp sugar, and 2–3 tbsp water. Stir-fry over high heat until the sauce thickens and coats the meat.
+- Taste and adjust salt and sweetness. Spoon the pork topping with sauce over the rice; serve with blanched greens if you like.
 storage: Refrigerate topping up to 2 days; splash a little water when reheating.
 faqs:
 - question: Can I use beef instead?
   answer: Yes—cut finer or use ground beef; it may take a bit longer to dry out.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Ginger pork rice is a familiar one-bowl dinner for renters.

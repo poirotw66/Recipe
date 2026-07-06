@@ -63,7 +63,7 @@ faqs:
   answer: "可以，分小盒冷凍 2 週，解凍後微波加熱。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-06-22"
+updatedAt: "2026-07-06"
 ---
 
 便當蜜汁滷肉是週末備便當時最實用的主菜。

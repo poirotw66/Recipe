@@ -53,17 +53,17 @@ seasonings:
   unit: tsp
 intro: Tofu is cheap and protein-rich—sear until golden and glaze with soy for a classic rice bowl.
 steps:
-- "Prep: Cooked rice 1bowl, Firm tofu 1block; dice Firm tofu about ½ inch, divide Cooked rice 1bowl into serving bowls."
-- Marinate Firm tofu with Soy sauce 2tbsp, Scallion 1stalk, White sesame seeds 1tsp for 10 minutes; prep vegetables as needed.
-- Heat 1 Tbsp oil in a skillet over medium heat. Add Firm tofu, sear and stir-fry until opaque and cooked through.
-- Taste and adjust soy sauce if needed. Pack with rice for bento; cool slightly before closing the lid so rice stays fluffy.
+- Spoon cooked rice (1 bowl) into a serving bowl; cut tofu (1 block) into about 2 cm thick slices and press dry on both sides with paper towels. Chop scallion (1 stalk).
+- Heat olive oil (1 tsp) over medium heat in a skillet; lay tofu in a single layer and pan-fry 2–3 minutes per side until golden and lightly crisp.
+- Drizzle soy sauce (2 tbsp) along the pan edge and swirl to coat tofu evenly; turn off heat and sprinkle white sesame seeds (1 tsp) and scallions.
+- Place tofu with a little sauce over the rice and serve.
 storage: Best fresh; tofu texture fades overnight.
 faqs:
 - question: Can I use soft tofu?
   answer: Firm block tofu is best; soft breaks apart; extra-firm needs thinner slices.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 One of the most economical dinners for students and tight budgets.

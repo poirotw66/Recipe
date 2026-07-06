@@ -56,18 +56,18 @@ seasonings:
   unit: Tbsp
 intro: Stir-fry fast and stop at medium-rare for bento?�reheating finishes the cook.
 steps:
-- Slice beef (180 g) thinly against the grain; marinate with soy sauce (1.5 tbsp), rice wine (1 tbsp), cornstarch (1 tsp), and half the black pepper (1/2 tsp) for 10 minutes.
-- Cut onion (1/4) into strips; reserve remaining pepper for finishing.
-- Heat olive oil (1 tbsp) over medium-high; stir-fry beef ~2 minutes until colored; remove.
-- Stir-fry onion ~1 minute until translucent; return beef with remaining pepper.
-- Toss over high heat 30 seconds until evenly coated and cooked through; cool before packing bento.
+- Slice beef (180 g) thinly against the grain; toss with soy sauce (1 tbsp), rice wine (1 tbsp), cornstarch (1 tsp), and black pepper (1/2 tsp) for 10 minutes. Cut onion (1/4) into strips; reserve remaining black pepper (1/2 tsp) for stir-frying.
+- Heat a skillet over medium-high; add olive oil (1 tbsp). When hot, stir-fry beef about 2 minutes until colored; immediately remove.
+- In the same pan, stir-fry onion strips about 1 minute until translucent and slightly soft.
+- Return beef, sprinkle remaining black pepper, and stir-fry over high heat 30 seconds until evenly coated and beef is cooked through.
+- Taste and adjust; cool completely before packing in bento boxes (microwave about 1 minute to reheat—cover with a damp paper towel to prevent drying).
 storage: Refrigerate up to 2 days; microwave about 1 minute to reheat.
 faqs:
 - question: Can I use pork instead?
   answer: Yes?�use thin pork loin slices and the same timing.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ---
 
 Black pepper beef is one of the most popular bento mains for good reason.
