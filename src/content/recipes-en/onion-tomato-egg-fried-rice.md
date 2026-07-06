@@ -55,7 +55,7 @@ steps:
 - Add the tomato dice and cook over medium heat for 2–3 minutes until soft and juicy.
 - Add the rice and stir-fry over high heat for 2–3 minutes until grains are separate and have absorbed the tomato juices.
 - Return the eggs, add 1 tsp soy sauce, and toss over high heat for 1 minute until everything is evenly mixed. Taste and adjust.
-- Plate and serve while hot. Optional garnish: scallions or diced ham.
+- "Plate and serve while hot. Optional garnish — scallions or diced ham."
 tips:
 - Cool rice fries better—if hot, let it rest 5 minutes first.
 storage: Best fresh; if storing, refrigerate and reheat within 1 day.
