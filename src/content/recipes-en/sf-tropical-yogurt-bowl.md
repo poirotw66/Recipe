@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 香蕉 150公克, 芒果 150公克, 季節水果 150公克, 穀物 80公克.
-- Sear proteins (chicken, bacon, shrimp, or salmon) in a skillet with salt and pepper until golden; toast croutons.
-- In a large bowl, toss greens with 2/3 of 橄欖油 1.5大匙, 海鹽 1/3小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.
-- Transfer greens to a serving dish, arrange proteins, tomatoes, and croutons on top, then finish with grated parmesan and nuts.
+- Peel 香蕉 150 g and slice into rounds; cut 芒果 150 g into chunks; wash and cut 季節水果 150 g into bite-size pieces; keep separate.
+- Spread 穀物 80 g on a baking sheet; bake at 160°C 8 minutes until golden and crisp; cool. Chop 堅果 30 g.
+- In a deep glass bowl, lay a base layer of banana rounds, curling slightly up at the edges for stacking.
+- Top bananas with 芒果 chunks and seasonal fruit, arranged in zones from the outside in for tropical color layers.
+- Scatter toasted 穀物 80 g in zones over the fruit, then add 堅果 30 g beside it; add grains last to stay crisp.
+- Drizzle 橄欖油 1.5 tbsp and use the back of a spoon to spread lightly over the fruit.
+- Finish with 海鹽 1/3 tsp to lift sweetness; serve immediately while grains are crisp and fruit is fresh.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 香蕉
   amount: "150"

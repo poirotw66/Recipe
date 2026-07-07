@@ -28,11 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 時蔬 100公克, 香米 220公克, 薑 適量; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.
-- Heat oil in skillet; sauté aromatics and vegetables, then stir-fry rice quickly over medium-high heat.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 番茄汁 2大匙, 奶油醬 適量 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).
-- Plate rice, top with main proteins (steak, patty, or egg yolk), and garnish with green onions.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: dice 100 g seasonal vegetables; julienne ginger; steam 220 g jasmine rice and fluff warm; portion 2 Tbsp tomato juice, 2 Tbsp vodka, cream sauce to taste, and hot sauce to taste separately."
+- Heat 1 Tbsp olive oil in a skillet over medium; sauté ginger 30 seconds until fragrant; add vegetables and stir-fry 2 minutes until slightly tender but still crisp.
+- Add 2 Tbsp tomato juice, 2 Tbsp vodka, cream sauce to taste, and hot sauce to taste; season with 1/3 tsp sea salt, 1/4 tsp cracked black pepper, and 1/2 tsp chili flakes; simmer 1 minute until a thick sauce forms (alcohol will cook off).
+- Add 220 g jasmine rice; stir-fry over medium heat 1 minute until grains are coated with oil (toast the rice).
+- Add hot water in 2–3 additions (about 2 Tbsp each), stirring until absorbed each time; keep stirring about 4 minutes until grains are coated in tomato-spice sauce with a light creamy finish.
+- Taste and adjust heat and salt; stir until every grain is evenly colored, sauce is slightly reduced, and wok aroma develops, then turn off heat.
+- Mound in a deep plate; sprinkle a little more cracked black pepper and chili flakes on top.
+- Serve hot—the spicy, rich Bloody Mary rice flavor of Second Floor Cafe.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -52,7 +55,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 時蔬
   amount: "100"

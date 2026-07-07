@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: beat 3 eggs with a splash of cream and salt; prep 歐姆蕾 3顆蛋, 奶油炒菇 120公克, 綜合起司 40公克, 歐包 2份 and cheeses ready."
-- Sauté filling ingredients (onion, mushrooms, or ham) in butter until fragrant; set aside.
-- Melt butter in skillet, add eggs and stir quickly until half-set, then lay fillings and cheese in the center.
-- Fold the omelette into a half-moon shape, cover to melt cheese for 30 seconds, and slide onto a plate with sides.
+- Beat 3 eggs for the omelette with 1/3 tsp sea salt, 1/4 tsp cracked black pepper, and a little cream; prep 120 g sautéed mushrooms, 40 g mixed cheese, and 2 baguette rolls.
+- Heat a skillet over medium with a little butter; cook sautéed mushrooms until they release moisture, then reduce heat until dry; keep warm.
+- Split and butter 2 baguette rolls; bake at 180°C / 350°F 5 minutes until lightly golden, or toast both sides in a dry skillet over low heat.
+- Reheat the skillet to medium; melt butter; pour in the eggs; stir in circles with a spatula until half-set and the bottom lightly firms.
+- Spread sautéed mushrooms and 40 g mixed cheese in the center; fold carefully into a half-moon with the spatula.
+- Cover and cook over low heat 30 seconds until cheese fully melts and the center stays moist; check the fold is cooked through.
+- Plate the omelette and toasted baguette separately; serve hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -51,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 歐姆蕾
   amount: "3"
@@ -79,6 +82,7 @@ seasonings:
 - name: 黑胡椒碎
   amount: "1/4"
   unit: 小匙
+
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

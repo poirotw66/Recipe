@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 巴西莓 150公克, 綜合莓果 150公克, 香蕉 150公克, 穀物 80公克.
-- Sear proteins (chicken, bacon, shrimp, or salmon) in a skillet with salt and pepper until golden; toast croutons.
-- In a large bowl, toss greens with 2/3 of 橄欖油 1.5大匙, 海鹽 1/3小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.
-- Transfer greens to a serving dish, arrange proteins, tomatoes, and croutons on top, then finish with grated parmesan and nuts.
+- Rinse and drain 巴西莓 150 g and 綜合莓果 150 g; peel 香蕉 150 g and slice on the bias—half as rounds, half diced, kept separate.
+- Spread 穀物 80 g on a baking sheet; bake at 160°C 8 minutes until golden and crisp; cool. Chop 堅果 30 g finely.
+- Blend 巴西莓 with banana dice and one-third of the mixed berries until thick and stackable (add 1–2 tbsp cold water if too thick).
+- Pour açaí puree into a deep glass bowl and smooth the base to about 2 cm thick.
+- Top with remaining berries and banana rounds, arranging from the rim toward the center for visual layers.
+- Scatter toasted grains and nuts in separate zones beside the fruit; add grains at the last moment to stay crisp.
+- Drizzle 橄欖油 1.5 tbsp lightly and sprinkle 海鹽 1/3 tsp; serve while grains are still crunchy.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 巴西莓
   amount: "150"

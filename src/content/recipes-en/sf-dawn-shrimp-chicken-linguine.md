@@ -28,10 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Boil pasta in salted water until al dente; drain and reserve 1/2 cup of pasta cooking water.
-- Heat oil in skillet over medium; sauté garlic and onions, then add 雞肉 180公克, 蝦 適量, 炙燒紅椒 適量, 起司絲 40公克 (shrimp, chicken, bacon) and sear until cooked through.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 曙光奶油醬 3大匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
-- Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
+- "Prep: cut chicken 180 g into about 2 cm cubes and pat dry; peel and devein shrimp as needed and pat dry. Slice roasted red pepper as needed; shred cheese 40 g; mince garlic 2 cloves."
+- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook linguine 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
+- Heat olive oil 1 Tbsp in a skillet over medium heat; lay chicken cubes in a single layer and sear until golden, about 3 minutes; flip and cook 2 minutes more until cooked through; set aside.
+- Add a little more oil to the same pan; stir-fry shrimp over medium-high heat until pink and curled, about 1.5 minutes; combine with chicken and keep warm.
+- Sauté minced garlic and roasted red pepper strips over medium heat for 1 minute to release sweet pepper aroma.
+- Add Dawn cream sauce 3 Tbsp and 3–4 Tbsp pasta water; stir over low heat until sauce simmers and turns smooth; fold in half the shredded cheese until melted.
+- Raise heat to high; add pasta, chicken, and shrimp; toss vigorously 1–2 minutes until Dawn sauce coats the noodles.
+- Off heat, sprinkle remaining cheese; plate in a deep dish and serve hot to match Second Floor Cafe Dawn shrimp chicken linguine.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 雞肉
   amount: "180"

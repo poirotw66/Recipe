@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 塔塔醬 適量."
-- Heat oil to 350°F; fry potatoes in batches for about 5 minutes until crispy and golden brown; drain well.
-- Toss hot fries in a large bowl with sea salt, then drizzle with 炸油 600毫升, 海鹽 1/2小匙, 塔塔醬 適量 (truffle, salted egg yolk, or cheese sauce).
-- Pile high in a serving basket lined with greaseproof paper, garnish with parsley, and serve hot.
+- Remove 燕麥炸魚 as needed and 薯條 250 g from the refrigerator; pat dry with paper towels. Pour 炸油 600 ml into the fryer and begin preheating.
+- Use a kitchen thermometer to confirm oil at 175°C; fry fries in batches 5 minutes until golden and set, then drain.
+- Keep oil at 175–180°C; fry oat-crusted fish 4–5 minutes until the coating is golden and crisp and the fish is cooked through (internal 63°C or flakes easily with a fork).
+- Drain fish on a wire rack 1 minute.
+- (Optional) Raise oil to 185°C and refry fries 1 minute for extra crispness.
+- Toss hot fries with 海鹽 1/2 tsp.
+- Arrange oat-crusted fish and fries in separate zones on a sharing platter; serve with 塔塔醬 as needed for dipping while hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -48,7 +51,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 燕麥炸魚
   amount: "適量"

@@ -28,10 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Boil pasta in salted water until al dente; drain and reserve 1/2 cup of pasta cooking water.
-- Heat oil in skillet over medium; sauté garlic and onions, then add 培根 80公克, 番茄 適量, 起司 40公克, 長管麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣醬 適量, 辣椒碎 1/2小匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
-- Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
+- "Prep: dice bacon 80 g; dice tomatoes as needed; shred cheese 40 g; mince garlic 2 cloves."
+- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook penne 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
+- Cook bacon dice in a skillet over low heat without added oil until fat renders and pieces are golden and crisp, about 4–5 minutes. Set bacon aside, leaving about 1 Tbsp fat in the pan.
+- Over medium heat in the same pan, sauté minced garlic until fragrant, about 20 seconds; add diced tomatoes and stir-fry 2 minutes until slightly soft and juicy.
+- Add chili sauce as needed and chili flakes ½ tsp; bring to a boil over medium heat. Add 3–4 Tbsp pasta water and simmer 2 minutes until tomato-chili sauce slightly thickens.
+- Raise heat to high; add penne; toss vigorously 1–2 minutes so sauce enters the tube centers.
+- Off heat, fold in half the shredded cheese; return crisp bacon and toss.
+- Plate in a deep dish; top with remaining cheese and black pepper; serve hot to match Second Floor Cafe spicy tomato bacon penne.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -52,7 +56,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 培根
   amount: "80"

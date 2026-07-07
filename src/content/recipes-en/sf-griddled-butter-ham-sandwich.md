@@ -28,9 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 歐包 2份, 火腿 適量, 起司 40公克, 荷包蛋 2顆."
-- Sear patty or cutlet in skillet over medium heat until fully cooked. Melt cheese on top during the last 30 seconds.
-- Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 楓糖漿 2大匙, 鮮奶油 適量 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.
+- Split baguette 2 portions horizontally; spread butter evenly on the cut sides. Have ham as needed, cheese 40 g, sunny-side eggs 2, and potato wedges 250 g ready.
+- Heat a skillet over low heat; toast baguette cut-side down until both sides are golden and crisp; set aside.
+- In the same skillet over medium heat, pan-fry ham as needed until lightly browned and fragrant; keep warm.
+- Add a little butter to the skillet; crack sunny-side eggs 2, cover, and fry 2–3 minutes until whites are set and yolks are semi-runny; keep warm.
+- Roast or pan-fry potato wedges 250 g at 350°F until golden and crisp; season lightly with salt and pepper.
+- On the toasted baguette, layer cheese 40 g, ham, and fried eggs in order; top with the other baguette half and press lightly.
+- Drizzle maple syrup 2 Tbsp and cream as needed; serve with potato wedges, sprinkled with sea salt 1/3 tsp and black pepper ¼ tsp while hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -51,7 +55,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 歐包
   amount: "2"

@@ -28,10 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Boil pasta in salted water until al dente; drain and reserve 1/2 cup of pasta cooking water.
-- Heat oil in skillet over medium; sauté garlic and onions, then add 蛤蜊 400公克, 蒜 適量, 九層塔 10公克, 墨魚麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 白酒 2大匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
-- Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
+- "Prep: soak clams 400 g in water 1 hour to purge sand, then rinse and drain; slice garlic 適量 thin; wash basil 10 g and set aside."
+- Bring a large pot of water to a rolling boil; add sea salt 1/3 tsp; cook squid ink pasta 180 g 1 minute less than package time until al dente; drain and reserve about 1 cup pasta water (this dish finishes brothy).
+- Heat a skillet over medium-high with olive oil 1 tbsp; add garlic slices and cook over low heat until golden (about 1 minute), taking care not to burn.
+- Raise heat to high; add clams and white wine 2 tbsp; cover immediately and steam 2–3 minutes until clams open; discard any that stay closed.
+- Uncover and reduce heat to medium; add 5–6 tbsp pasta water and black pepper 1/4 tsp; stir and simmer until the broth slightly thickens and tastes sweet from the clams.
+- Raise heat to high; add cooked squid ink pasta and toss vigorously 1–2 minutes so the noodles absorb the wine-clam liquor.
+- Turn off heat; fold in basil leaves for aroma.
+- Serve in a deep plate with lightly brothy noodles while hot to match Second Floor Cafe white wine garlic clam squid ink pasta.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 蛤蜊
   amount: "400"

@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 蘆筍 適量, 莎莎 適量, 花椰菜 120公克, 藜麥 80公克.
-- Sear proteins (chicken, bacon, shrimp, or salmon) in a skillet with salt and pepper until golden; toast croutons.
-- In a large bowl, toss greens with 2/3 of 橄欖油 1.5大匙, 海鹽 1/3小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.
-- Transfer greens to a serving dish, arrange proteins, tomatoes, and croutons on top, then finish with grated parmesan and nuts.
+- "Rinse 藜麥 80 g; simmer with a 1:2 water ratio, cover on low 15 minutes until absorbed, rest off heat 5 minutes, then fluff with a fork and cool."
+- Cut 花椰菜 120 g into small florets; blanch in salted boiling water 3 minutes until tender-crisp and drain; cut 蘆筍 as needed on the bias, blanch 2 minutes, then shock in ice water to stay bright green.
+- Bring a pot of water to a boil with 1 tsp vinegar; reduce to low, stir a gentle whirlpool, add 雞蛋 2 pcs for poached eggs, cook about 3 minutes until whites set and yolks runny, then drain.
+- Heat a skillet over medium with half of 橄欖油 1.5 tbsp; quickly sauté blanched cauliflower and asparagus 1 minute; season with 海鹽 1/3 tsp and set aside.
+- In a deep bowl or shallow plate, spread a layer of quinoa as the grain base, leaving edges for garnish.
+- Top quinoa with sautéed cauliflower and asparagus, 莎莎 as needed, and 2 poached eggs in the center.
+- Drizzle remaining olive oil, sprinkle chopped nuts, break poached eggs so yolk flows into the bowl, and serve.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 蘆筍
   amount: "適量"

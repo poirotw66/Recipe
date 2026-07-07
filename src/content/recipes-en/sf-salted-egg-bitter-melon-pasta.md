@@ -28,10 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Boil pasta in salted water until al dente; drain and reserve 1/2 cup of pasta cooking water.
-- Heat oil in skillet over medium; sauté garlic and onions, then add 鹹蛋 適量, 山苦瓜 120公克, 杏鮑菇 120公克, 山藥 80公克 (shrimp, chicken, bacon) and sear until cooked through.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒碎 1/2小匙, 鹹蛋黃醬 2大匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
-- Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
+- "Prep: seed and thinly slice bitter melon 120 g; salt 5 minutes, rinse to remove bitterness, and squeeze dry. Cut king oyster mushrooms 120 g into strips; peel and thinly slice yam 80 g and soak in cold water. Shell salted eggs as needed, separate whites and yolks, and dice. Mince garlic 2 cloves."
+- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook spaghetti 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
+- Heat olive oil 1 Tbsp in a skillet over medium heat; sauté minced garlic and chili flakes ½ tsp until fragrant, about 30 seconds.
+- Add king oyster mushrooms and yam slices; stir-fry over medium heat 3–4 minutes until slightly tender and colored. Add bitter melon and stir-fry over high heat 1–2 minutes until bright green and still crisp.
+- Push salted egg whites to the side; add salted egg yolks and salted egg yolk sauce 2 Tbsp to the center; press and stir over low heat into a flowing texture, about 1 minute; toss with vegetables.
+- Add 3–4 Tbsp pasta water; stir until sauce thickens and emulsifies.
+- Raise heat to high; add pasta and toss vigorously 1–2 minutes until salted egg sauce coats noodles and vegetables.
+- Taste and adjust with black pepper; plate in a deep dish and serve hot to match Second Floor Cafe Taiwanese salted egg bitter melon pasta.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -52,7 +56,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 鹹蛋
   amount: "適量"

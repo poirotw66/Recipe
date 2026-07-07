@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: place orange French Danish pastry on baking sheet, bake at 350°F for 3–5 min until fragrant."
-- Heat oil in skillet; sear main protein (chicken, steak, seafood, or mushrooms from 橙香丹麥 2份, 舒肥雞 180公克, 荷包蛋 2顆, 炒薯 250公克) with salt and pepper.
-- Prepare sunny-side or poached eggs; fry potato hash or wedges in skillet until golden brown.
-- Plate toast, proteins, eggs, and salad separately; drizzle 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 蜂蜜芥末 2大匙 over the main components; serve immediately.
+- Arrange orange Danish pastry 2 portions on a baking sheet; bake at 350°F for 3–5 minutes until the outside is crisp and the inside stays soft. Portion honey mustard 2 Tbsp into a small bowl.
+- Pat sous vide chicken 180 g dry with paper towels; season with sea salt 1/6 tsp and a pinch of black pepper. Heat olive oil ½ Tbsp in a skillet over medium heat; sear skin-side down 3 minutes until golden, flip and cook 2 minutes more until cooked through; slice and keep warm.
+- In another skillet over medium heat, pan-fry potato hash 250 g until golden and crisp at the edges; set aside and keep warm.
+- Add a little butter to a skillet over medium heat; crack sunny-side eggs 2 and cover; fry 2–3 minutes until the whites are set and yolks runny (sunny side up); keep warm.
+- On a large round plate, arrange sections of baked orange Danish, sous vide chicken, potato hash, and 2 sunny-side eggs.
+- Drizzle honey mustard 2 Tbsp over the chicken and eggs, then olive oil 1 Tbsp; sprinkle sea salt 1/3 tsp and black pepper ¼ tsp.
+- Check that the sauce is evenly distributed and serve immediately while hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -51,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 橙香丹麥
   amount: "2"

@@ -28,11 +28,14 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Prep 番紅花飯 220公克, 蝦 適量, 蛤蜊 400公克, 香腸 140公克; cook rice or prepare warm buttered rice. Fry hamburger patty or pork chop if needed.
-- Heat oil in skillet; sauté aromatics and vegetables, then stir-fry rice quickly over medium-high heat.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 辣椒碎 1/2小匙 and stir-fry until rice grains absorb the sauce. (If baking, cover with cheese and bake at 400°F for 8 min).
-- Plate rice, top with main proteins (steak, patty, or egg yolk), and garnish with green onions.
-- Taste and adjust seasoning; serve while hot.
+- "Prep: purge and rinse 400 g clams; peel shrimp leaving tails; slice 140 g sausage thick; shred 40 g cheese; steam 220 g saffron rice and keep warm; warm 200 ml broth."
+- Heat 1 Tbsp olive oil in a skillet over medium; cook sausage 2 minutes until fat renders and edges brown; add 1/2 tsp chili flakes, 1/3 tsp sea salt, and 1/4 tsp cracked black pepper until fragrant.
+- Add clams and shrimp; cover and cook over medium heat 3–4 minutes until clams open and shrimp turn pink; remove shellfish and reserve pan juices.
+- Add 220 g saffron rice to the pan juices and stir-fry 1 minute until grains are coated with oil (toast the rice).
+- Add hot broth in 1/2-ladle additions, stirring 3–4 times about 6 minutes until grains absorb seafood essence and turn lightly creamy.
+- Return clams, shrimp, and sausage; stir-fry over high heat 1 minute to combine (do not overcook seafood).
+- Turn off heat and fold in 40 g cheese until half-melted with even saffron color.
+- Serve hot—the spicy, rich Spanish surf-and-turf rice of Second Floor Cafe.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -53,7 +56,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 番紅花飯
   amount: "220"

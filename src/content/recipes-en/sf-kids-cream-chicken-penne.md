@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Boil pasta in salted water until al dente; drain and reserve 1/2 cup of pasta cooking water.
-- Heat oil in skillet over medium; sauté garlic and onions, then add 雞肉 180公克, 玉米 100公克, 豌豆 適量, 起司 40公克 (shrimp, chicken, bacon) and sear until cooked through.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 白醬 適量, 鮮奶油 適量 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
-- Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
+- "Prep: dice chicken 180 g into about 1.5 cm cubes; wash corn 100 g and peas as needed and drain. Dice cheese 40 g."
+- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp (slightly less salty than the adult version). Cook penne 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
+- Heat olive oil 1 Tbsp in a skillet over medium heat; spread chicken cubes in a single layer and cook until fully done and lightly golden, about 5–6 minutes; set aside.
+- In the same pan, stir-fry corn and peas 2 minutes until slightly tender but still sweet and crisp.
+- Add white sauce as needed, cream as needed, and 3–4 Tbsp pasta water; stir over low heat until lightly simmering and smooth, not too salty; fold in half the diced cheese until melted.
+- Raise heat to high; add penne and chicken; toss gently 1–2 minutes until white sauce coats evenly (keep heat moderate to avoid splitting the cream).
+- Off heat, fold in remaining cheese; plate in a shallow dish and serve warm to match Second Floor Cafe kids cream chicken penne.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -49,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 雞肉
   amount: "180"

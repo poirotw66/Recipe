@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 凱薩沙拉 適量, 舒肥雞 180公克.
-- Sear proteins (chicken, bacon, shrimp, or salmon) in a skillet with salt and pepper until golden; toast croutons.
-- In a large bowl, toss greens with 2/3 of 炸油 600毫升, 海鹽 1/2小匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.
-- Transfer greens to a serving dish, arrange proteins, tomatoes, and croutons on top, then finish with grated parmesan and nuts.
+- Wash, spin-dry, and tear greens from 凱薩沙拉 as needed into a large salad bowl; remove 舒肥雞 180 g from the refrigerator and rest 10 minutes.
+- Heat a skillet over medium with 1 tbsp of the 炸油 600 ml; slice sous-vide chicken and sear one side 1.5 minutes until colored, flip 1 minute to warm through (already cooked—do not overcook or it turns tough).
+- Rest seared chicken 2 minutes, then slice against the grain into about 1 cm strips to keep juices in.
+- Lightly toss greens with 海鹽 1/2 tsp; confirm leaves are dry with no pooled moisture.
+- Pour about 2/3 of the Caesar dressing (included or store-bought) into the bowl and toss gently so each leaf is lightly coated.
+- Spread dressed greens on a large platter; arrange chicken slices neatly on top, mounding slightly in the center for restaurant-style volume.
+- Drizzle remaining dressing; finish with parmesan and croutons if using; serve while chicken is warm and greens are crisp.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -48,7 +51,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 凱薩沙拉
   amount: "適量"

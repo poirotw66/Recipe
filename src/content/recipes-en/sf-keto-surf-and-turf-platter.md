@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: organize 舒肥牛 適量, 巴沙魚 180公克, 炒菇 120公克, 起司 40公克 for restaurant portioning; keep sauces and cool sides separate (橄欖油 1.5大匙, 海鹽 1/3小匙)."
-- Cook main proteins and starches over medium-high until properly browned and cooked through.
-- Toast bread or heat side dishes in a skillet to build layers and crispy textures.
-- Drizzle signature sauces (橄欖油 1.5大匙, 海鹽 1/3小匙) and arrange ingredients beautifully on a large plate for Keto Surf And Turf Platter.
+- Rest 舒肥牛 as needed 10 minutes; slice thinly against the grain about 0.5 cm. Cut 巴沙魚 180 g into chunks, pat dry, and season with 海鹽 1/3 tsp and a little black pepper.
+- Slice 炒菇 120 g; in a skillet over medium with half of 橄欖油 1.5 tbsp, sauté until golden and moisture evaporates, about 4 minutes; set aside.
+- Add a little more oil to the same pan; over high heat sear basa one side 2 minutes until golden, flip 1.5 minutes until cooked through; keep warm.
+- Wipe the pan clean, heat over high, lay sous-vide beef in a single layer, rest 30 seconds, then toss quickly 1 minute until warmed and lightly colored (do not overcook).
+- Shred or slice 起司 40 g; while mushrooms are hot, top with cheese, cover 30 seconds until slightly melted.
+- Wash and spin-dry 綜合生菜 120 g; spread on a large platter as the base.
+- Arrange warmed beef, seared basa, and cheesy mushrooms in separate zones over the greens in a radiating surf-and-turf style; serve warm.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 舒肥牛
   amount: "適量"

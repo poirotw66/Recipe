@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Boil pasta in salted water until al dente; drain and reserve 1/2 cup of pasta cooking water.
-- Heat oil in skillet over medium; sauté garlic and onions, then add Local 香腸 140公克, 三種起司 40公克, 九層塔 10公克, 義大利麵 180公克 (shrimp, chicken, bacon) and sear until cooked through.
-- Pour in 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙, 奶油白醬 3大匙, 辣椒碎 1/2小匙 and 3 Tbsp pasta water; simmer, then add cooked pasta and toss vigorously to emulsify.
-- Garnish with grated parmesan, basil, or black pepper, plate nicely and serve hot.
+- "Prep: slice Local sausage 140 g on the bias; shred three-cheese blend 40 g; wash basil 10 g; mince garlic 2 cloves."
+- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook spaghetti 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
+- Heat a skillet over medium heat; add sausage slices without oil and render over low heat until golden and slightly curled on both sides, about 4–5 minutes. Set aside, leaving about 1 Tbsp fat in the pan.
+- In the same pan, sauté minced garlic and chili flakes ½ tsp over low heat until fragrant, about 30 seconds.
+- Add cream white sauce 3 Tbsp and 3–4 Tbsp pasta water; stir and simmer until lightly boiling and slightly thickened; stir in half the shredded cheese until melted.
+- Raise heat to high; add pasta and sausage slices; toss vigorously 1–2 minutes until white sauce emulsifies and coats the noodles. If too thick, add 1–2 Tbsp pasta water.
+- Off heat, fold in remaining cheese and basil; plate in a deep dish, sprinkle black pepper, and serve hot to match Second Floor Cafe cheesy Local sausage cream pasta.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -52,7 +55,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: Local 香腸
   amount: "140"

@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 藍帶豬排 220公克, 漢堡麵包 2份, 起司 40公克."
-- Sear patty or cutlet in skillet over medium heat until fully cooked. Melt cheese on top during the last 30 seconds.
-- Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.
-- Close the burger (or leave open for sandwich); serve hot with a side of crispy fries.
+- Rest cordon bleu pork cutlet 220 g at room temperature 10 minutes; split burger buns 2 pc; wash lettuce and drain; slice tomato thin.
+- Heat olive oil 1 tbsp in a skillet over medium; season both sides of the cutlet with sea salt 1/3 tsp and black pepper 1/4 tsp.
+- Pan-fry cutlet over medium heat 3 minutes until golden on the bottom; flip and cook 3 minutes more; if cheese inside is not melted, cover and steam on low 1 minute, then remove.
+- Wipe the pan; toast bun cut sides dry without oil 1–2 minutes until golden crisp; set aside.
+- Lay cheese 40 g on the hot cutlet; cover or microwave 20 seconds until edges soften.
+- On the bottom bun, layer lettuce, tomato, and hot cutlet; cap with top bun and press gently to set.
+- Halve or serve whole while hot to match Second Floor Cafe Asahi cordon bleu pork burger.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -48,7 +51,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 藍帶豬排
   amount: "220"

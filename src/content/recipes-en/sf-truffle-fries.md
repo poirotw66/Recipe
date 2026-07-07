@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: cut potatoes into sticks (or use frozen fries); dry the surface completely with paper towels; prep 炸油 600毫升, 海鹽 1/2小匙, 松露醬 3大匙."
-- Heat oil to 350°F; fry potatoes in batches for about 5 minutes until crispy and golden brown; drain well.
-- Toss hot fries in a large bowl with sea salt, then drizzle with 炸油 600毫升, 海鹽 1/2小匙, 松露醬 3大匙 (truffle, salted egg yolk, or cheese sauce).
-- Pile high in a serving basket lined with greaseproof paper, garnish with parsley, and serve hot.
+- Pat 薯條 250 g thoroughly dry with paper towels; portion 松露醬 3 tbsp and 起司粉 40 g separately.
+- Heat 炸油 600 ml to 160°C; blanch-fry fries in batches 3 minutes; drain.
+- Raise oil to 175°C; refry 3–4 minutes until crisp outside and tender inside; drain on a wire rack 2 minutes.
+- While fries are hot, toss in a large bowl with 海鹽 1/2 tsp.
+- Add half of 起司粉 40 g and toss quickly so heat slightly melts the cheese.
+- Drizzle 松露醬 3 tbsp and toss gently; sprinkle remaining cheese on top.
+- Mound high in a basket; serve while truffle aroma is strong and fries are still crisp.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -48,7 +51,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 薯條
   amount: "250"

@@ -28,10 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- Wash greens thoroughly, spin dry, and tear into bite-sized pieces; prep 綜合生菜 120公克, 炸雞 適量, 小番茄 8顆, 酸黃瓜 50公克.
-- Sear proteins (chicken, bacon, shrimp, or salmon) in a skillet with salt and pepper until golden; toast croutons.
-- In a large bowl, toss greens with 2/3 of 炸油 600毫升, 海鹽 1/2小匙, 焙煎胡麻醬 2大匙 (caesar, vinaigrette, or sesame dressing) to lightly coat each leaf.
-- Transfer greens to a serving dish, arrange proteins, tomatoes, and croutons on top, then finish with grated parmesan and nuts.
+- Separate, wash, and spin-dry 綜合生菜 120 g; halve 小番茄 8 pcs; thinly slice 酸黃瓜 50 g; keep separate to avoid excess moisture.
+- Cut 炸雞 as needed into bite-size pieces; fry at 170°C about 6–7 minutes until golden and cooked through; drain on a wire rack to stay crisp.
+- While chicken is still warm, snip into about 3 cm pieces with kitchen shears for easy mixing.
+- In a deep bowl, whisk 焙煎胡麻醬 2 tbsp with 海鹽 1/2 tsp; taste for salt and aroma.
+- Add greens to a large salad bowl; pour about 2/3 of the sesame dressing and toss gently to coat each leaf.
+- Transfer dressed greens to a large platter; mound fried chicken in the center and garnish with tomatoes and pickles for color and acidity.
+- Drizzle remaining sesame dressing; sprinkle a little white sesame; serve while chicken skin is still crisp.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -50,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 綜合生菜
   amount: "120"

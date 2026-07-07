@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: slice burger buns or Danish bread, butter the cut side, and toast in oven/skillet until golden-crisp; prep 小漢堡 適量, 牛肉排 180公克, 煎蛋 適量, 薯條 250公克."
-- Sear patty or cutlet in skillet over medium heat until fully cooked. Melt cheese on top during the last 30 seconds.
-- Spread 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 on the bottom bun/toast, layer lettuce, tomatoes, pickles, protein, and a fried egg.
-- Close the burger (or leave open for sandwich); serve hot with a side of crispy fries.
+- Split mini burger buns 適量; rest beef patty 180 g at room temperature; prepare fried egg 適量 and fries 250 g; wash and slice lettuce and tomato.
+- Heat olive oil 1 tbsp in a skillet over medium; season beef both sides with sea salt 1/3 tsp and black pepper 1/4 tsp; sear 3 minutes without moving.
+- Flip and cook 2–3 minutes until done; set aside and keep warm.
+- Crack egg into the same pan; cook over medium-low into a sunny-side or fully set egg (whites set, yolk runny or firm to taste, about 2–3 minutes).
+- Toast mini bun cut sides dry 1 minute until lightly crisp.
+- Cook fries per package until golden; dust lightly with salt.
+- Stack lettuce, beef, and egg on the bottom mini bun; cap and plate with fries as a kids set while hot.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -49,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 小漢堡
   amount: "適量"

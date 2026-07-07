@@ -27,10 +27,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: clean and dry main meats (half chicken or pork knuckle), rub with sea salt, pepper, and spices; preheat oven to 400°F."
-- Sear meats in a hot skillet to lock in juices, transfer to oven, and roast at 375°F for 30 minutes until fully cooked.
-- Brush generously with remaining 橄欖油 1大匙, 海鹽 1/3小匙, 黑胡椒碎 1/4小匙 during the last 5 minutes of roasting; bake sides (corn, wedges) together.
-- Let meats rest for 5 minutes, carve, and arrange on a large platter with sauerkraut and corn.
+- If charcoal-grilled chicken 180 g is refrigerated, bring to room temperature; wash salad greens as needed and drain. Have pita bread 2 portions ready.
+- Heat pita in a skillet or oven at 350°F for 2–3 minutes until lightly charred outside and still soft inside; cut open and set aside.
+- Sear charcoal-grilled chicken in a preheated skillet over medium heat, 2–3 minutes per side until golden and heated through; slice and set aside.
+- Place salad greens in a large bowl; drizzle olive oil ½ Tbsp, sprinkle sea salt 1/6 tsp and a pinch of black pepper; toss gently.
+- On a large round plate, arrange pita, sliced charcoal-grilled chicken, and dressed salad in separate sections.
+- Drizzle the remaining olive oil ½ Tbsp over the chicken; sprinkle sea salt 1/3 tsp and black pepper ¼ tsp.
+- Check that each section is at the right temperature and serve immediately while hot, keeping the Greek brunch compartmentalized plating.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
@@ -48,7 +51,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-06-09"
+updatedAt: "2026-07-06"
 ingredients:
 - name: 炭烤雞肉
   amount: "180"
