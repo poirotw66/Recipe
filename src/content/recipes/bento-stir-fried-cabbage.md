@@ -23,6 +23,7 @@ tags:
 - 蔬菜料理
 tips:
 - 可加紅蘿蔔絲增加色彩。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 高麗菜
@@ -56,9 +57,11 @@ storage: "冷藏 2 天；微波 40 秒即可。"
 faqs:
 - question: "可以改用青江菜嗎？"
   answer: "可以，時間略縮短至 3 分鐘。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 

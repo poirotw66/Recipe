@@ -55,6 +55,7 @@ steps:
 - Taste and portion chicken and vegetables over rice. For bento, cool to room temperature before closing the lid so rice stays fluffy.
 tips:
 - Blanch broccoli 30 seconds first to shorten stir-fry time.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate 1–2 days.
 substitutions:
 - Swap chicken for salmon cubes.
@@ -63,13 +64,15 @@ faqs:
   answer: Yes—use more broccoli instead.
 - question: Good for lighter eating?
   answer: Yes—serve a smaller rice portion if you prefer.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 青花菜
 - 菇類
 featured: false
 publishedAt: '2026-07-08'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushrooms
 - Baby corn

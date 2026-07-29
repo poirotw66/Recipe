@@ -24,6 +24,7 @@ tags:
 - Vegetables
 tips:
 - Don’t split okra—whole pods keep mucilage and texture better.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 substitutions:
 - Green beans
 relatedIngredients:
@@ -60,9 +61,11 @@ storage: Best fresh; reheated okra softens.
 faqs:
 - question: I dislike slimy okra?
   answer: Air-fry 2 minutes longer for crisper edges—mucilage feels less pronounced.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A quick summer vegetable side for one.

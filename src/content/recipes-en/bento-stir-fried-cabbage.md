@@ -24,6 +24,7 @@ tags:
 - Vegetables
 tips:
 - Add shredded carrot for color.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions: []
 relatedIngredients:
 - 高麗菜
@@ -57,9 +58,11 @@ storage: Refrigerate up to 2 days; microwave about 40 seconds.
 faqs:
 - question: Can I use bok choy instead?
   answer: Yes—shorten the cook to about 3 minutes total.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Stir-fried cabbage is the classic bento side that rarely goes wrong.

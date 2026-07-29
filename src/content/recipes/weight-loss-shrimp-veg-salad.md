@@ -24,6 +24,7 @@ tags:
 - 沙拉
 tips:
 - 可加酪梨增加飽足感，但熱量略增。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 substitutions: []
 relatedIngredients:
 - 蝦仁
@@ -70,9 +71,11 @@ storage: "現拌現吃；蝦仁與醬汁分開裝可冷藏 1 天。"
 faqs:
 - question: "可以不加油嗎？"
   answer: "可以，改只用檸檬汁與鹽，更清爽。"
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 減脂鮮蝦沙拉是夏天不想開爐時的好選擇。

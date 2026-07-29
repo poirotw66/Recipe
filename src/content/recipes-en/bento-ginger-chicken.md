@@ -24,6 +24,7 @@ tags:
 - Chicken
 tips:
 - Split into two meals with rice and blanched greens.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions: []
 relatedIngredients:
 - 雞胸肉
@@ -61,9 +62,11 @@ storage: Refrigerate up to 2 days; microwave about 1 minute with a damp paper to
 faqs:
 - question: Can I use chicken thigh?
   answer: Yes—it stays juicier but carries a bit more fat in the bento.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Ginger chicken is a reliable weekday bento main you can prep ahead.

@@ -24,6 +24,7 @@ tags:
 - Chicken
 tips:
 - Excess marinade prevents crisp skin, so pat the wings lightly before air-frying.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 substitutions:
 - Chicken thigh chunks
 relatedIngredients:
@@ -66,6 +67,8 @@ storage: Refrigerate up to 2 days; reheat at 170°C for 5 minutes.
 faqs:
 - question: Can I use drumsticks instead?
   answer: Yes. Cut boneless thigh meat into chunks and add 3–5 minutes, checking that the center is fully cooked.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-07-30"

@@ -23,6 +23,7 @@ tags:
 - 海鮮料理
 tips:
 - 可加青江菜增加纖維。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 substitutions: []
 relatedIngredients:
 - 蝦仁
@@ -65,9 +66,11 @@ storage: "現做現吃；蝦仁隔夜口感會下降。"
 faqs:
 - question: "可以用雞胸代替蝦嗎？"
   answer: "可以，切條快炒，時間略增 2 分鐘。"
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

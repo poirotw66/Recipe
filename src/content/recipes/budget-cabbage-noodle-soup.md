@@ -23,6 +23,7 @@ tags:
 - 湯麵
 tips:
 - 有加蛋或貢丸會更豐盛，但基本版已夠飽。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 substitutions: []
 relatedIngredients:
 - 高麗菜
@@ -65,9 +66,11 @@ storage: "現做現吃；麵條隔夜會糊。"
 faqs:
 - question: "可以用泡麵嗎？"
   answer: "可以，高麗菜與泡麵一起煮，調味包用一半避免過鹹。"
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 省錢高麗菜麵材料便宜、步驟短，是控制餐費時很實用的湯麵選擇。

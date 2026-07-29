@@ -53,6 +53,7 @@ steps:
 - 꺼내 취향에 따라 후추를 뿌리고 뜨거울 때 바로 낸다.
 tips:
 - 브로콜리는 작은 송이로 자르면 연어와 비슷한 시간에 익습니다.
+- 재료 표면의 물기를 닦고 한 겹으로 놓아 열풍이 지나갈 공간을 만들면 고르게 노릇해집니다.
 storage: 당일 드시는 것이 좋습니다. 냉장 보관 시 1일 이내.
 substitutions:
 - 고등어
@@ -60,13 +61,15 @@ substitutions:
 faqs:
 - question: 에어프라이어가 없어도 되나요?
   answer: 오븐 190°C에서 약 15분 굽으면 비슷하게 할 수 있습니다.
+- question: "재료 두께가 다르면 조리 시간을 어떻게 조절하나요?"
+  answer: "표시된 시간에 먼저 확인하고 가장 두꺼운 부분의 익힘을 봅니다. 필요하면 2~3분씩 추가하세요."
 relatedIngredients:
 - 연어
 - 브로콜리
 - 마늘
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 채 썬 고기
 - 새우

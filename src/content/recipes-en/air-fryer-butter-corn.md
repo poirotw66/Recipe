@@ -24,6 +24,7 @@ tags:
 - Vegetables
 tips:
 - For vegan, use olive oil—slightly different but still aromatic.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 substitutions: []
 relatedIngredients:
 - 玉米
@@ -56,9 +57,11 @@ storage: Best fresh; reheated corn turns firm.
 faqs:
 - question: Frozen corn?
   answer: Thaw, pat dry, air-fry about 2 minutes longer.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Fragrant and fast—a renter-friendly extra side.

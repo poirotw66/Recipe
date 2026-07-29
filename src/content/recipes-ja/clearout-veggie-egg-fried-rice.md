@@ -54,18 +54,21 @@ steps:
 - 火を止める直前にねぎを加えて和え、盛る。
 tips:
 - コーン、にんじんの角切り、ハムを加えても食感が増します。
+- 冷やご飯やゆで麺は広げてから加熱すると、固まりにくく調味料も均一になじみます。
 storage: 冷蔵1日。再加熱はフライパンで炒め直す。
 substitutions: []
 faqs:
 - question: 粒立たせるコツは？
   answer: ご飯を冷ますか冷蔵して水分を減らし、強火で手早く炒める。一度に大量のソースを入れない。
+- question: "作り置きできますか？"
+  answer: "できます。主食と具材を分けて冷蔵し、食べる直前に温めて合わせると食感を保てます。"
 relatedIngredients:
 - ご飯
 - 卵
 - 青ねぎ
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions: []
 ---
 

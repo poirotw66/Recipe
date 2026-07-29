@@ -24,6 +24,7 @@ tags:
 - Tofu dishes
 tips:
 - Air fryer 190°C, 10 minutes, for a lower-oil version.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions: []
 relatedIngredients:
 - 豆腐
@@ -64,9 +65,11 @@ storage: Refrigerate up to 2 days; re-crisp in a skillet 1 minute.
 faqs:
 - question: Can I add eggs?
   answer: Keep tofu as the star; a fried egg on the side adds protein.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A satisfying main for lacto-ovo vegetarians who want to feel full.

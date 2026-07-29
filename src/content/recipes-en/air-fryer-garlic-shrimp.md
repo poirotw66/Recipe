@@ -24,6 +24,7 @@ tags:
 - Seafood
 tips:
 - Leave heads on for aroma if you like—rinse and dry them first.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 substitutions:
 - Squid
 - Scallops
@@ -67,9 +68,11 @@ storage: Best fresh; reheated shrimp turn tough overnight.
 faqs:
 - question: Can I use frozen shrimp?
   answer: Yes—thaw completely and pat very dry or they’ll steam and weep.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 From prep to plate in under 20 minutes—a solid weeknight option.

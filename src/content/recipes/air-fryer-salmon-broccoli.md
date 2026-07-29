@@ -53,6 +53,7 @@ steps:
 - 起鍋可依喜好再撒黑胡椒，趁熱享用。
 tips:
 - 青花菜切小朵，才會和鮭魚差不多時間完成。
+- 食材表面先擦乾並單層鋪放，籃內留出熱風循環空間，成品才會均勻上色。
 storage: 建議當餐吃完；冷藏可保存 1 天。
 substitutions:
 - 鯖魚
@@ -60,13 +61,15 @@ substitutions:
 faqs:
 - question: 沒有氣炸鍋可以做嗎？
   answer: 可以改用烤箱 190 度烤約 15 分鐘。
+- question: "食材厚度不同時要怎麼調整氣炸時間？"
+  answer: "先以食譜時間完成，再從最厚處確認熟度；較厚的部位可每次增加 2～3 分鐘，避免一次加太久。"
 relatedIngredients:
 - 鮭魚
 - 青花菜
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉絲
 - 蝦仁

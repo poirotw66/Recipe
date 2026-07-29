@@ -24,6 +24,7 @@ tags:
 - Pork dishes
 tips:
 - Add diced dried tofu for extra texture.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -64,9 +65,11 @@ storage: Refrigerate topping up to 2 days; splash a little water when reheating.
 faqs:
 - question: Can I use beef instead?
   answer: Yes—cut finer or use ground beef; it may take a bit longer to dry out.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Ginger pork rice is a familiar one-bowl dinner for renters.

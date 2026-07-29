@@ -24,6 +24,7 @@ tags:
 - Mushrooms
 tips:
 - Mushrooms release water—pat dry before air-frying.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 substitutions:
 - King oyster mushroom
 - Shimeji mushrooms
@@ -66,9 +67,11 @@ storage: Refrigerate up to 1 day; reheat at 160°C for 3 minutes.
 faqs:
 - question: Only one mushroom type?
   answer: Yes—this method works for a single variety too.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Low fuss, big aroma—a renter-friendly side from the air fryer.

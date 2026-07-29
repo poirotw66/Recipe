@@ -49,16 +49,19 @@ steps:
 - 塩少々で味を整えて味見し、完全に冷めてからお弁当に分ける。
 tips:
 - にんじんの千切りを加えると色が華やかになります。
+- 冷やご飯やゆで麺は広げてから加熱すると、固まりにくく調味料も均一になじみます。
 storage: 冷蔵2日。電子レンジ約40秒。
 substitutions: []
 faqs:
 - question: 小松菜に代えられますか？
   answer: はい。加熱時間を約3分に短縮してください。
+- question: "作り置きできますか？"
+  answer: "できます。主食と具材を分けて冷蔵し、食べる直前に温めて合わせると食感を保てます。"
 relatedIngredients:
 - キャベツ
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions: []
 ---
 

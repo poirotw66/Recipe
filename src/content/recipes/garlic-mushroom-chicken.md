@@ -55,6 +55,7 @@ steps:
 - 試味調整；起鍋分裝 2 份，趁熱享用或放涼裝便當。
 tips:
 - 雞胸肉切薄一點，會更快熟也不容易柴。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏可保存 2 天，適合隔天帶便當。
 substitutions:
 - 雞腿肉
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: 菇類會出很多水怎麼辦？
   answer: 用中大火炒到水分收乾，再補少量醬油即可。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 雞胸肉
 - 菇類
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 杏鮑菇
 - 玉米筍

@@ -24,6 +24,7 @@ tags:
 - Seafood
 tips:
 - If the fillet is thicker than 2 cm, add about 2 minutes and check the thickest part with a fork before serving.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 substitutions:
 - Salmon
 - Milkfish
@@ -69,6 +70,8 @@ storage: Best eaten fresh. If refrigerated, finish within 1 day and reheat gentl
 faqs:
 - question: Will fish stick to the basket?
   answer: Parchment or a light oil coat helps; flip gently.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-07-30"

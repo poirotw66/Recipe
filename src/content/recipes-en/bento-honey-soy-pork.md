@@ -24,6 +24,7 @@ tags:
 - Pork
 tips:
 - Cook 2–3 servings at once and refrigerate in portions.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions: []
 relatedIngredients:
 - 豬絞肉
@@ -62,9 +63,11 @@ storage: Refrigerate up to 3 days; reheat and spoon over rice.
 faqs:
 - question: Can I freeze it?
   answer: Yes—in small containers up to 2 weeks; thaw and microwave.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Honey soy pork is a practical weekend batch for the week’s bentos.

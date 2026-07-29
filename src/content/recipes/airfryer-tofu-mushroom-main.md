@@ -55,6 +55,7 @@ steps:
 - 輕壓豆腐應外酥內嫩；起鍋依口味補少許鹽，趁熱上桌。
 tips:
 - 豆腐太濕會影響上色，吸乾是關鍵。
+- 食材表面先擦乾並單層鋪放，籃內留出熱風循環空間，成品才會均勻上色。
 storage: 可冷藏 1 天，回烤 3 分鐘恢復口感。
 substitutions:
 - 可加青蔥末增香。
@@ -63,13 +64,15 @@ faqs:
   answer: 可改用烤箱 200 度約 15 分鐘。
 - question: 會不會太乾？
   answer: 中途翻動並保留少量醬汁可改善。
+- question: "食材厚度不同時要怎麼調整氣炸時間？"
+  answer: "先以食譜時間完成，再從最厚處確認熟度；較厚的部位可每次增加 2～3 分鐘，避免一次加太久。"
 relatedIngredients:
 - 豆腐
 - 菇類
 - 蒜頭
 featured: false
 publishedAt: '2026-06-19'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉絲
 - 蝦仁

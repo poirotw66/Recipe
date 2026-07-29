@@ -55,6 +55,7 @@ steps:
 - Air-fry 4–6 minutes more until chicken is golden; cut the thickest piece—no pink inside—and broccoli stems should pierce easily with a fork. Serve hot, spooning pan juices over the top.
 tips:
 - Keep chicken thickness even for uniform doneness.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 storage: Refrigerate up to 1 day; re-crisp about 3 minutes in the air fryer.
 substitutions:
 - Chicken tenderloin works; shorten time by about 2 minutes.
@@ -63,13 +64,15 @@ faqs:
   answer: Pan-sear the chicken, then cover and steam 1 minute to finish.
 - question: Will broccoli dry out?
   answer: A light oil toss and moderate time keeps it tender.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 relatedIngredients:
 - 雞胸肉
 - 青花菜
 - 蒜頭
 featured: false
 publishedAt: '2026-06-10'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushrooms
 - Baby corn

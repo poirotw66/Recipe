@@ -24,6 +24,7 @@ tags:
 - Pork
 tips:
 - No meat mallet? Wrap the chop in plastic and tap with a skillet bottom.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 substitutions:
 - Chicken thigh
 - Pork loin
@@ -72,9 +73,11 @@ storage: Best fresh; refrigerate up to 1 day; reheat at 160°C for 3 minutes.
 faqs:
 - question: No air fryer?
   answer: Pan-sear with little oil, about 3–4 minutes per side—similar but needs more attention.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A reliable one-person main from the air fryer.

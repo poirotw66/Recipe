@@ -55,6 +55,7 @@ steps:
 - Taste and adjust seasoning; divide into 2 portions and serve hot, or cool for bento.
 tips:
 - Slice the breast thinner—it cooks faster and stays juicier.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate up to 2 days; good for next-day bento.
 substitutions:
 - Chicken thigh
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: Mushrooms release a lot of water—what do I do?
   answer: Stir-fry over medium-high until the liquid cooks off, then add a little more soy sauce.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 菇類
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

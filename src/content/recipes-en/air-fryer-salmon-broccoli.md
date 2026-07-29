@@ -53,6 +53,7 @@ steps:
 - Transfer to a plate, sprinkle black pepper if you like, and serve right away while hot.
 tips:
 - Cut broccoli into small florets so it finishes around the same time as the salmon.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 storage: Best eaten the same meal; refrigerate up to 1 day.
 substitutions:
 - Mackerel
@@ -60,13 +61,15 @@ substitutions:
 faqs:
 - question: Can I make this without an air fryer?
   answer: Use a 190°C oven and roast about 15 minutes instead.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 relatedIngredients:
 - 鮭魚
 - 青花菜
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Shredded pork
 - Shrimp

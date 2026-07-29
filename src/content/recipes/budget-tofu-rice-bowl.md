@@ -23,6 +23,7 @@ tags:
 - 豆腐料理
 tips:
 - 可加煎蛋增加飽足感。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -60,9 +61,11 @@ storage: "現做現吃；豆腐隔夜口感會下降。"
 faqs:
 - question: "可以用板豆腐以外的嗎？"
   answer: "板豆腐最適合，嫩豆腐易碎，硬豆腐需切薄。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 省錢豆腐蓋飯是學生族最經濟的晚餐選擇。

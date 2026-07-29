@@ -24,6 +24,7 @@ tags:
 - Quick
 tips:
 - Add corn, carrot dice, or ham for extra texture.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -64,9 +65,11 @@ storage: Refrigerate up to 1 day; reheat in a skillet.
 faqs:
 - question: How do I keep grains separate?
   answer: Use cooled or chilled rice, high heat, and avoid too much sauce at once.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Home-style egg fried rice is fragrant, fast, and one of the easiest weeknight wins.

@@ -24,6 +24,7 @@ tags:
 - Sweet potato
 tips:
 - To cut sugar, use half the honey or a sugar substitute.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 substitutions: []
 relatedIngredients:
 - 地瓜
@@ -55,6 +56,8 @@ storage: Best fresh; refrigerate up to 2 days; reheat at 160°C for 4 minutes.
 faqs:
 - question: Can I use potato?
   answer: Yes. Soak the cubes in cold water to remove excess starch, dry well, then add 2–3 minutes to the air-fry time.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-07-30"

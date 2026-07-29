@@ -23,6 +23,7 @@ tags:
 - 蛋炒飯
 tips:
 - 有蔥花或火腿丁可加入，但基本版已夠好吃。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -59,9 +60,11 @@ storage: "冷藏 1 天；再加熱用平底鍋翻熱。"
 faqs:
 - question: "新煮的飯可以炒嗎？"
   answer: "可以，但需放涼或冷藏 30 分鐘，水分較少較不易黏。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 省錢蛋炒飯是月底預算緊時最可靠的一餐。

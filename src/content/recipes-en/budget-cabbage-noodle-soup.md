@@ -24,6 +24,7 @@ tags:
 - Noodle soup
 tips:
 - Egg drop or fish balls make it heartier; the basic version is already filling.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 substitutions: []
 relatedIngredients:
 - 高麗菜
@@ -66,9 +67,11 @@ storage: Best fresh; noodles turn mushy overnight.
 faqs:
 - question: Can I use instant noodles?
   answer: Yes—cook cabbage with the noodles and use half the seasoning packet to avoid oversalting.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Budget cabbage noodle soup is a practical pick when you are watching grocery spend.

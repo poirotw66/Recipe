@@ -24,6 +24,7 @@ tags:
 - Tofu
 tips:
 - Firm or medium-firm block tofu holds shape best.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 substitutions:
 - Pressed tofu (dougan)
 relatedIngredients:
@@ -64,9 +65,11 @@ storage: Refrigerate up to 2 days; re-crisp at 160°C for 3 minutes.
 faqs:
 - question: Will tofu turn dry?
   answer: Don’t press too long—leave a little moisture inside for tenderness.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 One of the easiest ways to use tofu from the fridge.

@@ -54,16 +54,20 @@ steps:
 - 간을 맞춥니다(토마토가 시면 설탕을 조금 더 넣음). 토마토 소고기와 소스를 밥 위에 올립니다.
 tips:
 - 토마토가 시면 설탕을 조금 더 넣어 균형을 맞추세요.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드시는 것을 권장합니다.
 substitutions:
 - 토마토 통조림
+faqs:
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 소고기
 - 토마토
 - 밥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 대파
 - 고추

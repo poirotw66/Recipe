@@ -23,6 +23,7 @@ tags:
 - 豬肉料理
 tips:
 - 可加豆干丁增加口感。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -63,9 +64,11 @@ storage: "肉燥冷藏 2 天；再加熱時補少許水。"
 faqs:
 - question: "可以用牛肉嗎？"
   answer: "可以，但需切更細或改用牛絞肉，炒乾時間略長。"
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 薑絲肉燥飯是租屋族最熟悉的一人蓋飯之一。

@@ -55,6 +55,7 @@ steps:
 - Press tofu lightly—it should be crisp outside and tender inside. Adjust salt to taste and serve hot.
 tips:
 - Wet tofu browns poorly, so pressing and drying it is the key step.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 storage: Refrigerate 1 day; re-crisp in air fryer 3 minutes.
 substitutions:
 - Extra scallions for aroma.
@@ -63,6 +64,8 @@ faqs:
   answer: Bake at 200°C (400°F) about 15 minutes.
 - question: Will it be too dry?
   answer: Shake midway and leave a little sauce on the mix.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 relatedIngredients:
 - 豆腐
 - 菇類

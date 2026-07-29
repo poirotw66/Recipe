@@ -55,6 +55,7 @@ steps:
 - 간을 맞추고 2인분으로 나눠 뜨거울 때 내며, 식혀 도시락에 담아도 좋습니다.
 tips:
 - 닭가슴살을 더 얇게 썰면 빨리 익고 질기지 않습니다.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 냉장 2일, 다음 날 도시락으로도 좋습니다.
 substitutions:
 - 닭다리살
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: 버섯에서 물이 많이 나오면요?
   answer: 중불~강불로 볶아 수분을 날린 뒤 간장을 조금 더 넣으면 됩니다.
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 닭가슴살
 - 버섯
 - 마늘
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 새송이버섯
 - 옥수수순
