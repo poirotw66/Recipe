@@ -235,7 +235,7 @@ export function mechanicalIssues(ctx) {
  * @param {object} ctx
  */
 export function contentIssues(ctx) {
-  const { slug, title, category, servings, ingredients, steps, stepsText, equipment } = ctx;
+  const { slug, title, category, servings, ingredients, seasonings, steps, stepsText, equipment } = ctx;
   const issues = [];
   const isPasta =
     category === "飯麵" &&
@@ -323,7 +323,12 @@ export function contentIssues(ctx) {
     });
   }
 
-  if (isSoup && /加水|倒入水|注入水/.test(stepsText) && !ingredients.some((n) => n.includes("水"))) {
+  if (
+    isSoup &&
+    /加水|倒入水|注入水/.test(stepsText) &&
+    !ingredients.some((n) => n.includes("水")) &&
+    !seasonings.some((n) => n.includes("水"))
+  ) {
     issues.push({
       type: "Ingredient_Mismatch",
       code: "water_not_listed",

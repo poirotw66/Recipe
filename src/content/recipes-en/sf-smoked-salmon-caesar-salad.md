@@ -52,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 凱薩沙拉
   amount: "適量"
@@ -67,9 +67,6 @@ ingredients:
   unit: ""
   isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
 - name: 海鹽
   amount: "1/2"
   unit: 小匙

@@ -52,7 +52,7 @@ faqs:
   answer: 先把 薄餅與香腸 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 薄餅
   amount: "適量"
@@ -71,9 +71,6 @@ ingredients:
   unit: ""
   isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
 - name: 海鹽
   amount: "1/2"
   unit: 小匙

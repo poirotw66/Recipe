@@ -44,11 +44,11 @@
 ## 修復結果
 
 - Unicode 亂碼內容檔：6 → 0
-- 食譜規則審查：273 Pass／16 Warning／0 Critical → 282 Pass／7 Warning／0 Critical
+- 食譜規則審查：273 Pass／16 Warning／0 Critical → 289 Pass／0 Warning／0 Critical
 - 第一批 15 個 slug 均保留原網址。
 - 涉及料理步驟或材料清單的修改已同步 zh-TW／en／ja／ko。
 - 驗證腳本新增 Unicode replacement character 防回歸檢查。
 
 ## 後續決策
 
-剩餘 7 個 Warning 需分成真問題與啟發式誤報人工覆核；例如部分湯品已把水列在 `seasonings`，但舊規則只檢查 `ingredients`。下一批內容擴寫應等 Search Console 累積曝光與查詢資料後，再從「有曝光但點擊率低」、「排名 8–30」或「進站後缺少下一步」的頁面選擇，不以字數或發布日期單獨決定。
+後續覆核的 7 個 Warning 已於 2026-07-30 全數修正：4 篇沙拉／墨西哥餅移除了未使用的炸油、韓式冬粉豆腐皮捲補齊實際食材與四語內容，另將湯品用水檢查擴及 `seasonings`，消除兩筆已正確列水卻被誤報的情況。下一批內容擴寫應等 Search Console 累積曝光與查詢資料後，再從「有曝光但點擊率低」、「排名 8–30」或「進站後缺少下一步」的頁面選擇，不以字數或發布日期單獨決定。

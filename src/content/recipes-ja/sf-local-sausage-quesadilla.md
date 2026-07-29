@@ -53,7 +53,7 @@ faqs:
   answer: 主役の具材を先に整え、最後にソースをまとわせてから盛り付けると、レストランらしい厚みが出ます。
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 薄餅
   amount: "適量"
@@ -72,9 +72,6 @@ ingredients:
   unit: ""
   isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
 - name: 海鹽
   amount: "1/2"
   unit: 小匙
