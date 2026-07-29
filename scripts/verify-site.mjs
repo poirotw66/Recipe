@@ -237,13 +237,19 @@ if (
 
 if (
   !baseLayout.includes("/scripts/site-analytics.js") ||
-  !baseLayout.includes("static.cloudflareinsights.com/beacon.min.js") ||
-  !baseLayout.includes("data-cf-beacon") ||
   !analyticsScript.includes("recipe_card_click") ||
   !analyticsScript.includes("outbound_link_click") ||
   !fridgePage.includes("fridge-tool.js")
 ) {
   console.error("GA4 interaction tracking must cover recipe cards, outbound links, and the fridge tool.");
+  process.exit(1);
+}
+
+if (
+  baseLayout.includes("static.cloudflareinsights.com") ||
+  baseLayout.includes("data-cf-beacon")
+) {
+  console.error("Do not embed a manual Cloudflare Web Analytics beacon; the Cloudflare edge injects it automatically.");
   process.exit(1);
 }
 

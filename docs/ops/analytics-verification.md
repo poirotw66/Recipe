@@ -22,12 +22,12 @@
 
 ## Cloudflare Web Analytics
 
-此站以 Worker + Static Assets 部署，已採用 Cloudflare Web Analytics 的手動 JS Snippet：
+此站以 Worker + Static Assets 部署，`recipe.bloss0m.com` 已由 Cloudflare 邊緣自動注入 Web Analytics beacon。專案原始碼不應再放手動 JS Snippet，否則同一個頁面會送出兩份 RUM 資料。
 
 1. 在 Cloudflare 的 `Analytics & Logs → Web Analytics` 管理 `recipe.bloss0m.com`。
-2. Snippet 由全站共用的 `BaseLayout.astro` 載入。
-3. 部署後，確認 HTML 出現 `static.cloudflareinsights.com/beacon.min.js`。
-4. 在瀏覽器 Network 面板確認 `/cdn-cgi/rum` POST 請求成功。
+2. 建置產物的原始 HTML 不應包含 `static.cloudflareinsights.com` 或 `data-cf-beacon`。
+3. 部署後，正式站 HTML 應只出現一個由 Cloudflare 自動注入、帶有 `integrity` 屬性的 beacon。
+4. 在瀏覽器 Network 面板確認只有一組 `/cdn-cgi/rum` POST 請求成功。
 
 Cloudflare Web Analytics 用於核對訪客、熱門頁面與實際效能；GA4 用於分析來源、內容路徑與站內互動。兩者應並行，不以 Worker observability 取代。
 
