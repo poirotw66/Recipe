@@ -71,9 +71,11 @@ export const buildRecipeJsonLd = (recipe: LocalizedRecipeEntry, locale: Locale =
   description: recipe.data.description,
   url: recipePageUrl,
   image: [coverImageUrl],
+  mainEntityOfPage: recipePageUrl,
   author: {
     "@type": "Organization",
-    name: brandName
+    name: brandName,
+    url: absoluteUrl("/about/")
   },
   datePublished: recipe.data.publishedAt.toISOString().slice(0, 10),
   dateModified: recipe.data.updatedAt.toISOString().slice(0, 10),
@@ -84,7 +86,10 @@ export const buildRecipeJsonLd = (recipe: LocalizedRecipeEntry, locale: Locale =
   recipeCategory: recipe.data.category,
   recipeCuisine: recipeCuisineByLocale[locale],
   keywords: recipe.data.tags.join(", "),
-  recipeIngredient: recipe.data.ingredients.map((item) => `${item.name} ${item.amount}${item.unit}`),
+  recipeIngredient: [
+    ...recipe.data.ingredients.map((item) => `${item.name} ${item.amount}${item.unit}`),
+    ...recipe.data.seasonings.map((item) => `${item.name} ${item.amount}${item.unit}`)
+  ],
   recipeInstructions: recipe.data.steps.map((step, index) => {
     const position = index + 1;
     return {
@@ -92,8 +97,7 @@ export const buildRecipeJsonLd = (recipe: LocalizedRecipeEntry, locale: Locale =
       position,
       name: stepName(position),
       text: step,
-      url: `${recipePageUrl}#step-${position}`,
-      image: coverImageUrl
+      url: `${recipePageUrl}#step-${position}`
     };
   }),
   nutrition: recipe.data.calories

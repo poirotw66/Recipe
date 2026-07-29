@@ -34,6 +34,7 @@ const requiredFiles = [
   "public/favicon-48.png",
   "public/apple-touch-icon.png",
   "docs/ops/search-console-setup.md",
+  "docs/ops/analytics-verification.md",
   "docs/ops/monthly-traffic-review.md",
   "src/pages/robots.txt.ts",
   "src/pages/sitemap-index.xml.ts",
@@ -48,6 +49,7 @@ const requiredFiles = [
   "src/components/Breadcrumb.astro",
   "public/ads.txt",
   "public/scripts/fridge-tool.js",
+  "public/scripts/site-analytics.js",
   "public/scripts/recipe-list-filter.js",
   "public/scripts/site-nav.js",
   "public/images/.gitkeep",
@@ -216,10 +218,30 @@ if (!seoLib.includes("buildItemListJsonLd") || !seoLib.includes('"ItemList"')) {
 if (
   !seoLib.includes('"@type": "HowToStep"') ||
   !seoLib.includes("name: stepName(position)") ||
-  !seoLib.includes("#step-${position}") ||
-  !seoLib.includes("image: coverImageUrl")
+  !seoLib.includes("#step-${position}")
 ) {
   console.error("src/lib/seo.ts must emit complete HowToStep recipeInstructions for Recipe rich results.");
+  process.exit(1);
+}
+
+const recipeImage = read("src/components/RecipeImage.astro");
+const analyticsScript = read("public/scripts/site-analytics.js");
+
+if (
+  !recipeImage.includes('loading={large ? "eager" : "lazy"}') ||
+  !recipeImage.includes('fetchpriority={large ? "high" : "auto"}')
+) {
+  console.error("Recipe hero images must load eagerly with high fetch priority.");
+  process.exit(1);
+}
+
+if (
+  !baseLayout.includes("/scripts/site-analytics.js") ||
+  !analyticsScript.includes("recipe_card_click") ||
+  !analyticsScript.includes("outbound_link_click") ||
+  !fridgePage.includes("fridge-tool.js")
+) {
+  console.error("GA4 interaction tracking must cover recipe cards, outbound links, and the fridge tool.");
   process.exit(1);
 }
 

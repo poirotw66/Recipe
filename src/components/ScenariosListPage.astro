@@ -62,7 +62,7 @@ const recipeCountLabel = (count: number) => content.recipeCountLabel.replace("{c
               <h2>{getScenarioLabel(scenario, locale)}</h2>
               <p>{getScenarioDescription(scenario, locale)}</p>
               <div class="chip-row">
-                {getScenarioTags(scenario, locale).map((tag) => (
+                {(getScenarioTags(scenario, locale) ?? []).map((tag) => (
                   <span class="chip">{tag}</span>
                 ))}
               </div>
@@ -85,7 +85,7 @@ const recipeCountLabel = (count: number) => content.recipeCountLabel.replace("{c
                 <p>{getScenarioDescription(scenario, locale)}</p>
                 <div class="chip-row">
                   <span class="chip note">{recipeCountLabel(recipeCount)}</span>
-                  {getScenarioTags(scenario, locale)
+                  {(getScenarioTags(scenario, locale) ?? [])
                     .slice(0, 2)
                     .map((tag) => (
                       <span class="chip">{tag}</span>

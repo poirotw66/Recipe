@@ -243,7 +243,7 @@ const syncPreferenceButtons = () => {
   });
 };
 
-const submitValue = (value) => {
+const submitValue = (value, trackSearch = true) => {
   if (!(fridgeInput instanceof HTMLTextAreaElement) || !(fridgeError instanceof HTMLElement)) {
     return;
   }
@@ -279,6 +279,16 @@ const submitValue = (value) => {
     .join(toolData.locale === "en" ? "; " : "；");
 
   const rankedRecipes = rankRecipes(matched);
+
+  if (trackSearch) {
+    window.bloomTrack?.("fridge_search", {
+      ingredient_count: tokens.length,
+      matched_ingredient_count: matched.length,
+      unresolved_ingredient_count: unresolved.length,
+      preference_count: selectedPreferences.size,
+      result_count: rankedRecipes.length
+    });
+  }
 
   if (rankedRecipes.length === 0) {
     showNoResults(
@@ -401,7 +411,7 @@ syncPreferenceButtons();
 
 if (initialIngredients && fridgeInput instanceof HTMLTextAreaElement) {
   fridgeInput.value = initialIngredients;
-  submitValue(initialIngredients);
+  submitValue(initialIngredients, false);
 } else {
   syncClearButton();
 }

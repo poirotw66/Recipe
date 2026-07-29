@@ -45,6 +45,10 @@ const availableLocales = Astro.props.alternateLocales ?? locales;
     select.addEventListener("change", (event) => {
       const target = event.currentTarget;
       if (target instanceof HTMLSelectElement && target.value) {
+        window.bloomTrack?.("language_change", {
+          target_path: target.value,
+          target_locale: target.options[target.selectedIndex]?.text ?? ""
+        });
         window.location.assign(target.value);
       }
     });

@@ -50,9 +50,9 @@ const relatedScenarios = hub.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
 const hubTitle = t(locale, `nav.${hubSlug === "air-fryer" ? "airFryer" : hubSlug === "quick-meals" ? "quickMeals" : hubSlug === "restaurant-replicas" ? "restaurantReplicas" : hubSlug}`);
-const hubDescription = getTopicHubDescription(hub, locale);
-const hubSeoTitle = getTopicHubSeoTitle(hub, locale);
-const hubSeoDescription = getTopicHubSeoDescription(hub, locale);
+const hubDescription = getTopicHubDescription(hub, locale) ?? hub.description;
+const hubSeoTitle = getTopicHubSeoTitle(hub, locale) ?? hubTitle;
+const hubSeoDescription = getTopicHubSeoDescription(hub, locale) ?? hubDescription;
 const collectionJsonLd = buildCollectionPageJsonLd(hubSeoTitle, hubSeoDescription, canonical);
 const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: t(locale, "nav.home"), path: localePath(locale, "/") },
@@ -113,15 +113,15 @@ const tierLabels: Record<string, string> = {
             <section class="hub-section">
               <div class="hub-section__head">
                 <div>
-                  <p class="eyebrow">{t(locale, "brandSpecialShowcase")}</p>
-                  <h2>{t(locale, "brandSpecialIntro")}</h2>
+                  <p class="eyebrow">{t(locale, "taxonomy.brandSpecialShowcase")}</p>
+                  <h2>{t(locale, "taxonomy.brandSpecialIntro")}</h2>
                 </div>
               </div>
               <div class="brand-showcases-grid">
                 <article class="brand-card">
                   <div>
                     <div class="chip-row">
-                      <span class="chip success">{t(locale, "brandSpecialCompletion")}: {hubRecipes.filter(r => r.slug.startsWith('sf-')).length}/70</span>
+                      <span class="chip success">{t(locale, "taxonomy.brandSpecialCompletion")}: {hubRecipes.filter(r => r.slug.startsWith('sf-')).length}/70</span>
                       <span class="chip note">100%</span>
                     </div>
                     <h3>貳樓 Second Floor Cafe</h3>
@@ -132,13 +132,13 @@ const tierLabels: Record<string, string> = {
                        "대만 인기 브런치 체인. 에그 베네딕트, 파스타, 리조토, 셰프 디저트 전 메뉴 완전 재현."}
                     </p>
                   </div>
-                  <a href={localePath(locale, "/restaurant-replicas/second-floor-cafe")} class="button small">{t(locale, "brandSpecialView")}</a>
+                  <a href={localePath(locale, "/restaurant-replicas/second-floor-cafe")} class="button small">{t(locale, "taxonomy.brandSpecialView")}</a>
                 </article>
                 
                 <article class="brand-card">
                   <div>
                     <div class="chip-row">
-                      <span class="chip success">{t(locale, "brandSpecialCompletion")}: {hubRecipes.filter(r => r.slug.startsWith('dh-')).length}/58</span>
+                      <span class="chip success">{t(locale, "taxonomy.brandSpecialCompletion")}: {hubRecipes.filter(r => r.slug.startsWith('dh-')).length}/58</span>
                       <span class="chip note">100%</span>
                     </div>
                     <h3>涓豆腐 Dubu House</h3>
@@ -149,7 +149,7 @@ const tierLabels: Record<string, string> = {
                        "대한민국 대표 순두부찌개 전문점. 대표 순두부찌개, 돌솥밥, 한국식 치킨 전 메뉴 완전 재현."}
                     </p>
                   </div>
-                  <a href={localePath(locale, "/restaurant-replicas/dubu-house")} class="button small">{t(locale, "brandSpecialView")}</a>
+                  <a href={localePath(locale, "/restaurant-replicas/dubu-house")} class="button small">{t(locale, "taxonomy.brandSpecialView")}</a>
                 </article>
               </div>
             </section>

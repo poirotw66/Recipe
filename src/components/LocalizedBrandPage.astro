@@ -17,9 +17,9 @@ const { brandSlug, locale } = Astro.props;
 
 // 1. Get Brand Catalog configuration
 const categoryData = catalog.categories.find(c => c.slug === brandSlug);
-const brandData = categoryData?.restaurants[0];
+const brandData = categoryData?.restaurants.find((restaurant) => "recipePrefix" in restaurant);
 
-if (!brandData) {
+if (!categoryData || !brandData) {
   throw new Error(`Brand not found in catalog: ${brandSlug}`);
 }
 
@@ -47,8 +47,8 @@ const brandConfig = {
 }[brandSlug];
 
 const brandName = locale === "zh-TW" ? brandConfig.zhName : brandConfig.enName;
-const brandDesc = locale === "zh-TW" ? brandData.description :
-                 locale === "en" ? (brandSlug === "second-floor-cafe" ? "Famous Taiwanese brunch chain. Fully replicated Benedicts, pastas, risottos, and chef desserts." : "Top Korean soft tofu stew chain. Fully replicated soondubu, stone pot rice, and fried chicken.") :
+const brandDesc = locale === "zh-TW" ? categoryData.description :
+                 locale === "en" ? (brandSlug === "second-floor-cafe" ? "Unofficial home-kitchen interpretations inspired by the public menu of this Taiwanese brunch chain." : "Unofficial home-kitchen interpretations inspired by the public menu of this Korean soft tofu stew chain.") :
                  locale === "ja" ? (brandSlug === "second-floor-cafe" ? "台湾で大人気のブランチチェーン。エッグベネディクト、パスタ、リゾット、特製デザートの完全再現。" : "韓国の純豆腐チゲ専門店。定番の純豆腐チゲ、石釜ご飯、韓国風フライドチキンの完全再現。") :
                  (brandSlug === "second-floor-cafe" ? "대만 인기 브런치 체인. 에그 베네딕트, 파스타, 리조토, 셰프 디저트 전 메뉴 완전 재현." : "대한민국 대표 순두부찌개 전문점. 대표 순두부찌개, 돌솥밥, 한국식 치킨 전 메뉴 완전 재현.");
 
@@ -73,7 +73,7 @@ const signatureRecipes = brandRecipes.filter(r => signatureSlugs.includes(r.slug
 
 // 7. SEO
 const canonical = localePath(locale, `/restaurant-replicas/${brandSlug}`);
-const seoTitle = locale === "zh-TW" ? `${brandName} 還原專區 | Bloom Kitchen 今天煮什麼` : `${brandName} Replica Showcase | Bloom Kitchen`;
+const seoTitle = `${brandName} | ${t(locale, "taxonomy.brandSpecialShowcase")} | Bloom Kitchen`;
 const seoDescription = brandDesc;
 const collectionJsonLd = buildCollectionPageJsonLd(seoTitle, seoDescription, canonical);
 const breadcrumbJsonLd = buildBreadcrumbJsonLd([
@@ -98,9 +98,9 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
     <div class="container brand-hero__content">
       <a href={localePath(locale, "/restaurant-replicas")} class="brand-hero__back-link">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 4px; vertical-align: middle;"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
-        {t(locale, "brandSpecialBack")}
+        {t(locale, "taxonomy.brandSpecialBack")}
       </a>
-      <p class="eyebrow brand-hero__eyebrow">{t(locale, "brandSpecialShowcase")}</p>
+      <p class="eyebrow brand-hero__eyebrow">{t(locale, "taxonomy.brandSpecialShowcase")}</p>
       <h1 class="brand-hero__title">{brandName}</h1>
       <p class="brand-hero__desc">{brandDesc}</p>
     </div>
@@ -111,12 +111,12 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
       {/* Progress Board */}
       <div class="progress-board card">
         <div class="progress-board__header">
-          <h3>{t(locale, "brandSpecialIntro")}</h3>
+          <h3>{t(locale, "taxonomy.brandSpecialIntro")}</h3>
           <span class="progress-board__badge chip success">{completionPercent}% Completed</span>
         </div>
         <div class="progress-board__metrics">
           <div class="metric">
-            <span class="metric__label">{t(locale, "brandSpecialCompletion")}</span>
+            <span class="metric__label">{t(locale, "taxonomy.brandSpecialCompletion")}</span>
             <span class="metric__val">{publishedCount} / {totalPlanned} {t(locale, "taxonomy.topicHubCount")}</span>
           </div>
           <div class="progress-bar-container">
@@ -125,13 +125,18 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
         </div>
       </div>
 
+      <aside class="brand-disclaimer" aria-label={t(locale, "taxonomy.brandSpecialDisclaimerTitle")}>
+        <strong>{t(locale, "taxonomy.brandSpecialDisclaimerTitle")}</strong>
+        <p>{t(locale, "taxonomy.brandSpecialDisclaimer")}</p>
+      </aside>
+
       {/* Signature Spotlights */}
       {signatureRecipes.length > 0 && (
         <section class="hub-section">
           <div class="hub-section__head">
             <div>
               <p class="eyebrow">{brandName}</p>
-              <h2>{t(locale, "brandSpecialSignature")}</h2>
+              <h2>{t(locale, "taxonomy.brandSpecialSignature")}</h2>
             </div>
           </div>
           <div class="grid signature-grid">
@@ -147,7 +152,7 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
         <div class="hub-section__head brand-menu-head">
           <div>
             <p class="eyebrow">{brandName}</p>
-            <h2>{t(locale, "brandSpecialMenu")}</h2>
+            <h2>{t(locale, "taxonomy.brandSpecialMenu")}</h2>
           </div>
         </div>
 
@@ -260,6 +265,24 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
     height: 100%;
     border-radius: var(--radius-sm);
     transition: width 0.3s ease;
+  }
+  .brand-disclaimer {
+    margin-bottom: var(--space-8);
+    padding: var(--space-4) var(--space-5);
+    border: 1px solid var(--bran-line);
+    border-left: 4px solid var(--mushroom);
+    border-radius: var(--radius-sm);
+    background: var(--porcelain);
+    color: var(--mushroom);
+  }
+  .brand-disclaimer strong {
+    display: block;
+    margin-bottom: var(--space-2);
+    color: var(--soy-ink);
+  }
+  .brand-disclaimer p {
+    margin: 0;
+    line-height: 1.7;
   }
   .signature-grid {
     grid-template-columns: 1fr;

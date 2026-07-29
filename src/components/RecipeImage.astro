@@ -10,5 +10,13 @@ const classNames = large ? "recipe-image recipe-image--large" : "recipe-image";
 ---
 
 <div class={classNames}>
-  <img src={src} alt={alt} loading="lazy" decoding="async" width="800" height="600" />
+  <img
+    src={src}
+    alt={alt}
+    loading={large ? "eager" : "lazy"}
+    fetchpriority={large ? "high" : "auto"}
+    decoding="async"
+    width="800"
+    height="600"
+  />
 </div>

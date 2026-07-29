@@ -3,7 +3,7 @@
     {
       "slug": "michelin-taiwanese",
       "name": "米其林台菜",
-      "description": "摘星與入選的精緻台菜名店，以宴席技法與經典味型為還原目標。",
+      "description": "摘星與入選的精緻台菜名店，以宴席技法與經典味型作為家用料理靈感。",
       "restaurants": [
         {
           "name": "金蓬萊遵古台菜",
@@ -72,7 +72,7 @@
     {
       "slug": "classic-taiwanese",
       "name": "經典台菜與酒家菜",
-      "description": "老台菜、酒家菜與創始店型譜，還原醬色、火候與配菜邏輯。",
+      "description": "老台菜、酒家菜與創始店型譜，拆解醬色、火候與配菜邏輯。",
       "restaurants": [
         {
           "name": "欣葉台菜創始店",
@@ -108,7 +108,7 @@
     {
       "slug": "second-floor-cafe",
       "name": "貳樓 Second Floor Cafe",
-      "description": "全天候美式早午餐連鎖，還原曙光醬、班尼蛋、椒麻唐揚雞麵與橙香丹麥等招牌。完整菜單見 docs/content/second-floor-cafe-menu-replication.md",
+      "description": "以全天候美式早午餐連鎖的公開菜單為靈感，設計曙光醬、班尼蛋、椒麻唐揚雞麵與橙香丹麥等家用版本。",
       "restaurants": [
         {
           "name": "貳樓 Second Floor Cafe",
@@ -132,7 +132,7 @@
     {
       "slug": "dubu-house",
       "name": "涓豆腐 Dubu House",
-      "description": "韓國嫩豆腐煲連鎖，還原順豆腐、石鍋飯、韓式炸雞與季節限定菜色。完整菜單見 docs/content/dubu-house-menu-replication.md",
+      "description": "以韓國嫩豆腐煲連鎖的公開菜單為靈感，設計順豆腐、石鍋飯、韓式炸雞與季節菜色的家用版本。",
       "restaurants": [
         {
           "name": "涓豆腐 Dubu House",
@@ -156,7 +156,7 @@
     {
       "slug": "famous-snacks",
       "name": "國民小吃與麵食名店",
-      "description": "從麵線、牛肉麵到小籠與擔仔麵，還原湯頭、麵體與醬料比例。",
+      "description": "從麵線、牛肉麵到小籠與擔仔麵，拆解湯頭、麵體與醬料比例。",
       "restaurants": [
         {
           "name": "鼎泰豐",
@@ -207,7 +207,7 @@
     {
       "slug": "michelin-fine-dining",
       "name": "米其林精緻料理",
-      "description": "三星與時尚料理餐廳，作為技法與擺盤靈感；還原門檻較高，列為長期目標。",
+      "description": "三星與時尚料理餐廳，作為技法與擺盤靈感；家用轉譯門檻較高，列為長期目標。",
       "restaurants": [
         {
           "name": "頤宮 Le Palais",

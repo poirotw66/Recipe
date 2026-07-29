@@ -74,7 +74,7 @@ const relatedRecipeListJsonLd =
 
 <BaseLayout
   title={`${ingredientName} ${t(locale, "nav.ingredients")}`}
-  description={getIngredientDescription(ingredient, locale)}
+  description={getIngredientDescription(ingredient, locale) ?? ingredient.description}
   canonicalPath={canonical}
   alternatePath={`/ingredients/${ingredient.slug}`}
   alternateLocales={alternateLocales}
