@@ -29,7 +29,7 @@ restaurantSource:
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
 - Dice chicken 180 g and onion finely; warm tortillas 適量; shred cheese 40 g.
-- Heat a little oil in a skillet over medium; sauté onion 1 minute, add chicken and stir-fry 4–5 minutes until cooked through; season with sea salt 1/2 tsp and a pinch of black pepper; set aside.
+- Heat 1 tsp cooking oil in a skillet over medium; sauté onion 1 minute, add chicken and stir-fry 4–5 minutes until cooked through; season with 1/2 tsp sea salt and a pinch of black pepper; set aside.
 - Heat another skillet over low; lay a tortilla flat and cover half with cheese, cooked chicken, and salsa 適量.
 - Fold into a half-moon and press flat with a spatula.
 - Cook over medium-low 2–3 minutes until the bottom is speckled golden and cheese begins to melt.
@@ -53,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 薄餅
   amount: "適量"
@@ -72,9 +72,9 @@ ingredients:
   unit: ""
   isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
+- name: Cooking oil
+  amount: "1"
+  unit: tsp
 - name: 海鹽
   amount: "1/2"
   unit: 小匙

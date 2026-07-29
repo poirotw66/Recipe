@@ -27,11 +27,11 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: toss 180 g diced chicken with South Seas spice blend to taste, 1/3 tsp sea salt, and 1/4 tsp cracked black pepper; marinate 10 minutes; bring risotto rice to taste to room temperature; warm 250 ml broth."
+- "Prep: use half of the 1/3 tsp sea salt and half of the 1/4 tsp cracked black pepper with the South Seas spice blend to season 180 g diced chicken; marinate 10 minutes and reserve the remaining salt and pepper for finishing. Bring the risotto rice to room temperature and warm 250 ml broth."
 - Heat 1 Tbsp olive oil in a skillet over medium; stir-fry marinated chicken with South Seas spice blend to taste 5–6 minutes until golden outside and fully cooked; set aside.
 - In the same pan, stir-fry risotto rice to taste over medium heat 2 minutes until grains are coated with oil and fragrant (toast the rice).
 - Reduce to medium-low; add about 1/2 ladle hot broth at a time, stirring until absorbed, repeat 4–5 times about 8 minutes until creamy risotto texture.
-- Return chicken and toss with the risotto; taste and adjust with 1/3 tsp sea salt and 1/4 tsp cracked black pepper.
+- Return the chicken and toss with the risotto; taste and adjust with the reserved sea salt and black pepper.
 - Raise to medium heat and reduce until every grain is coated in spiced oil with a lightly sticky bite.
 - Plate and sprinkle a little more South Seas spice blend on top if desired.
 - Serve hot—the rich South Seas spiced chicken rice of Second Floor Cafe.
@@ -52,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 南洋香料
   amount: "適量"

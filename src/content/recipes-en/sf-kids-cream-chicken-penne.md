@@ -52,7 +52,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 雞肉
   amount: "180"
@@ -80,9 +80,6 @@ seasonings:
   unit: 大匙
 - name: 海鹽
   amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
   unit: 小匙
 - name: 白醬
   amount: "適量"

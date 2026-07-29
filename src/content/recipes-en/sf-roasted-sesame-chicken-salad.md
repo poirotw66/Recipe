@@ -29,7 +29,7 @@ restaurantSource:
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
 - Separate, wash, and spin-dry 綜合生菜 120 g; halve 小番茄 8 pcs; thinly slice 酸黃瓜 50 g; keep separate to avoid excess moisture.
-- Cut 炸雞 as needed into bite-size pieces; fry at 170°C about 6–7 minutes until golden and cooked through; drain on a wire rack to stay crisp.
+- Heat the frying oil to 170°C; fry the chicken for 6–7 minutes until golden and cooked through, then drain on a wire rack to stay crisp.
 - While chicken is still warm, snip into about 3 cm pieces with kitchen shears for easy mixing.
 - In a deep bowl, whisk 焙煎胡麻醬 2 tbsp with 海鹽 1/2 tsp; taste for salt and aroma.
 - Add greens to a large salad bowl; pour about 2/3 of the sesame dressing and toss gently to coat each leaf.
@@ -53,7 +53,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 綜合生菜
   amount: "120"
@@ -81,6 +81,9 @@ seasonings:
 - name: 焙煎胡麻醬
   amount: "2"
   unit: 大匙
+- name: White sesame seeds
+  amount: pinch
+  unit: ""
 ---
 
 This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.

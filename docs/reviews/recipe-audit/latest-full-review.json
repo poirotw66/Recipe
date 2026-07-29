@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-22",
+  "generated_at": "2026-07-29",
   "recipe_count": 289,
-  "pass": 289,
-  "warning": 0,
+  "pass": 282,
+  "warning": 7,
   "critical": 0,
-  "summary_markdown": "docs/reviews/recipe-audit/audit-summary-2026-06-22-full-289.md",
+  "summary_markdown": "C:\\Users\\sora0\\Desktop\\Recipe\\docs\\reviews\\recipe-audit\\audit-summary-2026-07-29-full-289.md",
   "slugs": [
     {
       "slug": "air-fryer-butter-corn",
@@ -224,7 +224,7 @@
     {
       "slug": "clearout-tofu-veggie-soup",
       "title": "豆腐蔬菜清湯",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "clearout-veggie-egg-fried-rice",
@@ -434,7 +434,7 @@
     {
       "slug": "dh-korean-vermicelli-tofu-roll",
       "title": "韓式金絲豆腐捲",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "dh-original-korean-fried-chicken",
@@ -974,7 +974,7 @@
     {
       "slug": "sf-classic-caesar-salad",
       "title": "經典凱薩沙拉",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "sf-classic-ham-mushroom-eggs-benedict",
@@ -1034,7 +1034,7 @@
     {
       "slug": "sf-local-sausage-quesadilla",
       "title": "墨西哥 Local 香腸酥餅",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "sf-mini-beef-egg-burger-set",
@@ -1124,7 +1124,7 @@
     {
       "slug": "sf-second-floor-saltwater-chicken-salad",
       "title": "貳樓金牌鹽水雞沙拉",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
@@ -1139,7 +1139,7 @@
     {
       "slug": "sf-smoked-salmon-caesar-salad",
       "title": "經典燻鮭魚凱薩沙拉",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
@@ -1434,7 +1434,7 @@
     {
       "slug": "weight-loss-clear-mushroom-soup",
       "title": "減脂菇類清湯",
-      "status": "Pass"
+      "status": "Warning"
     },
     {
       "slug": "weight-loss-shrimp-veg-salad",

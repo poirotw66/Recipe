@@ -52,7 +52,7 @@ faqs:
   answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 雞肉
   amount: "180"
@@ -80,9 +80,6 @@ seasonings:
   unit: 大匙
 - name: 海鹽
   amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
   unit: 小匙
 - name: 白醬
   amount: "適量"

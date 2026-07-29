@@ -1,7 +1,7 @@
 ---
 title: Bento Black Pepper Beef
 recipeId: bento-black-pepper-beef
-description: Quick black-pepper beef for lunch boxes?�still flavorful after reheating the next day.
+description: Quick black-pepper beef for lunch boxes, designed to stay flavorful after reheating the next day.
 coverImage: /images/recipes/bento-black-pepper-beef.webp
 servings: 1
 prepTime: 10
@@ -26,7 +26,7 @@ tips:
 - Add bell pepper strips for color and crunch.
 substitutions: []
 relatedIngredients:
-- ?��?
+- 牛肉
 - 洋蔥
 customAdditions: []
 ingredients:
@@ -54,7 +54,7 @@ seasonings:
 - name: Olive oil
   amount: '1'
   unit: Tbsp
-intro: Stir-fry fast and stop at medium-rare for bento?�reheating finishes the cook.
+intro: Slice the beef thinly and stir-fry it quickly so it remains tender after the lunch box is reheated.
 steps:
 - Slice beef (180 g) thinly against the grain; toss with soy sauce (1 tbsp), rice wine (1 tbsp), cornstarch (1 tsp), and black pepper (1/2 tsp) for 10 minutes. Cut onion (1/4) into strips; reserve remaining black pepper (1/2 tsp) for stir-frying.
 - Heat a skillet over medium-high; add olive oil (1 tbsp). When hot, stir-fry beef about 2 minutes until colored; immediately remove.
@@ -64,10 +64,10 @@ steps:
 storage: Refrigerate up to 2 days; microwave about 1 minute to reheat.
 faqs:
 - question: Can I use pork instead?
-  answer: Yes?�use thin pork loin slices and the same timing.
+  answer: Yes. Use thin pork loin slices and cook them completely before cooling and packing the lunch box.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Black pepper beef is one of the most popular bento mains for good reason.

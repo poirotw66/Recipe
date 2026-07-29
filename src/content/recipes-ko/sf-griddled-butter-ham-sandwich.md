@@ -55,7 +55,7 @@ faqs:
   answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 歐包
   amount: "2"
@@ -76,10 +76,6 @@ ingredients:
 - name: 薯塊
   amount: "250"
   unit: 公克
-  isCore: false
-- name: 吐司
-  amount: "2"
-  unit: 份
   isCore: false
 seasonings:
 - name: 橄欖油

@@ -28,11 +28,11 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: season both sides of 180 g hamburger patty with 1/3 tsp sea salt and 1/4 tsp cracked black pepper; cube 40 g cheese; have 2 fried eggs ready; steam 220 g jasmine rice and keep warm, fluffing with a spatula."
+- "Prep: use half of the 1/3 tsp sea salt and half of the 1/4 tsp cracked black pepper to season both sides of the 180 g hamburger patty; reserve the rest for the rice. Cube 40 g cheese, prepare 2 fried eggs, and steam and fluff 220 g jasmine rice."
 - Heat 1 Tbsp olive oil in a skillet over medium; sear patty 3 minutes per side until browned and cooked through (no pink); rest 2 minutes.
 - In the same pan over low heat, fry 2 eggs one at a time until whites set and yolks are half-runny (about 2 minutes each); set aside.
 - Leave pan drippings; add 220 g jasmine rice with black pepper sauce to taste and 1/2 tsp chili flakes; stir-fry over medium heat 2 minutes until grains are evenly coated.
-- Taste and adjust with 1/3 tsp sea salt and 1/4 tsp cracked black pepper; stir until rice is dry with wok aroma and sauce is slightly reduced, then turn off heat.
+- Taste and adjust with the reserved sea salt and black pepper; stir until the rice is dry with wok aroma and the sauce is slightly reduced, then turn off the heat.
 - Mound rice in a deep plate; lay 40 g cheese on top to half-melt from residual heat.
 - Top with the patty and 2 fried eggs; drizzle a little more black pepper sauce if desired.
 - Serve hot; break the runny yolks and mix into the rice.
@@ -56,7 +56,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 漢堡排
   amount: "180"

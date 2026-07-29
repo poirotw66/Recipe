@@ -28,12 +28,12 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: season both sides of 220 g thick-cut pork chop with 1/3 tsp sea salt and 1/4 tsp cracked black pepper; cut 120 g broccoli into small florets; dice 80 g bacon; shred 40 g cheese; warm 300 ml broth over low heat."
+- "Prep: use half of the 1/3 tsp sea salt and half of the 1/4 tsp cracked black pepper to season both sides of the 220 g pork chop; reserve the rest for the rice. Cut 120 g broccoli into florets, dice 80 g bacon, shred 40 g cheese, and warm 300 ml broth over low heat."
 - Heat 1 Tbsp olive oil in a skillet over medium; sear pork 3–4 minutes per side until golden and cooked through (no pink juices), rest 3 minutes, then slice thick.
 - In the same pan, cook bacon 2 minutes until crisp and fat renders; add broccoli and stir-fry 2 minutes until bright green; set aside with pork.
 - Add a little more oil to the pan; stir-fry 220 g cream rice with Dawn sauce to taste over medium heat 2 minutes until grains are coated and separate (toast the rice).
 - Reduce to medium-low; add about 1/2 ladle hot broth at a time, stirring until almost absorbed before the next addition; keep stirring with a spatula, repeat 4–5 times about 8 minutes until creamy risotto texture.
-- Stir in heavy cream to taste with 1/3 tsp sea salt and 1/4 tsp cracked black pepper; simmer 1 minute until thickened to risotto consistency.
+- Stir in heavy cream to taste with the reserved sea salt and black pepper; simmer 1 minute until thickened to risotto consistency.
 - Spread cream rice in an ovenproof dish; top with sliced pork, bacon, and broccoli; cover with 40 g shredded cheese.
 - Bake at 200°C 8 minutes until cheese is golden and melted; serve hot.
 tips:
@@ -54,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 厚切豬排
   amount: "220"

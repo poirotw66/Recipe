@@ -55,7 +55,7 @@ faqs:
   answer: 主役の具材を先に整え、最後にソースをまとわせてから盛り付けると、レストランらしい厚みが出ます。
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 歐包
   amount: "2"
@@ -76,10 +76,6 @@ ingredients:
 - name: 薯塊
   amount: "250"
   unit: 公克
-  isCore: false
-- name: 吐司
-  amount: "2"
-  unit: 份
   isCore: false
 seasonings:
 - name: 橄欖油

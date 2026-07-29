@@ -51,7 +51,7 @@ faqs:
   answer: 先把 白醬與雞肉 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 雞肉
   amount: "180"
@@ -79,9 +79,6 @@ seasonings:
   unit: 大匙
 - name: 海鹽
   amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
   unit: 小匙
 - name: 白醬
   amount: "適量"

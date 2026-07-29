@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-22",
+  "generated_at": "2026-07-29",
   "recipe_count": 289,
-  "pass": 289,
-  "warning": 0,
+  "pass": 282,
+  "warning": 7,
   "critical": 0,
   "recipes": [
     {
@@ -266,7 +266,7 @@
     {
       "slug": "clearout-tofu-veggie-soup",
       "title": "豆腐蔬菜清湯",
-      "status": "Pass",
+      "status": "Warning",
       "mechanical_issues": []
     },
     {
@@ -518,8 +518,17 @@
     {
       "slug": "dh-korean-vermicelli-tofu-roll",
       "title": "韓式金絲豆腐捲",
-      "status": "Pass",
-      "mechanical_issues": []
+      "status": "Warning",
+      "mechanical_issues": [
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "食材／調味清單有「主食材」，但步驟文字未出現（啟發式比對）。",
+          "suggested_fix": "在步驟中使用該材料，或從清單移除。",
+          "source": "precheck"
+        }
+      ]
     },
     {
       "slug": "dh-original-korean-fried-chicken",
@@ -1166,8 +1175,17 @@
     {
       "slug": "sf-classic-caesar-salad",
       "title": "經典凱薩沙拉",
-      "status": "Pass",
-      "mechanical_issues": []
+      "status": "Warning",
+      "mechanical_issues": [
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "食材／調味清單有「炸油」，但步驟文字未出現（啟發式比對）。",
+          "suggested_fix": "在步驟中使用該材料，或從清單移除。",
+          "source": "precheck"
+        }
+      ]
     },
     {
       "slug": "sf-classic-ham-mushroom-eggs-benedict",
@@ -1238,8 +1256,17 @@
     {
       "slug": "sf-local-sausage-quesadilla",
       "title": "墨西哥 Local 香腸酥餅",
-      "status": "Pass",
-      "mechanical_issues": []
+      "status": "Warning",
+      "mechanical_issues": [
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "食材／調味清單有「炸油」，但步驟文字未出現（啟發式比對）。",
+          "suggested_fix": "在步驟中使用該材料，或從清單移除。",
+          "source": "precheck"
+        }
+      ]
     },
     {
       "slug": "sf-mini-beef-egg-burger-set",
@@ -1346,8 +1373,17 @@
     {
       "slug": "sf-second-floor-saltwater-chicken-salad",
       "title": "貳樓金牌鹽水雞沙拉",
-      "status": "Pass",
-      "mechanical_issues": []
+      "status": "Warning",
+      "mechanical_issues": [
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "食材／調味清單有「炸油」，但步驟文字未出現（啟發式比對）。",
+          "suggested_fix": "在步驟中使用該材料，或從清單移除。",
+          "source": "precheck"
+        }
+      ]
     },
     {
       "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
@@ -1364,8 +1400,17 @@
     {
       "slug": "sf-smoked-salmon-caesar-salad",
       "title": "經典燻鮭魚凱薩沙拉",
-      "status": "Pass",
-      "mechanical_issues": []
+      "status": "Warning",
+      "mechanical_issues": [
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "食材／調味清單有「炸油」，但步驟文字未出現（啟發式比對）。",
+          "suggested_fix": "在步驟中使用該材料，或從清單移除。",
+          "source": "precheck"
+        }
+      ]
     },
     {
       "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
@@ -1718,7 +1763,7 @@
     {
       "slug": "weight-loss-clear-mushroom-soup",
       "title": "減脂菇類清湯",
-      "status": "Pass",
+      "status": "Warning",
       "mechanical_issues": []
     },
     {

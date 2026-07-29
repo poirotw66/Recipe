@@ -28,13 +28,13 @@ restaurantSource:
   region: 全台連鎖
 intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
 steps:
-- "Prep: dice 100 g seasonal vegetables; julienne ginger; steam 220 g jasmine rice and fluff warm; portion 2 Tbsp tomato juice, 2 Tbsp vodka, cream sauce to taste, and hot sauce to taste separately."
+- "Prep: dice 100 g seasonal vegetables, julienne the ginger, and steam and fluff 220 g jasmine rice. Measure the sauces and vodka from the seasoning list into separate small bowls."
 - Heat 1 Tbsp olive oil in a skillet over medium; sauté ginger 30 seconds until fragrant; add vegetables and stir-fry 2 minutes until slightly tender but still crisp.
-- Add 2 Tbsp tomato juice, 2 Tbsp vodka, cream sauce to taste, and hot sauce to taste; season with 1/3 tsp sea salt, 1/4 tsp cracked black pepper, and 1/2 tsp chili flakes; simmer 1 minute until a thick sauce forms (alcohol will cook off).
+- Add 2 Tbsp tomato juice, 2 Tbsp vodka, cream sauce to taste, and hot sauce to taste. Reserve a pinch each from the 1/4 tsp black pepper and 1/2 tsp chili flakes for plating; add the rest with 1/3 tsp sea salt. Simmer 1 minute until a thick sauce forms.
 - Add 220 g jasmine rice; stir-fry over medium heat 1 minute until grains are coated with oil (toast the rice).
 - Add hot water in 2–3 additions (about 2 Tbsp each), stirring until absorbed each time; keep stirring about 4 minutes until grains are coated in tomato-spice sauce with a light creamy finish.
 - Taste and adjust heat and salt; stir until every grain is evenly colored, sauce is slightly reduced, and wok aroma develops, then turn off heat.
-- Mound in a deep plate; sprinkle a little more cracked black pepper and chili flakes on top.
+- Mound in a deep plate and finish with the reserved black pepper and chili flakes.
 - Serve hot—the spicy, rich Bloody Mary rice flavor of Second Floor Cafe.
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
@@ -55,7 +55,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 時蔬
   amount: "100"

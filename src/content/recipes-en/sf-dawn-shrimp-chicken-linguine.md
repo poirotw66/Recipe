@@ -30,7 +30,7 @@ intro: "This version references common Second Floor Cafe techniques and builds t
 steps:
 - "Prep: cut chicken 180 g into about 2 cm cubes and pat dry; peel and devein shrimp as needed and pat dry. Slice roasted red pepper as needed; shred cheese 40 g; mince garlic 2 cloves."
 - Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook linguine 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
-- Heat olive oil 1 Tbsp in a skillet over medium heat; lay chicken cubes in a single layer and sear until golden, about 3 minutes; flip and cook 2 minutes more until cooked through; set aside.
+- Heat 1 Tbsp olive oil in a skillet over medium heat; season the chicken with 1/4 tsp cracked black pepper, lay it in a single layer, and sear about 3 minutes until golden. Flip and cook 2 minutes more until cooked through; set aside.
 - Add a little more oil to the same pan; stir-fry shrimp over medium-high heat until pink and curled, about 1.5 minutes; combine with chicken and keep warm.
 - Sauté minced garlic and roasted red pepper strips over medium heat for 1 minute to release sweet pepper aroma.
 - Add Dawn cream sauce 3 Tbsp and 3–4 Tbsp pasta water; stir over low heat until sauce simmers and turns smooth; fold in half the shredded cheese until melted.
@@ -54,7 +54,7 @@ faqs:
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 雞肉
   amount: "180"

@@ -1,7 +1,7 @@
 ---
 title: Bento Braised Tofu and Eggs
 recipeId: bento-braised-tofu-egg
-description: Tofu and eggs braised in one pot?�a classic bento side you can batch ahead.
+description: Tofu and eggs braised in one pot—a classic make-ahead side for a practical lunch box.
 coverImage: /images/recipes/bento-braised-tofu-egg.webp
 servings: 1
 prepTime: 8
@@ -26,8 +26,8 @@ tips:
 - Add kelp or extra firm tofu for variety in the same braise.
 substitutions: []
 relatedIngredients:
-- 豆�?
-- ?��?
+- 豆腐
+- 雞蛋
 customAdditions: []
 ingredients:
 - name: Tofu
@@ -64,7 +64,7 @@ faqs:
   answer: Dilute with water and taste again, or use less soy sauce next time.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Braised tofu and eggs are economical, make-ahead bento staples.

@@ -1,7 +1,7 @@
 ---
 title: Air-Fryer Soy Sauce Chicken Wings
 recipeId: air-fryer-soy-chicken-wings
-description: Wings marinated in soy sauce and rice wine, air-fried until skin crisps and meat stays juicy?�four wings per serving.
+description: Wings marinated in soy sauce and rice wine, then air-fried until the skin is crisp and the meat stays juicy—four wings per serving.
 coverImage: /images/recipes/air-fryer-soy-chicken-wings.webp
 servings: 1
 prepTime: 12
@@ -23,11 +23,11 @@ tags:
 - Air fryer
 - Chicken
 tips:
-- Wet marinade dulls crisp skin?�pat wings dry before air-frying.
+- Excess marinade prevents crisp skin, so pat the wings lightly before air-frying.
 substitutions:
 - Chicken thigh chunks
 relatedIngredients:
-- ?��?
+- 雞翅
 customAdditions: []
 ingredients:
 - name: Chicken wings
@@ -65,10 +65,10 @@ steps:
 storage: Refrigerate up to 2 days; reheat at 170°C for 5 minutes.
 faqs:
 - question: Can I use drumsticks instead?
-  answer: Yes?�cut into chunks and add 3?? minutes until cooked through.
+  answer: Yes. Cut boneless thigh meat into chunks and add 3–5 minutes, checking that the center is fully cooked.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
-Great for a weekend drink or binge-watch?�solo wings without the fryer pot.
+These wings work well for a weekend snack or an easy solo dinner, with no pot of frying oil to clean afterward.

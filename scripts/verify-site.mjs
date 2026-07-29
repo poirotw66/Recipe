@@ -95,6 +95,13 @@ const contentConfig = read("src/content.config.ts");
 const ingredients = JSON.parse(read("src/data/ingredients.json"));
 const scenarios = JSON.parse(read("src/data/scenarios.json"));
 const recipeFiles = readdirSync(join(root, "src/content/recipes")).filter((file) => file.endsWith(".md"));
+const recipeCollectionDirs = ["recipes", "recipes-en", "recipes-ja", "recipes-ko"];
+const garbledRecipeFiles = recipeCollectionDirs.flatMap((directory) =>
+  readdirSync(join(root, "src/content", directory))
+    .filter((file) => file.endsWith(".md"))
+    .filter((file) => read(`src/content/${directory}/${file}`).includes("\uFFFD"))
+    .map((file) => `${directory}/${file}`)
+);
 const phase2RecipeThreshold = 50;
 const phase2CategoryTargets = {
   "家常菜": 16,
@@ -113,6 +120,11 @@ const requiredHeadParts = [
   'name="twitter:title"',
   'name="twitter:image"'
 ];
+
+if (garbledRecipeFiles.length) {
+  console.error(`Recipe content contains Unicode replacement characters:\n${garbledRecipeFiles.map((file) => `- ${file}`).join("\n")}`);
+  process.exit(1);
+}
 
 const headSource = `${baseLayout}\n${seoHead}`;
 const missingHeadParts = requiredHeadParts.filter((part) => !headSource.includes(part));

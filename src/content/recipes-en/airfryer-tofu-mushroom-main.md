@@ -1,7 +1,7 @@
 ---
 title: Air-Fryer Tofu and Mushrooms
 recipeId: airfryer-tofu-mushroom-main
-description: Tofu and mushrooms tossed with garlic, air-fried until crisp outside and tender inside?�a meatless main.
+description: Tofu and mushrooms tossed with garlic, then air-fried until crisp outside and tender inside for an easy meatless main.
 coverImage: /images/recipes/airfryer-tofu-mushroom-main.webp
 servings: 2
 prepTime: 9
@@ -54,7 +54,7 @@ steps:
 - Air-fry 5–7 minutes more until tofu is golden and mushrooms are slightly shrunk but still juicy.
 - Press tofu lightly—it should be crisp outside and tender inside. Adjust salt to taste and serve hot.
 tips:
-- Wet tofu browns poorly?�drying is the key step.
+- Wet tofu browns poorly, so pressing and drying it is the key step.
 storage: Refrigerate 1 day; re-crisp in air fryer 3 minutes.
 substitutions:
 - Extra scallions for aroma.
@@ -64,16 +64,16 @@ faqs:
 - question: Will it be too dry?
   answer: Shake midway and leave a little sauce on the mix.
 relatedIngredients:
-- 豆�?
-- ?��?
-- ?�頭
+- 豆腐
+- 菇類
+- 蒜頭
 featured: false
 publishedAt: '2026-06-19'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Shredded pork
 - Shrimp
 - Shiitake mushroom
 ---
 
-Simple cleanup and no raw meat?�good when you want a change of pace.
+Cleanup is simple, and the tofu-and-mushroom combination makes a useful meatless change of pace.
