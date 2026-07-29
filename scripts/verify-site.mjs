@@ -237,6 +237,8 @@ if (
 
 if (
   !baseLayout.includes("/scripts/site-analytics.js") ||
+  !baseLayout.includes("static.cloudflareinsights.com/beacon.min.js") ||
+  !baseLayout.includes("data-cf-beacon") ||
   !analyticsScript.includes("recipe_card_click") ||
   !analyticsScript.includes("outbound_link_click") ||
   !fridgePage.includes("fridge-tool.js")

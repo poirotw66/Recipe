@@ -22,13 +22,12 @@
 
 ## Cloudflare Web Analytics
 
-這項功能必須在 Cloudflare 後台開啟：
+此站以 Worker + Static Assets 部署，已採用 Cloudflare Web Analytics 的手動 JS Snippet：
 
-1. 進入 `Workers & Pages`。
-2. 選擇 `recipe` 專案。
-3. 開啟 `Metrics`。
-4. 在 Web Analytics 選擇 `Enable`。
-5. 重新部署後，確認 HTML 出現 `static.cloudflareinsights.com` beacon。
+1. 在 Cloudflare 的 `Analytics & Logs → Web Analytics` 管理 `recipe.bloss0m.com`。
+2. Snippet 由全站共用的 `BaseLayout.astro` 載入。
+3. 部署後，確認 HTML 出現 `static.cloudflareinsights.com/beacon.min.js`。
+4. 在瀏覽器 Network 面板確認 `/cdn-cgi/rum` POST 請求成功。
 
 Cloudflare Web Analytics 用於核對訪客、熱門頁面與實際效能；GA4 用於分析來源、內容路徑與站內互動。兩者應並行，不以 Worker observability 取代。
 
