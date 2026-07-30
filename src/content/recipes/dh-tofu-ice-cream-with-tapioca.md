@@ -36,6 +36,7 @@ steps:
 tips:
 - 烹調前請將醬料調和均勻，一次下鍋能確保風味分布完美。
 - 熱鍋熱油能快速鎖住食材水分，維持多汁口感。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 甜點建議現做現吃；含冰淇淋的版本請分開保存。
 substitutions:
 - 非基改黃豆
@@ -49,9 +50,11 @@ customAdditions:
 faqs:
 - question: 如何把 珍珠豆腐冰淇淋 做得更像涓豆腐？
   answer: 先把 甜品 的醬料或湯頭煮到正確濃度，最後再下主要配料與嫩豆腐，最能還原門市口感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 非基改黃豆
   amount: "150"

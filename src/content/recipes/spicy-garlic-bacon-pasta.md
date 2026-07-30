@@ -23,9 +23,13 @@ tags:
 - 蒜香料理
 tips:
 - 不吃辣可省略辣椒，一樣香。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions:
 - 臘肉
 - 火腿
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 蒜頭
@@ -66,7 +70,7 @@ steps:
 storage: "現做現吃最佳。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 

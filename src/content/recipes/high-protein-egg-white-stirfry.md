@@ -23,6 +23,7 @@ tags:
 - 減脂
 tips:
 - 可加蝦仁或雞胸丁增加蛋白質與口感。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions: []
 relatedIngredients:
 - 雞蛋
@@ -61,9 +62,11 @@ storage: "現做現吃；蛋白隔夜會出水。"
 faqs:
 - question: "分離的蛋黃怎麼用？"
   answer: "可冷藏 1 天，做蛋黃醬、烘蛋或加在麵包上。"
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

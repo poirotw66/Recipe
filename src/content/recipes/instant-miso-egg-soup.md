@@ -23,6 +23,7 @@ tags:
 - 湯品
 tips:
 - 可加海帶或菇類增加鮮度。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 substitutions: []
 relatedIngredients:
 - 豆腐
@@ -61,8 +62,10 @@ storage: "現做現吃；隔夜再加熱勿煮滾，避免蛋花變老。"
 faqs:
 - question: "可以用紅味噌嗎？"
   answer: "可以，紅味噌鹹度較高，用量請減半試味道。"
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 味噌蛋花湯是租屋族想快速喝碗熱湯時的經典選擇。

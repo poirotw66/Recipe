@@ -58,6 +58,7 @@ steps:
 - スープが澄んで野菜の甘みが残ったら完成。
 tips:
 - もう少し濃い味が好みなら2分延ばして煮込む。
+- 汁が煮詰まると塩味が強くなるため、塩は最後に味を見て加えます。
 storage: 冷蔵1日。
 substitutions:
 - 豆腐を加えるとタンパク質が増えます。
@@ -66,13 +67,15 @@ faqs:
   answer: はい。スープがより甘くなります。
 - question: 顆粒スープの素は必要ですか？
   answer: なくても素材のうまみで十分です。
+- question: "スープは翌日も食べられますか？"
+  answer: "粗熱を早く取り、密閉して冷蔵してください。翌日は十分に温め、葉物は食べる直前に加えます。"
 relatedIngredients:
 - キャベツ
 - きのこ
 - 玉ねぎ
 featured: false
 publishedAt: '2026-07-12'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉だんご
 - 豆腐

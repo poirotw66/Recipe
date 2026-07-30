@@ -55,6 +55,7 @@ steps:
 - 以 鹽 少許 調味試嚐即可起鍋。
 tips:
 - 青花菜最後放，顏色和口感會更好。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 可冷藏 1 天，回鍋後再吃。
 substitutions:
 - 雞胸可改雞里肌。
@@ -63,13 +64,15 @@ faqs:
   answer: 可加少量醬油或白胡椒提升層次。
 - question: 可以加豆腐嗎？
   answer: 可以，會更有飽足感。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 雞胸肉
 - 洋蔥
 - 青花菜
 featured: false
 publishedAt: '2026-06-21'
-updatedAt: '2026-07-06'
+updatedAt: "2026-07-30"
 customAdditions:
 - 貢丸
 - 豆腐

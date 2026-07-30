@@ -56,6 +56,7 @@ steps:
 - "Taste and portion chicken and carrot over rice; let cool to room temperature before closing bento lids (keeps rice from getting soggy)."
 tips:
 - Smaller carrot dice cooks quicker.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate up to 2 days; reheat thoroughly.
 substitutions:
 - Chicken thigh
@@ -63,13 +64,15 @@ substitutions:
 faqs:
 - question: Reheat in a rice cooker?
   answer: Yes—steam with half a cup water in the outer pot.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 紅蘿蔔
 - 白飯
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

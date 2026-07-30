@@ -53,6 +53,7 @@ steps:
 - 以鹽少許試味；米飯應粒粒分明、高麗菜半透明帶甜，即可分裝 3 份。
 tips:
 - 蔬菜會出水，水量要略減，飯才不會太濕。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 冷藏可保存 2 天，分裝後冷凍可保存 1 週。
 substitutions:
 - 洋蔥
@@ -60,13 +61,15 @@ substitutions:
 faqs:
 - question: 可以加肉嗎？
   answer: 可以加入切丁雞胸肉，但要確認完全熟透。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 白米
 - 高麗菜
 - 菇類
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉絲
 - 蝦仁

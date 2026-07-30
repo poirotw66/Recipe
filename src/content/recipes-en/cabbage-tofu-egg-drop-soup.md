@@ -54,6 +54,7 @@ steps:
 - Season with a pinch of salt, scatter scallions, taste, and serve.
 tips:
 - Stir too fast and the egg breaks into fine grains—slow circles work best.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 storage: Refrigerate up to 1 day; reheat on low.
 substitutions:
 - Add mushrooms for umami.
@@ -62,13 +63,15 @@ faqs:
   answer: Yes—add another protein such as ham if you like.
 - question: Cabbage still firm?
   answer: Shred finer or simmer 1–2 minutes longer.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 relatedIngredients:
 - 高麗菜
 - 豆腐
 - 雞蛋
 featured: false
 publishedAt: '2026-06-20'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

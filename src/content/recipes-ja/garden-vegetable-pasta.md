@@ -66,15 +66,19 @@ steps:
 - 塩 少々と黒胡椒 少々で味を見て、仕上げに残りのオリーブオイル 大さじ1/2を回しかけてもよい。
 tips:
 - ズッキーニがない場合はブロッコリーの小さな房でも代用できます。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: 冷蔵1日。再加熱時に水を少量足す。
 substitutions:
 - キャベツ
+faqs:
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - スパゲッティ
 - トマト
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions: []
 ---
 

@@ -36,6 +36,7 @@ steps:
 tips:
 - 麵包要先烤到外脆內軟，再疊上溫熱主料，才會有門市開放三明治的對比口感。
 - 水波蛋與生菜最後上桌，才能保留蛋黃流心和葉菜的新鮮度。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 建議現做現吃；若要提前準備，麵包與配料請分開保存，食用前再組裝。
 substitutions:
 - 酸種麵包
@@ -51,9 +52,11 @@ customAdditions:
 faqs:
 - question: 想把 酪梨 Local 香腸／丹麥 Open 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 丹麥麵包與酪梨 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 丹麥麵包
   amount: "2"

@@ -59,19 +59,22 @@ steps:
 - 뜨거울 때 접시에 담아 낸다.
 tips:
 - 연어는 마지막에 넣어 부서지지 않게 하세요.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드시고, 생선은 하루 지나면 맛이 떨어집니다.
 substitutions:
 - 고등어
 faqs:
 - question: 레몬즙이 없으면?
   answer: 식초를 아주 조금 넣거나 생략할 수 있으나 향은 약해집니다.
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 스파게티
 - 연어
 - 마늘
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 베이컨
 - 생크림

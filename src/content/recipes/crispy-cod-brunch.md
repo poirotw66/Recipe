@@ -23,9 +23,13 @@ tags:
 tips:
 - 氣炸鍋可用 190°C 烤 10～12 分鐘，中途翻面並噴少許油。
 - 油溫太低魚排會吸油變膩。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions:
 - 鮭魚
 - 雞胸肉
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 雞蛋
 - 番茄
@@ -74,7 +78,7 @@ steps:
 storage: "現炸現吃；冷藏後外皮會變軟。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 

@@ -70,19 +70,22 @@ steps:
 tips:
 - 鮭は最後に戻し、強く混ぜないと形が崩れにくい。
 - レモン汁は最後に加えると香りが残ります。
+- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
 storage: できたてがおすすめ。
 substitutions:
 - サバ
 faqs:
 - question: 冷凍鮭でも使えますか？
   answer: はい。完全に解凍し表面を拭いてから焼いてください。
+- question: "主材料をパサつかせないコツは？"
+  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
 relatedIngredients:
 - スパゲッティ
 - 鮭
 - ブロッコリー
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ベーコン
 - 生クリーム

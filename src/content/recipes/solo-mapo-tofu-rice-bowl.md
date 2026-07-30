@@ -22,6 +22,7 @@ tags:
 - 下飯菜
 tips:
 - 不吃辣可減豆瓣醬，改加少許番茄醬提色。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -73,9 +74,11 @@ storage: "冷藏 1 天；再加熱時小心翻動避免豆腐碎。"
 faqs:
 - question: "可以不加肉嗎？"
   answer: "可以，改加菇類丁，一樣好吃。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 麻婆豆腐蓋飯是租屋族想吃得夠味時的好選擇。

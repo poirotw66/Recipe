@@ -37,6 +37,7 @@ steps:
 tips:
 - 烹調前請將醬料調和均勻，一次下鍋能確保風味分布完美。
 - 熱鍋熱油能快速鎖住食材水分，維持多汁口感。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 炸物前菜當天最好吃；冷藏後以烤箱回脆。
 substitutions:
 - 韓式冬粉
@@ -52,9 +53,11 @@ customAdditions:
 faqs:
 - question: 如何把 韓式炒冬粉 做得更像涓豆腐？
   answer: 先把 韓式前菜 的醬料或湯頭煮到正確濃度，最後再下主要配料與嫩豆腐，最能還原門市口感。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 韓式冬粉
   amount: "100"

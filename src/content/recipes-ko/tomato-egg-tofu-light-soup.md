@@ -58,6 +58,7 @@ steps:
 - 소금 약간으로 간하고 쪽파를 뿌려 맛을 본 뒤 마무리합니다.
 tips:
 - 달걀을 넣을 때 젓가락으로 살짝 저으면 꽃이 더 고울 수 있습니다.
+- 국물은 졸아들면 더 짜질 수 있으므로 소금은 마지막에 간을 보고 넣으세요.
 storage: 냉장 1일, 다시 데울 때는 약불로 하세요.
 substitutions:
 - 양파 채를 넣으면 단맛이 더해집니다.
@@ -66,13 +67,15 @@ faqs:
   answer: 가능합니다. 버섯을 넣어도 잘 어울립니다.
 - question: 토마토 껍질을 벗겨야 하나요?
   answer: 취향에 따라 결정하세요.
+- question: "국을 다음 날 먹어도 되나요?"
+  answer: "가능합니다. 빠르게 식혀 밀폐 냉장하고 다음 날 충분히 데우세요. 잎채소는 먹기 직전에 넣습니다."
 relatedIngredients:
 - 토마토
 - 달걀
 - 두부
 featured: false
 publishedAt: "2026-07-11"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 햄 깍둑
 - 치즈 가담

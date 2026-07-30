@@ -37,6 +37,7 @@ steps:
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
 substitutions:
 - "non-GMO soybeans"
@@ -50,9 +51,11 @@ customAdditions:
 faqs:
 - question: How do I make this 珍珠豆腐冰淇淋 closer to Dubu House?
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: "non-GMO soybeans"
   amount: "150"

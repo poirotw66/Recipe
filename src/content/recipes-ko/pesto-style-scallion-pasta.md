@@ -59,19 +59,22 @@ steps:
 - 뜨거울 때 접시에 담아 낸다.
 tips:
 - 치즈 가루는 적게 넣었다가 맛 보며 더하세요.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 storage: 바로 드시고, 페스토는 오래 두지 마세요.
 substitutions:
 - 잣 등 견과 다이스
 faqs:
 - question: 정통 페스토와 다른 점은?
   answer: 바질 대신 파를 써 재료가 구하기 쉽고 향이 파 쪽에 가깝습니다.
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 스파게티
 - 파
 - 마늘
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 베이컨
 - 생크림

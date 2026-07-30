@@ -35,6 +35,7 @@ steps:
 tips:
 - 烹調前請將醬料調和均勻，一次下鍋能確保風味分布完美。
 - 熱鍋熱油能快速鎖住食材水分，維持多汁口感。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 storage: 炸雞建議現炸現吃；鐵板肉類可冷藏 1 天後回鍋加熱。
 substitutions:
 - 霜降牛肉片
@@ -49,9 +50,11 @@ customAdditions:
 faqs:
 - question: 如何把 神仙霜降雪濃湯 做得更像涓豆腐？
   answer: 先把 主廚推薦 的醬料或湯頭煮到正確濃度，最後再下主要配料與嫩豆腐，最能還原門市口感。
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 霜降牛肉片
   amount: "150"

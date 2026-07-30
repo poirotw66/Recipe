@@ -33,19 +33,22 @@ steps:
 - Taste and serve immediately.
 tips:
 - King oyster or shimeji mushrooms work well.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate 1 day; microwave softens texture.
 substitutions:
 - Broccoli
 - Cabbage
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 水蓮
 - 菇類
 - 蒜頭
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: Water dropwort
   amount: "180"

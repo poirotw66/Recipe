@@ -54,19 +54,22 @@ steps:
 - Plate and serve while hot.
 tips:
 - High heat and quick hands give the best grain separation.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best eaten right away; for bento, cook beef through fully.
 substitutions:
 - Pork strips
 faqs:
 - question: No cooled rice?
   answer: Spread fresh rice to cool first—less moisture, less sticking.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 牛肉
 - 白飯
 - 青蔥
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Chili
 - Onion

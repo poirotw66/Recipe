@@ -57,6 +57,7 @@ steps:
 tips:
 - Keep tofu in large pieces so the pan does not turn mushy.
 - For extra savor, finish with a pinch of white pepper.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Eat the same day if possible; in a sealed container up to 1 day—reheat gently and stir.
 substitutions:
 - Soft tofu
@@ -66,13 +67,15 @@ faqs:
   answer: Yes—drain well and stir more gently because it holds more water.
 - question: Good for lunch boxes?
   answer: Yes—brown the tofu drier and cook the eggs a bit firmer to limit weeping.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 雞蛋
 - 豆腐
 - 青蔥
 featured: true
 publishedAt: '2026-05-20'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

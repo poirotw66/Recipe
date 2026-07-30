@@ -24,6 +24,7 @@ tags:
 - Soup
 tips:
 - Kelp or mushrooms deepen umami.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 substitutions: []
 relatedIngredients:
 - 豆腐
@@ -59,9 +60,11 @@ storage: Best fresh; reheat gently without a hard boil so egg stays tender.
 faqs:
 - question: Can I use red miso?
   answer: Yes—it is saltier; start with half and taste.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A renter-kitchen classic when you want hot soup fast.

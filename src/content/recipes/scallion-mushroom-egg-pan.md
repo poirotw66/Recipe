@@ -53,6 +53,7 @@ steps:
 - 淋醬油 0.5 小匙，對折或切塊起鍋；表面應帶蔥香、菇片焦香明顯。
 tips:
 - 菇類不要一次堆太多，才容易上色。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 可冷藏 1 天，回鍋後口感會偏乾。
 substitutions:
 - 可加入洋蔥絲增加甜味。
@@ -61,13 +62,15 @@ faqs:
   answer: 可以，蓋鍋悶熟也可。
 - question: 能配飯嗎？
   answer: 很適合配白飯或糙米飯。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 菇類
 - 雞蛋
 - 青蔥
 featured: false
 publishedAt: '2026-07-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

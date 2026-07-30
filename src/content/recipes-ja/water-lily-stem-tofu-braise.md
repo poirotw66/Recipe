@@ -32,19 +32,22 @@ steps:
 - 蓋を開け水蓮を加え、やや強めの中火で約1分炒め合わせ、汁が少しとろみ色が均一になったら盛る。
 tips:
 - 木綿豆腐は焼きやすく、絹豆腐は優しく返してください。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: 冷蔵2日。再加熱時は水を少量足す。
 substitutions:
 - 厚揚げ
 - 油揚げ
+faqs:
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - 水蓮
 - 豆腐
 - にんにく
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: '180'

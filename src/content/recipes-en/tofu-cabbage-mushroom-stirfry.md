@@ -57,6 +57,7 @@ steps:
 - Serve when tofu is evenly coated and vegetables are tender but still crisp.
 tips:
 - Add cabbage in two batches for even cooking.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate 1 day; reheat over medium-high quickly.
 substitutions:
 - Broccoli instead of cabbage.
@@ -65,13 +66,15 @@ faqs:
   answer: Sear until the surface sets before moving.
 - question: Can I add meat?
   answer: Diced chicken breast, cooked first, then vegetables.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 豆腐
 - 高麗菜
 - 菇類
 featured: false
 publishedAt: '2026-06-25'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Shredded pork
 - Shrimp

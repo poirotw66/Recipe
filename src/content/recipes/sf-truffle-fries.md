@@ -37,6 +37,7 @@ steps:
 tips:
 - 分享盤的關鍵是一次做好主炸物與沾醬，起鍋後立刻組盤才會接近門市口感。
 - 若有生菜或冷醬，請最後才放，避免熱氣讓配菜出水。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 炸物建議當天吃完；冷藏後回烤 6 到 8 分鐘恢復脆度。
 substitutions:
 - 冷凍薯條
@@ -48,9 +49,11 @@ customAdditions: []
 faqs:
 - question: 想把 松露薯條 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 薯條與松露醬 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 薯條
   amount: "250"

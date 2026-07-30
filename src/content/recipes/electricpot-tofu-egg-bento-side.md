@@ -52,6 +52,7 @@ steps:
 - 取出撒剩餘蔥花，切塊或挖勺分裝 2 份便當配菜。
 tips:
 - 喜歡滑嫩可過篩蛋液。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 冷藏可放 1 天。
 substitutions:
 - 可加入菇末增加口感。
@@ -60,13 +61,15 @@ faqs:
   answer: 豆腐先瀝乾可改善。
 - question: 可以冷吃嗎？
   answer: 可冷吃，但加熱風味較佳。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 豆腐
 - 雞蛋
 - 青蔥
 featured: false
 publishedAt: '2026-07-13'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

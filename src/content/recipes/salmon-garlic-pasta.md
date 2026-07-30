@@ -59,19 +59,22 @@ steps:
 - 起鍋盛盤趁熱享用。
 tips:
 - 鮭魚最後才回鍋，避免拌炒時碎掉。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 建議現做現吃；魚類隔夜風味會下降。
 substitutions:
 - 鯖魚
 faqs:
 - question: 沒有檸檬汁可以嗎？
   answer: 可以，改加少許白醋或省略，但香氣會稍微單薄。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 義大利麵
 - 鮭魚
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

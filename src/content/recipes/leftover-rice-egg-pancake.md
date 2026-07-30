@@ -23,6 +23,7 @@ tags:
 - 蛋餅
 tips:
 - 可加蔥花或火腿丁增加風味。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -59,8 +60,10 @@ storage: "現做現吃；隔夜再加熱用平底鍋煎 1 分鐘。"
 faqs:
 - question: "飯太軟怎麼辦？"
   answer: "可加 1 大匙麵粉幫助定型，或減少蛋液量。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 米飯蛋煎餅材料簡單、口感紮實，很適合當一人份的快手主餐。

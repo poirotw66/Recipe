@@ -33,10 +33,14 @@ steps:
 - 關火後撒青蔥花，盛入碗中即可享用。
 tips:
 - 想更鮮甜可加幾片薑或一小匙醬油。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 現做現吃；麵條隔夜會膨脹。
 substitutions:
 - 烏龍麵
 - 米粉
+faqs:
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 水蓮
 - 貢丸
@@ -44,10 +48,9 @@ relatedIngredients:
 customAdditions:
 - 薑
 - 醬油
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: "120"

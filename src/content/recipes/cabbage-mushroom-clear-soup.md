@@ -58,6 +58,7 @@ steps:
 - 湯色清亮、蔬菜仍保有甜味即可起鍋。
 tips:
 - 喜歡更濃郁可延長煮 2 分鐘。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 storage: 冷藏可放 1 天。
 substitutions:
 - 可加入豆腐增加蛋白質。
@@ -66,13 +67,15 @@ faqs:
   answer: 可以，湯會更甜。
 - question: 需要高湯粉嗎？
   answer: 不用也可以有自然鮮味。
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 relatedIngredients:
 - 高麗菜
 - 菇類
 - 洋蔥
 featured: false
 publishedAt: '2026-07-12'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 貢丸
 - 豆腐

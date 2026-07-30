@@ -23,8 +23,12 @@ tags:
 - Lacto-ovo vegetarian
 tips:
 - For vegan, swap butter for olive oil.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions:
 - Tofu
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 菇類
 - 雞蛋
@@ -66,7 +70,7 @@ steps:
 storage: Best fresh; eggs toughen overnight.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Easy ingredients and one of the friendliest lacto-ovo brunch plates on the menu.

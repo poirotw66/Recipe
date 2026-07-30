@@ -53,6 +53,7 @@ steps:
 - 소금 약간으로 간을 맞춘다. 밥알은 퍼지고, 양배추는 반투명하고 달콤해야 한다. 3인분으로 나눈다.
 tips:
 - 채소에서 물이 나오므로 물을 줄여야 밥이 너무 축축하지 않습니다.
+- 찬밥이나 삶은 면은 조리 전에 펼쳐 두면 뭉치지 않고 양념이 고르게 배어듭니다.
 storage: 냉장 2일, 소분해 냉동하면 1주.
 substitutions:
 - 양파
@@ -60,13 +61,15 @@ substitutions:
 faqs:
 - question: 고기를 넣어도 되나요?
   answer: 닭가슴살 다이스를 넣을 수 있으나 완전히 익었는지 확인하세요.
+- question: "미리 만들어 둘 수 있나요?"
+  answer: "가능합니다. 밥이나 면과 속재료를 따로 냉장한 뒤 먹기 직전에 데워 섞으면 식감이 좋습니다."
 relatedIngredients:
 - 쌀
 - 양배추
 - 버섯
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 고기 채
 - 새우

@@ -24,6 +24,7 @@ tags:
 - Soup
 tips:
 - Ginger threads or goji berries add another layer.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 substitutions:
 - Mushrooms
 - Bok choy
@@ -69,9 +70,11 @@ storage: Refrigerate up to 2 days; reheat gently so tofu stays tender.
 faqs:
 - question: Only tofu, no vegetables?
   answer: Yes—scallions and white pepper make a simple tofu soup.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Clear tofu vegetable soup is an easy light dinner when you want something warm.

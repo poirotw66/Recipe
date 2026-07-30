@@ -24,8 +24,12 @@ tags:
 - Chicken dishes
 tips:
 - Air fryer 190°C about 22 minutes; brush sauce in the last 5 minutes for similar results.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions:
 - Chicken thigh chunks
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 customAdditions: []
@@ -68,7 +72,7 @@ steps:
 storage: Refrigerate up to 2 days; reheat in the oven to restore crisp skin.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Sweet-heat wings that work well for gatherings.

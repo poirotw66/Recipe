@@ -24,6 +24,7 @@ tags:
 - Fried rice
 tips:
 - Save kimchi brine—add 1 tbsp while frying for extra punch.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions:
 - Korean spicy cabbage kimchi
 relatedIngredients:
@@ -68,9 +69,11 @@ storage: Best fresh; if reheating next day, splash a little water.
 faqs:
 - question: Rice too wet?
   answer: Cool fresh rice 10 minutes before frying—less moisture, less sticking.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Tangy and bold—one of the fastest dinners when you have kimchi on hand.

@@ -53,6 +53,7 @@ steps:
 - "Drizzle 0.5 tsp soy sauce, fold or cut into pieces, and serve; you should taste scallion aroma and browned mushroom edges."
 tips:
 - Do not overcrowd mushrooms or they steam instead of sear.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate 1 day; reheat in a pan—texture dries slightly.
 substitutions:
 - Onion strips for sweetness.
@@ -61,13 +62,15 @@ faqs:
   answer: You can cover and steam through instead of flipping.
 - question: With rice?
   answer: Pairs well with white or brown rice.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 菇類
 - 雞蛋
 - 青蔥
 featured: false
 publishedAt: '2026-07-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

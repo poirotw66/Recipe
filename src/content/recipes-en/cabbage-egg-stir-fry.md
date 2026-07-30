@@ -55,6 +55,7 @@ steps:
 - Divide into 2 portions and serve hot, or cool for bento.
 tips:
 - Don't cook the cabbage until it releases too much water—crisper texture is nicer.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate up to 2 days; reheat in a dry skillet rather than the microwave for better aroma.
 substitutions:
 - Bok choy
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: Can I skip the garlic?
   answer: Yes—scallions add fragrance too.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 高麗菜
 - 雞蛋
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

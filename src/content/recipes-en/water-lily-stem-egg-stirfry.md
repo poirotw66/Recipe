@@ -34,19 +34,22 @@ steps:
 - Toss water dropwort and egg together; add 1/4 tsp salt and a pinch of white pepper. Serve immediately.
 tips:
 - High heat cooks off wine so greens do not stew.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Same day best; reheat over high quickly.
 substitutions:
 - Water spinach
 - Bok choy
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 水蓮
 - 雞蛋
 - 蒜頭
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: Water dropwort
   amount: "180"

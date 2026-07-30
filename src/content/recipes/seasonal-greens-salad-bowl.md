@@ -23,9 +23,13 @@ tags:
 - 蔬菜料理
 tips:
 - 紅蘿蔔可刨絲，口感更清爽。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions:
 - 青花菜燙軟
 - 高麗菜絲
+faqs:
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 番茄
 - 紅蘿蔔
@@ -66,7 +70,7 @@ steps:
 storage: "現拌現吃；醬汁請分開裝。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

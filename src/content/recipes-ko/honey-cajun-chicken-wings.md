@@ -24,8 +24,12 @@ tags:
 - 닭고기 요리
 tips:
 - 에어프라이어 190°C 약 22분, 마지막 5분에 소스를 바르면 비슷합니다.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 substitutions:
 - 닭다리살 큐브
+faqs:
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 닭가슴살
 customAdditions: []
@@ -68,7 +72,7 @@ steps:
 storage: 냉장 2일. 재가열은 오븐이 바삭함을 되살리기 좋습니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 달콤하고 매콤해 모임용 스낵으로 잘 어울립니다.

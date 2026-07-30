@@ -67,19 +67,22 @@ steps:
 tips:
 - 青花菜先燙再炒，最後只需短時間合炒，脆度較好。
 - 雞肉煎好後先盛出，避免與麵條久炒變柴。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏 1 天內吃完較佳。
 substitutions:
 - 花椰菜
 faqs:
 - question: 青花菜一定要燙嗎？
   answer: 不一定，但先燙軟可縮短最後拌炒時間。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 義大利麵
 - 雞胸肉
 - 青花菜
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

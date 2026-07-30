@@ -65,12 +65,15 @@ steps:
 tips:
 - 喜歡濃稠可最後加 1 小匙太白粉水勾芡。
 - 咖哩粉可先加 1 大匙試味，避免一次加太辣或太鹹。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏 1 天內吃完；帶便當加熱時補 2 大匙水再煮滾。
 substitutions:
 - 馬鈴薯
 faqs:
 - question: 咖哩粉會很辣嗎？
   answer: 依品牌不同，可先加一半試味道再調整。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 牛肉
 - 洋蔥
@@ -78,7 +81,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 青蔥
 - 辣椒

@@ -64,19 +64,22 @@ steps:
 - Taste and adjust with a pinch of salt and black pepper; sprinkle the remaining scallion greens and plate while hot.
 tips:
 - Thaw frozen shrimp fully and dry well so the pan does not steam.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best fresh; shrimp toughens overnight.
 substitutions:
 - Salmon cubes
 faqs:
 - question: Can I skip deveining?
   answer: Deveining improves texture and appearance.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 義大利麵
 - 蝦仁
 - 青蔥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

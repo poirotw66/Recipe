@@ -22,9 +22,13 @@ tags:
 - Home cooking
 tips:
 - Simmer with chicken bones or kombu for a deeper base.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 substitutions:
 - Pumpkin
 - Mushrooms
+faqs:
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 relatedIngredients:
 - 紅蘿蔔
 - 洋蔥
@@ -72,7 +76,7 @@ steps:
 storage: Refrigerate up to 2 days; freeze up to 1 week; do not boil hard when reheating.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Daily vegetable soup is an adaptable opener for almost any weeknight dinner.

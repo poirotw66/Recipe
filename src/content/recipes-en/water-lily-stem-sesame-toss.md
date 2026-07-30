@@ -32,18 +32,21 @@ steps:
 - Plate and sprinkle toasted sesame on top. For bento, spread to cool before packing so condensation does not waterlog the greens.
 tips:
 - Drain well for bento so oil does not leak.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate 1 day; room temp or cold to eat.
 substitutions:
 - Water spinach
 - Spinach
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 水蓮
 - 蒜頭
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: Water dropwort
   amount: "200"

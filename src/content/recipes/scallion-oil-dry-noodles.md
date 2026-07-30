@@ -24,6 +24,7 @@ tags:
 - 麵食
 tips:
 - 沒有油麵可用細麵或意麵代替。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 青蔥
@@ -58,9 +59,11 @@ storage: "現做現吃；隔夜再加熱會略乾，可補少許熱水拌開。"
 faqs:
 - question: "可以不加糖嗎？"
   answer: "可以，但加一點糖能平衡醬油鹹度，更接近外食口感。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

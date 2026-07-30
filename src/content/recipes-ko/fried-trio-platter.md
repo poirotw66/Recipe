@@ -23,8 +23,12 @@ tags:
 - 튀김
 tips:
 - 치즈 스틱은 너무 오래 튀리면 터져 속이 새므로 1분 안에 건지세요.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 substitutions:
 - 치킨 너겟
+faqs:
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 달걀
 customAdditions: []
@@ -68,7 +72,7 @@ steps:
 storage: 바로 드세요. 식으면 치즈 스틱이 딱딱해집니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 튀김 트리오 플래터는 모임이나 여러 식감을 한 번에 즐기고 싶을 때 잘 맞습니다.

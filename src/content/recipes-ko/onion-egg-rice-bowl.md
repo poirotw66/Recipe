@@ -56,6 +56,7 @@ steps:
 - 양파 달걀과 국물을 함께 밥 위에 올려 뜨거울 때 바로 낸다.
 tips:
 - 촉촉한 식감을 좋아하면 소스를 조금 더 남겨 두세요.
+- 찬밥이나 삶은 면은 조리 전에 펼쳐 두면 뭉치지 않고 양념이 고르게 배어듭니다.
 storage: 바로 드시는 것이 가장 좋습니다. 달걀 향과 식감이 최상입니다.
 substitutions:
 - 대파
@@ -63,13 +64,15 @@ substitutions:
 faqs:
 - question: 도시락으로 싸도 되나요?
   answer: 가능하지만 달걀을 조금 더 익혀야 싸 가는 동안 수분이 덜 나옵니다.
+- question: "미리 만들어 둘 수 있나요?"
+  answer: "가능합니다. 밥이나 면과 속재료를 따로 냉장한 뒤 먹기 직전에 데워 섞으면 식감이 좋습니다."
 relatedIngredients:
 - 밥
 - 양파
 - 달걀
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 햄 깍둑
 - 치즈 가담

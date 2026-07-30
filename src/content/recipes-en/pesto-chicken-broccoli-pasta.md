@@ -67,19 +67,22 @@ steps:
 tips:
 - Blanch broccoli first so final toss stays short and crisp.
 - Pull chicken out before long pasta tossing so it stays juicy.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best within 1 day refrigerated.
 substitutions:
 - Cauliflower florets
 faqs:
 - question: Must broccoli be blanched?
   answer: Optional, but blanching shortens the final stir time.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 義大利麵
 - 雞胸肉
 - 青花菜
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

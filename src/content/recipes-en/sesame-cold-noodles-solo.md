@@ -25,6 +25,7 @@ tags:
 - Cold noodles
 tips:
 - Swap part of the sesame paste for peanut butter for a richer flavor.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions: []
 relatedIngredients:
 - 小黃瓜
@@ -66,9 +67,11 @@ storage: Eat right after tossing; sauce and noodles separate up to 1 day refrige
 faqs:
 - question: Can I skip garlic?
   answer: Yes—try ginger paste or leave it out for a milder taste.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A go-to when you want a full meal without firing up the stove in summer.

@@ -58,6 +58,7 @@ steps:
 - 국물이 맑고 채소 단맛이 남으면 완성입니다.
 tips:
 - 더 진하게 하려면 2분 더 끓이세요.
+- 국물은 졸아들면 더 짜질 수 있으므로 소금은 마지막에 간을 보고 넣으세요.
 storage: 냉장 1일.
 substitutions:
 - 두부를 넣어 단백질을 보태도 좋습니다.
@@ -66,13 +67,15 @@ faqs:
   answer: 가능하며 국물이 더 달아집니다.
 - question: 육수 가루가 필요한가요?
   answer: 없어도 재료 본연의 감칠맛으로 충분합니다.
+- question: "국을 다음 날 먹어도 되나요?"
+  answer: "가능합니다. 빠르게 식혀 밀폐 냉장하고 다음 날 충분히 데우세요. 잎채소는 먹기 직전에 넣습니다."
 relatedIngredients:
 - 양배추
 - 버섯
 - 양파
 featured: false
 publishedAt: '2026-07-12'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 어묵
 - 두부

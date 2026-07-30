@@ -59,19 +59,22 @@ steps:
 - Plate while hot.
 tips:
 - Return salmon at the end so it does not break apart.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best fresh; fish quality drops overnight.
 substitutions:
 - Mackerel fillet
 faqs:
 - question: No lemon?
   answer: A few drops of vinegar or skip—aroma will be flatter.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 義大利麵
 - 鮭魚
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

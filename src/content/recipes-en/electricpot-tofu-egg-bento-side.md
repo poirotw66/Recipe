@@ -52,6 +52,7 @@ steps:
 - "Remove, scatter the remaining scallions on top, and cut or scoop into 2 bento side portions."
 tips:
 - Strain the egg mixture for silkier texture if you like.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Refrigerate up to 1 day.
 substitutions:
 - Add minced mushrooms for bite.
@@ -60,13 +61,15 @@ faqs:
   answer: Press tofu dry first.
 - question: Eat cold?
   answer: You can, but warm tastes better.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 豆腐
 - 雞蛋
 - 青蔥
 featured: false
 publishedAt: '2026-07-13'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

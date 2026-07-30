@@ -23,8 +23,12 @@ tags:
 - 튀긴 생선
 tips:
 - 한 번에 너무 많이 튀리면 기름 온도가 떨어지므로 나눠 튀기세요.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 substitutions:
 - 연어
+faqs:
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 달걀
 customAdditions: []
@@ -67,7 +71,7 @@ steps:
 storage: 바로 드세요.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 피시 앤 칩스는 양이 넉넉해 주말에 가끔 즐기기 좋은 메뉴입니다.

@@ -55,6 +55,7 @@ steps:
 - "Cut into pieces or keep as slices and divide into 2 bento portions; let cool before closing the lids."
 tips:
 - Avoid slicing breast too thin or it dries out—keep some thickness.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate portions up to 2 days; splash water before microwaving.
 substitutions:
 - Carrot can be onion or mushrooms.
@@ -63,13 +64,15 @@ faqs:
   answer: Yes—chill in boxes and take straight to work.
 - question: No rice cooker?
   answer: Pan-sear chicken and blanch vegetables separately.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 青花菜
 - 紅蘿蔔
 featured: false
 publishedAt: '2026-06-12'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

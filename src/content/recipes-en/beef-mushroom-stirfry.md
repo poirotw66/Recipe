@@ -52,15 +52,19 @@ steps:
 - When beef is cooked through and mushrooms still have some chew, serve.
 tips:
 - Let mushroom liquid cook off patiently for better flavor.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best eaten right after cooking.
 substitutions:
 - King oyster mushroom
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - Beef
 - Mushrooms
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Scallions
 - Chili

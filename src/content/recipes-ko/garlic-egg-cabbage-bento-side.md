@@ -54,6 +54,7 @@ steps:
 - 달걀이 완전히 익고 양배추에 아삭함이 남으면 완성. 도시락은 식힌 뒤 담으면 물기가 덜 납니다.
 tips:
 - 도시락용이면 달걀을 조금 더 익혀 두세요.
+- 찬밥이나 삶은 면은 조리 전에 펼쳐 두면 뭉치지 않고 양념이 고르게 배어듭니다.
 storage: 냉장 1~2일.
 substitutions:
 - 당근 채를 넣으면 단맛과 색이 좋아집니다.
@@ -62,13 +63,15 @@ faqs:
   answer: 가능하며 소금과 흰후추만으로도 됩니다.
 - question: 도시락에 물이 생기나요?
   answer: 식힌 뒤 뚜껑을 닫으면 수분이 줄어듭니다.
+- question: "미리 만들어 둘 수 있나요?"
+  answer: "가능합니다. 밥이나 면과 속재료를 따로 냉장한 뒤 먹기 직전에 데워 섞으면 식감이 좋습니다."
 relatedIngredients:
 - 양배추
 - 달걀
 - 마늘
 featured: false
 publishedAt: '2026-06-23'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 햄 다이스
 - 모짜렐라

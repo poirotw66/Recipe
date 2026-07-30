@@ -54,15 +54,19 @@ steps:
 - 大火快炒 30 秒至均勻裹醬、牛肉熟透即起鍋；試味調整。
 tips:
 - 牛肉不要炒太久，口感較嫩。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏便當可保存 1 天，加熱時少油快炒即可。
 substitutions:
 - 花椰菜
+faqs:
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 牛肉
 - 青花菜
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 青蔥
 - 辣椒

@@ -38,6 +38,7 @@ steps:
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
 substitutions:
 - 鮮奶油
@@ -52,9 +53,11 @@ customAdditions:
 faqs:
 - question: What makes this 鄉村肉桂蜜桃派 feel closer to the restaurant version?
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 肉桂蜜桃派
   amount: "1"

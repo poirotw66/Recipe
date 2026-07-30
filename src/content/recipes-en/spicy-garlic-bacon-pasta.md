@@ -24,9 +24,13 @@ tags:
 - Garlic
 tips:
 - Skip chili if you prefer—still fragrant.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions:
 - Cured pork belly
 - Ham
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 義大利麵
 - 蒜頭
@@ -67,7 +71,7 @@ steps:
 storage: Best eaten immediately.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Salty and punchy—when you want pasta with attitude.

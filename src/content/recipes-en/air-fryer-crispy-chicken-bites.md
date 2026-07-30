@@ -24,6 +24,7 @@ tags:
 - Chicken
 tips:
 - Don’t pile too thick—batch air-fry for crispness.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
 substitutions:
 - Chicken thigh
 relatedIngredients:
@@ -70,9 +71,11 @@ storage: Best fresh; refrigerated bites soften—re-crisp in the air fryer.
 faqs:
 - question: Can I skip the egg?
   answer: Use a thin slurry of water or milk instead—coating sticks a bit less.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 When you want a treat without deep-frying in a big pot of oil.

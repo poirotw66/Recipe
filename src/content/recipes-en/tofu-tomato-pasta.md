@@ -58,12 +58,15 @@ steps:
 - Taste and adjust with a pinch of salt; plate while hot.
 tips:
 - Dry tofu well to reduce splatter.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Eat fresh; refrigerated tofu softens.
 substitutions:
 - Canned tomatoes
 faqs:
 - question: Firm tofu?
   answer: Yes—holds up best; handle soft tofu gently.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 義大利麵
 - 豆腐
@@ -71,7 +74,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Cream

@@ -66,12 +66,15 @@ steps:
 tips:
 - 더 걸쭉하게 하려면 마지막에 전분물 1작은술을 넣으세요.
 - 카레 가루는 1큰술부터 넣어 맛을 보며 조절하세요.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 냉장 1일 이내. 도시락은 재가열 시 물 2큰술을 넣고 다시 끓이세요.
 substitutions:
 - 감자
 faqs:
 - question: 카레 가루가 많이 맵나요?
   answer: 브랜드마다 다르니 절반부터 넣어 보고 조절하세요.
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 소고기
 - 양파
@@ -79,7 +82,7 @@ relatedIngredients:
 - 밥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 대파
 - 고추

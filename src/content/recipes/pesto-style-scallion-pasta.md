@@ -59,19 +59,22 @@ steps:
 - 起鍋盛盤趁熱享用。
 tips:
 - 起司粉可先少加，拌嚐後再補，避免過鹹。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 現做現吃最佳；青醬泥不宜久放，建議當餐用完。
 substitutions:
 - 堅果碎（如松子）
 faqs:
 - question: 和正統青醬差在哪？
   answer: 這版以青蔥取代羅勒，材料更好取得，風味偏蔥香清新。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 青蔥
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

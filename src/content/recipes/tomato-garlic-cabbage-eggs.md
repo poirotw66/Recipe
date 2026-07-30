@@ -56,6 +56,7 @@ steps:
 - 全部翻拌均勻，淋入醬油與鹽調味；蛋液半凝固帶滑、蒜香明顯即可起鍋。
 tips:
 - 想要更嫩的蛋口感，蛋液下鍋後火候可轉小。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 蛋料理建議當餐食用，若需保存冷藏 1 天內吃完。
 substitutions:
 - 可把高麗菜改成青花菜梗薄片。
@@ -64,13 +65,15 @@ faqs:
   answer: 番茄炒軟後先收一下汁，就不會太濕。
 - question: 可以配飯嗎？
   answer: 很適合，酸甜味很下飯。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 番茄
 - 高麗菜
 - 雞蛋
 featured: false
 publishedAt: '2026-07-15'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

@@ -23,8 +23,12 @@ tags:
 - Fried
 tips:
 - Cheese sticks need a quick fry—about 1 minute—or they burst.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions:
 - Chicken nuggets
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 雞蛋
 customAdditions: []
@@ -68,7 +72,7 @@ steps:
 storage: Best eaten immediately; cheese sticks harden when cold.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 The fried trio platter is for gatherings when you want several textures at once.

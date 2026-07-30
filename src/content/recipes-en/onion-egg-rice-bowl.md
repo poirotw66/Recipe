@@ -56,6 +56,7 @@ steps:
 - Slide the onion and eggs with all the sauce over the rice. Serve right away while hot.
 tips:
 - Leave a little extra sauce if you like a moister bowl.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Cook and eat the same day for best egg aroma and texture.
 substitutions:
 - Scallions
@@ -63,13 +64,15 @@ substitutions:
 faqs:
 - question: Can I pack it for lunch?
   answer: Yes—cook the eggs more firmly so they do not weep in the box.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 白飯
 - 洋蔥
 - 雞蛋
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

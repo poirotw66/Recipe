@@ -58,12 +58,15 @@ steps:
 - 味を見て塩を少々で調整し、温かいうちに盛り付ける。
 tips:
 - 豆腐の水気を切ると油はねしにくいです。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: できたてに。冷蔵すると豆腐が柔らかくなります。
 substitutions:
 - トマト缶
 faqs:
 - question: 木綿豆腐でもいい？
   answer: はい。焼きやすいです。絹豆腐は優しく混ぜてください。
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - スパゲッティ
 - 豆腐
@@ -71,7 +74,7 @@ relatedIngredients:
 - にんにく
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ベーコン
 - 生クリーム

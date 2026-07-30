@@ -33,20 +33,23 @@ steps:
 - 味を見て丼に盛る。香りを足したい場合は、仕上げにごま油を数滴回す。
 tips:
 - 仕上げにごま油を数滴回すと香りが増します。
+- 汁が煮詰まると塩味が強くなるため、塩は最後に味を見て加えます。
 storage: できたてに。翌日は水蓮が柔らかくなります。
 substitutions:
 - 小松菜
 - きのこ
+faqs:
+- question: "スープは翌日も食べられますか？"
+  answer: "粗熱を早く取り、密閉して冷蔵してください。翌日は十分に温め、葉物は食べる直前に加えます。"
 relatedIngredients:
 - 水蓮
 - 豆腐
 - しょうが
 customAdditions:
 - ごま油
-faqs: []
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: '150'

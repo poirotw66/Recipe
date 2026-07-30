@@ -56,6 +56,7 @@ steps:
 - "Toss everything together; drizzle with soy sauce and salt. Serve when eggs are half-set and silky with clear garlic aroma."
 tips:
 - Lower heat after eggs for a softer scramble.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Same meal best; egg leftovers within 1 day refrigerated.
 substitutions:
 - Broccoli stem slices for cabbage.
@@ -64,13 +65,15 @@ faqs:
   answer: Reduce juices after tomato softens.
 - question: Good with rice?
   answer: Very—sweet-sour and savory.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 番茄
 - 高麗菜
 - 雞蛋
 featured: false
 publishedAt: '2026-07-15'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

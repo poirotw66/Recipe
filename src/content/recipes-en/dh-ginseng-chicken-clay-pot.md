@@ -36,6 +36,7 @@ steps:
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
 substitutions:
 - whole Cornish hen
@@ -51,9 +52,11 @@ customAdditions:
 faqs:
 - question: How do I make this 人蔘砂鍋雞 closer to Dubu House?
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: whole chicken
   amount: "1"

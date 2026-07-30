@@ -55,6 +55,7 @@ steps:
 - 全体を混ぜ、塩と黒胡椒で味を整える。卵が半熟でしっとりしたら完成。
 tips:
 - ブロッコリーは煮込みすぎないと歯ごたえが残ります。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: 冷蔵1日。翌日の昼食向き。
 substitutions:
 - キャベツ
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: ブロッコリーを先に茹でなくてもいいですか？
   answer: はい。ただし炒め時間を延ばし、水を少し加えて蓋をすると火が通ります。
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - ブロッコリー
 - きのこ
 - 卵
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ

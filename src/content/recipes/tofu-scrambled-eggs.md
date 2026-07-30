@@ -58,6 +58,7 @@ steps:
 tips:
 - 豆腐不要切太碎，翻炒時才不會整鍋散掉。
 - 如果想更下飯，可以在起鍋前補一點白胡椒。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 建議當餐吃完；若要冷藏，放保鮮盒可保存 1 天，回熱時用小火拌開。
 substitutions:
 - 嫩豆腐
@@ -67,13 +68,15 @@ faqs:
   answer: 可以，但嫩豆腐含水量高，建議先瀝水並降低翻炒力度。
 - question: 能當便當菜嗎？
   answer: 可以，豆腐先煎乾一點、蛋炒熟一些，帶便當時比較不會出水。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 雞蛋
 - 豆腐
 - 青蔥
 featured: true
 publishedAt: '2026-05-20'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

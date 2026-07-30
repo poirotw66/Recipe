@@ -54,6 +54,7 @@ steps:
 - When egg is fully set and cabbage still has some crunch, serve. Let cool before packing bento to reduce moisture.
 tips:
 - For bento, cook the egg a bit more thoroughly.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Refrigerate 1–2 days.
 substitutions:
 - Add shredded carrot for sweetness and color.
@@ -62,13 +63,15 @@ faqs:
   answer: Yes—salt and white pepper work fine.
 - question: Will the bento get watery?
   answer: Let it cool before sealing the box to reduce condensation.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 高麗菜
 - 雞蛋
 - 蒜頭
 featured: false
 publishedAt: '2026-06-23'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

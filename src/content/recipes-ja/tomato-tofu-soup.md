@@ -57,6 +57,7 @@ steps:
 - 塩小さじ1/3で味を調え、ごま油少々を回し、青ねぎを振って味を見て完成。
 tips:
 - トマトを先に軽く炒めてから水を加えると、コクが出やすい。
+- 汁が煮詰まると塩味が強くなるため、塩は最後に味を見て加えます。
 storage: 冷蔵で2日可。温め直すときは豆腐を強く混ぜない。
 substitutions:
 - 卵
@@ -64,13 +65,15 @@ substitutions:
 faqs:
 - question: 卵を流し入れてもいいですか？
   answer: はい。最後に溶き卵を回すと、より満足感が出ます。
+- question: "スープは翌日も食べられますか？"
+  answer: "粗熱を早く取り、密閉して冷蔵してください。翌日は十分に温め、葉物は食べる直前に加えます。"
 relatedIngredients:
 - トマト
 - 豆腐
 - 青ねぎ
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉だんご
 - あさり

@@ -32,19 +32,22 @@ steps:
 - エビを戻し、塩と白胡椒を振り入れ、強火で約30秒さっと和え均一に味がついたら盛る。
 tips:
 - エビは日本酒で下味をつけると臭みが取りやすいです。
+- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
 storage: できたてに。エビは翌日硬くなりやすいです。
 substitutions:
 - イカ
 - 鶏むね肉
+faqs:
+- question: "主材料をパサつかせないコツは？"
+  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
 relatedIngredients:
 - 水蓮
 - エビ
 - にんにく
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: '180'

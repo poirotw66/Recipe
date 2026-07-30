@@ -54,6 +54,7 @@ steps:
 - Taste and adjust salt if needed; serve hot.
 tips:
 - Do not flip constantly—better browning if you let each side sit.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate up to 2 days; splash water when reheating.
 substitutions:
 - Black pepper instead of extra garlic.
@@ -62,13 +63,15 @@ faqs:
   answer: Yes, but it dries faster—shorten the heat.
 - question: Good vegetable pairings?
   answer: Broccoli or cabbage both work.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 蒜頭
 - 洋蔥
 featured: false
 publishedAt: '2026-06-17'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

@@ -56,6 +56,7 @@ steps:
 - "Topping should look glossy with tender-crisp vegetables; spoon over rice and serve."
 tips:
 - For thicker sauce, stir in 1 tsp cornstarch slurry.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Topping keeps 1 day refrigerated; reheat and pour over fresh rice.
 substitutions:
 - Brown rice works instead of white.
@@ -64,13 +65,15 @@ faqs:
   answer: Onion strips sautéed first are a good swap.
 - question: Bento-friendly?
   answer: Pack topping and rice separately; mix when eating.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 菇類
 - 高麗菜
 - 白飯
 featured: false
 publishedAt: '2026-06-09'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Shredded pork
 - Shrimp

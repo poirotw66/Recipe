@@ -23,6 +23,7 @@ tags:
 - Rice bowl
 tips:
 - Halved cherry tomatoes make a quick side.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -68,9 +69,11 @@ storage: Best fresh; pork dries if reheated next day.
 faqs:
 - question: Can I use chicken cutlet instead?
   answer: Yes—pounded chicken breast works; cook slightly less.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A weekend treat cutlet bowl without the fryer.

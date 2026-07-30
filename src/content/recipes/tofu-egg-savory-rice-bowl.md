@@ -58,6 +58,7 @@ steps:
 - 試味後將豆腐蛋糊連汁淋在白飯上，趁熱拌食。
 tips:
 - 想更滑順可在蛋液加 1 小匙水。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 建議當餐食用。
 substitutions:
 - 可加入番茄丁增加酸甜味。
@@ -66,13 +67,15 @@ faqs:
   answer: 可以，改洋蔥末也行。
 - question: 這道會很油嗎？
   answer: 油量可控制在 1 小匙內。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 豆腐
 - 雞蛋
 - 白飯
 featured: false
 publishedAt: '2026-07-07'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

@@ -31,18 +31,21 @@ steps:
 - ソースがとろみ、水蓮がつやつやになったら火を止める。味が足りなければ醤油を少し、塩気が強ければ次回は控えめに。
 tips:
 - オイスターソースは塩気があるので醤油は控えめに。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: 冷蔵1日。再加熱は油少々で強火快炒。
 substitutions:
 - 小松菜
 - 空芯菜
+faqs:
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - 水蓮
 - にんにく
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: '200'

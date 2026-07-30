@@ -53,6 +53,7 @@ steps:
 - "Season with a pinch of salt to taste; rice should be separate, cabbage translucent and lightly sweet—divide into 3 portions."
 tips:
 - Vegetables release water—reduce liquid so the rice is not mushy.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Refrigerate up to 2 days; freeze portions up to 1 week.
 substitutions:
 - Onion
@@ -60,13 +61,15 @@ substitutions:
 faqs:
 - question: Can I add meat?
   answer: Yes—diced chicken breast works; confirm it is fully cooked.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 白米
 - 高麗菜
 - 菇類
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Shredded pork
 - Shrimp

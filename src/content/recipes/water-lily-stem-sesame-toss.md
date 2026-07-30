@@ -32,18 +32,21 @@ steps:
 - 分裝盤中，表面撒烘香白芝麻即可；帶便當可先攤開散熱再裝盒，避免悶出水。
 tips:
 - 便當帶出門建議瀝乾水分，避免油水滲出。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 冷藏 1 天；食用前可室溫回溫或直接冷吃。
 substitutions:
 - 空心菜
 - 菠菜
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 水蓮
 - 蒜頭
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: "200"

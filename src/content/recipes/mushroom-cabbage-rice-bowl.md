@@ -56,6 +56,7 @@ steps:
 - 燴料應帶光澤、蔬菜軟嫩仍保有脆度，淋在白飯上即可享用。
 tips:
 - 想要更濃稠可用 1 小匙太白粉水勾薄芡。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 燴料可冷藏 1 天，回鍋再淋飯口感較好。
 substitutions:
 - 白飯可改糙米飯。
@@ -64,13 +65,15 @@ faqs:
   answer: 可以，改成洋蔥絲先炒香也很好。
 - question: 這道可以當便當嗎？
   answer: 可以，建議燴料和飯分開裝，吃前再拌。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 菇類
 - 高麗菜
 - 白飯
 featured: false
 publishedAt: '2026-06-09'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉絲
 - 蝦仁

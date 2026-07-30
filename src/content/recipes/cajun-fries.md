@@ -22,8 +22,12 @@ tags:
 - 炸物
 tips:
 - 氣炸鍋 200°C 烤 18 分鐘，中途翻面並噴油，可減少用油量。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions:
 - 地瓜條
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients: []
 customAdditions: []
 ingredients:
@@ -62,7 +66,7 @@ steps:
 storage: "現炸現吃；隔夜會變軟。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 肯瓊香辣薯條是小點區最下酒的選擇之一。

@@ -34,18 +34,21 @@ steps:
 - 간을 맞춰 뜨거울 때 바로 낸다.
 tips:
 - 팬이 충분히 달궈져야 미나리가 물을 내지 않습니다.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 storage: 바로 드세요. 남은 것은 센 불로 30초만 재가열하세요.
 substitutions:
 - 공심채
 - 청경채
+faqs:
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 미나리
 - 마늘
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 미나리
   amount: "200"

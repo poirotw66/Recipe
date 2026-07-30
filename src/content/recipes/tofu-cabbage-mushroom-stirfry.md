@@ -57,6 +57,7 @@ steps:
 - 豆腐均勻上色、蔬菜熟透但仍帶脆即可起鍋。
 tips:
 - 高麗菜可分兩次下鍋，受熱更均勻。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 冷藏可放 1 天，回鍋建議中火快速加熱。
 substitutions:
 - 可把高麗菜改青花菜。
@@ -65,13 +66,15 @@ faqs:
   answer: 先煎到表面定型，再翻動就不易碎。
 - question: 能加肉嗎？
   answer: 可加雞胸肉丁，先炒熟再和蔬菜混合。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 豆腐
 - 高麗菜
 - 菇類
 featured: false
 publishedAt: '2026-06-25'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉絲
 - 蝦仁

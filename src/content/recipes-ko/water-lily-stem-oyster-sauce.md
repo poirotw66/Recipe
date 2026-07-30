@@ -31,18 +31,21 @@ steps:
 - 국물이 졸아들고 미나리가 윤기 나면 불을 끈다. 간이 부족하면 간장을 조금, 짜면 다음에는 줄인다.
 tips:
 - 굴소스가 짜므로 간장은 취향에 맞게 줄이세요.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 storage: 냉장 1일. 재가열은 기름을 조금 두르고 센 불로 빠르게.
 substitutions:
 - 청경채
 - 공심채
+faqs:
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 미나리
 - 마늘
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 미나리
   amount: "200"

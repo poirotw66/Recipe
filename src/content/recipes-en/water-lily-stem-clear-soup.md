@@ -33,20 +33,23 @@ steps:
 - Taste and ladle into a bowl. For extra aroma, drizzle a few drops of sesame oil before serving.
 tips:
 - Few drops of sesame oil at the end optional.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 storage: Eat fresh; greens soften overnight.
 substitutions:
 - Bok choy
 - Mushrooms
+faqs:
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 relatedIngredients:
 - 水蓮
 - 豆腐
 - 薑
 customAdditions:
 - Sesame oil
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: Water dropwort
   amount: "150"

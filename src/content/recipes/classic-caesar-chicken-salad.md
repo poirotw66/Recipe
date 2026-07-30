@@ -24,8 +24,12 @@ tags:
 - 雞肉料理
 tips:
 - 沒有生菜可用青花菜燙軟後冰鎮代替。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 substitutions:
 - 豆腐
+faqs:
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 雞胸肉
 - 雞蛋
@@ -69,7 +73,7 @@ steps:
 storage: "醬汁與生菜分開裝，當日食用口感最佳。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 

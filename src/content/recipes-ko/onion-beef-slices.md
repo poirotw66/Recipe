@@ -51,15 +51,19 @@ steps:
 - 소스가 살짝 걸쭉해지고 고기가 완전히 익으면서도 부드러울 때 담는다. 오래 볶으면 질겨진다.
 tips:
 - 고기를 넣은 뒤 오래 볶지 마세요.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드시는 것이 좋습니다.
 substitutions:
 - 파
+faqs:
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 소고기
 - 양파
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 파
 - 고추

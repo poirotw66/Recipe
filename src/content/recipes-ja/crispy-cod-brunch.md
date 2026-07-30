@@ -65,16 +65,20 @@ steps:
 tips:
 - ノンフライヤー190°Cで10〜12分、途中で返して油を霧吹き。
 - 油温が低いと油を吸って重くなります。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: 揚げたてが最良。冷蔵すると衣が軟らかくなります。
 substitutions:
 - サーモン
 - 鶏むね肉
+faqs:
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - 卵
 - トマト
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions: []
 ---
 

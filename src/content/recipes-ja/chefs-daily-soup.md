@@ -60,10 +60,14 @@ steps:
 - 塩少々と黒胡椒少々で味を調えて完成。
 tips:
 - 鶏ガラや昆布を一緒に煮るとスープがより旨くなります。
+- 汁が煮詰まると塩味が強くなるため、塩は最後に味を見て加えます。
 storage: 冷蔵2日。冷凍1週間。再加熱時は煮込みすぎない。
 substitutions:
 - かぼちゃ
 - きのこ
+faqs:
+- question: "スープは翌日も食べられますか？"
+  answer: "粗熱を早く取り、密閉して冷蔵してください。翌日は十分に温め、葉物は食べる直前に加えます。"
 relatedIngredients:
 - にんじん
 - 玉ねぎ
@@ -71,7 +75,7 @@ relatedIngredients:
 - トマト
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions: []
 ---
 

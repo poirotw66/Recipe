@@ -54,15 +54,19 @@ steps:
 - Toss over high heat 30 seconds until evenly coated and the beef is fully cooked. Taste and adjust seasoning, then serve.
 tips:
 - Do not overcook the beef—it stays more tender.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Keeps 1 day refrigerated; reheat with a little oil in a hot pan.
 substitutions:
 - Cauliflower
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 牛肉
 - 青花菜
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Scallions
 - Chili

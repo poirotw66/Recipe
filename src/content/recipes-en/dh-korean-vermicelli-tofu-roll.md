@@ -33,6 +33,7 @@ steps:
 tips:
 - Keep the filling dry and leave a small border so the tofu skin can seal without tearing.
 - Start seam-side down in a lightly oiled skillet; turn only after the first side is golden and set.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Best pan-fried on the day it is made. Refrigerate leftovers airtight for up to 2 days and re-crisp in a skillet before serving.
 substitutions:
 - spring-roll wrappers
@@ -48,6 +49,8 @@ customAdditions:
 faqs:
 - question: How do I keep Korean vermicelli tofu rolls crisp?
   answer: Drain the vegetables well, seal the tofu skin firmly, and pan-fry seam-side down first so the roll stays intact and crisp.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-07-30"

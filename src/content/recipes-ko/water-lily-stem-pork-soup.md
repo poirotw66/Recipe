@@ -30,19 +30,22 @@ steps:
 - 소금 1/2작은술로 간을 맞추고 맛을 본 뒤 뜨겁게 그릇에 담아 낸다.
 tips:
 - 미나리를 오래 끓이지 않아야 아삭합니다.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드세요. 재가열 시 미나리가 무르며.
 substitutions:
 - 청경채
 - 양배추
+faqs:
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 미나리
 - 돼지고기
 - 생강
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 미나리
   amount: "150"

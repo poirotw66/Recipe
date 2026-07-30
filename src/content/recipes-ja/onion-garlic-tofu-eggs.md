@@ -57,6 +57,7 @@ steps:
 - 卵に火が通り、豆腐が形を保ったら完成。
 tips:
 - 豆腐の水気を切ると崩れにくくなります。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: できたてがおすすめ。冷蔵は1日以内に再加熱を。
 substitutions:
 - 玉ねぎは青ねぎに替えても可。
@@ -65,13 +66,15 @@ faqs:
   answer: はい。塩と白胡椒で十分です。
 - question: 絹ごし豆腐でも作れますか？
   answer: はい。混ぜる手は軽くしてください。
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - 豆腐
 - 卵
 - 玉ねぎ
 featured: false
 publishedAt: '2026-07-01'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ハム丁
 - シュレッドチーズ

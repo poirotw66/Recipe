@@ -56,6 +56,7 @@ steps:
 - "Pour chicken and sauce over rice and toss while hot; for bento, pack rice and chicken separately."
 tips:
 - Toss chicken with a pinch of salt and oil before cooking for a silkier texture.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best fresh; pack rice and chicken separately for lunchboxes to avoid soggy rice.
 substitutions:
 - Chicken tenderloin instead of breast.
@@ -64,13 +65,15 @@ faqs:
   answer: Steam chicken first, shred, then mix sauce and rice.
 - question: No scallions?
   answer: Minced onion works; flavor turns sweeter.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 青蔥
 - 白飯
 featured: false
 publishedAt: '2026-06-08'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

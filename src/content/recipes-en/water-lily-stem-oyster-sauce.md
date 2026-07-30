@@ -31,18 +31,21 @@ steps:
 - When the sauce tightens and the greens look glossy, serve. Add a little soy if flat; use less seasoning next time if salty.
 tips:
 - Oyster sauce is salty—reduce soy if needed.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate 1 day; quick reheat with a little oil.
 substitutions:
 - Bok choy
 - Water spinach
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 水蓮
 - 蒜頭
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: Water dropwort
   amount: "200"

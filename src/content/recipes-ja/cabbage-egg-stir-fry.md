@@ -55,6 +55,7 @@ steps:
 - 2人分に分けて熱いうちに、または冷めてからお弁当に詰める。
 tips:
 - キャベツから水分を出しすぎないと、シャキッとした食感になります。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: 冷蔵2日。温め直しは電子レンジよりフライパンで干し炒めの方が香ばしいです。
 substitutions:
 - チンゲン菜
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: にんにくなしでもいいですか？
   answer: はい。ねぎに替えても香りが出ます。
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - キャベツ
 - 卵
 - にんにく
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ

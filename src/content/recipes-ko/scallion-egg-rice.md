@@ -56,6 +56,7 @@ steps:
 - 그릇에 담아 뜨거울 때 바로 낸다.
 tips:
 - 파는 두 번 나눠 넣으면, 절반은 볶아 향을 내고 절반은 마지막에 올려 층이 살아납니다.
+- 찬밥이나 삶은 면은 조리 전에 펼쳐 두면 뭉치지 않고 양념이 고르게 배어듭니다.
 storage: 바로 만들어 바로 드시는 것을 권합니다. 오래 두지 마세요.
 substitutions:
 - 양파
@@ -63,13 +64,15 @@ substitutions:
 faqs:
 - question: 전날 밥을 써도 되나요?
   answer: 가능합니다. 전자레인지나 팬으로 먼저 데우면 뭉치지 않고 비비기 편합니다.
+- question: "미리 만들어 둘 수 있나요?"
+  answer: "가능합니다. 밥이나 면과 속재료를 따로 냉장한 뒤 먹기 직전에 데워 섞으면 식감이 좋습니다."
 relatedIngredients:
 - 밥
 - 달걀
 - 대파
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 햄 깍둑
 - 치즈 가담

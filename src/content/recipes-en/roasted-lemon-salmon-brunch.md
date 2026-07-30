@@ -25,8 +25,12 @@ tags:
 - Salmon dishes
 tips:
 - Air fryer 190°C, 12–14 minutes, similar results.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions:
 - Cod fillet
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 鮭魚
 - 青花菜
@@ -73,7 +77,7 @@ steps:
 storage: Eat within 1 day; reheat covered with foil to avoid drying.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Bright and rich—a healthier brunch centerpiece.

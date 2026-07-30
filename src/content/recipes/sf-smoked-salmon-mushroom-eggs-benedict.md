@@ -37,6 +37,7 @@ steps:
 tips:
 - 把麵包、蛋、主蛋白與配菜分段完成，最後再整盤擺出，最能還原 Second Floor Cafe 的早午餐節奏。
 - 班尼蛋與歐姆蕾都要保留蛋體濕潤度，不要過熟。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 早午餐盤建議現做現吃；蛋料理與吐司放久會失去最佳口感。
 substitutions:
 - 歐包
@@ -52,9 +53,11 @@ customAdditions:
 faqs:
 - question: 想把 燻鮭魚奶油炒菇班尼蛋 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 歐包與燻鮭 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 歐包
   amount: "2"

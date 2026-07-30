@@ -54,19 +54,22 @@ steps:
 - Taste and adjust with a pinch of salt; plate while hot.
 tips:
 - Add scallion greens last for brighter color and scent.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Best fresh; up to 1 day refrigerated.
 substitutions:
 - Onion
 faqs:
 - question: Skip soy sauce?
   answer: Salt and black pepper work fine.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 義大利麵
 - 青蔥
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

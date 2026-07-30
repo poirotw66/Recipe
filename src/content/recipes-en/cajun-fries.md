@@ -23,8 +23,12 @@ tags:
 - Fried
 tips:
 - Air fry at 200°C about 18 minutes, flip and spray oil, to cut down on deep frying.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions:
 - Sweet potato fries
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients: []
 customAdditions: []
 ingredients:
@@ -63,7 +67,7 @@ steps:
 storage: Best eaten fresh; leftovers soften overnight.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Cajun fries are a crowd-pleasing side or snack with a kick.

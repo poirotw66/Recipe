@@ -53,6 +53,7 @@ steps:
 - 塩少々で味を調える。ご飯は粒立ち、キャベツは半透明で甘みがあること。3人分に分ける。
 tips:
 - 野菜から水分が出るので、水は控えめにするとべちゃべちゃになりにくい。
+- 冷やご飯やゆで麺は広げてから加熱すると、固まりにくく調味料も均一になじみます。
 storage: 冷蔵2日。小分け冷凍で約1週間。
 substitutions:
 - 玉ねぎ
@@ -60,13 +61,15 @@ substitutions:
 faqs:
 - question: 肉を加えられますか？
   answer: はい。鶏むねの角切りを入れる場合は完全に火が通ることを確認してください。
+- question: "作り置きできますか？"
+  answer: "できます。主食と具材を分けて冷蔵し、食べる直前に温めて合わせると食感を保てます。"
 relatedIngredients:
 - 米
 - キャベツ
 - きのこ
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 細切り肉
 - エビ

@@ -55,6 +55,7 @@ steps:
 - 全部翻拌均勻，以鹽與黑胡椒調味；蛋液半凝固帶濕潤即可起鍋。
 tips:
 - 青花菜不要煮太久，保持脆度會更好吃。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 冷藏可保存 1 天，適合隔天午餐。
 substitutions:
 - 高麗菜
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: 可以不先燙青花菜嗎？
   answer: 可以，但炒的時間要拉長，並加一點水蓋鍋悶熟。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 青花菜
 - 菇類
 - 雞蛋
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

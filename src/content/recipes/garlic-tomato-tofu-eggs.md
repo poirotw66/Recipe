@@ -57,6 +57,7 @@ steps:
 - 淋醬油 1 小匙從鍋邊嗆入，快速翻勻，蛋液應濕潤帶蒜香即可起鍋。
 tips:
 - 蛋液下鍋後不要久炒，保留一點滑嫩口感會更好吃。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 建議現做現吃；若需冷藏，1 天內加熱完畢。
 substitutions:
 - 可改用嫩豆腐，但翻炒時要更輕手。
@@ -65,13 +66,15 @@ faqs:
   answer: 可以，改用青蔥提香也可以成立。
 - question: 可以加番茄醬嗎？
   answer: 可以加半小匙，風味會更濃郁偏酸甜。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 雞蛋
 - 豆腐
 - 番茄
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

@@ -56,6 +56,7 @@ steps:
 - 丼に盛り、温かいうちに召し上がる。
 tips:
 - ねぎは半量を炒め、残りを最後に振ると香りに層がつく。
+- 冷やご飯やゆで麺は広げてから加熱すると、固まりにくく調味料も均一になじみます。
 storage: できたてを食べるのがおすすめ。長時間置かない。
 substitutions:
 - 玉ねぎ
@@ -63,13 +64,15 @@ substitutions:
 faqs:
 - question: 前日のご飯でもいいですか？
   answer: はい。電子レンジやフライパンで温め直してから混ぜると固まりにくいです。
+- question: "作り置きできますか？"
+  answer: "できます。主食と具材を分けて冷蔵し、食べる直前に温めて合わせると食感を保てます。"
 relatedIngredients:
 - ご飯（白米）
 - 卵
 - 青ねぎ
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ

@@ -24,6 +24,7 @@ tags:
 - Tofu
 tips:
 - Add kelp or extra firm tofu for variety in the same braise.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions: []
 relatedIngredients:
 - 豆腐
@@ -62,6 +63,8 @@ storage: Refrigerate up to 3 days; eat cold or reheat in the microwave.
 faqs:
 - question: Braise too salty?
   answer: Dilute with water and taste again, or use less soy sauce next time.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-07-30"

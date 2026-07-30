@@ -55,6 +55,7 @@ steps:
 - 試味後即可起鍋（魚肉中心應不透明、用叉子能輕鬆撥開即熟透）。
 tips:
 - 鮭魚下鍋前擦乾，皮面更容易煎脆。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 建議當餐食用。
 substitutions:
 - 青花菜可改高麗菜。
@@ -63,13 +64,15 @@ faqs:
   answer: 可以，190 度約 12 分鐘。
 - question: 會很腥嗎？
   answer: 先撒鹽靜置再煎可降低腥味。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 鮭魚
 - 青花菜
 - 蒜頭
 featured: false
 publishedAt: '2026-07-10'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉絲
 - 蝦仁

@@ -54,6 +54,7 @@ steps:
 - 豆腐均勻上色、青花菜熟透但仍帶脆即可起鍋。
 tips:
 - 青花菜可先燙 30 秒再炒，熟度更穩。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 可冷藏 1 天，回鍋建議中火快炒。
 substitutions:
 - 青花菜可改高麗菜。
@@ -62,13 +63,15 @@ faqs:
   answer: 先煎到定型再翻動。
 - question: 可以加蛋嗎？
   answer: 可以，最後加蛋液會更有飽足感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 青花菜
 - 豆腐
 - 蒜頭
 featured: false
 publishedAt: '2026-07-04'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉絲
 - 蝦仁

@@ -51,15 +51,19 @@ steps:
 - タレが少しとろみ、牛肉が火が通っても柔らかいうちに盛る。炒めすぎると硬くなる。
 tips:
 - 牛肉は入れたら長く炒めないと硬くなります。
+- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
 storage: できたてがおすすめ。
 substitutions:
 - 青ねぎ
+faqs:
+- question: "主材料をパサつかせないコツは？"
+  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
 relatedIngredients:
 - 牛肉
 - 玉ねぎ
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 青ねぎ
 - 唐辛子

@@ -25,6 +25,7 @@ tags:
 - 라면
 tips:
 - 스프는 절반만 넣어 너무 짜지 않게 하세요.
+- 찬밥이나 삶은 면은 조리 전에 펼쳐 두면 뭉치지 않고 양념이 고르게 배어듭니다.
 substitutions: []
 relatedIngredients:
 - 달걀
@@ -62,9 +63,11 @@ storage: 바로 드세요.
 faqs:
 - question: 버터가 없으면?
   answer: 올리브 오일에 우유를 조금 넣어도 되지만 맛은 조금 옅습니다.
+- question: "미리 만들어 둘 수 있나요?"
+  answer: "가능합니다. 밥이나 면과 속재료를 따로 냉장한 뒤 먹기 직전에 데워 섞으면 식감이 좋습니다."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 버터 마늘 라면 볶음은 값싸고 빠른 자취방 야식 구원 요리입니다.

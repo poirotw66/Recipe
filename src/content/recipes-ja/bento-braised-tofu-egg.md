@@ -53,17 +53,20 @@ steps:
 - 冷めたら卵を半分に切りお弁当箱に詰める。煮汁は別容器にするか、軽く切ってから詰める。
 tips:
 - 昆布や厚揚げを一緒に煮るとボリュームが増えます。
+- 冷やご飯やゆで麺は広げてから加熱すると、固まりにくく調味料も均一になじみます。
 storage: 冷蔵3日。冷食・電子レンジ加熱どちらも可。
 substitutions: []
 faqs:
 - question: 煮汁がしょっぱい場合は？
   answer: 水で薄めて味を見るか、次回は醤油量を減らしてください。
+- question: "作り置きできますか？"
+  answer: "できます。主食と具材を分けて冷蔵し、食べる直前に温めて合わせると食感を保てます。"
 relatedIngredients:
 - 豆腐
 - 卵
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions: []
 ---
 

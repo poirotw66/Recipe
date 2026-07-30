@@ -57,19 +57,22 @@ steps:
 tips:
 - 一定要關火離灶再拌蛋，鍋溫太高蛋液會變成炒蛋碎屑。
 - 起司粉可在起鍋前加 1 小匙，風味會更接近西式蛋麵。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 現煮現吃最佳；隔夜再加熱口感會偏乾，不建議帶便當。
 substitutions:
 - 起司粉
 faqs:
 - question: 蛋液會不會太生？
   answer: 利用麵條餘溫與煮麵水拌炒，通常可達到熟透又滑順的狀態。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 洋蔥
 - 雞蛋
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

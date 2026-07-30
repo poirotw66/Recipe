@@ -23,6 +23,7 @@ tags:
 - 下飯菜
 tips:
 - 菜脯可改筍乾或鹹菜，記得先試鹹度。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -61,8 +62,10 @@ storage: "現做現吃；隔夜再加熱可微波 1 分鐘。"
 faqs:
 - question: "沒有菜脯怎麼辦？"
   answer: "可用鹹菜或韓式泡菜代替，風味不同但同樣下飯。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 菜脯蛋飯是台灣家常最快速的下飯組合之一。

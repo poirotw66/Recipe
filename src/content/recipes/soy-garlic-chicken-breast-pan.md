@@ -54,6 +54,7 @@ steps:
 - 試味後補 鹽 少許 調整，趁熱上桌。
 tips:
 - 煎雞胸時先不要一直翻面，較容易上色。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏 2 天內食用，回鍋可加 1 小匙水保濕。
 substitutions:
 - 蒜頭可改成黑胡椒。
@@ -62,13 +63,15 @@ faqs:
   answer: 可以，但水分流失會更快，火候要縮短。
 - question: 適合配什麼菜？
   answer: 青花菜或高麗菜都很搭。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 雞胸肉
 - 蒜頭
 - 洋蔥
 featured: false
 publishedAt: '2026-06-17'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 杏鮑菇
 - 玉米筍

@@ -57,6 +57,7 @@ steps:
 - 달걀이 완전히 익고 두부가 형태를 유지하면 완성합니다.
 tips:
 - 두부 물기를 제거하면 덜 부서집니다.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 storage: 바로 드시고, 냉장 시 1일 이내 데워 드세요.
 substitutions:
 - 양파 대신 파 채도 가능합니다.
@@ -65,13 +66,15 @@ faqs:
   answer: 소금과 흰후추로 대체할 수 있습니다.
 - question: 부드러운 두부도 되나요?
   answer: 가능하나 뒤집을 때 가볍게 하세요.
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 두부
 - 달걀
 - 양파
 featured: false
 publishedAt: '2026-07-01'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 햄 다이스
 - 모짜렐라

@@ -24,6 +24,7 @@ tags:
 - Fat-loss friendly
 tips:
 - Add shrimp or diced chicken for more protein and texture.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions: []
 relatedIngredients:
 - 雞蛋
@@ -62,9 +63,11 @@ storage: Best fresh; whites weep if held overnight.
 faqs:
 - question: What do I do with the yolks?
   answer: Refrigerate up to 1 day for mayo, baked eggs, or toast topping.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 One of the simplest protein hits during a cut.

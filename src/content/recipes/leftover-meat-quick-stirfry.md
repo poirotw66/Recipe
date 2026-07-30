@@ -23,6 +23,7 @@ tags:
 - 豬肉料理
 tips:
 - 牛肉片同樣適用，炒至變色即可，時間略短。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions: []
 relatedIngredients:
 - 豬肉
@@ -69,9 +70,11 @@ storage: "現做現吃；冷藏 1 天，再加熱用大火快炒 1 分鐘。"
 faqs:
 - question: "沒有青椒怎麼辦？"
   answer: "可用甜椒、芹菜或高麗菜代替。"
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

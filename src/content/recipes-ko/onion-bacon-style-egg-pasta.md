@@ -57,19 +57,22 @@ steps:
 tips:
 - 달걀을 넣을 때 반드시 불을 끄고 팬을 떼야 스크램블이 되지 않습니다.
 - 마무리에 치즈 가루 1작은술을 넣으면 서양식 달걀 파스타에 가깝습니다.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 storage: 바로 드시고, 재가열 시 마를 수 있어 도시락 비추천.
 substitutions:
 - 치즈 가루
 faqs:
 - question: 달걀이 덜 익지 않나요?
   answer: 면 열과 면수로 익으면서도 부드럽게 됩니다.
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 스파게티
 - 양파
 - 달걀
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 베이컨
 - 생크림

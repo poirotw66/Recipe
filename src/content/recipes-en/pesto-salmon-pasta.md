@@ -68,19 +68,22 @@ steps:
 - Plate and serve while hot.
 tips:
 - Toss gently so salmon doesn’t break into too many small pieces.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best eaten immediately; fish loses quality overnight.
 substitutions:
 - Mackerel
 faqs:
 - question: Will pesto overpower the salmon?
   answer: Lemon brightens the fish; don’t overdo the cheese and it stays balanced.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 義大利麵
 - 鮭魚
 - 青蔥
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

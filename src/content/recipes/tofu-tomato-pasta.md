@@ -58,12 +58,15 @@ steps:
 - 試味，以鹽少許調整；起鍋盛盤趁熱享用。
 tips:
 - 豆腐瀝乾再下鍋，比較不容易濺油。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 建議現做現吃；冷藏後豆腐口感會偏軟。
 substitutions:
 - 番茄罐
 faqs:
 - question: 可以用板豆腐嗎？
   answer: 可以，板豆腐較耐煎，嫩豆腐則要輕手翻炒。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 豆腐
@@ -71,7 +74,7 @@ relatedIngredients:
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

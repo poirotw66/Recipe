@@ -58,6 +58,7 @@ steps:
 - 以 鹽 少許 調味，撒蔥花試味道即可起鍋。
 tips:
 - 蛋液下鍋時可用筷子輕繞，蛋花更細。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 storage: 可冷藏 1 天，回鍋請小火。
 substitutions:
 - 可加入洋蔥絲增加甜味。
@@ -66,13 +67,15 @@ faqs:
   answer: 可以，改加菇類也很搭。
 - question: 番茄皮要去掉嗎？
   answer: 可依個人喜好決定。
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 relatedIngredients:
 - 番茄
 - 雞蛋
 - 豆腐
 featured: false
 publishedAt: '2026-07-11'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

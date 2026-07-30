@@ -25,6 +25,7 @@ tags:
 - Instant noodles
 tips:
 - Use half the seasoning packet to keep salt in check.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions: []
 relatedIngredients:
 - 雞蛋
@@ -62,9 +63,11 @@ storage: Best eaten immediately.
 faqs:
 - question: No butter?
   answer: Olive oil plus a splash of milk works with a milder flavor.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Butter garlic instant noodles are a renter-kitchen rescue when you want comfort fast.

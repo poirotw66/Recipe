@@ -36,6 +36,7 @@ steps:
 tips:
 - 限定品項通常以單一強烈味型作為辨識點，先把那個核心風味做好最重要。
 - 若參考的是食記版本，建議用門市常見配菜邏輯補齊整體份量。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 限定品項以現做現吃為佳；若需冷藏，醬汁與主體請分開保存。
 substitutions:
 - 時蔬
@@ -48,9 +49,11 @@ customAdditions: []
 faqs:
 - question: 想把 金黃流沙海鮮披薩 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 金沙醬與海鮮 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 海鮮
   amount: "180"

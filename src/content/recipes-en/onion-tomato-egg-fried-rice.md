@@ -58,6 +58,7 @@ steps:
 - "Plate and serve while hot. Optional garnish — scallions or diced ham."
 tips:
 - Cool rice fries better—if hot, let it rest 5 minutes first.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Best fresh; if storing, refrigerate and reheat within 1 day.
 substitutions:
 - Add scallions for extra aroma.
@@ -66,13 +67,15 @@ faqs:
   answer: Cook the tomato 1 minute longer to reduce juices.
 - question: Do I have to scramble the egg first?
   answer: Yes—it keeps distinct curds and reduces sticking.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 白飯
 - 洋蔥
 - 雞蛋
 featured: true
 publishedAt: '2026-06-07'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

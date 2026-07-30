@@ -52,15 +52,19 @@ steps:
 - 소고기가 익고 버섯에 씹는 맛이 남으면 완성합니다.
 tips:
 - 버섯에서 물이 나오면 참고 졸여야 향이 좋아집니다.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 볶아 바로 드세요.
 substitutions:
 - 새송이버섯
+faqs:
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 소고기
 - 버섯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 대파
 - 고추

@@ -54,15 +54,19 @@ steps:
 - Return beef and toss over high heat 30 seconds to coat; serve when fully cooked but still tender.
 tips:
 - Thinner slices need less time and stay more tender.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Bento within 1 day; reheat briefly.
 substitutions:
 - Steak cuts
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 牛肉
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Scallions
 - Chili

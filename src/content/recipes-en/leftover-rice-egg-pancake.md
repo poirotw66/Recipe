@@ -24,6 +24,7 @@ tags:
 - Egg dishes
 tips:
 - Scallions or diced ham add flavor.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -60,9 +61,11 @@ storage: Best fresh; re-crisp in a skillet 1 minute next day.
 faqs:
 - question: Rice too wet?
   answer: Add 1 Tbsp flour or use slightly less egg.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A sturdy solo meal from pantry staples.

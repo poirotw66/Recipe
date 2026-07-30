@@ -23,9 +23,13 @@ tags:
 - 海鮮料理
 tips:
 - 辣度可依個人口味調整辣椒量。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions:
 - 蛤蜊
 - 透抽
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 蝦仁
@@ -74,7 +78,7 @@ steps:
 storage: "現做現吃；海鮮隔夜風味會下降。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

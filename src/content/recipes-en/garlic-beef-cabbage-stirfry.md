@@ -54,16 +54,20 @@ steps:
 - When beef is cooked through and cabbage still has some crunch, serve.
 tips:
 - Do not overcook cabbage—some crunch is the point.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Eat within 1 day refrigerated; reheat briefly.
 substitutions:
 - Bok choy
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 牛肉
 - 高麗菜
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Scallions
 - Chili

@@ -22,8 +22,12 @@ tags:
 - 蛋奶素
 tips:
 - 全素者可改奶油為橄欖油，一樣好吃。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions:
 - 豆腐
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 菇類
 - 雞蛋
@@ -65,7 +69,7 @@ steps:
 storage: "現做現吃；隔夜蛋口感會變硬。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

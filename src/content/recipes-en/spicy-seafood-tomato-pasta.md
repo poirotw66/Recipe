@@ -24,9 +24,13 @@ tags:
 - Seafood
 tips:
 - Adjust chili to taste.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions:
 - Clams
 - Squid
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 義大利麵
 - 蝦仁
@@ -75,7 +79,7 @@ steps:
 storage: Eat fresh; seafood overnight is weaker.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Sour, salty, and spicy—one of the brighter pasta picks.

@@ -57,6 +57,7 @@ steps:
 - Turn off heat; stir in 1 tsp sesame oil; spoon over rice and serve.
 tips:
 - Add sesame oil last for a cleaner aroma.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best fresh; bento up to 1 day refrigerated.
 substitutions:
 - Brown rice instead of white.
@@ -65,13 +66,15 @@ faqs:
   answer: Cut thin strips and shorten cooking time for a tender bite.
 - question: Can I skip sesame oil?
   answer: Yes; olive oil works too.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 洋蔥
 - 白飯
 featured: false
 publishedAt: '2026-06-13'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

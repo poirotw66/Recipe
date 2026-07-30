@@ -24,6 +24,7 @@ tags:
 - Steamed egg
 tips:
 - Cover the egg bowl with vented film for a smoother surface.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -61,9 +62,11 @@ storage: Best fresh; steamed egg weeps if refrigerated.
 faqs:
 - question: No rice cooker?
   answer: Steam over boiling water, medium heat 12 minutes, off heat 3 minutes.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 One of the laziest reliable meals in a small rental kitchen.

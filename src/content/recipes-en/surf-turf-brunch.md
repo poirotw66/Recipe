@@ -26,6 +26,7 @@ tags:
 tips:
 - Rest steak so juices settle before slicing.
 - Cook shrimp last so they do not toughen in the pan.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions:
 - Chicken breast
 - Salmon
@@ -80,9 +81,11 @@ storage: Best fresh; reheated steak and shrimp lose texture.
 faqs:
 - question: No flank steak—what else?
   answer: Top sirloin or strip works; keep thickness around 2 cm for even doneness.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 For weekends when you want a feast without the brunch line.

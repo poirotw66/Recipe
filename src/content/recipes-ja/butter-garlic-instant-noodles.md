@@ -54,16 +54,19 @@ steps:
 - 塩少々と黒胡椒で味を整え、仕上げにバター 5gを足して香りを立たせる。
 tips:
 - 付属の調味料は半量にすると塩辛くなりにくいです。
+- 冷やご飯やゆで麺は広げてから加熱すると、固まりにくく調味料も均一になじみます。
 storage: できたてが最良。
 substitutions: []
 faqs:
 - question: バターがない場合は？
   answer: オリーブオイルに牛乳を少量加えた代用でも可。風味はやや控えめになります。
+- question: "作り置きできますか？"
+  answer: "できます。主食と具材を分けて冷蔵し、食べる直前に温めて合わせると食感を保てます。"
 relatedIngredients:
 - 卵
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions: []
 ---
 

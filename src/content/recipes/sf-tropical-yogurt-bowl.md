@@ -37,6 +37,7 @@ steps:
 tips:
 - 先把穀物、蛋白質與醬汁分開準備，最後再拌合，口感會更接近餐廳出餐。
 - 輕食盤的份量要足，主配料不要切得太碎，擺盤才有 Second Floor Cafe 的豐盛感。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 沙拉與優格碗建議現做現吃；熟食配料可冷藏 1 天後再重新組裝。
 substitutions:
 - 綜合生菜
@@ -50,9 +51,11 @@ customAdditions: []
 faqs:
 - question: 想把 熱帶水果優格碗 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 香蕉與芒果 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 香蕉
   amount: "150"

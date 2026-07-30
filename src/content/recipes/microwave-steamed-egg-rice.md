@@ -23,6 +23,7 @@ tags:
 - 蒸蛋
 tips:
 - 蒸蛋碗可蓋保鮮膜戳孔，表面更平滑。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -60,9 +61,11 @@ storage: "現做現吃；蒸蛋隔夜會出水，不建議冷藏。"
 faqs:
 - question: "沒有電子鍋怎麼辦？"
   answer: "可用鍋子蒸，水滾後中火蒸 12 分鐘，關火燜 3 分鐘。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

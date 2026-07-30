@@ -37,6 +37,7 @@ steps:
 tips:
 - 烹調前請將醬料調和均勻，一次下鍋能確保風味分布完美。
 - 熱鍋熱油能快速鎖住食材水分，維持多汁口感。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 炸物前菜當天最好吃；冷藏後以烤箱回脆。
 substitutions:
 - 馬鈴薯條
@@ -49,9 +50,11 @@ customAdditions:
 faqs:
 - question: 如何把 韓式酥炸脆薯 做得更像涓豆腐？
   answer: 先把 韓式前菜 的醬料或湯頭煮到正確濃度，最後再下主要配料與嫩豆腐，最能還原門市口感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 馬鈴薯條
   amount: "200"

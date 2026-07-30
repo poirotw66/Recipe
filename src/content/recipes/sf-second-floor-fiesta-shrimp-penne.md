@@ -37,6 +37,7 @@ steps:
 tips:
 - 飯麵系列的重點是先把主醬煮到有厚度，再把主食拌進去，整體會更接近貳樓的濃郁口感。
 - 海鮮與肉類不要一次炒太老，最後回鍋拌勻即可。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 飯麵主餐當天最好吃；冷藏後可加少量高湯或鮮奶回炒回溫。
 substitutions:
 - 義大利麵
@@ -51,9 +52,11 @@ customAdditions:
 faqs:
 - question: 想把 貳樓費氏鮮蝦長管麵 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 Taco 調味與鮮蝦 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: Taco 調味
   amount: "適量"

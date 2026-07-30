@@ -62,18 +62,21 @@ steps:
 - 起鍋盛盤趁熱享用；可依喜好撒帕瑪森起司或加培根。
 tips:
 - 白醬全程小火，避免牛奶煮到油水分離。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏 1 天內吃完，加熱時補一點牛奶會比較順口。
 substitutions:
 - 鮮奶油
 faqs:
 - question: 白醬太稀怎麼辦？
   answer: 多拌炒一會讓水分蒸發，或加少許起司粉幫助增稠。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 義大利麵
 - 雞胸肉
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

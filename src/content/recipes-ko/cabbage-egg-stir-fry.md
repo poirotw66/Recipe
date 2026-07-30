@@ -55,6 +55,7 @@ steps:
 - 2인분으로 나눠 뜨거울 때 내며, 식혀 도시락에 담아도 좋습니다.
 tips:
 - 양배추에서 물이 너무 많이 나오지 않게 볶으면 식감이 더 아삭합니다.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 storage: 냉장 2일. 데울 때는 전자레인지보다 프라이팬에 볶으면 향이 납니다.
 substitutions:
 - 청경채
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: 마늘을 빼도 되나요?
   answer: 가능합니다. 대파를 넣어도 향이 좋습니다.
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 양배추
 - 달걀
 - 마늘
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 햄 깍둡
 - 치즈 가담

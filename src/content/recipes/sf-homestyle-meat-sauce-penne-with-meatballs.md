@@ -38,6 +38,7 @@ steps:
 tips:
 - 飯麵系列的重點是先把主醬煮到有厚度，再把主食拌進去，整體會更接近貳樓的濃郁口感。
 - 海鮮與肉類不要一次炒太老，最後回鍋拌勻即可。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 飯麵主餐當天最好吃；冷藏後可加少量高湯或鮮奶回炒回溫。
 substitutions:
 - 義大利麵
@@ -51,9 +52,11 @@ customAdditions: []
 faqs:
 - question: 想把 家鄉肉醬長管麵佐老媽肉丸 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 肉醬與牛肉丸 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 牛肉丸
   amount: "160"

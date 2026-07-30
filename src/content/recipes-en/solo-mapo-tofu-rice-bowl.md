@@ -23,6 +23,7 @@ tags:
 - Rice-friendly
 tips:
 - For less heat, reduce doubanjiang and add a little ketchup for color.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -74,9 +75,11 @@ storage: Refrigerate up to 1 day; reheat gently so tofu doesn’t crumble.
 faqs:
 - question: Can I skip the meat?
   answer: Yes—use diced mushrooms instead; still delicious.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A bold bowl when renters want something really flavorful.

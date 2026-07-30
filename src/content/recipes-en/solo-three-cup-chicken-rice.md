@@ -23,6 +23,7 @@ tags:
 - Rice-friendly
 tips:
 - For one person, chicken wings work—slightly shorter time.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -70,9 +71,11 @@ storage: Refrigerate up to 2 days; add a splash of water when reheating.
 faqs:
 - question: Must the three-cup ratio be exact?
   answer: Adjust to taste—equal soy and rice wine with slightly less sesame oil is the baseline.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A classic Taiwanese one-person main for renters.

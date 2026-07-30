@@ -56,6 +56,7 @@ steps:
 - 將洋蔥滑蛋連汁一起覆在白飯上，趁熱享用。
 tips:
 - 喜歡濕潤口感可以多留一點醬汁。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 建議現煮現吃，蛋香和口感最好。
 substitutions:
 - 青蔥
@@ -63,13 +64,15 @@ substitutions:
 faqs:
 - question: 可以做成便當嗎？
   answer: 可以，但蛋要煮熟一點，避免帶便當時出水。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 白飯
 - 洋蔥
 - 雞蛋
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

@@ -55,6 +55,7 @@ steps:
 - 拌勻後以鹽少許試味，分裝 2 份；放涼再冷藏。
 tips:
 - 若要更嫩可先加 1 小匙油抓醃。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 可冷藏 2 天，食用前加熱。
 substitutions:
 - 可加青花菜增加蔬菜比例。
@@ -63,13 +64,15 @@ faqs:
   answer: 可以，這道很適合前一晚備餐。
 - question: 沒有電鍋怎麼做？
   answer: 可改成平底鍋加蓋悶煮。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 雞胸肉
 - 菇類
 - 洋蔥
 featured: false
 publishedAt: '2026-06-22'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 杏鮑菇
 - 玉米筍

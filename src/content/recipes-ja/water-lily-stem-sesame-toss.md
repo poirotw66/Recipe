@@ -32,18 +32,21 @@ steps:
 - 皿に盛り、炒った白ごまをかける。お弁当用は熱を散らしてから詰め、蒸れ汁を防ぐ。
 tips:
 - お弁当に入れるときは水気をしっかり切ると油がにじみにくいです。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: 冷蔵1日。常温に戻しても冷たく食べても可。
 substitutions:
 - 空芯菜
 - ほうれん草
+faqs:
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - 水蓮
 - にんにく
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: '200'

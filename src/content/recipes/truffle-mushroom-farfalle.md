@@ -23,8 +23,12 @@ tags:
 - 菇類料理
 tips:
 - 松露油可用少許香菇粉與橄欖油代替。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions:
 - 青花菜
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 菇類
@@ -74,7 +78,7 @@ steps:
 storage: "現做現吃；菇類隔夜會出水影響口感。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 

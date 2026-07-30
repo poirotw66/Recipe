@@ -56,6 +56,7 @@ steps:
 - 起鍋盛入碗中趁熱享用。
 tips:
 - 蔥花分兩次加，一半炒香、一半最後撒，味道更有層次。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 建議現做現吃，不建議久放。
 substitutions:
 - 洋蔥
@@ -63,13 +64,15 @@ substitutions:
 faqs:
 - question: 可以用隔夜飯嗎？
   answer: 可以，先微波或用鍋子回熱，拌起來比較不會結塊。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 白飯
 - 雞蛋
 - 青蔥
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

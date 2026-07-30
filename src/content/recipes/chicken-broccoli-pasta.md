@@ -60,19 +60,22 @@ steps:
 - 試味補鹽與胡椒，起鍋盛盤趁熱享用。
 tips:
 - 雞胸肉不要切太厚，比較容易在短時間內熟透。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 建議現做現吃；義大利麵冷藏再加熱易變軟，不適合帶便當。
 substitutions:
 - 雞里肌
 faqs:
 - question: 青花菜可以先燙再炒嗎？
   answer: 可以，燙 1 分鐘再拌炒會更快完成。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 義大利麵
 - 雞胸肉
 - 青花菜
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

@@ -57,6 +57,7 @@ steps:
 - 蛋液全熟、豆腐仍完整即可起鍋。
 tips:
 - 豆腐先吸乾水分，炒時較不易碎。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 建議現吃；若需冷藏，1 天內回鍋食用。
 substitutions:
 - 洋蔥可改青蔥。
@@ -65,13 +66,15 @@ faqs:
   answer: 可以，改用鹽和白胡椒即可。
 - question: 豆腐用嫩豆腐可以嗎？
   answer: 可以，但翻炒要更輕手。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 豆腐
 - 雞蛋
 - 洋蔥
 featured: false
 publishedAt: '2026-07-01'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

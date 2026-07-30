@@ -23,6 +23,7 @@ tags:
 - 蛋料理
 tips:
 - 可加起司絲增加風味。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions: []
 relatedIngredients:
 - 雞蛋
@@ -69,9 +70,11 @@ storage: "冷藏 1 天；再加熱用平底鍋煎 1 分鐘。"
 faqs:
 - question: "可以不加麵粉嗎？"
   answer: "可以，但較難定型，建議用較小鍋煎厚一點。"
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

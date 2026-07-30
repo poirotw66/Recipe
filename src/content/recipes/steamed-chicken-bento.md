@@ -58,6 +58,7 @@ steps:
 tips:
 - 雞胸肉先回溫 10 分鐘再蒸，口感會更均勻。
 - 如果要做便當，青花菜不要蒸太久，顏色會比較漂亮。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏可保存 2 天，分裝後回熱會更方便。
 substitutions:
 - 雞里肌
@@ -67,13 +68,15 @@ faqs:
   answer: 不要切太薄，蒸好後先悶一下，水分會更留得住。
 - question: 可以提前一天做嗎？
   answer: 可以，這道菜很適合前一天做好後冷藏，隔天再微波或電鍋回熱。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 雞胸肉
 - 菇類
 - 青花菜
 featured: true
 publishedAt: '2026-05-27'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 杏鮑菇
 - 玉米筍

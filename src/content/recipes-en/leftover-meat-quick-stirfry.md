@@ -24,6 +24,7 @@ tags:
 - Pork dishes
 tips:
 - Beef slices work too—cook just until color changes, slightly shorter time.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions: []
 relatedIngredients:
 - 豬肉
@@ -70,9 +71,11 @@ storage: Best fresh; refrigerate 1 day; reheat over high heat 1 minute.
 faqs:
 - question: No green pepper?
   answer: Bell pepper, celery, or cabbage strips work.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Handy when you want a fresh-tasting main dish in a small kitchen, fast.

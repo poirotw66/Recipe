@@ -23,8 +23,12 @@ tags:
 - 튀김
 tips:
 - 에어프라이어 200°C에서 18분, 중간에 뒤집고 기름을 뿌리면 기름을 줄일 수 있습니다.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 substitutions:
 - 고구마 채
+faqs:
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients: []
 customAdditions: []
 ingredients:
@@ -63,7 +67,7 @@ steps:
 storage: 바로 드세요. 다음 날은 눅눅해집니다.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 케이준 매콤 감자튀김은 안주 메뉴에서 술안주로 인기 있는 선택입니다.

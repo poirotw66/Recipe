@@ -55,6 +55,7 @@ steps:
 - Season with a pinch of salt to taste and serve.
 tips:
 - Add broccoli last for color and bite.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate up to 1 day; reheat gently.
 substitutions:
 - Chicken breast can be swapped for chicken tenderloin.
@@ -63,13 +64,15 @@ faqs:
   answer: A splash of soy sauce or white pepper adds depth.
 - question: Can I add tofu?
   answer: Yes—it makes the bowl more filling.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 洋蔥
 - 青花菜
 featured: false
 publishedAt: '2026-06-21'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Fish balls
 - Tofu

@@ -24,6 +24,7 @@ tags:
 - 麵食
 tips:
 - 喜歡全熟蛋可翻面再煎 30 秒。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 雞蛋
@@ -63,9 +64,11 @@ storage: "現做現吃；蛋與麵隔夜口感會下降。"
 faqs:
 - question: "可以用兩顆蛋嗎？"
   answer: "可以，蛋白質更高，醬油量略增即可。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

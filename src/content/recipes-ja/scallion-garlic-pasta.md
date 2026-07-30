@@ -54,19 +54,22 @@ steps:
 - 味を見て塩を少々で調整し、温かいうちに盛り付ける。
 tips:
 - 青いねぎは最後に入れると色と香りが新鮮に残ります。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: できたてがおすすめ。冷蔵は1日以内。
 substitutions:
 - 玉ねぎ
 faqs:
 - question: 醤油なしでもいいですか？
   answer: はい。塩と黒胡椒だけでもおいしく作れます。
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - スパゲッティ
 - 青ねぎ
 - にんにく
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ベーコン
 - 生クリーム

@@ -51,6 +51,7 @@ steps:
 - 起鍋盛盤趁熱享用。
 tips:
 - 蒜片接近金黃就要關小火，避免苦味蓋過香氣。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 現煮現吃最佳；若要冷藏，建議在 1 天內加熱完畢。
 substitutions:
 - 可改用辣椒碎增加辣度。
@@ -59,12 +60,14 @@ faqs:
   answer: 可改用一般沙拉油，但香氣會稍微淡一點。
 - question: 可以加起司嗎？
   answer: 可以，起司粉或帕瑪森起司都很適合。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

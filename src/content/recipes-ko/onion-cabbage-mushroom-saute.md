@@ -57,6 +57,7 @@ steps:
 - 간장 1작은술을 팬 가장자리에 넣어 향을 올리고 빠르게 섞는다. 소금 약간으로 간을 맞춰 낸다.
 tips:
 - 아삭하게 먹고 싶으면 볶는 시간을 1분 줄이세요.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 storage: 냉장 1일.
 substitutions:
 - 두부를 넣으면 단백질이 늘어납니다.
@@ -65,13 +66,15 @@ faqs:
   answer: 소금과 후추만으로도 됩니다.
 - question: 도시락에 좋나요?
   answer: 식힌 뒤 담으면 좋습니다.
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 양파
 - 양배추
 - 버섯
 featured: false
 publishedAt: '2026-07-05'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 고기 채
 - 새우

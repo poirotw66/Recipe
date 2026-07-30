@@ -57,19 +57,22 @@ steps:
 tips:
 - High pan heat will scramble the eggs—keep the pan off direct heat when adding them.
 - 1 tsp grated cheese at the end nudges the flavor toward Western egg pasta.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Best fresh; reheated pasta dries out—not ideal for bento.
 substitutions:
 - Grated cheese powder
 faqs:
 - question: Is the egg fully cooked?
   answer: Pasta heat and pasta water usually bring it to silky, safe doneness.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 義大利麵
 - 洋蔥
 - 雞蛋
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

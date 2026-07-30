@@ -70,19 +70,22 @@ steps:
 tips:
 - Add salmon last with gentle folds to keep chunks intact.
 - Lemon goes in at the end so aroma stays bright.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best fresh.
 substitutions:
 - Mackerel fillet
 faqs:
 - question: Frozen salmon?
   answer: Thaw fully and pat dry before searing to avoid splatter.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 義大利麵
 - 鮭魚
 - 青花菜
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

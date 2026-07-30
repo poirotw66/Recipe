@@ -57,6 +57,7 @@ steps:
 - 以 鹽 1/3 小匙 調味，淋 香油 少許，撒蔥花試味道即可起鍋。
 tips:
 - 番茄先炒一下再加水，湯味會更濃。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 storage: 冷藏可保存 2 天，再加熱時不要大力攪拌豆腐。
 substitutions:
 - 雞蛋
@@ -64,13 +65,15 @@ substitutions:
 faqs:
 - question: 可以加蛋花嗎？
   answer: 可以，最後淋入蛋液會更有飽足感。
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 relatedIngredients:
 - 番茄
 - 豆腐
 - 青蔥
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 貢丸
 - 蛤蜊

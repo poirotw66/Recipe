@@ -61,17 +61,20 @@ steps:
 - 塩少々と白胡椒で味を整え、青ねぎを散らしてすぐに盛る。
 tips:
 - 豆腐やきのこを加えるとボリュームが増えます。
+- 汁が煮詰まると塩味が強くなるため、塩は最後に味を見て加えます。
 storage: できたてが最良。麺は翌日糊化しやすい。
 substitutions: []
 faqs:
 - question: 袋麺で代用できますか？
   answer: はい。スープは付属調味料の半量にすると塩辛くなりにくいです。
+- question: "スープは翌日も食べられますか？"
+  answer: "粗熱を早く取り、密閉して冷蔵してください。翌日は十分に温め、葉物は食べる直前に加えます。"
 relatedIngredients:
 - キャベツ
 - 卵
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 豆腐80g
 - きのこ50g

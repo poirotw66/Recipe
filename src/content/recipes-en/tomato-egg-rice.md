@@ -57,6 +57,7 @@ steps:
 tips:
 - If leftover rice is very hard, sprinkle a little water before it hits the pan.
 - Cook the tomato until it releases juice before adding the eggs—the finished rice stays moist.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Best eaten right away; if refrigerated, finish within 1 day.
 substitutions:
 - Cherry tomatoes
@@ -66,13 +67,15 @@ faqs:
   answer: No, but a spoonful concentrates the flavor and feels more like classic home cooking.
 - question: Can I add cheese?
   answer: Yes—a little cheese at the end is richer; adjust salt to match.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 番茄
 - 雞蛋
 - 白飯
 featured: true
 publishedAt: '2026-05-24'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

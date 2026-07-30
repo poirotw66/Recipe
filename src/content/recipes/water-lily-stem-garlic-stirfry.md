@@ -34,18 +34,21 @@ steps:
 - 試味後立即起鍋，趁熱享用。
 tips:
 - 鍋要夠熱，水蓮才不會出水變軟。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 現做現吃；隔夜回熱建議大火快炒 30 秒。
 substitutions:
 - 空心菜
 - 青江菜
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 水蓮
 - 蒜頭
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: "200"

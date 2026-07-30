@@ -67,19 +67,22 @@ steps:
 tips:
 - 브로콜리는 데친 뒤 짧게만 합치면 아삭함이 남습니다.
 - 닭은 먼저 건져 두어 면과 오래 볶지 않게 하세요.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 냉장 1일 이내.
 substitutions:
 - 브로콜리 대신 콜리플라워
 faqs:
 - question: 브로콜리를 꼭 데쳐야 하나요?
   answer: 필수는 아니나 데치면 마지막 볶음 시간이 줄어듭니다.
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 스파게티
 - 닭가슴살
 - 브로콜리
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 베이컨
 - 생크림

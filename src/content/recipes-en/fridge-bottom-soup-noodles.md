@@ -24,6 +24,7 @@ tags:
 - Quick
 tips:
 - Tofu or mushrooms stretch the bowl further.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 substitutions: []
 relatedIngredients:
 - 高麗菜
@@ -72,9 +73,11 @@ storage: Best fresh; noodles turn mushy overnight.
 faqs:
 - question: Instant noodles instead?
   answer: Yes—use half the seasoning packet to avoid oversalting.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Fridge-bottom soup noodles are a practical busy-night bowl with flexible add-ins.

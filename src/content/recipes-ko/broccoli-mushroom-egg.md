@@ -55,6 +55,7 @@ steps:
 - 전체를 섞어 소금과 후추로 간합니다. 달걀이 반숙으로 촉촉하면 완성입니다.
 tips:
 - 브로콜리를 너무 오래 익히지 않아 아삭함을 유지하면 더 맛있습니다.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 storage: 냉장 1일, 다음 날 점심에 적합합니다.
 substitutions:
 - 양배추
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: 브로콜리를 미리 데치지 않아도 되나요?
   answer: 가능하지만 볶는 시간을 늘리고 물을 조금 넣어 뚜껑으로 익히세요.
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 브로콜리
 - 버섯
 - 달걀
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 햄 다이스
 - 치즈

@@ -24,6 +24,7 @@ tags:
 - Tofu dishes
 tips:
 - A few ginger shreds warm the flavor.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -70,9 +71,11 @@ storage: Refrigerate 1 day; thin with water and stir over low heat when reheatin
 faqs:
 - question: How do I make it richer?
   answer: Add items from custom additions at the end so they do not overcook.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A steady bowl when you want hot porridge on a busy night.

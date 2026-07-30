@@ -54,16 +54,20 @@ steps:
 - 牛肉に火が通り、キャベツに歯ごたえが残ったら完成。
 tips:
 - キャベツは炒めすぎないとシャキシャキ感が残ります。
+- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
 storage: 冷蔵1日以内。再加熱は長くしない。
 substitutions:
 - 小松菜
+faqs:
+- question: "主材料をパサつかせないコツは？"
+  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
 relatedIngredients:
 - 牛肉
 - キャベツ
 - にんにく
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 青ねぎ
 - 唐辛子

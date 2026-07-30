@@ -58,6 +58,7 @@ steps:
 - Taste and ladle tofu-egg mixture and juices over rice; toss while hot.
 tips:
 - 1 tsp water in the egg keeps it softer.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Best the same meal.
 substitutions:
 - Diced tomato for sweet-tart notes.
@@ -66,13 +67,15 @@ faqs:
   answer: Minced onion works.
 - question: Will it be oily?
   answer: About 1 tsp oil is enough.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 豆腐
 - 雞蛋
 - 白飯
 featured: false
 publishedAt: '2026-07-07'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

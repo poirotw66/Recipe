@@ -53,18 +53,21 @@ steps:
 tips:
 - 全程大火、動作快，牛肉較不易老。
 - 若時間緊，醃製可縮短為 5 分鐘，但口感略差。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 現炒現吃最佳；隔餐再加熱宜大火快翻，避免久煮。
 substitutions:
 - 洋蔥
 faqs:
 - question: 沒有米酒可以嗎？
   answer: 可改用水 1 大匙或省略，但香氣會稍微淡一點。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 牛肉
 - 青蔥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 辣椒
 - 洋蔥

@@ -59,19 +59,22 @@ steps:
 - 温かいうちに盛り付ける。
 tips:
 - 粉チーズは最初少なめにし、味見しながら足すと塩辛くなりにくい。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: できたてがおすすめ。ペーストは作り置き不向き。
 substitutions:
 - 松の実などのナッツ
 faqs:
 - question: 本格的なバジルペストとの違いは？
   answer: 青ねぎベースで材料が手に入りやすく、さっぱりしたネギ香りになります。
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - スパゲッティ
 - 青ねぎ
 - にんにく
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ベーコン
 - 生クリーム

@@ -54,6 +54,7 @@ steps:
 - 中心無粉紅生肉、豆腐熱透即可起鍋；試味後補 鹽 少許 調整。
 tips:
 - 雞胸塊不要切太大，熟度較容易控制。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏可放 1 天，回鍋快速加熱。
 substitutions:
 - 豆腐可改菇類。
@@ -62,13 +63,15 @@ faqs:
   answer: 可先減半醬油再微調。
 - question: 可以配便當嗎？
   answer: 很適合當便當主菜。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 雞胸肉
 - 豆腐
 - 蒜頭
 featured: false
 publishedAt: '2026-07-09'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 杏鮑菇
 - 玉米筍

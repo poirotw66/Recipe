@@ -32,19 +32,22 @@ steps:
 - 뚜껑을 열고 미나리를 넣어 중강불로 약 1분 볶으며 국물이 약간 걸죽해지고 간장색이 고르게 입혀지면 낸다.
 tips:
 - 단단한 두부는 구울 때 잘 버티고, 부드러운 두부는 가볍게 뒤집으세요.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 storage: 냉장 2일. 재가열 시 물을 조금 더 넣으세요.
 substitutions:
 - 두부 대신 부침두부
 - 유부
+faqs:
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 미나리
 - 두부
 - 마늘
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 미나리
   amount: "180"

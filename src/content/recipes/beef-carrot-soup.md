@@ -54,6 +54,7 @@ steps:
 tips:
 - 想更快完成可將紅蘿蔔切小塊，燉煮時間縮短為 20 分鐘。
 - 前一晚燉好隔餐喝，風味會更融合，但需冷藏保存。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏 1～2 天內喝完，食用前務必煮滾。
 substitutions:
 - 蘿蔔
@@ -62,12 +63,14 @@ faqs:
   answer: 選牛腩或切小塊並小火慢煮，通常可達到軟嫩口感。
 - question: 可以不加洋蔥嗎？
   answer: 可以，但湯頭甜度會略少，可加 1 小匙糖平衡。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 牛肉
 - 紅蘿蔔
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-07-06'
+updatedAt: "2026-07-30"
 customAdditions:
 - 青蔥
 - 辣椒

@@ -25,8 +25,12 @@ tags:
 - Chicken
 tips:
 - No lettuce? Use chilled blanched broccoli florets instead.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions:
 - Tofu
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 雞蛋
@@ -70,7 +74,7 @@ steps:
 storage: Keep dressing separate from greens; eat the same day for best texture.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Caesar chicken salad is the menu’s cleanest main-style salad bowl.

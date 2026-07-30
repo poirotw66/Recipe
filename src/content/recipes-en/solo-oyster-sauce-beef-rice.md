@@ -24,6 +24,7 @@ tags:
 - Rice bowl
 tips:
 - Use a hot pan so the beef does not steam and toughen.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -74,9 +75,11 @@ storage: Best fresh; beef reheats tough overnight.
 faqs:
 - question: Can I use pork instead?
   answer: Yes—pork loin sliced thin works the same way.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A takeout-style oyster sauce beef bowl you can make at home in minutes.

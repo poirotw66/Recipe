@@ -54,16 +54,20 @@ steps:
 - 소고기가 익고 양배추에 아삭함이 남으면 완성합니다.
 tips:
 - 양배추는 너무 오래 볶지 말고 아삭함을 남기세요.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 냉장 1일 이내, 재가열은 짧게 하세요.
 substitutions:
 - 청경채
+faqs:
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 소고기
 - 양배추
 - 마늘
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 대파
 - 고추

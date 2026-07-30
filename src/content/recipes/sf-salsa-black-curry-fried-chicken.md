@@ -37,6 +37,7 @@ steps:
 tips:
 - 分享盤的關鍵是一次做好主炸物與沾醬，起鍋後立刻組盤才會接近門市口感。
 - 若有生菜或冷醬，請最後才放，避免熱氣讓配菜出水。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 炸物建議當天吃完；冷藏後回烤 6 到 8 分鐘恢復脆度。
 substitutions:
 - 冷凍薯條
@@ -49,9 +50,11 @@ customAdditions:
 faqs:
 - question: 想把 莎莎黑咖哩炸雞 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 炸雞與黑咖哩醬 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 炸雞
   amount: "適量"

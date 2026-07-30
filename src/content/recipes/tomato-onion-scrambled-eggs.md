@@ -53,6 +53,7 @@ steps:
 - 全部翻拌均勻，試味後撒蔥花；蛋液應半凝固帶滑，勿炒太乾。
 tips:
 - 喜歡蛋更嫩可提早離火。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 蛋料理建議現吃，冷藏後口感會變硬。
 substitutions:
 - 青蔥可改成少量蒜末。
@@ -61,13 +62,15 @@ faqs:
   answer: 可加一小撮糖平衡酸度。
 - question: 能做成兩人份嗎？
   answer: 材料加倍即可，建議分兩次炒蛋較好控制熟度。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 番茄
 - 洋蔥
 - 雞蛋
 featured: false
 publishedAt: '2026-06-24'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

@@ -57,6 +57,7 @@ steps:
 - 淋醬油 1 小匙從鍋邊嗆入，快速翻勻，以鹽少許試味即可起鍋。
 tips:
 - 喜歡脆口可縮短 1 分鐘炒製時間。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 冷藏可放 1 天。
 substitutions:
 - 可加入豆腐增加蛋白質。
@@ -65,13 +66,15 @@ faqs:
   answer: 可改鹽和胡椒。
 - question: 這道適合便當嗎？
   answer: 適合，放涼後再裝盒。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 洋蔥
 - 高麗菜
 - 菇類
 featured: false
 publishedAt: '2026-07-05'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉絲
 - 蝦仁

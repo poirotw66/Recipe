@@ -56,13 +56,17 @@ steps:
 - 熱いうちに塩と胡椒を少々振りかけて和え、すぐに盛る（冷めると軟らかくなる）。
 tips:
 - ノンフライヤー200°Cで18分、途中で返して油を霧吹きすると油量を抑えられます。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: 揚げたてが最良。翌日は軟らかくなります。
 substitutions:
 - さつまいもの棒切り
+faqs:
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients: []
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions: []
 ---
 

@@ -57,6 +57,7 @@ steps:
 tips:
 - 白飯若較硬，可先灑一點水再下鍋。
 - 番茄一定要炒到出汁再下蛋，成品才會濕潤不乾。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 現炒現吃最佳；若要冷藏，建議在 1 天內吃完。
 substitutions:
 - 小番茄
@@ -66,13 +67,15 @@ faqs:
   answer: 不一定，但加一點番茄醬能讓味道更集中，也比較有熟悉的家常感。
 - question: 可以加起司嗎？
   answer: 可以，起鍋前放少量起司會更濃郁，但整體鹹度也要跟著調整。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 番茄
 - 雞蛋
 - 白飯
 featured: true
 publishedAt: '2026-05-24'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

@@ -33,20 +33,23 @@ steps:
 - 간을 맞춰 그릇에 담는다. 향을 더하고 싶으면 마무리에 참기름 몇 방울을 둘러준다.
 tips:
 - 마무리에 참기름 몇 방울을 넣으면 향이 더 납니다.
+- 국물은 졸아들면 더 짜질 수 있으므로 소금은 마지막에 간을 보고 넣으세요.
 storage: 바로 드세요. 하룻밤 지나면 미나리가 무르며.
 substitutions:
 - 청경채
 - 버섯
+faqs:
+- question: "국을 다음 날 먹어도 되나요?"
+  answer: "가능합니다. 빠르게 식혀 밀폐 냉장하고 다음 날 충분히 데우세요. 잎채소는 먹기 직전에 넣습니다."
 relatedIngredients:
 - 미나리
 - 두부
 - 생강
 customAdditions:
 - 참기름
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 미나리
   amount: "150"

@@ -23,6 +23,7 @@ tags:
 - 豆腐料理
 tips:
 - 可加海帶或豆干一起滷，更豐富。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 豆腐
@@ -61,9 +62,11 @@ storage: "冷藏 3 天；冷食或微波加熱皆可。"
 faqs:
 - question: "滷汁太鹹怎麼辦？"
   answer: "加水稀釋後再試，或下次減少醬油量。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 便當滷蛋豆腐是省時又經濟的便當配菜組合。

@@ -33,20 +33,23 @@ steps:
 - 試味後盛碗享用；想更香可在起鍋前淋幾滴麻油。
 tips:
 - 想更香可在起鍋前淋幾滴麻油。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 storage: 現做現吃；隔夜水蓮會變軟。
 substitutions:
 - 青江菜
 - 菇類
+faqs:
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 relatedIngredients:
 - 水蓮
 - 豆腐
 - 薑
 customAdditions:
 - 麻油
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: "150"

@@ -68,19 +68,22 @@ steps:
 - Taste and adjust with a pinch of salt and black pepper; plate while hot.
 tips:
 - Cook mushrooms until they release water and dry again for stronger aroma.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best fresh; mushrooms soften after refrigeration.
 substitutions:
 - Firm tofu cubes
 faqs:
 - question: No cheese powder?
   answer: Skip it and use extra pasta water to loosen the sauce.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 義大利麵
 - 雞胸肉
 - 菇類
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

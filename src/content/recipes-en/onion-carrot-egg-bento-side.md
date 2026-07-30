@@ -53,6 +53,7 @@ steps:
 - When egg is fully set and vegetables are tender but still sweet, serve. Let cool before packing bento to reduce moisture.
 tips:
 - Thinner carrot cooks faster.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Refrigerate 1–2 days.
 substitutions:
 - Chopped scallions for aroma.
@@ -61,13 +62,15 @@ faqs:
   answer: Salt alone is fine.
 - question: Freezer OK?
   answer: Not recommended—texture suffers.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 洋蔥
 - 紅蘿蔔
 - 雞蛋
 featured: false
 publishedAt: '2026-07-14'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

@@ -54,6 +54,7 @@ steps:
 - Serve when the center shows no pink and tofu is hot through; adjust salt to taste.
 tips:
 - Keep chicken cubes moderate size for even doneness.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate 1 day; reheat quickly in a hot pan.
 substitutions:
 - Mushrooms instead of tofu.
@@ -62,13 +63,15 @@ faqs:
   answer: Start with half the soy sauce and adjust.
 - question: Good for lunchboxes?
   answer: Yes—a solid bento protein main.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 豆腐
 - 蒜頭
 featured: false
 publishedAt: '2026-07-09'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

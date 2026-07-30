@@ -36,6 +36,7 @@ steps:
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
 substitutions:
 - prime beef slices
@@ -50,9 +51,11 @@ customAdditions:
 faqs:
 - question: How do I make this 神仙霜降雪濃湯 closer to Dubu House?
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: marbled beef slices
   amount: "150"

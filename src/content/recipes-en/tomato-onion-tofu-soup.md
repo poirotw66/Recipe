@@ -57,6 +57,7 @@ steps:
 - Season with a pinch of salt, scatter scallions, taste, and serve.
 tips:
 - Mash part of the tomato for a richer body.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 storage: Refrigerate 1 day; reheat gently.
 substitutions:
 - Egg drop version with a beaten egg.
@@ -65,13 +66,15 @@ faqs:
   answer: Optional for smoother texture.
 - question: Skip onion?
   answer: Yes, but broth will be less sweet.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 relatedIngredients:
 - 番茄
 - 洋蔥
 - 豆腐
 featured: false
 publishedAt: '2026-06-11'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Fish balls
 - Clams

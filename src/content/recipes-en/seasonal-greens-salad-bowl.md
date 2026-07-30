@@ -24,9 +24,13 @@ tags:
 - Vegetables
 tips:
 - Shred carrot for a crisper bite.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions:
 - Blanched broccoli
 - Shredded cabbage
+faqs:
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 番茄
 - 紅蘿蔔
@@ -67,7 +71,7 @@ steps:
 storage: Toss right before eating; keep dressing separate.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 The most flexible dish on the menu—swap vegetables with the season.

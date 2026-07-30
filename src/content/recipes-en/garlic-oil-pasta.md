@@ -51,6 +51,7 @@ steps:
 - Plate while hot.
 tips:
 - When the garlic nears golden, lower the heat so bitterness does not overpower the aroma.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Best fresh; if refrigerated, reheat within 1 day.
 substitutions:
 - Add chili flakes for heat.
@@ -59,12 +60,14 @@ faqs:
   answer: Neutral salad oil works; the aroma will be milder.
 - question: Can I add cheese?
   answer: Yes—grated Parmesan or cheese powder fits well.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 義大利麵
 - 蒜頭
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

@@ -57,6 +57,7 @@ steps:
 - When egg is fully set and tofu stays mostly intact, serve.
 tips:
 - Pat tofu dry so it holds shape.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Best fresh; refrigerate up to 1 day and reheat in a pan.
 substitutions:
 - Scallions instead of onion.
@@ -65,13 +66,15 @@ faqs:
   answer: Use salt and white pepper.
 - question: Soft tofu?
   answer: Yes—fold gently.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 豆腐
 - 雞蛋
 - 洋蔥
 featured: false
 publishedAt: '2026-07-01'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

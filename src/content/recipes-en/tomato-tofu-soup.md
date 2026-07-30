@@ -57,6 +57,7 @@ steps:
 - Season with 1/3 tsp salt, drizzle a pinch of sesame oil, scatter scallions, taste, and serve.
 tips:
 - Sauté tomatoes briefly before adding water for a deeper flavor.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 storage: Refrigerate up to 2 days; reheat gently and avoid rough stirring so tofu stays intact.
 substitutions:
 - Egg
@@ -64,13 +65,15 @@ substitutions:
 faqs:
 - question: Can I add egg?
   answer: Yes—drizzle beaten egg at the end for a heartier bowl.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 relatedIngredients:
 - 番茄
 - 豆腐
 - 青蔥
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Fish balls
 - Clams

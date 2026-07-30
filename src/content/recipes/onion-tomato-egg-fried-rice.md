@@ -58,6 +58,7 @@ steps:
 - 起鍋盛盤趁熱享用；可依喜好撒蔥花或火腿丁。
 tips:
 - 放涼的白飯較好炒，若是熱飯可先放涼 5 分鐘。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 建議現吃；若需保存，冷藏 1 天內回鍋食用。
 substitutions:
 - 可加青蔥增加香氣。
@@ -66,13 +67,15 @@ faqs:
   answer: 番茄下鍋後可多炒 1 分鐘收汁，就不會太濕。
 - question: 一定要先炒蛋嗎？
   answer: 先炒蛋可保持顆粒感，也比較不會糊鍋。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 白飯
 - 洋蔥
 - 雞蛋
 featured: true
 publishedAt: '2026-06-07'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

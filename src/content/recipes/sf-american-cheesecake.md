@@ -37,6 +37,7 @@ steps:
 tips:
 - 貳樓甜點重視溫熱主體搭配冰涼配料，出餐前再完成最後組合最重要。
 - 蛋糕與派皮不要過度烘烤，保留中心濕潤感更接近餐廳版本。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 甜點可冷藏 2 天；含冰淇淋的版本請分開保存，食用前再組合。
 substitutions:
 - 鮮奶油
@@ -49,9 +50,11 @@ customAdditions:
 faqs:
 - question: 想把 全美起司蛋糕 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 Oreo 餅底起司蛋糕 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: Oreo 餅底起司蛋糕
   amount: "1"

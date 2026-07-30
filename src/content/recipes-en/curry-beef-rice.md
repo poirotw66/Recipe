@@ -66,12 +66,15 @@ steps:
 tips:
 - For thicker gravy, finish with 1 tsp cornstarch slurry.
 - Start with 1 tbsp curry powder if you are unsure of heat or salt level.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Eat within 1 day refrigerated; add 2 tbsp water when reheating for lunch.
 substitutions:
 - Potato
 faqs:
 - question: Will curry powder be very spicy?
   answer: Brands vary—start with half and adjust.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 牛肉
 - 洋蔥
@@ -79,7 +82,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Scallions
 - Chili

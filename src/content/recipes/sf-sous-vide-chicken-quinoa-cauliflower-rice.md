@@ -38,6 +38,7 @@ steps:
 tips:
 - 先把穀物、蛋白質與醬汁分開準備，最後再拌合，口感會更接近餐廳出餐。
 - 輕食盤的份量要足，主配料不要切得太碎，擺盤才有 Second Floor Cafe 的豐盛感。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 沙拉與優格碗建議現做現吃；熟食配料可冷藏 1 天後再重新組裝。
 substitutions:
 - 綜合生菜
@@ -51,9 +52,11 @@ customAdditions: []
 faqs:
 - question: 想把 舒肥雞藜麥花椰飯 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 舒肥雞與花椰菜飯 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 舒肥雞
   amount: "180"

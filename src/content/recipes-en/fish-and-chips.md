@@ -23,8 +23,12 @@ tags:
 - Fried fish
 tips:
 - Fry in small batches so oil temperature does not crash.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions:
 - Salmon
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞蛋
 customAdditions: []
@@ -67,7 +71,7 @@ steps:
 storage: Best eaten immediately.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Fish and chips is a generous weekend plate when you want something indulgent.

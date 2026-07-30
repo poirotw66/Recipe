@@ -24,6 +24,7 @@ tags:
 - 泡麵
 tips:
 - 調味包可只加一半，避免過鹹。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 雞蛋
@@ -61,9 +62,11 @@ storage: "現做現吃。"
 faqs:
 - question: "沒有奶油怎麼辦？"
   answer: "可用橄欖油加少許牛奶代替，風味略淡但可行。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 奶油蒜香泡麵是省錢又快速的租屋族深夜救星。

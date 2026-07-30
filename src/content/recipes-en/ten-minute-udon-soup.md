@@ -24,6 +24,7 @@ tags:
 - Noodles
 tips:
 - Blanched spinach or fish cake slices add variety.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 substitutions: []
 relatedIngredients:
 - 青蔥
@@ -63,9 +64,11 @@ storage: Best fresh; noodles swell if stored overnight.
 faqs:
 - question: No prepared dashi?
   answer: Simmer kombu and bonito flakes 10 minutes, or use water plus a little chicken bouillon.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A quick hot noodle soup for chilly evenings.

@@ -38,6 +38,7 @@ steps:
 tips:
 - Finish the main component and sauce separately before plating so the textures stay layered.
 - "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
 substitutions:
 - 綜合生菜
@@ -51,9 +52,11 @@ customAdditions: []
 faqs:
 - question: What makes this 綠超人藜麥佛陀碗 feel closer to the restaurant version?
   answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 蘆筍
   amount: "適量"

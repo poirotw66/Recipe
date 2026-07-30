@@ -21,9 +21,13 @@ tags:
 - 家常
 tips:
 - 有雞骨或昆布可一起燉，湯頭會更鮮。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 substitutions:
 - 南瓜
 - 菇類
+faqs:
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 relatedIngredients:
 - 紅蘿蔔
 - 洋蔥
@@ -71,6 +75,6 @@ steps:
 storage: "冷藏 2 天；冷凍 1 週，加熱時勿煮滾太久。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 主廚每日例湯開胃又百搭，是平日晚餐很靈活的湯品選擇。

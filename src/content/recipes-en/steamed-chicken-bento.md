@@ -58,6 +58,7 @@ steps:
 tips:
 - Rest chicken at room temperature about 10 minutes before steaming for even texture.
 - For bento color, do not over-steam the broccoli.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate up to 2 days; portion before reheating.
 substitutions:
 - Chicken tenderloin
@@ -67,13 +68,15 @@ faqs:
   answer: Do not slice too thin; rest after steaming so juices settle.
 - question: Can I make it a day ahead?
   answer: Yes—chill and reheat in the microwave or rice cooker the next day.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 菇類
 - 青花菜
 featured: true
 publishedAt: '2026-05-27'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushrooms
 - Baby corn

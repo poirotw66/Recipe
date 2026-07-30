@@ -55,6 +55,7 @@ steps:
 - Taste and portion over rice. For bento, cool to room temperature before closing the lid.
 tips:
 - Finer carrot strips cook faster.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate 1–2 days; reheat with a splash of water.
 substitutions:
 - Cabbage can be swapped for broccoli.
@@ -63,13 +64,15 @@ faqs:
   answer: Use firm tofu cubes instead of chicken.
 - question: Triple the recipe?
   answer: Yes—stir-fry in two batches for even browning.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 高麗菜
 - 紅蘿蔔
 - 雞胸肉
 featured: false
 publishedAt: '2026-06-16'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

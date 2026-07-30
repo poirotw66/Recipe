@@ -54,6 +54,7 @@ steps:
 - Taste and adjust with a pinch of salt; plate while hot.
 tips:
 - If the tomato is very tart, balance with a pinch of sugar.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Best eaten fresh; refrigerated pasta softens—finish within 1 day.
 substitutions:
 - Cherry tomatoes
@@ -61,13 +62,15 @@ substitutions:
 faqs:
 - question: Can I skip tomato paste or ketchup?
   answer: Yes—the sauce will be lighter; cook the tomatoes a bit longer to reduce.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 義大利麵
 - 番茄
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

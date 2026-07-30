@@ -22,6 +22,7 @@ tags:
 - 下飯菜
 tips:
 - 可加滷蛋或燙青菜更完整。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -66,9 +67,11 @@ storage: "滷肉冷藏 3 天；再加熱時補少許水。"
 faqs:
 - question: "沒有紅蔥頭怎麼辦？"
   answer: "可用紫洋蔥切薄片代替，風味略不同。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 滷肉飯一人份是台灣租屋族最熟悉、最療癒的家常蓋飯。

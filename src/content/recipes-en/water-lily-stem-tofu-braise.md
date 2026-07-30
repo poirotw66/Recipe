@@ -32,19 +32,22 @@ steps:
 - Uncover, add water dropwort, stir-fry over medium-high about 1 minute until sauce thickens slightly and color is even; serve.
 tips:
 - Firm tofu handles flipping; soft tofu needs a gentle hand.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate 2 days; splash water when reheating.
 substitutions:
 - Firm tofu cake
 - Fried tofu
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 水蓮
 - 豆腐
 - 蒜頭
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: Water dropwort
   amount: "180"

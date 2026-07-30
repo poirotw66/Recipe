@@ -62,16 +62,20 @@ steps:
 - Taste and ladle beef and sauce over rice.
 tips:
 - Cook mushrooms a little longer after they release water—the sauce tastes deeper.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best eaten immediately after cooking.
 substitutions:
 - King oyster mushrooms
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 牛肉
 - 菇類
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Scallions
 - Chili

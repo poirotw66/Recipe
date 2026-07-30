@@ -23,6 +23,7 @@ tags:
 - 炒飯
 tips:
 - 可加火腿丁或肉燥增加鹹香。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -70,9 +71,11 @@ storage: "冷藏 1 天；再加熱用平底鍋小火翻熱較好吃。"
 faqs:
 - question: "蔬菜可以換成什麼？"
   answer: "青江菜、玉米、甜椒、菇類都可以，記得依硬度調整下鍋順序。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

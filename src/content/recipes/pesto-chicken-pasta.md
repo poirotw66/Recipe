@@ -66,19 +66,22 @@ steps:
 - 起鍋盛盤趁熱享用。
 tips:
 - 雞肉煎好後轉小火快拌麵條即可，避免在鍋裡久煮變柴。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏建議 1 天內吃完，加熱時補一點水或油。
 substitutions:
 - 雞里肌
 faqs:
 - question: 可以用現成青醬嗎？
   answer: 可以，約 2 大匙現成青醬取代自製泥即可。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 義大利麵
 - 雞胸肉
 - 青蔥
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

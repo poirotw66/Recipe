@@ -56,6 +56,7 @@ steps:
 - 玉ねぎと卵を汁ごとご飯の上にのせ、熱いうちにいただく。
 tips:
 - しっとりした食感が好みなら、ソースを少し多めに残す。
+- 冷やご飯やゆで麺は広げてから加熱すると、固まりにくく調味料も均一になじみます。
 storage: できたてが一番。卵の香りと食感がいちばんよい。
 substitutions:
 - 青ねぎ
@@ -63,13 +64,15 @@ substitutions:
 faqs:
 - question: お弁当にしてもいいですか？
   answer: はい。ただし卵はやや固めに炒めると、持ち運びで水が出にくいです。
+- question: "作り置きできますか？"
+  answer: "できます。主食と具材を分けて冷蔵し、食べる直前に温めて合わせると食感を保てます。"
 relatedIngredients:
 - ご飯（白米）
 - 玉ねぎ
 - 卵
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ

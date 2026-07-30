@@ -37,6 +37,7 @@ steps:
 tips:
 - 先把穀物、蛋白質與醬汁分開準備，最後再拌合，口感會更接近餐廳出餐。
 - 輕食盤的份量要足，主配料不要切得太碎，擺盤才有 Second Floor Cafe 的豐盛感。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 沙拉與優格碗建議現做現吃；熟食配料可冷藏 1 天後再重新組裝。
 substitutions:
 - 綜合生菜
@@ -50,9 +51,11 @@ customAdditions: []
 faqs:
 - question: 想把 生酮總匯海陸拼盤 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 舒肥牛與巴沙魚 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 舒肥牛
   amount: "適量"

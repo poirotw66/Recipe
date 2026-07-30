@@ -59,19 +59,22 @@ steps:
 - 간을 맞춘 뒤 소고기와 소스를 밥 위에 올립니다.
 tips:
 - 양파를 더 볶으면 단맛이 나와 덮밥 맛이 안정됩니다.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드시고, 도시락은 소스를 따로 담으세요.
 substitutions:
 - 파
 faqs:
 - question: 스테이크용 고기로 해도 되나요?
   answer: 가능하며 얇게 썰어 볶는 시간을 줄이세요.
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 소고기
 - 양파
 - 밥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 파
 - 고추

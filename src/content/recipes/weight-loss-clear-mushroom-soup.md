@@ -23,6 +23,7 @@ tags:
 - 湯品
 tips:
 - 可加豆腐或雞胸絲增加蛋白質。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 substitutions: []
 relatedIngredients:
 - 菇類
@@ -58,9 +59,11 @@ storage: "冷藏 2 天；再加熱勿煮滾太久。"
 faqs:
 - question: "只有一種菇可以嗎？"
   answer: "完全可以，任何菇類都適合這個作法。"
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 減脂菇類清湯是晚間想輕食時最簡單的選擇。

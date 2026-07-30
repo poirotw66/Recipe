@@ -57,6 +57,7 @@ steps:
 - Spoon tofu and mushrooms over rice; toss and eat while hot.
 tips:
 - Pat the tofu dry first—it browns more easily.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Best eaten fresh; refrigerate up to 1 day if needed.
 substitutions:
 - Swap white rice for brown rice or quinoa.
@@ -65,13 +66,15 @@ faqs:
   answer: Yes—scatter chopped scallions at the end for extra aroma.
 - question: Firm or soft tofu?
   answer: Firm tofu holds up better for pan-frying.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 豆腐
 - 菇類
 - 白飯
 featured: false
 publishedAt: '2026-06-15'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Shredded pork
 - Shrimp

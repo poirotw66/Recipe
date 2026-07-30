@@ -1,19 +1,11 @@
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const root = process.cwd();
-const slugs = [
-  "air-fryer-garlic-pork-chop", "air-fryer-garlic-shrimp", "air-fryer-salmon-broccoli",
-  "airfryer-garlic-chicken-broccoli", "airfryer-tofu-mushroom-main", "air-fryer-crispy-tofu-cubes",
-  "air-fryer-garlic-mushrooms", "air-fryer-garlic-okra", "air-fryer-butter-corn",
-  "air-fryer-honey-sweet-potato", "air-fryer-lemon-fish-fillet", "air-fryer-soy-chicken-wings",
-  "budget-tofu-rice-bowl", "budget-simple-egg-fried-rice", "budget-cabbage-noodle-soup",
-  "bento-ginger-chicken", "bento-honey-soy-pork", "bento-stir-fried-cabbage",
-  "high-protein-chicken-broccoli-bowl", "high-protein-shrimp-tofu-bowl", "high-protein-tofu-steak-plate",
-  "weight-loss-zucchini-chicken", "weight-loss-shrimp-veg-salad", "solo-sesame-chicken-rice",
-  "solo-ginger-pork-rice", "canned-tuna-rice-bowl", "clearout-veggie-egg-fried-rice",
-  "garlic-mushroom-chicken", "broccoli-mushroom-chicken-rice-bowl", "tomato-beef-rice-bowl"
-];
+const slugs = readdirSync(join(root, "src/content/recipes"))
+  .filter((file) => file.endsWith(".md"))
+  .map((file) => file.slice(0, -3))
+  .sort();
 
 const localeDirs = { zh: "recipes", en: "recipes-en", ja: "recipes-ja", ko: "recipes-ko" };
 const isAir = (slug) => slug.startsWith("air-fryer") || slug.startsWith("airfryer");
@@ -111,7 +103,15 @@ for (const slug of slugs) {
     const tip = isAir(slug) ? c.airTip : isProtein(slug) ? c.proteinTip : isSoup(slug) ? c.soupTip : isRice(slug) ? c.riceTip : c.vegTip;
     const question = isAir(slug) ? c.airQ : isProtein(slug) ? c.proteinQ : isSoup(slug) ? c.soupQ : isRice(slug) ? c.riceQ : c.vegQ;
     const answer = isAir(slug) ? c.airA : isProtein(slug) ? c.proteinA : isSoup(slug) ? c.soupA : isRice(slug) ? c.riceA : c.vegA;
-    if (!raw.includes(`- ${tip}`)) raw = addBlock(raw, "tips", [tip]);
+    if (!raw.includes(`- ${tip}`)) {
+      if (raw.includes("tips:\n")) {
+        raw = addBlock(raw, "tips", [tip]);
+      } else {
+        const tipAt = ["substitutions:", "relatedIngredients:", "ingredients:", "seasonings:", "intro:"].map((key) => raw.indexOf(key)).find((at) => at >= 0);
+        if (tipAt === undefined) throw new Error(`Missing insertion point for tips: ${locale}/${slug}`);
+        raw = `${raw.slice(0, tipAt)}tips:\n- ${tip}\n${raw.slice(tipAt)}`;
+      }
+    }
     const faqLine = `- question: "${question}"\n  answer: "${answer}"\n`;
     // Remove a previous misplaced insertion, then append inside the faqs list.
     raw = raw.replace(faqLine, "");
@@ -129,6 +129,7 @@ for (const slug of slugs) {
     if (nextSection < 0) throw new Error(`Missing next section after faqs: ${locale}/${slug}`);
     const faqAt = faqBodyStart + nextSection;
     raw = `${raw.slice(0, faqAt)}${faqLine}${raw.slice(faqAt)}`;
+    raw = raw.replace(/\nfaqs: \[\]\n/g, "\n");
     raw = raw.replace(/^updatedAt:.*$/m, 'updatedAt: "2026-07-30"');
     writeFileSync(path, raw, "utf8");
   }

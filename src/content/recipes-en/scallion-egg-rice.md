@@ -56,6 +56,7 @@ steps:
 - Serve hot in a bowl.
 tips:
 - Add scallions in two batches—half in the pan, half on top—for more layers of flavor.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Make and eat the same day; not ideal to hold long.
 substitutions:
 - Onion
@@ -63,13 +64,15 @@ substitutions:
 faqs:
 - question: Can I use day-old rice?
   answer: Yes—microwave or pan-reheat first so it mixes without clumping.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 白飯
 - 雞蛋
 - 青蔥
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

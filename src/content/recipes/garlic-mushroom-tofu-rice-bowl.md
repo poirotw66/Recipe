@@ -57,6 +57,7 @@ steps:
 - 豆腐與菇類分裝於白飯上，趁熱拌食即可。
 tips:
 - 豆腐可先吸乾表面水分，會比較容易上色。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 建議現吃；若需保存請冷藏 1 天內食用。
 substitutions:
 - 白飯可改成糙米飯或藜麥飯。
@@ -65,13 +66,15 @@ faqs:
   answer: 可以，起鍋前撒上青蔥會更香。
 - question: 豆腐要用板豆腐還是嫩豆腐？
   answer: 板豆腐較適合煎炒，不易碎。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 豆腐
 - 菇類
 - 白飯
 featured: false
 publishedAt: '2026-06-15'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉絲
 - 蝦仁

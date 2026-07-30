@@ -54,19 +54,22 @@ steps:
 - 起鍋盛盤趁熱享用。
 tips:
 - 火夠大、動作快，炒飯會比較粒粒分明。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 建議現炒現吃；若要帶便當，牛肉需炒熟。
 substitutions:
 - 豬絲
 faqs:
 - question: 沒有放涼的白飯可以嗎？
   answer: 可以，新飯先鋪平放涼再炒，水分較少。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 牛肉
 - 白飯
 - 青蔥
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 辣椒
 - 洋蔥

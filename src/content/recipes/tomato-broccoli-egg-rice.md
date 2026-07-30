@@ -58,6 +58,7 @@ steps:
 - 倒回炒蛋與蔬菜，淋入醬油 1小匙 大火快炒 1 分鐘讓配料均勻混合；飯粒乾爽、蛋塊半凝固即可起鍋。
 tips:
 - 番茄下鍋後先收一點汁，炒飯不會太濕。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 建議現吃；剩餘可冷藏 1 天。
 substitutions:
 - 青花菜可改高麗菜絲。
@@ -66,13 +67,15 @@ faqs:
   answer: 材料加倍即可，鍋子要夠大才好翻炒。
 - question: 可以不加醬油嗎？
   answer: 可以，改加鹽和白胡椒。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 番茄
 - 青花菜
 - 雞蛋
 featured: false
 publishedAt: '2026-06-14'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

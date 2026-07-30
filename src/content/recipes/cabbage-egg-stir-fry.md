@@ -55,6 +55,7 @@ steps:
 - 起鍋分裝 2 份，趁熱享用或放涼裝便當。
 tips:
 - 高麗菜不要炒到出太多水，口感會比較清脆。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 冷藏可保存 2 天，回熱時用平底鍋乾炒比微波更香。
 substitutions:
 - 青江菜
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: 可以不加蒜頭嗎？
   answer: 可以，改用青蔥也能增加香氣。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 高麗菜
 - 雞蛋
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

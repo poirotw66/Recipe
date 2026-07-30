@@ -23,8 +23,12 @@ tags:
 - 蔬菜料理
 tips:
 - 沒有櫛瓜可改用青花菜丁。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions:
 - 高麗菜
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 番茄
@@ -74,7 +78,7 @@ steps:
 storage: "冷藏 1 天；加熱時補少許水。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 

@@ -56,6 +56,7 @@ steps:
 - 全部翻拌，淋醬油 1 小匙試味；蛋液應包裹蔬菜、帶濕潤口感即可起鍋。
 tips:
 - 高麗菜怕出水可先大火快炒，最後再轉中火收汁。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 可冷藏 1 天，回鍋時補一點水可避免過乾。
 substitutions:
 - 可把高麗菜改成青花菜梗薄片。
@@ -64,13 +65,15 @@ faqs:
   answer: 建議炒到微軟，甜味會更好。
 - question: 可以不加醬油嗎？
   answer: 可以，改成少量鹽和白胡椒就行。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 高麗菜
 - 洋蔥
 - 雞蛋
 featured: false
 publishedAt: '2026-06-04'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

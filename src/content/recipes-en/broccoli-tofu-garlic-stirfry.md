@@ -54,6 +54,7 @@ steps:
 - Serve when tofu is evenly coated and broccoli is tender but still crisp.
 tips:
 - Blanch broccoli 30 seconds first for more predictable doneness.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate up to 1 day; reheat over medium-high in a skillet.
 substitutions:
 - Broccoli can be swapped for cabbage.
@@ -62,13 +63,15 @@ faqs:
   answer: Sear one side until set before flipping.
 - question: Can I add eggs?
   answer: Yes—scramble them in at the end for extra protein.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 青花菜
 - 豆腐
 - 蒜頭
 featured: false
 publishedAt: '2026-07-04'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Shredded pork
 - Shrimp

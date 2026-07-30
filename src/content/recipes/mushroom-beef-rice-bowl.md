@@ -61,16 +61,20 @@ steps:
 - 試味後連汁淋在白飯上即可享用。
 tips:
 - 菇類出水後多炒一會，醬汁會更香。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 建議現做現吃。
 substitutions:
 - 杏鮑菇
+faqs:
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 牛肉
 - 菇類
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 青蔥
 - 辣椒

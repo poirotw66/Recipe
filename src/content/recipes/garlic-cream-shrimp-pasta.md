@@ -23,8 +23,12 @@ tags:
 - 海鮮料理
 tips:
 - 奶醬全程小火，避免油水分離。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 substitutions:
 - 鮭魚丁
+faqs:
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 義大利麵
 - 蝦仁
@@ -73,7 +77,7 @@ steps:
 storage: "現做現吃；隔夜再加熱需補牛奶。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 

@@ -68,19 +68,22 @@ steps:
 - 간을 맞추고 소금과 후추를 약간 넣은 뒤 뜨거울 때 접시에 담아 낸다.
 tips:
 - 버섯은 물기를 낸 뒤 졸이면 향이 더 납니다.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드시고, 냉장 시 버섯이 무거워집니다.
 substitutions:
 - 단단한 두부
 faqs:
 - question: 치즈 가루가 없으면?
   answer: 생략 가능하나 소스가 덜 걸쭉하니 면수를 조금 더 넣으세요.
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 스파게티
 - 닭가슴살
 - 버섯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 베이컨
 - 생크림

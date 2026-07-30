@@ -24,6 +24,7 @@ tags:
 - Soup
 tips:
 - Add tofu or shredded chicken for more protein.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 substitutions: []
 relatedIngredients:
 - 菇類
@@ -59,9 +60,11 @@ storage: Refrigerate 2 days; do not boil hard on reheat.
 faqs:
 - question: Only one mushroom type?
   answer: Any mushroom works with this method.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 The simplest evening bowl when you want something light.

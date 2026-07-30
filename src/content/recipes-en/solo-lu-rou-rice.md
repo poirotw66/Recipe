@@ -23,6 +23,7 @@ tags:
 - Rice-friendly
 tips:
 - Add a braised egg or blanched greens for a fuller plate.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -67,9 +68,11 @@ storage: Refrigerate up to 3 days; add a little water when reheating.
 faqs:
 - question: No shallots on hand?
   answer: Thin-sliced red onion works; flavor is slightly different.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A comforting solo serving of braised pork rice—familiar to anyone cooking in a small Taiwan kitchen.

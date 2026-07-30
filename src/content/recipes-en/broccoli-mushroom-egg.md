@@ -55,6 +55,7 @@ steps:
 - "Toss everything together; season with salt and black pepper. Serve when eggs are half-set and still moist."
 tips:
 - Do not overcook broccoli—keep a little snap.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate up to 1 day; good for next-day lunch.
 substitutions:
 - Cabbage
@@ -62,13 +63,15 @@ substitutions:
 faqs:
 - question: Skip par-cooking the broccoli?
   answer: You can, but stir-fry longer and splash in a little water, covered, to steam through.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 青花菜
 - 菇類
 - 雞蛋
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

@@ -57,6 +57,7 @@ steps:
 - 全部翻拌均勻，淋入醬油與鹽調味；蛋液半凝固帶滑、蔬菜熟透即可起鍋。
 tips:
 - 蛋液下鍋後火不要太大，口感會更嫩。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 蛋料理建議當餐食用。
 substitutions:
 - 高麗菜可改青花菜梗薄片。
@@ -65,13 +66,15 @@ faqs:
   answer: 可加一小撮糖平衡酸味。
 - question: 可以做兩人份嗎？
   answer: 可把材料加倍並分兩次炒蛋。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 番茄
 - 高麗菜
 - 雞蛋
 featured: false
 publishedAt: '2026-07-02'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

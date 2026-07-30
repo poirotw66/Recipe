@@ -24,6 +24,7 @@ tags:
 - Egg dishes
 tips:
 - Shredded cheese melts in nicely.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions: []
 relatedIngredients:
 - 雞蛋
@@ -70,9 +71,11 @@ storage: Refrigerate 1 day; re-crisp in a skillet 1 minute.
 faqs:
 - question: Can I skip flour?
   answer: Yes—use a smaller pan and a thicker layer.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 A balanced solo meal with minimal shopping.

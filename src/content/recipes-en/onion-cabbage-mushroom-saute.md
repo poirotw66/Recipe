@@ -57,6 +57,7 @@ steps:
 - Drizzle 1 tsp soy sauce down the side of the pan; toss quickly, taste with a pinch of salt, and serve.
 tips:
 - For crisper cabbage, shorten cooking by about 1 minute.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate 1 day.
 substitutions:
 - Add tofu cubes for protein.
@@ -65,13 +66,15 @@ faqs:
   answer: Salt and pepper only works.
 - question: Bento-safe?
   answer: Yes—cool before packing.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 洋蔥
 - 高麗菜
 - 菇類
 featured: false
 publishedAt: '2026-07-05'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Shredded pork
 - Shrimp

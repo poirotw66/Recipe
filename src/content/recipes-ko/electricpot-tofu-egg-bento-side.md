@@ -52,6 +52,7 @@ steps:
 - 꺼내 남은 파를 뿌리고, 조각 내거나 숟가락으로 떠서 도시락 반찬 2인분으로 나눈다.
 tips:
 - 더 부드럽게 하려면 달걀을 체에 거르세요.
+- 찬밥이나 삶은 면은 조리 전에 펼쳐 두면 뭉치지 않고 양념이 고르게 배어듭니다.
 storage: 냉장 1일.
 substitutions:
 - 다진 버섯을 넣으면 식감이 풍성해집니다.
@@ -60,13 +61,15 @@ faqs:
   answer: 두부 물기를 먼저 빼면 개선됩니다.
 - question: 차갑게 먹어도 되나요?
   answer: 가능하지만 데우면 맛이 더 좋습니다.
+- question: "미리 만들어 둘 수 있나요?"
+  answer: "가능합니다. 밥이나 면과 속재료를 따로 냉장한 뒤 먹기 직전에 데워 섞으면 식감이 좋습니다."
 relatedIngredients:
 - 두부
 - 달걀
 - 파
 featured: false
 publishedAt: '2026-07-13'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 햄 다이스
 - 치즈

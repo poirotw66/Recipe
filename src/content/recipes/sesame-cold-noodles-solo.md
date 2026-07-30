@@ -24,6 +24,7 @@ tags:
 - 涼麵
 tips:
 - 花生醬可部分取代芝麻醬，風味更濃。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 substitutions: []
 relatedIngredients:
 - 小黃瓜
@@ -65,9 +66,11 @@ storage: "現拌現吃；醬汁與麵分開裝可冷藏 1 天。"
 faqs:
 - question: "可以不加蒜嗎？"
   answer: "可以，改加薑泥或省略，風味較溫和。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 ---
 

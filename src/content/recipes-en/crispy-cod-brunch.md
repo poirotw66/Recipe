@@ -24,9 +24,13 @@ tags:
 tips:
 - Air fry at 190°C about 10–12 minutes, flip and spray oil once.
 - Oil too cool and the fish absorbs grease.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 substitutions:
 - Salmon
 - Chicken breast
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 雞蛋
 - 番茄
@@ -75,7 +79,7 @@ steps:
 storage: Best eaten immediately; crust softens when chilled.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Crispy cod brunch is for days when you want a café-style plate without leaving home.

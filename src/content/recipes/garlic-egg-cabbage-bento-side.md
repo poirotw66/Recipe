@@ -54,6 +54,7 @@ steps:
 - 蛋液全熟、高麗菜仍保有脆度即可起鍋；放涼再裝便當較不易出水。
 tips:
 - 若做便當建議把蛋炒熟一點。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 冷藏可放 1 到 2 天。
 substitutions:
 - 可加紅蘿蔔絲增加甜味與色彩。
@@ -62,13 +63,15 @@ faqs:
   answer: 可以，改用鹽和白胡椒也可以。
 - question: 便當會出水嗎？
   answer: 放涼再蓋蓋子可減少水氣。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 高麗菜
 - 雞蛋
 - 蒜頭
 featured: false
 publishedAt: '2026-06-23'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

@@ -58,6 +58,7 @@ steps:
 - 試味後即可起鍋（魚肉中心應不透明、用叉子能輕鬆撥開即熟透）。
 tips:
 - 鮭魚下鍋後先不要急著翻，才不會破皮。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 建議當餐食用；冷藏後再加熱口感會偏乾。
 substitutions:
 - 可把青花菜改成高麗菜。
@@ -66,13 +67,15 @@ faqs:
   answer: 可以，改擠一點檸檬也很適合。
 - question: 鮭魚會很腥嗎？
   answer: 用紙巾擦乾並先撒鹽可減少腥味。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 鮭魚
 - 洋蔥
 - 青花菜
 featured: false
 publishedAt: '2026-06-18'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 青蔥
 - 蒜末

@@ -54,6 +54,7 @@ steps:
 - 開蓋中火收汁 1～2 分鐘，以鹽試味；高麗菜應軟而不爛、豆腐完整即可起鍋。
 tips:
 - 豆腐可先乾煎再下鍋，口感會更扎實。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 冷藏可放 1 天，建議小火回溫避免豆腐碎裂。
 substitutions:
 - 可加少量菇類提升鮮味。
@@ -62,13 +63,15 @@ faqs:
   answer: 不一定，但蒜頭能讓整體味道更立體。
 - question: 可以配飯嗎？
   answer: 可以，湯汁拌飯很適合。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 高麗菜
 - 豆腐
 - 蒜頭
 featured: false
 publishedAt: '2026-06-06'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 肉絲
 - 蝦仁

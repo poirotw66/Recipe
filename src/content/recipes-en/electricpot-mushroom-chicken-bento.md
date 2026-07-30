@@ -55,6 +55,7 @@ steps:
 - "Toss gently, season with a pinch of salt to taste, and divide into 2 portions; let cool before refrigerating."
 tips:
 - Rub with 1 tsp oil before steaming for extra tenderness.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate up to 2 days; reheat before eating.
 substitutions:
 - Add broccoli for more greens.
@@ -63,13 +64,15 @@ faqs:
   answer: Yes—ideal night-before bento protein.
 - question: No rice cooker?
   answer: Use a covered skillet with a splash of water to steam.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 菇類
 - 洋蔥
 featured: false
 publishedAt: '2026-06-22'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

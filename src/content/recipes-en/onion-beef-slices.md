@@ -51,15 +51,19 @@ steps:
 - Serve when the sauce is slightly thickened and beef is fully cooked but still tender; do not over-stir or it toughens.
 tips:
 - Do not stir-fry beef too long or it toughens.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best fresh.
 substitutions:
 - Scallions
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 牛肉
 - 洋蔥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Scallions
 - Chili

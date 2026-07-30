@@ -58,6 +58,7 @@ steps:
 - Serve when broth is clear and vegetables still taste sweet.
 tips:
 - Simmer 2 minutes longer for a slightly richer broth.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 storage: Refrigerate up to 1 day.
 substitutions:
 - Add tofu for protein.
@@ -66,13 +67,15 @@ faqs:
   answer: Yes—it sweetens the broth.
 - question: Need bouillon powder?
   answer: Not required—the vegetables carry plenty of flavor.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 relatedIngredients:
 - 高麗菜
 - 菇類
 - 洋蔥
 featured: false
 publishedAt: '2026-07-12'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Fish balls
 - Tofu

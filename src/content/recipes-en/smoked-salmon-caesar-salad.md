@@ -23,8 +23,12 @@ tags:
 - Salmon
 tips:
 - Pan-seared salmon works if you prefer a different flavor.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions:
 - Shrimp
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 鮭魚
 - 雞蛋
@@ -67,7 +71,7 @@ steps:
 storage: Toss and eat; fish overnight loses appeal.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Great for summer lunches when you do not want the stove on.

@@ -56,6 +56,7 @@ steps:
 - 試味後將雞肉與紅蘿蔔分裝於白飯上；放涼至室溫再蓋便當蓋（避免飯粒濕軟）。
 tips:
 - 紅蘿蔔切小一點會比較快熟。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏可保存 2 天，吃之前需充分加熱。
 substitutions:
 - 雞腿肉
@@ -63,13 +64,15 @@ substitutions:
 faqs:
 - question: 可以用電鍋加熱便當嗎？
   answer: 可以，外鍋加半杯水蒸熱即可。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 雞胸肉
 - 紅蘿蔔
 - 白飯
 featured: false
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 杏鮑菇
 - 玉米筍

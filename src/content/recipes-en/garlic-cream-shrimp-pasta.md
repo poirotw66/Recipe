@@ -24,8 +24,12 @@ tags:
 - Seafood
 tips:
 - Keep the cream sauce on low heat to avoid splitting.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions:
 - Salmon cubes
+faqs:
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 義大利麵
 - 蝦仁
@@ -74,7 +78,7 @@ steps:
 storage: Best fresh; reheat with a little milk if needed.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 Garlic cream shrimp pasta is the crowd favorite among richer pasta bowls on the site.

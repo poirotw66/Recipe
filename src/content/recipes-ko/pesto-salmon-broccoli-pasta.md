@@ -70,19 +70,22 @@ steps:
 tips:
 - 연어는 마지막에 넣고 살살 섞어 모양을 유지하세요.
 - 레몬즙은 마지막에 넣으면 향이 덜 날아갑니다.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드시는 것이 좋습니다.
 substitutions:
 - 고등어 필렛
 faqs:
 - question: 냉동 연어를 써도 되나요?
   answer: 완전히 해동하고 표면을 말린 뒤 구우면 물기가 적습니다.
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 스파게티
 - 연어
 - 브로콜리
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 베이컨
 - 생크림

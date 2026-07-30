@@ -52,6 +52,7 @@ steps:
 - "Fold everything together; drizzle 0.5 tsp soy sauce, taste, and scatter scallions; eggs should stay moist around the mushrooms."
 tips:
 - Another 1 tsp water in the eggs adds silkiness.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Egg dishes are best fresh; texture falls off if held.
 substitutions:
 - Onion instead of scallion.
@@ -60,13 +61,15 @@ faqs:
   answer: No—dry searing keeps more aroma.
 - question: For bento?
   answer: Cook eggs fully before packing.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 菇類
 - 雞蛋
 - 青蔥
 featured: false
 publishedAt: '2026-06-05'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

@@ -38,6 +38,7 @@ steps:
 tips:
 - "Double-frying is essential. The first fry cooks the meat, and the second fry makes it crispy."
 - Turn off the heat before tossing with the sauce, otherwise, the crispy skin will turn soggy.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
 substitutions:
 - boneless chicken thigh
@@ -52,9 +53,11 @@ customAdditions:
 faqs:
 - question: How do I make this 蜂蜜蒜味韓式炸雞 closer to Dubu House?
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: boneless chicken thigh
   amount: "250"

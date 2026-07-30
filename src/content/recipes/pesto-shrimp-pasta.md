@@ -64,19 +64,22 @@ steps:
 - 試味，以鹽與黑胡椒少許調整；撒上剩餘蔥綠，起鍋盛盤趁熱享用。
 tips:
 - 冷凍蝦仁需完全解凍並吸乾水分，下鍋才不會出水。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 建議現做現吃；蝦仁隔夜口感會變硬。
 substitutions:
 - 鮭魚丁
 faqs:
 - question: 蝦仁可以不去腸嗎？
   answer: 建議去腸，口感與賣相都會比較好。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 義大利麵
 - 蝦仁
 - 青蔥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

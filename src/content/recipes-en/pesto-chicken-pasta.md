@@ -66,19 +66,22 @@ steps:
 - Plate while hot.
 tips:
 - After the chicken is done, lower heat and toss the pasta quickly so the meat does not dry out.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate up to 1 day; add a little water or oil when reheating.
 substitutions:
 - Chicken tenderloin
 faqs:
 - question: Can I use store-bought pesto?
   answer: Yes—about 2 Tbsp replaces the homemade paste.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 義大利麵
 - 雞胸肉
 - 青蔥
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Bacon
 - Heavy cream

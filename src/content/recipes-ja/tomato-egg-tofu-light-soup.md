@@ -58,6 +58,7 @@ steps:
 - 塩少々で味を調え、青ねぎを振って味を見て完成。
 tips:
 - 卵液を入れたら箸で軽く回すと細かい卵花になります。
+- 汁が煮詰まると塩味が強くなるため、塩は最後に味を見て加えます。
 storage: 冷蔵1日。再加熱は弱火で。
 substitutions:
 - たまねぎの千切りを加えると甘みが増します。
@@ -66,13 +67,15 @@ faqs:
   answer: きのこを加えても合います。
 - question: トマトの皮は？
   answer: 好みでむいてもそのままでも可。
+- question: "スープは翌日も食べられますか？"
+  answer: "粗熱を早く取り、密閉して冷蔵してください。翌日は十分に温め、葉物は食べる直前に加えます。"
 relatedIngredients:
 - トマト
 - 卵
 - 豆腐
 featured: false
 publishedAt: '2026-07-11'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ハムの角切り
 - シュレッドチーズ

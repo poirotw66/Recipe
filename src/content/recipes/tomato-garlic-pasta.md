@@ -54,6 +54,7 @@ steps:
 - 試味，以鹽少許調整；起鍋盛盤趁熱享用。
 tips:
 - 番茄若偏酸，可加一點糖平衡。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 建議現做現吃；冷藏後口感會偏軟，1 天內吃完較佳。
 substitutions:
 - 小番茄
@@ -61,13 +62,15 @@ substitutions:
 faqs:
 - question: 可以不加番茄醬嗎？
   answer: 可以，但風味會偏清淡，建議多炒一會讓番茄出汁。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 番茄
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

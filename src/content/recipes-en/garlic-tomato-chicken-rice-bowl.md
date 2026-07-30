@@ -58,6 +58,7 @@ steps:
 - Season with a pinch of salt to taste; ladle chicken and tomato juices over rice and toss while hot.
 tips:
 - Rub chicken with a little oil before cooking for a tenderer bite.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best eaten fresh; lunchbox OK refrigerated 1 day.
 substitutions:
 - Brown rice instead of white.
@@ -66,13 +67,15 @@ faqs:
   answer: Add a little onion to round out the acidity.
 - question: Can I use chicken tenderloin?
   answer: Yes—it cooks even faster.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 雞胸肉
 - 番茄
 - 白飯
 featured: false
 publishedAt: '2026-07-06'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

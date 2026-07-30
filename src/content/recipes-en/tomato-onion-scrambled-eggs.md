@@ -53,6 +53,7 @@ steps:
 - "Fold everything together, taste, and scatter scallions; eggs should stay half-set and silky—do not dry them out."
 tips:
 - Leave the pan earlier for softer eggs.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Eggs best fresh; refrigeration firms texture.
 substitutions:
 - Little minced garlic instead of scallion.
@@ -61,13 +62,15 @@ faqs:
   answer: Pinch of sugar.
 - question: Two servings?
   answer: Double; cook eggs in two batches for control.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 番茄
 - 洋蔥
 - 雞蛋
 featured: false
 publishedAt: '2026-06-24'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

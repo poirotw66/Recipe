@@ -54,16 +54,20 @@ steps:
 - 牛肉熟透、高麗菜仍帶脆即可起鍋。
 tips:
 - 高麗菜不要炒太久，保留脆口更好吃。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏 1 天內吃完，加熱時間不宜過長。
 substitutions:
 - 青江菜
+faqs:
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 牛肉
 - 高麗菜
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 青蔥
 - 辣椒

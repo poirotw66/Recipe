@@ -36,6 +36,7 @@ steps:
 tips:
 - 限定品項通常以單一強烈味型作為辨識點，先把那個核心風味做好最重要。
 - 若參考的是食記版本，建議用門市常見配菜邏輯補齊整體份量。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 限定品項以現做現吃為佳；若需冷藏，醬汁與主體請分開保存。
 substitutions:
 - 時蔬
@@ -48,9 +49,11 @@ customAdditions: []
 faqs:
 - question: 想把 朝日藍帶豬排堡 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 藍帶豬排與漢堡麵包 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 藍帶豬排
   amount: "220"

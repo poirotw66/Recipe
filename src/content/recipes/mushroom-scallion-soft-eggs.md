@@ -52,6 +52,7 @@ steps:
 - 全部翻拌，淋醬油 0.5 小匙試味，撒蔥花；蛋液應濕潤包裹菇片即可起鍋。
 tips:
 - 想更滑嫩可在蛋液裡加 1 小匙水。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 蛋料理建議現吃，放久口感會明顯下降。
 substitutions:
 - 青蔥可改洋蔥末。
@@ -60,13 +61,15 @@ faqs:
   answer: 不用，直接乾煎更能保留香氣。
 - question: 可以做成便當嗎？
   answer: 可以，但建議蛋炒到全熟再裝盒。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 菇類
 - 雞蛋
 - 青蔥
 featured: false
 publishedAt: '2026-06-05'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

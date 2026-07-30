@@ -31,18 +31,21 @@ steps:
 - 目視醬汁收緊、水蓮顏色油亮即可起鍋；鹹度不足可補少許醬油，過鹹則下一餐減量。
 tips:
 - 蠔油本身偏鹹，醬油可視口味略減。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 冷藏 1 天；回熱時少油快炒較能保留口感。
 substitutions:
 - 青江菜
 - 空心菜
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 水蓮
 - 蒜頭
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: "200"

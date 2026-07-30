@@ -59,16 +59,20 @@ steps:
 - 간을 맞춘 뒤 소고기와 소스를 밥 위에 올립니다.
 tips:
 - 버섯에서 물이 나온 뒤 조금 더 볶으면 소스 향이 진해집니다.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드시는 것을 권합니다.
 substitutions:
 - 새송이버섯
+faqs:
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 소고기
 - 버섯
 - 밥
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 대파
 - 고추

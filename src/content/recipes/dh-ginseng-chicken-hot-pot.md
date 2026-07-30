@@ -35,6 +35,7 @@ steps:
 tips:
 - 烹調前請將醬料調和均勻，一次下鍋能確保風味分布完美。
 - 熱鍋熱油能快速鎖住食材水分，維持多汁口感。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 特色料理建議現做現吃；含海鮮的版本請當天食用。
 substitutions:
 - 全雞
@@ -50,9 +51,11 @@ customAdditions:
 faqs:
 - question: 如何把 韓國人蔘雞火鍋 做得更像涓豆腐？
   answer: 先把 特色料理 的醬料或湯頭煮到正確濃度，最後再下主要配料與嫩豆腐，最能還原門市口感。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 全雞
   amount: "1"

@@ -23,6 +23,7 @@ tags:
 - 麵食
 tips:
 - 可加燙好的菠菜或魚板增加豐富度。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 substitutions: []
 relatedIngredients:
 - 青蔥
@@ -62,8 +63,10 @@ storage: "現做現吃；麵條隔夜會膨脹。"
 faqs:
 - question: "沒有柴魚高湯怎麼辦？"
   answer: "可用昆布與柴魚片快速熬 10 分鐘，或用水加少許雞粉代替。"
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 十分鐘烏龍麵湯是冷天想快速吃碗熱湯麵的好選擇。

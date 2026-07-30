@@ -54,6 +54,7 @@ steps:
 - 塩 少々と黒胡椒 少々で味を見て、皿に盛り温かいうちに食べる。
 tips:
 - 牛乳は焦げやすいので、弱火でゆっくり、混ぜながら煮ると安定しやすい。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: できたてが一番。冷蔵後は1日以内に食べる。
 substitutions:
 - 生クリーム
@@ -61,12 +62,14 @@ substitutions:
 faqs:
 - question: バターがない場合は？
   answer: オリーブオイルを少量使ってきのこを炒めても可。
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - スパゲッティ
 - きのこ
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - ベーコン
 - 生クリーム

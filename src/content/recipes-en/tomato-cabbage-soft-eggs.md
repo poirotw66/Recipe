@@ -57,6 +57,7 @@ steps:
 - "Toss everything together; drizzle with soy sauce and salt. Serve when eggs are half-set and silky and vegetables are cooked through."
 tips:
 - Lower heat after eggs go in for a tender set.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Egg dishes best same meal.
 substitutions:
 - Broccoli stem slices for cabbage.
@@ -65,13 +66,15 @@ faqs:
   answer: Pinch of sugar balances.
 - question: Two servings?
   answer: Double ingredients; cook eggs in two batches for control.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 番茄
 - 高麗菜
 - 雞蛋
 featured: false
 publishedAt: '2026-07-02'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

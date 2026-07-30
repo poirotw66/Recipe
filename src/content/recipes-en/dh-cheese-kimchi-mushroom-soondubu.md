@@ -37,6 +37,7 @@ steps:
 tips:
 - Soft tofu breaks easily. Scoop in large chunks only after the broth is boiling.
 - Add cheese slices and egg in the last minute. The residual heat will melt them beautifully.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
 substitutions:
 - soft tofu
@@ -52,9 +53,11 @@ customAdditions:
 faqs:
 - question: How do I make this 起司泡菜鮮菇嫩豆腐煲 closer to Dubu House?
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: soft tofu
   amount: "1"

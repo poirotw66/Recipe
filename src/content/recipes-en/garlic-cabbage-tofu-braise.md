@@ -54,6 +54,7 @@ steps:
 - "Uncover and reduce over medium heat 1–2 minutes; season with salt. Cabbage should be soft but not mushy; tofu intact."
 tips:
 - Pan-fry tofu first for a firmer bite.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate up to 1 day; reheat gently so tofu does not break.
 substitutions:
 - Add mushrooms for umami.
@@ -62,13 +63,15 @@ faqs:
   answer: Optional, but it rounds out the flavor.
 - question: Serve with rice?
   answer: Yes—the broth is great over rice.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 高麗菜
 - 豆腐
 - 蒜頭
 featured: false
 publishedAt: '2026-06-06'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Shredded pork
 - Shrimp

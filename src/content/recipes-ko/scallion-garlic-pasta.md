@@ -54,19 +54,22 @@ steps:
 - 간을 맞추고 소금을 약간 넣은 뒤 뜨거울 때 접시에 담아 낸다.
 tips:
 - 파 잎은 마지막에 넣어 색과 향을 살리세요.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
 storage: 바로 드시고, 냉장은 1일 이내.
 substitutions:
 - 양파
 faqs:
 - question: 간장을 빼도 되나요?
   answer: 소금과 후추만으로도 가능합니다.
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
 relatedIngredients:
 - 스파게티
 - 파
 - 마늘
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 베이컨
 - 생크림

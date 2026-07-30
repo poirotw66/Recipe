@@ -58,6 +58,7 @@ steps:
 - "Return eggs and vegetables; drizzle with 1 tsp soy sauce and stir-fry over high heat 1 minute until evenly mixed; rice should be dry with half-set egg curds."
 tips:
 - Let tomato release juice briefly so rice stays dry.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Eat fresh; leftovers 1 day refrigerated.
 substitutions:
 - Shredded cabbage for broccoli.
@@ -66,13 +67,15 @@ faqs:
   answer: Double ingredients; use a wide pan for tossing.
 - question: Skip soy sauce?
   answer: Use salt and white pepper instead.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 relatedIngredients:
 - 番茄
 - 青花菜
 - 雞蛋
 featured: false
 publishedAt: '2026-06-14'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

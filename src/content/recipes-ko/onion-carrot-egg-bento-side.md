@@ -53,6 +53,7 @@ steps:
 - 달걀이 완전히 익고 채소가 부드럽지만 단맛이 남으면 완성. 도시락은 식힌 뒤 담으면 물기가 덜 납니다.
 tips:
 - 당근은 얇게 썰면 더 빨리 익습니다.
+- 찬밥이나 삶은 면은 조리 전에 펼쳐 두면 뭉치지 않고 양념이 고르게 배어듭니다.
 storage: 냉장 1~2일.
 substitutions:
 - 파 다이스를 넣으면 향이 좋아집니다.
@@ -61,13 +62,15 @@ faqs:
   answer: 소금만으로도 충분합니다.
 - question: 냉동해도 되나요?
   answer: 비추천하며 식감이 떨어집니다.
+- question: "미리 만들어 둘 수 있나요?"
+  answer: "가능합니다. 밥이나 면과 속재료를 따로 냉장한 뒤 먹기 직전에 데워 섞으면 식감이 좋습니다."
 relatedIngredients:
 - 양파
 - 당근
 - 달걀
 featured: false
 publishedAt: '2026-07-14'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 햄 다이스
 - 모짜렐라

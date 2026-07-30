@@ -54,6 +54,7 @@ steps:
 - 以鹽少許與黑胡椒少許試味，起鍋盛盤趁熱享用。
 tips:
 - 牛奶容易燒焦，小火慢煮並持續攪拌會更穩定。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 現煮現吃最佳；冷藏後建議 1 天內吃完。
 substitutions:
 - 鮮奶油
@@ -61,12 +62,14 @@ substitutions:
 faqs:
 - question: 沒有奶油可以做嗎？
   answer: 可以，改用一點橄欖油炒香菇類即可。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 菇類
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

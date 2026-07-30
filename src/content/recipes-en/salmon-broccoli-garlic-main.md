@@ -55,6 +55,7 @@ steps:
 - Taste and serve—the center should be opaque and flake easily with a fork.
 tips:
 - Dry salmon well before the pan for crisper skin.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best eaten the same meal.
 substitutions:
 - Cabbage instead of broccoli.
@@ -63,13 +64,15 @@ faqs:
   answer: Yes—about 190°C (375°F) for 12 minutes.
 - question: Will it taste fishy?
   answer: Salt lightly and rest a few minutes before searing to reduce odor.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 鮭魚
 - 青花菜
 - 蒜頭
 featured: false
 publishedAt: '2026-07-10'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Shredded pork
 - Shrimp

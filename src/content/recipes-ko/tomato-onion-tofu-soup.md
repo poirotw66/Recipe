@@ -57,6 +57,7 @@ steps:
 - 소금 약간으로 간하고 쪽파를 뿌려 맛을 본 뒤 마무리합니다.
 tips:
 - 국물을 더 진하게 하려면 토마토 일부를 으깨도 됩니다.
+- 국물은 졸아들면 더 짜질 수 있으므로 소금은 마지막에 간을 보고 넣으세요.
 storage: 냉장 1일, 약불로 데우세요.
 substitutions:
 - 달걀을 조금 넣어 꽃 국 버전도 가능합니다.
@@ -65,13 +66,15 @@ faqs:
   answer: 꼭 필요하지 않으며, 고운 식감을 원하면 벗기세요.
 - question: 양파 없이 해도 되나요?
   answer: 가능하지만 국물 단맛이 약해집니다.
+- question: "국을 다음 날 먹어도 되나요?"
+  answer: "가능합니다. 빠르게 식혀 밀폐 냉장하고 다음 날 충분히 데우세요. 잎채소는 먹기 직전에 넣습니다."
 relatedIngredients:
 - 토마토
 - 양파
 - 두부
 featured: false
 publishedAt: "2026-06-11"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 어묵
 - 조개

@@ -34,19 +34,22 @@ steps:
 - 水蓮と卵塊を和え、塩小さじ1/4と白胡椒少々で味を整え、すぐに盛る。
 tips:
 - 日本酒は強火でさっと炒めて酒気を飛ばすと水蓮がしんなりしにくいです。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
 storage: できたてに。冷蔵1日、再加熱は強火で手早く。
 substitutions:
 - 空芯菜
 - 小松菜
+faqs:
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
 relatedIngredients:
 - 水蓮
 - 卵
 - にんにく
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: '180'

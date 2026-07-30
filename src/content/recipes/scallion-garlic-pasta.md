@@ -54,19 +54,22 @@ steps:
 - 試味，以鹽少許調整鹹度；起鍋盛盤趁熱享用。
 tips:
 - 蔥綠最後再放，顏色與香氣會比較新鮮。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 現煮現吃最佳；冷藏建議 1 天內吃完。
 substitutions:
 - 洋蔥
 faqs:
 - question: 可以不加醬油嗎？
   answer: 可以，改用鹽與黑胡椒調味即可。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 義大利麵
 - 青蔥
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 培根
 - 鮮奶油

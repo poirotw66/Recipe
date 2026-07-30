@@ -56,6 +56,7 @@ steps:
 - "Fold everything together; drizzle 1 tsp soy sauce and taste; eggs should coat the vegetables with a moist finish."
 tips:
 - Use high heat early so cabbage does not water out; lower heat to set the eggs.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Refrigerate up to 1 day; reheat with a splash of water.
 substitutions:
 - Swap cabbage for broccoli stem slices.
@@ -64,13 +65,15 @@ faqs:
   answer: Partially softened onion tastes sweeter.
 - question: Skip soy sauce?
   answer: Use a little extra salt and white pepper instead.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 高麗菜
 - 洋蔥
 - 雞蛋
 featured: false
 publishedAt: '2026-06-04'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

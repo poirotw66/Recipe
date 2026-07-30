@@ -34,18 +34,21 @@ steps:
 - Taste and serve immediately while hot.
 tips:
 - A very hot wok keeps greens from steaming in their own water.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Same meal; reheat over high 30 seconds.
 substitutions:
 - Water spinach
 - Bok choy
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 水蓮
 - 蒜頭
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: Water dropwort
   amount: "200"

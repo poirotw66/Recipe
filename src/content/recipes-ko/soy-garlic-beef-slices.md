@@ -54,15 +54,19 @@ steps:
 - 소고기를 다시 넣고 강불로 30초 버무려 소스를 입히면 완성.
 tips:
 - 고기가 얇을수록 볶는 시간이 짧아져 더 부드럽습니다.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 냉장 도시락은 1일 이내, 데울 때는 짧게만 가열하세요.
 substitutions:
 - 스테이크용 부위
+faqs:
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 relatedIngredients:
 - 소고기
 - 마늘
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 쪽파
 - 고추

@@ -36,6 +36,7 @@ steps:
 tips:
 - 麵包要先烤到外脆內軟，再疊上溫熱主料，才會有門市開放三明治的對比口感。
 - 水波蛋與生菜最後上桌，才能保留蛋黃流心和葉菜的新鮮度。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 建議現做現吃；若要提前準備，麵包與配料請分開保存，食用前再組裝。
 substitutions:
 - 酸種麵包
@@ -50,9 +51,11 @@ customAdditions:
 faqs:
 - question: 想把 黑松露厚切藍帶豬／歐包 Open 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 歐包與藍帶豬排 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 歐包
   amount: "2"

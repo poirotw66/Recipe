@@ -25,6 +25,7 @@ tags:
 - Noodles
 tips:
 - Thin spaghetti or fresh wheat noodles substitute for oil noodles.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 substitutions: []
 relatedIngredients:
 - 青蔥
@@ -59,9 +60,11 @@ storage: Best fresh; next day add hot water when reheating.
 faqs:
 - question: Skip sugar?
   answer: Optional—a little balances soy saltiness like street noodles.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 One of the most familiar fast dinners in a Taiwanese small kitchen.

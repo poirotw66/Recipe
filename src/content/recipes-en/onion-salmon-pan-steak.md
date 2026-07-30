@@ -58,6 +58,7 @@ steps:
 - Taste and serve—the center should be opaque and flake easily with a fork.
 tips:
 - Let the first side set before flipping to avoid torn skin.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best same day; reheated fish dries out.
 substitutions:
 - Broccoli can be cabbage wedges.
@@ -66,13 +67,15 @@ faqs:
   answer: Lemon juice at the end works well.
 - question: Fishy smell?
   answer: Dry well and salt before searing.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 鮭魚
 - 洋蔥
 - 青花菜
 featured: false
 publishedAt: '2026-06-18'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Scallions
 - Minced garlic

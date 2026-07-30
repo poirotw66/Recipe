@@ -57,6 +57,7 @@ steps:
 - 塩少々と白胡椒少々で味を調え、盛る前に味を見る。
 tips:
 - しょうがの千切りやクコの実を加えると香りに層が出ます。
+- 汁が煮詰まると塩味が強くなるため、塩は最後に味を見て加えます。
 storage: 冷蔵2日。再加熱時は煮込みすぎないと豆腐が老けにくい。
 substitutions:
 - きのこ
@@ -64,13 +65,15 @@ substitutions:
 faqs:
 - question: 野菜がなく豆腐だけでもいいですか？
   answer: はい。青ねぎと白胡椒でシンプルな豆腐スープになります。
+- question: "スープは翌日も食べられますか？"
+  answer: "粗熱を早く取り、密閉して冷蔵してください。翌日は十分に温め、葉物は食べる直前に加えます。"
 relatedIngredients:
 - 豆腐
 - キャベツ
 - にんじん
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions: []
 ---
 

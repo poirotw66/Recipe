@@ -23,6 +23,7 @@ tags:
 - 快手
 tips:
 - 可加豆腐或菇類增加豐富度。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
 substitutions: []
 relatedIngredients:
 - 高麗菜
@@ -74,8 +75,10 @@ storage: "現做現吃；麵條隔夜會糊。"
 faqs:
 - question: "可以用泡麵嗎？"
   answer: "可以，湯底改用泡麵調味包一半量，避免過鹹。"
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 什錦蔬菜湯麵步驟短、材料好取得，是忙碌平日晚餐的實用選擇。

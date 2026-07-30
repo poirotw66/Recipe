@@ -38,6 +38,7 @@ steps:
 tips:
 - Mix the seasonings completely before cooking to ensure even flavor distribution.
 - A hot pan with hot oil is key to locking in juices and flavor.
+- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
 substitutions:
 - uncooked white rice
@@ -53,9 +54,11 @@ customAdditions:
 faqs:
 - question: How do I make this 韓式石鍋飯 closer to Dubu House?
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
+- question: "Can I prepare this ahead of time?"
+  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: uncooked white rice
   amount: "150"

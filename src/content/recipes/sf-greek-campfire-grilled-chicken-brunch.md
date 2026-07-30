@@ -37,6 +37,7 @@ steps:
 tips:
 - 限定版本通常靠香料與搭配飲品做出識別度，主蛋白先調味靜置會更有層次。
 - 擺盤時保留沙拉、麵包與主菜的分區感，視覺會更接近門市。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 限定餐點建議現做現吃；魚排與雞肉分開保存，回熱時較能保留口感。
 substitutions:
 - 皮塔餅
@@ -49,9 +50,11 @@ customAdditions: []
 faqs:
 - question: 想把 Greek style 野炊系炭烤雞肉早午餐 做得更像貳樓版本，最重要的是什麼？
   answer: 先把 炭烤雞肉與皮塔餅 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 炭烤雞肉
   amount: "180"

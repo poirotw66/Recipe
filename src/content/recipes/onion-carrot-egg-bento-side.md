@@ -53,6 +53,7 @@ steps:
 - 蛋液全熟、蔬菜熟透仍帶甜味即可起鍋；放涼再裝便當較不易出水。
 tips:
 - 紅蘿蔔切薄一點，熟得更快。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
 storage: 冷藏可放 1 到 2 天。
 substitutions:
 - 可加青蔥末增加香氣。
@@ -61,13 +62,15 @@ faqs:
   answer: 可以，改用鹽即可。
 - question: 適合冷凍嗎？
   answer: 不建議，口感會變差。
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
 relatedIngredients:
 - 洋蔥
 - 紅蘿蔔
 - 雞蛋
 featured: false
 publishedAt: '2026-07-14'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 火腿丁
 - 起司絲

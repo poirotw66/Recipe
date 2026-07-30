@@ -33,19 +33,22 @@ steps:
 - 試味後立即起鍋享用。
 tips:
 - 杏鮑菇或鴻喜菇都很適合這道菜。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 storage: 冷藏 1 天；微波回熱後口感會略軟。
 substitutions:
 - 青花菜
 - 高麗菜
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 relatedIngredients:
 - 水蓮
 - 菇類
 - 蒜頭
 customAdditions: []
-faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: 水蓮
   amount: "180"

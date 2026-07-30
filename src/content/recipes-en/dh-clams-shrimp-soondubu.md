@@ -36,6 +36,7 @@ steps:
 tips:
 - Soft tofu breaks easily. Scoop in large chunks only after the broth is boiling.
 - Add cheese slices and egg in the last minute. The residual heat will melt them beautifully.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
 substitutions:
 - soft tofu
@@ -51,9 +52,11 @@ customAdditions:
 faqs:
 - question: How do I make this 蛤蜊鮮蝦嫩豆腐煲 closer to Dubu House?
   answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ingredients:
 - name: soft tofu
   amount: "1"

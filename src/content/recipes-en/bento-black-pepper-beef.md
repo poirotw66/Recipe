@@ -24,6 +24,7 @@ tags:
 - Beef
 tips:
 - Add bell pepper strips for color and crunch.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions: []
 relatedIngredients:
 - 牛肉
@@ -65,6 +66,8 @@ storage: Refrigerate up to 2 days; microwave about 1 minute to reheat.
 faqs:
 - question: Can I use pork instead?
   answer: Yes. Use thin pork loin slices and cook them completely before cooling and packing the lunch box.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-07-30"

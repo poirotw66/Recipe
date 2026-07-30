@@ -23,6 +23,7 @@ tags:
 - 豆腐料理
 tips:
 - 可加薑絲去腥，風味更暖胃。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -69,8 +70,10 @@ storage: "冷藏 1 天；再加熱時補少許水，小火攪拌。"
 faqs:
 - question: "想更豐富可以加什麼？"
   answer: "可參考上方加點建議，滷蛋或滷肉丁最後放入，避免煮過頭。"
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 蛋花鹹粥是忙碌晚上想喝碗熱粥時很穩的選擇。

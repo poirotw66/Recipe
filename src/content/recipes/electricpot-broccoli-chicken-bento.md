@@ -55,6 +55,7 @@ steps:
 - 切塊或保持片狀分裝成 2 份便當，放涼後再蓋蓋。
 tips:
 - 雞胸切太薄容易乾，建議保留厚度。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 分裝後冷藏可放 2 天，微波前可滴少量水保持濕潤。
 substitutions:
 - 紅蘿蔔可改洋蔥或菇類。
@@ -63,13 +64,15 @@ faqs:
   answer: 可以，分裝後冷藏，隔天直接帶便當。
 - question: 沒有電鍋怎麼辦？
   answer: 可改平底鍋煎雞胸，蔬菜另外汆燙。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 relatedIngredients:
 - 雞胸肉
 - 青花菜
 - 紅蘿蔔
 featured: false
 publishedAt: '2026-06-12'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - 杏鮑菇
 - 玉米筍

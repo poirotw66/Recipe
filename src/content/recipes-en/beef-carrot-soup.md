@@ -54,6 +54,7 @@ steps:
 tips:
 - Cut the carrot smaller to finish in about 20 minutes total simmer after adding.
 - Made the night before and reheated, flavors meld—refrigerate until then.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate and finish within 1–2 days; reheat to a full boil before serving.
 substitutions:
 - Daikon radish
@@ -62,12 +63,14 @@ faqs:
   answer: Chuck or small cubes with a gentle simmer usually stay tender.
 - question: Can I skip the onion?
   answer: Yes, but the broth will be less sweet—you can add 1 tsp sugar to balance.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 relatedIngredients:
 - 牛肉
 - 紅蘿蔔
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Scallions
 - Chili

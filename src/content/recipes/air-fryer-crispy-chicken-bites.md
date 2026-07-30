@@ -23,6 +23,7 @@ tags:
 - 雞肉料理
 tips:
 - 不要堆疊過厚，分批氣炸才能維持酥脆。
+- 食材表面先擦乾並單層鋪放，籃內留出熱風循環空間，成品才會均勻上色。
 substitutions:
 - 雞腿肉
 relatedIngredients:
@@ -69,9 +70,11 @@ storage: "現做現吃；冷藏再加熱會變軟，建議氣炸鍋回溫。"
 faqs:
 - question: "可以不加蛋嗎？"
   answer: "可以改用水或牛奶調成薄粉漿直接裹，但附著力略差。"
+- question: "食材厚度不同時要怎麼調整氣炸時間？"
+  answer: "先以食譜時間完成，再從最厚處確認熟度；較厚的部位可每次增加 2～3 分鐘，避免一次加太久。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 ---
 
 

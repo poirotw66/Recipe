@@ -57,6 +57,7 @@ steps:
 - "Drizzle 1 tsp soy sauce down the pan edge, toss quickly, and serve while eggs stay moist and garlicky."
 tips:
 - Do not overcook the eggs—slightly soft curds taste best.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
 storage: Best fresh; refrigerate up to 1 day and reheat through.
 substitutions:
 - Soft tofu works if you toss very gently.
@@ -65,13 +66,15 @@ faqs:
   answer: Scallions for aroma work too.
 - question: Can I add ketchup?
   answer: About ½ tsp deepens sweet-sour flavor.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 relatedIngredients:
 - 雞蛋
 - 豆腐
 - 番茄
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese

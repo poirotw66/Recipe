@@ -58,6 +58,7 @@ steps:
 - Season with a pinch of salt, scatter scallions, taste, and serve.
 tips:
 - Stir gently with chopsticks for finer egg threads.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
 storage: Refrigerate 1 day; reheat gently.
 substitutions:
 - Onion strips for extra sweetness.
@@ -66,13 +67,15 @@ faqs:
   answer: Mushrooms work well.
 - question: Peel tomatoes?
   answer: Optional to taste.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
 relatedIngredients:
 - 番茄
 - 雞蛋
 - 豆腐
 featured: false
 publishedAt: '2026-07-11'
-updatedAt: "2026-07-06"
+updatedAt: "2026-07-30"
 customAdditions:
 - Diced ham
 - Shredded cheese
