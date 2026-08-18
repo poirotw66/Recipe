@@ -60,7 +60,7 @@ const topicHubLinks = getTopicHubLinksForRecipe(recipe);
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href="/">首頁</a>
         <span>/</span>
-        <a href="/recipes">食譜</a>
+        <a href="/recipes/">食譜</a>
         <span>/</span>
         <span>{recipe.data.title}</span>
       </nav>
@@ -98,7 +98,7 @@ const topicHubLinks = getTopicHubLinksForRecipe(recipe);
           </div>
 
           <div class="section-links">
-            <a class="button" href="/recipes">返回食譜列表</a>
+            <a class="button" href="/recipes/">返回食譜列表</a>
             <a class="button note" href={`/tools/fridge-recipe?ingredients=${encodeURIComponent(ingredientQuery)}#fridge-results`}>
               用這些食材試算冰箱料理
             </a>

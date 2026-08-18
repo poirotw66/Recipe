@@ -16,8 +16,8 @@ const canonical = localePath(locale, "/404");
   title={t(locale, "errors.notFoundTitle")}
   description={t(locale, "errors.notFoundDescription")}
   canonicalPath={canonical}
-  alternatePath="/404"
   locale={locale}
+  robots="noindex, follow"
 >
   <section class="article article-shell">
     <Breadcrumb

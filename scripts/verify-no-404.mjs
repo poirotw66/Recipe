@@ -290,6 +290,10 @@ async function main() {
       try {
         const pathname = normalizeInternalPath(new URL(full).pathname);
         if (pathname) {
+          if (pathname.includes("/404")) {
+            recordFailure(failures, `sitemap:${sitemapFile}`, full, pathname);
+            continue;
+          }
           checkPath(`sitemap:${sitemapFile}`, pathname, pathname);
         }
       } catch {

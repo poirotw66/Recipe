@@ -7,8 +7,8 @@ import { t } from "../lib/i18n";
 <BaseLayout
   title={t("zh-TW", "errors.notFoundTitle")}
   description={t("zh-TW", "errors.notFoundDescription")}
-  canonicalPath="/404"
-  alternatePath="/404"
+  canonicalPath="/404/"
+  robots="noindex, follow"
 >
   <section class="article article-shell">
     <Breadcrumb items={[{ name: t("zh-TW", "nav.home"), href: "/" }, { name: t("zh-TW", "errors.notFoundTitle") }]} />

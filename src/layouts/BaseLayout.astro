@@ -16,6 +16,7 @@ interface Props {
   /** Path without locale prefix, for hreflang alternates */
   alternatePath?: string;
   alternateLocales?: import("../lib/i18n").Locale[];
+  robots?: string;
 }
 
 const {
@@ -26,7 +27,8 @@ const {
   type,
   locale: localeProp,
   alternatePath,
-  alternateLocales
+  alternateLocales,
+  robots
 } = Astro.props;
 const locale = localeProp ?? detectLocaleFromPath(Astro.url.pathname);
 const htmlLang = localeToHtmlLang[locale];
@@ -54,6 +56,7 @@ const htmlLang = localeToHtmlLang[locale];
       locale={locale}
       alternatePath={alternatePath}
       alternateLocales={alternateLocales}
+      robots={robots}
     />
     {gaReady && (
       <>

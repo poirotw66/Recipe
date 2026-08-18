@@ -1,6 +1,6 @@
 import type { APIRoute } from "astro";
 import { localePath } from "../lib/i18n";
-import { absoluteUrl } from "../lib/seo";
+import { renderUrlSet } from "../lib/sitemap";
 import topicHubs from "../data/topic-hubs.json";
 
 const defaultPages = [
@@ -18,12 +18,11 @@ const defaultPages = [
   "/about/",
   "/contact/",
   "/privacy-policy/",
-  "/terms/",
-  "/404/"
+  "/terms/"
 ];
 
 const localizedShellPages = [
-  "",
+  "/",
   "/recipes/",
   "/ingredients/",
   "/scenarios/",
@@ -31,8 +30,7 @@ const localizedShellPages = [
   "/about/",
   "/contact/",
   "/privacy-policy/",
-  "/terms/",
-  "/404/"
+  "/terms/"
 ];
 
 const localizedTopicHubPages = topicHubs.map((hub) => `/${hub.slug}/`);
@@ -40,20 +38,13 @@ const localizedTopicHubPages = topicHubs.map((hub) => `/${hub.slug}/`);
 const staticPages = [
   ...defaultPages,
   ...(["en", "ja", "ko"] as const).flatMap((locale) => [
-    ...localizedShellPages.map((path) =>
-      localePath(locale, path === "" ? "/" : path.replace(/\/$/, ""))
-    ),
+    ...localizedShellPages.map((path) => localePath(locale, path === "/" ? "/" : path.replace(/\/$/, ""))),
     ...localizedTopicHubPages.map((path) => localePath(locale, path.replace(/\/$/, "")))
   ])
 ];
 
-const renderUrlSet = (paths: string[]) => `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${paths.map((path) => `  <url><loc>${absoluteUrl(path)}</loc></url>`).join("\n")}
-</urlset>`;
-
 export const GET: APIRoute = () =>
-  new Response(renderUrlSet(staticPages), {
+  new Response(renderUrlSet(staticPages.map((path) => ({ path }))), {
     headers: {
       "Content-Type": "application/xml; charset=utf-8"
     }
