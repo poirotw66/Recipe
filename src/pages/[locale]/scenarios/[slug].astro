@@ -41,7 +41,7 @@ if (!slug) {
 const scenario = getScenarioBySlug(slug);
 
 if (!scenario) {
-  return Astro.redirect("/404");
+  return new Response(null, { status: 404, statusText: "Not Found" });
 }
 
 const recipes = sortRecipesByPublishedDate(await listRecipesForLocale(locale));

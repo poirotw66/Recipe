@@ -15,5 +15,9 @@ export default defineConfig({
     }
   },
 
-  adapter: cloudflare()
+  adapter: cloudflare({
+    workerEntryPoint: {
+      path: "src/worker.ts"
+    }
+  })
 });
