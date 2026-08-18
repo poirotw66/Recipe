@@ -37,7 +37,7 @@ if (!slug) {
 const recipe = await getLocalizedRecipe(slug, locale);
 
 if (!recipe) {
-  return Astro.redirect("/404");
+  return new Response(null, { status: 404, statusText: "Not Found" });
 }
 
 const allInLocale = await listRecipesForLocale(locale);

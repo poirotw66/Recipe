@@ -43,6 +43,9 @@ const requiredFiles = [
   "src/pages/sitemap-ingredients.xml.ts",
   "src/pages/sitemap-scenarios.xml.ts",
   "src/lib/sitemap.ts",
+  "src/lib/error-page.ts",
+  "src/worker.ts",
+  "wrangler.jsonc",
   "src/lib/seo.ts",
   "src/lib/site.ts",
   "src/lib/navigation.ts",
@@ -165,6 +168,48 @@ const notFoundPage = read("src/pages/404.astro");
 const localeNotFoundPage = read("src/pages/[locale]/404.astro");
 if (!seoHead.includes("noindex") || !notFoundPage.includes("noindex") || !localeNotFoundPage.includes("noindex")) {
   console.error("404 pages must send noindex so Google does not treat error URLs as indexable content.");
+  process.exit(1);
+}
+
+if (!notFoundPage.includes("Astro.response.status = 404") || !localeNotFoundPage.includes("Astro.response.status = 404")) {
+  console.error("404 pages must set HTTP status 404 so crawlers do not see error URLs as 200.");
+  process.exit(1);
+}
+
+const slugPages = [
+  "src/pages/recipes/[slug].astro",
+  "src/pages/ingredients/[slug].astro",
+  "src/pages/scenarios/[slug].astro",
+  "src/pages/[locale]/recipes/[slug].astro",
+  "src/pages/[locale]/ingredients/[slug].astro",
+  "src/pages/[locale]/scenarios/[slug].astro"
+];
+const redirectingNotFound = slugPages.filter((file) => read(file).includes('Astro.redirect("/404")'));
+if (redirectingNotFound.length) {
+  console.error(`Unknown slugs must return HTTP 404, not redirect to /404:\n${redirectingNotFound.map((file) => `- ${file}`).join("\n")}`);
+  process.exit(1);
+}
+
+const wranglerConfig = read("wrangler.jsonc");
+if (
+  !wranglerConfig.includes('"html_handling": "force-trailing-slash"') ||
+  !wranglerConfig.includes('"not_found_handling": "404-page"') ||
+  !wranglerConfig.includes('"/404/"')
+) {
+  console.error("wrangler.jsonc must force trailing slashes, serve 404.html for missing paths, and send /404 through the worker.");
+  process.exit(1);
+}
+
+const workerSource = read("src/worker.ts");
+const errorPageHelper = read("src/lib/error-page.ts");
+if (!workerSource.includes("asNotFound") || !errorPageHelper.includes("noindex")) {
+  console.error("Cloudflare worker must mark /404 responses as HTTP 404 with X-Robots-Tag noindex.");
+  process.exit(1);
+}
+
+const astroConfigForWorker = read("astro.config.mjs");
+if (!astroConfigForWorker.includes("src/worker.ts")) {
+  console.error("astro.config.mjs must use src/worker.ts so /404 is not served as HTTP 200.");
   process.exit(1);
 }
 
