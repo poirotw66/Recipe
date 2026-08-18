@@ -1,15 +1,21 @@
 import type { APIRoute } from "astro";
-import { absoluteUrl } from "../lib/seo";
+import { localePath } from "../lib/i18n";
+import { renderUrlSet } from "../lib/sitemap";
 import { scenarioItems } from "../lib/taxonomy";
 
-const renderUrlSet = (paths: string[]) => `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${paths.map((path) => `  <url><loc>${absoluteUrl(path)}</loc></url>`).join("\n")}
-</urlset>`;
+export const GET: APIRoute = () => {
+  const entries = [
+    ...scenarioItems.map((scenario) => ({ path: `/scenarios/${scenario.slug}/` })),
+    ...(["en", "ja", "ko"] as const).flatMap((locale) =>
+      scenarioItems.map((scenario) => ({
+        path: localePath(locale, `/scenarios/${scenario.slug}`)
+      }))
+    )
+  ];
 
-export const GET: APIRoute = () =>
-  new Response(renderUrlSet(scenarioItems.map((scenario) => `/scenarios/${scenario.slug}/`)), {
+  return new Response(renderUrlSet(entries), {
     headers: {
       "Content-Type": "application/xml; charset=utf-8"
     }
   });
+};

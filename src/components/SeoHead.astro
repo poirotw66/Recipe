@@ -29,6 +29,8 @@ interface Props {
   alternatePath?: string;
   /** When set, only emit hreflang for these locales (e.g. translated recipe slugs). */
   alternateLocales?: Locale[];
+  /** e.g. "noindex, follow" for error pages that must not enter Google's index. */
+  robots?: string;
 }
 
 const {
@@ -39,7 +41,8 @@ const {
   type = "website",
   locale: localeProp,
   alternatePath,
-  alternateLocales
+  alternateLocales,
+  robots
 } = Astro.props;
 
 const locale = localeProp ?? detectLocaleFromPath(Astro.url.pathname);
@@ -59,13 +62,23 @@ const alternates = alternateUrlsForPath(siteUrl, hreflangBase, alternateLocales)
 {gscVerification && <meta name="google-site-verification" content={gscVerification} />}
 <title>{fullTitle}</title>
 <meta name="description" content={description} />
+{robots && <meta name="robots" content={robots} />}
 <link rel="canonical" href={canonical} />
 {
-  alternates.map((item) => (
-    <link rel="alternate" hreflang={hreflangCode(item.locale)} href={item.href} />
-  ))
+  !robots?.includes("noindex") &&
+    alternates.map((item) => (
+      <link rel="alternate" hreflang={hreflangCode(item.locale)} href={item.href} />
+    ))
 }
-<link rel="alternate" hreflang="x-default" href={alternates.find((a) => a.locale === "zh-TW")?.href ?? canonical} />
+{
+  !robots?.includes("noindex") && (
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href={alternates.find((a) => a.locale === "zh-TW")?.href ?? canonical}
+    />
+  )
+}
 <meta property="og:title" content={fullTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:type" content={type} />

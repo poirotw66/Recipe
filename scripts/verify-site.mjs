@@ -42,6 +42,7 @@ const requiredFiles = [
   "src/pages/sitemap-recipes.xml.ts",
   "src/pages/sitemap-ingredients.xml.ts",
   "src/pages/sitemap-scenarios.xml.ts",
+  "src/lib/sitemap.ts",
   "src/lib/seo.ts",
   "src/lib/site.ts",
   "src/lib/navigation.ts",
@@ -151,6 +152,19 @@ if (!siteConfig.includes("PUBLIC_ADSENSE_CLIENT") || !adSlot.includes("adsbygoog
 
 if (!robotsRoute.includes("User-agent: *") || !robotsRoute.includes("sitemap-index.xml")) {
   console.error("robots.txt route must allow crawlers and include a sitemap-index reference.");
+  process.exit(1);
+}
+
+const sitemapPages = read("src/pages/sitemap-pages.xml.ts");
+if (sitemapPages.includes("/404/") || sitemapPages.includes('"/404"')) {
+  console.error("sitemap-pages.xml.ts must not list 404 error pages.");
+  process.exit(1);
+}
+
+const notFoundPage = read("src/pages/404.astro");
+const localeNotFoundPage = read("src/pages/[locale]/404.astro");
+if (!seoHead.includes("noindex") || !notFoundPage.includes("noindex") || !localeNotFoundPage.includes("noindex")) {
+  console.error("404 pages must send noindex so Google does not treat error URLs as indexable content.");
   process.exit(1);
 }
 
@@ -470,7 +484,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/404.astro",
-    markers: ["errors.notFoundHeading", "/recipes/", "/tools/fridge-recipe/"]
+    markers: ["errors.notFoundHeading", "/recipes/", "/tools/fridge-recipe/", "noindex"]
   },
   {
     file: "src/pages/terms.astro",
@@ -519,6 +533,11 @@ for (const page of pageExpectations) {
 const astroConfig = read("astro.config.mjs");
 if (!astroConfig.includes('defaultLocale: "zh-TW"') || !astroConfig.includes("prefixDefaultLocale: false")) {
   console.error("astro.config.mjs must configure i18n with zh-TW default and unprefixed default locale.");
+  process.exit(1);
+}
+
+if (!astroConfig.includes('trailingSlash: "always"')) {
+  console.error("astro.config.mjs must set trailingSlash: always to avoid slash-redirect crawl waste.");
   process.exit(1);
 }
 

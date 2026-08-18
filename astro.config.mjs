@@ -6,7 +6,7 @@ import cloudflare from "@astrojs/cloudflare";
 export default defineConfig({
   output: "static",
   site: "https://recipe.bloss0m.com",
-
+  trailingSlash: "always",
   i18n: {
     defaultLocale: "zh-TW",
     locales: ["zh-TW", "en", "ja", "ko"],
