@@ -4,12 +4,15 @@ import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
-import { buildBreadcrumbJsonLd, buildItemListJsonLd, buildThingJsonLd } from "../../lib/seo";
+import { buildBreadcrumbJsonLd, buildItemListJsonLd, buildThingJsonLd, truncateMetaDescription } from "../../lib/seo";
 import {
   filterIngredientsWithRecipes,
+  formatScenarioPopularRecipesLead,
   getIngredientBySlug,
   getRecipesByScenario,
   getScenarioBySlug,
+  getScenarioHubIntro,
+  ingredientRecipesLinkSeparator,
   scenarioItems
 } from "../../lib/taxonomy";
 
@@ -52,12 +55,17 @@ const commonIngredients = filterIngredientsWithRecipes(
 const relatedScenarios = scenario.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((relatedScenario): relatedScenario is NonNullable<typeof relatedScenario> => Boolean(relatedScenario));
+const scenarioHubIntro = getScenarioHubIntro(scenario, "zh-TW");
 const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: "首頁", path: "/" },
   { name: "情境", path: "/scenarios/" },
   { name: scenario.name, path: `/scenarios/${scenario.slug}/` }
 ]);
-const scenarioJsonLd = buildThingJsonLd(scenario);
+const scenarioJsonLd = buildThingJsonLd(
+  scenario,
+  `/scenarios/${scenario.slug}/`,
+  scenarioHubIntro ?? scenario.description
+);
 const relatedRecipeListJsonLd =
   relatedRecipes.length > 0
     ? buildItemListJsonLd(
@@ -73,7 +81,7 @@ const relatedRecipeListJsonLd =
 
 <BaseLayout
   title={scenario.seoTitle}
-  description={scenario.seoDescription}
+  description={truncateMetaDescription(scenarioHubIntro ?? scenario.seoDescription)}
   canonicalPath={`/scenarios/${scenario.slug}/`}
 >
   <JsonLd data={breadcrumbJsonLd} />
@@ -94,6 +102,7 @@ const relatedRecipeListJsonLd =
           <p class="eyebrow">情境料理</p>
           <h1 class="page-title">{scenario.name}</h1>
           <p class="page-copy">{scenario.description}</p>
+          {scenarioHubIntro && <p class="page-copy">{scenarioHubIntro}</p>}
           <div class="chip-row">
             {scenario.tags.map((tag) => <span class="chip note">{tag}</span>)}
           </div>
@@ -108,6 +117,16 @@ const relatedRecipeListJsonLd =
         <section class="section section-compact">
           <p class="eyebrow">本情境熱門</p>
           <h2>先從這 6 道開始找</h2>
+          <p class="page-copy">
+            {formatScenarioPopularRecipesLead("zh-TW", scenario.name, popularRecipes.length)}
+            {popularRecipes.map((recipe, index) => (
+              <>
+                {index > 0 ? ingredientRecipesLinkSeparator("zh-TW") : " "}
+                <a href={`/recipes/${recipe.slug}/`}>{recipe.data.title}</a>
+              </>
+            ))}
+            。
+          </p>
           <div class="grid">
             {popularRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
           </div>

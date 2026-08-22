@@ -6,18 +6,22 @@ import { localePath, t } from "../../../lib/i18n";
 import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
 import { listRecipesForLocale } from "../../../lib/recipe-locale";
 import { sortRecipesByPublishedDate } from "../../../lib/recipes";
-import { buildBreadcrumbJsonLd, buildItemListJsonLd, buildThingJsonLd } from "../../../lib/seo";
+import { buildBreadcrumbJsonLd, buildItemListJsonLd, buildThingJsonLd, truncateMetaDescription } from "../../../lib/seo";
 import {
   filterIngredientsWithRecipes,
+  formatScenarioPopularRecipesLead,
   getIngredientBySlug,
   getIngredientLabel,
   getRecipesByScenario,
   getScenarioBySlug,
   getScenarioDescription,
+  getScenarioHubIntro,
   getScenarioLabel,
   getScenarioSeoDescription,
   getScenarioSeoTitle,
   getScenarioTags,
+  ingredientRecipesLinkSeparator,
+  ingredientRecipesLinkSuffix,
   scenarioItems
 } from "../../../lib/taxonomy";
 
@@ -67,12 +71,17 @@ const commonIngredients = filterIngredientsWithRecipes(
 const relatedScenarios = scenario.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((relatedScenario): relatedScenario is NonNullable<typeof relatedScenario> => Boolean(relatedScenario));
+const scenarioHubIntro = getScenarioHubIntro(scenario, locale);
 const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: t(locale, "nav.home"), path: localePath(locale, "/") },
   { name: t(locale, "nav.scenarios"), path: localePath(locale, "/scenarios") },
   { name: scenarioName, path: canonical }
 ]);
-const scenarioJsonLd = buildThingJsonLd(scenario, canonical);
+const scenarioJsonLd = buildThingJsonLd(
+  scenario,
+  canonical,
+  scenarioHubIntro ?? getScenarioDescription(scenario, locale)
+);
 const relatedRecipeListJsonLd =
   relatedRecipes.length > 0
     ? buildItemListJsonLd(
@@ -88,7 +97,9 @@ const relatedRecipeListJsonLd =
 
 <BaseLayout
   title={getScenarioSeoTitle(scenario, locale) ?? getScenarioLabel(scenario, locale)}
-  description={getScenarioSeoDescription(scenario, locale) ?? scenario.description}
+  description={truncateMetaDescription(
+    scenarioHubIntro ?? getScenarioSeoDescription(scenario, locale) ?? scenario.description
+  )}
   canonicalPath={canonical}
   alternatePath={`/scenarios/${scenario.slug}`}
   locale={locale}
@@ -111,6 +122,7 @@ const relatedRecipeListJsonLd =
           <p class="eyebrow">{t(locale, "taxonomy.scenarioEyebrow")}</p>
           <h1 class="page-title">{scenarioName}</h1>
           <p class="page-copy">{getScenarioDescription(scenario, locale)}</p>
+          {scenarioHubIntro && <p class="page-copy">{scenarioHubIntro}</p>}
           <div class="chip-row">
             {(getScenarioTags(scenario, locale) ?? []).map((tag) => <span class="chip note">{tag}</span>)}
           </div>
@@ -125,6 +137,16 @@ const relatedRecipeListJsonLd =
         <section class="section section-compact">
           <p class="eyebrow">{t(locale, "taxonomy.popularEyebrow")}</p>
           <h2>{t(locale, "taxonomy.popularTitle")}</h2>
+          <p class="page-copy">
+            {formatScenarioPopularRecipesLead(locale, scenarioName, popularRecipes.length)}
+            {popularRecipes.map((recipe, index) => (
+              <>
+                {index > 0 ? ingredientRecipesLinkSeparator(locale) : " "}
+                <a href={localePath(locale, `/recipes/${recipe.slug}`)}>{recipe.data.title}</a>
+              </>
+            ))}
+            {ingredientRecipesLinkSuffix(locale, popularRecipes.length, popularRecipes.length)}
+          </p>
           <div class="grid">
             {popularRecipes.map((recipe) => <RecipeCard recipe={recipe} locale={locale} />)}
           </div>

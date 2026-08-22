@@ -5,7 +5,7 @@
 | 0 | 冰箱 query noindex + 食材 programmatic intro | done | commit `01b45fa` |
 | 1 | Deploy + GSC sitemap | pending | 待 push / 上線後執行 |
 | 2 | 15 食材人工 intro | done | 3 subagents；zh/en/ja/ko 全完成 |
-| 3 | 12 情境 hubIntro + 內链 | pending | |
+| 3 | 12 情境 hubIntro + 內链 | done | 3 subagents；zh/en/ja/ko 全完成 |
 | 4 | 內链強化 + 20 篇 zh 食譜 | pending | 食譜清單待 GSC 篩選 |
 | 5 | +7 / +28 日複盤 | pending | |
 
@@ -37,6 +37,23 @@
 | mushroom | done | done | done | done |
 | pasta | done | done | done | done |
 | cod | done | done | done | done |
+
+## Phase 3 情境 hubIntro（12）
+
+| slug | zh hubIntro | en | ja | ko |
+| --- | --- | --- | --- | --- |
+| one-person-meal | done | done | done | done |
+| ten-minute-meals | done | done | done | done |
+| high-protein-meals | done | done | done | done |
+| weight-loss-meals | done | done | done | done |
+| bento-meals | done | done | done | done |
+| budget-meals | done | done | done | done |
+| fridge-cleanout-meals | done | done | done | done |
+| air-fryer-meals | done | done | done | done |
+| electric-pot-meals | done | done | done | done |
+| leftover-rice-meals | done | done | done | done |
+| late-night-meals | done | done | done | done |
+| meatless-meals | done | done | done | done |
 
 ## Phase 4 優先 zh 食譜（20，待填）
 

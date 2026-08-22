@@ -515,7 +515,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/scenarios/[slug].astro",
-    markers: ["本情境熱門", "buildThingJsonLd", "getStaticPaths", "buildItemListJsonLd"]
+    markers: ["本情境熱門", "buildThingJsonLd", "getStaticPaths", "buildItemListJsonLd", "formatScenarioPopularRecipesLead"]
   },
   {
     file: "src/pages/ingredients/[slug].astro",

@@ -9,6 +9,7 @@ export type LocalizedLabels = Partial<Record<Locale, string>> & { "zh-TW": strin
 export interface LocaleCopyBlock {
   description?: string;
   intro?: string;
+  hubIntro?: string;
   seoTitle?: string;
   seoDescription?: string;
   tags?: string[];
@@ -44,6 +45,8 @@ export interface ScenarioItem {
   slug: string;
   labels?: LocalizedLabels;
   description: string;
+  /** Manual zh-TW hub intro (spec-020 phase 3). */
+  hubIntro?: string;
   seoTitle: string;
   seoDescription: string;
   tags: string[];
@@ -102,6 +105,32 @@ export const getScenarioSeoDescription = (item: ScenarioItem, locale: Locale) =>
 
 export const getScenarioTags = (item: ScenarioItem, locale: Locale) =>
   getLocaleCopyField(item.localeCopy, locale, "tags", item.tags);
+
+export const getScenarioHubIntro = (item: ScenarioItem, locale: Locale): string | undefined => {
+  const zhHubIntro = item.hubIntro?.trim();
+  if (locale === "zh-TW") {
+    return zhHubIntro || undefined;
+  }
+  const localized = getLocaleCopyField(item.localeCopy, locale, "hubIntro", zhHubIntro);
+  return localized?.trim() || undefined;
+};
+
+export const formatScenarioPopularRecipesLead = (
+  locale: Locale,
+  scenarioName: string,
+  shownCount: number
+): string => {
+  if (locale === "en") {
+    return `Start with these ${shownCount} ${scenarioName.toLowerCase()} recipe${shownCount === 1 ? "" : "s"}:`;
+  }
+  if (locale === "ja") {
+    return `まずは次の ${shownCount} 件の${scenarioName}レシピから:`;
+  }
+  if (locale === "ko") {
+    return `아래 ${shownCount}개의 ${scenarioName} 레시피부터 시작해 보세요:`;
+  }
+  return `先從以下 ${shownCount} 道${scenarioName}食譜開始：`;
+};
 
 export const getTopicHubDescription = (item: TopicHubItem, locale: Locale) =>
   getLocaleCopyField(item.localeCopy, locale, "description", item.description);
