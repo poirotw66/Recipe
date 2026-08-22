@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
+import TopicHubInlineLinks from "../../components/TopicHubInlineLinks.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../../lib/seo";
@@ -64,6 +65,8 @@ const hubJsonLd = buildThingJsonLd(hub, "/air-fryer/");
           <p>{hub.seoDescription}</p>
         </div>
       </section>
+
+      <TopicHubInlineLinks hub={hub} hubDisplayName={hub.name} />
 
       <section class="section section-compact">
         <p class="eyebrow">氣炸鍋食譜</p>

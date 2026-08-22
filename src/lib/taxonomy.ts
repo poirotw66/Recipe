@@ -132,6 +132,125 @@ export const formatScenarioPopularRecipesLead = (
   return `先從以下 ${shownCount} 道${scenarioName}食譜開始：`;
 };
 
+export type TopicHubInlineLinkKind = "ingredient" | "scenario";
+
+export type TopicHubInlineLinkRef = {
+  kind: TopicHubInlineLinkKind;
+  slug: string;
+  label: string;
+};
+
+export const formatTopicHubInlineLinksLead = (locale: Locale, hubName: string): string => {
+  if (locale === "en") {
+    return `Beyond the recipe cards below, you can also browse ${hubName.toLowerCase()} ideas from these entry points:`;
+  }
+  if (locale === "ja") {
+    return `下のレシピカード以外にも、次の入口から${hubName}のアイデアを探せます：`;
+  }
+  if (locale === "ko") {
+    return `아래 레시피 카드 외에도 다음 페이지에서 ${hubName} 아이디어를 더 찾아볼 수 있습니다:`;
+  }
+  return `除了下方食譜卡片，你也可以從這些入口繼續找${hubName}靈感：`;
+};
+
+export const getTopicHubInlineLinkRefs = (hub: TopicHubItem, locale: Locale): TopicHubInlineLinkRef[] => {
+  const refs: TopicHubInlineLinkRef[] = [];
+
+  for (const slug of hub.commonIngredients) {
+    if (refs.length >= 2) {
+      break;
+    }
+    const ingredient = getIngredientBySlug(slug);
+    if (!ingredient) {
+      continue;
+    }
+    refs.push({
+      kind: "ingredient",
+      slug: ingredient.slug,
+      label: getIngredientLabel(ingredient, locale)
+    });
+  }
+
+  for (const slug of hub.relatedScenarios) {
+    if (refs.length >= 3) {
+      break;
+    }
+    const scenario = getScenarioBySlug(slug);
+    if (!scenario) {
+      continue;
+    }
+    refs.push({
+      kind: "scenario",
+      slug: scenario.slug,
+      label: getScenarioLabel(scenario, locale)
+    });
+  }
+
+  return refs.slice(0, 3);
+};
+
+export const SPEC020_PHASE4_INTRO_LINK_SLUGS = new Set([
+  "tomato-egg-rice",
+  "tofu-scrambled-eggs",
+  "garlic-oil-pasta",
+  "scallion-beef-fried-rice",
+  "garlic-mushroom-chicken",
+  "air-fryer-salmon-broccoli",
+  "steamed-chicken-bento",
+  "beef-broccoli-stirfry",
+  "pesto-chicken-pasta",
+  "onion-egg-rice-bowl",
+  "tomato-onion-scrambled-eggs",
+  "scallion-egg-rice",
+  "tomato-garlic-cabbage-eggs",
+  "cabbage-egg-stir-fry",
+  "onion-tomato-egg-fried-rice",
+  "airfryer-garlic-chicken-broccoli",
+  "bento-ginger-chicken",
+  "bento-stir-fried-cabbage",
+  "ten-minute-udon-soup",
+  "quick-kimchi-fried-rice"
+]);
+
+export type RecipeIntroTailLink = {
+  beforeLink: string;
+  label: string;
+  href: string;
+  afterLink: string;
+};
+
+export const getRecipeIntroTailLink = (
+  slug: string,
+  relatedIngredients: string[],
+  scenarios: string[]
+): RecipeIntroTailLink | null => {
+  if (!SPEC020_PHASE4_INTRO_LINK_SLUGS.has(slug)) {
+    return null;
+  }
+
+  const ingredient = relatedIngredients.map((name) => getIngredientByName(name)).find(Boolean);
+  if (ingredient) {
+    return {
+      beforeLink: " 若還想延伸，也可以從",
+      label: ingredient.name,
+      href: `/ingredients/${ingredient.slug}/`,
+      afterLink: "找更多做法。"
+    };
+  }
+
+  const scenario = scenarios.map((name) => getScenarioByName(name)).find(Boolean);
+  if (scenario) {
+    return {
+      beforeLink: " 更多",
+      label: scenario.name,
+      href: `/scenarios/${scenario.slug}/`,
+      afterLink: "靈感可從這裡繼續找。"
+    };
+  }
+
+  return null;
+};
+
 export const getTopicHubDescription = (item: TopicHubItem, locale: Locale) =>
   getLocaleCopyField(item.localeCopy, locale, "description", item.description);
 

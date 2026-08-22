@@ -2,6 +2,7 @@
 import JsonLd from "./JsonLd.astro";
 import RecipeCard from "./RecipeCard.astro";
 import TopicHubIntro from "./TopicHubIntro.astro";
+import TopicHubInlineLinks from "./TopicHubInlineLinks.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import catalog from "../data/restaurant-replica-catalog.json";
 import { localePath, t, type Locale } from "../lib/i18n";
@@ -105,6 +106,8 @@ const tierLabels: Record<string, string> = {
         featured={featuredRecipe}
         locale={locale}
       />
+
+      <TopicHubInlineLinks hub={hub} hubDisplayName={hubTitle} locale={locale} />
 
       {
         hubSlug === "restaurant-replicas" ? (

@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import TopicHubIntro from "../../components/TopicHubIntro.astro";
+import TopicHubInlineLinks from "../../components/TopicHubInlineLinks.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../../lib/seo";
@@ -76,6 +77,8 @@ const featuredRecipe = featuredEntry
         recipeCount={pastaRecipes.length}
         featured={featuredRecipe}
       />
+
+      <TopicHubInlineLinks hub={hub} hubDisplayName={hub.name} />
 
       {pastaRecipes.length === 0 ? (
         <section class="section section-compact">

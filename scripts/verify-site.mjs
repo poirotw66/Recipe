@@ -471,16 +471,17 @@ const pageExpectations = [
       "topic-card",
       "#fridge-results",
       "content.topicHubs",
-      "card.slug"
+      "card.slug",
+      "topicHubsInlineLinksLead"
     ]
   },
   {
     file: "src/pages/air-fryer/index.astro",
-    markers: ["getTopicHubBySlug", "RecipeCard", "/air-fryer/"]
+    markers: ["getTopicHubBySlug", "RecipeCard", "/air-fryer/", "TopicHubInlineLinks"]
   },
   {
     file: "src/pages/quick-meals/index.astro",
-    markers: ["getTopicHubBySlug", "RecipeCard", "/quick-meals/"]
+    markers: ["getTopicHubBySlug", "RecipeCard", "/quick-meals/", "TopicHubInlineLinks"]
   },
   {
     file: "src/pages/brunch/index.astro",
@@ -510,7 +511,9 @@ const pageExpectations = [
       "AdSlot",
       "recipe-key-facts",
       "steps-list--numbered",
-      'id={`step-${index + 1}`}'
+      'id={`step-${index + 1}`}',
+      "getRecipeIntroTailLink",
+      "/ingredients/${ingredient.slug}/"
     ]
   },
   {

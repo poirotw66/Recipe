@@ -6,7 +6,7 @@
 | 1 | Deploy + GSC sitemap | pending | 待 push / 上線後執行 |
 | 2 | 15 食材人工 intro | done | 3 subagents；zh/en/ja/ko 全完成 |
 | 3 | 12 情境 hubIntro + 內链 | done | 3 subagents；zh/en/ja/ko 全完成 |
-| 4 | 內链強化 + 20 篇 zh 食譜 | pending | 食譜清單待 GSC 篩選 |
+| 4 | 內链強化 + 20 篇 zh 食譜 | done | 首頁/6 hub 內文連結 + 20 篇 intro 尾链 |
 | 5 | +7 / +28 日複盤 | pending | |
 
 ## Phase 1 檢查清單（上線後勾選）
@@ -55,14 +55,30 @@
 | late-night-meals | done | done | done | done |
 | meatless-meals | done | done | done | done |
 
-## Phase 4 優先 zh 食譜（20，待填）
-
-從 GSC「已檢索未索引」zh 路徑挑選；實作前更新此表。
+## Phase 4 優先 zh 食譜（20）
 
 | # | slug | 內链已加 | 備註 |
 | --- | --- | --- | --- |
-| 1 | | | |
-| … | | | |
+| 1 | tomato-egg-rice | done | intro 尾链 → 食材 |
+| 2 | tofu-scrambled-eggs | done | |
+| 3 | garlic-oil-pasta | done | |
+| 4 | scallion-beef-fried-rice | done | |
+| 5 | garlic-mushroom-chicken | done | |
+| 6 | air-fryer-salmon-broccoli | done | |
+| 7 | steamed-chicken-bento | done | |
+| 8 | beef-broccoli-stirfry | done | |
+| 9 | pesto-chicken-pasta | done | |
+| 10 | onion-egg-rice-bowl | done | |
+| 11 | tomato-onion-scrambled-eggs | done | |
+| 12 | scallion-egg-rice | done | |
+| 13 | tomato-garlic-cabbage-eggs | done | |
+| 14 | cabbage-egg-stir-fry | done | |
+| 15 | onion-tomato-egg-fried-rice | done | |
+| 16 | airfryer-garlic-chicken-broccoli | done | |
+| 17 | bento-ginger-chicken | done | |
+| 18 | bento-stir-fried-cabbage | done | |
+| 19 | ten-minute-udon-soup | done | |
+| 20 | quick-kimchi-fried-rice | done | |
 
 ## 複盤紀錄
 

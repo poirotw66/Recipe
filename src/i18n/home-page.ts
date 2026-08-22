@@ -8,6 +8,11 @@ export interface HomeTopicHubCard {
   cover: string;
 }
 
+export interface HomeInlineLinkRef {
+  kind: "ingredient" | "scenario";
+  slug: string;
+}
+
 export interface HomePageContent {
   metaDescription: string;
   heroEyebrow: string;
@@ -26,6 +31,8 @@ export interface HomePageContent {
   viewAllRecipes: string;
   topicHubsEyebrow: string;
   topicHubsTitle: string;
+  topicHubsInlineLinksLead: string;
+  topicHubsInlineLinkRefs: HomeInlineLinkRef[];
   enterTopicHub: string;
   ingredientsEyebrow: string;
   ingredientsTitle: string;
@@ -61,6 +68,12 @@ const zhTW: HomePageContent = {
   viewAllRecipes: "看全部食譜",
   topicHubsEyebrow: "主題專區",
   topicHubsTitle: "依心情，走進不同的小廚房角落",
+  topicHubsInlineLinksLead: "想更快鎖定方向，也可以直接從常見食材或料理情境出發：",
+  topicHubsInlineLinkRefs: [
+    { kind: "ingredient", slug: "egg" },
+    { kind: "scenario", slug: "ten-minute-meals" },
+    { kind: "ingredient", slug: "tofu" }
+  ],
   enterTopicHub: "進入專區 →",
   ingredientsEyebrow: "常用食材",
   ingredientsTitle: "從常備食材找做法",
@@ -137,6 +150,12 @@ const en: HomePageContent = {
   viewAllRecipes: "Browse all recipes",
   topicHubsEyebrow: "Topic hubs",
   topicHubsTitle: "Explore a different corner of the kitchen",
+  topicHubsInlineLinksLead: "To narrow things down faster, start from these staple ingredients or cooking scenarios:",
+  topicHubsInlineLinkRefs: [
+    { kind: "ingredient", slug: "egg" },
+    { kind: "scenario", slug: "ten-minute-meals" },
+    { kind: "ingredient", slug: "tofu" }
+  ],
   enterTopicHub: "Enter hub →",
   ingredientsEyebrow: "Popular ingredients",
   ingredientsTitle: "Cook from staples you already buy",
@@ -213,6 +232,12 @@ const ja: HomePageContent = {
   viewAllRecipes: "すべてのレシピを見る",
   topicHubsEyebrow: "特集",
   topicHubsTitle: "気分に合わせてキッチンの片隅へ",
+  topicHubsInlineLinksLead: "方向を早く決めたいときは、次の定番食材や料理シーンから探してみてください：",
+  topicHubsInlineLinkRefs: [
+    { kind: "ingredient", slug: "egg" },
+    { kind: "scenario", slug: "ten-minute-meals" },
+    { kind: "ingredient", slug: "tofu" }
+  ],
   enterTopicHub: "特集へ →",
   ingredientsEyebrow: "よく使う食材",
   ingredientsTitle: "定番食材から料理を探す",
@@ -289,6 +314,12 @@ const ko: HomePageContent = {
   viewAllRecipes: "전체 레시피 보기",
   topicHubsEyebrow: "테마 허브",
   topicHubsTitle: "기분에 맞는 작은 주방 코너로",
+  topicHubsInlineLinksLead: "방향을 빨리 정하고 싶다면 아래 기본 재료나 요리 상황 페이지부터 찾아보세요:",
+  topicHubsInlineLinkRefs: [
+    { kind: "ingredient", slug: "egg" },
+    { kind: "scenario", slug: "ten-minute-meals" },
+    { kind: "ingredient", slug: "tofu" }
+  ],
   enterTopicHub: "허브로 이동 →",
   ingredientsEyebrow: "자주 쓰는 재료",
   ingredientsTitle: "상비 재료로 요리 찾기",

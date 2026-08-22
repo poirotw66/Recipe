@@ -8,7 +8,7 @@ import RecipeLayout from "../../layouts/RecipeLayout.astro";
 import { localesWithRecipeTranslation } from "../../lib/recipe-locale";
 import { getRelatedRecipes } from "../../lib/recipes";
 import { buildBreadcrumbJsonLd, buildFaqJsonLd, buildRecipeJsonLd } from "../../lib/seo";
-import { getIngredientByName, getScenarioByName, getTopicHubLinksForRecipe } from "../../lib/taxonomy";
+import { getIngredientByName, getRecipeIntroTailLink, getScenarioByName, getTopicHubLinksForRecipe } from "../../lib/taxonomy";
 
 export async function getStaticPaths() {
   const recipes = await getCollection("recipes");
@@ -47,6 +47,11 @@ const hreflangLocales = alternateLocales.length > 1 ? alternateLocales : undefin
 const recipeJsonLd = buildRecipeJsonLd(recipe, "zh-TW");
 const faqJsonLd = recipe.data.faqs.length > 0 ? buildFaqJsonLd(recipe.data.faqs) : null;
 const topicHubLinks = getTopicHubLinksForRecipe(recipe);
+const introTailLink = getRecipeIntroTailLink(
+  recipe.slug,
+  recipe.data.relatedIngredients,
+  recipe.data.scenarios
+);
 ---
 
 <RecipeLayout recipe={recipe} alternateLocales={hreflangLocales}>
@@ -112,7 +117,16 @@ const topicHubLinks = getTopicHubLinksForRecipe(recipe);
 
       <section class="section section-compact">
         <div class="article recipe-intro">
-          <p>{recipe.data.intro}</p>
+          <p>
+            {recipe.data.intro}
+            {introTailLink && (
+              <>
+                {introTailLink.beforeLink}
+                <a href={introTailLink.href}>{introTailLink.label}</a>
+                {introTailLink.afterLink}
+              </>
+            )}
+          </p>
         </div>
       </section>
 
