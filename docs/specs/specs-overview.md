@@ -35,6 +35,7 @@
 | 017 | 多語系平台（路由、UI、taxonomy、SEO） | site/i18n | ✔️ | prd-006 | 001, 003, 004, 010, 011 | Astro i18n、UI 字典、語言切換、hreflang、sitemap、政策頁四語。 |
 | 018 | 多語食譜內容與試點批次 | content/i18n | ✔️ | prd-006 | 002, 008, 014, 017 | **161×3 全量譯文**完成。 |
 | 019 | 冰箱剩料工具多語 | tools/i18n | ✔️ | prd-006 | 006, 017 | slug 比對、他語工具頁與結果卡。 |
+| 020 | 索引率提升 — 內容深度與內鏈 | seo/growth | 📝 | prd-004 | 004, 009, 017, 014-growth | GSC「已檢索未索引」治理；食材/情境 intro、內链、deploy/GSC 營運。 |
 
 ## Suggested Order
 
@@ -57,6 +58,7 @@
 17. `spec-017` 多語系平台 — **✔️ done**
 18. `spec-018` 試點結案；**Batch 02 多語內容進行中**
 19. `spec-019` 冰箱工具多語 — **✔️ done**
+20. `spec-020` 索引率提升（內容深度與內链）— **📝 draft**；Phase 0 程式已合併，Phase 1～5 見 `docs/specs/020-indexing-content-depth/spec.md`
 
 ## PRD-006 Close Note
 
