@@ -118,6 +118,103 @@ export const getIngredientDescription = (item: IngredientItem, locale: Locale) =
 export const getIngredientStorage = (item: IngredientItem, locale: Locale) =>
   getLocaleCopyField(item.localeCopy, locale, "storage", item.storage);
 
+const listJoinForLocale = (items: string[], locale: Locale): string => {
+  if (items.length === 0) {
+    return "";
+  }
+  const separator = locale === "en" || locale === "ko" ? ", " : "、";
+  return items.join(separator);
+};
+
+/** Composes a richer intro from existing taxonomy fields (ponytail: no per-slug JSON). */
+export const buildIngredientIntro = (
+  item: IngredientItem,
+  locale: Locale,
+  recipeCount: number
+): string => {
+  const name = getIngredientLabel(item, locale);
+  const category = getIngredientCategoryLabel(item, locale);
+  const description = getIngredientDescription(item, locale);
+  const storage = getIngredientStorage(item, locale);
+  const pairings = listJoinForLocale(item.commonPairings.slice(0, 3), locale);
+  const substitutes = listJoinForLocale(item.substitutes.slice(0, 2), locale);
+
+  if (locale === "en") {
+    const parts = [
+      `${name} is a ${category.toLowerCase()} staple on Bloom Kitchen, with ${recipeCount} related recipe${recipeCount === 1 ? "" : "s"}. ${description}`,
+      storage ? `For storage, ${storage.charAt(0).toLowerCase()}${storage.slice(1)}` : "",
+      pairings ? `It pairs well with ${pairings}.` : "",
+      substitutes ? `If you are out of it, try ${substitutes} instead.` : ""
+    ];
+    return parts.filter(Boolean).join(" ");
+  }
+
+  if (locale === "ja") {
+    const parts = [
+      `${name}は${category}の定番食材で、Bloom Kitchen には関連レシピが ${recipeCount} 件あります。${description}`,
+      storage ? `保存の目安は、${storage}` : "",
+      pairings ? `よく一緒に使うのは ${pairings} などです。` : "",
+      substitutes ? `手元にない場合は ${substitutes} で代用できます。` : ""
+    ];
+    return parts.filter(Boolean).join(" ");
+  }
+
+  if (locale === "ko") {
+    const parts = [
+      `${name}는 ${category} 계열의 흔한 재료로, Bloom Kitchen에 관련 레시피 ${recipeCount}개가 있습니다. ${description}`,
+      storage ? `보관은 ${storage}` : "",
+      pairings ? `${pairings} 등과 자주 곁들여 씁니다.` : "",
+      substitutes ? `없을 때는 ${substitutes}로 대체할 수 있습니다.` : ""
+    ];
+    return parts.filter(Boolean).join(" ");
+  }
+
+  const parts = [
+    `${name}是${category}類的常見選擇，Bloom Kitchen 目前收錄 ${recipeCount} 道相關食譜。${description}`,
+    storage ? `保存上，${storage}` : "",
+    pairings ? `常與 ${pairings} 等食材搭配。` : "",
+    substitutes ? `若手邊沒有，可用 ${substitutes} 替代。` : ""
+  ];
+  return parts.filter(Boolean).join("");
+};
+
+export const formatIngredientRecipesLead = (
+  locale: Locale,
+  ingredientName: string,
+  shownCount: number,
+  totalCount: number
+): string => {
+  if (locale === "en") {
+    return `Pick from these ${shownCount} recipe${shownCount === 1 ? "" : "s"} with ${ingredientName}${totalCount > shownCount ? ":" : "."}`;
+  }
+  if (locale === "ja") {
+    return `${ingredientName} を使うレシピ ${shownCount} 件${totalCount > shownCount ? "：" : "。"}`;
+  }
+  if (locale === "ko") {
+    return `${ingredientName}가 들어간 레시피 ${shownCount}개${totalCount > shownCount ? ":" : "."}`;
+  }
+  return `以下 ${shownCount} 道食譜都用到 ${ingredientName}，可依時間與設備挑選${totalCount > shownCount ? "：" : "。"}`;
+};
+
+export const ingredientRecipesLinkSeparator = (locale: Locale): string =>
+  locale === "en" || locale === "ko" ? ", " : "、";
+
+export const ingredientRecipesLinkSuffix = (locale: Locale, totalCount: number, shownCount: number): string => {
+  if (totalCount <= shownCount) {
+    return locale === "en" ? "." : "。";
+  }
+  if (locale === "en") {
+    return ", and more.";
+  }
+  if (locale === "ja") {
+    return " など。";
+  }
+  if (locale === "ko") {
+    return " 等.";
+  }
+  return " 等。";
+};
+
 export const getIngredientsByCategoryLocalized = (locale: Locale) =>
   ingredientItems.reduce<Record<string, IngredientItem[]>>((groups, ingredient) => {
     const key = getIngredientCategoryLabel(ingredient, locale);

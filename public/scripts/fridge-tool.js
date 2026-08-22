@@ -373,6 +373,23 @@ quickIngredientButtons.forEach((button) => {
   });
 });
 
+document.querySelectorAll("[data-fridge-quick-search]").forEach((button) => {
+  button.addEventListener("click", () => {
+    if (!(button instanceof HTMLButtonElement) || !(fridgeInput instanceof HTMLTextAreaElement)) {
+      return;
+    }
+
+    const ingredient = button.dataset.fridgeQuickSearch ?? "";
+    if (!ingredient) {
+      return;
+    }
+
+    fridgeInput.value = ingredient;
+    submitValue(ingredient);
+    document.getElementById("fridge-results")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+});
+
 preferenceButtons.forEach((button) => {
   button.addEventListener("click", () => {
     if (!(button instanceof HTMLButtonElement)) {

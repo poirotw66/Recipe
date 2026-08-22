@@ -158,6 +158,16 @@ if (!robotsRoute.includes("User-agent: *") || !robotsRoute.includes("sitemap-ind
   process.exit(1);
 }
 
+if (!robotsRoute.includes("Disallow: /*?ingredients=") || !robotsRoute.includes("Disallow: /*?preferences=")) {
+  console.error("robots.txt must disallow fridge tool query-string URLs.");
+  process.exit(1);
+}
+
+if (!fridgePage.includes('robots={hasQueryState ? "noindex, follow" : undefined}')) {
+  console.error("FridgeToolPage must noindex query-string result states.");
+  process.exit(1);
+}
+
 const sitemapPages = read("src/pages/sitemap-pages.xml.ts");
 if (sitemapPages.includes("/404/") || sitemapPages.includes('"/404"')) {
   console.error("sitemap-pages.xml.ts must not list 404 error pages.");
@@ -509,7 +519,7 @@ const pageExpectations = [
   },
   {
     file: "src/pages/ingredients/[slug].astro",
-    markers: ["用這個食材還能做", "buildDefinedTermJsonLd"]
+    markers: ["用這個食材還能做", "buildDefinedTermJsonLd", "buildIngredientIntro", "formatIngredientRecipesLead"]
   },
   {
     file: "src/pages/about.astro",

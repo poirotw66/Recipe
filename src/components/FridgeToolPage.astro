@@ -15,6 +15,8 @@ const recipesPath = localePath(locale, "/recipes");
 const ingredientsPath = localePath(locale, "/ingredients");
 const scenariosPath = localePath(locale, "/scenarios");
 const quickLinks = toolData.quickIngredients.slice(0, 3);
+const hasQueryState =
+  Astro.url.searchParams.has("ingredients") || Astro.url.searchParams.has("preferences");
 ---
 
 <BaseLayout
@@ -23,6 +25,7 @@ const quickLinks = toolData.quickIngredients.slice(0, 3);
   canonicalPath={canonical}
   locale={locale}
   alternatePath="/tools/fridge-recipe"
+  robots={hasQueryState ? "noindex, follow" : undefined}
 >
   <section class="section">
     <div class="container tool-layout">
@@ -94,12 +97,9 @@ const quickLinks = toolData.quickIngredients.slice(0, 3);
             <p data-no-result-copy>{t(locale, "fridge.noResultsHint")}</p>
             <div class="chip-row" data-no-result-actions>
               {quickLinks.map((label) => (
-                <a
-                  class="chip note"
-                  href={`${canonical}?ingredients=${encodeURIComponent(label)}#fridge-results`}
-                >
+                <button class="chip note" type="button" data-fridge-quick-search={label}>
                   {label}
-                </a>
+                </button>
               ))}
               <a class="chip note" href={recipesPath}>{t(locale, "fridge.browseAll")}</a>
             </div>

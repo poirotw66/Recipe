@@ -7,13 +7,15 @@ import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { localesWithVisibleIngredient } from "../../lib/recipe-locale";
 import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd } from "../../lib/seo";
 import {
+  buildIngredientIntro,
+  formatIngredientRecipesLead,
   getIngredientBySlug,
-  getIngredientDescription,
   getIngredientStorage,
   getRecipesByIngredient,
   getScenarioBySlug,
   getVisibleIngredients,
-  ingredientItems
+  ingredientRecipesLinkSeparator,
+  ingredientRecipesLinkSuffix
 } from "../../lib/taxonomy";
 
 export async function getStaticPaths() {
@@ -38,7 +40,10 @@ if (!ingredient) {
 
 const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
 const alternateLocales = await localesWithVisibleIngredient(slug);
-const relatedRecipes = getRecipesByIngredient(recipes, ingredient.slug).slice(0, 3);
+const relatedRecipeEntries = getRecipesByIngredient(recipes, ingredient.slug);
+const relatedRecipes = relatedRecipeEntries.slice(0, 6);
+const recipeCount = relatedRecipeEntries.length;
+const ingredientIntro = buildIngredientIntro(ingredient, "zh-TW", recipeCount);
 const relatedScenarios = ingredient.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
@@ -63,7 +68,7 @@ const relatedRecipeListJsonLd =
 
 <BaseLayout
   title={`${ingredient.name} 食材料理`}
-  description={`${getIngredientDescription(ingredient, "zh-TW")} 這裡整理保存方式、營養資訊、搭配建議與相關食譜入口。`}
+  description={ingredientIntro}
   canonicalPath={`/ingredients/${ingredient.slug}/`}
   alternatePath={`/ingredients/${ingredient.slug}`}
   alternateLocales={alternateLocales}
@@ -85,7 +90,7 @@ const relatedRecipeListJsonLd =
         <div>
           <p class="eyebrow">{ingredient.category}</p>
           <h1 class="page-title">{ingredient.name}</h1>
-          <p class="page-copy">{getIngredientDescription(ingredient, "zh-TW")}</p>
+          <p class="page-copy">{ingredientIntro}</p>
           <div class="chip-row">
             {ingredient.aliases.map((alias) => <span class="chip note">{alias}</span>)}
           </div>
@@ -130,6 +135,18 @@ const relatedRecipeListJsonLd =
       <section class="section section-compact">
         <p class="eyebrow">用這個食材還能做</p>
         <h2>相關食譜</h2>
+        {relatedRecipeEntries.length > 0 && (
+          <p class="page-copy">
+            {formatIngredientRecipesLead("zh-TW", ingredient.name, relatedRecipes.length, recipeCount)}
+            {relatedRecipes.map((recipe, index) => (
+              <>
+                {index > 0 ? ingredientRecipesLinkSeparator("zh-TW") : " "}
+                <a href={`/recipes/${recipe.slug}/`}>{recipe.data.title}</a>
+              </>
+            ))}
+            {ingredientRecipesLinkSuffix("zh-TW", recipeCount, relatedRecipes.length)}
+          </p>
+        )}
         <div class="grid">
           {relatedRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
         </div>
