@@ -6,7 +6,7 @@ import { localePath, t } from "../../../lib/i18n";
 import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
 import { listRecipesForLocale, localesWithVisibleIngredient } from "../../../lib/recipe-locale";
 import { sortRecipesByPublishedDate } from "../../../lib/recipes";
-import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd } from "../../../lib/seo";
+import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd, truncateMetaDescription } from "../../../lib/seo";
 import {
   buildIngredientIntro,
   formatIngredientRecipesLead,
@@ -64,7 +64,7 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: t(locale, "nav.ingredients"), path: localePath(locale, "/ingredients") },
   { name: ingredientName, path: canonical }
 ]);
-const ingredientJsonLd = buildDefinedTermJsonLd(ingredient);
+const ingredientJsonLd = buildDefinedTermJsonLd(ingredient, ingredientIntro);
 const relatedRecipeListJsonLd =
   relatedRecipes.length > 0
     ? buildItemListJsonLd(
@@ -80,7 +80,7 @@ const relatedRecipeListJsonLd =
 
 <BaseLayout
   title={`${ingredientName} ${t(locale, "nav.ingredients")}`}
-  description={ingredientIntro}
+  description={truncateMetaDescription(ingredientIntro)}
   canonicalPath={canonical}
   alternatePath={`/ingredients/${ingredient.slug}`}
   alternateLocales={alternateLocales}

@@ -8,6 +8,7 @@
     ],
     "category": "蛋類",
     "description": "雞蛋是最常見也最好用的家常食材，適合快炒、蒸煮、拌飯與便當菜。",
+    "intro": "選購時以殼面完整、無裂痕為佳，回家後請冷藏保存，盡量避開冰箱門邊溫度變化大的位置。雞蛋是台灣小廚房最順手的蛋白質來源，適合快炒、蒸蛋、拌飯與便當配菜，搭配豆腐、番茄或青蔥就能快速完成一餐。Bloom Kitchen 收錄多道以雞蛋為主角的家常食譜，從十分鐘料理到清冰箱菜都有。",
     "caloriesPer100g": 155,
     "proteinPer100g": 13,
     "fatPer100g": 11,
@@ -44,14 +45,17 @@
     "localeCopy": {
       "en": {
         "description": "Eggs are one of the most versatile home-cooking staples, perfect for stir-fries, steamed dishes, rice bowls, and lunch boxes.",
+        "intro": "Choose eggs with intact shells and no cracks, then keep them refrigerated away from the fridge door where temperatures swing the most. Eggs are an easy protein for stir-fries, steamed custards, rice bowls, and lunch-box sides—pair them with tofu, tomato, or scallions for a quick meal. Bloom Kitchen has many egg-forward home recipes, from ten-minute dishes to fridge-cleanout ideas.",
         "storage": "Keep refrigerated and avoid the fridge door, where temperatures fluctuate the most."
       },
       "ja": {
         "description": "卵は家庭料理で最も使いやすい定番食材の一つで、炒め物、蒸し物、ご飯もの、お弁当に幅広く使えます。",
+        "intro": "殻にひびがなく、形が整ったものを選び、冷蔵庫のドア付近を避けて冷蔵保存しましょう。卵は炒め物、茶碗蒸し、ご飯もの、お弁当の副菜に向き、豆腐やトマト、ネギと合わせれば手早く一食が完成します。Bloom Kitchen には卵を主役にした家庭料理レシピが複数あり、10分メニューから冷蔵庫整理料理まで幅広く掲載しています。",
         "storage": "冷蔵保存し、温度変化の大きいドアポケットは避けてください。"
       },
       "ko": {
         "description": "달걀은 가장 흔하고 활용도가 높은 집밥 재료로, 볶음, 찜, 덮밥, 도시락 반찬에 두루 잘 어울립니다.",
+        "intro": "껍질에 금이 없고 모양이 온전한 달걀을 고른 뒤, 온도 변화가 큰 냉장고 문 쪽을 피해 냉장 보관하세요. 달걀은 볶음, 찜, 덮밥, 도시락 반찬에 잘 맞는 단백질 재료로, 두부·토마토·파와 함께 쓰면 빠르게 한 끼를 만들 수 있습니다. Bloom Kitchen에는 달걀을 주재료로 한 집밥 레시피가 여러 가지 있어 10분 요리부터 냉장고 털기 메뉴까지 폭넓게 찾아볼 수 있습니다.",
         "storage": "냉장 보관하고, 온도 변화가 큰 냉장고 문 쪽은 피하세요."
       }
     }
@@ -65,6 +69,7 @@
     ],
     "category": "豆製品",
     "description": "豆腐價格親切、用途廣，特別適合一人料理與高蛋白家常菜。",
+    "intro": "板豆腐適合煎炒、嫩豆腐適合湯品與蒸菜，選購時看包裝日期與質地即可。開封後請改以清水浸泡並冷藏，建議在一到兩天內用完，風味最穩定。豆腐價格親切又飽足，特別適合一人份高蛋白家常菜。Bloom Kitchen 有多道豆腐快炒、滷製與清冰箱食譜，方便你依手邊食材快速開伙。",
     "caloriesPer100g": 76,
     "proteinPer100g": 8,
     "fatPer100g": 4.8,
@@ -100,14 +105,17 @@
     "localeCopy": {
       "en": {
         "description": "Tofu is affordable and versatile, making it especially useful for cooking for one and protein-rich home meals.",
+        "intro": "Firm tofu works well for pan-frying and stir-fries, while soft tofu suits soups and steamed dishes—check the pack date and texture when you buy. After opening, store tofu in clean water in the fridge and use it within one to two days for the best flavor. It is budget-friendly and filling for solo high-protein meals. Bloom Kitchen offers stir-fry, braised, and fridge-cleanout tofu recipes you can adapt to what you already have.",
         "storage": "After opening, keep tofu refrigerated in clean water and finish it within 1 to 2 days for the best flavor."
       },
       "ja": {
         "description": "豆腐は手頃で使い道が広く、一人分の料理や高タンパクの家庭料理に特に便利です。",
+        "intro": "木綿豆腐は炒めや焼き向き、絹ごし豆腐は汁物や蒸し物に向きます。購入時は賞味期限と固さを確認しましょう。開封後は清水に浸して冷蔵し、1〜2日で使い切ると風味が安定します。豆腐は手頃で満足感もあるため、一人分の高タンパク料理に最適です。Bloom Kitchen には炒め物、煮物、冷蔵庫整理向けの豆腐レシピが複数あります。",
         "storage": "開封後は清水に浸して冷蔵し、風味が安定しているうちに1〜2日で使い切るのがおすすめです。"
       },
       "ko": {
         "description": "두부는 가격 부담이 적고 활용 범위가 넓어 1인 요리와 고단백 집밥에 특히 잘 맞습니다.",
+        "intro": "단단한 두부는 볶음·구이에, 부드러운 두부는 국·찜에 잘 어울립니다. 구매할 때는 포장 날짜와 질감을 확인하세요. 개봉 후에는 깨끗한 물에 담아 냉장 보관하고 1~2일 안에 먹으면 맛이 가장 안정적입니다. 두부는 부담 없이 든든한 1인 고단백 식사에 좋습니다. Bloom Kitchen에는 볶음, 조림, 냉장고 털기용 두부 레시피가 여러 가지 있습니다.",
         "storage": "개봉 후에는 깨끗한 물에 담가 냉장 보관하고, 맛이 가장 안정적인 1~2일 안에 먹는 것이 좋습니다."
       }
     }
@@ -122,6 +130,7 @@
     ],
     "category": "肉類",
     "description": "牛肉蛋白質高、風味濃，適合快炒、燴飯、簡易湯品與煎烤主菜的一人份料理。",
+    "intro": "選購牛肉時，薄片或絞肉適合快炒便當，厚片則可做煎烤主菜；冷藏請在一兩天內料理，若要囤貨可小分冷凍保存。家常用法從洋蔥快炒、燴飯到簡易湯品都很實用，一人份份量也好拿捏。Bloom Kitchen 整理了多道一人份牛肉食譜，從便當到高蛋白主菜都能直接開做。",
     "caloriesPer100g": 250,
     "proteinPer100g": 26,
     "fatPer100g": 15,
@@ -157,14 +166,17 @@
     "localeCopy": {
       "en": {
         "description": "Beef brings rich flavor and solid protein, making it great for stir-fries, rice bowls, easy soups, and pan-seared meals for one.",
+        "intro": "For beef, thin slices or ground meat work well in quick stir-fries and lunch boxes, while thicker cuts suit pan-seared mains. Cook refrigerated beef within a day or two, or freeze in portions for later. At home it shines with onions, rice bowls, and simple soups. Bloom Kitchen has many one-serving beef recipes, from bento-friendly dishes to high-protein mains.",
         "storage": "Use refrigerated beef within 1 to 2 days, or portion and freeze it for longer storage."
       },
       "ja": {
         "description": "牛肉は旨みが強くタンパク質も豊富で、炒め物、丼、簡単なスープ、焼き物の一人分料理に向いています。",
+        "intro": "牛肉は薄切りや挽肉なら炒めや弁当向き、厚切りは焼き物の主菜に。冷蔵は1〜2日以内に使い、まとめ買いは小分け冷凍が安心です。玉ねぎ炒め、丼、簡単なスープなど家庭料理に幅広く使えます。Bloom Kitchen には一人分の牛肉レシピが揃っています。",
         "storage": "冷蔵なら1〜2日以内に使い、長く保存したい場合は小分けして冷凍してください。"
       },
       "ko": {
         "description": "소고기는 풍미가 진하고 단백질이 많아 볶음, 덮밥, 간단한 국물, 구이 한 끼 메뉴에 잘 어울립니다.",
+        "intro": "소고기는 얇게 썬 고기나 다진 고기는 볶음·도시락에, 두꺼운 부위는 구이 메인에 잘 맞습니다. 냉장은 1~2일 안에 조리하고, 미리 준비하려면 소분해 냉동하세요. 양파 볶음, 덮밥, 간단한 국물 등 집밥에 폭넓게 씁니다. Bloom Kitchen에는 1인분 소고기 레시피가 모여 있습니다.",
         "storage": "냉장 보관한 소고기는 1~2일 안에 조리하고, 더 오래 보관하려면 소분해 냉동하세요."
       }
     }
@@ -180,6 +192,7 @@
     ],
     "category": "肉類",
     "description": "雞胸肉是高蛋白、低負擔的主蛋白來源，適合便當菜與減脂料理。",
+    "intro": "選購時以色澤淡粉、觸感彈性佳者為佳，冷藏約可保存兩天，當日不煮建議分裝冷凍。雞胸肉是高蛋白、低負擔的主菜選擇，適合煎烤、氣炸或與青花菜、菇類搭配做便當與減脂餐。Bloom Kitchen 有多道雞胸食譜，涵蓋氣炸、快炒與備餐便當，幫你輕鬆安排一週菜單。",
     "caloriesPer100g": 165,
     "proteinPer100g": 31,
     "fatPer100g": 3.6,
@@ -215,14 +228,17 @@
     "localeCopy": {
       "en": {
         "description": "Chicken breast is a lean, high-protein staple that works well for lunch boxes and lighter everyday meals.",
+        "intro": "Look for pale pink color and firm, springy texture. It keeps in the fridge for about two days; if you will not cook it the same day, freeze it in portions. Chicken breast is a lean main protein for grilling, air-frying, or pairing with broccoli and mushrooms in bento and lighter meals. Bloom Kitchen has air-fryer, stir-fry, and meal-prep chicken breast recipes to help you plan the week.",
         "storage": "Keep refrigerated for up to 2 days, and freeze in portions if you will not cook it the same day."
       },
       "ja": {
         "description": "鶏むね肉は高タンパクで軽く食べやすい定番食材で、お弁当や軽めの食事に向いています。",
+        "intro": "淡いピンク色で弾力のあるものを選び、冷蔵では約2日保存できます。当日使わない場合は小分けして冷凍しましょう。鶏むね肉は高タンパクで軽い主菜に向き、焼く・フライパン炒め・エアフライヤー調理や、ブロッコリー・きのこと合わせたお弁当にも便利です。Bloom Kitchen にはエアフライヤー、炒め物、作り置き向けの鶏むねレシピが複数あります。",
         "storage": "冷蔵で2日ほど保存でき、当日使わない場合は小分けして冷凍するのがおすすめです。"
       },
       "ko": {
         "description": "닭가슴살은 고단백이면서 부담이 적은 대표 단백질 재료로, 도시락과 가벼운 식사에 잘 맞습니다.",
+        "intro": "연한 분홍색에 탄력이 있는 닭가슴살을 고르고, 냉장으로는 약 2일 보관할 수 있습니다. 당일 조리하지 않을 경우 소분해 냉동하세요. 닭가슴살은 구이, 에어프라이어, 볶음 등에 잘 맞는 고단백 주재료로, 브로콜리·버섯과 함께 도시락이나 가벼운 식사를 만들기 좋습니다. Bloom Kitchen에는 에어프라이어, 볶음, 밀프렙용 닭가슴살 레시피가 여러 가지 있습니다.",
         "storage": "냉장으로는 2일 정도 보관 가능하며, 당일 조리하지 않을 경우 소분해 냉동하는 것이 좋습니다."
       }
     }
@@ -236,6 +252,7 @@
     ],
     "category": "蔬菜",
     "description": "番茄有酸甜感，能快速替家常菜建立味道與濕潤度。",
+    "intro": "買番茄可挑表皮光滑、蒂頭新鮮且略帶彈性的，偏硬可先室溫催熟再冷藏，切記別壓傷以免出水變軟。炒蛋、燉豆腐或拌飯都能用自然酸甜汁水開味，十分鐘料理特別順手又好用。Bloom Kitchen 有多道番茄家常食譜，從清冰箱到一人晚餐都好找、好開做。",
     "caloriesPer100g": 18,
     "proteinPer100g": 0.9,
     "fatPer100g": 0.2,
@@ -270,14 +287,17 @@
     "localeCopy": {
       "en": {
         "description": "Tomatoes add acidity, sweetness, and moisture, helping simple home dishes come together quickly.",
+        "intro": "Choose tomatoes with smooth skin and fresh stems; firmer ones can ripen at room temperature before chilling, and handle them gently to avoid bruises. They brighten scrambled eggs, simmered tofu, and rice bowls with juicy acidity, especially in ten-minute meals. Bloom Kitchen offers plenty of tomato-forward home recipes, from fridge-cleanout dishes to solo dinners.",
         "storage": "Refrigerate once ripe and avoid bruising; for better flavor, let tomatoes sit at room temperature before chilling."
       },
       "ja": {
         "description": "トマトは酸味と甘み、水分を加えてくれるので、家庭料理の味を手早く整えやすい食材です。",
+        "intro": "表皮がなめらかでヘタが新鮮なものを選び、硬めなら室温で追熟してから冷蔵しましょう。傷つけない保存も大切です。卵炒め、豆腐煮、ご飯混ぜなど酸味で味を整えやすく、10分メニューにも向きます。Bloom Kitchen にはトマトを使った家庭向けレシピが揃っています。",
         "storage": "熟したら冷蔵し、傷つけないように保存します。風味を残したいときは室温に置いてから冷蔵してください。"
       },
       "ko": {
         "description": "토마토는 산미와 단맛, 촉촉함을 더해 간단한 집밥의 맛을 빠르게 잡아 주는 재료입니다.",
+        "intro": "표면이 매끈하고 줄기가 싱싱한 토마토를 고르고, 단단하면 실온에서 익힌 뒤 냉장하세요. 눌리지 않게 다루는 것도 중요합니다. 계란볶음, 두부 요리, 밥 비벼 먹기 등 산미로 맛을 빠르게 잡을 수 있어 10분 요리에도 잘 맞습니다. Bloom Kitchen에는 토마토 집밥 레시피가 모여 있습니다.",
         "storage": "익은 뒤에는 냉장 보관하고 눌리지 않게 두세요. 풍미를 살리고 싶다면 잠시 실온에 두었다가 냉장하세요."
       }
     }
@@ -292,6 +312,7 @@
     ],
     "category": "主食",
     "description": "義大利麵是快煮又耐放的主食，適合蒜香、番茄或奶香醬汁的一人份晚餐。",
+    "intro": "選購時看包裝完整、麵條無破損變色；未開封放陰涼乾燥處，開封後務必密封防潮，才能維持彈牙口感。義大利麵煮法快、醬汁變化多，蒜香、番茄或奶油醬都適合一人在家快速開飯，尤其適合忙碌平日。Bloom Kitchen 也收錄多道義大利麵食譜，是預算有限又想兼顧風味的可靠主食選擇。",
     "caloriesPer100g": 131,
     "proteinPer100g": 5,
     "fatPer100g": 1.1,
@@ -326,14 +347,17 @@
     "localeCopy": {
       "en": {
         "description": "Pasta is quick to cook and easy to store, making it a dependable base for garlic, tomato, or creamy one-person dinners.",
+        "intro": "Choose pasta with intact packaging and unbroken strands. Store unopened boxes in a cool, dry place, and seal opened packages tightly to keep the noodles from getting soft. Pasta cooks fast and takes many sauces well—garlic, tomato, and cream are all easy wins for a solo weeknight meal. Bloom Kitchen also collects several pasta recipes, making it a reliable staple when you want something quick and budget-friendly.",
         "storage": "Store unopened pasta in a cool, dry place; once opened, seal it tightly to keep out moisture."
       },
       "ja": {
         "description": "パスタは調理が早く保存もしやすいため、にんにく、トマト、クリーム系の一人分夕食に便利な主食です。",
+        "intro": "選ぶときは包装がきちんとして麺が折れていないものを。未開封は冷暗所、開封後は湿気を避けてしっかり密封すると、茹で上がりの歯ごたえを保てます。調理が早くソースの幅も広いので、にんにく、トマト、クリーム系は忙しい平日の一人分夕食に向いています。Bloom Kitchen でも複数のパスタレシピを掲載しているので、手早くてコストを抑えたいときの頼れる主食です。",
         "storage": "未開封は冷暗所、開封後は湿気を避けてしっかり密封して保存してください。"
       },
       "ko": {
         "description": "파스타는 빨리 익고 보관도 쉬워 마늘, 토마토, 크림 소스 계열의 1인 저녁에 쓰기 좋은 주식입니다.",
+        "intro": "고를 때는 포장이 온전하고 면이 부러지지 않은 것을 선택하세요. 개봉 전에는 서늘하고 건조한 곳에 두고, 개봉 후에는 밀봉해 습기를 막아야 쫄깃한 식감을 유지할 수 있습니다. 파스타는 조리가 빠르고 소스 변주도 많아 마늘, 토마토, 크림 소스 모두 1인 저녁에 잘 맞습니다. Bloom Kitchen에도 여러 파스타 레시피가 있어, 바쁜 평일에 빠르고 부담 적게 식사를 마치고 싶을 때 믿고 쓸 주식입니다.",
         "storage": "개봉 전에는 서늘하고 건조한 곳에 두고, 개봉 후에는 밀봉해 습기를 피하세요."
       }
     }
@@ -511,6 +535,7 @@
     ],
     "category": "主食",
     "description": "白飯是最常見的主食基底，也很適合延伸成快炒飯、拌飯與便當。",
+    "intro": "新米與隔夜飯各有用途：現煮白飯適合作為主餐基底，剩飯則最適合快炒成炒飯。煮熟後請放涼再冷藏，並在一天內回鍋，風味與口感最佳。白飯可延伸成拌飯、便當或與雞蛋、番茄、雞胸肉快速組合。Bloom Kitchen 收錄多道以白飯為起點的一人料理與便當食譜，方便你清冰箱也能吃得飽足。",
     "caloriesPer100g": 130,
     "proteinPer100g": 2.7,
     "fatPer100g": 0.3,
@@ -545,14 +570,17 @@
     "localeCopy": {
       "en": {
         "description": "Cooked rice is one of the most dependable staples and works well for fried rice, rice bowls, and lunch boxes.",
+        "intro": "Freshly cooked rice and day-old rice each have a role: new rice is a reliable base for main meals, while leftovers are ideal for fried rice. Let cooked rice cool before refrigerating and reheat it within a day for the best texture. Rice stretches into rice bowls, bento, or quick combos with eggs, tomato, and chicken breast. Bloom Kitchen has solo and lunch-box recipes that start from cooked rice, even when you are clearing the fridge.",
         "storage": "Let cooked rice cool before refrigerating, and reheat it within a day for the best texture and flavor."
       },
       "ja": {
         "description": "ご飯は最も定番の主食で、炒飯、丼、お弁当など幅広い料理の土台になります。",
+        "intro": "炊きたてご飯と余りご飯は使い分けが便利で、新米は主菜の土台に、余りご飯は炒飯向きです。炊いたご飯は冷ましてから冷蔵し、1日以内に温め直すと風味と食感が保ちやすいです。ご飯は丼、お弁当、卵・トマト・鶏むね肉との組み合わせにも広がります。Bloom Kitchen にはご飯を起点にした一人分料理やお弁当レシピが複数あります。",
         "storage": "炊いたご飯は冷ましてから冷蔵し、1日以内に温め直すと風味が保ちやすいです。"
       },
       "ko": {
         "description": "밥은 가장 기본이 되는 주식으로, 볶음밥, 덮밥, 도시락까지 다양하게 활용할 수 있습니다.",
+        "intro": "갓 지은 밥과 남은 밥은 용도가 다릅니다. 새 밥은 주식 베이스로, 남은 밥은 볶음밥에 잘 맞습니다. 지은 밥은 식힌 뒤 냉장 보관하고 하루 안에 다시 데우면 맛과 식감이 가장 좋습니다. 밥은 덮밥, 도시락, 달걀·토마토·닭가슴살과 빠르게 조합할 수 있습니다. Bloom Kitchen에는 밥을 출발점으로 한 1인 요리와 도시락 레시피가 여러 가지 있습니다.",
         "storage": "지은 밥은 식힌 뒤 냉장 보관하고, 하루 안에 다시 데워 먹는 것이 맛과 식감이 좋습니다."
       }
     }
@@ -623,6 +651,7 @@
     ],
     "category": "蔬菜",
     "description": "菇類能補足鮮味，常用在便當菜、電鍋料理和減脂菜色。",
+    "intro": "選購時挑表面乾爽、菌柄硬挺且無黏液或異味的菇類；冷藏時用紙巾吸乾後裝在通風的紙袋或保鮮盒，避免悶住出水而口感變軟。家常適合快炒、電鍋燉煮或與雞胸肉同煮增加鮮味，也是便當與減脂菜色的常用配料。Bloom Kitchen 收錄多道菇類食譜，方便你清冰箱時快速上桌。",
     "caloriesPer100g": 22,
     "proteinPer100g": 3.1,
     "fatPer100g": 0.3,
@@ -657,14 +686,17 @@
     "localeCopy": {
       "en": {
         "description": "Mushrooms deepen savory flavor and show up often in lunch boxes, electric-pot meals, and lighter dishes.",
+        "intro": "Choose mushrooms that feel dry and firm, with no slimy film or off smell. Pat them dry, then store them in a ventilated paper bag or container so they do not sweat and turn soft. At home, they are great in quick stir-fries, electric-pot stews, or cooked with chicken breast for extra savor. Bloom Kitchen also lists several mushroom recipes, which makes them an easy way to use up what is in the fridge.",
         "storage": "Keep mushrooms refrigerated and dry, since trapped moisture will make them release water and lose texture."
       },
       "ja": {
         "description": "きのこはうま味を補いやすく、お弁当、電気鍋料理、軽めの献立によく使われます。",
+        "intro": "選ぶときは表面が乾いて茎がしっかりし、ねばつきや異臭がないものを。水気を拭き取り、通気のよい紙袋か保存容器に入れて冷蔵し、蒸れて水が出ないようにしてください。家庭では炒め物、電気鍋の煮込み、鶏むね肉との合わせ煮でうま味を足しやすく、お弁当や軽めの献立にも向きます。Bloom Kitchen でも複数のきのこレシピを掲載しているので、冷蔵庫整理のときにすぐ使えます。",
         "storage": "冷蔵しつつ乾いた状態を保ち、水気がこもって食感が落ちないようにしてください。"
       },
       "ko": {
         "description": "버섯은 감칠맛을 더해 주어 도시락 반찬, 전기냄비 요리, 가벼운 식단에 자주 쓰입니다.",
+        "intro": "고를 때는 표면이 건조하고 줄기가 단단하며 끈적임이나 이상한 냄새가 없는 것을 선택하세요. 키친타월로 물기를 닦은 뒤 통풍이 되는 종이봉투나 용기에 넣어 냉장하면, 습기가 차서 물이 생기는 것을 줄일 수 있습니다. 집에서는 볶음, 전기냄비 찜, 닭가슴살과 함께 끓여 감칠맛을 더하기 좋고 도시락이나 가벼운 식단에도 자주 쓰입니다. Bloom Kitchen에도 여러 버섯 레시피가 있어 냉장고 정리 때 빠르게 활용하기 좋습니다.",
         "storage": "냉장 보관하되 건조하게 유지하세요. 수분이 차면 물이 생기고 식감이 떨어집니다."
       }
     }
@@ -679,6 +711,7 @@
     ],
     "category": "蔬菜",
     "description": "青花菜常出現在便當菜與減脂料理，能補足纖維和份量感。",
+    "intro": "挑選時花冠緊密、莖部硬挺且色澤翠綠的青花菜較耐放；冷藏前保持乾燥、料理前再清洗，可減少出水與莖部變黃。家常適合清燙、氣炸或與雞胸肉同炒做成便當主菜，也是減脂餐的常用配菜。Bloom Kitchen 也收錄多道青花菜食譜，幫你輕鬆補足纖維與飽足感。",
     "caloriesPer100g": 35,
     "proteinPer100g": 2.8,
     "fatPer100g": 0.4,
@@ -714,14 +747,17 @@
     "localeCopy": {
       "en": {
         "description": "Broccoli is a favorite in lunch boxes and lighter meals because it adds fiber, color, and satisfying volume.",
+        "intro": "Look for broccoli with tight florets, firm stems, and bright green color. Keep it dry in the refrigerator and wash it just before cooking so it holds up longer and the stems stay fresh. At home, blanching, air-frying, or stir-frying it with chicken breast makes an easy lunch-box main, and it is a common side in lighter meals. Bloom Kitchen also lists several broccoli recipes to help you add fiber and filling volume without much fuss.",
         "storage": "Keep broccoli dry in the refrigerator, and wash it only before cooking to help it last longer."
       },
       "ja": {
         "description": "ブロッコリーは食物繊維とボリューム感を足しやすく、お弁当や軽めの食事によく合います。",
+        "intro": "選ぶときは房が固く、茎がしっかりし、色が鮮やかな緑のものが日持ちしやすいです。冷蔵中は乾いた状態を保ち、洗うのは調理直前にすると水が出にくく、茎の黄ばみも抑えやすくなります。家庭では下茹で、エアフライヤー、鶏むね肉との炒め合わせがお弁当の主菜にも向き、軽めの献立の定番野菜です。Bloom Kitchen でも複数のブロッコリーレシピを掲載しているので、食物繊維と満足感を無理なく足せます。",
         "storage": "冷蔵中は乾いた状態を保ち、洗うのは調理直前にすると長持ちしやすくなります。"
       },
       "ko": {
         "description": "브로콜리는 식이섬유와 푸짐한 느낌을 더해 주어 도시락과 가벼운 식사에 자주 쓰입니다.",
+        "intro": "고를 때는 송이가 촘촘하고 줄기가 단단하며 색이 선명한 녹색인 브로콜리가 오래 갑니다. 냉장할 때는 건조하게 두고, 씻는 것은 조리 직전에 하면 물기가 덜 나와 줄기 변색도 줄일 수 있습니다. 집에서는 데치기, 에어프라이어, 닭가슴살과의 볶음이 도시락 메인으로도 좋고 가벼운 식단의 기본 반찬으로도 자주 쓰입니다. Bloom Kitchen에도 여러 브로콜리 레시피가 있어 식이섬유와 포만감을 쉽게 더할 수 있습니다.",
         "storage": "냉장 보관할 때는 물기를 최대한 줄이고, 씻는 것은 조리 직전에 하는 편이 더 오래 갑니다."
       }
     }
@@ -735,6 +771,7 @@
     ],
     "category": "蔬菜",
     "description": "高麗菜耐放又好搭，適合快炒、湯煮與清冰箱料理。",
+    "intro": "挑選時以葉片緊實、色澤新鮮為佳，整顆包保鮮膜冷藏可放較久；切開後請先包好並在三天內用完。高麗菜耐放又好搭，適合快炒、燉湯或與雞蛋、蒜頭、菇類一起做清冰箱料理。Bloom Kitchen 收錄多道高麗菜家常菜，從簡單小炒到便當配菜都能找到靈感。",
     "caloriesPer100g": 25,
     "proteinPer100g": 1.3,
     "fatPer100g": 0.1,
@@ -769,14 +806,17 @@
     "localeCopy": {
       "en": {
         "description": "Cabbage stores well and pairs with almost anything, making it a dependable choice for stir-fries, soups, and fridge-cleanout meals.",
+        "intro": "Choose heads with tight, fresh-looking leaves. A whole cabbage keeps well wrapped in the fridge; once cut, wrap it and use it within about three days. Cabbage is great for stir-fries, soups, or fridge-cleanout dishes with eggs, garlic, and mushrooms. Bloom Kitchen has many cabbage home recipes, from simple stir-fries to lunch-box sides.",
         "storage": "A whole cabbage keeps well in the refrigerator; once cut, wrap it and use it within about 3 days."
       },
       "ja": {
         "description": "キャベツは日持ちしやすく合わせやすいため、炒め物、スープ、冷蔵庫整理メニューに便利です。",
+        "intro": "葉がしっかり締まり、色が新鮮なものを選びましょう。丸ごとはラップで包んで冷蔵すれば比較的長持ちします。切った後は包んで3日ほどで使い切るのがおすすめです。キャベツは炒め物、スープ、卵・にんにく・きのこと合わせた冷蔵庫整理料理に向きます。Bloom Kitchen には簡単な炒め物からお弁当の副菜まで、キャベツを使った家庭料理レシピが複数あります。",
         "storage": "丸ごとなら冷蔵で比較的長持ちします。切った後は包んで、3日ほどで使い切るのがおすすめです。"
       },
       "ko": {
         "description": "양배추는 오래 두기 쉽고 어디에나 잘 어울려 볶음, 국물, 냉장고 털기 요리에 좋은 기본 채소입니다.",
+        "intro": "잎이 단단하고 색이 선명한 양배추를 고르세요. 통째로는 랩에 싸 냉장 보관하면 비교적 오래 갑니다. 자른 뒤에는 잘 감싸 3일 안에 쓰는 것이 좋습니다. 양배추는 볶음, 국물, 달걀·마늘·버섯과 함께하는 냉장고 털기 요리에 잘 맞습니다. Bloom Kitchen에는 간단한 볶음부터 도시락 반찬까지 양배추를 활용한 집밥 레시피가 여러 가지 있습니다.",
         "storage": "통째로는 냉장 보관 시 비교적 오래 가고, 자른 뒤에는 잘 감싸서 3일 안에 쓰는 것이 좋습니다."
       }
     }
@@ -790,6 +830,7 @@
     ],
     "category": "蔬菜",
     "description": "洋蔥能提供甜味和香氣，是平底鍋快炒、氣炸鍋與湯品的常見底味。",
+    "intro": "洋蔥挑外皮乾爽、手感沉的較耐放，整顆放陰涼通風處即可；切半後記得包保鮮膜冷藏並儘快用完，避免潮氣跑掉甜味。切絲快炒、氣炸配菜或當湯品底味，都能帶出自然甜味與香氣。Bloom Kitchen 收錄多道以洋蔥入味的家常食譜，快手晚餐也很好安排。",
     "caloriesPer100g": 40,
     "proteinPer100g": 1.1,
     "fatPer100g": 0.1,
@@ -824,14 +865,17 @@
     "localeCopy": {
       "en": {
         "description": "Onions bring sweetness and aroma, making them a strong flavor base for skillet dishes, air fryer meals, and soups.",
+        "intro": "Pick onions with dry, tight skins and a heavy feel for better keeping; store whole ones in a ventilated spot. Once cut, wrap and refrigerate them, then use them soon before they lose moisture. Sliced onions work well in quick stir-fries, air-fryer sides, and soup bases that build natural sweetness. Bloom Kitchen has many home-style recipes built around onions for easy weeknight cooking.",
         "storage": "Store whole onions in a cool, ventilated place; refrigerate cut onions and use them soon."
       },
       "ja": {
         "description": "玉ねぎは甘みと香りを出してくれるので、フライパン料理、エアフライヤー料理、スープの土台に向いています。",
+        "intro": "外皮が乾いて重みのある玉ねぎは日持ちしやすく、丸ごと風通しのよい場所で保存できます。切ったらラップして冷蔵し、早めに使いましょう。千切り炒め、エアフライヤー副菜、スープの土台など甘みを活かせます。Bloom Kitchen には玉ねぎを使った家庭向けレシピが揃っています。",
         "storage": "丸ごとは風通しのよい冷暗所で保存し、切った後は冷蔵して早めに使ってください。"
       },
       "ko": {
         "description": "양파는 단맛과 향을 더해 팬 요리, 에어프라이어 요리, 국물 요리의 바탕 맛을 잡아 줍니다.",
+        "intro": "껍질이 건조하고 무게감 있는 양파가 오래 가며, 통째로는 통풍이 되는 곳에 두면 됩니다. 자른 뒤에는 랩을 씌워 냉장해 빨리 쓰세요. 채 썰어 볶거나 에어프라이어 반찬, 국물 바탕 등 단맛을 살리기 좋습니다. Bloom Kitchen에는 양파를 활용한 집밥 레시피가 모여 있습니다.",
         "storage": "통양파는 서늘하고 통풍이 되는 곳에 두고, 자른 양파는 냉장 보관 후 빨리 사용하세요."
       }
     }
@@ -954,6 +998,7 @@
     ],
     "category": "辛香料",
     "description": "蒜頭能快速拉高香氣層次，是清冰箱快炒與高蛋白主菜的好幫手。",
+    "intro": "挑蒜頭宜選外皮乾燥、球體飽滿且無發芽者，整顆放陰涼通風處即可；剝皮切末後香氣易散，建議現切現用才最香。平底鍋爆香、拌炒高麗菜或菇類，都能快速把剩菜變成有層次的一人餐。Bloom Kitchen 收錄多道以蒜頭入味的快手食譜，清冰箱也快上手。",
     "caloriesPer100g": 149,
     "proteinPer100g": 6.4,
     "fatPer100g": 0.5,
@@ -988,14 +1033,17 @@
     "localeCopy": {
       "en": {
         "description": "Garlic quickly boosts aroma and depth, making it a reliable helper for stir-fries and protein-forward main dishes.",
+        "intro": "Choose garlic with dry outer skins and firm, full bulbs; whole heads keep well in a cool, ventilated spot. Once peeled and minced, the aroma fades fast, so prep it right before cooking. A quick sizzle in the pan lifts leftover cabbage, mushrooms, and other fridge finds into a layered one-person meal. Bloom Kitchen has many fast garlic-forward recipes for easy clean-out cooking.",
         "storage": "Keep whole garlic in a cool, ventilated place, and use chopped garlic as soon as possible."
       },
       "ja": {
         "description": "にんにくは香りの層を手早く増やしてくれるので、炒め物やタンパク質メインの料理に欠かせません。",
+        "intro": "外皮が乾いて球全体がしっかりしたにんにくを選び、皮つきのまま風通しのよい場所で保存できます。剥いて刻んだら香りが逃げやすいので、使う直前に下ごしらえしましょう。フライパンで香りを出してキャベツやきのこと炒めれば、残り物も一人分の料理に。Bloom Kitchen にはにんにくを効かせた時短レシピが揃っています。",
         "storage": "皮つきのままなら風通しのよい場所で保存し、刻んだ後は早めに使い切ってください。"
       },
       "ko": {
         "description": "마늘은 향과 풍미를 빠르게 끌어올려 주어 볶음 요리와 단백질 메인 메뉴에 특히 유용합니다.",
+        "intro": "껍질이 건조하고 알이 단단한 마늘을 고르고, 통째로는 서늘하고 통풍이 되는 곳에 두면 됩니다. 까서 다진 뒤에는 향이 빨리 날아가므로 바로 조리하세요. 팬에 볶아 양배추나 버섯과 함께 쓰면 남은 재료도 한 끼로 정리하기 좋습니다. Bloom Kitchen에는 마늘 향을 살린 빠른 레시피가 모여 있습니다.",
         "storage": "껍질째는 서늘하고 통풍이 되는 곳에 두고, 다진 뒤에는 가능한 빨리 사용하는 것이 좋습니다."
       }
     }
@@ -1010,6 +1058,7 @@
     ],
     "category": "海鮮",
     "description": "蝦仁加熱快、風味鮮甜，適合蒜香、青醬或清炒類的義大利麵與快手主菜。",
+    "intro": "選購時挑蝦身彈性佳、殼面完整且無異味的蝦仁；冷藏最好當天料理，若要週末備餐可先分裝冷凍，解凍後盡快下鍋避免口感變軟。家常以蒜香炒蝦、清炒時蔬或搭番茄義大利麵最實用，Bloom Kitchen 也收錄多道蝦仁快手食譜，方便你快速完成高蛋白的一人份晚餐。",
     "caloriesPer100g": 99,
     "proteinPer100g": 24,
     "fatPer100g": 0.3,
@@ -1044,14 +1093,17 @@
     "localeCopy": {
       "en": {
         "description": "Shrimp cooks quickly and has a naturally sweet seafood flavor, making it great for garlic pasta, pesto dishes, and fast mains.",
+        "intro": "Choose shrimp that feel springy and intact, with no strong off smell. Refrigerate and cook them the same day when you can, or freeze them in portions for weekend prep and cook right after thawing so they stay firm. At home, garlic stir-fry, quick vegetable sautés, and tomato pasta are the most practical paths. Bloom Kitchen also lists several fast shrimp recipes to help you finish a high-protein dinner for one.",
         "storage": "Cook refrigerated shrimp the same day when possible, or freeze it in portions and cook promptly after thawing."
       },
       "ja": {
         "description": "えびは火の通りが早く甘みもあり、にんにく系やジェノベーゼのパスタ、手早い主菜に向いています。",
+        "intro": "選ぶときは身が弾力があり、殻や見た目がきれいで異臭がないものを。冷蔵ならできるだけ当日に調理し、週末向けに備えるなら小分け冷凍して、解凍後はすぐ加熱すると食感が保てます。家庭ではにんにく炒め、野菜のさっと炒め、トマトパスタが特に使いやすく、Bloom Kitchen でも複数のえびレシピを掲載しているので、高たんぱくな一人分夕食をすぐ作れます。",
         "storage": "冷蔵ならできるだけ当日に調理し、保存する場合は小分け冷凍して解凍後はすぐ加熱してください。"
       },
       "ko": {
         "description": "새우는 익는 속도가 빠르고 단맛이 좋아 마늘 파스타, 페스토 요리, 간단한 메인 메뉴에 잘 맞습니다.",
+        "intro": "고를 때는 탄력 있고 껍질 상태가 좋으며 이상한 냄새가 없는 새우를 선택하세요. 냉장 보관은 가능한 한 당일 조리하고, 주말용으로 미리 준비하려면 소분 냉동한 뒤 해동 후 바로 익혀야 식감이 유지됩니다. 집에서는 마늘 볶음, 채소 빠른 볶음, 토마토 파스타가 특히 실용적이며 Bloom Kitchen에도 여러 새우 레시피가 있어 고단백 1인 저녁을 빠르게 완성할 수 있습니다.",
         "storage": "냉장 새우는 가능한 한 당일 조리하고, 보관이 필요하면 소분 냉동한 뒤 해동 후 바로 익히세요."
       }
     }
@@ -1232,6 +1284,7 @@
     ],
     "category": "海鮮",
     "description": "鱈魚肉質細嫩、腥味低，適合煎烤、氣炸與做成清爽一人份主菜。",
+    "intro": "選購時挑魚片色澤潔白、肉質緊實且無強烈腥味的鱈魚；冷藏最好當天料理，若要備餐可冷凍並確實密封，避免解凍後肉質乾柴。家常以少油煎烤、氣炸或搭檸檬奶油醬最簡單，也適合做成清爽又高蛋白的一人份主菜。Bloom Kitchen 收錄多道鱈魚食譜，讓你輕鬆完成低油又飽足的晚餐。",
     "caloriesPer100g": 82,
     "proteinPer100g": 18,
     "fatPer100g": 0.7,
@@ -1266,14 +1319,17 @@
     "localeCopy": {
       "en": {
         "description": "Cod has a delicate texture and mild flavor, which makes it a good choice for pan-searing, roasting, and lighter main dishes.",
+        "intro": "Choose cod fillets that look clean white, feel firm, and have no strong fishy smell. Refrigerate and cook them the same day when possible, or freeze them in a tight seal so they do not dry out after thawing. At home, a light pan-sear, air-fryer cook, or lemon-butter sauce is the simplest path to a fresh, high-protein solo main. Bloom Kitchen also lists several cod recipes to help you finish a lighter dinner that still feels filling.",
         "storage": "Cook refrigerated cod the same day if possible, and seal it well before freezing to prevent it from drying out."
       },
       "ja": {
         "description": "タラは身がやわらかく風味も穏やかで、焼き物やエアフライヤー向けの軽めの主菜に向いています。",
+        "intro": "選ぶときは切り身が白く、身がしっかりし、強い生臭さがないタラを。冷蔵ならできるだけ当日に調理し、先に備えるならしっかり密封して冷凍し、解凍後に身が乾かないようにしてください。家庭では少油の焼き物、エアフライヤー、レモンバター系が手早く、さっぱりした高たんぱくの一人分主菜にも向きます。Bloom Kitchen でも複数のタラレシピを掲載しているので、軽くて満足感のある夕食を無理なく作れます。",
         "storage": "冷蔵ならできるだけ当日に調理し、冷凍する場合は乾燥を防ぐようしっかり密封してください。"
       },
       "ko": {
         "description": "대구는 살이 부드럽고 비린 향이 적어 팬 구이, 오븐, 가벼운 메인 메뉴에 잘 어울립니다.",
+        "intro": "고를 때는 살코기가 하얗고 단단하며 강한 비린 냄새가 없는 대구를 선택하세요. 냉장 보관은 가능한 한 당일 조리하고, 미리 준비하려면 단단히 밀봉해 냉동한 뒤 해동 후에도 살이 마르지 않게 하세요. 집에서는 기름을 적게 쓰는 팬 구이, 에어프라이어, 레몬 버터 소스가 가장 간단하며 가볍지만 고단백인 1인 메인으로도 좋습니다. Bloom Kitchen에도 여러 대구 레시피가 있어 부담 적고 든든한 저녁을 쉽게 만들 수 있습니다.",
         "storage": "냉장 보관한 대구는 가능한 한 당일 조리하고, 냉동할 때는 마르지 않도록 단단히 밀봉하세요."
       }
     }
@@ -1625,6 +1681,7 @@
     ],
     "category": "肉類",
     "description": "豬肉用途廣，適合快炒、照燒與做成一人份蓋飯或便當主菜。",
+    "intro": "買豬肉可看色澤淡紅、觸感彈性且無異味，絲片或絞肉各適快炒與便當主菜；冷藏一兩天內料理最安心，想備料可小分冷凍保存。照燒、青蔥快炒或蓋飯都順手，一人份也很好控量。Bloom Kitchen 整理了多道豬肉食譜，從省錢便當到蓋飯主菜都能直接開做。",
     "caloriesPer100g": 242,
     "proteinPer100g": 27,
     "fatPer100g": 14,
@@ -1659,14 +1716,17 @@
     "localeCopy": {
       "en": {
         "description": "Pork is versatile and works well in stir-fries, teriyaki-style dishes, rice bowls, and lunch box mains.",
+        "intro": "Look for pork with a light red color, springy texture, and no off smell; sliced strips and ground pork suit quick stir-fries and lunch boxes. Cook refrigerated pork within a day or two, or freeze in portions when prepping ahead. Teriyaki, scallion stir-fries, and rice bowls are easy one-serving wins. Bloom Kitchen has many pork recipes, from budget-friendly bentos to bowl-style mains.",
         "storage": "Use refrigerated pork within 1 to 2 days, or freeze it in portions for longer storage."
       },
       "ja": {
         "description": "豚肉は使い道が広く、炒め物、照り焼き、丼、お弁当の主菜まで幅広く活躍します。",
+        "intro": "淡い赤色で弾力があり異臭のない豚肉を選び、細切りや挽肉は炒めや弁当に向きます。冷蔵は1〜2日以内に使い、下ごしらえするなら小分け冷凍が便利です。照り焼き、ネギ炒め、丼など一人分にも扱いやすい食材です。Bloom Kitchen には節約弁当から丼の主菜まで豚肉レシピが揃っています。",
         "storage": "冷蔵なら1〜2日以内に使い、長く保存する場合は小分けして冷凍してください。"
       },
       "ko": {
         "description": "돼지고기는 활용도가 높아 볶음, 데리야키풍 반찬, 덮밥, 도시락 메인 반찬까지 폭넓게 쓰입니다.",
+        "intro": "연한 붉은색에 탄력 있고 이상한 냄새가 없는 돼지고기를 고르고, 채 썬 고기나 다진 고기는 볶음·도시락에 잘 맞습니다. 냉장은 1~2일 안에 조리하고, 미리 준비하려면 소분해 냉동하세요. 데리야키, 파 볶음, 덮밥 등 1인분 조리도 수월합니다. Bloom Kitchen에는 알뜰 도시락부터 덮밥 메인까지 돼지고기 레시피가 모여 있습니다.",
         "storage": "냉장 보관한 돼지고기는 1~2일 안에 사용하고, 오래 두려면 소분해 냉동하세요."
       }
     }

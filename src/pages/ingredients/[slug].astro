@@ -5,7 +5,7 @@ import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { localesWithVisibleIngredient } from "../../lib/recipe-locale";
-import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd } from "../../lib/seo";
+import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd, truncateMetaDescription } from "../../lib/seo";
 import {
   buildIngredientIntro,
   formatIngredientRecipesLead,
@@ -52,7 +52,7 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: "食材", path: "/ingredients/" },
   { name: ingredient.name, path: `/ingredients/${ingredient.slug}/` }
 ]);
-const ingredientJsonLd = buildDefinedTermJsonLd(ingredient);
+const ingredientJsonLd = buildDefinedTermJsonLd(ingredient, ingredientIntro);
 const relatedRecipeListJsonLd =
   relatedRecipes.length > 0
     ? buildItemListJsonLd(
@@ -68,7 +68,7 @@ const relatedRecipeListJsonLd =
 
 <BaseLayout
   title={`${ingredient.name} 食材料理`}
-  description={ingredientIntro}
+  description={truncateMetaDescription(ingredientIntro)}
   canonicalPath={`/ingredients/${ingredient.slug}/`}
   alternatePath={`/ingredients/${ingredient.slug}`}
   alternateLocales={alternateLocales}

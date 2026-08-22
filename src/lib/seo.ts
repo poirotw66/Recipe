@@ -6,6 +6,9 @@ import { brandName, getSiteUrl } from "./site";
 
 export const absoluteUrl = (path: string) => new URL(path, getSiteUrl()).toString();
 
+export const truncateMetaDescription = (text: string, max = 160): string =>
+  text.length <= max ? text : `${text.slice(0, max - 1).trim()}…`;
+
 export interface ItemListEntry {
   name: string;
   path: string;
@@ -133,11 +136,11 @@ export const buildCollectionPageJsonLd = (title: string, description: string, pa
   url: absoluteUrl(path)
 });
 
-export const buildDefinedTermJsonLd = (ingredient: IngredientItem) => ({
+export const buildDefinedTermJsonLd = (ingredient: IngredientItem, description?: string) => ({
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   name: ingredient.name,
-  description: ingredient.description,
+  description: description ?? ingredient.description,
   inDefinedTermSet: absoluteUrl("/ingredients"),
   termCode: ingredient.slug
 });

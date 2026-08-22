@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | 0 | 冰箱 query noindex + 食材 programmatic intro | done | commit `01b45fa` |
 | 1 | Deploy + GSC sitemap | pending | 待 push / 上線後執行 |
-| 2 | 15 食材人工 intro | pending | slug 見 spec §Phase 2 |
+| 2 | 15 食材人工 intro | done | 3 subagents；zh/en/ja/ko 全完成 |
 | 3 | 12 情境 hubIntro + 內链 | pending | |
 | 4 | 內链強化 + 20 篇 zh 食譜 | pending | 食譜清單待 GSC 篩選 |
 | 5 | +7 / +28 日複盤 | pending | |
@@ -22,21 +22,21 @@
 
 | slug | zh intro | en | ja | ko |
 | --- | --- | --- | --- | --- |
-| egg | | | | |
-| tofu | | | | |
-| cabbage | | | | |
-| chicken-breast | | | | |
-| rice | | | | |
-| garlic | | | | |
-| tomato | | | | |
-| onion | | | | |
-| pork | | | | |
-| beef | | | | |
-| shrimp | | | | |
-| broccoli | | | | |
-| mushroom | | | | |
-| pasta | | | | |
-| cod | | | | |
+| egg | done | done | done | done |
+| tofu | done | done | done | done |
+| cabbage | done | done | done | done |
+| chicken-breast | done | done | done | done |
+| rice | done | done | done | done |
+| garlic | done | done | done | done |
+| tomato | done | done | done | done |
+| onion | done | done | done | done |
+| pork | done | done | done | done |
+| beef | done | done | done | done |
+| shrimp | done | done | done | done |
+| broccoli | done | done | done | done |
+| mushroom | done | done | done | done |
+| pasta | done | done | done | done |
+| cod | done | done | done | done |
 
 ## Phase 4 優先 zh 食譜（20，待填）
 

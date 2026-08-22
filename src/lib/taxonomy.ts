@@ -8,6 +8,7 @@ import type { RecipeEntry } from "./recipes";
 export type LocalizedLabels = Partial<Record<Locale, string>> & { "zh-TW": string };
 export interface LocaleCopyBlock {
   description?: string;
+  intro?: string;
   seoTitle?: string;
   seoDescription?: string;
   tags?: string[];
@@ -25,6 +26,8 @@ export interface IngredientItem {
   labels?: LocalizedLabels;
   categoryLabels?: LocalizedLabels;
   description: string;
+  /** Manual zh-TW hub intro (spec-020); overrides programmatic intro when set. */
+  intro?: string;
   caloriesPer100g: number;
   proteinPer100g: number;
   fatPer100g: number;
@@ -118,6 +121,15 @@ export const getIngredientDescription = (item: IngredientItem, locale: Locale) =
 export const getIngredientStorage = (item: IngredientItem, locale: Locale) =>
   getLocaleCopyField(item.localeCopy, locale, "storage", item.storage);
 
+export const getIngredientIntro = (item: IngredientItem, locale: Locale): string | undefined => {
+  const zhIntro = item.intro?.trim();
+  if (locale === "zh-TW") {
+    return zhIntro || undefined;
+  }
+  const localized = getLocaleCopyField(item.localeCopy, locale, "intro", zhIntro);
+  return localized?.trim() || undefined;
+};
+
 const listJoinForLocale = (items: string[], locale: Locale): string => {
   if (items.length === 0) {
     return "";
@@ -126,12 +138,17 @@ const listJoinForLocale = (items: string[], locale: Locale): string => {
   return items.join(separator);
 };
 
-/** Composes a richer intro from existing taxonomy fields (ponytail: no per-slug JSON). */
+/** Manual intro when present; otherwise composes from taxonomy fields (ponytail fallback). */
 export const buildIngredientIntro = (
   item: IngredientItem,
   locale: Locale,
   recipeCount: number
 ): string => {
+  const manual = getIngredientIntro(item, locale);
+  if (manual) {
+    return manual;
+  }
+
   const name = getIngredientLabel(item, locale);
   const category = getIngredientCategoryLabel(item, locale);
   const description = getIngredientDescription(item, locale);
