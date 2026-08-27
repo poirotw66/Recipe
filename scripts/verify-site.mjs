@@ -43,9 +43,11 @@ const requiredFiles = [
   "src/pages/sitemap-ingredients.xml.ts",
   "src/pages/sitemap-scenarios.xml.ts",
   "src/lib/sitemap.ts",
+  "src/lib/page-url.ts",
   "src/lib/error-page.ts",
   "src/worker.ts",
   "wrangler.jsonc",
+  "scripts/verify-canonical-urls.mjs",
   "src/lib/seo.ts",
   "src/lib/site.ts",
   "src/lib/navigation.ts",
@@ -596,6 +598,23 @@ if (!astroConfig.includes('defaultLocale: "zh-TW"') || !astroConfig.includes("pr
 
 if (!astroConfig.includes('trailingSlash: "always"')) {
   console.error("astro.config.mjs must set trailingSlash: always to avoid slash-redirect crawl waste.");
+  process.exit(1);
+}
+
+const pageUrlHelper = read("src/lib/page-url.ts");
+if (!pageUrlHelper.includes("pageUrlPath") || !seoLib.includes("absolutePageUrl") || !seoHead.includes("pageUrlPath")) {
+  console.error("Canonical/JSON-LD/sitemap URLs must normalize through pageUrlPath / absolutePageUrl.");
+  process.exit(1);
+}
+
+const footerSource = read("src/components/Footer.astro");
+if (!footerSource.includes("footer-langs") || !footerSource.includes("alternateLocales") || !baseLayout.includes("alternatePath={alternatePath}")) {
+  console.error("Footer must emit crawlable locale <a> links from alternatePath/alternateLocales.");
+  process.exit(1);
+}
+
+if (!sitemapPages.includes("second-floor-cafe") || !sitemapPages.includes("dubu-house")) {
+  console.error("sitemap-pages.xml.ts must include restaurant-replica brand detail pages.");
   process.exit(1);
 }
 

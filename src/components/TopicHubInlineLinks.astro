@@ -1,20 +1,23 @@
 ---
 import { localePath, type Locale } from "../lib/i18n";
+import type { LocalizedRecipeEntry } from "../lib/recipe-locale";
 import {
   formatTopicHubInlineLinksLead,
   getTopicHubInlineLinkRefs,
   ingredientRecipesLinkSeparator,
   type TopicHubItem
 } from "../lib/taxonomy";
+import type { CollectionEntry } from "astro:content";
 
 interface Props {
   hub: TopicHubItem;
   hubDisplayName: string;
   locale?: Locale;
+  recipes?: Array<LocalizedRecipeEntry | CollectionEntry<"recipes">>;
 }
 
-const { hub, hubDisplayName, locale = "zh-TW" } = Astro.props;
-const linkRefs = getTopicHubInlineLinkRefs(hub, locale);
+const { hub, hubDisplayName, locale = "zh-TW", recipes = [] } = Astro.props;
+const linkRefs = getTopicHubInlineLinkRefs(hub, locale, recipes);
 
 const hrefFor = (ref: (typeof linkRefs)[number]) =>
   ref.kind === "ingredient"

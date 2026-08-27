@@ -81,7 +81,7 @@ const featuredRecipe = featuredEntry
         featured={featuredRecipe}
       />
 
-      <TopicHubInlineLinks hub={hub} hubDisplayName={hub.name} />
+      <TopicHubInlineLinks hub={hub} hubDisplayName={hub.name} recipes={recipes} />
 
       {brunchRecipes.length === 0 ? (
         <section class="section section-compact">

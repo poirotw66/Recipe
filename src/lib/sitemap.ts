@@ -1,5 +1,5 @@
 import type { Locale } from "./i18n";
-import { absoluteUrl } from "./seo";
+import { absolutePageUrl, absoluteUrl } from "./seo";
 
 export type SitemapEntry = {
   path: string;
@@ -18,10 +18,10 @@ const renderAlternateLinks = (entry: SitemapEntry): string => {
   }
   const links = entry.alternates.map(
     (item) =>
-      `    <xhtml:link rel="alternate" hreflang="${item.locale === "zh-TW" ? "zh-TW" : item.locale}" href="${absoluteUrl(item.path)}"/>`
+      `    <xhtml:link rel="alternate" hreflang="${item.locale === "zh-TW" ? "zh-TW" : item.locale}" href="${absolutePageUrl(item.path)}"/>`
   );
   const defaultPath = entry.alternates.find((item) => item.locale === "zh-TW")?.path ?? entry.path;
-  links.push(`    <xhtml:link rel="alternate" hreflang="x-default" href="${absoluteUrl(defaultPath)}"/>`);
+  links.push(`    <xhtml:link rel="alternate" hreflang="x-default" href="${absolutePageUrl(defaultPath)}"/>`);
   return `\n${links.join("\n")}`;
 };
 
@@ -33,7 +33,7 @@ export const renderUrlSet = (entries: SitemapEntry[]): string => {
 ${entries
   .map(
     (entry) =>
-      `  <url><loc>${absoluteUrl(entry.path)}</loc>${entry.lastmod ? `<lastmod>${entry.lastmod}</lastmod>` : ""}${renderAlternateLinks(entry)}</url>`
+      `  <url><loc>${absolutePageUrl(entry.path)}</loc>${entry.lastmod ? `<lastmod>${entry.lastmod}</lastmod>` : ""}${renderAlternateLinks(entry)}</url>`
   )
   .join("\n")}
 </urlset>`;
