@@ -1,12 +1,37 @@
 ---
 import { bloss0mEcosystemLinks, brandName, brandTagline } from "../lib/site";
-import { detectLocaleFromPath, localePath, t, type Locale } from "../lib/i18n";
+import {
+  detectLocaleFromPath,
+  hreflangCode,
+  localeLabels,
+  localePath,
+  locales,
+  stripLocalePrefix,
+  t,
+  type Locale
+} from "../lib/i18n";
 
 interface Props {
   locale?: Locale;
+  /** Path without locale prefix, matching the hreflang alternates. */
+  alternatePath?: string;
+  /** When set, only these locales have a built page for this URL. */
+  alternateLocales?: Locale[];
 }
 
 const locale = Astro.props.locale ?? detectLocaleFromPath(Astro.url.pathname);
+
+// Header language switcher is a JS <select>, so crawlers need real <a> links
+// between locales. Mirror the hreflang set exactly.
+const alternateBase = Astro.props.alternatePath ?? stripLocalePrefix(Astro.url.pathname);
+const languageLinks = (Astro.props.alternateLocales ?? [...locales])
+  .filter((code) => code !== locale)
+  .map((code) => ({
+    code,
+    href: localePath(code, alternateBase),
+    label: localeLabels[code],
+    hreflang: hreflangCode(code)
+  }));
 ---
 
 <footer class="site-footer">
@@ -25,6 +50,18 @@ const locale = Astro.props.locale ?? detectLocaleFromPath(Astro.url.pathname);
         ))}
       </nav>
     </div>
+    {
+      languageLinks.length > 0 && (
+        <nav class="footer-langs" aria-label={t(locale, "lang.switch")}>
+          <span class="footer-langs__label">{t(locale, "lang.switch")}</span>
+          {languageLinks.map((item) => (
+            <a href={item.href} hreflang={item.hreflang} lang={item.code}>
+              {item.label}
+            </a>
+          ))}
+        </nav>
+      )
+    }
     <nav class="footer-links" aria-label="頁尾連結">
       <a href={localePath(locale, "/about")}>{t(locale, "footer.about")}</a>
       <a href={localePath(locale, "/contact")}>{t(locale, "footer.contact")}</a>

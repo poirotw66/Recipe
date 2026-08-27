@@ -140,7 +140,7 @@ const relatedRecipeListJsonLd =
         </div>
         {hasMoreRelatedRecipes && (
           <div class="section-links">
-            <a class="button note" href={`/recipes?keyword=${encodeURIComponent(scenario.name)}`}>
+            <a class="button note" rel="nofollow" href={`/recipes/?keyword=${encodeURIComponent(scenario.name)}`}>
               看更多同情境食譜
             </a>
           </div>

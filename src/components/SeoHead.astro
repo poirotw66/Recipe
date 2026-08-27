@@ -18,6 +18,7 @@ import {
   stripLocalePrefix,
   type Locale
 } from "../lib/i18n";
+import { pageUrlPath } from "../lib/page-url";
 
 interface Props {
   title: string;
@@ -47,7 +48,8 @@ const {
 
 const locale = localeProp ?? detectLocaleFromPath(Astro.url.pathname);
 const siteUrl = getSiteUrl();
-const canonical = new URL(canonicalPath, siteUrl).toString();
+const normalizedCanonicalPath = pageUrlPath(canonicalPath);
+const canonical = new URL(normalizedCanonicalPath, siteUrl).toString();
 const includesBrand = title.includes(brandName) || title.includes(brandTagline) || title.includes(brandDisplayName);
 const fullTitle = includesBrand ? title : `${title}｜${siteTitleSuffix}`;
 const ogImageUrl = new URL(ogImage, siteUrl).toString();
@@ -55,7 +57,7 @@ const ogImageIsDefault = ogImage === defaultOgImagePath;
 const ogImageWidth = ogImageIsDefault ? defaultOgImageWidth : undefined;
 const ogImageHeight = ogImageIsDefault ? defaultOgImageHeight : undefined;
 const ogImageType = ogImage.endsWith(".jpg") || ogImage.endsWith(".jpeg") ? "image/jpeg" : undefined;
-const hreflangBase = alternatePath ?? stripLocalePrefix(canonicalPath);
+const hreflangBase = alternatePath ?? stripLocalePrefix(normalizedCanonicalPath);
 const alternates = alternateUrlsForPath(siteUrl, hreflangBase, alternateLocales);
 ---
 

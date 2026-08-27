@@ -104,7 +104,7 @@ const introTailLink = getRecipeIntroTailLink(
 
           <div class="section-links">
             <a class="button" href="/recipes/">返回食譜列表</a>
-            <a class="button note" href={`/tools/fridge-recipe?ingredients=${encodeURIComponent(ingredientQuery)}#fridge-results`}>
+            <a class="button note" rel="nofollow" href={`/tools/fridge-recipe/?ingredients=${encodeURIComponent(ingredientQuery)}#fridge-results`}>
               用這些食材試算冰箱料理
             </a>
           </div>
@@ -257,7 +257,7 @@ const introTailLink = getRecipeIntroTailLink(
               const ingredient = getIngredientByName(item);
 
               return (
-                <a class="chip note" href={ingredient ? `/ingredients/${ingredient.slug}/` : "/ingredients"}>{item}</a>
+                <a class="chip note" href={ingredient ? `/ingredients/${ingredient.slug}/` : "/ingredients/"}>{item}</a>
               );
             })}
           </div>

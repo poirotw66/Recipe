@@ -153,7 +153,11 @@ export const formatTopicHubInlineLinksLead = (locale: Locale, hubName: string): 
   return `除了下方食譜卡片，你也可以從這些入口繼續找${hubName}靈感：`;
 };
 
-export const getTopicHubInlineLinkRefs = (hub: TopicHubItem, locale: Locale): TopicHubInlineLinkRef[] => {
+export const getTopicHubInlineLinkRefs = (
+  hub: TopicHubItem,
+  locale: Locale,
+  recipes: RecipeEntry[] = []
+): TopicHubInlineLinkRef[] => {
   const refs: TopicHubInlineLinkRef[] = [];
 
   for (const slug of hub.commonIngredients) {
@@ -161,7 +165,7 @@ export const getTopicHubInlineLinkRefs = (hub: TopicHubItem, locale: Locale): To
       break;
     }
     const ingredient = getIngredientBySlug(slug);
-    if (!ingredient) {
+    if (!ingredient || (recipes.length > 0 && !ingredientHasRecipes(recipes, ingredient))) {
       continue;
     }
     refs.push({

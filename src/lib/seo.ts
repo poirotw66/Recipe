@@ -1,10 +1,16 @@
 import type { Locale } from "./i18n";
 import { localePath } from "./i18n";
+import { pageUrlPath } from "./page-url";
 import type { LocalizedRecipeEntry } from "./recipe-locale";
 import type { IngredientItem, ScenarioItem } from "./taxonomy";
 import { brandName, getSiteUrl } from "./site";
 
+export { pageUrlPath } from "./page-url";
+
 export const absoluteUrl = (path: string) => new URL(path, getSiteUrl()).toString();
+
+/** Absolute URL for a page (as opposed to an asset): always trailing-slashed. */
+export const absolutePageUrl = (path: string) => absoluteUrl(pageUrlPath(path));
 
 export const truncateMetaDescription = (text: string, max = 160): string =>
   text.length <= max ? text : `${text.slice(0, max - 1).trim()}…`;
@@ -18,12 +24,12 @@ export const buildItemListJsonLd = (name: string, path: string, items: ItemListE
   "@context": "https://schema.org",
   "@type": "ItemList",
   name,
-  url: absoluteUrl(path),
+  url: absolutePageUrl(path),
   itemListElement: items.map((item, index) => ({
     "@type": "ListItem",
     position: index + 1,
     name: item.name,
-    url: absoluteUrl(item.path)
+    url: absolutePageUrl(item.path)
   }))
 });
 
@@ -36,7 +42,7 @@ export const buildBreadcrumbJsonLd = (
     "@type": "ListItem",
     position: index + 1,
     name: item.name,
-    item: absoluteUrl(item.path)
+    item: absolutePageUrl(item.path)
   }))
 });
 
@@ -63,7 +69,7 @@ const recipeStepNameByLocale: Record<Locale, (stepNumber: number) => string> = {
 
 export const buildRecipeJsonLd = (recipe: LocalizedRecipeEntry, locale: Locale = "zh-TW") => {
   const recipePagePath = localePath(locale, `/recipes/${recipe.slug}`);
-  const recipePageUrl = absoluteUrl(recipePagePath);
+  const recipePageUrl = absolutePageUrl(recipePagePath);
   const coverImageUrl = absoluteUrl(recipe.data.coverImage);
   const stepName = recipeStepNameByLocale[locale];
 
@@ -78,8 +84,9 @@ export const buildRecipeJsonLd = (recipe: LocalizedRecipeEntry, locale: Locale =
   author: {
     "@type": "Organization",
     name: brandName,
-    url: absoluteUrl("/about/")
+    url: absolutePageUrl("/about/")
   },
+
   datePublished: recipe.data.publishedAt.toISOString().slice(0, 10),
   dateModified: recipe.data.updatedAt.toISOString().slice(0, 10),
   prepTime: `PT${recipe.data.prepTime}M`,
@@ -133,7 +140,7 @@ export const buildCollectionPageJsonLd = (title: string, description: string, pa
   "@type": "CollectionPage",
   name: title,
   description,
-  url: absoluteUrl(path)
+  url: absolutePageUrl(path)
 });
 
 export const buildDefinedTermJsonLd = (ingredient: IngredientItem, description?: string) => ({
@@ -141,7 +148,7 @@ export const buildDefinedTermJsonLd = (ingredient: IngredientItem, description?:
   "@type": "DefinedTerm",
   name: ingredient.name,
   description: description ?? ingredient.description,
-  inDefinedTermSet: absoluteUrl("/ingredients"),
+  inDefinedTermSet: absolutePageUrl("/ingredients/"),
   termCode: ingredient.slug
 });
 
@@ -154,5 +161,5 @@ export const buildThingJsonLd = (
   "@type": "Thing",
   name: item.name,
   description: description ?? item.description,
-  url: absoluteUrl(path ?? `/scenarios/${item.slug}/`)
+  url: absolutePageUrl(path ?? `/scenarios/${item.slug}/`)
 });

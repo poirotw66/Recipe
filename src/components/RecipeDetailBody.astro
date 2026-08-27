@@ -57,7 +57,8 @@ const homePath = localePath(locale, "/");
             locale === "zh-TW" && (
               <a
                 class="button note"
-                href={`/tools/fridge-recipe?ingredients=${encodeURIComponent(ingredientQuery)}#fridge-results`}
+                rel="nofollow"
+                href={`/tools/fridge-recipe/?ingredients=${encodeURIComponent(ingredientQuery)}#fridge-results`}
               >
                 {t(locale, "recipe.fridgeCta")}
               </a>
@@ -215,7 +216,7 @@ const homePath = localePath(locale, "/");
             {recipe.data.relatedIngredients.map((item) => {
               const ingredient = getIngredientByName(item);
               return (
-                <a class="chip note" href={ingredient ? `/ingredients/${ingredient.slug}/` : "/ingredients"}>
+                <a class="chip note" href={ingredient ? `/ingredients/${ingredient.slug}/` : "/ingredients/"}>
                   {item}
                 </a>
               );

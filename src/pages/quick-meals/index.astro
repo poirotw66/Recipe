@@ -68,7 +68,7 @@ const hubJsonLd = buildThingJsonLd(hub, "/quick-meals/");
         </div>
       </section>
 
-      <TopicHubInlineLinks hub={hub} hubDisplayName={hub.name} />
+      <TopicHubInlineLinks hub={hub} hubDisplayName={hub.name} recipes={recipes} />
 
       {hubRecipes.length === 0 ? (
         <section class="section section-compact">

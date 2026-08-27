@@ -35,11 +35,18 @@ const localizedShellPages = [
 
 const localizedTopicHubPages = topicHubs.map((hub) => `/${hub.slug}/`);
 
+/** Brand replica pages are built and linked but were missing from the sitemap. */
+const brandReplicaPages = ["second-floor-cafe", "dubu-house"].map(
+  (brand) => `/restaurant-replicas/${brand}/`
+);
+
 const staticPages = [
   ...defaultPages,
+  ...brandReplicaPages,
   ...(["en", "ja", "ko"] as const).flatMap((locale) => [
     ...localizedShellPages.map((path) => localePath(locale, path === "/" ? "/" : path.replace(/\/$/, ""))),
-    ...localizedTopicHubPages.map((path) => localePath(locale, path.replace(/\/$/, "")))
+    ...localizedTopicHubPages.map((path) => localePath(locale, path.replace(/\/$/, ""))),
+    ...brandReplicaPages.map((path) => localePath(locale, path.replace(/\/$/, "")))
   ])
 ];
 
