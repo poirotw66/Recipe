@@ -1,0 +1,56 @@
+---
+import {
+  bloss0mBrandName,
+  bloss0mSiteUrl,
+  brandName,
+  brandTagline,
+  contactEmail,
+  recipeSiteUrl
+} from "../lib/site";
+import { localePath, type Locale } from "../lib/i18n";
+import { getContactPage } from "../i18n/contact-page";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const content = getContactPage(locale);
+const privacyPath = localePath(locale, "/privacy-policy");
+const { ecosystem } = content;
+---
+
+<section>
+  <h2>{content.primaryHeading}</h2>
+  <p>
+    {ecosystem.beforeBloss0m}
+    <a href={bloss0mSiteUrl} rel="noopener noreferrer">{bloss0mBrandName}</a>
+    {ecosystem.afterBloss0m}
+    {brandName}（{brandTagline}）
+    {ecosystem.beforeRecipeUrl}
+    <a href={recipeSiteUrl}>{recipeSiteUrl}</a>
+    {ecosystem.afterRecipeUrl}
+  </p>
+  <p>
+    <a class="button" href={`mailto:${contactEmail}`}>{contactEmail}</a>
+  </p>
+</section>
+
+<section>
+  <h2>{content.topicsHeading}</h2>
+  <ul class="article-list">
+    {content.topics.map((item) => <li>{item}</li>)}
+  </ul>
+</section>
+
+<section>
+  <h2>{content.remindersHeading}</h2>
+  <ul class="article-list">
+    {content.reminders.map((item) => <li>{item}</li>)}
+    <li>
+      {content.privacyNote.before}{" "}
+      <a href={privacyPath}>{content.privacyNote.linkLabel}</a>
+      {content.privacyNote.after}
+    </li>
+  </ul>
+</section>

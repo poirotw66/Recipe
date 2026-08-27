@@ -1,0 +1,78 @@
+---
+title: 奶香菇類義大利麵
+slug: creamy-mushroom-pasta
+description: 菇類與牛奶做出濃潤奶香醬汁，搭配義大利麵就是暖胃又飽足的一人份主餐。
+coverImage: /images/recipes/creamy-mushroom-pasta.webp
+servings: 1
+prepTime: 7
+cookTime: 15
+totalTime: 22
+difficulty: 簡單
+calories: 480
+protein: 16
+fat: 18
+carbs: 64
+category: "飯麵"
+scenarios:
+- 一人料理
+- 省錢料理
+equipment:
+- 湯鍋
+- 平底鍋
+ingredients:
+- name: 義大利麵
+  amount: '80'
+  unit: 公克
+  isCore: true
+- name: 菇類
+  amount: '80'
+  unit: 公克
+  isCore: true
+seasonings:
+- name: 牛奶
+  amount: '120'
+  unit: 毫升
+- name: 奶油
+  amount: '1'
+  unit: 小匙
+- name: 鹽
+  amount: 少許
+  unit: ''
+- name: 黑胡椒
+  amount: 少許
+  unit: ''
+tags:
+- 義大利麵
+- 奶香料理
+intro: 奶香菇類義大利麵不靠複雜材料，只要先把菇類炒香再收濃醬汁，就能做出有飽足感的麵食主餐。
+steps:
+- 菇類 80公克 切片。
+- 湯鍋加足量水大火煮滾，加少許鹽，下義大利麵 80公克依包裝時間煮 7～9 分鐘至彈牙（al dente），瀝乾保留半杯煮麵水。
+- 平底鍋開中火，下奶油 1小匙，待融化後下菇類翻炒 2～3 分鐘至軟化、邊緣微帶焦香。
+- 轉小火，倒入牛奶 120毫升，用湯勺輕推攪拌，煮滾後小火收稠約 2 分鐘（醬汁能掛勺即可；全程小火避免燒焦）。
+- 放入麵條與 3～4 大匙煮麵水，轉中火快拌 1～2 分鐘至每根麵均勻裹上奶醬。
+- 以鹽少許與黑胡椒少許試味，起鍋盛盤趁熱享用。
+tips:
+- 牛奶容易燒焦，小火慢煮並持續攪拌會更穩定。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
+storage: 現煮現吃最佳；冷藏後建議 1 天內吃完。
+substitutions:
+- 鮮奶油
+- 豆漿（風味較淡）
+faqs:
+- question: 沒有奶油可以做嗎？
+  answer: 可以，改用一點橄欖油炒香菇類即可。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+relatedIngredients:
+- 義大利麵
+- 菇類
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+customAdditions:
+- 培根
+- 鮮奶油
+- 帕瑪森起司
+---
+奶香菇類義大利麵適合想吃得飽一點、又不想準備太多配菜的時候。

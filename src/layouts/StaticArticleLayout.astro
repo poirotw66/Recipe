@@ -1,0 +1,27 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalPath: string;
+  eyebrow?: string;
+  updatedAt?: string;
+}
+
+const { title, description, canonicalPath, eyebrow = "Legal", updatedAt } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} canonicalPath={canonicalPath}>
+  <article class="article article-shell">
+    <Breadcrumb items={[{ name: "首頁", href: "/" }, { name: title }]} />
+    <p class="eyebrow">{eyebrow}</p>
+    <h1 class="page-title">{title}</h1>
+    <p class="page-copy">{description}</p>
+    {updatedAt && <p class="caption">最後更新：{updatedAt}</p>}
+    <div class="article-sections">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>

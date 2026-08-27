@@ -1,0 +1,78 @@
+---
+recipeId: honey-cajun-chicken-wings
+title: ハニーカージュン手羽先
+description: 手羽先を焼き上げ、ハチミツとケージュンスパイスで甘辛く仕上げ。パーティー向けの一品。
+coverImage: /images/recipes/honey-cajun-chicken-wings.webp
+servings: 2
+prepTime: 10
+cookTime: 28
+totalTime: 38
+difficulty: 普通
+calories: 520
+protein: 38
+fat: 32
+carbs: 22
+category: "メイン"
+scenarios:
+- ノンフライヤー料理
+- 一人分の料理
+equipment:
+- オーブンまたはエアフライヤー
+- 天板
+tags:
+- おつまみ
+- 鶏肉料理
+tips:
+- エアフライヤー190°C・約22分、最後5分でタレを塗れば同様の仕上がり。
+- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
+substitutions:
+- 鶏もも肉の角切り
+faqs:
+- question: "主材料をパサつかせないコツは？"
+  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
+relatedIngredients:
+- 鶏むね肉
+customAdditions: []
+ingredients:
+- name: 手羽先
+  amount: '8'
+  unit: 本
+  isCore: true
+seasonings:
+- name: はちみつ
+  amount: '2'
+  unit: 大さじ
+- name: 醤油
+  amount: '1'
+  unit: 大さじ
+- name: パプリカパウダー
+  amount: '1'
+  unit: 小さじ
+- name: ガーリックパウダー
+  amount: '1/2'
+  unit: 小さじ
+- name: チリパウダー
+  amount: '1/4'
+  unit: 小さじ
+- name: 塩
+  amount: 少々
+  unit: ''
+- name: 黒胡椒
+  amount: 少々
+  unit: ''
+intro: 手羽先はよく拭いてから焼くと皮がパリッと。ハニータレは最後5分で塗り、焦げすぎないように。
+steps:
+- 手羽先8本を洗い、キッチンペーパーで表面の水分をしっかり拭く（皮が乾いているほど焼き上がりがパリッとする）。
+- 塩少々、黒胡椒少々、パプリカパウダー小さじ1/2、ガーリックパウダー小さじ1/4、チリパウダー小さじ1/8を揉み込み、15分ほど味をなじませる。
+- オーブンを200°Cに予熱。天板にクッキングシートを敷き、手羽先を皮側を上に並べ、18分焼き、9分目に裏返す。
+- 小鉢にはちみつ大さじ2、醤油大さじ1と残りのパプリカ・ガーリック・チリパウダーを混ぜて刷きタレを作る。
+- 手羽先を取り出し、両面にタレを塗り、オーブンに戻す。
+- さらに8〜10分焼き、表面がキャラメル色になり肉汁が少し引き締まるまで（最後2分は焦げないよう注意）。
+- 2分休ませてから盛る。
+storage: 冷蔵2日。再加熱はオーブンが皮のパリッと感を戻しやすい。
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+---
+
+甘辛く香ばしい、集まりの席にも合う手羽先です。

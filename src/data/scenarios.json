@@ -1,0 +1,770 @@
+[
+  {
+    "name": "一人料理",
+    "slug": "one-person-meal",
+    "description": "適合一個人快速完成、不需要準備太多鍋具與配菜的家常料理。",
+    "hubIntro": "這個專區給一人用餐、租屋或小廚房的你，不必為了吃一餐而洗好幾口鍋。可依常備食材、烹調時間或標籤篩選，快速找到今晚一人份的菜色；下方食譜卡片也能串連十分鐘料理、省錢料理與清冰箱等相關情境。Bloom Kitchen 收錄多道以雞蛋、豆腐、剩飯入菜的家常食譜，從快手炒飯到簡單主菜都有，少備料也能吃得飽。",
+    "seoTitle": "一人料理食譜｜適合租屋族的簡單晚餐",
+    "seoDescription": "整理適合一個人吃的一人料理，包含雞蛋、豆腐、剩飯與快手晚餐。",
+    "tags": [
+      "一人份",
+      "家常",
+      "省事"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals",
+      "fridge-cleanout-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "tofu",
+      "rice"
+    ],
+    "labels": {
+      "zh-TW": "一人料理",
+      "en": "Cooking for one",
+      "ja": "一人分の料理",
+      "ko": "1인 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Home-style dishes that are easy to make for one without juggling multiple pots or side dishes.",
+        "hubIntro": "This hub is for solo diners, renters, and anyone cooking in a small kitchen. Browse by pantry staples, cooking time, or tags to pick tonight's single-serving dish, then hop to related hubs like 10-minute meals, budget cooking, or fridge cleanout. Bloom Kitchen gathers home-style recipes built around eggs, tofu, and leftover rice so you can eat well with fewer pots and less prep.",
+        "seoTitle": "Cooking for One Recipes | Easy Dinners for Solo Living",
+        "seoDescription": "Browse cooking-for-one ideas with eggs, tofu, leftover rice, and other quick dinner staples.",
+        "tags": [
+          "Single serving",
+          "Home cooking",
+          "Low effort"
+        ]
+      },
+      "ja": {
+        "description": "鍋や副菜をたくさん用意しなくても、一人分を手早く作れる家庭料理です。",
+        "hubIntro": "一人暮らしや小さなキッチンで、少ない道具で食べたい人向けのまとめです。常備食材、調理時間、タグから今夜の一人分を選べます。10分料理、節約料理、冷蔵庫使い切りなど関連シーンにもつながります。Bloom Kitchen では卵、豆腐、残りご飯を使った家庭料理を多数掲載しています。",
+        "seoTitle": "一人分の料理レシピ | 一人暮らしに合う簡単夕食",
+        "seoDescription": "卵、豆腐、残りご飯などを使った、一人分の料理アイデアをまとめました。",
+        "tags": [
+          "一人分",
+          "家庭料理",
+          "手軽"
+        ]
+      },
+      "ko": {
+        "description": "여러 냄비나 반찬 준비 없이 혼자 먹기 좋게 빠르게 만들 수 있는 집밥 요리입니다.",
+        "hubIntro": "혼자 식사하거나 작은 주방에서 냄비와 반찬 준비를 줄이고 싶은 분을 위한 모음입니다. 기본 재료, 조리 시간, 태그로 오늘 밤 1인분 메뉴를 고를 수 있고, 10분 요리, 알뜰 요리, 냉장고 정리 같은 관련 주제로도 이어집니다. Bloom Kitchen에는 달걀, 두부, 남은 밥으로 만드는 집밥 레시피가 많이 있습니다.",
+        "seoTitle": "1인 요리 레시피 | 자취생을 위한 간단한 저녁",
+        "seoDescription": "달걀, 두부, 남은 밥 등으로 만드는 1인분 집밥 레시피를 모았습니다.",
+        "tags": [
+          "1인분",
+          "집밥",
+          "간편"
+        ]
+      }
+    }
+  },
+  {
+    "name": "10 分鐘料理",
+    "slug": "ten-minute-meals",
+    "description": "當天很忙、想快速開飯時最適合的短流程料理集合。",
+    "hubIntro": "給下班趕時間、想快點開飯的你，這一頁把步驟短、流程清楚的家常菜集中在一起。可按食材、標籤或烹調時間瀏覽，從常備的雞蛋、番茄、豆腐下手最省事也順手；也能連到一人料理、省錢料理或氣炸鍋等相關專區找更多靈感。Bloom Kitchen 整理多道十分鐘內也能完成的平日晚餐快手菜，讓忙碌的一天不必等到週末才開火。",
+    "seoTitle": "10 分鐘料理食譜｜快速完成的家常晚餐",
+    "seoDescription": "想快速做飯時，可以從 10 分鐘料理開始找，適合雞蛋、番茄、豆腐這類常備食材。",
+    "tags": [
+      "快速",
+      "平日晚餐",
+      "省時"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals",
+      "air-fryer-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "tofu",
+      "tomato"
+    ],
+    "labels": {
+      "zh-TW": "10 分鐘料理",
+      "en": "10-minute meals",
+      "ja": "10分でできる料理",
+      "ko": "10분 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "A collection of short-step meals for the days you are busy and need dinner fast.",
+        "hubIntro": "For busy weeknights when you want dinner on the table fast. Browse by ingredient, tag, or cooking time, and start with pantry staples like eggs, tomatoes, and tofu. You can also jump to related hubs such as cooking for one, budget meals, or air fryer ideas. Bloom Kitchen rounds up short, clear home-style recipes so weekday cooking does not have to wait for the weekend.",
+        "seoTitle": "10-Minute Meal Recipes | Quick Home Dinners",
+        "seoDescription": "When you need dinner fast, start with 10-minute meals using eggs, tomatoes, tofu, and other pantry basics.",
+        "tags": [
+          "Quick",
+          "Weeknight dinner",
+          "Time-saving"
+        ]
+      },
+      "ja": {
+        "description": "忙しい日にさっと食べたいときに役立つ、短い工程で作れる料理のまとめです。",
+        "hubIntro": "仕事帰りに急いで食べたい人向けのまとめです。食材、タグ、調理時間から探せます。卵、トマト、豆腐などの定番から選ぶと手早いです。一人分、節約料理、ノンフライヤーなど関連シーンにもつながります。Bloom Kitchen では工程が短く、手順が分かりやすい家庭料理を集めています。",
+        "seoTitle": "10分料理レシピ | 手早く作れる家庭の夕食",
+        "seoDescription": "卵、トマト、豆腐などの定番食材で、すぐ作れる10分料理を集めました。",
+        "tags": [
+          "時短",
+          "平日ごはん",
+          "手軽"
+        ]
+      },
+      "ko": {
+        "description": "바쁜 날에도 빠르게 식사를 차릴 수 있는 짧은 조리 과정의 요리 모음입니다.",
+        "hubIntro": "퇴근 후 빨리 식사를 차리고 싶은 분을 위한 모음입니다. 재료, 태그, 조리 시간으로 찾아볼 수 있고, 달걀, 토마토, 두부 같은 기본 재료부터 고르면 편합니다. 1인 요리, 알뜰 요리, 에어프라이어 요리 같은 관련 주제로도 이어집니다. Bloom Kitchen에는 단계가 짧고 흐름이 분명한 집밥 레시피가 모여 있습니다.",
+        "seoTitle": "10분 요리 레시피 | 빠르게 완성하는 집밥 저녁",
+        "seoDescription": "달걀, 토마토, 두부 같은 기본 재료로 빠르게 만들 수 있는 10분 요리를 모았습니다.",
+        "tags": [
+          "빠른 요리",
+          "평일 저녁",
+          "시간 절약"
+        ]
+      }
+    }
+  },
+  {
+    "name": "高蛋白料理",
+    "slug": "high-protein-meals",
+    "description": "以雞胸肉、豆腐、雞蛋等高蛋白食材為主的日常主菜方向。",
+    "hubIntro": "給想增加蛋白質、健身後補充，或需要飽足感主菜的你。可依雞胸肉、豆腐、雞蛋等食材篩選，先看主菜再配對便當或氣炸做法；也可以對照減脂料理、便當菜與氣炸鍋專區找更適合的搭配組合。Bloom Kitchen 收錄多道不必太複雜調味、在家也能穩定完成的日常高蛋白家常菜，從煎、蒸到氣炸都找得到，每週輪替也不膩。",
+    "seoTitle": "高蛋白料理食譜｜雞胸肉與豆腐的簡單做法",
+    "seoDescription": "整理高蛋白料理，適合用雞胸肉、雞蛋、豆腐做出簡單但有飽足感的餐點。",
+    "tags": [
+      "高蛋白",
+      "健身",
+      "主菜"
+    ],
+    "relatedScenarios": [
+      "weight-loss-meals",
+      "bento-meals",
+      "air-fryer-meals"
+    ],
+    "commonIngredients": [
+      "chicken-breast",
+      "egg",
+      "tofu"
+    ],
+    "labels": {
+      "zh-TW": "高蛋白料理",
+      "en": "High-protein meals",
+      "ja": "高タンパク料理",
+      "ko": "고단백 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Everyday main dishes built around high-protein staples such as chicken breast, tofu, and eggs.",
+        "hubIntro": "For anyone who wants more protein, a post-workout meal, or a filling main dish at home. Filter by chicken breast, tofu, eggs, and other staples, then explore related hubs like light and lean meals, bento-friendly dishes, or air fryer cooking. Bloom Kitchen collects straightforward high-protein home recipes you can repeat without fuss, from pan-fried to steamed and air-fried.",
+        "seoTitle": "High-Protein Recipes | Easy Chicken Breast and Tofu Meals",
+        "seoDescription": "Find satisfying high-protein meals with chicken breast, eggs, tofu, and other simple everyday ingredients.",
+        "tags": [
+          "High protein",
+          "Fitness",
+          "Main dish"
+        ]
+      },
+      "ja": {
+        "description": "鶏むね肉、豆腐、卵などの高タンパク食材を中心にした、毎日作りやすい主菜です。",
+        "hubIntro": "タンパク質を増やしたい人、運動後の食事、満足感のある主菜を探している人向けのまとめです。鶏むね肉、豆腐、卵などから絞り込めます。低脂質、お弁当向け、ノンフライヤーなど関連シーンも見比べやすいです。Bloom Kitchen では複雑な調味なしで作れる高タンパクの家庭料理を多数掲載しています。",
+        "seoTitle": "高タンパク料理レシピ | 鶏むね肉と豆腐の簡単ごはん",
+        "seoDescription": "鶏むね肉、卵、豆腐などで作る、満足感のある高タンパク料理をまとめました。",
+        "tags": [
+          "高タンパク",
+          "筋トレ",
+          "主菜"
+        ]
+      },
+      "ko": {
+        "description": "닭가슴살, 두부, 달걀 같은 고단백 재료를 중심으로 한 일상용 메인 요리입니다.",
+        "hubIntro": "단백질을 늘리고 싶거나, 운동 후 한 끼, 든든한 메인 요리가 필요한 분을 위한 모음입니다. 닭가슴살, 두부, 달걀 같은 재료로 필터링할 수 있고, 다이어트 요리, 도시락 반찬, 에어프라이어 요리 같은 관련 주제도 함께 볼 수 있습니다. Bloom Kitchen에는 복잡한 양념 없이 집에서 반복하기 좋은 고단백 집밥 레시피가 많이 있습니다.",
+        "seoTitle": "고단백 요리 레시피 | 닭가슴살과 두부로 만드는 간단한 식사",
+        "seoDescription": "닭가슴살, 달걀, 두부로 만드는 든든한 고단백 집밥 레시피를 모았습니다.",
+        "tags": [
+          "고단백",
+          "운동식",
+          "메인 요리"
+        ]
+      }
+    }
+  },
+  {
+    "name": "減脂料理",
+    "slug": "weight-loss-meals",
+    "description": "以清爽、份量感足、較低負擔的主菜與配菜為主的料理情境。",
+    "hubIntro": "給想吃得清爽、控制油脂又不想餓肚子、希望長期調整飲食的你。可依雞胸肉、青花菜、菇類等食材瀏覽，先挑主菜再看份量與調味提示；也能串連高蛋白、便當菜或氣炸鍋等較輕量且好準備的做法方向。Bloom Kitchen 整理多道纖維與蛋白質兼顧的家常減脂菜，份量感足、調味不過重，適合平日持續執行而不覺得委屈自己。",
+    "seoTitle": "減脂料理食譜｜清爽又有飽足感的家常菜",
+    "seoDescription": "想找減脂料理時，可以從雞胸肉、青花菜、菇類等食材出發。",
+    "tags": [
+      "減脂",
+      "清爽",
+      "高纖"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "bento-meals",
+      "air-fryer-meals"
+    ],
+    "commonIngredients": [
+      "chicken-breast",
+      "broccoli",
+      "mushroom"
+    ],
+    "labels": {
+      "zh-TW": "減脂料理",
+      "en": "Light & lean meals",
+      "ja": "低脂質の料理",
+      "ko": "다이어트 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Light, satisfying meals built around clean flavors, good volume, and a lighter everyday feel.",
+        "hubIntro": "For anyone who wants lighter meals without going hungry. Browse by chicken breast, broccoli, mushrooms, and other lighter staples, then explore related hubs like high-protein meals, bento-friendly dishes, or air fryer cooking. Bloom Kitchen gathers home-style light and lean recipes with good volume and balanced seasoning you can keep up on ordinary weeknights.",
+        "seoTitle": "Light & Lean Recipes | Fresh and Filling Home Cooking",
+        "seoDescription": "Start your light and lean meal planning with chicken breast, broccoli, mushrooms, and other lighter staples.",
+        "tags": [
+          "Light",
+          "Fresh",
+          "High fiber"
+        ]
+      },
+      "ja": {
+        "description": "さっぱりした味わいでボリューム感もあり、日々の負担を抑えやすい料理シーンです。",
+        "hubIntro": "さっぱり食べたいけれど空腹になりたくない人向けのまとめです。鶏むね肉、ブロッコリー、きのこなどから探せます。高タンパク、お弁当向け、ノンフライヤーなど軽めの関連シーンにもつながります。Bloom Kitchen では食物繊維とタンパク質を意識した、ボリューム感のある家庭料理を集めています。",
+        "seoTitle": "低脂質レシピ | さっぱり食べ応えのある家庭料理",
+        "seoDescription": "鶏むね肉、ブロッコリー、きのこなどから探せる、軽やかな料理をまとめました。",
+        "tags": [
+          "低脂質",
+          "さっぱり",
+          "食物繊維"
+        ]
+      },
+      "ko": {
+        "description": "산뜻한 맛과 충분한 포만감을 갖추면서도 비교적 가볍게 먹기 좋은 요리 모음입니다.",
+        "hubIntro": "기름기를 줄이면서도 배고프지 않게 먹고 싶은 분을 위한 모음입니다. 닭가슴살, 브로콜리, 버섯 같은 재료로 찾아볼 수 있고, 고단백 요리, 도시락 반찬, 에어프라이어 요리 같은 관련 주제로도 이어집니다. Bloom Kitchen에는 식이섬유와 단백질을 함께 챙길 수 있는 가벼운 집밥 레시피가 모여 있습니다.",
+        "seoTitle": "다이어트 요리 레시피 | 산뜻하면서 든든한 집밥",
+        "seoDescription": "닭가슴살, 브로콜리, 버섯처럼 가볍게 활용하기 좋은 재료로 찾는 다이어트 요리입니다.",
+        "tags": [
+          "다이어트",
+          "산뜻함",
+          "고식이섬유"
+        ]
+      }
+    }
+  },
+  {
+    "name": "便當菜",
+    "slug": "bento-meals",
+    "description": "適合提前準備、分裝帶走，也能在隔天加熱後維持口感的料理。",
+    "hubIntro": "這個專區給週間需要帶便當、想週末先備好幾道主菜的你。Bloom Kitchen 把隔天加熱仍好吃的菜色集中在一起，你可以先看標籤與常見食材，再挑電鍋雞胸、菇類配菜或穩定主食的搭配組合。不必每天重想菜單，也能讓午餐盒裡有主菜有配菜，省時又不委屈口味，週一開盒就能安心開動，下班後也不必再為明天煩惱菜色。",
+    "seoTitle": "便當菜食譜｜提早準備也好吃的家常主菜",
+    "seoDescription": "整理適合便當的料理情境，包含電鍋雞胸肉、菇類配菜與穩定主食搭配。",
+    "tags": [
+      "便當",
+      "可分裝",
+      "工作日"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "weight-loss-meals",
+      "air-fryer-meals"
+    ],
+    "commonIngredients": [
+      "chicken-breast",
+      "broccoli",
+      "rice"
+    ],
+    "labels": {
+      "zh-TW": "便當菜",
+      "en": "Bento-friendly dishes",
+      "ja": "お弁当向けのおかず",
+      "ko": "도시락 반찬"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Recipes that hold up well for make-ahead packing and still taste good after reheating the next day.",
+        "hubIntro": "This hub is for anyone packing weekday lunches or batch-cooking mains on the weekend. Bloom Kitchen groups dishes that still taste good after reheating—browse by tags or pantry staples, then pick chicken breast, mushroom sides, or reliable rice pairings. Spend less time planning tomorrow's box without giving up flavor.",
+        "seoTitle": "Bento-Friendly Recipes | Make-Ahead Home-Style Main Dishes",
+        "seoDescription": "Find lunchbox-friendly dishes with chicken breast, mushrooms, reliable staples, and easy weekday pairings.",
+        "tags": [
+          "Lunchbox",
+          "Packable",
+          "Workday"
+        ]
+      },
+      "ja": {
+        "description": "作り置きして詰めやすく、翌日に温め直しても食感が保ちやすい料理です。",
+        "hubIntro": "平日お弁当を詰めたい人や、週末に主菜をまとめて作りたい人向けのまとめです。Bloom Kitchen では、翌日に温め直してもおいしさが保ちやすいレシピを集めました。タグやよく使う食材から選び、蒸し鶏、きのこの副菜、定番のごはん合わせを組み合わせてください。毎日の献立を考えすぎず、満足感のあるお弁当を続けられます。",
+        "seoTitle": "お弁当向けレシピ | 作り置きしてもおいしい家庭の主菜",
+        "seoDescription": "蒸し鶏、きのこの副菜、定番の主食合わせなど、お弁当に向く料理をまとめました。",
+        "tags": [
+          "お弁当",
+          "詰めやすい",
+          "平日"
+        ]
+      },
+      "ko": {
+        "description": "미리 준비해 나눠 담기 좋고, 다음 날 다시 데워도 식감이 잘 유지되는 요리입니다.",
+        "hubIntro": "평일 도시락을 챙기거나 주말에 메인 반찬을 미리 준비하고 싶은 분을 위한 모음입니다. Bloom Kitchen은 다음 날 데워도 맛이 잘 유지되는 요리를 모았습니다. 태그나 자주 쓰는 재료부터 살펴본 뒤, 닭가슴살, 버섯 반찬, 든든한 밥 조합을 골라 보세요. 매일 메뉴를 고민하지 않아도 든든한 도시락을 채울 수 있습니다.",
+        "seoTitle": "도시락 반찬 레시피 | 미리 준비해도 맛있는 집밥 메인 메뉴",
+        "seoDescription": "닭가슴살, 버섯 반찬, 든든한 주식 조합 등 도시락으로 챙기기 좋은 요리를 모았습니다.",
+        "tags": [
+          "도시락",
+          "소분 가능",
+          "평일"
+        ]
+      }
+    }
+  },
+  {
+    "name": "省錢料理",
+    "slug": "budget-meals",
+    "description": "用常備食材與少量調味就能完成，適合控制餐費的平日菜色。",
+    "hubIntro": "給想在不委屈胃口的同時，把平日晚餐成本壓下來的你。這裡的省錢料理不靠複雜技巧，你可以先從雞蛋、豆腐、剩飯等常備食材篩選，再依標籤找快手或一人份做法。Bloom Kitchen 幫你把低花費也能吃飽的家常菜整理成清單，讓開冰箱就能動手，不必為了省錢只吃泡麵或外送，也能維持台灣小廚房溫暖又實在的家常感。",
+    "seoTitle": "省錢料理食譜｜用雞蛋豆腐做出家常晚餐",
+    "seoDescription": "當你想控制餐費時，可以先從雞蛋、豆腐、剩飯這些常備食材找菜。",
+    "tags": [
+      "省錢",
+      "家常",
+      "常備菜"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "fridge-cleanout-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "tofu",
+      "rice"
+    ],
+    "labels": {
+      "zh-TW": "省錢料理",
+      "en": "Budget-friendly meals",
+      "ja": "節約料理",
+      "ko": "알뜰 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Weeknight meals built from pantry staples and a little seasoning to help keep food costs under control.",
+        "hubIntro": "This hub is for anyone who wants filling weeknight dinners without overspending. Bloom Kitchen lists budget-friendly home cooking built from eggs, tofu, leftover rice, and other pantry staples—filter by tags to find quick single-serving ideas. Open the fridge and start cooking instead of defaulting to instant noodles or delivery.",
+        "seoTitle": "Budget-Friendly Recipes | Home Dinners with Eggs and Tofu",
+        "seoDescription": "When you want to spend less, start with eggs, tofu, leftover rice, and other affordable kitchen staples.",
+        "tags": [
+          "Budget",
+          "Home cooking",
+          "Pantry staples"
+        ]
+      },
+      "ja": {
+        "description": "常備食材と少ない調味料で作れて、食費を抑えたい平日に向く料理です。",
+        "hubIntro": "食費を抑えたいけれど、満足感のある平日ごはんも食べたい人向けです。Bloom Kitchen では、卵、豆腐、残りご飯などの常備食材から探せる節約レシピをまとめました。タグで時短や一人分の料理も見つけられます。インスタント麺や出前に頼らず、冷蔵庫を開けてすぐ作れる家庭料理から始められます。",
+        "seoTitle": "節約レシピ | 卵と豆腐で作る家庭の夕食",
+        "seoDescription": "食費を抑えたいときに、卵、豆腐、残りご飯などから探しやすい料理をまとめました。",
+        "tags": [
+          "節約",
+          "家庭料理",
+          "常備菜"
+        ]
+      },
+      "ko": {
+        "description": "기본 식재료와 적은 양념만으로 만들 수 있어 식비를 아끼고 싶은 평일에 잘 맞는 요리입니다.",
+        "hubIntro": "식비는 줄이고 싶지만 든든한 평일 저녁도 포기하고 싶지 않은 분을 위한 모음입니다. Bloom Kitchen은 달걀, 두부, 남은 밥 같은 기본 재료로 만드는 알뜰 요리를 정리했습니다. 태그로 빠른 1인분 메뉴도 찾아 보세요. 라면이나 배달 대신 냉장고를 열고 바로 시작할 수 있는 집밥부터 고르시면 됩니다.",
+        "seoTitle": "알뜰 요리 레시피 | 달걀과 두부로 만드는 집밥 저녁",
+        "seoDescription": "식비를 줄이고 싶을 때 달걀, 두부, 남은 밥 같은 기본 재료로 찾기 좋은 요리입니다.",
+        "tags": [
+          "절약",
+          "집밥",
+          "상비 반찬"
+        ]
+      }
+    }
+  },
+  {
+    "name": "冰箱清庫存",
+    "slug": "fridge-cleanout-meals",
+    "description": "優先消化冰箱裡零散食材，靠現有材料也能拼出一餐的料理情境。",
+    "hubIntro": "冰箱裡只剩半顆高麗菜、幾顆蛋和昨天剩的一點菜？這個專區就是給不想為了湊一頓而特別出門買菜的你。你可以依現有食材或標籤往下瀏覽，把零散材料變成完整一餐，減少浪費也減輕備料壓力。Bloom Kitchen 整理的是「先開冰箱再決定菜色」的靈活做法，適合清庫存週或月底想少跑一趟賣場的時候，讓剩料也能變成有飽足感的一餐。",
+    "seoTitle": "清冰箱料理食譜｜用現有食材湊出今天的一餐",
+    "seoDescription": "當冰箱裡只剩幾樣零散食材時，可以從清冰箱料理開始找，減少浪費也降低備料壓力。",
+    "tags": [
+      "清冰箱",
+      "剩料",
+      "靈活搭配"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals",
+      "ten-minute-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "tofu",
+      "cabbage"
+    ],
+    "labels": {
+      "zh-TW": "冰箱清庫存",
+      "en": "Use up the fridge",
+      "ja": "冷蔵庫使い切り",
+      "ko": "냉장고 정리 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Flexible meals for using up odds and ends in the fridge and turning what you already have into a meal.",
+        "hubIntro": "This hub is for anyone staring at a fridge full of odds and ends and no desire to shop. Browse by what you already have or by tags, then turn scattered ingredients into a full meal with less waste and less prep stress. Bloom Kitchen focuses on flexible cook-from-the-fridge ideas for clean-out weeks or end-of-month pantry sweeps.",
+        "seoTitle": "Use-Up-the-Fridge Recipes | Make a Meal from What You Have",
+        "seoDescription": "When only a few ingredients are left, start here for flexible fridge-cleanout ideas that cut waste and planning stress.",
+        "tags": [
+          "Use-it-up",
+          "Leftovers",
+          "Flexible"
+        ]
+      },
+      "ja": {
+        "description": "冷蔵庫に残った半端な食材を優先して使い切り、今ある材料で一食にまとめる料理です。",
+        "hubIntro": "冷蔵庫に半端な食材だけが残っている日に、わざわざ買い出ししたくない人向けのまとめです。今ある食材やタグからレシピを選び、バラバラの材料を一食にまとめられます。無駄を減らし、下ごしらえの負担も軽くできます。Bloom Kitchen では「冷蔵庫を開いてから献立を決める」柔軟な料理を集めました。",
+        "seoTitle": "冷蔵庫整理レシピ | あるもので作る今日の一皿",
+        "seoDescription": "食材が少しずつ残った日に、無駄を減らしながら気軽に作れる冷蔵庫整理料理をまとめました。",
+        "tags": [
+          "使い切り",
+          "残りもの",
+          "自由に組み合わせ"
+        ]
+      },
+      "ko": {
+        "description": "냉장고에 조금씩 남은 재료를 우선 소진하면서 있는 재료로 한 끼를 만드는 요리입니다.",
+        "hubIntro": "냉장고에 조금씩 남은 재료만 있고, 한 끼를 위해 장을 보고 싶지 않은 분을 위한 모음입니다. 있는 재료나 태그로 레시피를 고르면 흩어진 식재료도 한 끼로 이어집니다. 음식물 낭비와 준비 부담을 함께 줄일 수 있습니다. Bloom Kitchen은 '냉장고를 먼저 열고 메뉴를 정하는' 유연한 요리를 모았습니다.",
+        "seoTitle": "냉장고 정리 레시피 | 집에 있는 재료로 만드는 한 끼",
+        "seoDescription": "재료가 조금씩 남았을 때 음식물 낭비와 장보기 부담을 줄여 주는 냉장고 정리 요리를 모았습니다.",
+        "tags": [
+          "냉장고 털기",
+          "남은 재료",
+          "유연한 조합"
+        ]
+      }
+    }
+  },
+  {
+    "name": "氣炸鍋料理",
+    "slug": "air-fryer-meals",
+    "description": "用氣炸鍋降低顧鍋時間，快速做出主菜與配菜的料理方向。",
+    "hubIntro": "家裡有氣炸鍋、想少顧爐火又能快速開飯的人，可以在這裡找靈感。依主菜或常見食材往下挑，從鮭魚、雞胸肉到青花菜都有現成組合；放入氣炸籃後就能去處理其他事。Bloom Kitchen 把少洗鍋、好分裝的菜色集中整理，適合平日晚餐或隔天帶餐，讓氣炸鍋真正變成廚房裡最省力的主力工具，不必再為了顧鍋而站在爐前發呆。",
+    "seoTitle": "氣炸鍋料理食譜｜少顧鍋也能完成的快速主菜",
+    "seoDescription": "想用氣炸鍋加快做飯流程時，可以從鮭魚、雞胸肉、青花菜等常見組合開始。",
+    "tags": [
+      "氣炸鍋",
+      "少顧鍋",
+      "快速主菜"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "bento-meals",
+      "ten-minute-meals"
+    ],
+    "commonIngredients": [
+      "salmon",
+      "chicken-breast",
+      "broccoli"
+    ],
+    "labels": {
+      "zh-TW": "氣炸鍋料理",
+      "en": "Air fryer meals",
+      "ja": "ノンフライヤー料理",
+      "ko": "에어프라이어 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Air fryer ideas that cut down on stove watching while still delivering quick mains and side dishes.",
+        "hubIntro": "If you have an air fryer and want less stove-watching at dinner, start here. Browse by main ingredient or tag—salmon, chicken breast, and broccoli combos are easy to find—then load the basket and move on to other tasks. Bloom Kitchen groups low-mess, packable air-fryer meals for weeknights or next-day lunches.",
+        "seoTitle": "Air Fryer Recipes | Quick Main Dishes with Less Stove Watching",
+        "seoDescription": "Use the air fryer to speed up dinner with salmon, chicken breast, broccoli, and other easy combinations.",
+        "tags": [
+          "Air fryer",
+          "Hands-off",
+          "Quick main dish"
+        ]
+      },
+      "ja": {
+        "description": "エアフライヤーでつきっきり時間を減らし、主菜も副菜も手早く作れる料理です。",
+        "hubIntro": "エアフライヤーで火の番を減らしつつ、夕食を早く整えたい人向けのまとめです。主菜やよく使う食材から選べ、サーモン、鶏むね肉、ブロッコリーなどの定番組み合わせも見つけやすくなっています。バスケットに入れてから他の作業に移れます。Bloom Kitchen では、洗い物が少なく詰めやすいレシピを集め、平日の夕食や翌日のお弁当にも使えます。",
+        "seoTitle": "エアフライヤーレシピ | 見張りを減らせる手軽な主菜",
+        "seoDescription": "サーモン、鶏むね肉、ブロッコリーなどで作る、手早いエアフライヤー料理をまとめました。",
+        "tags": [
+          "エアフライヤー",
+          "ほったらかし",
+          "時短主菜"
+        ]
+      },
+      "ko": {
+        "description": "에어프라이어로 불 앞에 오래 서 있지 않아도 메인과 사이드를 빠르게 완성할 수 있는 요리입니다.",
+        "hubIntro": "에어프라이어로 불 앞에 덜 서 있으면서 빠르게 저녁을 차리고 싶은 분을 위한 모음입니다. 메인 재료나 태그로 골라 보면 연어, 닭가슴살, 브로콜리 같은 기본 조합도 쉽게 찾을 수 있습니다. 바구니에 넣은 뒤 다른 일을 이어가면 됩니다. Bloom Kitchen은 설거지 부담이 적고 도시락으로도 좋은 에어프라이어 요리를 모았습니다.",
+        "seoTitle": "에어프라이어 요리 레시피 | 덜 지켜봐도 되는 빠른 메인 메뉴",
+        "seoDescription": "연어, 닭가슴살, 브로콜리 같은 재료로 식사 준비를 빠르게 끝내는 에어프라이어 레시피입니다.",
+        "tags": [
+          "에어프라이어",
+          "덜 지켜봄",
+          "빠른 메인"
+        ]
+      }
+    }
+  },
+  {
+    "name": "電鍋料理",
+    "slug": "electric-pot-meals",
+    "description": "用電鍋一次完成主食與配菜，適合租屋族不想顧多口鍋的平日料理。",
+    "hubIntro": "如果你租屋只有一口電鍋、又不想在平日顧好幾口爐，Bloom Kitchen 這個電鍋料理專區就是為你整理的。你可以先從常見主菜方向挑，或直接往下捲看推薦食譜卡片；想快速開飯時，也能用標籤鎖定免顧鍋、一人份做法。這裡不只收錄蒸雞胸與燉豆腐，還有電鍋就能完成的簡易湯品與配菜組合，讓小廚房也能穩定端出熱騰騰的一餐。",
+    "seoTitle": "電鍋料理食譜｜一人份免顧鍋的家常做法",
+    "seoDescription": "整理適合電鍋的一人份料理，包含蒸雞胸、燉豆腐與簡易湯品，適合租屋族平日晚餐。",
+    "tags": [
+      "電鍋",
+      "免顧鍋",
+      "租屋"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals",
+      "budget-meals"
+    ],
+    "commonIngredients": [
+      "chicken-breast",
+      "tofu",
+      "rice"
+    ],
+    "labels": {
+      "zh-TW": "電鍋料理",
+      "en": "Electric pot meals",
+      "ja": "電気鍋料理",
+      "ko": "전기밥솥 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Electric-pot meals that can handle both the main dish and the side, perfect for small kitchens and busy weekdays.",
+        "hubIntro": "If you only have one electric pot and do not want to watch multiple burners on a weeknight, this hub is for renters and small-kitchen cooks. Start with the six recommended recipes below, or scroll the list and filter by hands-off and single-serving tags. Along with steamed chicken breast and braised tofu, you will also find simple soups and side pairings that finish in one pot.",
+        "seoTitle": "Electric Pot Recipes | Easy One-Person Home Cooking",
+        "seoDescription": "Find one-person electric-pot meals such as steamed chicken breast, braised tofu, and simple soups for weekday dinners.",
+        "tags": [
+          "Electric pot",
+          "Hands-off",
+          "Small-space cooking"
+        ]
+      },
+      "ja": {
+        "description": "電気鍋ひとつで主食とおかずをまとめて作れ、小さなキッチンや平日に向く料理です。",
+        "hubIntro": "電気鍋がひとつしかなく、平日に複数の火を見張りたくない一人暮らしや狭いキッチン向けのまとめです。下のおすすめ6品から選ぶか、レシピ一覧をスクロールして「ほったらかし」「一人分」タグで絞れます。蒸し鶏むね肉や豆腐の煮物に加え、同じ鍋で仕上がる簡単スープや副菜の組み合わせも載せています。",
+        "seoTitle": "電気鍋レシピ | 一人分で作りやすい家庭料理",
+        "seoDescription": "蒸し鶏むね肉、豆腐の煮物、簡単スープなど、一人分の電気鍋料理をまとめました。",
+        "tags": [
+          "電気鍋",
+          "ほったらかし",
+          "省スペース調理"
+        ]
+      },
+      "ko": {
+        "description": "전기냄비 하나로 주식과 반찬을 함께 만들 수 있어 작은 주방과 평일 식사 준비에 잘 맞는 요리입니다.",
+        "hubIntro": "전기냄비 하나만 있고 평일에 여러 불을 지키기 싫은 자취생과 소형 주방을 위한 모음입니다. 아래 추천 6가지부터 고르거나, 목록을 내려보며 방치 조리·1인분 태그로 좁혀 보세요. 찐 닭가슴살과 두부 조림뿐 아니라 같은 냄비로 끝나는 간단한 국물과 반찬 조합도 함께 정리했습니다.",
+        "seoTitle": "전기냄비 요리 레시피 | 1인분 집밥에 좋은 간편 메뉴",
+        "seoDescription": "찐 닭가슴살, 두부 조림, 간단한 국물 요리 등 1인분 전기냄비 레시피를 모았습니다.",
+        "tags": [
+          "전기냄비",
+          "방치 조리",
+          "소형 주방"
+        ]
+      }
+    }
+  },
+  {
+    "name": "剩飯料理",
+    "slug": "leftover-rice-meals",
+    "description": "把前一天的白飯變成炒飯、蓋飯或煎餅，減少浪費也更快開飯。",
+    "hubIntro": "冰箱裡還有一盒隔夜白飯，卻不知道要怎麼變成今晚的一餐？這個剩飯料理專區適合想清庫存、又不想大費周章的你。先從下方推薦食譜挑一道順眼的，或依標籤找快手、清冰箱方向；除了經典炒飯與蓋飯，也收錄蛋煎餅這類十來分鐘就能完成的一人份做法，讓剩飯不再只是微波選項，也能變成有料又省時的平日晚餐，順手把前一天的米飯變成今晚的主角。",
+    "seoTitle": "剩飯料理食譜｜白飯變炒飯蓋飯的快手做法",
+    "seoDescription": "當冰箱裡還有剩飯時，可以從剩飯料理找炒飯、蓋飯與蛋煎餅，10 分鐘就能完成一人份晚餐。",
+    "tags": [
+      "剩飯",
+      "清冰箱",
+      "快手"
+    ],
+    "relatedScenarios": [
+      "fridge-cleanout-meals",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "commonIngredients": [
+      "rice",
+      "egg",
+      "scallion"
+    ],
+    "labels": {
+      "zh-TW": "剩飯料理",
+      "en": "Leftover rice meals",
+      "ja": "残りご飯料理",
+      "ko": "남은 밥 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Turn yesterday's rice into fried rice, rice bowls, or savory pancakes for a faster, less wasteful meal.",
+        "hubIntro": "If you have leftover rice in the fridge and want a real dinner instead of a microwave reheat, this hub is for you. Pick one of the six recommendations below, or browse the list with quick and use-it-up tags. Beyond fried rice and rice bowls, you will also find egg pancakes and other one-person meals you can finish in about ten minutes.",
+        "seoTitle": "Leftover Rice Recipes | Quick Fried Rice and Rice Bowl Ideas",
+        "seoDescription": "Use leftover rice for fried rice, rice bowls, and egg pancakes that make an easy one-person meal in around 10 minutes.",
+        "tags": [
+          "Leftover rice",
+          "Use-it-up",
+          "Quick fix"
+        ]
+      },
+      "ja": {
+        "description": "前日のご飯を炒飯、丼、焼きものに変えて、無駄を減らしながら手早く食べられる料理です。",
+        "hubIntro": "冷蔵庫に残りご飯があるのに、今夜の一品に迷っている方向けのまとめです。下のおすすめから選ぶか、「時短」「使い切り」タグで絞りながら一覧を見てください。定番の炒飯や丼に加え、卵焼き風など10分前後で一人分を作れるレシピも載せています。",
+        "seoTitle": "残りご飯レシピ | 炒飯や丼に変える時短ごはん",
+        "seoDescription": "冷蔵庫に残りご飯がある日に、炒飯、丼、卵焼き風で一人分を素早く作れる料理をまとめました。",
+        "tags": [
+          "残りご飯",
+          "使い切り",
+          "時短"
+        ]
+      },
+      "ko": {
+        "description": "어제 남은 밥을 볶음밥, 덮밥, 전처럼 바꿔 음식물 낭비를 줄이면서 빠르게 한 끼를 만들 수 있는 요리입니다.",
+        "hubIntro": "냉장고에 남은 밥이 있는데 그냥 데우기만 하기 아쉬울 때를 위한 모음입니다. 아래 추천 6가지부터 고르거나, 빠른 조리·냉장고 털기 태그로 목록을 좁혀 보세요. 볶음밥과 덮밥 외에도 달걀전처럼 10분 안팎에 1인분을 만들 수 있는 레시피도 함께 정리했습니다.",
+        "seoTitle": "남은 밥 요리 레시피 | 볶음밥과 덮밥으로 빠르게 완성",
+        "seoDescription": "냉장고에 밥이 남아 있을 때 볶음밥, 덮밥, 달걀전으로 10분 안팎에 만들기 좋은 레시피입니다.",
+        "tags": [
+          "남은 밥",
+          "냉장고 털기",
+          "간단 조리"
+        ]
+      }
+    }
+  },
+  {
+    "name": "宵夜料理",
+    "slug": "late-night-meals",
+    "description": "深夜想填肚子但不想到太油膩或太複雜的輕量一人份料理。",
+    "hubIntro": "加班到很晚、肚子餓了卻不想開太複雜的菜？這個宵夜料理專區給需要輕量填飽肚子的夜貓族與一人小廚房。你可以先瀏覽下方六道推薦，或直接從食譜列表挑步驟短的選項；這裡聚焦湯麵、炒飯與小鍋菜等一人份做法，油膩度適中、不用開大火也能快手上桌，讓深夜廚房少一點折騰、多一點暖胃又不會太撐的選擇，適合只想簡單煮一點就睡的夜晚。",
+    "seoTitle": "宵夜料理食譜｜深夜也能快速完成的一人份",
+    "seoDescription": "整理適合宵夜的輕量一人份料理，包含湯麵、炒飯與簡易小鍋菜，步驟短、油膩度適中。",
+    "tags": [
+      "宵夜",
+      "輕量",
+      "一人份"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal",
+      "budget-meals"
+    ],
+    "commonIngredients": [
+      "egg",
+      "noodles",
+      "tofu"
+    ],
+    "labels": {
+      "zh-TW": "宵夜料理",
+      "en": "Late-night meals",
+      "ja": "夜食",
+      "ko": "야식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Lighter one-person meals for late at night when you want something filling but not too greasy or complicated.",
+        "hubIntro": "When you are hungry late at night but do not want a heavy or fussy cook, this hub is for night owls and solo kitchens. Start with the six picks below, or browse the recipe list for short-step options. It focuses on noodle soups, fried rice, and easy one-pot dishes that feel warm without being too greasy or hard to finish before bed.",
+        "seoTitle": "Late-Night Recipes | Fast One-Person Suppers",
+        "seoDescription": "Browse lighter late-night meals like noodle soups, fried rice, and easy one-pot dishes with short cooking steps.",
+        "tags": [
+          "Late night",
+          "Light",
+          "Single serving"
+        ]
+      },
+      "ja": {
+        "description": "夜遅くに小腹を満たしたいときに向く、重すぎず工程も多すぎない一人分の料理です。",
+        "hubIntro": "夜遅くに小腹が空いたけれど、重い料理や手順の多い調理は避けたい方向けのまとめです。下のおすすめ6品から選ぶか、手順の短いレシピを一覧から探してください。汁麺、炒飯、小鍋料理など、一人分で作りやすく油っこさ控えめの夜食を中心に載せています。",
+        "seoTitle": "夜食レシピ | 深夜でも手早く作れる一人分ごはん",
+        "seoDescription": "汁麺、炒飯、小鍋料理など、手順が短くて重すぎない夜食向けレシピをまとめました。",
+        "tags": [
+          "夜食",
+          "軽め",
+          "一人分"
+        ]
+      },
+      "ko": {
+        "description": "늦은 밤에 출출할 때 너무 기름지거나 복잡하지 않게 만들 수 있는 가벼운 1인분 요리입니다.",
+        "hubIntro": "늦은 밤 배는 고프지만 너무 기름지거나 복잡한 요리는 피하고 싶을 때를 위한 모음입니다. 아래 추천 6가지부터 보거나, 조리 단계가 짧은 레시피를 목록에서 골라 보세요. 국수, 볶음밥, 간단한 냄비 요리처럼 1인분으로 부담 적게 먹기 좋은 야식을 중심으로 정리했습니다.",
+        "seoTitle": "야식 레시피 | 밤에도 빠르게 만드는 1인분 식사",
+        "seoDescription": "국수, 볶음밥, 간단한 냄비 요리처럼 조리 단계가 짧고 부담이 덜한 야식 레시피를 모았습니다.",
+        "tags": [
+          "야식",
+          "가벼움",
+          "1인분"
+        ]
+      }
+    }
+  },
+  {
+    "name": "無肉料理",
+    "slug": "meatless-meals",
+    "description": "以蛋、豆腐、蔬菜與菇類為主的一人份料理，不必開大火也能吃飽。",
+    "hubIntro": "週間想少吃肉、或冰箱剛好沒有肉片，這個無肉料理專區適合想靠蛋、豆腐與蔬菜也能吃飽的你。先從下方推薦食譜挑一道，或依標籤找蛋奶素、清冰箱方向；這裡整理平日晚餐日常好做的組合，從菇類小炒到豆腐主菜都有，步驟不複雜、不必開大火，也能讓一人份餐桌有飽足感，不必為了無肉而委屈口味，或花太多時間備料與洗鍋洗碗。",
+    "seoTitle": "無肉料理食譜｜蛋豆腐蔬菜的一人份做法",
+    "seoDescription": "想找無肉料理時，可以從豆腐、雞蛋、菇類與蔬菜出發，做出有飽足感的一人份平日晚餐。",
+    "tags": [
+      "無肉",
+      "蛋奶素",
+      "蔬菜"
+    ],
+    "relatedScenarios": [
+      "budget-meals",
+      "weight-loss-meals",
+      "fridge-cleanout-meals"
+    ],
+    "commonIngredients": [
+      "tofu",
+      "egg",
+      "mushroom"
+    ],
+    "labels": {
+      "zh-TW": "無肉料理",
+      "en": "Meatless meals",
+      "ja": "ノンミート料理",
+      "ko": "무고기 요리"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Meat-free one-person dishes built around eggs, tofu, vegetables, and mushrooms without heavy cooking.",
+        "hubIntro": "If you want to eat less meat or simply do not have any on hand, this hub is for cooks who still want a filling one-person dinner. Start with the six recommendations below, or browse by meatless and use-it-up tags. From mushroom stir-fries to tofu mains, these weeknight ideas stay simple, skip heavy heat, and do not ask you to trade flavor for convenience.",
+        "seoTitle": "Meatless Recipes | Eggs, Tofu, and Vegetables for One",
+        "seoDescription": "Start with tofu, eggs, mushrooms, and vegetables for meatless meals that still feel filling on a busy night.",
+        "tags": [
+          "Meatless",
+          "Vegetarian-friendly",
+          "Vegetables"
+        ]
+      },
+      "ja": {
+        "description": "卵、豆腐、野菜、きのこを中心にした、強火に頼らず作りやすい一人分の料理です。",
+        "hubIntro": "平日に肉を減らしたい日や、冷蔵庫に肉がない日に、卵・豆腐・野菜で満たしたい方向けのまとめです。下のおすすめから選ぶか、「肉なし」「使い切り」タグで絞りながら探してください。きのこの炒め物から豆腐の主菜まで、強火に頼らず作れる一人分の組み合わせを載せています。",
+        "seoTitle": "肉なしレシピ | 卵と豆腐と野菜で作る一人分ごはん",
+        "seoDescription": "豆腐、卵、きのこ、野菜を使って、平日でも満足感のある肉なし料理を探せます。",
+        "tags": [
+          "肉なし",
+          "卵乳菜食",
+          "野菜"
+        ]
+      },
+      "ko": {
+        "description": "달걀, 두부, 채소, 버섯을 중심으로 하여 센 불 없이도 든든하게 만들 수 있는 1인분 요리입니다.",
+        "hubIntro": "평일에 고기를 줄이고 싶거나 냉장고에 고기가 없을 때, 달걀·두부·채소로 든든하게 먹고 싶은 분을 위한 모음입니다. 아래 추천 6가지부터 고르거나, 무고기·냉장고 털기 태그로 목록을 좁혀 보세요. 버섯 볶음부터 두부 메인까지, 센 불 없이도 1인분 식사를 채울 수 있는 평일 조합을 정리했습니다.",
+        "seoTitle": "무고기 요리 레시피 | 달걀과 두부, 채소로 만드는 1인 식사",
+        "seoDescription": "두부, 달걀, 버섯, 채소로 평일 저녁에도 든든하게 먹기 좋은 무고기 레시피를 모았습니다.",
+        "tags": [
+          "고기 없음",
+          "채식 친화",
+          "채소"
+        ]
+      }
+    }
+  }
+]

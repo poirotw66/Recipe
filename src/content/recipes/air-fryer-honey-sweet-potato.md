@@ -1,0 +1,65 @@
+---
+title: "氣炸蜜蕃薯"
+description: "切塊蕃薯以蜜汁氣炸，外層微焦、內裡綿密，當主食或點心都合適。"
+coverImage: /images/recipes/air-fryer-honey-sweet-potato.webp
+servings: 1
+prepTime: 8
+cookTime: 18
+totalTime: 26
+difficulty: "簡單"
+calories: 220
+protein: 2
+fat: 4
+carbs: 48
+category: "家常菜"
+scenarios:
+- 氣炸鍋料理
+- 10 分鐘料理
+equipment:
+- 氣炸鍋
+tags:
+- 一人份
+- 氣炸鍋
+- 地瓜
+tips:
+- 想減少糖分可改用代糖或減半蜂蜜。
+- 食材表面先擦乾並單層鋪放，籃內留出熱風循環空間，成品才會均勻上色。
+substitutions: []
+relatedIngredients:
+- 地瓜
+customAdditions: []
+ingredients:
+- name: "地瓜"
+  amount: "1"
+  unit: "條"
+  isCore: true
+seasonings:
+- name: "蜂蜜"
+  amount: "1"
+  unit: "大匙"
+- name: "橄欖油"
+  amount: "1"
+  unit: "小匙"
+- name: "鹽"
+  amount: "少許"
+  unit: ""
+intro: "選細長型地瓜切塊較易均勻受熱；蜜汁最後才刷，避免過早焦糊。"
+steps:
+- 地瓜 1 條洗淨去皮，切約 2 公分見方塊；廚房紙巾吸乾表面水分，越乾蜜汁才不易出水。
+- 地瓜塊與橄欖油 1 小匙、少許鹽拌勻，靜置 2 分鐘讓油均勻附著。
+- 氣炸鍋設定 180°C，預熱 3 分鐘。
+- 地瓜平鋪炸籃，單層不堆疊；180°C 氣炸 10 分鐘，中途搖晃炸籃或翻面一次。
+- 取出炸籃，均勻刷上蜂蜜 1 大匙，再放回氣炸鍋；調高至 200°C 氣炸 6～8 分鐘，至表面焦糖化。
+- 以竹籤刺入中心應能輕鬆穿透、內裡綿密；起鍋靜置 1 分鐘讓蜜汁收乾即可上桌。
+storage: "現做現吃；冷藏 2 天，再加熱用氣炸鍋 160°C 4 分鐘。"
+faqs:
+- question: "可以用馬鈴薯嗎？"
+  answer: "可以，但馬鈴薯需先泡冷水去澱粉，氣炸時間略增 2～3 分鐘。"
+- question: "食材厚度不同時要怎麼調整氣炸時間？"
+  answer: "先以食譜時間完成，再從最厚處確認熟度；較厚的部位可每次增加 2～3 分鐘，避免一次加太久。"
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-07-30"
+---
+
+氣炸蜜蕃薯香氣足，很適合當一人晚餐的輕盈主食。

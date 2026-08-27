@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+import { t } from "../lib/i18n";
+
+Astro.response.status = 404;
+---
+
+<BaseLayout
+  title={t("zh-TW", "errors.notFoundTitle")}
+  description={t("zh-TW", "errors.notFoundDescription")}
+  canonicalPath="/404/"
+  robots="noindex, follow"
+>
+  <section class="article article-shell">
+    <Breadcrumb items={[{ name: t("zh-TW", "nav.home"), href: "/" }, { name: t("zh-TW", "errors.notFoundTitle") }]} />
+    <p class="eyebrow">404</p>
+    <h1 class="page-title">{t("zh-TW", "errors.notFoundHeading")}</h1>
+    <p class="page-copy">{t("zh-TW", "errors.notFoundBody")}</p>
+    <div class="chip-row">
+      <a class="button primary" href="/">{t("zh-TW", "errors.backHome")}</a>
+      <a class="button note" href="/recipes/">{t("zh-TW", "nav.recipes")}</a>
+      <a class="button note" href="/tools/fridge-recipe/">{t("zh-TW", "nav.fridge")}</a>
+    </div>
+  </section>
+</BaseLayout>

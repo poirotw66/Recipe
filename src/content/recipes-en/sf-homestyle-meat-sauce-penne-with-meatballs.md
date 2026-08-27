@@ -1,0 +1,96 @@
+---
+title: Homestyle Meat Sauce Penne With Meatballs
+recipeId: sf-homestyle-meat-sauce-penne-with-meatballs
+description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 肉醬、牛肉丸、番茄乾、起司."
+coverImage: /images/recipes/sf-homestyle-meat-sauce-penne-with-meatballs.webp
+servings: 1
+prepTime: 18
+cookTime: 18
+totalTime: 36
+difficulty: Medium
+calories: 690
+protein: 30
+fat: 26
+carbs: 84
+category: "Rice & pasta"
+scenarios:
+- High-protein meals
+- Cooking for one
+equipment:
+- Skillet
+- Pot
+tags:
+- Restaurant replica
+- Rice & pasta
+restaurantSource:
+  restaurant: 貳樓 Second Floor Cafe
+  dishName: 家鄉肉醬長管麵佐老媽肉丸
+  region: 全台連鎖
+intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+steps:
+- "Prep: halve beef meatballs 160 g; dice sun-dried tomatoes 40 g; shred cheese 40 g; mince garlic 2 cloves and onion ¼."
+- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook penne 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
+- Heat olive oil 1 Tbsp in a skillet over medium heat; sauté onion and garlic until translucent and sweet, about 2 minutes.
+- Add halved meatballs; sear 1.5–2 minutes per side until browned and heated through; set aside.
+- In the same pan, add meat sauce as needed and diced sun-dried tomatoes; bring to a boil over medium heat, then simmer on low 3–4 minutes until slightly thickened. Add 2–3 Tbsp pasta water to adjust consistency.
+- Raise heat to high; add penne; toss vigorously 1–2 minutes so sauce enters the tube centers.
+- Off heat, fold in half the shredded cheese; return seared meatballs on top.
+- Plate in a deep dish; top with remaining cheese and black pepper; serve hot to match Second Floor Cafe homestyle meat sauce penne with meatballs.
+tips:
+- Finish the main component and sauce separately before plating so the textures stay layered.
+- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
+storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
+substitutions:
+- 義大利麵
+- 香米
+relatedIngredients:
+- 牛肉丸
+- 番茄乾
+- 起司
+- 長管麵
+customAdditions: []
+faqs:
+- question: What makes this 家鄉肉醬長管麵佐老媽肉丸 feel closer to the restaurant version?
+  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+featured: false
+publishedAt: "2026-06-09"
+updatedAt: "2026-07-30"
+ingredients:
+- name: 牛肉丸
+  amount: "160"
+  unit: 公克
+  isCore: true
+- name: 番茄乾
+  amount: "40"
+  unit: 公克
+  isCore: true
+- name: 起司
+  amount: "40"
+  unit: 公克
+  isCore: true
+- name: 長管麵
+  amount: "180"
+  unit: 公克
+  isCore: true
+seasonings:
+- name: 橄欖油
+  amount: "1"
+  unit: 大匙
+- name: 海鹽
+  amount: "1/3"
+  unit: 小匙
+- name: 黑胡椒碎
+  amount: "1/4"
+  unit: 小匙
+- name: 肉醬
+  amount: "適量"
+  unit: ""
+---
+
+This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
+
+Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
+

@@ -1,0 +1,72 @@
+---
+import { bloss0mEcosystemLinks, brandName, brandTagline } from "../lib/site";
+import {
+  detectLocaleFromPath,
+  hreflangCode,
+  localeLabels,
+  localePath,
+  locales,
+  stripLocalePrefix,
+  t,
+  type Locale
+} from "../lib/i18n";
+
+interface Props {
+  locale?: Locale;
+  /** Path without locale prefix, matching the hreflang alternates. */
+  alternatePath?: string;
+  /** When set, only these locales have a built page for this URL. */
+  alternateLocales?: Locale[];
+}
+
+const locale = Astro.props.locale ?? detectLocaleFromPath(Astro.url.pathname);
+
+// Header language switcher is a JS <select>, so crawlers need real <a> links
+// between locales. Mirror the hreflang set exactly.
+const alternateBase = Astro.props.alternatePath ?? stripLocalePrefix(Astro.url.pathname);
+const languageLinks = (Astro.props.alternateLocales ?? [...locales])
+  .filter((code) => code !== locale)
+  .map((code) => ({
+    code,
+    href: localePath(code, alternateBase),
+    label: localeLabels[code],
+    hreflang: hreflangCode(code)
+  }));
+---
+
+<footer class="site-footer">
+  <div class="container site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__lead">
+        {brandName}（{brandTagline}）提供靜態食譜整理、政策頁與廣告說明，方便搜尋與掃讀。
+      </p>
+      <nav class="footer-ecosystem" aria-label="Bloss0m 生態">
+        {bloss0mEcosystemLinks.map((item) => (
+          item.current ? (
+            <span class="footer-ecosystem__current" aria-current="page">{item.label}</span>
+          ) : (
+            <a href={item.href} rel="noopener noreferrer">{item.label}</a>
+          )
+        ))}
+      </nav>
+    </div>
+    {
+      languageLinks.length > 0 && (
+        <nav class="footer-langs" aria-label={t(locale, "lang.switch")}>
+          <span class="footer-langs__label">{t(locale, "lang.switch")}</span>
+          {languageLinks.map((item) => (
+            <a href={item.href} hreflang={item.hreflang} lang={item.code}>
+              {item.label}
+            </a>
+          ))}
+        </nav>
+      )
+    }
+    <nav class="footer-links" aria-label="頁尾連結">
+      <a href={localePath(locale, "/about")}>{t(locale, "footer.about")}</a>
+      <a href={localePath(locale, "/contact")}>{t(locale, "footer.contact")}</a>
+      <a href={localePath(locale, "/privacy-policy")}>{t(locale, "footer.privacy")}</a>
+      <a href={localePath(locale, "/terms")}>{t(locale, "footer.terms")}</a>
+    </nav>
+  </div>
+</footer>

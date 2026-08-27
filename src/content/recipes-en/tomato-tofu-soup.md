@@ -1,0 +1,83 @@
+---
+title: Tomato Tofu Soup
+recipeId: tomato-tofu-soup
+description: A light soup for one or two—tangy tomato and tofu for easy protein.
+coverImage: /images/recipes/tomato-tofu-soup.webp
+servings: 2
+prepTime: 6
+cookTime: 12
+totalTime: 18
+difficulty: Easy
+calories: 210
+protein: 15
+fat: 9
+carbs: 18
+category: "Soup"
+scenarios:
+- Cooking for one
+- "Light & lean meals"
+equipment:
+- Stockpot
+ingredients:
+- name: Tomato
+  amount: '2'
+  unit: ''
+  isCore: true
+- name: Tofu
+  amount: '1'
+  unit: box
+  isCore: true
+- name: Scallions
+  amount: '1'
+  unit: stalk
+  isCore: false
+- name: Water
+  amount: '600'
+  unit: ml
+  isCore: false
+seasonings:
+- name: Olive oil
+  amount: '1'
+  unit: tsp
+- name: Salt
+  amount: 1/3
+  unit: tsp
+- name: Sesame oil
+  amount: pinch
+  unit: ''
+tags:
+- Soup
+- Lighter meals
+intro: Tomato tofu soup suits a lighter dinner or using up tomatoes that need to go.
+steps:
+- Chunk 2 tomatoes; cut 1 block tofu into 2 cm cubes; chop 1 scallion.
+- "Heat 1 tsp olive oil in the pot over medium; stir-fry tomatoes about 2 minutes until slightly soft and juicy."
+- "Pour in 600 ml water; bring to a boil over high heat, then cover and simmer on medium about 8 minutes until tomatoes break down."
+- Uncover; add tofu and simmer 3 minutes more until heated through (nudge gently so it does not break).
+- Season with 1/3 tsp salt, drizzle a pinch of sesame oil, scatter scallions, taste, and serve.
+tips:
+- Sauté tomatoes briefly before adding water for a deeper flavor.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
+storage: Refrigerate up to 2 days; reheat gently and avoid rough stirring so tofu stays intact.
+substitutions:
+- Egg
+- Mushrooms
+faqs:
+- question: Can I add egg?
+  answer: Yes—drizzle beaten egg at the end for a heartier bowl.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
+relatedIngredients:
+- 番茄
+- 豆腐
+- 青蔥
+featured: false
+publishedAt: '2026-05-29'
+updatedAt: "2026-07-30"
+customAdditions:
+- Fish balls
+- Clams
+- Ginger strips
+---
+
+The sweet-sour broth wakes up the appetite and pairs with plain rice.

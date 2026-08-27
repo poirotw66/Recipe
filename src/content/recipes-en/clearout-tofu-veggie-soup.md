@@ -1,0 +1,80 @@
+---
+title: Clear-Out Tofu Vegetable Soup
+recipeId: clearout-tofu-veggie-soup
+description: Tofu with cabbage and carrot in a clear soup—light seasoning, gentle dinner for one.
+coverImage: /images/recipes/clearout-tofu-veggie-soup.webp
+servings: 1
+prepTime: 8
+cookTime: 12
+totalTime: 20
+difficulty: Easy
+calories: 160
+protein: 12
+fat: 8
+carbs: 10
+category: "Soup"
+scenarios:
+- Cooking for one
+- 10-minute meals
+equipment:
+- Stockpot
+tags:
+- Single serving
+- Home cooking
+- Soup
+tips:
+- Ginger threads or goji berries add another layer.
+- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
+substitutions:
+- Mushrooms
+- Bok choy
+relatedIngredients:
+- 豆腐
+- 高麗菜
+- 紅蘿蔔
+customAdditions: []
+ingredients:
+- name: Tofu
+  amount: 1/2
+  unit: block
+  isCore: true
+- name: Cabbage
+  amount: '100'
+  unit: g
+  isCore: false
+- name: Carrot
+  amount: 1/3
+  unit: ''
+  isCore: false
+seasonings:
+- name: Water
+  amount: '600'
+  unit: ml
+- name: Salt
+  amount: pinch
+  unit: ''
+- name: White pepper
+  amount: pinch
+  unit: ''
+- name: Olive oil
+  amount: '1'
+  unit: tsp
+intro: No fixed formula—use whatever vegetables balance the bowl.
+steps:
+- Cut 1/2 block tofu into 2 cm cubes; slice 100 g leftover cabbage and thinly slice 1/3 carrot (swap in bok choy, mushrooms, or other fridge vegetables).
+- Warm 1 tsp olive oil in a stockpot over low heat; stir-fry carrot and cabbage 2 minutes until slightly soft and fragrant.
+- Pour in 600 ml water; bring to a boil over high heat, then reduce to medium-low, cover, and simmer 8 minutes until vegetables soften.
+- Uncover, add tofu, and simmer 3 minutes more until heated through—stir gently so tofu does not break.
+- Season with a pinch of salt and white pepper; taste before serving.
+storage: Refrigerate up to 2 days; reheat gently so tofu stays tender.
+faqs:
+- question: Only tofu, no vegetables?
+  answer: Yes—scallions and white pepper make a simple tofu soup.
+- question: "Can I keep the soup overnight?"
+  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+---
+
+Clear tofu vegetable soup is an easy light dinner when you want something warm.

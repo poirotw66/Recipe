@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>原型｜首頁｜PRD-005 Bloom Kitchen</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600&family=Noto+Serif+TC:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      /* Direction: 溫馨 · 精緻 · 高級 — warm ivory, champagne accent, soft depth */
+      :root {
+        --rice: #fffbf6;
+        --porcelain: #fffcf8;
+        --note: #faf4e8;
+        --board: #efe6d6;
+        --cooker: #ebe6de;
+        --soy-ink: #3a322c;
+        --mushroom: #756a60;
+        --sesame: #a3988f;
+        --bran-line: rgba(58, 50, 44, 0.1);
+        --caramel-line: #c9b08a;
+        --champagne: #c4a574;
+        --scallion: #3d6b52;
+        --scallion-deep: #2f5540;
+        --egg-yolk: #e8c078;
+        --tomato: #c45a48;
+        --shadow-sm: 0 2px 8px rgba(58, 50, 44, 0.04);
+        --shadow-md: 0 16px 40px rgba(58, 50, 44, 0.08);
+        --shadow-lg: 0 24px 56px rgba(58, 50, 44, 0.1);
+        --radius-sm: 8px;
+        --radius-md: 12px;
+        --radius-lg: 16px;
+        --font-display: "Noto Serif TC", "Songti TC", serif;
+        --font-ui: "Noto Sans TC", system-ui, sans-serif;
+        --space-2: 8px;
+        --space-3: 12px;
+        --space-4: 16px;
+        --space-6: 24px;
+        --space-8: 32px;
+        --space-10: 40px;
+        --space-12: 56px;
+        --space-16: 72px;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        color: var(--soy-ink);
+        background: var(--rice);
+        font-family: var(--font-ui);
+      }
+
+      body {
+        margin: 0;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 1.75;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .proto-banner {
+        background: var(--note);
+        border-bottom: 1px solid var(--bran-line);
+        padding: 10px var(--space-4);
+        font-size: 0.75rem;
+        color: var(--sesame);
+        text-align: center;
+        letter-spacing: 0.04em;
+      }
+
+      .container {
+        width: min(1120px, calc(100% - 32px));
+        margin-inline: auto;
+      }
+
+      /* Header */
+      .site-header {
+        position: sticky;
+        top: 0;
+        z-index: 20;
+        background: rgba(255, 251, 246, 0.88);
+        backdrop-filter: blur(14px);
+        border-bottom: 1px solid var(--bran-line);
+      }
+
+      .header-inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: var(--space-4);
+        padding: var(--space-4) 0;
+      }
+
+      .brand-lockup {
+        text-decoration: none;
+        color: inherit;
+      }
+
+      .brand-lockup strong {
+        display: block;
+        font-family: var(--font-display);
+        font-size: 1.2rem;
+        font-weight: 600;
+        letter-spacing: 0.06em;
+      }
+
+      .brand-lockup span {
+        font-size: 0.72rem;
+        color: var(--sesame);
+        letter-spacing: 0.12em;
+      }
+
+      .nav-toggle {
+        display: none;
+        border: 1px solid var(--bran-line);
+        background: var(--porcelain);
+        border-radius: var(--radius-sm);
+        padding: 8px 10px;
+        cursor: pointer;
+      }
+
+      .site-nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--space-2) var(--space-4);
+        font-size: 0.9rem;
+        font-weight: 500;
+      }
+
+      .site-nav a {
+        text-decoration: none;
+        color: var(--sesame);
+        letter-spacing: 0.02em;
+        transition: color 0.2s ease;
+      }
+
+      .site-nav a:hover,
+      .site-nav a.is-active {
+        color: var(--soy-ink);
+      }
+
+      .site-nav a.is-active {
+        border-bottom: 1px solid var(--champagne);
+        padding-bottom: 2px;
+      }
+
+      /* Hero */
+      .hero {
+        padding: var(--space-16) 0 var(--space-10);
+        background:
+          radial-gradient(ellipse 70% 55% at 90% 10%, rgba(196, 165, 116, 0.14), transparent 65%),
+          radial-gradient(ellipse 50% 40% at 5% 90%, rgba(61, 107, 82, 0.06), transparent 60%),
+          linear-gradient(180deg, var(--rice) 0%, #fff8f0 100%);
+      }
+
+      .hero-intro {
+        max-width: 40rem;
+        padding-bottom: var(--space-2);
+        border-bottom: 1px solid var(--bran-line);
+        margin-bottom: var(--space-8);
+      }
+
+      .eyebrow {
+        margin: 0 0 var(--space-3);
+        color: var(--champagne);
+        font-size: 0.72rem;
+        font-weight: 600;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+      }
+
+      .page-title {
+        margin: 0 0 var(--space-4);
+        font-family: var(--font-display);
+        font-size: clamp(1.85rem, 5vw, 2.65rem);
+        line-height: 1.22;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+      }
+
+      .page-copy {
+        margin: 0;
+        max-width: 34rem;
+        color: var(--mushroom);
+        font-size: 1rem;
+        font-weight: 300;
+      }
+
+      .search-panel {
+        background: var(--porcelain);
+        border: 1px solid var(--bran-line);
+        border-radius: var(--radius-lg);
+        padding: var(--space-8);
+        box-shadow: var(--shadow-md);
+      }
+
+      .search-form {
+        display: grid;
+        gap: var(--space-4);
+      }
+
+      @media (min-width: 640px) {
+        .search-form {
+          grid-template-columns: 1fr auto;
+          align-items: end;
+        }
+      }
+
+      .field span {
+        display: block;
+        margin-bottom: var(--space-2);
+      }
+
+      .field input {
+        width: 100%;
+        padding: 16px 18px;
+        border: 1px solid var(--bran-line);
+        border-radius: var(--radius-md);
+        background: var(--rice);
+        font-weight: 400;
+      }
+
+      .field input::placeholder {
+        color: var(--sesame);
+        font-weight: 300;
+      }
+
+      .field input:focus {
+        outline: none;
+        border-color: var(--caramel-line);
+        box-shadow: 0 0 0 3px rgba(196, 165, 116, 0.2);
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 15px 24px;
+        border-radius: var(--radius-md);
+        border: 1px solid var(--bran-line);
+        background: transparent;
+        color: var(--soy-ink);
+        font-weight: 500;
+        letter-spacing: 0.04em;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+      }
+
+      .button:hover {
+        background: var(--note);
+        box-shadow: var(--shadow-sm);
+      }
+
+      .button.primary {
+        background: var(--scallion-deep);
+        border-color: var(--scallion-deep);
+        color: #faf8f4;
+      }
+
+      .button.primary:hover {
+        background: var(--scallion);
+        border-color: var(--scallion);
+        transform: translateY(-1px);
+        box-shadow: var(--shadow-md);
+      }
+
+      .form-error {
+        margin: var(--space-3) 0 0;
+        color: var(--tomato);
+        font-size: 0.9rem;
+      }
+
+      .chip-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--space-2);
+        margin-top: var(--space-4);
+      }
+
+      .chip {
+        padding: 9px 16px;
+        border-radius: 999px;
+        border: 1px solid var(--bran-line);
+        background: transparent;
+        font-size: 0.85rem;
+        font-weight: 400;
+        text-decoration: none;
+        color: var(--mushroom);
+        transition: border-color 0.2s ease, color 0.2s ease;
+      }
+
+      .chip:hover {
+        border-color: var(--champagne);
+        color: var(--soy-ink);
+      }
+
+      /* Sections */
+      .section {
+        padding: var(--space-10) 0;
+      }
+
+      .section-head {
+        margin-bottom: var(--space-8);
+      }
+
+      .section h2 {
+        margin: var(--space-2) 0 0;
+        font-family: var(--font-display);
+        font-size: 1.55rem;
+        font-weight: 600;
+        letter-spacing: 0.03em;
+      }
+
+      /* Topic hubs */
+      .topic-hub-grid {
+        display: grid;
+        gap: var(--space-4);
+      }
+
+      @media (min-width: 720px) {
+        .topic-hub-grid {
+          grid-template-columns: repeat(3, 1fr);
+        }
+      }
+
+      .topic-card {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        min-height: 280px;
+        border-radius: var(--radius-lg);
+        overflow: hidden;
+        text-decoration: none;
+        color: inherit;
+        border: 1px solid var(--bran-line);
+        background: var(--porcelain);
+        box-shadow: var(--shadow-sm);
+        transition: transform 0.35s ease, box-shadow 0.35s ease;
+      }
+
+      .topic-card:hover {
+        transform: translateY(-6px);
+        box-shadow: var(--shadow-lg);
+      }
+
+      .topic-card__media {
+        height: 148px;
+        background-size: cover;
+        background-position: center;
+        position: relative;
+      }
+
+      .topic-card__media::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(180deg, transparent 30%, rgba(58, 50, 44, 0.35) 100%);
+      }
+
+      .topic-card--brunch .topic-card__media {
+        background-image: url("https://recipe.bloss0m.com/images/recipes/surf-turf-brunch.webp");
+      }
+
+      .topic-card--beef .topic-card__media {
+        background-image: url("https://recipe.bloss0m.com/images/recipes/beef-fried-rice.webp");
+      }
+
+      .topic-card--pasta .topic-card__media {
+        background-image: url("https://recipe.bloss0m.com/images/recipes/garlic-shrimp-pasta.webp");
+      }
+
+      .topic-card__label {
+        position: absolute;
+        top: var(--space-4);
+        left: var(--space-4);
+        z-index: 1;
+        padding: 5px 12px;
+        font-size: 0.68rem;
+        font-weight: 600;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: #fffaf4;
+        background: rgba(58, 50, 44, 0.45);
+        backdrop-filter: blur(8px);
+        border-radius: 999px;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+      }
+
+      .topic-card__body {
+        padding: var(--space-6);
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-3);
+      }
+
+      .topic-card__body h3 {
+        margin: 0;
+        font-family: var(--font-display);
+        font-size: 1.2rem;
+        font-weight: 600;
+      }
+
+      .topic-card__body p {
+        margin: 0;
+        font-size: 0.88rem;
+        font-weight: 300;
+        color: var(--mushroom);
+        line-height: 1.65;
+        flex: 1;
+      }
+
+      .topic-card__cta {
+        font-size: 0.8rem;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        color: var(--champagne);
+      }
+
+      /* Recipe grid */
+      .recipe-grid {
+        display: grid;
+        gap: var(--space-4);
+      }
+
+      @media (min-width: 640px) {
+        .recipe-grid {
+          grid-template-columns: repeat(3, 1fr);
+        }
+      }
+
+      .recipe-card {
+        border: 1px solid var(--bran-line);
+        border-radius: var(--radius-md);
+        overflow: hidden;
+        background: var(--porcelain);
+        box-shadow: var(--shadow-sm);
+        text-decoration: none;
+        color: inherit;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+
+      .recipe-card:hover {
+        transform: translateY(-3px);
+        box-shadow: var(--shadow-md);
+      }
+
+      .recipe-card__img {
+        aspect-ratio: 4 / 3;
+        background-size: cover;
+        background-position: center;
+      }
+
+      .recipe-card__body {
+        padding: var(--space-4);
+      }
+
+      .recipe-card__meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--space-2);
+        margin-bottom: var(--space-2);
+        font-size: 0.78rem;
+        color: var(--sesame);
+      }
+
+      .recipe-card__meta strong {
+        color: var(--scallion);
+        font-weight: 600;
+      }
+
+      .recipe-card h3 {
+        margin: 0;
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1.35;
+      }
+
+      .site-footer {
+        margin-top: var(--space-8);
+        padding: var(--space-8) 0;
+        border-top: 1px solid var(--bran-line);
+        font-size: 0.85rem;
+        color: var(--sesame);
+      }
+
+      @media (max-width: 720px) {
+        .nav-toggle {
+          display: block;
+        }
+
+        .site-nav {
+          display: none;
+          width: 100%;
+          flex-direction: column;
+          padding-bottom: var(--space-3);
+        }
+
+        .site-nav.is-open {
+          display: flex;
+        }
+
+        .header-inner {
+          flex-wrap: wrap;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <p class="proto-banner">PRD-005 原型 · 首頁 · 僅供視覺確認，非正式程式碼</p>
+
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand-lockup" href="#">
+          <strong>Bloom Kitchen</strong>
+          <span>今天煮什麼</span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" data-nav-toggle>選單</button>
+        <nav class="site-nav" data-site-nav aria-label="主選單">
+          <a class="is-active" href="#">首頁</a>
+          <a href="#">食譜</a>
+          <a href="#">食材</a>
+          <a href="#">情境</a>
+          <a href="prd-005-brunch-hub.html">早午餐</a>
+          <a href="#">冰箱剩料</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="container">
+          <div class="hero-intro">
+            <p class="eyebrow">今晚煮什麼</p>
+            <h1 class="page-title">先看冰箱，再決定晚餐</h1>
+            <p class="page-copy">輸入 1 到 3 樣現有食材，為你挑選今晚適合的簡單料理。</p>
+          </div>
+
+          <div class="search-panel">
+            <form class="search-form" data-home-search>
+              <label class="field">
+                <span class="eyebrow" style="letter-spacing: 0">輸入你有的食材</span>
+                <input
+                  name="ingredients"
+                  type="search"
+                  placeholder="雞蛋、豆腐、高麗菜"
+                  autocomplete="off"
+                  data-home-search-input
+                />
+              </label>
+              <button class="button primary" type="submit">找今天能煮的料理</button>
+            </form>
+            <p class="form-error" data-home-search-error hidden>請至少輸入一樣食材。</p>
+            <div class="chip-row" aria-label="快速食材入口">
+              <a class="chip" href="#" data-chip>雞蛋</a>
+              <a class="chip" href="#" data-chip>豆腐</a>
+              <a class="chip" href="#" data-chip>高麗菜</a>
+              <a class="chip" href="#" data-chip>絞肉</a>
+              <a class="chip" href="#" data-chip>義大利麵</a>
+              <a class="chip" href="#" data-chip>鮭魚</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="section-head">
+            <p class="eyebrow">主題專區</p>
+            <h2>依心情，走進不同的小廚房角落</h2>
+          </div>
+          <div class="topic-hub-grid">
+            <a class="topic-card topic-card--brunch" href="prd-005-brunch-hub.html">
+              <span class="topic-card__label">Brunch</span>
+              <div class="topic-card__media" role="img" aria-label="早午餐預覽"></div>
+              <div class="topic-card__body">
+                <h3>早午餐專區</h3>
+                <p>牛排、海鮮、雞肉與蛋奶素主盤，週末在家也能吃出餐廳感。</p>
+                <span class="topic-card__cta">進入專區 →</span>
+              </div>
+            </a>
+            <a class="topic-card topic-card--beef" href="#">
+              <span class="topic-card__label">Beef</span>
+              <div class="topic-card__media" role="img" aria-label="牛肉專區預覽"></div>
+              <div class="topic-card__body">
+                <h3>牛肉專區</h3>
+                <p>炒飯、快炒、湯品與蓋飯，一人份晚餐與便當都適合。</p>
+                <span class="topic-card__cta">進入專區 →</span>
+              </div>
+            </a>
+            <a class="topic-card topic-card--pasta" href="#">
+              <span class="topic-card__label">Pasta</span>
+              <div class="topic-card__media" role="img" aria-label="義大利麵專區預覽"></div>
+              <div class="topic-card__body">
+                <h3>義大利麵專區</h3>
+                <p>青醬、蒜香、番茄與白醬麵，從雞肉到海鮮一次找齊。</p>
+                <span class="topic-card__cta">進入專區 →</span>
+              </div>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" style="background: linear-gradient(180deg, transparent, rgba(239, 230, 214, 0.45))">
+        <div class="container">
+          <div class="section-head">
+            <p class="eyebrow">精選食譜</p>
+            <h2>今晚，從這幾道開始</h2>
+          </div>
+          <div class="recipe-grid">
+            <a class="recipe-card" href="#">
+              <div
+                class="recipe-card__img"
+                style="background-image: url('https://recipe.bloss0m.com/images/recipes/surf-turf-brunch.webp')"
+              ></div>
+              <div class="recipe-card__body">
+                <div class="recipe-card__meta"><strong>30 分鐘</strong><span>主菜</span><span>氣炸鍋</span></div>
+                <h3>澎湃海陸早午餐</h3>
+              </div>
+            </a>
+            <a class="recipe-card" href="#">
+              <div
+                class="recipe-card__img"
+                style="background-image: url('https://recipe.bloss0m.com/images/recipes/beef-fried-rice.webp')"
+              ></div>
+              <div class="recipe-card__body">
+                <div class="recipe-card__meta"><strong>20 分鐘</strong><span>炒飯蓋飯</span><span>平底鍋</span></div>
+                <h3>牛肉炒飯</h3>
+              </div>
+            </a>
+            <a class="recipe-card" href="#">
+              <div
+                class="recipe-card__img"
+                style="background-image: url('https://recipe.bloss0m.com/images/recipes/garlic-shrimp-pasta.webp')"
+              ></div>
+              <div class="recipe-card__body">
+                <div class="recipe-card__meta"><strong>25 分鐘</strong><span>義大利麵</span><span>湯鍋</span></div>
+                <h3>蒜香蝦仁義大利麵</h3>
+              </div>
+            </a>
+          </div>
+          <p style="margin-top: var(--space-6)">
+            <a class="button" href="#">看全部食譜</a>
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">Bloom Kitchen · 今天煮什麼 · 原型頁尾</div>
+    </footer>
+
+    <script>
+      const navToggle = document.querySelector("[data-nav-toggle]");
+      const siteNav = document.querySelector("[data-site-nav]");
+      navToggle?.addEventListener("click", () => {
+        const open = siteNav.classList.toggle("is-open");
+        navToggle.setAttribute("aria-expanded", String(open));
+      });
+
+      const form = document.querySelector("[data-home-search]");
+      const input = document.querySelector("[data-home-search-input]");
+      const error = document.querySelector("[data-home-search-error]");
+      form?.addEventListener("submit", (event) => {
+        event.preventDefault();
+        const value = input.value.trim();
+        if (!value) {
+          error.hidden = false;
+          input.focus();
+          return;
+        }
+        error.hidden = true;
+        alert(`原型：將導向冰箱工具，食材＝${value}`);
+      });
+
+      document.querySelectorAll("[data-chip]").forEach((chip) => {
+        chip.addEventListener("click", (event) => {
+          event.preventDefault();
+          input.value = chip.textContent;
+          error.hidden = true;
+        });
+      });
+    </script>
+  </body>
+</html>

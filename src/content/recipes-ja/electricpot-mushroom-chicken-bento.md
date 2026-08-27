@@ -1,0 +1,82 @@
+---
+recipeId: electricpot-mushroom-chicken-bento
+title: 電気炊飯器で蒸すきのこ鶏むね（お弁当向け）
+description: 鶏むねときのこを電気炊飯器で一度に蒸す。味付けはシンプルで、平日お弁当の前日仕込みに向きます。
+coverImage: /images/recipes/electricpot-mushroom-chicken-bento.webp
+servings: 2
+prepTime: 10
+cookTime: 18
+totalTime: 28
+difficulty: かんたん
+calories: 315
+protein: 34
+fat: 9
+carbs: 13
+category: "お弁当向け"
+scenarios:
+- お弁当向けのおかず
+- 高タンパク料理
+equipment:
+- 電気炊飯器
+ingredients:
+- name: 鶏むね肉
+  amount: '260'
+  unit: g
+  isCore: true
+- name: きのこ
+  amount: '160'
+  unit: g
+  isCore: true
+- name: 玉ねぎ
+  amount: '0.25'
+  unit: 個
+  isCore: false
+seasonings:
+- name: 醤油
+  amount: '1.5'
+  unit: 小さじ
+- name: にんにく
+  amount: '2'
+  unit: 片
+- name: 塩
+  amount: 少々
+  unit: ''
+tags:
+- 電気炊飯器お弁当
+- 鶏むね料理
+intro: 鶏むねときのこを層に分けて入れると蒸し上がり後にくっつきにくく、分け盛りしやすいです。
+steps:
+- 鶏むね肉 260g の水気を拭き取る。きのこ 160g は石を取り一口大に切る。玉ねぎ 1/4個は細切り、にんにく 2片はみじん切りにする。
+- 鶏むねは繊維に逆を向けて厚めのスライスにし、醤油 1.5小さじとにんにくのみじん切りでもみ、10分置いて味をなじませる。
+- 耐熱皿の底に玉ねぎを敷き、中層にきのこ、上に鶏むねを平らに並べる（層に分けるとくっつきにくい）。
+- 外釜に水1カップを入れ、内釜に皿を置き、蓋をしてスイッチを入れて蒸す。
+- スイッチが切れたら5分蒸らす。
+- 鶏むねが完全に火が通っているか確認する（竹串を刺して血が出ないこと）。きのこは柔らかいが形を保っていること。
+- 軽く混ぜ、塩少々で味を調え、2人分に分ける。冷めてから冷蔵する。
+tips:
+- より柔らかくしたい場合は油小さじ1でもみ込んでから蒸す。
+- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
+storage: 冷蔵2日。食べる前に再加熱する。
+substitutions:
+- ブロッコリーを加えると野菜の割合が増えます。
+faqs:
+- question: 前日に作れますか？
+  answer: はい。前夜仕込みのお弁当向きです。
+- question: 電気炊飯器がない場合は？
+  answer: フライパンに蓋をして弱火で蒸し煮にしてください。
+- question: "主材料をパサつかせないコツは？"
+  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
+relatedIngredients:
+- 鶏むね肉
+- きのこ
+- 玉ねぎ
+featured: false
+publishedAt: '2026-06-22'
+updatedAt: "2026-07-30"
+customAdditions:
+- エリンギ
+- ベビーコーン
+- パプリカ
+---
+
+お弁当の主菜として安定して作れ、他の副菜とも合わせやすい一品です。

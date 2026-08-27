@@ -1,0 +1,83 @@
+---
+title: Scallion Chicken Rice Bowl
+recipeId: scallion-chicken-rice-bowl
+description: Diced chicken breast in scallion sauce tossed with rice—a high-protein one-bowl main.
+coverImage: /images/recipes/scallion-chicken-rice-bowl.webp
+servings: 1
+prepTime: 8
+cookTime: 10
+totalTime: 18
+difficulty: Easy
+calories: 490
+protein: 31
+fat: 12
+carbs: 58
+category: "Rice & noodles"
+scenarios:
+- High-protein meals
+- Cooking for one
+equipment:
+- Skillet
+ingredients:
+- name: Chicken breast
+  amount: '130'
+  unit: g
+  isCore: true
+- name: Scallions
+  amount: '2'
+  unit: stalks
+  isCore: false
+- name: Cooked rice
+  amount: '1'
+  unit: bowl
+  isCore: true
+seasonings:
+- name: Soy sauce
+  amount: '1.5'
+  unit: tsp
+- name: Garlic
+  amount: '1'
+  unit: clove
+- name: Olive oil
+  amount: '1'
+  unit: Tbsp
+tags:
+- Chicken breast
+- Mixed rice bowl
+intro: Sear chicken first to lock in moisture, then fold in scallion sauce for a tenderer bite than all-in stir-fry.
+steps:
+- "Dice 130g chicken breast crosswise against the grain; mince 1 clove garlic; chop 2 scallions, keeping whites and greens separate; place 1 bowl cooked rice in a large serving bowl."
+- "In a small bowl, mix 1 tsp soy sauce, 2 Tbsp warm water, and the scallion whites to make scallion sauce."
+- "Toss chicken with 0.5 tsp soy sauce; rest 5 minutes to marinate."
+- "Heat 1 Tbsp olive oil in a skillet over medium heat; add chicken in a single layer and sear about 3 minutes until golden, then flip and stir-fry 2 more minutes until fully cooked (no pink when cut)."
+- "Add minced garlic and stir-fry 30 seconds until fragrant."
+- "Pour in scallion sauce and stir-fry over high heat 1 minute until the sauce coats the chicken."
+- "Add scallion greens and toss 10 seconds, then turn off the heat (greens stay bright)."
+- "Pour chicken and sauce over rice and toss while hot; for bento, pack rice and chicken separately."
+tips:
+- Toss chicken with a pinch of salt and oil before cooking for a silkier texture.
+- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+storage: Best fresh; pack rice and chicken separately for lunchboxes to avoid soggy rice.
+substitutions:
+- Chicken tenderloin instead of breast.
+faqs:
+- question: Can I make this in a rice cooker?
+  answer: Steam chicken first, shred, then mix sauce and rice.
+- question: No scallions?
+  answer: Minced onion works; flavor turns sweeter.
+- question: "How do I keep the main ingredient from drying out?"
+  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+relatedIngredients:
+- 雞胸肉
+- 青蔥
+- 白飯
+featured: false
+publishedAt: '2026-06-08'
+updatedAt: "2026-07-30"
+customAdditions:
+- King oyster mushroom
+- Baby corn
+- Bell pepper
+---
+
+The key is balancing scallion aroma with lean chicken for a light but not boring bowl.

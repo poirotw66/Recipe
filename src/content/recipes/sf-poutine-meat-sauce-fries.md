@@ -1,0 +1,80 @@
+---
+title: 普丁肉醬薯條
+description: 參考貳樓 Second Floor Cafe 常見做法，以 薯條、肉醬、起司醬 還原 普丁肉醬薯條 的餐廳份量與風味層次。
+coverImage: /images/recipes/sf-poutine-meat-sauce-fries.webp
+servings: 2
+prepTime: 18
+cookTime: 18
+totalTime: 36
+difficulty: 中等
+calories: 670
+protein: 22
+fat: 36
+carbs: 48
+category: "開胃菜"
+scenarios:
+- 一人料理
+- 宵夜料理
+equipment:
+- 炸鍋
+- 烤箱
+tags:
+- 名店還原
+- 分享盤
+restaurantSource:
+  restaurant: 貳樓 Second Floor Cafe
+  dishName: 普丁肉醬薯條
+  region: 全台連鎖
+intro: 這道 普丁肉醬薯條 參考貳樓 Second Floor Cafe 常見做法，會先把 薯條、肉醬、起司醬 分段處理，再依 分享盤 的出餐邏輯完成整盤。
+steps:
+- 薯條 250公克 以廚房紙巾徹底吸乾表面水分；肉醬 適量 與 起司醬 2大匙 分裝備用，可將肉醬微波 30 秒至微溫。
+- 炸鍋倒入 炸油 600毫升，以溫度計確認油溫升至 160°C，薯條分批下鍋炸 3 分鐘至定型但未上色，撈起瀝油。
+- 將油溫升至 175°C，同一批薯條回鍋複炸 3～4 分鐘至金黃酥脆，撈起放鐵網上瀝油 2 分鐘。
+- 炸好趁熱的薯條倒入大碗，均勻撒 海鹽 1/2小匙 調味。
+- 先淋 起司醬 2大匙 快速拋拌，讓薯條薄薄裹上起司醬。
+- 再澆上溫熱 肉醬 適量，用湯匙分次淋醬再輕拌，模擬普丁「熱醬遇冷薯條」的半融口感。
+- 高高堆疊於鋪防油紙的竹籃中，旁附剩餘肉醬與起司醬，趁醬汁尚溫、薯條仍脆時上桌。
+tips:
+- 分享盤的關鍵是一次做好主炸物與沾醬，起鍋後立刻組盤才會接近門市口感。
+- 若有生菜或冷醬，請最後才放，避免熱氣讓配菜出水。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
+storage: 炸物建議當天吃完；冷藏後回烤 6 到 8 分鐘恢復脆度。
+substitutions:
+- 冷凍薯條
+- 蘿蔓心
+relatedIngredients:
+- 薯條
+customAdditions: []
+faqs:
+- question: 想把 普丁肉醬薯條 做得更像貳樓版本，最重要的是什麼？
+  answer: 先把 薯條與肉醬 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+featured: false
+publishedAt: "2026-06-09"
+updatedAt: "2026-07-30"
+ingredients:
+- name: 薯條
+  amount: "250"
+  unit: 公克
+  isCore: true
+seasonings:
+- name: 炸油
+  amount: "600"
+  unit: 毫升
+- name: 海鹽
+  amount: "1/2"
+  unit: 小匙
+- name: 肉醬
+  amount: "適量"
+  unit: ""
+- name: 起司醬
+  amount: "2"
+  unit: 大匙
+---
+
+普丁肉醬薯條 的在家還原版，重點是把 薯條、肉醬、起司醬 做出分層口感，並保留貳樓常見的 分享盤 大份量出餐感。
+
+只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
+
+

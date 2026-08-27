@@ -1,0 +1,79 @@
+---
+title: 氣炸鮭魚青花菜
+slug: air-fryer-salmon-broccoli
+description: 氣炸鍋鮭魚青花菜一人份，25 分鐘少顧鍋高蛋白晚餐，適合租屋族減脂主菜。
+coverImage: /images/recipes/air-fryer-salmon-broccoli.webp
+servings: 1
+prepTime: 6
+cookTime: 14
+totalTime: 20
+difficulty: 簡單
+calories: 430
+protein: 34
+fat: 26
+carbs: 16
+category: "主菜"
+scenarios:
+- 氣炸鍋料理
+- 高蛋白料理
+- 減脂料理
+equipment:
+- 氣炸鍋
+ingredients:
+- name: 鮭魚
+  amount: '1'
+  unit: 片
+  isCore: true
+- name: 青花菜
+  amount: '1'
+  unit: 碗
+  isCore: true
+- name: 蒜頭
+  amount: '1'
+  unit: 瓣
+  isCore: false
+seasonings:
+- name: 鹽
+  amount: 少許
+  unit: ''
+- name: 橄欖油
+  amount: '1'
+  unit: 小匙
+tags:
+- 氣炸鍋
+- 高蛋白
+intro: 氣炸鍋很適合同時處理鮭魚和青花菜，油煙少、步驟也短。
+steps:
+- 鮭魚片用廚房紙巾徹底吸乾，兩面撒少許鹽；蒜頭 1 瓣切末，輕抹在魚肉表面。
+- 青花菜切小朵洗淨瀝乾，與橄欖油 1 小匙、少許鹽拌勻，讓每朵花均勻上油。
+- 氣炸鍋設定 180°C，預熱 3 分鐘。
+- 炸籃鋪入鮭魚，皮面朝下（若有皮），單層放置不堆疊；180°C 氣炸 8 分鐘（魚片厚超過 2.5 公分可加 2 分鐘）。
+- 開鍋將青花菜鋪在鮭魚周圍，再氣炸 6 分鐘，至青花菜邊緣微焦、鮭魚表面金黃。
+- 用筷子插入鮭魚最厚處，能輕鬆穿透且無粉紅肉汁即完成。
+- 起鍋可依喜好再撒黑胡椒，趁熱享用。
+tips:
+- 青花菜切小朵，才會和鮭魚差不多時間完成。
+- 食材表面先擦乾並單層鋪放，籃內留出熱風循環空間，成品才會均勻上色。
+storage: 建議當餐吃完；冷藏可保存 1 天。
+substitutions:
+- 鯖魚
+- 蘆筍
+faqs:
+- question: 沒有氣炸鍋可以做嗎？
+  answer: 可以改用烤箱 190 度烤約 15 分鐘。
+- question: "食材厚度不同時要怎麼調整氣炸時間？"
+  answer: "先以食譜時間完成，再從最厚處確認熟度；較厚的部位可每次增加 2～3 分鐘，避免一次加太久。"
+relatedIngredients:
+- 鮭魚
+- 青花菜
+- 蒜頭
+featured: true
+publishedAt: '2026-05-29'
+updatedAt: "2026-07-30"
+customAdditions:
+- 肉絲
+- 蝦仁
+- 香菇
+---
+
+這份組合適合下班後想吃得清爽一點的晚上，主菜和蔬菜一次完成。

@@ -1,0 +1,76 @@
+---
+recipeId: mushroom-soft-egg-brunch
+title: 야생 버섯 부드러운 달걀 브런치
+description: 여러 버섯을 볶아 부드러운 달걀과 합친 달걀·유제품 채식으로도 든든한 브런치.
+coverImage: /images/recipes/mushroom-soft-egg-brunch.webp
+servings: 1
+prepTime: 7
+cookTime: 10
+totalTime: 17
+difficulty: 쉬움
+calories: 320
+protein: 18
+fat: 22
+carbs: 14
+category: "메인 요리"
+scenarios:
+- 1인 요리
+- 10분 요리
+equipment:
+- 프라이팬
+tags:
+- 브런치
+- 라크토오보
+tips:
+- 완전 채식은 버터 대신 올리브오일만 써도 맛이 좋습니다.
+- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
+substitutions:
+- 두부
+faqs:
+- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
+  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
+relatedIngredients:
+- 버섯
+- 달걀
+- 파
+customAdditions: []
+ingredients:
+- name: 버섯
+  amount: '120'
+  unit: g
+  isCore: true
+- name: 달걀
+  amount: '2'
+  unit: 개
+  isCore: true
+- name: 파
+  amount: '1'
+  unit: 대
+  isCore: false
+seasonings:
+- name: 버터
+  amount: '1'
+  unit: 큰술
+- name: 올리브오일
+  amount: '1'
+  unit: 작은술
+- name: 소금
+  amount: 약간
+  unit: ''
+- name: 후추
+  amount: 약간
+  unit: ''
+intro: 버섯은 물이 나왔다가 다시 졸아 향이 살고, 달걀은 불을 끈 뒤 잔열로 마무리하면 가장 부드럽습니다.
+steps:
+- 버섯 120g을 슬라이스하고, 파 1대를 송송 썹니다. 달걀 2개를 풀어 소금 약간과 후추 약간을 섞습니다.
+- 프라이팬을 중강불로 달군 뒤 버터 1큰술과 올리브오일 1작은술을 넣어 작은 거품이 나면 재료를 넣습니다.
+- 버섯을 볶아 물기가 나오면 중불로 3~4분 졸여 가장자리가 연한 황금색이 되고 향이 진해질 때까지 합니다.
+- 버섯을 한쪽으로 밀고 달걀을 부어 약불로 반쯤 익을 때까지 천천히 밀어 줍니다(약 1~2분).
+- 불을 끄고 잔열로 완전히 굳히지 않고 촉촉하게 마무리한 뒤 파와 후추를 뿌립니다.
+storage: 바로 드시고, 하루 지나면 달걀이 딱딱해집니다.
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+---
+
+재료 구하기 쉬운 메뉴에서 가장 부담 없는 라크토오보 브런치입니다.

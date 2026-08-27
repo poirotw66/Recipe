@@ -1,0 +1,77 @@
+---
+title: "氣炸蒜香蝦仁"
+description: "大蝦以蒜香醃過後氣炸，彈牙鮮甜，配白飯或沙拉都適合。"
+coverImage: /images/recipes/air-fryer-garlic-shrimp.webp
+servings: 1
+prepTime: 10
+cookTime: 8
+totalTime: 18
+difficulty: "簡單"
+calories: 240
+protein: 32
+fat: 10
+carbs: 4
+category: "主菜"
+scenarios:
+- 氣炸鍋料理
+- 10 分鐘料理
+equipment:
+- 氣炸鍋
+tags:
+- 一人份
+- 氣炸鍋
+- 海鮮料理
+tips:
+- 蝦頭可保留增加香氣，但記得先沖乾。
+- 食材表面先擦乾並單層鋪放，籃內留出熱風循環空間，成品才會均勻上色。
+substitutions:
+- 透抽
+- 干貝
+relatedIngredients:
+- 蝦仁
+customAdditions: []
+ingredients:
+- name: "蝦仁"
+  amount: "200"
+  unit: "公克"
+  isCore: true
+seasonings:
+- name: "蒜頭"
+  amount: "4"
+  unit: "瓣"
+- name: "橄欖油"
+  amount: "1"
+  unit: "大匙"
+- name: "醬油"
+  amount: "1"
+  unit: "小匙"
+- name: "檸檬汁"
+  amount: "1"
+  unit: "小匙"
+- name: "鹽"
+  amount: "少許"
+  unit: ""
+- name: "黑胡椒"
+  amount: "少許"
+  unit: ""
+intro: "蝦仁務必吸乾再醃，氣炸時間短，過久會變老縮小。"
+steps:
+- 蝦仁 200 公克流水沖洗後去腸（若尚未處理），用廚房紙巾徹底吸乾水分；蒜頭 4 瓣切末。
+- 取碗將橄欖油 1 大匙、醬油 1 小匙、檸檬汁 1 小匙、鹽、黑胡椒與蒜末混勻成醃料。
+- 蝦仁與醃料抓拌均勻，靜置醃 8 分鐘入味。
+- 氣炸鍋設定 190°C，預熱 3 分鐘。
+- 蝦仁平鋪炸籃，根根分開不堆疊，讓每隻蝦都能均勻受熱。
+- 190°C 氣炸 4 分鐘，開鍋翻面後再氣炸 3 分鐘，至蝦殼轉粉橘、身體蜷曲。
+- 蝦肉應呈不透明、彈牙狀態；起鍋可依喜好再擠少許檸檬汁，趁熱上桌。
+storage: "現做現吃；蝦仁隔夜再加熱口感會變硬。"
+faqs:
+- question: "可以用冷凍蝦嗎？"
+  answer: "可以，但需完全解凍並徹底吸乾，否則會出水影響口感。"
+- question: "食材厚度不同時要怎麼調整氣炸時間？"
+  answer: "先以食譜時間完成，再從最厚處確認熟度；較厚的部位可每次增加 2～3 分鐘，避免一次加太久。"
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-07-30"
+---
+
+氣炸蒜香蝦仁從備料到完成不到 20 分鐘，很適合平日晚餐。

@@ -1,0 +1,58 @@
+---
+import RecipeImage from "./RecipeImage.astro";
+import { localePath, type Locale } from "../lib/i18n";
+import type { LocalizedRecipeEntry } from "../lib/recipe-locale";
+import { getRecipeCardHighlights } from "../lib/recipes";
+
+interface Props {
+  recipe: LocalizedRecipeEntry;
+  locale?: Locale;
+}
+
+const { recipe, locale = "zh-TW" } = Astro.props;
+const highlights = getRecipeCardHighlights(recipe, locale);
+const recipeHref = localePath(locale, `/recipes/${recipe.slug}`);
+const equipmentText = recipe.data.equipment.join(",");
+const searchableText = [
+  recipe.data.title,
+  recipe.data.description,
+  recipe.data.category,
+  ...recipe.data.scenarios,
+  ...recipe.data.equipment,
+  ...recipe.data.tags,
+  ...recipe.data.ingredients.map((item) => item.name)
+]
+  .join(" ")
+  .toLowerCase();
+let brand = "other";
+if (recipe.slug.startsWith("sf-")) {
+  brand = "second-floor-cafe";
+} else if (recipe.slug.startsWith("dh-")) {
+  brand = "dubu-house";
+}
+---
+
+<article
+  class="card recipe-card"
+  data-recipe-search={searchableText}
+  data-recipe-category={recipe.data.category}
+  data-recipe-time={String(recipe.data.totalTime)}
+  data-recipe-equipment={equipmentText}
+  data-brand={brand}
+>
+  <a class="recipe-card__link" href={recipeHref}>
+    <RecipeImage src={recipe.data.coverImage} alt={`${recipe.data.title}成品圖`} />
+    <div class="card-body">
+      <div class="recipe-card__facts" aria-label="快速資訊">
+        <span class="chip chip-emphasis">{highlights.timeLabel}</span>
+        <span class="chip chip-tool">{highlights.equipmentLabel}</span>
+        <span class="chip">{highlights.difficultyLabel}</span>
+      </div>
+      <h3>{recipe.data.title}</h3>
+      <p class="recipe-card__lede">{recipe.data.description}</p>
+      <div class="chip-row recipe-card__ingredients" aria-label="核心食材">
+        {highlights.ingredientNames.map((name) => <span class="chip note">{name}</span>)}
+      </div>
+    </div>
+  </a>
+</article>

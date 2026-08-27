@@ -1,0 +1,70 @@
+---
+recipeId: scallion-oil-dry-noodles
+title: ねぎ油まぜそば
+description: ねぎをじっくり油で香り出し、醤油ダレと和えた台湾風の油麺。10分でできる定番。
+coverImage: /images/recipes/scallion-oil-dry-noodles.webp
+servings: 1
+prepTime: 5
+cookTime: 8
+totalTime: 13
+difficulty: かんたん
+calories: 420
+protein: 10
+fat: 16
+carbs: 58
+category: "ご飯・麺"
+scenarios:
+- 一人分の料理
+- 10分でできる料理
+equipment:
+- 鍋
+- 小鍋
+tags:
+- 一人分
+- 時短
+- 麺類
+tips:
+- 油麺がなければ細麺やスパゲッティでも代用できます。
+- 冷やご飯やゆで麺は広げてから加熱すると、固まりにくく調味料も均一になじみます。
+substitutions: []
+relatedIngredients:
+- 青ねぎ
+customAdditions: []
+ingredients:
+- name: 油麺
+  amount: '1'
+  unit: 玉
+  isCore: true
+- name: 青ねぎ
+  amount: '3'
+  unit: 本
+  isCore: true
+seasonings:
+- name: 醤油
+  amount: '2'
+  unit: 大さじ
+- name: オリーブオイル
+  amount: '3'
+  unit: 大さじ
+- name: 砂糖
+  amount: '1/2'
+  unit: 小さじ
+intro: ねぎ油は弱火でじっくり。強火にすると焦げて苦くなりやすいです。
+steps:
+- 青ねぎ3本の白と青を切り分ける。小さなボウルで醤油大さじ2と砂糖小さじ1/2を混ぜてタレにする。
+- 小鍋に弱火でオリーブオイル大さじ2を入れ、まずねぎの白を薄黄色になるまで炒める（約2分）。青を加えてきつね色になったらねぎ油として取り出し、大さじ1は残しておく。
+- 大きな鍋で強火でお湯を沸かし、油麺1玉を袋表示どおり2～3分茹でてコシのある状態に。水気を切り、茹で汁大さじ2を取っておく。
+- 麺にタレ、ねぎ油大さじ1、茹で汁を加え、一本一本にタレが絡むまでよく和える。
+- 盛り付け、残りのねぎ油をかけて温かいうちに。ゆで野菜や味付け玉子を添えてもよい。
+storage: できたてがおすすめ。翌日はお湯を少し足して和め直すとよい。
+faqs:
+- question: 砂糖は必須ですか？
+  answer: 省略可ですが、少し加えると醤油の塩気がまろやかになります。
+- question: "作り置きできますか？"
+  answer: "できます。主食と具材を分けて冷蔵し、食べる直前に温めて合わせると食感を保てます。"
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+---
+
+一人暮らしの夜にすぐ思い出せる、台湾の油麺スタイルです。

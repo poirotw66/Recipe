@@ -1,0 +1,8 @@
+---
+import FridgeToolPage from "../../components/FridgeToolPage.astro";
+import { buildFridgeToolPayload } from "../../lib/fridge-tool";
+
+const toolData = await buildFridgeToolPayload("zh-TW");
+---
+
+<FridgeToolPage locale="zh-TW" toolData={toolData} />

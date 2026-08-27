@@ -1,0 +1,82 @@
+---
+recipeId: electricpot-broccoli-chicken-bento
+title: 전기밥솥 브로콜리 닭가슴살 도시락
+description: 전기밥솥으로 닭가슴살과 브로콜리를 한 번에 쪄 다음 날 도시락 메인으로 쓰기 좋습니다.
+coverImage: /images/recipes/electricpot-broccoli-chicken-bento.webp
+servings: 2
+prepTime: 10
+cookTime: 18
+totalTime: 28
+difficulty: 쉬움
+calories: 320
+protein: 33
+fat: 10
+carbs: 12
+category: "도시락 반찬"
+scenarios:
+- 도시락 반찬
+- 고단백 요리
+equipment:
+- 전기밥솥
+ingredients:
+- name: 닭가슴살
+  amount: '260'
+  unit: g
+  isCore: true
+- name: 브로콜리
+  amount: '180'
+  unit: g
+  isCore: true
+- name: 당근
+  amount: '80'
+  unit: g
+  isCore: false
+seasonings:
+- name: 마늘
+  amount: '2'
+  unit: 쪽
+- name: 간장
+  amount: '1.5'
+  unit: 작은술
+- name: 소금
+  amount: 약간
+  unit: ''
+tags:
+- 전기밥솥 요리
+- 도시락 메인
+intro: 닭가슴살을 먼저 재워 쪄면 덜 질기고, 브로콜리와 당근을 같은 솥에서 익혀 밀프렙 효율이 높습니다.
+steps:
+- 닭가슴살 260g은 키친타월로 물기를 제거한다. 브로콜리 180g은 작은 송이로 잘라 씻는다. 당근 80g은 껍질을 벗기고 얇은 반달 모양으로 썬다. 마늘 2쪽은 다진다.
+- 닭가슴살은 결 반대로 두툼하게 슬라이스한다(약 1cm). 간장 1.5작은술, 다진 마늘, 소금 약간을 넣어 버무린 뒤 10분 재운다.
+- 전기밥솥에 넣을 수 있는 내열 접시 바닥에 당근을 깔고, 그 위에 브로콜리, 마지막에 닭가슴살을 평평하게 올린다(겹치지 않게 간격을 둔다).
+- 외솥에 물 1컵을 넣고, 내솥에 접시를 넣은 뒤 뚜껑을 닫고 스위치를 내린다.
+- 스위치가 올라오면 5분 더 뜸을 들여 잔열로 닭가슴살을 부드럽게 만든다.
+- 뚜껑을 열고 꼬치로 닭가슴살 가장 두꺼운 부분을 찔러본다. 국물이 맑고 분홍빛 핏물이 없어야 한다. 브로콜리는 여전히 선명한 녹색이어야 한다.
+- 조각 내거나 슬라이스 그대로 도시락 2인분으로 나누고, 식힌 뒤 뚜껑을 닫는다.
+tips:
+- 닭가슴살을 너무 얇게 썰면 마를 수 있으니 두께를 유지하세요.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
+storage: 소분해 냉장 2일, 전자레인지 전에 물을 조금 뿌리면 촉촉합니다.
+substitutions:
+- 당근 대신 양파나 버섯.
+faqs:
+- question: 전날 밤에 만들어 두어도 되나요?
+  answer: 가능하며 분량 나눠 냉장해 다음 날 도시락으로 싸면 됩니다.
+- question: 전기밥솥이 없으면?
+  answer: 프라이팬에 닭을 구우고 채소는 따로 데치세요.
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
+relatedIngredients:
+- 닭가슴살
+- 브로콜리
+- 당근
+featured: false
+publishedAt: '2026-06-12'
+updatedAt: "2026-07-30"
+customAdditions:
+- 새송이버섯
+- 옥수수
+- 파프리카
+---
+
+메인과 채소를 한 번에 끝내 평일 밀프력 시간을 많이 줄일 수 있습니다.

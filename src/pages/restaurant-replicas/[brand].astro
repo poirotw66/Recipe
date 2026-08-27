@@ -1,0 +1,14 @@
+---
+import LocalizedBrandPage from "../../components/LocalizedBrandPage.astro";
+
+export function getStaticPaths() {
+  return [
+    { params: { brand: "second-floor-cafe" } },
+    { params: { brand: "dubu-house" } }
+  ];
+}
+
+const { brand } = Astro.params;
+---
+
+<LocalizedBrandPage brandSlug={brand as "second-floor-cafe" | "dubu-house"} locale="zh-TW" />

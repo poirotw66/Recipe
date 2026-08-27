@@ -1,0 +1,77 @@
+---
+recipeId: seasonal-greens-salad-bowl
+title: 제철 채소 샐러드 보울
+description: 제철 채소에 가벼운 비네그레트를 곁들여 한 그릇으로 식이섬유를 채우고, 메인이나 반찬으로도 좋습니다.
+coverImage: /images/recipes/seasonal-greens-salad-bowl.webp
+servings: 1
+prepTime: 10
+cookTime: 0
+totalTime: 10
+difficulty: 쉬움
+calories: 180
+protein: 4
+fat: 12
+carbs: 14
+category: "집밥"
+scenarios:
+- 1인 요리
+- 10분 요리
+- 다이어트 요리
+equipment:
+- 큰 그릇
+tags:
+- 샐러드
+- 채소 요리
+tips:
+- 당근은 채 썰면 더 산뜻한 식감이 납니다.
+- 찬밥이나 삶은 면은 조리 전에 펼쳐 두면 뭉치지 않고 양념이 고르게 배어듭니다.
+substitutions:
+- 데친 브로콜리
+- 양배추 채
+faqs:
+- question: "미리 만들어 둘 수 있나요?"
+  answer: "가능합니다. 밥이나 면과 속재료를 따로 냉장한 뒤 먹기 직전에 데워 섞으면 식감이 좋습니다."
+relatedIngredients:
+- 토마토
+- 당근
+customAdditions: []
+ingredients:
+- name: 토마토
+  amount: "1"
+  unit: 개
+  isCore: true
+- name: 오이
+  amount: "1/2"
+  unit: 개
+  isCore: false
+- name: 당근
+  amount: "1/3"
+  unit: 개
+  isCore: false
+seasonings:
+- name: 올리브 오일
+  amount: "2"
+  unit: 큰술
+- name: 레몬즙
+  amount: "1"
+  unit: 큰술
+- name: 소금
+  amount: 약간
+  unit: ""
+- name: 후추
+  amount: 약간
+  unit: ""
+intro: 샐러드가 맛있으려면 채소가 충분히 말라 있어야 합니다. 드레싱을 먼저 만든 뒤 버무리면 잎이 물리지 않습니다.
+steps:
+- 상추나 다른 잎채소를 씻어 탈수하거나 키친타월로 완전히 말립니다(잎에 물기가 남으면 드레싱 후 눅눅해집니다).
+- 토마토 1개, 오이 1/2개, 당근 1/3개를 한 입 크기로 썰고, 당근은 얼음물에 담가 더 아삭하게 할 수 있습니다.
+- 작은 그릇에 올리브 오일 2큰술, 레몬즙 1큰술, 소금과 후추를 약간 넣어 비네그레트를 만듭니다. 맛을 보고 짠맛과 산미를 조절하세요.
+- 모든 채소를 큰 그릇에 넣고 드레싱을 뿌린 뒤 손이나 집게로 가볍게 버무려 잎마다 얇게 양념이 묻게 합니다.
+- 바로 그릇에 담아 낸다. 견과류, 치즈 큐브, 삶은 달걀을 넣으면 더 든든해집니다.
+storage: 바로 버무린 뒤 드세요. 드레싱은 따로 보관하세요.
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-07-30"
+---
+
+제철 채소 샐러드 보울은 계절에 맞게 채소를 바꿀 수 있어 메뉴에서 가장 유연한 한 접시입니다.

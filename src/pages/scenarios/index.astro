@@ -1,0 +1,14 @@
+---
+import ScenariosListPage from "../../components/ScenariosListPage.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { getScenariosListPage } from "../../i18n/scenarios-list-page";
+import { sortRecipesByPublishedDate } from "../../lib/recipes";
+
+const content = getScenariosListPage("zh-TW");
+const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+---
+
+<BaseLayout title={content.title} description={content.description} canonicalPath="/scenarios">
+  <ScenariosListPage locale="zh-TW" recipes={recipes} />
+</BaseLayout>

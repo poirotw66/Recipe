@@ -1,0 +1,103 @@
+---
+title: 焗厚切豬排奶油飯 再現レシピ
+recipeId: sf-baked-thick-cut-pork-cream-rice
+description: Second Floor Cafe 風に 曙光醬、厚切豬排、花椰菜、培根、起司 を組み合わせた、店の一皿を意識した再現レシピです。
+coverImage: /images/recipes/sf-baked-thick-cut-pork-cream-rice.webp
+servings: 1
+prepTime: 18
+cookTime: 18
+totalTime: 36
+difficulty: 普通
+calories: 760
+protein: 38
+fat: 26
+carbs: 84
+category: "ご飯とパスタ"
+scenarios:
+- 高タンパク料理
+- 一人分の料理
+equipment:
+- フライパン
+- 鍋
+tags:
+- 名店再現
+- ご飯とパスタ
+restaurantSource:
+  restaurant: 貳樓 Second Floor Cafe
+  dishName: 焗厚切豬排奶油飯
+  region: 全台連鎖
+intro: Second Floor Cafe でよく見られる組み立て方を参考にし、皿全体の流れごと再現するイメージで作ります。
+steps:
+- 下準備：海塩 小さじ1/3と挽き黒胡椒 小さじ1/4をそれぞれ半量使い、厚切りポークチョップ 220gの両面を調味する。残りはライス用に取っておく。ブロッコリー 120gを小房に、ベーコン 80gを短く切り、チーズ 40gを削り、だし汁 300mlを弱火で温める。
+- フライパンを中火にし、オリーブオイル 大さじ1で豚肉を片面3～4分ずつ焼き、黄金色で中心まで火が通るまで（断面にピンクがない）。3分休ませて厚切りにする。
+- 同じ鍋でベーコンを2分炒めてパリッと脂を出し、ブロッコリーを加え2分炒めて鮮やかな緑に。豚肉と一緒に取り出す。
+- 同鍋に油を少し足し、クリームライス 220gと曙光醬 適量を中火で2分炒め、米粒の外側に油が回り粒立つまで（炒米）。
+- 中弱火に下げ、熱いだし汁を大さじ1/2ずつ加え、ほぼ吸われたら次を入れる。ヘラで絶えず押し混ぜ、4～5回約8分、クリーミーなリゾット状に。
+- 生クリーム 適量と取っておいた海塩、挽き黒胡椒を加え、弱火で1分混ぜてリゾットのとろみにする。
+- 耐熱皿にクリームライスを平らに敷き、厚切り豚肉・ベーコン・ブロッコリーをのせ、チーズ 40gをたっぷりかける。
+- 200℃のオーブンで8分焼き、チーズが黄金色に溶けたら熱いうちに提供。
+tips:
+- 主役の具材とソースは別々に完成させ、最後に盛り付けると食感の差が残せます。
+- 冷たい付け合わせと温かい主菜は最後まで分けておくと、店らしい仕上がりになります。
+- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
+storage: できれば当日中がおすすめ。保存する場合は具材とソースを分けて冷蔵し、食べる前にやさしく温め直します。
+substitutions:
+- 義大利麵
+- 香米
+relatedIngredients:
+- 厚切豬排
+- 花椰菜
+- 培根
+- 起司
+customAdditions: []
+faqs:
+- question: 焗厚切豬排奶油飯 を店っぽく仕上げるコツは？
+  answer: 主役の具材を先に整え、最後にソースをまとわせてから盛り付けると、レストランらしい厚みが出ます。
+- question: "主材料をパサつかせないコツは？"
+  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
+featured: false
+publishedAt: "2026-06-09"
+updatedAt: "2026-07-30"
+ingredients:
+- name: 厚切豬排
+  amount: "220"
+  unit: 公克
+  isCore: true
+- name: 花椰菜
+  amount: "120"
+  unit: 公克
+  isCore: true
+- name: 培根
+  amount: "80"
+  unit: 公克
+  isCore: true
+- name: 起司
+  amount: "40"
+  unit: 公克
+  isCore: true
+- name: 奶油飯
+  amount: "220"
+  unit: 公克
+  isCore: false
+seasonings:
+- name: 橄欖油
+  amount: "1"
+  unit: 大匙
+- name: 海鹽
+  amount: "1/3"
+  unit: 小匙
+- name: 黑胡椒碎
+  amount: "1/4"
+  unit: 小匙
+- name: 曙光醬
+  amount: "適量"
+  unit: ""
+- name: 鮮奶油
+  amount: "適量"
+  unit: ""
+---
+
+この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。
+
+主役の具材、ソース、盛り付けの順で仕上げると、店で出てくるような完成度に近づけます。
+

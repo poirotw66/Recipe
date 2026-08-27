@@ -1,0 +1,1213 @@
+function buildStepsForLocale(slug, displayName, ingredients, seasonings, locale) {
+  const main = ingredients[0]?.name[locale] || displayName;
+  const sub1 = ingredients[1]?.name[locale] || "";
+  const sub2 = ingredients[2]?.name[locale] || "";
+  const sea0 = seasonings[0]?.name[locale] || "";
+  const sea1 = seasonings[1]?.name[locale] || "";
+
+  if (slug.includes("soondubu")) {
+    const meatObj = ingredients.find(i => ["牛肉", "豬肉", "羊肉", "霜降牛", "牛五花", "去骨雞腿肉", "植物雞"].includes(i.name["zh-TW"]));
+    const meat = meatObj ? meatObj.name[locale] : "";
+    const toppings = seasonings.filter(s => s.name["zh-TW"].includes("起司") || s.name["zh-TW"].includes("起司絲") || s.name["zh-TW"].includes("起司片")).map(s => s.name[locale]).join(locale === "zh-TW" ? "與" : " and ");
+    const paste = seasonings.find(s => s.name["zh-TW"].includes("醬") || s.name["zh-TW"].includes("粉"))?.name[locale] || (locale === "zh-TW" ? "韓式辣椒醬" : "Korean chili paste");
+
+    if (locale === "zh-TW") {
+      let step1 = `在辣湯鍋中倒入韓式芝麻油，加入蒜末、洋蔥與 ${paste} 爆炒香。`;
+      if (meat) step1 += `接著放入 ${meat} 炒至變色。`;
+      
+      const subItems = ingredients.filter(i => i.name["zh-TW"] !== "嫩豆腐" && i.name["zh-TW"] !== "洋蔥" && i.name["zh-TW"] !== "青蔥" && i.name["zh-TW"] !== "高湯" && !["牛肉", "豬肉", "羊肉", "霜降牛", "牛五花", "去骨雞腿肉", "植物雞"].includes(i.name["zh-TW"]));
+      let step2 = "注入高湯與醬油，大火煮滾後轉小火。";
+      if (subItems.length > 0) {
+        step2 += `加入 ${subItems.map(i => i.name["zh-TW"]).join("、")} 慢火燉煮 5 分鐘。`;
+      } else {
+        step2 += "慢火燉煮 5 分鐘使其入味。";
+      }
+
+      let step4 = "最後 2 分鐘";
+      if (toppings) step4 += `在表面鋪上 ${toppings} 並`;
+      step4 += "打入一顆雞蛋，待呈半熟即可連鍋滾燙上桌。";
+
+      return [
+        step1,
+        step2,
+        `用湯匙將嫩豆腐大塊舀入鍋中鋪平在中央，以中火煮滾，注意動作要輕，防止嫩豆腐攪碎。`,
+        step4
+      ];
+    }
+    if (locale === "en") {
+      let step1 = `Heat toasted sesame oil in a small pot. Sauté garlic, onion, and ${paste} until fragrant.`;
+      if (meat) step1 += ` Add ${meat} and stir-fry until cooked.`;
+
+      const subItems = ingredients.filter(i => i.name["zh-TW"] !== "嫩豆腐" && i.name["zh-TW"] !== "洋蔥" && i.name["zh-TW"] !== "青蔥" && i.name["zh-TW"] !== "高湯" && !["牛肉", "豬肉", "羊肉", "霜降牛", "牛五花", "去骨雞腿肉", "植物雞"].includes(i.name["zh-TW"]));
+      let step2 = "Pour in kelp broth and soy sauce. Bring to a boil, then lower the heat.";
+      if (subItems.length > 0) {
+        step2 += ` Add ${subItems.map(i => i.name["en"]).join(", ")} and simmer for 5 minutes.`;
+      } else {
+        step2 += " Simmer for 5 minutes.";
+      }
+
+      let step4 = "In the last 2 minutes, ";
+      if (toppings) step4 += `top with ${toppings} and `;
+      step4 += "crack an egg. Serve boiling hot in the pot.";
+
+      return [
+        step1,
+        step2,
+        `Scoop large chunks of soft tofu into the center of the pot. Cook over medium heat, pushing gently to prevent breaking.`,
+        step4
+      ];
+    }
+    if (locale === "ja") {
+      let step1 = `小鍋にごま油を熱し、ニンニク、玉ねぎ、${paste}を炒めて香りを立たせます。`;
+      if (meat) step1 += ` そこに${meat}を加えて炒め合わせます。`;
+
+      const subItems = ingredients.filter(i => i.name["zh-TW"] !== "嫩豆腐" && i.name["zh-TW"] !== "洋蔥" && i.name["zh-TW"] !== "青蔥" && i.name["zh-TW"] !== "高湯" && !["牛肉", "豬肉", "羊肉", "霜降牛", "牛五花", "去骨雞腿肉", "植物雞"].includes(i.name["zh-TW"]));
+      let step2 = "出汁と醤油を加え、強火で沸騰させた後、弱火にします。";
+      if (subItems.length > 0) {
+        step2 += ` ${subItems.map(i => i.name["ja"]).join("、")}を加えて5分間煮込みます。`;
+      } else {
+        step2 += " 5分間煮込みます。";
+      }
+
+      let step4 = "仕上げの2分前に";
+      if (toppings) step4 += `${toppings}をトッピングし、`;
+      step4 += "卵を割り入れます。熱々の状態で提供します。";
+
+      return [
+        step1,
+        step2,
+        `おたま等で大ぶりにすくった純豆腐を鍋の中央に入れ、優しく崩れないよう中火で温めます。`,
+        step4
+      ];
+    }
+    if (locale === "ko") {
+      let step1 = `뚝배기에 참기름을 두르고 다진 마늘, 양파, ${paste}을 넣어 볶습니다.`;
+      if (meat) step1 += ` 이어 ${meat}을 넣고 익을 때까지 볶아줍니다.`;
+
+      const subItems = ingredients.filter(i => i.name["zh-TW"] !== "嫩豆腐" && i.name["zh-TW"] !== "洋蔥" && i.name["zh-TW"] !== "青蔥" && i.name["zh-TW"] !== "高湯" && !["牛肉", "豬肉", "羊肉", "霜降牛", "牛五五花", "去骨雞腿肉", "植物雞"].includes(i.name["zh-TW"]));
+      let step2 = "육수와 간장을 붓고 끓으면 약불로 줄입니다.";
+      if (subItems.length > 0) {
+        step2 += ` ${subItems.map(i => i.name["ko"]).join(", ")}을 넣고 5분간 끓입니다.`;
+      } else {
+        step2 += " 5분간 끓입니다.";
+      }
+
+      let step4 = "마지막 2분 전에 ";
+      if (toppings) step4 += `${toppings}을 얹고 `;
+      step4 += "달걀을 풀어 넣습니다. 뜨거울 때 서빙합니다.";
+
+      return [
+        step1,
+        step2,
+        `순두부를 큼직하게 숟가락으로 떠서 넣고 순두부가 깨지지 않도록 살살 끓여줍니다.`,
+        step4
+      ];
+    }
+  }
+
+  if (slug.includes("stone-pot-rice")) {
+    const subItems = ingredients.filter(i => i.name["zh-TW"] !== "白米");
+    const subNames = subItems.map(i => i.name[locale]).join(locale === "zh-TW" ? "、" : ", ");
+    const hasSugar = seasonings.some(s => s.name["zh-TW"] === "白糖");
+
+    if (locale === "zh-TW") {
+      let step2 = `平底鍋倒入韓式芝麻油，將 ${subNames} 分開炒熟，加入少許鹽與醬油輕調味`;
+      if (hasSugar) step2 += "，雞肉炒時加入少許白糖增添風味";
+      step2 += "。";
+      return [
+        `將 ${main} 洗淨，加高湯放入石鍋或電鍋中煮成Q彈的白米飯備用。`,
+        step2,
+        `在石鍋內壁均勻刷上韓式芝麻油，鋪上白米飯，再把炒好的配料排在米飯上。`,
+        `將石鍋移至火上以中火加熱，結出酥脆鍋巴並聞到香氣後關火，趁熱拌勻食用。`
+      ];
+    }
+    if (locale === "en") {
+      let step2 = `Heat toasted sesame oil in a skillet, sauté ${subNames} separately, and season with salt and soy sauce`;
+      if (hasSugar) step2 += " (add a pinch of sugar for chicken)";
+      step2 += ".";
+      return [
+        `Wash ${main}, add kelp broth, and cook until fluffy. Set aside.`,
+        step2,
+        `Brush toasted sesame oil generously on the stone pot, spread cooked rice, and arrange ingredients on top.`,
+        `Heat stone pot over medium until crackling sound is heard and a crispy crust forms. Serve hot.`
+      ];
+    }
+    if (locale === "ja") {
+      let step2 = `フライパンにごま油を熱し、${subNames}をそれぞれ炒め、塩と醤油で味付けします`;
+      if (hasSugar) step2 += "（鶏肉は少々の砂糖を加えて炒めます）";
+      step2 += "。";
+      return [
+        `${main}を研いで高麗だし汁で炊飯しておきます。`,
+        step2,
+        `石鍋の内側にごま油を塗り、ご飯を詰めて、炒めた具材を上に並べます。`,
+        `石鍋を中火にかけて数分加熱し、香ばしいおこげができたら火を止め、熱いうちに召し上がります。`
+      ];
+    }
+    if (locale === "ko") {
+      let step2 = `팬에 참기름을 두르고 ${subNames}을 각각 볶아소금과 간장으로 가볍게 간합니다`;
+      if (hasSugar) step2 += " (닭고기는 설탕을 약간 넣어 볶아줍니다)";
+      step2 += ".";
+      return [
+        `${main}을 씻어 육수를 넣고 밥을 고슬고슬하게 짓습니다.`,
+        step2,
+        `돌솥 안쪽에 참기름을 바른 후 밥을 담고 볶아둔 고명을 얹습니다.`,
+        `돌솥을 불에 올려 가볍게 누룽지가 생길 때까지 달구어 낸 후 따뜻하게 서빙합니다.`
+      ];
+    }
+  }
+
+  if (slug.includes("bibimbap")) {
+    if (locale === "zh-TW") {
+      return [
+        `將 ${main} 煮熟。熱鍋下油，將 ${sub1} 炒熟備用。`,
+        `將胡蘿蔔、菠菜、黃豆芽、黑木耳等五色配菜切絲炒熟，加入鹽與韓式芝麻油調味。`,
+        `石鍋刷一層韓式芝麻油，鋪上白米飯，均勻碼上炒好的肉與蔬菜，中間打入一顆雞蛋。`,
+        `中火加熱至鍋底結出香脆鍋巴，上桌前淋上芝麻與韓國辣醬，拌勻享用。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Cook ${main}. Sauté ${sub1} in a pan with soy sauce and set aside.`,
+        `Stir-fry carrot, spinach, soybean sprouts, and wood ear mushroom separately with salt and toasted sesame oil.`,
+        `Brush a stone pot with toasted sesame oil, add rice, arrange beef and vegetables on top, and add a raw egg yolk.`,
+        `Heat until a crispy rice crust forms, drizzle with sesame seeds and Korean chili paste, mix and enjoy.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}を炊きます。フライパンに油を熱し、${sub1}を炒めて取り出しておきます。`,
+        `にんじん、ほうれん草、豆もやし、きくらげなどの野菜をそれぞれ炒め、塩とごま油で軽く味付けします。`,
+        `石鍋にごま油を塗り、ご飯を敷き、炒めた肉と野菜を並べ、中央に卵黄を落とします。`,
+        `おこげを作り、仕上げにコチュジャンとごまをかけ、熱いうちによく混ぜて召し上がります。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}으로 밥을 짓습니다. 팬에 기름을 두르고 ${sub1}를 볶아 따로 둡니다.`,
+        `당근, 시금치, 콩나물, 목이버섯을 각각 볶아 소금과 참기름으로 간을 합니다.`,
+        `돌솥에 참기름을 바르고 밥을 담은 후 고기와 야채를 얹고 달걀 노른자를 올립니다.`,
+        `누룽지가 생길 때까지 달군 후 고추장과 참깨를 두르고 뜨겁게 비벼 먹습니다.`
+      ];
+    }
+  }
+
+  if (slug.includes("fried-chicken") && !slug.includes("rice-cake") && !slug.includes("stired")) {
+    const isOriginal = slug.includes("original");
+    const hasHoney = seasonings.some(s => s.name["zh-TW"] === "蜂蜜");
+
+    if (locale === "zh-TW") {
+      let step1 = `將去骨雞腿肉切塊，加入蒜末、鹽、胡椒粉與少許韓式芝麻油醃漬 30 分鐘入味。`;
+      let step4 = "";
+      if (isOriginal) {
+        step4 = "直接將炸好的原味雞塊盛盤，搭配醃洋蔥或青蔥一同食用。";
+      } else {
+        let saucePart = `加入 ${seasonings[1].name[locale]}`;
+        if (hasHoney) saucePart += "與蜂蜜";
+        step4 = `另起鍋用韓式芝麻油爆香洋蔥與青蔥，${saucePart} 調勻煮稠，關火後倒入炸雞塊裹勻，最後撒上芝麻即可。`;
+      }
+      return [
+        step1,
+        `雞肉均勻裹上 ${seasonings[0].name[locale]}，油鍋加熱至 170°C 下鍋炸 7 分鐘撈出。`,
+        `油溫升至 185°C，把雞塊回炸 2 分鐘，至外表金黃香脆後撈出。`,
+        step4
+      ];
+    }
+    if (locale === "en") {
+      let step1 = `Cut chicken into pieces, and marinate with garlic, salt, black pepper powder, and toasted sesame oil for 30 minutes.`;
+      let step4 = "";
+      if (isOriginal) {
+        step4 = "Plate the fried original chicken pieces directly and serve with pickled onions or green scallions.";
+      } else {
+        let saucePart = `add ${seasonings[1].name[locale]}`;
+        if (hasHoney) saucePart += " and honey";
+        step4 = `Heat toasted sesame oil in a clean pan. Sauté onion and scallion, ${saucePart} until thick. Turn off heat, coat chicken, and garnish with sesame seeds.`;
+      }
+      return [
+        step1,
+        `Coat chicken with ${seasonings[0].name[locale]}. Deep-fry at 170°C for 7 minutes, then drain.`,
+        `Heat oil to 185°C and fry chicken again for 2 minutes until extra crispy and golden.`,
+        step4
+      ];
+    }
+    if (locale === "ja") {
+      let step1 = `鶏肉を切り、にんにく、塩、コショウ粉、少すごま油を揉み込んで30分間漬け込みます。`;
+      let step4 = "";
+      if (isOriginal) {
+        step4 = "揚げたてのオリジナルチキンを皿に盛り付け、甘酢漬けの玉ねぎや青ネギを添えて召し上がります。";
+      } else {
+        let saucePart = `${seasonings[1].name[locale]}を加えて`;
+        if (hasHoney) saucePart = `${seasonings[1].name[locale]}とハチミツを加えて`;
+        step4 = `別のフライパンにごま油を熱し、玉ねぎと青ネギを炒め、${saucePart}温めます。火を止めてチキンを絡め、ごまを振ります。`;
+      }
+      return [
+        step1,
+        `鶏肉に${seasonings[0].name[locale]}をまぶし、170℃の油で7分間揚げて取り出します。`,
+        `油の温度を185℃に上げ、再度二度揚げを2分間行い、サクサクに仕上げます。`,
+        step4
+      ];
+    }
+    if (locale === "ko") {
+      let step1 = `닭고기를 한입 크기로 자른 후 다진 마늘, 소금, 후춧가루, 참기름 약간을 넣어 30분간 재워둡니다.`;
+      let step4 = "";
+      if (isOriginal) {
+        step4 = "튀겨낸 오리지널 치킨을 그릇에 담고 절임 양파나 대파를 곁들여 함께 섭취합니다.";
+      } else {
+        let saucePart = `${seasonings[1].name[locale]}을 넣어`;
+        if (hasHoney) saucePart = `${seasonings[1].name[locale]}와 꿀을 넣어`;
+        step4 = `팬에 참기름을 두르고 양파와 대파를 볶다가 ${saucePart} 끓여 불을 끄고 튀긴 닭고기를 넣어 버무린 뒤 참깨를 뿌립니다.`;
+      }
+      return [
+        step1,
+        `닭고기에 ${seasonings[0].name[locale]}을 입힙니다. 170°C의 기름에서 1차로 7분간 튀긴 후 건져냅니다.`,
+        `기름 온도를 185°C로 올리고 닭고기를 다시 넣어 2차로 2분간 더 바삭하게 튀깁니다.`,
+        step4
+      ];
+    }
+  }
+
+  if (slug.includes("pancake")) {
+    const subItems = ingredients.filter(i => i.name["zh-TW"] !== "中筋麵粉" && i.name["zh-TW"] !== "雞蛋" && i.name["zh-TW"] !== "鹽" && i.name["zh-TW"] !== "韓式芝麻油" && i.name["zh-TW"] !== "豆腐");
+    const subList = subItems.map(i => i.name[locale]).join(locale === "zh-TW" ? "、" : ", ");
+    const subListZh = subItems.map(i => i.name["zh-TW"]).join("、");
+    const hasCheese = seasonings.some(s => s.name["zh-TW"].includes("起司") || s.name["zh-TW"].includes("起司絲"));
+    const cheeseName = hasCheese ? seasonings.find(s => s.name["zh-TW"].includes("起司") || s.name["zh-TW"].includes("起司絲")).name[locale] : "";
+
+    if (locale === "zh-TW") {
+      let step1 = `將 ${main} 和其他配料切成細絲或小丁。`;
+      if (slug.includes("kimchi")) step1 += " 嫩豆腐壓碎瀝乾水分。";
+
+      let step3 = `平底鍋倒入韓式芝麻油線燒熱，舀入麵糊並用鍋鏟鋪平、壓薄。以中火煎至底部呈金黃酥脆。`;
+      if (hasCheese) step3 += ` 均勻撒上 ${cheeseName}。`;
+
+      let step4 = `將煎餅翻面，沿鍋邊再補少許韓式芝麻油，繼續煎至雙面皆呈現金黃香脆後，切塊即可盛盤享用。`;
+      if (hasCheese) step4 = `將煎餅翻面（使起司朝下煎融呈焦香起司皮），沿鍋邊再補少許韓式芝麻油，繼續煎至金黃香脆，切塊即可盛盤享用。`;
+
+      return [
+        step1,
+        `在碗中將中筋麵粉、雞蛋、鹽與適量清水攪拌均勻，倒入切好的 ${subListZh} 混合成均勻煎餅糊。`,
+        step3,
+        step4
+      ];
+    }
+    if (locale === "en") {
+      let step1 = `Finely shred or dice ${main}.`;
+      if (slug.includes("kimchi")) step1 += " Mash tofu and squeeze out excess water.";
+
+      let step3 = `Heat toasted sesame oil in a skillet, pour in the batter, and spread it thin. Fry over medium heat until bottom is crispy.`;
+      if (hasCheese) step3 += ` Sprinkle ${cheeseName} evenly on top.`;
+
+      let step4 = `Carefully flip the pancake, drizzle more toasted sesame oil around edges, and fry until both sides are golden and crunchy. Slice and serve.`;
+      if (hasCheese) step4 = `Flip the pancake (let cheese touch skillet to melt and crisp), drizzle toasted sesame oil, and cook until golden. Slice and serve.`;
+
+      return [
+        step1,
+        `In a bowl, whisk all-purpose flour, egg, salt, and water. Stir in the sliced ${subList || main} to form a thick batter.`,
+        step3,
+        step4
+      ];
+    }
+    if (locale === "ja") {
+      let step1 = `${main}を細切りまたは粗みじん切りにしておきます。`;
+      if (slug.includes("kimchi")) step1 += " 純豆腐は水切りして崩しておきます。";
+
+      let step3 = `フライパンにごま油を熱し、生地を流し込んで薄く広げます。中火で底がカリッと香ばしくなるまで焼きます。`;
+      if (hasCheese) step3 += ` 全体に${cheeseName}を散らします。`;
+
+      let step4 = `裏返し、フライパンの端からさらに少すごま油を回し入れ、両面がきつね色になるまでサクサクに焼いて切り分けます。`;
+      if (hasCheese) step4 = `裏返し（チーズを下にして香ばしく焼き上げ）、ごま油を回し入れ、サクサクになるまで両面を焼き上げて切り分けます。`;
+
+      return [
+        step1,
+        `ボウルに中力粉、卵、塩、水を混ぜ合わせ、切った${subList || main}を加えて生地を作ります。`,
+        step3,
+        step4
+      ];
+    }
+    if (locale === "ko") {
+      let step1 = `${main}을 잘게 채 썰거나 다져 둡니다.`;
+      if (slug.includes("kimchi")) step1 += " 두부는 으깨어 물기를 짜둡니다.";
+
+      return [
+        step1,
+        `볼에 중력분, 달걀, 소금, 물을 넣고 섞은 후 채 썬 ${subList || main}을 넣어 고르게 반죽을 만듭니다.`,
+        `팬에 참기름을 두르고 반죽을 올려 뒤집개로 얇고 평평하게 폅니다. 중불에서 바닥이 바삭해질 때까지 굽습니다.`,
+        `전 뒤집개로 뒤집고 가장자리에 참기름을 살짝 보충한 뒤 양면이 모두 바삭하고 노릇하게 구워지면 썰어 냅니다.`
+      ];
+    }
+  }
+
+  if (slug.includes("egg-roll") || slug.includes("steamed-eggs")) {
+    const isSteamed = slug.includes("steamed-eggs");
+    const subItems = ingredients.filter(i => i.name["zh-TW"] !== "雞蛋");
+    const hasTruffle = seasonings.some(s => s.name["zh-TW"] === "黑松露醬");
+    const hasMozzarella = seasonings.some(s => s.name["zh-TW"] === "莫札瑞拉起司絲");
+    const hasCheddar = seasonings.some(s => s.name["zh-TW"] === "切達起司片");
+
+    if (locale === "zh-TW") {
+      const subNames = subItems.map(i => i.name["zh-TW"]).join("、");
+      let toppingsList = [];
+      if (hasTruffle) toppingsList.push("黑松露醬");
+      if (hasMozzarella) toppingsList.push("莫札瑞拉起司絲");
+      if (hasCheddar) toppingsList.push("切達起司片");
+      const toppingsName = toppingsList.join("與");
+
+      const fillings = [subNames, toppingsName].filter(Boolean).join("與");
+
+      if (isSteamed) {
+        return [
+          `在碗中打入 ${main}，加入高湯、鹽與芝麻油打均勻。`,
+          `將蛋液倒入陶鍋中，以小火慢燉並用筷子輕輕攪拌，避免底部焦黏。`,
+          `當蛋液煮至七分熟，均勻鋪上 ${fillings || "起司片與飛魚卵"}。`,
+          `蓋上鍋蓋，以極小火繼續燜煮 2 分鐘，至起司完全融化即可熱騰騰上桌。`
+        ];
+      }
+      return [
+        `在碗中打入 ${main}，加入少許鹽與調味料打均勻。`,
+        `平底鍋或玉子燒鍋刷上韓式芝麻油加熱，倒入三分之一蛋液以小火慢煎，均勻鋪上 ${fillings || "起司片與飛魚卵"}。`,
+        `小心將半熟蛋皮捲起推至一端，再分次倒入剩餘蛋液，與已捲好的蛋捲連接後繼續捲起。`,
+        `重複此步驟至蛋液用完。盛出切成厚片，趁熱呈現起司融化牽絲的滑嫩口感。`
+      ];
+    }
+    if (locale === "en") {
+      const subNames = subItems.map(i => i.name["en"]).join(", ");
+      let toppingsList = [];
+      if (hasTruffle) toppingsList.push("black truffle sauce");
+      if (hasMozzarella) toppingsList.push("mozzarella cheese");
+      if (hasCheddar) toppingsList.push("cheddar cheese");
+      const toppingsName = toppingsList.join(" and ");
+
+      const fillings = [subNames, toppingsName].filter(Boolean).join(" and ");
+
+      if (isSteamed) {
+        return [
+          `Beat ${main} in a bowl, add kelp broth, salt, and toasted sesame oil. Mix well.`,
+          `Pour egg mixture into a clay pot, cook over low heat, and stir gently with chopsticks to prevent burning.`,
+          `When eggs are 70% cooked, top with ${fillings || "cheese and roe"}.`,
+          `Cover with lid, simmer on low heat for 2 minutes until cheese melts, and serve hot.`
+        ];
+      }
+      return [
+        `Beat ${main} in a bowl with a pinch of salt and seasonings.`,
+        `Brush toasted sesame oil on an egg roll pan over low heat. Pour in 1/3 of egg mixture. Arrange ${fillings || "cheese and roe"} on top.`,
+        `Gently roll the semi-cooked egg sheet, push it to the end, pour in more egg to connect, and roll again.`,
+        `Repeat until all egg is used. Remove from heat, let cool slightly, slice into thick rounds, and serve hot.`
+      ];
+    }
+    if (locale === "ja") {
+      const subNames = subItems.map(i => i.name["ja"]).join("、");
+      let toppingsList = [];
+      if (hasTruffle) toppingsList.push("黒トリュフソース");
+      if (hasMozzarella) toppingsList.push("モッツァレラチーズ");
+      if (hasCheddar) toppingsList.push("チェダーチーズ");
+      const toppingsName = toppingsList.join("と");
+
+      const fillings = [subNames, toppingsName].filter(Boolean).join("と");
+
+      if (isSteamed) {
+        return [
+          `ボウルに${main}を割り入れ、出汁、塩、ごま油を加えてよくかき混ぜます。`,
+          `卵液を土鍋に流し込み、弱火で加熱しながら、底が焦げ付かないよう箸で優しくかき混ぜます。`,
+          `卵が7割ほど固まったら、${fillings || "チーズと魚卵"}を均一にのせます。`,
+          `蓋をして極弱火で2分間蒸らし、チーズがとろりと溶けたら熱々のまま提供します。`
+        ];
+      }
+      return [
+        `ボウルに${main}を割り入れ、塩少々と調味料を加えてよくかき混ぜます。`,
+        `卵焼き器にごま油を薄く熱し、卵液の1/3を注いで弱火にし、${fillings || "チーズと魚卵"}を均一にのせます。`,
+        `端から丁寧にロールし、奥に戻します。卵液を追加して巻き込みながらさらにロールします。`,
+        `卵液がなくなるまで繰り返します。厚めに切り分け、チーズがとろける食感を楽しみます。`
+      ];
+    }
+    if (locale === "ko") {
+      const subNames = subItems.map(i => i.name["ko"]).join(", ");
+      let toppingsList = [];
+      if (hasTruffle) toppingsList.push("블랙 트러플 소스");
+      if (hasMozzarella) toppingsList.push("모짜렐라 치즈");
+      if (hasCheddar) toppingsList.push("체다 치즈");
+      const toppingsName = toppingsList.join("와 ");
+
+      const fillings = [subNames, toppingsName].filter(Boolean).join("와 ");
+
+      if (isSteamed) {
+        return [
+          `볼에 ${main}을 풀고 육수, 소금, 참기름을 넣어 골고루 섞어줍니다.`,
+          `달걀물을 뚝배기에 붓고 약불에서 타지 않도록 숟가락이나 젓가락으로 살살 저어가며 끓입니다.`,
+          `달걀이 70% 정도 익었을 때 ${fillings || "치즈와 날치알"}을 얹습니다.`,
+          `뚜껑을 덮고 극약불에서 2분간 뜸을 들여 치즈가 다 녹으면 뜨겁게 완성합니다.`
+        ];
+      }
+      return [
+        `볼에 ${main}을 깨뜨려 넣고 소금 약간과 양념을 더해 잘 풀어줍니다.`,
+        `팬에 참기름을 두르고 달군 후 달걀물의 1/3을 부어 약불에서 반쯤 익힙니다. 그 위에 ${fillings || "치즈와 날치알"}을 얹어줍니다.`,
+        `달걀을 말아 끝으로 밀어둔 뒤, 남은 달걀물을 더 부어 연결해 가며 다시 돌돌 말아줍니다.`,
+        `달걀물을 모두 사용할 때까지 반복합니다. 완성되면 도톰하게 썰어 서빙합니다.`
+      ];
+    }
+  }
+
+  if (slug.includes("ginseng-chicken")) {
+    const isHotPot = slug.includes("hot-pot");
+    if (locale === "zh-TW") {
+      let step2 = `大砂鍋中放入填好料的春雞，加入新鮮高麗人蔘、紅棗、山東大白菜與蒜頭。`;
+      if (isHotPot) step2 += " 鋪入韓式年糕條與鮮香菇。";
+      return [
+        `將 ${main} 洗淨，糯米浸泡 1 小時後填入雞腹腔中，用牙籤或棉線將開口封緊。`,
+        step2,
+        `倒入足量清水沒過食材，大火煮沸後撇去浮沫，轉小火蓋上砂鍋蓋慢燉 1.5 至 2 小時。`,
+        `燉煮至雞肉骨軟肉綿、湯頭呈現濃郁的乳白色，加入少許鹽與胡椒粉調味即可整鍋上桌。`
+      ];
+    }
+    if (locale === "en") {
+      let step2 = `Place stuffed chicken in a large clay pot, add ginseng root, red dates, garlic, and cabbage.`;
+      if (isHotPot) step2 += " Add Korean rice cakes and shiitake mushrooms.";
+      return [
+        `Clean ${main}, soak glutinous rice for 1 hour, stuff rice into chicken cavity, and seal opening.`,
+        step2,
+        `Pour in water to submerge hen. Boil on high heat, skim foam, cover and simmer for 1.5 to 2 hours.`,
+        `Simmer until chicken meat is extremely tender and broth is milky white. Season with salt and pepper.`
+      ];
+    }
+    if (locale === "ja") {
+      let step2 = `大きな土鍋に丸鶏を入れ、高麗人参、ナツメ、ニンニク、白菜を加えます。`;
+      if (isHotPot) step2 += " トックとしいたけをのせます。";
+      return [
+        `${main}をきれいに洗い、1時間浸水させたもち米を鶏의腹部に詰め、口を爪楊枝等で閉じます。`,
+        step2,
+        `具材が浸るまで水を注ぎ、強火で沸騰させてアクを取り除き、弱火にして蓋をし、1.5〜2時間じっくりと煮込みます。`,
+        `肉が骨からホロホロと外れ、スープが白濁するまで煮込んだら、塩とコショウで味を調え、土鍋ごと運びます。`
+      ];
+    }
+    if (locale === "ko") {
+      let step2 = `큰 뚝배기에 속을 채운 닭을 담고 인삼, 대추, 마늘, 배추를 함께 넣습니다.`;
+      if (isHotPot) step2 += " 떡볶이 떡과 표고버섯을 얹습니다.";
+      return [
+        `${main}의 내부를 깨끗이 씻어내고, 1시간 동안 불린 찹쌀을 닭 속안에 채워 넣은 후 입구를 이쑤시개로 꿰매어 봉합니다.`,
+        step2,
+        `재료가 잠길 정도로 물을 붓고 강불에서 끓여 거품을 걷어낸 뒤, 뚜껑을 덮고 약불에서 1.5~2시간 동안 푹 끓입니다.`,
+        `닭고기가 아주 부드러워지고 국물이 뽀얗게 우러나면 소금과 후춧가루로 간을 맞추어 서빙합니다.`
+      ];
+    }
+  }
+
+  if (slug.includes("rice-cake")) {
+    const riceCakeObj = ingredients.find(i => i.name["zh-TW"].includes("年糕")) || ingredients[0];
+    const riceCake = riceCakeObj.name[locale];
+    const proteins = ingredients.filter(i => !i.name["zh-TW"].includes("年糕") && i.name["zh-TW"] !== "洋蔥" && i.name["zh-TW"] !== "青蔥" && i.name["zh-TW"] !== "蒜頭");
+    
+    const hasSesame = seasonings.some(s => s.name["zh-TW"].includes("芝麻"));
+    const hasCheese = seasonings.some(s => s.name["zh-TW"].includes("起司") || s.name["zh-TW"].includes("起司絲") || s.name["zh-TW"].includes("起司片"));
+    
+    const sauceSeasonings = seasonings.filter(s => 
+      !s.name["zh-TW"].includes("芝麻") && 
+      !s.name["zh-TW"].includes("起司絲") && 
+      !s.name["zh-TW"].includes("起司片")
+    );
+
+    if (locale === "zh-TW") {
+      const proteinNames = proteins.map(i => i.name["zh-TW"]).join("、");
+      const sauceNames = sauceSeasonings.map(s => s.name["zh-TW"]).join("、");
+      
+      let step2 = `熱平底鍋下油，炒香蒜末與洋蔥，`;
+      if (proteinNames) step2 += `加入 ${proteinNames} 翻炒至熟透。`;
+      else step2 += "翻炒調味。";
+
+      let step3 = `倒入調製好的 ${sauceNames || "醬汁"} 與少量高湯，放入浸泡好的 ${riceCake}，以中火煮沸，持續翻拌防止年糕黏底。`;
+
+      let step4 = `待年糕煮熟且醬汁收濃，`;
+      let toppings = [];
+      if (hasCheese) toppings.push("起司");
+      if (hasSesame) toppings.push("芝麻");
+      if (toppings.length > 0) {
+        step4 += `在表面均勻撒上 ${toppings.join("與")}，`;
+      }
+      step4 += `關火微火燜煮 1 分鐘即可盛盤。`;
+
+      return [
+        `將 ${riceCake} 放入溫水中浸泡 15 分鐘使其變軟，撈出瀝乾備用。`,
+        step2,
+        step3,
+        step4
+      ];
+    }
+    if (locale === "en") {
+      const proteinNames = proteins.map(i => i.name["en"]).join(", ");
+      const sauceNames = sauceSeasonings.map(s => s.name["en"]).join(", ");
+      
+      let step2 = `Heat oil in a pan, sauté garlic and onion, `;
+      if (proteinNames) step2 += `then add ${proteinNames} and stir-fry until cooked.`;
+      else step2 += "and stir-fry.";
+
+      let step3 = `Pour in the prepared ${sauceNames || "sauce"} and a little broth. Add the soaked ${riceCake}, bring to a boil, and stir constantly to prevent sticking.`;
+
+      let step4 = `When the rice cakes are chewy and the sauce is thick, `;
+      let toppings = [];
+      if (hasCheese) toppings.push("cheese");
+      if (hasSesame) toppings.push("sesame seeds");
+      if (toppings.length > 0) {
+        step4 += `top with ${toppings.join(" and ")}, `;
+      }
+      step4 += `and let simmer for 1 minute before serving.`;
+
+      return [
+        `Soak ${riceCake} in warm water for 15 minutes to soften, then drain and set aside.`,
+        step2,
+        step3,
+        step4
+      ];
+    }
+    if (locale === "ja") {
+      const proteinNames = proteins.map(i => i.name["ja"]).join("、");
+      const sauceNames = sauceSeasonings.map(s => s.name["ja"]).join("、");
+      
+      let step2 = `フライパンに油を熱し、ニンニクと玉ねぎを炒め，`;
+      if (proteinNames) step2 += `${proteinNames}を加えてしっかりと炒め合わせます。`;
+      else step2 += "炒め合わせます。";
+
+      let step3 = `合わせた${sauceNames || "タレ"}と少量の出汁を加え、トックを入れて中火で煮立て、焦げ付かないよう絶えず混ぜながら煮詰めます。`;
+
+      let step4 = `トックが柔らかくなりタレが煮詰まったら、`;
+      let toppings = [];
+      if (hasCheese) toppings.push("チーズ");
+      if (hasSesame) toppings.push("ごま");
+      if (toppings.length > 0) {
+        step4 += `仕上げに${toppings.join("と")}をのせて`;
+      }
+      step4 += `蓋をし、余熱で1分間温めてから盛り付けます。`;
+
+      return [
+        `${riceCake}をぬるま湯に15分間浸して柔らかくし、水気を切っておきます。`,
+        step2,
+        step3,
+        step4
+      ];
+    }
+    if (locale === "ko") {
+      const proteinNames = proteins.map(i => i.name["ko"]).join(", ");
+      const sauceNames = sauceSeasonings.map(s => s.name["ko"]).join(", ");
+      
+      let step2 = `팬에 식용유를 두르고 다진 마늘과 양파를 볶다가 `;
+      if (proteinNames) step2 += `${proteinNames}를 넣어 함께 볶아줍니다.`;
+      else step2 += "볶아줍니다.";
+
+      let step3 = `준비해 둔 ${sauceNames || "양념"}와 육수를 붓고 떡을 넣어 중불에서 끓이며 바닥에 붙지 않도록 잘 저어줍니다.`;
+
+      let step4 = `소스가 걸쭉하게 졸아들면 `;
+      let toppings = [];
+      if (hasCheese) toppings.push("치즈");
+      if (hasSesame) toppings.push("참깨");
+      if (toppings.length > 0) {
+        step4 += `마지막에 ${toppings.join("와 ")}을 얹고 `;
+      }
+      step4 += `약불에서 1분간 뜸을 들인 후 완성합니다.`;
+
+      return [
+        `${riceCake}을 미지근한 물에 15분간 담가 말랑하게 만든 후 물기를 빼둡니다.`,
+        step2,
+        step3,
+        step4
+      ];
+    }
+  }
+
+  if (slug.includes("brown-sugar-pancake") || slug.includes("tofu-ice-cream")) {
+    if (locale === "zh-TW") {
+      return [
+        `將 ${main} 混合製作出甜點基底（調配成麵糊發酵，或用非基改黃豆磨製豆漿）。`,
+        `平底鍋倒入少許油或奶油，將麵糊以小火慢煎上色（或將煮熟豆沙泥倒入攪拌盆打至棉柔冰淇淋質地）。`,
+        `準備 ${sub1} 與調味內餡（準備黑糖粉、肉桂粉、綜合堅果碎，或用小鍋熬煮黑糖珍珠至Q彈軟糯）。`,
+        `將兩者組合（黑糖肉桂餡包入麵糰壓扁煎熟，或在豆腐冰淇淋上淋上溫熱的黑糖珍珠），即刻盛盤享用。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Mix ${main} to create the dessert base (knead dough for pancake, or puree soybeans for ice cream).`,
+        `Heat oil or butter in a skillet and cook the base over low heat (or whip the soybean puree in a mixing bowl until fluffy).`,
+        `Prepare ${sub1} (mix brown sugar, cinnamon powder, and crushed mixed nuts, or simmer tapioca pearls in sugar syrup).`,
+        `Combine them (stuff pancake dough and griddle until sugar melts, or drizzle tapioca pearls over tofu ice cream).`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}を混ぜてデザートのベースを準備します（ホットクの生地を作るか、大豆を処理します）。`,
+        `フライパンにごま油やバターを熱し、弱火でゆっくりと焼きます（または茹でた大豆をフードプロセッサーで滑らかなアイス状に仕上げます）。`,
+        `${sub1}（黒糖シナモン堅果餡、または黒糖タピオカパール）を温めて準備します。`,
+        `２つを組み合わせ（生地に餡を包んで平らに焼き上げるか、豆腐アイスに黒糖タピオカをトッピングします）。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}을 섞어 디저트 베이스를 만듭니다(호떡 반죽을 발효시키거나, 삶은 대두로 두유를 만듭니다).`,
+        `팬에 식용유나 버터를 두르고 약불에서 노릇하게 구워냅니다(혹은 콩 퓨레를 휘핑하여 부드러운 아이스크림으로 만듭니다).`,
+        `${sub1}을 준비합니다(흑설탕 계피 견과 소를 섞거나, 흑당 타피오카 펄이 졸여질 때까지 졸입니다).`,
+        `두 가지를 결합하여(반죽에 소를 넣어 구워 완성하거나, 두부 아이스크림 위에 흑당 펄을 얹어 완성합니다).`
+      ];
+    }
+  }
+
+  // General main / appetizer / other dishes
+  // 1. french-fries
+  if (slug.includes("french-fries")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}準備好，烤箱或氣炸鍋預熱。`,
+        `將${main}放入氣炸鍋以 180°C 氣炸 12 分鐘至金黃酥脆。`,
+        `另起小鍋，以微火將韓式辣醬與蜂蜜加熱調勻。`,
+        `將炸好的薯條與調好的醬汁快速拌勻即可盛盤食用。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Prepare ${main} and preheat the air fryer.`,
+        `Air-fry at 180°C for 12 minutes until crispy and golden.`,
+        `In a separate pan, warm Korean chili paste and honey over low heat.`,
+        `Toss fries with the sauce and serve.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}を準備し、ノンフライヤーを予熱します。`,
+        `180℃で12分間、きつね色になるまで揚げ焼きにします。`,
+        `別の小鍋で、コチュジャンとはちみつを弱火で温め混ぜ合わせます。`,
+        `ポテトとタレを素早く絡めて皿に盛り付けます。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}을 준비하고 에어프라이어를 예열합니다.`,
+        `에어프라이어에 넣어 180°C에서 12분간 바삭하고 노릇하게 튀겨냅니다.`,
+        `다른 팬에 고추장과 꿀을 약불에서 섞어 데워줍니다.`,
+        `튀겨진 감자튀김을 양념에 빠르게 버무려 완성합니다.`
+      ];
+    }
+  }
+
+  // 2. deep-fried-tofu
+  if (slug.includes("deep-fried-tofu")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}切成一口大小的塊狀，用廚房紙巾吸乾表面水分。`,
+        `在鍋中倒入適量食用油燒熱，放入豆腐塊，以中火煎炸至外表呈現金黃酥脆後撈出瀝乾。`,
+        `將醬油、蒜末與白糖混合均勻，調製成經典的蒜蓉醬汁。`,
+        `將炸好的豆腐盛盤，淋上調製好的蒜蓉醬油即可熱騰騰享用。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Cut ${main} into bite-sized cubes and drain excess water.`,
+        `Fry tofu cubes in hot oil over medium heat until golden and crispy, then drain.`,
+        `Mix soy sauce, minced garlic, and sugar to make the classic dipping sauce.`,
+        `Plate the tofu, drizzle with the garlic soy sauce, and serve hot.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}を一口大に切り、キッチンペーパーで水気をしっかりと拭き取ります。`,
+        `鍋に油を熱し、豆腐を入れて中火できつね色になるまで揚げ、油を切ります。`,
+        `醤油、にんにくみじん切り、白糖を混ぜ合わせ、タレを作ります。`,
+        `揚げたての豆腐を皿に盛り付け、タレをかけて熱いうちに召し上がります。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}를 한입 크기로 썰고 키친타월로 물기를 닦아냅니다.`,
+        `팬에 기름을 넉넉히 두르고 두부를 넣어 중불에서 노릇하게 튀겨낸 후 기름을 뺍니다.`,
+        `간장, 다진 마늘, 설탕을 섞어 마늘 간장 소스를 만듭니다.`,
+        `튀긴 두부를 접시에 담고 준비한 소스를 뿌려 완성합니다.`
+      ];
+    }
+  }
+
+  // 3. fish-ball
+  if (slug.includes("fish-ball")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}清洗乾淨，洋蔥切絲，青蔥切段備用。`,
+        `熱平底鍋倒入少許油，放入蒜末與洋蔥炒香，接著放入魚丸翻炒至表面微黃。`,
+        `倒入調製好的韓式辣醬、醬油與白糖，加入少許清水，以中火煮滾收汁。`,
+        `待醬汁濃稠、魚丸均勻裹上醬料後，放入青蔥段快速翻炒均勻即可起鍋。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Clean ${main}, slice onion, and cut green scallion into segments.`,
+        `Heat oil in a pan, sauté garlic and onion, then add fish balls and fry until lightly browned.`,
+        `Add Korean chili paste, soy sauce, sugar, and a little water. Simmer over medium heat.`,
+        `When the sauce thickens and coats the fish balls, add scallions, toss quickly, and serve.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}を洗い、玉ねぎをスライスし、青ネギをブツ切りにします。`,
+        `フライパンに油を熱し、にんにくと玉ねぎを炒め、魚団子を加えて軽く焼き色をつけます。`,
+        `コチュジャン、醤油、白糖、少量の水を加え、中火でタレを煮詰めます。`,
+        `タレが絡まったら青ネギを加え、素早く炒め合わせて完成です。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}을 씻고 양파는 채 썰고 대파는 큼직하게 썰어둡니다.`,
+        `팬에 기름을 두르고 다진 마늘과 양파를 볶다가 어묵볼을 넣어 겉면이 노릇해질 때까지 볶습니다.`,
+        `고추장, 간장, 설탕, 물을 약간 넣어 중불에서 소스가 졸아들 때까지 끓입니다.`,
+        `소스가 고르게 배면 대파를 넣고 가볍게 버무리듯 볶아 마무리합니다.`
+      ];
+    }
+  }
+
+  // 4. glass-noodle
+  if (slug.includes("glass-noodle")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}用溫水泡軟，菠菜切段汆燙後擠乾水分，胡蘿蔔、洋蔥與黑木耳切絲備用。`,
+        `熱鍋倒入油，放入蒜末爆香，加入胡蘿蔔絲、洋蔥絲與黑木耳絲炒熟。`,
+        `放入泡軟的冬粉，倒入醬油與白糖翻炒均勻，使冬粉充分吸收醬汁與著色。`,
+        `最後加入菠菜段，淋上韓式芝麻油快速拌炒均勻，起鍋盛盤即可。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Soak ${main} in warm water. Blanch and drain spinach. Shred carrot, onion, and black wood ear mushroom.`,
+        `Heat oil in a pan, sauté garlic, then stir-fry carrot, onion, and wood ear mushroom until tender.`,
+        `Add the soaked glass noodles, soy sauce, and sugar. Toss until the noodles absorb the sauce evenly.`,
+        `Add spinach, drizzle with toasted sesame oil, toss quickly, and plate.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}をぬるま湯で戻します。ほうれん草は茹でて水気を絞り、にんじん、玉ねぎ、きくらげは細切りにします。`,
+        `フライパンに油を熱し、にんにくを炒め、にんじん、玉ねぎ、きくらげを加えて炒めます。`,
+        `戻した春雨、醤油、白糖を加え、春雨がタレを吸って色づくまでよく炒め合わせます。`,
+        `最後にほうれん草を加え、ごま油を回し入れて素早く和え，完成です。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}은 따뜻한 물에 불리고, 시금치는 데쳐 물기를 짭니다. 당근, 양파, 목이버섯은 채 썰어 둡니다.`,
+        `팬에 기름을 두르고 다진 마늘을 볶다가 당근, 양파, 목이버섯을 넣어 볶습니다.`,
+        `불린 당면과 간장, 설탕을 넣고 당면에 색이 고르게 배고 익을 때까지 함께 볶아줍니다.`,
+        `마지막으로 시금치를 넣고 참기름을 둘러 빠르게 버무려 낸 후 그릇에 담아냅니다.`
+      ];
+    }
+  }
+
+  // 5. bbq-beef
+  if (slug.includes("bbq-beef")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}切成適當厚片，洋蔥切絲，青蔥切段備用。`,
+        `將牛肉片與蒜末、韓式BBQ醬抓醃 15 分鐘使其入味。`,
+        `熱鍋倒入韓式芝麻油，下洋蔥絲炒香炒軟，接著放入醃好的牛肉片大火快炒。`,
+        `炒至牛肉變色熟透後，加入青蔥段大火翻炒數秒即可盛入預熱好的鐵板中上桌。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Slice ${main}, slice onion, and cut green scallion into segments.`,
+        `Marinate beef with minced garlic and Korean BBQ sauce for 15 minutes.`,
+        `Heat toasted sesame oil in a pan, sauté onion, then add marinated beef and stir-fry over high heat.`,
+        `Once cooked, add scallions, toss for a few seconds, and transfer to a hot plate.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}をスライスし、玉ねぎを切り、青ネギをブツ切りにします。`,
+        `${main}ににんにくと韓国BBQソースを揉み込み、15分間漬けます。`,
+        `フライパンにごま油を熱し、玉ねぎを炒め、漬けた牛肉を加えて強火で一気に炒めます。`,
+        `肉に火が通ったら青ネギを加え、数秒炒め合わせて熱い鉄板に盛り付けます。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}는 슬라이스하고 양파는 채 썰며 대파는 큼직하게 썰어둡니다.`,
+        `${main}에 다진 마늘과 한국식 BBQ 소스를 넣어 15분간 재워둡니다.`,
+        `팬에 참기름을 두르고 양파를 볶다가 재워둔 소고기를 넣어 센 불에서 빠르게 볶습니다.`,
+        `고기가 익으면 대파를 넣고 몇 초간 더 볶은 후 달군 철판에 올려 서빙합니다.`
+      ];
+    }
+  }
+
+  // 6. sweet-and-sour-pork
+  if (slug.includes("sweet-and-sour-pork")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}切條，加入鹽與胡椒粉醃製 15 分鐘。胡蘿蔔與洋蔥切成小片。`,
+        `將醃好的肉條均勻裹上中筋麵粉調製的粉漿，入油鍋炸至表面金黃熟透撈出。`,
+        `另起鍋加熱韓式糖醋醬汁，放入胡蘿蔔片與洋蔥片煮滾至微軟。`,
+        `將炸好的肉條盛盤，淋上調好的糖醋醬汁即可享用。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Cut ${main} into strips, season with salt and pepper powder for 15 minutes. Slice carrot and onion.`,
+        `Coat pork with all-purpose flour batter and deep-fry until golden and cooked, then drain.`,
+        `Heat Korean sweet and sour sauce in a pan, add carrot and onion, and simmer.`,
+        `Plate the pork and pour the sauce over.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}を細切りにし、塩とコショウ粉で15分間下味をつけます。にんじんと玉ねぎは小さく切ります。`,
+        `豚肉に中力粉の水溶き衣をまぶし、油でカリッと揚げて油を切ります。`,
+        `別の鍋で韓国風甘酢ソースを温め、にんじんと玉ねぎを加えて軽く煮ます。`,
+        `揚げた肉を皿に盛り、甘酢ソースをかけます。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}을 길게 썰어 소금과 후춧가루로 15분간 밑간합니다. 당근과 양파는 한입 크기로 썹니다.`,
+        `밑간한 고기에 중력분 반죽 옷을 입히고 기름에 바삭하게 튀겨내어 기름을 니다.`,
+        `팬에 탕수 소스를 넣고 끓으면 당근과 양파를 넣어 살짝 익힙니다.`,
+        `튀긴 고기를 그릇에 담고 소스를 부어 내거나 따로 찍어 먹을 수 있게 서빙합니다.`
+      ];
+    }
+  }
+
+  // 7. fried-oysters
+  if (slug.includes("fried-oysters")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}清洗乾淨，用廚房紙巾徹底吸乾水分。`,
+        `將生蠔均勻撒上少許鹽與胡椒粉，靜置 5 分鐘進行基礎調味。`,
+        `將生蠔均勻裹上一層中筋麵粉，放入 170°C 的油鍋中煎炸至表面金黃酥脆。`,
+        `撈出瀝乾油分，盛盤搭配調味醬汁或胡椒鹽即可熱呼呼食用。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Wash ${main} and dry them thoroughly with paper towels.`,
+        `Sprinkle oysters with a pinch of salt and pepper powder, let sit for 5 minutes.`,
+        `Coat oysters with all-purpose flour, and fry in 170°C oil until golden and crispy.`,
+        `Drain well, plate, and serve hot with dipping sauce or pepper salt.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}をきれいに洗い、キッチンペーパーで水気をしっかりと拭き取ります。`,
+        `牡蠣に塩とコショウ粉を軽く振り、5分間置いて下味をつけます。`,
+        `中力粉をまぶし、170℃の油できつね色になるまでサクサクに揚げます。`,
+        `油を切って皿に盛り付け、ソースやレモンを添えて熱いうちに召し上がります。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}을 깨끗이 씻어 키친타월로 물기를 완전히 제거합니다.`,
+        `생굴에 소금과 후춧가루를 약간 뿌려 5분간 밑간을 해둡니다.`,
+        `밑간한 굴에 중력분을 고르게 입히고 170°C 기름에서 바삭하게 튀겨냅니다.`,
+        `건져내어 기름을 빼고 접시에 담고 소스나 소금을 곁들여 완성합니다.`
+      ];
+    }
+  }
+
+  // 8. bbq-wrap
+  if (slug.includes("bbq-wrap")) {
+    if (locale === "zh-TW") {
+      return [
+        `將高麗菜葉洗淨瀝乾，${main}切片，蒜頭切片備用。`,
+        `年糕放入溫水泡軟，${main}用醬油醃製 10 分鐘。`,
+        `熱平底鍋倒入韓式芝麻油，將醃好的${main}與年糕、蒜片一同入鍋大火翻炒至肉熟透。`,
+        `起鍋盛盤，將炒好的肉片、年糕與蒜頭用高麗菜葉包食，搭配韓式辣醬一同享用。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Clean and drain cabbage leaves. Slice ${main} and garlic.`,
+        `Soak rice cakes in warm water. Marinate meat with soy sauce for 10 minutes.`,
+        `Heat toasted sesame oil in a skillet, stir-fry marinated meat, rice cakes, and garlic until cooked.`,
+        `Plate and serve the meat, rice cakes, and garlic wrapped in cabbage leaves, and enjoy with Korean chili paste.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `キャベツ葉を洗って水気を切り、${main}とニンニクをスライスしておきます。`,
+        `トックはぬるま湯に浸して柔らかくし、肉は醤油で10分間下味をつけます。`,
+        `フライパンにごま油を熱し、肉、トック、ニンニクスライスを加えて強火で炒め合わせます。`,
+        `皿に盛り、キャベツ葉で炒めた肉、トック、ニンニクを包み、コチュジャンを添えていただきます。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `양배추 잎을 씻어 물기를 빼고, ${main}와 마늘은 얇게 썰어둡니다.`,
+        `떡은 따뜻한 물에 불리고, 고기는 간장을 넣어 10분간 재워둡니다.`,
+        `팬에 참기름을 두르고 재워둔 고기, 떡, 마늘편을 넣어 센 불에서 볶아줍니다.`,
+        `접시에 담고 양배추 잎에 고기, 떡, 마늘을 싸서 취향에 따라 고추장을 곁들여 먹습니다.`
+      ];
+    }
+  }
+
+  // 9. ox-bone-soup
+  if (slug.includes("ox-bone-soup")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}切成薄片，青蔥切成細蔥花備用。`,
+        `在湯鍋中倒入高湯（牛骨高湯），大火煮滾。`,
+        `放入${main}薄片，快速涮煮至肉片變色熟透（約 1 分鐘），關火撇去表面浮沫。`,
+        `撒入細蔥花，加入適量鹽與胡椒粉調味，即可盛碗享用濃郁的雪濃湯。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Slice ${main} thinly and chop green scallion.`,
+        `Pour beef bone broth into a pot and bring to a boil.`,
+        `Add meat slices, cook quickly until color changes (about 1 minute), turn off heat and skim foam.`,
+        `Garnish with scallions and season with salt and pepper powder to taste.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}を薄切りにし、青ネギを小口切りにします。`,
+        `鍋に牛骨だしスープを注ぎ、強火で沸騰させます。`,
+        `${main}を加え、肉の色が変わるまでさっと火を通し、火を止めてアクをすくい取ります。`,
+        `刻みネギを散らし、塩とコショウ粉で味を調えて器に盛ります。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}은 얇게 썰고 대파는 송송 썰어둡니다.`,
+        `냄비에 사골 육수를 붓고 센 불에서 끓입니다.`,
+        `${main} 슬라이스를 넣고 고기 색이 변할 때까지 살짝 익힌 후 불을 끄고 거품을 걷어냅니다.`,
+        `대파를 뿌리고 소금과 후춧가루로 간을 맞추어 그릇에 담아 완성합니다.`
+      ];
+    }
+  }
+
+  // 10. fried-chicken-combo
+  if (slug.includes("fried-chicken-combo")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}切成一口大小，加入鹽、胡椒粉醃製 20 分鐘。`,
+        `將雞肉均勻裹上韓式炸雞粉，放入 170°C 的油鍋中炸 7 分鐘撈出，再以 185°C 回炸 2 分鐘至金黃酥脆。`,
+        `另起鍋倒入少許韓式芝麻油，加入韓式辣醬與蜂蜜，以微火煮滾調勻成濃稠醬汁。`,
+        `倒入炸好的雞腿肉裹勻醬汁，撒上芝麻即可熱騰騰裝盤享用。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Cut ${main} into bite-sized pieces and season with salt and pepper powder for 20 minutes.`,
+        `Coat chicken with Korean fried chicken powder. Fry at 170°C for 7 minutes, then double-fry at 185°C for 2 minutes until extra crispy.`,
+        `Heat toasted sesame oil in a pan, add Korean chili paste and honey, and cook over low heat to make a thick sauce.`,
+        `Toss fried chicken in the sauce to coat evenly, garnish with sesame seeds, and serve.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}を一口大に切り、塩とコショウ粉で20分間下味をつけます。`,
+        `鶏肉にフライドチキンパウダーをまぶし、170℃の油で7分間揚げ、185℃で2分間二度揚げしてサクサクにします。`,
+        `別の鍋にごま油を熱し、コチュジャンとはちみつを弱火で温めてとろりとしたタレを作ります。`,
+        `揚げたチキンをタレに絡め、ごまを振って完成です。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}을 한입 크기로 자르고 소금과 후춧가루로 20분간 밑간을 해둡니다.`,
+        `닭고기에 튀김가루를 입히고 170°C 기름에서 7분간 튀긴 후, 185°C에서 2분간 더 바삭하게 재차 튀겨냅니다.`,
+        `팬에 참기름을 두르고 고추장과 꿀을 약불에서 끓여 끈적한 소스를 만듭니다.`,
+        `튀긴 닭고기를 넣어 소스가 고르게 버무려지면 참깨를 뿌려 장식합니다.`
+      ];
+    }
+  }
+
+  // 11. fish-fillet / fly-fish
+  if (slug.includes("fish-fillet") || slug.includes("fly-fish")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}切片，胡蘿蔔與洋蔥切成細片備用。`,
+        `魚肉片撒上少許鹽醃製 10 分鐘，平底鍋熱油，將魚片煎至兩面微黃熟透後盛出。`,
+        `同鍋爆香洋蔥片與胡蘿蔔片，倒入醬油與白糖調製的醬汁，以中火煮滾。`,
+        `倒入煎好的魚片，快速翻炒均勻，讓魚肉均勻吸附醬汁即可起鍋。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Slice ${main} and cut carrot and onion into thin pieces.`,
+        `Season fish with a pinch of salt for 10 minutes. Pan-fry in a skillet until golden on both sides.`,
+        `In the same pan, sauté onion and carrot, then pour in soy sauce and sugar mixture and boil.`,
+        `Add the cooked fish slices, toss quickly to coat with the sauce, and serve.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}をスライスし、にんじんと玉ねぎを薄切りにします。`,
+        `魚に塩少々を振って10分間置き、フライパンで両面がきつね色になるまで焼いて取り出します。`,
+        `同じフライパンで玉ねぎとにんじんを炒め、醤油と白糖を合わせたソースを注いで沸騰させます。`,
+        `焼いた魚を戻し入れ、ソースを素早く絡めて完成です。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}을 슬라이스하고 당근과 양파는 얇게 썰어둡니다.`,
+        `생선에 소금을 뿌려 10분간 두고, 팬에 구워 앞뒤로 노릇하게 익혀 꺼내둡니다.`,
+        `같은 팬에 양파와 당근을 볶다가 간장과 설탕 소스를 붓고 끓입니다.`,
+        `구워둔 생선을 넣어 양념에 빠르게 버무리며 조려 완성합니다.`
+      ];
+    }
+  }
+
+  // 12. fried-squid
+  if (slug.includes("fried-squid")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}清洗乾淨並切成圈狀，洋蔥切絲，青蔥切段備用。`,
+        `熱平底鍋倒入少許油，爆香蒜末與洋蔥絲。`,
+        `放入透抽圈大火快炒，加入調配好的韓式辣醬、韓式辣椒粉與白糖。`,
+        `炒至透抽熟透且收汁上色，最後加入青蔥段大火翻炒均勻即可出鍋。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Clean and cut ${main} into rings. Shred onion and cut green scallion into segments.`,
+        `Heat oil in a pan, and sauté garlic and onion.`,
+        `Add squid rings and stir-fry over high heat, then add Korean chili paste, chili powder, and sugar.`,
+        `Stir-fry until squid is cooked, add scallions, toss quickly, and serve.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}をきれいに洗って輪切りにし、玉ねぎをスライス、青ネギをブツ切りにします。`,
+        `フライパンに油を熱し、にんにくと玉ねぎを炒めます。`,
+        `${main}を加えて強火で炒め、コチュジャン、粉唐辛子、白糖を入れます。`,
+        `イカに火が通ってタレが絡んだら、青ネギを加えて素早く炒め合わせます。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}을 씻어 링 모양으로 썰고 양파는 채 썰고 대파는 큼직하게 썹니다.`,
+        `팬에 식용유를 두르고 다진 마늘과 양파를 볶습니다.`,
+        `${main}을 넣어 센 불에서 빠르게 볶아준 후 고추장, 고춧가루, 설탕을 가합니다.`,
+        `오징어가 다 익고 양념이 고루 배면 대파를 넣고 가볍게 볶아 완성합니다.`
+      ];
+    }
+  }
+
+  // 13. spicy-stired-fried-chicken
+  if (slug.includes("spicy-stired-fried-chicken")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}切成一口大小，洋蔥切絲，青蔥切段備用。`,
+        `將雞腿肉塊與蒜末、春川辣醬混合抓醃 20 分鐘使其入味。`,
+        `熱鍋倒入韓式芝麻油，炒香洋蔥絲，放入醃好的雞腿肉大火快炒。`,
+        `炒至雞肉熟透、醬汁濃稠上色，最後加入青蔥段翻炒均勻即可盛盤。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Cut ${main} into bite-sized pieces. Slice onion and cut green scallion into segments.`,
+        `Marinate chicken with minced garlic and Chuncheon spicy sauce for 20 minutes.`,
+        `Heat toasted sesame oil in a pan, sauté onion, and add marinated chicken to stir-fry.`,
+        `Stir-fry until chicken is cooked, add scallions, toss quickly, and serve.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}を一口大に切り、玉ねぎを切り、青ネギをブツ切りにします。`,
+        `${main}ににんにくと春川スパイシーソースを揉み込み、20分間漬けます。`,
+        `フライパンにごま油を熱し、玉ねぎを炒め、漬けた鶏肉を加えて炒め合わせます。`,
+        `鶏肉に火が通ってタレが煮詰まったら、青ネギを加えて素早く炒め合わせます。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}을 한입 크기로 자르고 양파는 채 썰며 대파는 큼직하게 썹니다.`,
+        `${main}에 다진 마늘과 춘천 불닭 소스를 넣어 20분간 재워둡니다.`,
+        `팬에 참기름을 두르고 양파를 볶다가 재워둔 닭고기를 넣어 볶습니다.`,
+        `닭고기가 다 익고 양념이 걸쭉해지면 대파를 넣어 가볍게 볶아 마무리합니다.`
+      ];
+    }
+  }
+
+  // 14. vermicelli-tofu-roll
+  if (slug.includes("vermicelli-tofu-roll")) {
+    if (locale === "zh-TW") {
+      return [
+        `將${main}壓碎並瀝乾水分，洋蔥與青蔥切成細末備用。`,
+        `將豆腐泥與洋蔥碎、蔥末、蒜末、醬油、鹽混合拌勻，捏成捲狀。`,
+        `熱平底鍋倒入少許食用油，將豆腐捲入鍋煎炸至表面金黃微脆。`,
+        `盛盤後淋上少許韓式芝麻油增添香氣，即可熱呼呼食用。`
+      ];
+    }
+    if (locale === "en") {
+      return [
+        `Mash ${main} and drain excess water. Finely chop onion and green scallion.`,
+        `Mix tofu, onion, scallion, garlic, soy sauce, and salt, and shape into rolls.`,
+        `Heat oil in a skillet and pan-fry tofu rolls until golden and crispy.`,
+        `Plate, drizzle with toasted sesame oil for aroma, and serve hot.`
+      ];
+    }
+    if (locale === "ja") {
+      return [
+        `${main}は水切りして崩し、玉ねぎと青ネギをみじん切りにします。`,
+        `${main}、玉ねぎ、青ネギ、にんにく、醤油、塩を混ぜ合わせ、ロール状に形を整えます。`,
+        `フライパンに油を熱し、豆腐ロールを入れてきつね色でサクサクになるまで焼きます。`,
+        `皿に盛り付け、ごま油を回しかけて香りを立たせていただきます。`
+      ];
+    }
+    if (locale === "ko") {
+      return [
+        `${main}은 물기를 빼서 으깨고 양파와 대파는 잘게 다져둡니다.`,
+        `으깬 ${main}와 다진 양파, 파, 마늘, 간장, 소금을 섞어 롤 모양으로 빚습니다.`,
+        `팬에 식용유를 두르고 두부 롤을 넣어 노릇하고 바삭하게 구워냅니다.`,
+        `접시에 담고 참기름을 살짝 뿌려 향을 더한 뒤 서빙합니다.`
+      ];
+    }
+  }
+
+  const hasSalt = seasonings.some(s => s.name["zh-TW"] === "鹽");
+  const hasPepper = seasonings.some(s => s.name["zh-TW"] === "胡椒粉" || s.name["zh-TW"] === "胡椒");
+  const hasSesameTop = seasonings.some(s => s.name["zh-TW"].includes("芝麻"));
+  const hasSoy = seasonings.some(s => s.name["zh-TW"].includes("醬油"));
+
+  if (locale === "zh-TW") {
+    let step1 = `將主食材 ${main} 處理切好。`;
+    if (hasSoy) step1 += `加入蒜末與醬油醃製 15 分鐘入味。`;
+    else if (hasSalt || hasPepper) step1 += `加入少許鹽與胡椒粉醃製。`;
+
+    let step2 = `熱平底鍋倒入芝麻油，爆香蒜末，接著放入 ${main} 翻炒。`;
+    let step3 = `倒入調製好的 ${sea0 || "醬汁"} 與少量高湯，以中火翻炒收汁。`;
+    
+    let step4 = `完成後立即盛盤`;
+    if (hasSesameTop) step4 += `，在表面撒上少許芝麻`;
+    step4 += `即可熱呼呼享用。`;
+
+    return [step1, step2, step3, step4];
+  }
+  if (locale === "en") {
+    let step1 = `Prepare and cut ${main}.`;
+    if (hasSoy) step1 += ` Marinate with minced garlic and soy sauce for 15 minutes.`;
+    else if (hasSalt || hasPepper) step1 += ` Season with a pinch of salt and pepper.`;
+
+    let step2 = `Heat sesame oil in a skillet, sauté garlic, then add ${main} and stir-fry.`;
+    let step3 = `Pour in the prepared ${sea0 || "sauce"} and a little broth. Toss over medium heat until cooked.`;
+    
+    let step4 = `Transfer to a serving plate`;
+    if (hasSesameTop) step4 += ` and garnish with sesame seeds`;
+    step4 += ` to serve.`;
+
+    return [step1, step2, step3, step4];
+  }
+  if (locale === "ja") {
+    let step1 = `${main}を適切な大きさに切ります。`;
+    if (hasSoy) step1 += ` ニンニクと醤油を揉み込んで15分間置いておきます。`;
+    else if (hasSalt || hasPepper) step1 += ` 塩とコショウ粉を揉み込んで下味をつけます。`;
+
+    let step2 = `フライパンにごごま油を熱し、にんにくを炒め、${main}を加えて炒め合わせます。`;
+    let step3 = `合わせた${sea0 || "ソース"}と出汁を流し入れ、中火で炒め絡めて火を通します。`;
+
+    let step4 = `皿に盛り付け`;
+    if (hasSesameTop) step4 += `、お好みでごまを散らして`;
+    step4 += `完成です。`;
+
+    return [step1, step2, step3, step4];
+  }
+  if (locale === "ko") {
+    let step1 = `${main}을 알맞은 크기로 썰어줍니다.`;
+    if (hasSoy) step1 += ` 다진 마늘과 간장을 넣어 15분간 재워둡니다.`;
+    else if (hasSalt || hasPepper) step1 += ` 소금과 후춧가루로 밑간합니다.`;
+
+    let step2 = `팬에 참기름을 두르고 다진 마늘을 볶아 향을 낸 후, ${main}을 넣고 볶습니다.`;
+    let step3 = `준비한 ${sea0 || "소스"}와 육수를 붓고 중불에서 저어가며 소스가 고르게 밸 때까지 졸여줍니다.`;
+
+    let step4 = `완성되면 그릇에 담고`;
+    if (hasSesameTop) step4 += ` 참깨를 솔솔 뿌려`;
+    step4 += ` 장식합니다.`;
+
+    return [step1, step2, step3, step4];
+  }
+}

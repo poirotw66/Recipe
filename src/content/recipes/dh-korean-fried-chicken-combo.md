@@ -1,0 +1,93 @@
+---
+title: Combo雙享韓式炸雞
+description: 參考涓豆腐常見做法還原 Combo雙享韓式炸雞，保留 主廚推薦 系列的湯頭層次、配料比例與上桌份量。
+coverImage: /images/recipes/dh-korean-fried-chicken-combo.webp
+servings: 2
+prepTime: 25
+cookTime: 20
+totalTime: 45
+difficulty: 進階
+calories: 720
+protein: 34
+fat: 36
+carbs: 52
+category: "韓式主菜"
+scenarios:
+- 宵夜料理
+equipment:
+- 炸鍋
+- 鐵板或平底鍋
+tags:
+- 名店還原
+- 主廚推薦
+restaurantSource:
+  restaurant: 涓豆腐 Dubu House
+  dishName: Combo雙享韓式炸雞
+  region: 全台連鎖
+intro: 這道 Combo雙享韓式炸雞 還原版，以 去骨雞腿肉 為核心，依照餐廳常見的備料、爆香、下鍋與上桌順序撰寫。
+steps:
+- 將 去骨雞腿肉 250克 切成一口大小（約 3～4 公分），用廚房紙巾徹底吸乾表面水分。
+- 以 鹽 少許、胡椒粉 少許、韓式芝麻油 1大匙 抓醃，冷藏靜置 30 分鐘入味。
+- 另取深盤鋪平 韓式炸雞粉 150克；雞塊逐塊均勻裹粉後輕壓，抖掉多餘粉粒。
+- 炸鍋倒入足量油，以廚房溫度計確認油溫 170°C；雞塊分批下鍋，避免降溫，中火炸約 7 分鐘至表面定型、內部熟透。
+- 撈起瀝油，放在網架或鐵網上休息 3～5 分鐘，讓內部熱氣散出。
+- 將油溫升至 185°C，雞塊回鍋複炸 1.5～2 分鐘至金黃酥脆，撈起放在網架上瀝油。
+- 分兩鍋各加 韓式芝麻油 1/2 大匙 小火炒香洋蔥絲：一鍋拌入 韓式辣椒醬 1.5大匙 與 蜂蜜 1/2 大匙 成辣味醬，另一鍋以 蜂蜜 1/2 大匙 與 韓式芝麻油 1/2 大匙 調成蜜汁醬；兩醬皆煮至微稠後關火。
+- 炸雞對半分裝，分別在關火狀態下快速翻拌裹上不同醬汁，撒 芝麻 少許，分區盛盤趁熱上桌。
+tips:
+- 一定要進行二次油炸，第一次低溫鎖住肉汁，第二次高溫逼出多餘油分並使表皮極度酥脆。
+- 醬汁請一定要關火快速裹勻，否則在高溫下翻炒會使脆皮軟化。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
+storage: 炸雞建議現炸現吃；鐵板肉類可冷藏 1 天後回鍋加熱。
+substitutions:
+- 去骨雞腿肉
+- 韓式炸雞粉
+relatedIngredients:
+- 去骨雞腿肉
+customAdditions:
+- 蔥花
+- 芝麻
+faqs:
+- question: 如何把 Combo雙享韓式炸雞 做得更像涓豆腐？
+  answer: 先把 主廚推薦 的醬料或湯頭煮到正確濃度，最後再下主要配料與嫩豆腐，最能還原門市口感。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-07-30"
+ingredients:
+- name: 去骨雞腿肉
+  amount: "250"
+  unit: 克
+  isCore: true
+seasonings:
+- name: 韓式炸雞粉
+  amount: "150"
+  unit: 克
+- name: 韓式辣椒醬
+  amount: "1.5"
+  unit: 大匙
+- name: 蜂蜜
+  amount: "1"
+  unit: 大匙
+- name: 芝麻
+  amount: 少許
+  unit: ""
+- name: 鹽
+  amount: 少許
+  unit: ""
+- name: 胡椒粉
+  amount: 少許
+  unit: ""
+- name: 韓式芝麻油
+  amount: "1"
+  unit: 大匙
+---
+
+Combo雙享韓式炸雞 的在家還原版，重點是還原涓豆腐 主廚推薦 的湯頭或醬料層次，以及餐廳常見 of 2 人份鍋物／主菜份量。
+
+依照步驟先完成醬料或湯底，再組合主食材，就能做出接近門市視覺與風味的還原版。
+
+
+
+

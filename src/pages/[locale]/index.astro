@@ -1,0 +1,26 @@
+---
+import HomePage from "../../components/HomePage.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { brandDisplayName } from "../../lib/site";
+import { localePath } from "../../lib/i18n";
+import { getHomePage } from "../../i18n/home-page";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../lib/i18n-routes";
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const content = getHomePage(locale);
+const canonical = localePath(locale, "/");
+---
+
+<BaseLayout
+  title={brandDisplayName}
+  description={content.metaDescription}
+  canonicalPath={canonical}
+  alternatePath="/"
+  locale={locale}
+>
+  <HomePage locale={locale} />
+</BaseLayout>

@@ -1,0 +1,81 @@
+---
+recipeId: air-fryer-crispy-chicken-bites
+title: エアフライヤーで台湾風チキンナゲット
+description: 鶏むねを角切りにして粉をまぶしエアフライヤー調理。揚げチキンに近い食感で油は控えめ。ケチャップと相性抜群。
+coverImage: /images/recipes/air-fryer-crispy-chicken-bites.webp
+servings: 1
+prepTime: 12
+cookTime: 14
+totalTime: 26
+difficulty: かんたん
+calories: 360
+protein: 42
+fat: 10
+carbs: 28
+category: "主菜"
+scenarios:
+- ノンフライヤー料理
+- 一人分の料理
+equipment:
+- エアフライヤー
+tags:
+- 一人分
+- エアフライヤー
+- 鶏肉料理
+tips:
+- 厚く重ねすぎない。サクッと仕上げるには分けて加熱するのがおすすめです。
+- 食材の表面を拭いてから一段に並べ、熱風の通り道を空けると均一に焼き色がつきます。
+substitutions:
+- 鶏もも肉
+relatedIngredients:
+- 鶏むね肉
+- 卵
+customAdditions:
+- ケチャップ
+- 胡椒塩
+ingredients:
+- name: 鶏むね肉
+  amount: '200'
+  unit: g
+  isCore: true
+- name: 卵
+  amount: '1'
+  unit: 個
+  isCore: false
+seasonings:
+- name: 小麦粉
+  amount: '3'
+  unit: 大さじ
+- name: ガーリックパウダー
+  amount: 1/2
+  unit: 小さじ
+- name: 塩
+  amount: 少々
+  unit: ''
+- name: 黒胡椒
+  amount: 少々
+  unit: ''
+- name: オリーブオイル
+  amount: '1'
+  unit: 大さじ
+intro: 鶏むねは一口大に切り、粉をまぶす前に水分を拭き取る。加熱前に表面へ油を霧吹きすると皮がサクッとします。
+steps:
+- 鶏むね肉200gを洗い、約3cmの一口大に切る。キッチンペーパーでしっかり水気を拭き、表面が乾いているほど衣がサクッと仕上がる。
+- 卵1個を溶く。別の浅い皿に小麦粉大さじ3、ガーリックパウダー小さじ1/2、塩、黒胡椒を混ぜて衣用の粉を作る。
+- 鶏肉を薄い卵液にくぐらせ、粉をまぶして軽く押し付け、余分な粉を払う。全部終えたら5分置いて衣をなじませる。
+- エアフライヤーを190°Cに設定し、3分予熱する。
+- 鶏肉を隙間をあけて1層に並べ、重ねない。表面にオリーブオイル大さじ1をスプレーまたは刷る。
+- 190°Cで7分加熱。蓋を開け裏返し、さらに5分加熱してきつね色でサクッとするまで。
+- 最も厚い1切れを切り、中心にピンクがなく肉汁が透明ならOK。お好みで黒胡椒を振り、熱いうちにケチャップと一緒に。
+storage: できたてがおすすめ。冷蔵後は軟らかくなりやすいので、エアフライヤーで温め直すとよいです。
+faqs:
+- question: 卵なしでもできますか？
+  answer: 水や牛乳で薄い衣液を作ってつけてもよいですが、付きにくくなります。
+- question: "厚みが違う食材の加熱時間はどう調整しますか？"
+  answer: "表示時間で一度確認し、最も厚い部分の火通りを見ます。必要なら2～3分ずつ追加してください。"
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+---
+
+大きな鍋で揚げずに、罪悪感少なめでチキンが食べたい夜に向いています。

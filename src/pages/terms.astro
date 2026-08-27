@@ -1,0 +1,18 @@
+---
+import TermsArticle from "../components/TermsArticle.astro";
+import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
+import { legalLastUpdated } from "../lib/site";
+import { getTermsPage } from "../i18n/terms-page";
+
+const content = getTermsPage("zh-TW");
+---
+
+<StaticArticleLayout
+  title={content.title}
+  description={content.description}
+  canonicalPath="/terms"
+  eyebrow={content.eyebrow}
+  updatedAt={legalLastUpdated}
+>
+  <TermsArticle locale="zh-TW" />
+</StaticArticleLayout>

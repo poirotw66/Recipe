@@ -1,0 +1,85 @@
+---
+title: "田園時蔬義大利麵"
+description: "番茄、櫛瓜與甜椒快炒後拌麵，色彩繽紛、口味清爽，素食也適合。"
+coverImage: /images/recipes/garden-vegetable-pasta.webp
+servings: 1
+prepTime: 10
+cookTime: 14
+totalTime: 24
+difficulty: "簡單"
+calories: 400
+protein: 12
+fat: 12
+carbs: 58
+category: "飯麵"
+scenarios:
+- 一人料理
+- 減脂料理
+equipment:
+- 湯鍋
+- 平底鍋
+tags:
+- 義大利麵
+- 蔬菜料理
+tips:
+- 沒有櫛瓜可改用青花菜丁。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
+substitutions:
+- 高麗菜
+faqs:
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+relatedIngredients:
+- 義大利麵
+- 番茄
+customAdditions: []
+ingredients:
+- name: "義大利麵"
+  amount: "80"
+  unit: "公克"
+  isCore: true
+- name: "番茄"
+  amount: "1"
+  unit: "顆"
+  isCore: true
+- name: "櫛瓜"
+  amount: "1/2"
+  unit: "條"
+  isCore: false
+- name: "甜椒"
+  amount: "1/4"
+  unit: "顆"
+  isCore: false
+seasonings:
+- name: "橄欖油"
+  amount: "2"
+  unit: "大匙"
+- name: "蒜頭"
+  amount: "2"
+  unit: "瓣"
+- name: "鹽"
+  amount: "少許"
+  unit: ""
+- name: "黑胡椒"
+  amount: "少許"
+  unit: ""
+- name: "番茄醬"
+  amount: "1"
+  unit: "大匙"
+intro: "蔬菜切大小一致，下鍋順序由硬到軟；醬汁不宜過濃，才能保留田園清爽感。"
+steps:
+- 番茄 1顆切丁；櫛瓜 1/2條與甜椒 1/4顆切約 0.5 公分小丁；蒜頭 2瓣切末。
+- 湯鍋加足量水大火煮滾，加少許鹽，下義大利麵 80公克依包裝時間煮 7～9 分鐘至彈牙（al dente），瀝乾保留半杯煮麵水。
+- 平底鍋開中大火，下橄欖油 1.5大匙，先炒甜椒與櫛瓜 2 分鐘至邊緣略軟。
+- 加入番茄丁與蒜末，中火炒 2 分鐘至番茄出汁略軟。
+- 加入番茄醬 1大匙與 3～4 大匙煮麵水，煮滾後轉中火收稠約 1 分鐘。
+- 放入麵條，轉大火翻拌 1 分鐘至麵條裹上醬汁。
+- 以鹽少許與黑胡椒少許試味，起鍋前可淋剩餘橄欖油 1/2 大匙增香。
+storage: "冷藏 1 天；加熱時補少許水。"
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-07-30"
+---
+
+
+田園時蔬義大利麵是義大利麵區最清爽的日常選擇。

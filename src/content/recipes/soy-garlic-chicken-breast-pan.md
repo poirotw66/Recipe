@@ -1,0 +1,80 @@
+---
+title: 醬香蒜煎雞胸
+slug: soy-garlic-chicken-breast-pan
+description: 雞胸肉用蒜頭和醬油簡單調味後乾煎，鹹香扎實，適合搭菜或做便當主菜。
+coverImage: /images/recipes/soy-garlic-chicken-breast-pan.webp
+servings: 2
+prepTime: 8
+cookTime: 12
+totalTime: 20
+difficulty: 簡單
+calories: 310
+protein: 36
+fat: 12
+carbs: 7
+category: "主菜"
+scenarios:
+- 高蛋白料理
+- 便當菜
+equipment:
+- 平底鍋
+ingredients:
+- name: 雞胸肉
+  amount: '260'
+  unit: 克
+  isCore: true
+- name: 蒜頭
+  amount: '3'
+  unit: 瓣
+  isCore: true
+- name: 洋蔥
+  amount: '0.25'
+  unit: 顆
+  isCore: false
+seasonings:
+- name: 橄欖油
+  amount: '1.5'
+  unit: 大匙
+- name: 醬油
+  amount: '2'
+  unit: 小匙
+- name: 鹽
+  amount: 少許
+  unit: ''
+tags:
+- 雞胸主菜
+- 平底鍋料理
+intro: 雞胸先靜置醃一下再煎，最後用鍋中醬汁收乾，味道會更集中。
+steps:
+- 雞胸肉 260克 逆紋切約 2 公分丁，用廚房紙巾吸乾；蒜頭 3瓣 切末；洋蔥 0.25顆 切細絲。醬油 2小匙、鹽 少許 與蒜末混勻成醃料。
+- 雞胸丁拌入醃料，抓勻靜置 5～10 分鐘。
+- 平底鍋中大火熱 橄欖油 1 大匙，雞胸丁單層下鍋，靜置 2 分鐘至底部金黃、表面變白。
+- 翻面續煎 1～2 分鐘，下洋蔥絲翻炒 1 分鐘至透明。
+- 轉大火快炒 1～2 分鐘，中心無粉紅生肉、肉汁略收乾即可起鍋。
+- 試味後補 鹽 少許 調整，趁熱上桌。
+tips:
+- 煎雞胸時先不要一直翻面，較容易上色。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
+storage: 冷藏 2 天內食用，回鍋可加 1 小匙水保濕。
+substitutions:
+- 蒜頭可改成黑胡椒。
+faqs:
+- question: 可以切丁再炒嗎？
+  answer: 可以，但水分流失會更快，火候要縮短。
+- question: 適合配什麼菜？
+  answer: 青花菜或高麗菜都很搭。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+relatedIngredients:
+- 雞胸肉
+- 蒜頭
+- 洋蔥
+featured: false
+publishedAt: '2026-06-17'
+updatedAt: "2026-07-30"
+customAdditions:
+- 杏鮑菇
+- 玉米筍
+- 彩椒
+---
+如果你想準備簡單又穩定的蛋白質主菜，這道是最好複製的基礎款。

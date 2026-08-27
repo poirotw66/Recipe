@@ -1,0 +1,83 @@
+---
+recipeId: broccoli-mushroom-egg
+title: ブロッコリー・きのこと卵の炒め物
+description: 食物繊維とタンパク質がとれる強火の炒め物。脂を控えた夕食に向きます。
+coverImage: /images/recipes/broccoli-mushroom-egg.webp
+servings: 2
+prepTime: 7
+cookTime: 10
+totalTime: 17
+difficulty: かんたん
+calories: 300
+protein: 20
+fat: 16
+carbs: 20
+category: "家常菜"
+scenarios:
+- 高タンパク料理
+- 10分でできる料理
+- 低脂質の料理
+equipment:
+- フライパン
+ingredients:
+- name: ブロッコリー
+  amount: '1'
+  unit: 碗分
+  isCore: true
+- name: きのこ
+  amount: '1'
+  unit: 碗分
+  isCore: true
+- name: 卵
+  amount: '2'
+  unit: 個
+  isCore: true
+seasonings:
+- name: オリーブオイル
+  amount: '1'
+  unit: 大さじ
+- name: 塩
+  amount: 1/4
+  unit: 小さじ
+- name: 黒胡椒
+  amount: 少々
+  unit: ''
+tags:
+- 脂質控えめ
+- 高食物繊維
+intro: ブロッコリーは先に電子レンジ1分または湯通しで半火通しにしてから炒めると食感が安定します。
+steps:
+- ブロッコリー 1碗分を小房に、きのこ 1碗分を薄切り、卵 2個を溶く。塩 1/4小さじと黒胡椒 少々を小鉢に混ぜておく。
+- ブロッコリーを電子レンジ1分または湯通し30秒で半火通しにし、水気を切っておく。
+- フライパンを中火に熱し、オリーブオイル 大さじ1できのこを2分炒め、水分が出てやわらかくなり縁が少し丸まるまで。
+- ブロッコリーを加え1分炒め合わせ、色が鮮やかな緑になり茎に歯ごたえが残るまで。
+- 野菜を鍋端に寄せ、溶き卵を流し入れ、底が半分固まったらヘラで軽く押してふんわり卵に（約1分）。
+- 全体を混ぜ、塩と黒胡椒で味を整える。卵が半熟でしっとりしたら完成。
+tips:
+- ブロッコリーは煮込みすぎないと歯ごたえが残ります。
+- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
+storage: 冷蔵1日。翌日の昼食向き。
+substitutions:
+- キャベツ
+- 豆腐
+faqs:
+- question: ブロッコリーを先に茹でなくてもいいですか？
+  answer: はい。ただし炒め時間を延ばし、水を少し加えて蓋をすると火が通ります。
+- question: "野菜から水が出るときは？"
+  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
+relatedIngredients:
+- ブロッコリー
+- きのこ
+- 卵
+featured: false
+publishedAt: '2026-05-29'
+updatedAt: "2026-07-30"
+customAdditions:
+- ハムの角切り
+- シュレッドチーズ
+- ねぎのみじん切り
+---
+
+---
+
+色がきれいで、野菜量を補う一品としてちょうどよいです。

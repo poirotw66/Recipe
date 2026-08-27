@@ -1,0 +1,14 @@
+---
+import RecipesListPage from "../../components/RecipesListPage.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { getRecipesListPage } from "../../i18n/recipes-list-page";
+import { sortRecipesByPublishedDate } from "../../lib/recipes";
+
+const content = getRecipesListPage("zh-TW");
+const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+---
+
+<BaseLayout title={content.title} description={content.description} canonicalPath="/recipes">
+  <RecipesListPage locale="zh-TW" recipes={recipes} />
+</BaseLayout>

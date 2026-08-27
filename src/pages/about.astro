@@ -1,0 +1,18 @@
+---
+import AboutArticle from "../components/AboutArticle.astro";
+import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
+import { legalLastUpdated } from "../lib/site";
+import { getAboutPage } from "../i18n/about-page";
+
+const content = getAboutPage("zh-TW");
+---
+
+<StaticArticleLayout
+  title={content.title}
+  description={content.description}
+  canonicalPath="/about"
+  eyebrow={content.eyebrow}
+  updatedAt={legalLastUpdated}
+>
+  <AboutArticle locale="zh-TW" />
+</StaticArticleLayout>

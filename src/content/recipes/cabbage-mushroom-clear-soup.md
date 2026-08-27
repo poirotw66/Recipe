@@ -1,0 +1,85 @@
+---
+title: 高麗菜菇菇清湯
+slug: cabbage-mushroom-clear-soup
+description: 以高麗菜甜味和菇類鮮味煮成清湯，材料少但口味不單薄。
+coverImage: /images/recipes/cabbage-mushroom-clear-soup.webp
+servings: 2
+prepTime: 7
+cookTime: 11
+totalTime: 18
+difficulty: 簡單
+calories: 120
+protein: 6
+fat: 3
+carbs: 18
+category: "湯品"
+scenarios:
+- 省錢料理
+- 10 分鐘料理
+equipment:
+- 湯鍋
+ingredients:
+- name: 高麗菜
+  amount: '180'
+  unit: 克
+  isCore: true
+- name: 菇類
+  amount: '120'
+  unit: 克
+  isCore: true
+- name: 洋蔥
+  amount: '0.25'
+  unit: 顆
+  isCore: false
+- name: 水
+  amount: '700'
+  unit: 毫升
+  isCore: false
+seasonings:
+- name: 橄欖油
+  amount: '1'
+  unit: 小匙
+- name: 鹽
+  amount: 少許
+  unit: ''
+- name: 蒜頭
+  amount: '1'
+  unit: 瓣
+tags:
+- 清湯
+- 蔬菜湯
+intro: 先炒洋蔥再煮湯，味道會比較有層次，不需要太多調味。
+steps:
+- 高麗菜 180克 切片；菇類 120克 切片；洋蔥 1/4顆 切細絲；蒜頭 1瓣 切片。
+- 湯鍋中火熱 橄欖油 1 小匙，下洋蔥與蒜片炒 1 分鐘至透明出香。
+- 加入高麗菜與菇類拌炒 2 分鐘至略軟、體積略縮。
+- 倒入 水 700毫升，大火煮滾後轉中火蓋鍋煮 8 分鐘。
+- 開蓋後高麗菜應透明軟嫩、菇類熟透；以 鹽 少許 調味試嚐。
+- 湯色清亮、蔬菜仍保有甜味即可起鍋。
+tips:
+- 喜歡更濃郁可延長煮 2 分鐘。
+- 湯品最後再調鹽，因為水分收濃後鹹度會上升，較容易掌握味道。
+storage: 冷藏可放 1 天。
+substitutions:
+- 可加入豆腐增加蛋白質。
+faqs:
+- question: 可以加紅蘿蔔嗎？
+  answer: 可以，湯會更甜。
+- question: 需要高湯粉嗎？
+  answer: 不用也可以有自然鮮味。
+- question: "湯品可以隔夜嗎？"
+  answer: "可以，放涼後盡快密封冷藏，隔天充分加熱；葉菜類建議食用前再加入。"
+relatedIngredients:
+- 高麗菜
+- 菇類
+- 洋蔥
+featured: false
+publishedAt: '2026-07-12'
+updatedAt: "2026-07-30"
+customAdditions:
+- 貢丸
+- 豆腐
+- 蛤蜊
+---
+
+高麗菜菇菇清湯適合忙碌平日，食材取得容易，流程清楚，重複製作也穩定。

@@ -1,0 +1,18 @@
+---
+import PrivacyArticle from "../components/PrivacyArticle.astro";
+import StaticArticleLayout from "../layouts/StaticArticleLayout.astro";
+import { legalLastUpdated } from "../lib/site";
+import { getPrivacyPage } from "../i18n/privacy-page";
+
+const content = getPrivacyPage("zh-TW");
+---
+
+<StaticArticleLayout
+  title={content.title}
+  description={content.description}
+  canonicalPath="/privacy-policy"
+  eyebrow={content.eyebrow}
+  updatedAt={legalLastUpdated}
+>
+  <PrivacyArticle locale="zh-TW" />
+</StaticArticleLayout>

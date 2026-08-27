@@ -1,0 +1,196 @@
+---
+import { getCollection } from "astro:content";
+import JsonLd from "../../components/JsonLd.astro";
+import RecipeCard from "../../components/RecipeCard.astro";
+import TopicHubIntro from "../../components/TopicHubIntro.astro";
+import TopicHubInlineLinks from "../../components/TopicHubInlineLinks.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { sortRecipesByPublishedDate } from "../../lib/recipes";
+import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../../lib/seo";
+import {
+  filterIngredientsWithRecipes,
+  getIngredientBySlug,
+  getRecipesByTopicHub,
+  getScenarioBySlug,
+  getTopicHubBySlug
+} from "../../lib/taxonomy";
+
+const hub = getTopicHubBySlug("brunch");
+
+if (!hub) {
+  throw new Error("Brunch topic hub is not configured.");
+}
+
+const recipes = sortRecipesByPublishedDate(await getCollection("recipes"));
+const brunchRecipes = getRecipesByTopicHub(recipes, hub.slug);
+const surfTurfRecipes = brunchRecipes.filter((recipe) => recipe.slug === "surf-turf-brunch");
+const steakRecipes = brunchRecipes.filter(
+  (recipe) => recipe.data.tags.includes("牛排") && recipe.slug !== "surf-turf-brunch"
+);
+const seafoodRecipes = brunchRecipes.filter(
+  (recipe) =>
+    recipe.slug !== "surf-turf-brunch" &&
+    (recipe.data.tags.includes("鮭魚料理") || recipe.data.tags.includes("炸魚"))
+);
+const chickenRecipes = brunchRecipes.filter((recipe) => recipe.data.tags.includes("雞肉料理"));
+const vegetarianRecipes = brunchRecipes.filter((recipe) => recipe.data.tags.includes("蛋奶素"));
+const commonIngredients = filterIngredientsWithRecipes(
+  recipes,
+  hub.commonIngredients
+    .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+    .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient))
+);
+const relatedScenarios = hub.relatedScenarios
+  .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
+  .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
+const collectionJsonLd = buildCollectionPageJsonLd(hub.seoTitle, hub.seoDescription, "/brunch/");
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: "首頁", path: "/" },
+  { name: hub.name, path: "/brunch/" }
+]);
+const hubJsonLd = buildThingJsonLd(hub, "/brunch/");
+const featuredEntry = surfTurfRecipes[0];
+const featuredRecipe = featuredEntry
+  ? {
+      slug: featuredEntry.slug,
+      title: featuredEntry.data.title,
+      description: featuredEntry.data.description,
+      coverImage: featuredEntry.data.coverImage,
+      totalTime: featuredEntry.data.totalTime
+    }
+  : undefined;
+---
+
+<BaseLayout title={hub.seoTitle} description={hub.seoDescription} canonicalPath="/brunch">
+  <JsonLd data={collectionJsonLd} />
+  <JsonLd data={breadcrumbJsonLd} />
+  <JsonLd data={hubJsonLd} />
+  <section class="section">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">首頁</a>
+        <span>/</span>
+        <span>{hub.name}</span>
+      </nav>
+
+      <TopicHubIntro
+        hub={{ name: hub.name, description: hub.description }}
+        label="Brunch"
+        heroCover="/images/recipes/surf-turf-brunch.webp"
+        recipeCount={brunchRecipes.length}
+        featured={featuredRecipe}
+      />
+
+      <TopicHubInlineLinks hub={hub} hubDisplayName={hub.name} recipes={recipes} />
+
+      {brunchRecipes.length === 0 ? (
+        <section class="section section-compact">
+          <article class="card empty-panel">
+            <div class="card-body">
+              <h2>食譜整理中</h2>
+              <p>早午餐食譜會陸續上架，你也可以先從常見食材或料理情境找靈感。</p>
+            </div>
+          </article>
+        </section>
+      ) : (
+        <>
+          {surfTurfRecipes.length > 0 && (
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">澎湃海陸</p>
+                  <h2>牛排與蝦仁同盤的週末主菜感</h2>
+                </div>
+                <span>{surfTurfRecipes.length} 道</span>
+              </div>
+              <div class="grid">
+                {surfTurfRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {steakRecipes.length > 0 && (
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">牛排主盤</p>
+                  <h2>香煎牛排與荷包蛋的經典組合</h2>
+                </div>
+                <span>{steakRecipes.length} 道</span>
+              </div>
+              <div class="grid">
+                {steakRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {seafoodRecipes.length > 0 && (
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">海鮮早午餐</p>
+                  <h2>爐烤、煙燻與酥炸的魚類主盤</h2>
+                </div>
+                <span>{seafoodRecipes.length} 道</span>
+              </div>
+              <div class="grid">
+                {seafoodRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {chickenRecipes.length > 0 && (
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">雞肉均衡</p>
+                  <h2>香草煎雞胸與蔬菜配菜</h2>
+                </div>
+                <span>{chickenRecipes.length} 道</span>
+              </div>
+              <div class="grid">
+                {chickenRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+
+          {vegetarianRecipes.length > 0 && (
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">蛋奶素</p>
+                  <h2>野菇嫩蛋的清爽早午餐</h2>
+                </div>
+                <span>{vegetarianRecipes.length} 道</span>
+              </div>
+              <div class="grid">
+                {vegetarianRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+              </div>
+            </section>
+          )}
+        </>
+      )}
+
+      <div class="ingredient-pills" aria-label="常用食材與情境">
+        <p class="ingredient-pills__title">常用食材</p>
+        {commonIngredients.map((ingredient) => (
+          <a class="chip note" href={`/ingredients/${ingredient.slug}/`}>
+            {ingredient.name}
+          </a>
+        ))}
+        <p class="ingredient-pills__title">相關情境</p>
+        {relatedScenarios.map((scenario) => (
+          <a class="chip" href={`/scenarios/${scenario.slug}/`}>
+            {scenario.name}
+          </a>
+        ))}
+      </div>
+
+      <div class="section-links">
+        <a class="button" href="/ingredients/beef/">牛肉食材說明</a>
+        <a class="button note" href="/ingredients/salmon/">鮭魚食材說明</a>
+        <a class="button note" href="/recipes/">看全部食譜</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

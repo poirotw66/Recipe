@@ -1,0 +1,85 @@
+---
+title: 青花菜菇菇雞胸飯
+slug: broccoli-mushroom-chicken-rice-bowl
+description: 雞胸肉、青花菜與菇類一次炒好，直接配飯就是完整一餐。
+coverImage: /images/recipes/broccoli-mushroom-chicken-rice-bowl.webp
+servings: 2
+prepTime: 10
+cookTime: 12
+totalTime: 22
+difficulty: 簡單
+calories: 515
+protein: 33
+fat: 12
+carbs: 67
+category: "飯麵"
+scenarios:
+- 高蛋白料理
+- 便當菜
+equipment:
+- 平底鍋
+ingredients:
+- name: 雞胸肉
+  amount: '220'
+  unit: 克
+  isCore: true
+- name: 青花菜
+  amount: '140'
+  unit: 克
+  isCore: true
+- name: 白飯
+  amount: '2'
+  unit: 碗
+  isCore: true
+seasonings:
+- name: 菇類
+  amount: '120'
+  unit: 克
+- name: 蒜頭
+  amount: '2'
+  unit: 瓣
+- name: 醬油
+  amount: '2'
+  unit: 小匙
+- name: 橄欖油
+  amount: '1'
+  unit: 大匙
+tags:
+- 雞胸飯
+- 便當主食
+intro: 先炒雞胸再下菇類和青花菜，蔬菜熟度較好掌握，也不易出水。
+steps:
+- 雞胸肉 220公克 逆紋切約 1.5 公分丁；青花菜 140公克 切小朵；菇類 120公克 切片；蒜頭 2瓣 切末。白飯 2碗 分裝入碗中備用。
+- 雞丁以醬油 1小匙 抓拌，靜置 5～10 分鐘入味（醬油留 1小匙 炒製用）。
+- 青花菜小朵可先汆燙 30 秒瀝乾（可省略，但可縮短炒鍋時間）。
+- 平底鍋中火熱橄欖油 1大匙，下雞丁攤平，煎 2 分鐘至底面金黃，翻面再炒 1～2 分鐘至中心熟透（切開無粉紅血水）。
+- 加入菇類與蒜末中火炒 2 分鐘至略軟出水。
+- 倒入青花菜與剩餘醬油 1小匙，大火快炒 1～2 分鐘至青花菜翠綠、醬汁裹勻。
+- 試味後將雞肉與蔬菜分裝於白飯上；做便當請放涼至室溫再蓋蓋，避免飯粒潮軟。
+tips:
+- 青花菜可先汆燙 30 秒縮短炒製時間。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
+storage: 可冷藏 1 到 2 天。
+substitutions:
+- 雞胸可改鮭魚丁。
+faqs:
+- question: 可以不用菇類嗎？
+  answer: 可以，多加青花菜也可以。
+- question: 適合減脂嗎？
+  answer: 可減少白飯份量搭配食用。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+relatedIngredients:
+- 雞胸肉
+- 青花菜
+- 菇類
+featured: false
+publishedAt: '2026-07-08'
+updatedAt: "2026-07-30"
+customAdditions:
+- 杏鮑菇
+- 玉米筍
+- 彩椒
+---
+
+青花菜菇菇雞胸飯適合忙碌平日，食材取得容易，流程清楚，重複製作也穩定。

@@ -1,0 +1,81 @@
+---
+recipeId: beef-carrot-soup
+title: 당근 소고기 국
+description: 당근과 소고기를 약불로 끓여 달콤하고 몸을 데우는 1인분 집밥 국물 요리.
+coverImage: /images/recipes/beef-carrot-soup.webp
+servings: 1
+prepTime: 12
+cookTime: 38
+totalTime: 50
+difficulty: 쉬움
+calories: 320
+protein: 28
+fat: 14
+carbs: 20
+category: "국·탕"
+scenarios:
+- 고단백 요리
+- 1인 요리
+equipment:
+- 냄비
+ingredients:
+- name: 소고기
+  amount: '120'
+  unit: g
+  isCore: true
+- name: 당근
+  amount: '1'
+  unit: 개
+  isCore: true
+- name: 양파
+  amount: 1/4
+  unit: 개
+  isCore: false
+seasonings:
+- name: 생강 슬라이스
+  amount: '3'
+  unit: 장
+- name: 소금
+  amount: 약간
+  unit: ''
+- name: 물
+  amount: '600'
+  unit: ml
+tags:
+- 소고기
+- 국물
+intro: 양지나 잘게 썬 등심이 좋습니다. 먼저 데쳐 비린내를 빼고 약불로 끓이면 국물이 맑아집니다.
+steps:
+- 소고기 120g을 약 2~3cm 깍둑으로 썰고, 당근 1개는 씻어 껍질을 벗겨 둥글게 썰고, 양파 1/4개는 껍질을 벗겨 한입 크기로 썹니다. 생강 슬라이스 3장을 준비합니다.
+- 소고기를 찬물에 넣고 약불로 데쳐 거품이 많이 올라오면 건져 미지근한 물로 헹구고 물기를 뺍니다(국물이 맑아집니다).
+- 냄비에 물 600ml를 넣고 소고기와 생강을 넣습니다. 강불로 끓인 뒤 표면 거품을 걷고, 뚜껑을 덮어 약불로 약 20분 끓입니다.
+- 당근과 양파를 넣고 뚜껑을 덮은 채 15~18분 더 끓여 당근이 부드럽고 소고기에 젓가락이 잘 들어가게 합니다.
+- 소금 약간으로 간을 맞추고, 기호에 따라 갓 간 후추나 고수를 뿌려 마무리합니다.
+tips:
+- 더 빨리 하려면 당근을 작게 썰어 끓이는 시간을 20분으로 줄이세요.
+- 전날 끓여 다음 날 먹으면 맛이 더 어우러지지만 냉장 보관이 필요합니다.
+- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
+storage: 냉장 1~2일 안에 드시고, 드시기 전에 반드시 끓여 내세요.
+substitutions:
+- 무
+faqs:
+- question: 소고기가 질기지 않나요?
+  answer: 양지나 작은 깍둑으로 약불에 오래 끓이면 보통 부드럽게 됩니다.
+- question: 양파 없이 해도 되나요?
+  answer: 가능하지만 단맛이 조금 줄어들어 작은술 1의 설탕으로 맞출 수 있습니다.
+- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
+  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
+relatedIngredients:
+- 소고기
+- 당근
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+customAdditions:
+- 파
+- 고추
+- 팽이버섯
+- 고수
+---
+
+당근 소고기 국은 달콤하고 몸을 데우며, 기름지지 않은 국이 먹고 싶은 저녁에 잘 어울립니다.

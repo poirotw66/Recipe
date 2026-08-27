@@ -1,0 +1,12 @@
+---
+import HomePage from "../components/HomePage.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { brandDisplayName } from "../lib/site";
+import { getHomePage } from "../i18n/home-page";
+
+const content = getHomePage("zh-TW");
+---
+
+<BaseLayout title={brandDisplayName} description={content.metaDescription} canonicalPath="/">
+  <HomePage locale="zh-TW" />
+</BaseLayout>

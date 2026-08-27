@@ -1,0 +1,77 @@
+---
+recipeId: budget-cabbage-noodle-soup
+title: 節約キャベツ麺スープ
+description: キャベツと麺を煮込んだスープ麺。材料が安くボリュームも十分な一人分。
+coverImage: /images/recipes/budget-cabbage-noodle-soup.webp
+servings: 1
+prepTime: 6
+cookTime: 10
+totalTime: 16
+difficulty: かんたん
+calories: 360
+protein: 10
+fat: 8
+carbs: 58
+category: "ご飯・麺"
+scenarios:
+- 節約料理
+- 10分でできる料理
+equipment:
+- 鍋
+ingredients:
+- name: 麺
+  amount: '1'
+  unit: 人分
+  isCore: true
+- name: キャベツ
+  amount: '150'
+  unit: g
+  isCore: true
+seasonings:
+- name: 水
+  amount: '600'
+  unit: ml
+- name: 青ねぎ
+  amount: '1'
+  unit: 本
+- name: 醤油
+  amount: '2'
+  unit: 大さじ
+- name: 塩
+  amount: 少々
+  unit: ''
+- name: 白胡椒
+  amount: 少々
+  unit: ''
+tags:
+- 一人分
+- 節約
+- スープ麺
+intro: キャベツは安く長持ちするので、スープ麺にするのは節約の定番の一つです。
+steps:
+- キャベツ150gを洗って一口大に切り、水気を切る。青ねぎ1本を小口切りにする。麺1人分を用意する。
+- 鍋に水600mlと醤油大さじ2を入れ、強火で煮立たせる。
+- キャベツを入れ中火で5分煮込み、やややわらかくなってもまだ歯ごたえを残す。
+- 麺を入れ、表示時間どおり歯ごたえを残して茹でる（約3〜5分）。軽く押して底にくっつかないようにする。
+- 塩少々と白胡椒少々で味を整えて味見し、青ねぎを散らして盛り付ける。
+tips:
+- 卵や肉だんごを加えるとさらにボリュームが出ますが、基本版でも十分な満足感があります。
+- 汁が煮詰まると塩味が強くなるため、塩は最後に味を見て加えます。
+storage: できたてが最良。麺は翌日糊化しやすい。
+substitutions: []
+faqs:
+- question: インスタント麺で代用できますか？
+  answer: はい。キャベツと一緒に煮て、調味料は半量にすると塩辛くなりにくいです。
+- question: "スープは翌日も食べられますか？"
+  answer: "粗熱を早く取り、密閉して冷蔵してください。翌日は十分に温め、葉物は食べる直前に加えます。"
+relatedIngredients:
+- キャベツ
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+customAdditions:
+- 溶き卵1個分
+- 豆腐100g
+---
+
+節約キャベツ麺スープは材料が安く手順も短く、食費を抑えたいときに実用的なスープ麺です。

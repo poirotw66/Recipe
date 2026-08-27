@@ -1,0 +1,85 @@
+---
+title: 洋蔥牛肉蓋飯
+slug: onion-beef-rice-bowl
+description: 洋蔥甜香襯托牛肉，醬汁淋在白飯上，一碗就能吃得很滿足。
+coverImage: /images/recipes/onion-beef-rice-bowl.webp
+servings: 1
+prepTime: 7
+cookTime: 13
+totalTime: 20
+difficulty: 簡單
+calories: 560
+protein: 30
+fat: 16
+carbs: 70
+category: "飯麵"
+scenarios:
+- 一人料理
+- 便當菜
+equipment:
+- 平底鍋
+ingredients:
+- name: 水
+  amount: "80"
+  unit: "毫升"
+- name: 白飯
+  amount: '1'
+  unit: 碗
+  isCore: true
+- name: 牛肉
+  amount: '100'
+  unit: 公克
+  isCore: true
+- name: 洋蔥
+  amount: 1/2
+  unit: 顆
+  isCore: true
+seasonings:
+- name: 醬油
+  amount: '1.5'
+  unit: 大匙
+- name: 糖
+  amount: '1'
+  unit: 小匙
+- name: 水
+  amount: '80'
+  unit: 毫升
+- name: 橄欖油
+  amount: '1'
+  unit: 大匙
+tags:
+- 牛肉
+- 炒飯蓋飯
+intro: 洋蔥牛肉蓋飯的醬汁不必收太乾，保留一點濕潤度拌飯更好吃。
+steps:
+- 牛肉 100公克 逆紋切丁；洋蔥 1/2顆 切細絲。白飯 1碗 盛入大碗中保溫備用。
+- 牛肉以醬油 0.75大匙 抓拌，靜置 5～10 分鐘入味（醬油 0.75大匙 留炒製用）。
+- 小碗調勻剩餘醬油 0.75大匙、糖 1小匙與水 80毫升成醬汁。
+- 平底鍋中火熱橄欖油 1大匙，下洋蔥絲炒 2～3 分鐘至透明略軟出甜香。
+- 下牛肉攤平，中火煎炒 3～4 分鐘至表面變色、中心熟透。
+- 倒入調好的醬汁，蓋鍋小火燉 3～4 分鐘至入味；開蓋轉大火快炒 30 秒至醬汁略稠（保留一點濕潤度拌飯更好吃）。
+- 試味後連汁淋在白飯上即可享用。
+tips:
+- 洋蔥炒久一點會更甜，蓋飯風味更穩。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
+storage: 現做現吃最佳；帶便當建議醬汁另外裝。
+substitutions:
+- 青蔥
+faqs:
+- question: 可以改用牛排肉嗎？
+  answer: 可以，切薄片並縮短炒製時間即可。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+relatedIngredients:
+- 牛肉
+- 洋蔥
+- 白飯
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+customAdditions:
+- 青蔥
+- 辣椒
+- 金針菇
+---
+洋蔥牛肉蓋飯是專區裡最下飯的經典組合之一。

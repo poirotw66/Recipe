@@ -1,0 +1,78 @@
+---
+title: Air-Fryer Garlic Shrimp
+recipeId: air-fryer-garlic-shrimp
+description: Large shrimp marinated with garlic and air-fried until springy and sweet—great with rice or salad.
+coverImage: /images/recipes/air-fryer-garlic-shrimp.webp
+servings: 1
+prepTime: 10
+cookTime: 8
+totalTime: 18
+difficulty: Easy
+calories: 240
+protein: 32
+fat: 10
+carbs: 4
+category: "Main dish"
+scenarios:
+- Air fryer meals
+- 10-minute meals
+equipment:
+- Air fryer
+tags:
+- Cooking for one
+- Air fryer
+- Seafood
+tips:
+- Leave heads on for aroma if you like—rinse and dry them first.
+- Pat ingredients dry and arrange them in a single layer with room for airflow so they brown evenly.
+substitutions:
+- Squid
+- Scallops
+relatedIngredients:
+- 蝦仁
+customAdditions: []
+ingredients:
+- name: Shrimp
+  amount: '200'
+  unit: g
+  isCore: true
+seasonings:
+- name: Garlic
+  amount: '4'
+  unit: cloves
+- name: Olive oil
+  amount: '1'
+  unit: tbsp
+- name: Soy sauce
+  amount: '1'
+  unit: tsp
+- name: Lemon juice
+  amount: '1'
+  unit: tsp
+- name: Salt
+  amount: pinch
+  unit: ''
+- name: Black pepper
+  amount: pinch
+  unit: ''
+intro: Pat shrimp completely dry before marinating—air-fry time is short; too long and they shrink and toughen.
+steps:
+- Rinse shrimp (200 g) under running water; devein if needed; pat thoroughly dry with paper towels. Mince garlic (4 cloves).
+- In a bowl, mix olive oil (1 tbsp), soy sauce (1 tsp), lemon juice (1 tsp), salt, black pepper, and garlic into a marinade.
+- Toss shrimp with the marinade until evenly coated; rest 8 minutes to absorb flavor.
+- Preheat air fryer to 190°C for 3 minutes.
+- Arrange shrimp in the basket in one layer, separated—not stacked—so each shrimp heats evenly.
+- Air-fry at 190°C for 4 minutes; open, flip, then air-fry 3 minutes more until shells turn pink-orange and bodies curl.
+- Flesh should be opaque and springy. Squeeze a little more lemon juice if desired and serve immediately while hot.
+storage: Best fresh; reheated shrimp turn tough overnight.
+faqs:
+- question: Can I use frozen shrimp?
+  answer: Yes—thaw completely and pat very dry or they’ll steam and weep.
+- question: "How should I adjust the air-frying time for different thicknesses?"
+  answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+---
+
+From prep to plate in under 20 minutes—a solid weeknight option.

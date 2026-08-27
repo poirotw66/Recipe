@@ -1,0 +1,75 @@
+---
+import AboutBrandMark from "./AboutBrandMark.astro";
+import {
+  bloss0mBrandName,
+  bloss0mSiteUrl,
+  bloomPickerUrl,
+  bloomRenderUrl,
+  brandName,
+  brandTagline,
+  contactEmail,
+  recipeSiteUrl
+} from "../lib/site";
+import { localePath, type Locale } from "../lib/i18n";
+import { getAboutPage } from "../i18n/about-page";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const content = getAboutPage(locale);
+const contactPath = localePath(locale, "/contact");
+const { bloss0mPrimary, contact } = content;
+const bloss0mLineStart = bloss0mPrimary.beforeBloss0m.replace("{brandName}", brandName);
+---
+
+<AboutBrandMark alt={content.brandMarkAlt} />
+
+<section>
+  <h2>{content.missionHeading}</h2>
+  <p>{content.missionBody}</p>
+</section>
+
+<section>
+  <h2>{content.audienceHeading}</h2>
+  <ul class="article-list">
+    {content.audienceItems.map((item) => <li>{item}</li>)}
+  </ul>
+</section>
+
+<section>
+  <h2>{content.principlesHeading}</h2>
+  <ul class="article-list">
+    {content.principlesItems.map((item) => <li>{item}</li>)}
+  </ul>
+</section>
+
+<section>
+  <h2>{content.bloss0mHeading}</h2>
+  <p>
+    {bloss0mLineStart}
+    <a href={bloss0mSiteUrl} rel="noopener noreferrer">{bloss0mBrandName}</a>
+    {bloss0mPrimary.afterBloss0m}
+    {brandTagline}
+    {bloss0mPrimary.taglineNote}
+    <a href={recipeSiteUrl}>{recipeSiteUrl}</a>
+    {bloss0mPrimary.afterRecipeUrl}
+    <a href={bloomPickerUrl} rel="noopener noreferrer">{bloss0mPrimary.pickerLabel}</a>
+    {bloss0mPrimary.betweenPickerAndRender}
+    <a href={bloomRenderUrl} rel="noopener noreferrer">{bloss0mPrimary.renderLabel}</a>
+    {bloss0mPrimary.afterRender}
+  </p>
+  <p>{content.bloss0mSecondary}</p>
+</section>
+
+<section>
+  <h2>{content.contactHeading}</h2>
+  <p>
+    {contact.beforeEmail}
+    <a href={`mailto:${contactEmail}`}>{contactEmail}</a>
+    {contact.afterEmail}
+    <a href={contactPath}>{contact.contactLinkLabel}</a>
+    {contact.afterContactLink}
+  </p>
+</section>

@@ -1,0 +1,81 @@
+---
+title: 青花菜豆腐蒜炒
+slug: broccoli-tofu-garlic-stirfry
+description: 青花菜與豆腐一起快炒，蒜香明顯，清爽又有蛋白質。
+coverImage: /images/recipes/broccoli-tofu-garlic-stirfry.webp
+servings: 2
+prepTime: 9
+cookTime: 10
+totalTime: 19
+difficulty: 簡單
+calories: 250
+protein: 16
+fat: 11
+carbs: 18
+category: "家常菜"
+scenarios:
+- 減脂料理
+- 10 分鐘料理
+equipment:
+- 平底鍋
+ingredients:
+- name: 青花菜
+  amount: '160'
+  unit: 克
+  isCore: true
+- name: 豆腐
+  amount: '1'
+  unit: 盒
+  isCore: true
+- name: 蒜頭
+  amount: '2'
+  unit: 瓣
+  isCore: true
+seasonings:
+- name: 橄欖油
+  amount: '1'
+  unit: 大匙
+- name: 鹽
+  amount: 少許
+  unit: ''
+- name: 醬油
+  amount: '1'
+  unit: 小匙
+tags:
+- 青花菜料理
+- 豆腐料理
+intro: 豆腐先煎後炒會更完整，青花菜保持脆度就不會軟爛。
+steps:
+- 青花菜 160克 切小朵；豆腐 1盒 切約 2 公分塊並用廚房紙巾吸乾；蒜頭 2瓣 切末。醬油 1小匙 與 鹽 少許 混勻備用。
+- 平底鍋中火熱 橄欖油 1 大匙，豆腐塊單層煎至兩面微金黃（每面約 1 分鐘），盛出備用。
+- 同鍋補 橄欖油 1 小匙，爆香蒜末 20 秒至出香。
+- 下青花菜大火炒 2 分鐘至顏色變深翠綠、梗仍微脆。
+- 豆腐回鍋輕翻拌 1 分鐘，淋入醬油與鹽調味。
+- 豆腐均勻上色、青花菜熟透但仍帶脆即可起鍋。
+tips:
+- 青花菜可先燙 30 秒再炒，熟度更穩。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
+storage: 可冷藏 1 天，回鍋建議中火快炒。
+substitutions:
+- 青花菜可改高麗菜。
+faqs:
+- question: 豆腐容易碎怎麼辦？
+  answer: 先煎到定型再翻動。
+- question: 可以加蛋嗎？
+  answer: 可以，最後加蛋液會更有飽足感。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+relatedIngredients:
+- 青花菜
+- 豆腐
+- 蒜頭
+featured: false
+publishedAt: '2026-07-04'
+updatedAt: "2026-07-30"
+customAdditions:
+- 肉絲
+- 蝦仁
+- 香菇
+---
+
+青花菜豆腐蒜炒適合忙碌平日，食材取得容易，流程清楚，重複製作也穩定。

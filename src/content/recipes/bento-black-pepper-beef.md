@@ -1,0 +1,75 @@
+---
+title: "便當黑椒牛肉"
+description: "牛肉片以黑椒快炒，便當隔天加熱仍保有風味，適合帶便當的主菜。"
+coverImage: /images/recipes/bento-black-pepper-beef.webp
+servings: 1
+prepTime: 10
+cookTime: 8
+totalTime: 18
+difficulty: "中等"
+calories: 340
+protein: 32
+fat: 18
+carbs: 6
+category: "便當菜"
+scenarios:
+- 便當菜
+- 高蛋白料理
+equipment:
+- 平底鍋
+tags:
+- 便當
+- 一人份
+- 牛肉料理
+tips:
+- 可加青椒條增加色彩與口感。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
+substitutions: []
+relatedIngredients:
+- 牛肉
+- 洋蔥
+customAdditions: []
+ingredients:
+- name: "牛肉"
+  amount: "180"
+  unit: "公克"
+  isCore: true
+- name: "洋蔥"
+  amount: "1/4"
+  unit: "顆"
+  isCore: false
+seasonings:
+- name: "黑胡椒"
+  amount: "1"
+  unit: "小匙"
+- name: "醬油"
+  amount: "1.5"
+  unit: "大匙"
+- name: "米酒"
+  amount: "1"
+  unit: "大匙"
+- name: "太白粉"
+  amount: "1"
+  unit: "小匙"
+- name: "橄欖油"
+  amount: "1"
+  unit: "大匙"
+intro: "牛肉快炒時間短，便當用不要炒全熟，七分熟起鍋隔天加熱剛好。"
+steps:
+- 牛肉 180 公克逆紋切薄片，以醬油 1 大匙、米酒 1 大匙、太白粉 1 小匙、黑胡椒 1/2 小匙抓醃 10 分鐘；洋蔥 1/4 顆切條，黑胡椒另備 1/2 小匙炒製用。
+- 平底鍋開中大火，下橄欖油 1 大匙，油熱後下牛肉快炒約 2 分鐘至變色，立即盛出備用。
+- 同鍋下洋蔥條炒約 1 分鐘至透明微軟。
+- 倒回牛肉，撒剩餘黑胡椒，大火快炒 30 秒至均勻裹醬、牛肉全熟。
+- 試味調整；完全放涼後分裝便當盒（微波加熱約 1 分鐘，蓋濕紙巾較不柴）。
+storage: "冷藏 2 天；微波加熱 1 分鐘。"
+faqs:
+- question: "可以用豬肉代替嗎？"
+  answer: "可以，里肌切薄片，時間相同。"
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-07-30"
+---
+
+便當黑椒牛肉是帶便當時最受歡迎的主菜之一。

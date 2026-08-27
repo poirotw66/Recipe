@@ -1,0 +1,73 @@
+---
+title: "電子鍋蒸蛋蓋飯"
+description: "白飯與蒸蛋同時完成，軟嫩蒸蛋淋醬油蓋飯，一人份剛好。"
+coverImage: /images/recipes/microwave-steamed-egg-rice.webp
+servings: 1
+prepTime: 5
+cookTime: 12
+totalTime: 17
+difficulty: "簡單"
+calories: 400
+protein: 18
+fat: 12
+carbs: 54
+category: "飯麵"
+scenarios:
+- 10 分鐘料理
+- 一人料理
+equipment:
+- 電子鍋或電鍋
+tags:
+- 一人份
+- 快速
+- 蒸蛋
+tips:
+- 蒸蛋碗可蓋保鮮膜戳孔，表面更平滑。
+- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
+substitutions: []
+relatedIngredients:
+- 白飯
+- 雞蛋
+customAdditions: []
+ingredients:
+- name: "白飯"
+  amount: "1"
+  unit: "碗"
+  isCore: true
+- name: "雞蛋"
+  amount: "2"
+  unit: "顆"
+  isCore: true
+seasonings:
+- name: "水"
+  amount: "180"
+  unit: "毫升"
+- name: "醬油"
+  amount: "1"
+  unit: "大匙"
+- name: "鹽"
+  amount: "少許"
+  unit: ""
+intro: "蒸蛋水比例約 1:1.5，過篩後口感更細緻；與飯同蒸最省時間。"
+steps:
+- 白飯 1 碗放入電子鍋內鍋；依內鍋刻度加適量水（若飯是冷藏的，灑 1～2 匙水再蒸）。
+- 雞蛋 2 顆打入碗中，加冷水 180 毫升與鹽少許，充分攪打；過篩一次（口感更細）。
+- 過篩蛋液倒入耐熱碗，碗口蓋保鮮膜戳 2～3 小孔。
+- 將蒸蛋碗放在飯上方或內鍋蒸架上（避免直接泡在飯水裡）。
+- 外鍋加 1 杯水，蓋蓋啟動正常煮飯模式。
+- 跳起後悶 3 分鐘；蒸蛋中心應呈布丁狀、表面平滑無蜂孔。
+- 蒸蛋淋醬油 1 大匙，與白飯拌食或分開吃；現做現吃最佳。
+storage: "現做現吃；蒸蛋隔夜會出水，不建議冷藏。"
+faqs:
+- question: "沒有電子鍋怎麼辦？"
+  answer: "可用鍋子蒸，水滾後中火蒸 12 分鐘，關火燜 3 分鐘。"
+- question: "可以提前準備嗎？"
+  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-07-30"
+---
+---
+
+
+電子鍋蒸蛋蓋飯是租屋族最懶人卻最穩的一餐。

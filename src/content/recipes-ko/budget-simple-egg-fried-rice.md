@@ -1,0 +1,71 @@
+---
+recipeId: budget-simple-egg-fried-rice
+title: 알뜰 계란 볶음밥
+description: 달걀, 밥, 기본 양념만으로 비용은 최소인데 밥도둑인 필수 요리, 학생·자취생에게 추천.
+coverImage: /images/recipes/budget-simple-egg-fried-rice.webp
+servings: 1
+prepTime: 5
+cookTime: 8
+totalTime: 13
+difficulty: 쉬움
+calories: 420
+protein: 14
+fat: 14
+carbs: 58
+category: "밥·면"
+scenarios:
+- 알뜰 요리
+- 10분 요리
+equipment:
+- 프라이팬
+tags:
+- 1인분
+- 알뜰
+- 계란볶음밥
+tips:
+- 파나 햄 다이스를 넣을 수 있지만 기본만으로도 충분히 맛있습니다.
+- 찬밥이나 삶은 면은 조리 전에 펼쳐 두면 뭉치지 않고 양념이 고르게 배어듭니다.
+substitutions: []
+relatedIngredients:
+- 밥
+- 달걀
+customAdditions:
+- 파
+- 햄 다이스
+ingredients:
+- name: 밥
+  amount: '1'
+  unit: 공기
+  isCore: true
+- name: 달걀
+  amount: '2'
+  unit: 개
+  isCore: true
+seasonings:
+- name: 올리브 오일
+  amount: '1'
+  unit: 큰술
+- name: 소금
+  amount: 약간
+  unit: ''
+- name: 흰후추
+  amount: 약간
+  unit: ''
+intro: 계란 볶음밥은 단순할수록 손이 가는 요리입니다. 밥, 강불, 빠른 볶음이 세 가지 핵심입니다.
+steps:
+- 밥 1공기가 냉장 밥이면 손으로 풀어둡니다. 달걀 2개를 풀고 소금 약간을 넣어 섞습니다.
+- 프라이팬을 중강불로 달구고 올리브 오일 1큰술을 넣습니다. 풀어둔 달걀을 넣어 빠르게 볶아 반쯤 익은 부드러운 알갱이로 만든 뒤 건져 둡니다.
+- 같은 팬에 기름을 조금 더 넣고 밥을 넣어 강불로 2~3분 빠르게 볶아 알이 흩어지고 살짝 고소한 향이 날 때까지 볶습니다.
+- 볶아 둔 달걀을 다시 넣고 흰후추를 뿌린 뒤, 강불로 1분 빠르게 볶아 달걀과 밥이 고루 섞이면 바로 내면 합니다.
+storage: 냉장 1일; 프라이팬으로 다시 볶아 데우세요.
+faqs:
+- question: 갓 지은 밥으로 해도 되나요?
+  answer: 가능하지만 식히거나 냉장 30분 두면 수분이 줄어 덜 눌어붙습니다.
+- question: "미리 만들어 둘 수 있나요?"
+  answer: "가능합니다. 밥이나 면과 속재료를 따로 냉장한 뒤 먹기 직전에 데워 섞으면 식감이 좋습니다."
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+---
+
+알뜰 계란 볶음밥은 월말 예산이 빠듯할 때 가장 믿을 만한 한 끼입니다.

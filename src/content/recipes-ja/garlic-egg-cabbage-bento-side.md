@@ -1,0 +1,83 @@
+---
+recipeId: garlic-egg-cabbage-bento-side
+title: にんにく香るキャベツと卵のお弁当おかず
+description: キャベツと卵をにんにく香りでさっと炒め、お弁当のおかずにぴったり。水っぽくなりにくい。
+coverImage: /images/recipes/garlic-egg-cabbage-bento-side.webp
+servings: 2
+prepTime: 7
+cookTime: 8
+totalTime: 15
+difficulty: かんたん
+calories: 230
+protein: 12
+fat: 14
+carbs: 15
+category: "お弁当のおかず"
+scenarios:
+- お弁当向けのおかず
+- 節約料理
+equipment:
+- フライパン
+ingredients:
+- name: キャベツ
+  amount: '180'
+  unit: g
+  isCore: true
+- name: 卵
+  amount: '2'
+  unit: 個
+  isCore: true
+- name: にんにく
+  amount: '2'
+  unit: 片
+  isCore: true
+seasonings:
+- name: オリーブオイル
+  amount: '1'
+  unit: 大さじ
+- name: 塩
+  amount: 少々
+  unit: ''
+- name: 醤油
+  amount: '0.5'
+  unit: 小さじ
+tags:
+- お弁当おかず
+- キャベツ料理
+intro: キャベツを先に強火で炒めてから卵を入れると水分が出過ぎず、翌日のお弁当も食感が安定します。
+steps:
+- キャベツ180gを薄切りに。卵2個を溶きほぐし、にんにく2片をみじん切りに。塩少々と醤油小さじ1/2を混ぜておく。
+- フライパンを中火にし、オリーブオイル大さじ1を熱してにんにくを約20秒炒め、香りが出るまで。
+- キャベツを強火で約2分炒め、葉がやわらかく縁が少し透明になるまで（まだ歯ごたえを残す）。
+- キャベツを端に寄せ、中央に卵液を流し入れる。底が固まったら軽く崩す（約1分）。
+- 卵とキャベツを混ぜ、醤油と塩を回し入れて味を合わせる。
+- 卵に火が通り、キャベツに歯ごたえが残ったら完成。お弁当用は冷めてから詰めると水っぽくなりにくい。
+tips:
+- お弁当用なら卵はしっかり火を通すとよい。
+- 冷やご飯やゆで麺は広げてから加熱すると、固まりにくく調味料も均一になじみます。
+storage: 冷蔵で1〜2日。
+substitutions:
+- 千切りにんじんを加えると甘みと色が増す。
+faqs:
+- question: 醤油なしでも作れますか？
+  answer: はい。塩と白胡椒だけでも大丈夫です。
+- question: お弁当で汁が出ますか？
+  answer: 冷めてから蓋をすると湿気を抑えられます。
+- question: "作り置きできますか？"
+  answer: "できます。主食と具材を分けて冷蔵し、食べる直前に温めて合わせると食感を保てます。"
+relatedIngredients:
+- キャベツ
+- 卵
+- にんにく
+featured: false
+publishedAt: '2026-06-23'
+updatedAt: "2026-07-30"
+customAdditions:
+- ハム丁
+- シュレッドチーズ
+- ねぎ
+---
+
+---
+
+材料費が抑えられ、手早く作れる週替わりのお弁当おかずに向いています。

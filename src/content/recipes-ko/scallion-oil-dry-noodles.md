@@ -1,0 +1,70 @@
+---
+recipeId: scallion-oil-dry-noodles
+title: 파기름 비빔면
+description: 파기름과 간장으로 버무린 대만식 비빔면. 10분 안에 끝나는 자취 필수 메뉴.
+coverImage: /images/recipes/scallion-oil-dry-noodles.webp
+servings: 1
+prepTime: 5
+cookTime: 8
+totalTime: 13
+difficulty: 쉬움
+calories: 420
+protein: 10
+fat: 16
+carbs: 58
+category: "밥·면"
+scenarios:
+- 1인 요리
+- 10분 요리
+equipment:
+- 냄비
+- 작은 냄비
+tags:
+- 1인분
+- 빠른 요리
+- 면 요리
+tips:
+- 유면이 없으면 가는 면이나 스파게티로 대체할 수 있습니다.
+- 찬밥이나 삶은 면은 조리 전에 펼쳐 두면 뭉치지 않고 양념이 고르게 배어듭니다.
+substitutions: []
+relatedIngredients:
+- 파
+customAdditions: []
+ingredients:
+- name: 유면
+  amount: '1'
+  unit: 인분
+  isCore: true
+- name: 파
+  amount: '3'
+  unit: 대
+  isCore: true
+seasonings:
+- name: 간장
+  amount: '2'
+  unit: 큰술
+- name: 올리브오일
+  amount: '3'
+  unit: 큰술
+- name: 설탕
+  amount: 1/2
+  unit: 작은술
+intro: 파기름은 약불로 천천히 노릇하게 튀겨야 향이 나고, 센 불은 타기 쉽습니다.
+steps:
+- 파 3대의 흰 부분과 잎을 나눕니다. 작은 그릇에 간장 2큰술과 설탕 1/2작은술을 섞어 양념장을 만듭니다.
+- 작은 냄비에 약불로 올리브오일 2큰술을 두르고, 먼저 파 흰 부분을 연노란색이 될 때까지 볶습니다(약 2분). 파 잎을 넣어 금색이 되면 건지고 파기름 1큰술은 남겨 둡니다.
+- 큰 냄비에 강불로 물을 끓인 뒤 유면 1인분을 포장지 시간대로 2~3분 삶아 쫄깃하게 익힙니다. 건져 물기를 빼고 면수 2큰술을 남깁니다.
+- 면에 양념장, 파기름 1큰술, 면수를 넣어 면 한 가닥마다 양념이 고루 묻도록 비빕니다.
+- 담은 뒤 남은 파기름을 뿌리고 따뜻할 때 바로 드세요. 데친 채소나 반숙 달걀을 곁들여도 좋습니다.
+storage: 바로 드시고, 재가열 시 물을 조금 넣어 비비세요.
+faqs:
+- question: 설탕을 빼도 되나요?
+  answer: 가능하나 조금 넣으면 간장 짠맛이 균형 잡혀 외식에 가깝습니다.
+- question: "미리 만들어 둘 수 있나요?"
+  answer: "가능합니다. 밥이나 면과 속재료를 따로 냉장한 뒤 먹기 직전에 데워 섞으면 식감이 좋습니다."
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+---
+
+대만 자취생에게 가장 익숙한 빠른 저녁 면 요리 중 하나입니다.

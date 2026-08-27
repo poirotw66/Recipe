@@ -1,0 +1,85 @@
+---
+title: Crispy Cod Brunch
+recipeId: crispy-cod-brunch
+description: Crisp battered cod with a quick yogurt tartar-style sauce and lemon—weekend brunch at home.
+coverImage: /images/recipes/crispy-cod-brunch.webp
+servings: 1
+prepTime: 10
+cookTime: 12
+totalTime: 22
+difficulty: Medium
+calories: 480
+protein: 35
+fat: 22
+carbs: 38
+category: "Main dish"
+scenarios:
+- Air fryer meals
+- Cooking for one
+equipment:
+- Skillet or air fryer
+tags:
+- Brunch
+- Fried fish
+tips:
+- Air fry at 190°C about 10–12 minutes, flip and spray oil once.
+- Oil too cool and the fish absorbs grease.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
+substitutions:
+- Salmon
+- Chicken breast
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+relatedIngredients:
+- 雞蛋
+- 番茄
+customAdditions: []
+ingredients:
+- name: Cod fillet
+  amount: '1'
+  unit: piece
+  isCore: true
+- name: Egg
+  amount: '1'
+  unit: ''
+  isCore: false
+- name: Tomato
+  amount: 1/2
+  unit: ''
+  isCore: false
+seasonings:
+- name: All-purpose flour
+  amount: '3'
+  unit: Tbsp
+- name: Salt
+  amount: pinch
+  unit: ''
+- name: Black pepper
+  amount: pinch
+  unit: ''
+- name: Lemon juice
+  amount: '1'
+  unit: Tbsp
+- name: Plain yogurt
+  amount: '2'
+  unit: Tbsp
+- name: Olive oil
+  amount: as needed
+  unit: ''
+intro: Pat cod completely dry before breading; medium-high oil keeps the crust crisp.
+steps:
+- Pat cod fillet completely dry on both sides; season lightly with salt and pepper; beat 1 egg and spread 3 Tbsp flour on a shallow plate.
+- Dice 1/2 tomato; mix 2 Tbsp yogurt with 1 Tbsp lemon juice and a pinch of salt into tartar-style sauce; chill until needed.
+- Dredge fish in flour, egg, then flour again; pat off excess so the coating stays thin and even.
+- Pour about 0.5 cm olive oil into a skillet; heat over medium to roughly 170°C (small bubbles around a chopstick).
+- Place fish in the pan; fry one side 3 minutes until golden without flipping often; flip and fry 3 more minutes until the other side is golden and the center is opaque and flakes easily with a fork.
+- Transfer to a rack and drain 2 minutes so the crust stays crisp.
+- Plate the fish with tartar sauce and lemon wedges.
+storage: Best eaten immediately; crust softens when chilled.
+featured: false
+publishedAt: '2026-06-03'
+updatedAt: "2026-07-30"
+---
+
+Crispy cod brunch is for days when you want a café-style plate without leaving home.

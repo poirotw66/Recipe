@@ -1,0 +1,3809 @@
+[
+  {
+    "name": "雞蛋",
+    "slug": "egg",
+    "aliases": [
+      "蛋",
+      "雞蛋料理"
+    ],
+    "category": "蛋類",
+    "description": "雞蛋是最常見也最好用的家常食材，適合快炒、蒸煮、拌飯與便當菜。",
+    "intro": "選購時以殼面完整、無裂痕為佳，回家後請冷藏保存，盡量避開冰箱門邊溫度變化大的位置。雞蛋是台灣小廚房最順手的蛋白質來源，適合快炒、蒸蛋、拌飯與便當配菜，搭配豆腐、番茄或青蔥就能快速完成一餐。Bloom Kitchen 收錄多道以雞蛋為主角的家常食譜，從十分鐘料理到清冰箱菜都有。",
+    "caloriesPer100g": 155,
+    "proteinPer100g": 13,
+    "fatPer100g": 11,
+    "carbsPer100g": 1.1,
+    "storage": "冷藏保存，避免放在冰箱門邊溫度變化大的位置。",
+    "commonPairings": [
+      "豆腐",
+      "番茄",
+      "青蔥",
+      "白飯"
+    ],
+    "substitutes": [
+      "豆腐",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "雞蛋",
+      "en": "Eggs",
+      "ja": "卵",
+      "ko": "달걀"
+    },
+    "categoryLabels": {
+      "zh-TW": "蛋類",
+      "en": "Eggs",
+      "ja": "卵",
+      "ko": "달걀·난류"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Eggs are one of the most versatile home-cooking staples, perfect for stir-fries, steamed dishes, rice bowls, and lunch boxes.",
+        "intro": "Choose eggs with intact shells and no cracks, then keep them refrigerated away from the fridge door where temperatures swing the most. Eggs are an easy protein for stir-fries, steamed custards, rice bowls, and lunch-box sides—pair them with tofu, tomato, or scallions for a quick meal. Bloom Kitchen has many egg-forward home recipes, from ten-minute dishes to fridge-cleanout ideas.",
+        "storage": "Keep refrigerated and avoid the fridge door, where temperatures fluctuate the most."
+      },
+      "ja": {
+        "description": "卵は家庭料理で最も使いやすい定番食材の一つで、炒め物、蒸し物、ご飯もの、お弁当に幅広く使えます。",
+        "intro": "殻にひびがなく、形が整ったものを選び、冷蔵庫のドア付近を避けて冷蔵保存しましょう。卵は炒め物、茶碗蒸し、ご飯もの、お弁当の副菜に向き、豆腐やトマト、ネギと合わせれば手早く一食が完成します。Bloom Kitchen には卵を主役にした家庭料理レシピが複数あり、10分メニューから冷蔵庫整理料理まで幅広く掲載しています。",
+        "storage": "冷蔵保存し、温度変化の大きいドアポケットは避けてください。"
+      },
+      "ko": {
+        "description": "달걀은 가장 흔하고 활용도가 높은 집밥 재료로, 볶음, 찜, 덮밥, 도시락 반찬에 두루 잘 어울립니다.",
+        "intro": "껍질에 금이 없고 모양이 온전한 달걀을 고른 뒤, 온도 변화가 큰 냉장고 문 쪽을 피해 냉장 보관하세요. 달걀은 볶음, 찜, 덮밥, 도시락 반찬에 잘 맞는 단백질 재료로, 두부·토마토·파와 함께 쓰면 빠르게 한 끼를 만들 수 있습니다. Bloom Kitchen에는 달걀을 주재료로 한 집밥 레시피가 여러 가지 있어 10분 요리부터 냉장고 털기 메뉴까지 폭넓게 찾아볼 수 있습니다.",
+        "storage": "냉장 보관하고, 온도 변화가 큰 냉장고 문 쪽은 피하세요."
+      }
+    }
+  },
+  {
+    "name": "豆腐",
+    "slug": "tofu",
+    "aliases": [
+      "板豆腐",
+      "嫩豆腐"
+    ],
+    "category": "豆製品",
+    "description": "豆腐價格親切、用途廣，特別適合一人料理與高蛋白家常菜。",
+    "intro": "板豆腐適合煎炒、嫩豆腐適合湯品與蒸菜，選購時看包裝日期與質地即可。開封後請改以清水浸泡並冷藏，建議在一到兩天內用完，風味最穩定。豆腐價格親切又飽足，特別適合一人份高蛋白家常菜。Bloom Kitchen 有多道豆腐快炒、滷製與清冰箱食譜，方便你依手邊食材快速開伙。",
+    "caloriesPer100g": 76,
+    "proteinPer100g": 8,
+    "fatPer100g": 4.8,
+    "carbsPer100g": 1.9,
+    "storage": "開封後冷藏浸泡清水，1 到 2 天內食用完畢風味較穩定。",
+    "commonPairings": [
+      "雞蛋",
+      "番茄",
+      "青蔥"
+    ],
+    "substitutes": [
+      "雞蛋",
+      "豆乾"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "豆腐",
+      "en": "Tofu",
+      "ja": "豆腐",
+      "ko": "두부"
+    },
+    "categoryLabels": {
+      "zh-TW": "豆製品",
+      "en": "Soy products",
+      "ja": "豆製品",
+      "ko": "두부·콩가공품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Tofu is affordable and versatile, making it especially useful for cooking for one and protein-rich home meals.",
+        "intro": "Firm tofu works well for pan-frying and stir-fries, while soft tofu suits soups and steamed dishes—check the pack date and texture when you buy. After opening, store tofu in clean water in the fridge and use it within one to two days for the best flavor. It is budget-friendly and filling for solo high-protein meals. Bloom Kitchen offers stir-fry, braised, and fridge-cleanout tofu recipes you can adapt to what you already have.",
+        "storage": "After opening, keep tofu refrigerated in clean water and finish it within 1 to 2 days for the best flavor."
+      },
+      "ja": {
+        "description": "豆腐は手頃で使い道が広く、一人分の料理や高タンパクの家庭料理に特に便利です。",
+        "intro": "木綿豆腐は炒めや焼き向き、絹ごし豆腐は汁物や蒸し物に向きます。購入時は賞味期限と固さを確認しましょう。開封後は清水に浸して冷蔵し、1〜2日で使い切ると風味が安定します。豆腐は手頃で満足感もあるため、一人分の高タンパク料理に最適です。Bloom Kitchen には炒め物、煮物、冷蔵庫整理向けの豆腐レシピが複数あります。",
+        "storage": "開封後は清水に浸して冷蔵し、風味が安定しているうちに1〜2日で使い切るのがおすすめです。"
+      },
+      "ko": {
+        "description": "두부는 가격 부담이 적고 활용 범위가 넓어 1인 요리와 고단백 집밥에 특히 잘 맞습니다.",
+        "intro": "단단한 두부는 볶음·구이에, 부드러운 두부는 국·찜에 잘 어울립니다. 구매할 때는 포장 날짜와 질감을 확인하세요. 개봉 후에는 깨끗한 물에 담아 냉장 보관하고 1~2일 안에 먹으면 맛이 가장 안정적입니다. 두부는 부담 없이 든든한 1인 고단백 식사에 좋습니다. Bloom Kitchen에는 볶음, 조림, 냉장고 털기용 두부 레시피가 여러 가지 있습니다.",
+        "storage": "개봉 후에는 깨끗한 물에 담가 냉장 보관하고, 맛이 가장 안정적인 1~2일 안에 먹는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "牛肉",
+    "slug": "beef",
+    "aliases": [
+      "牛絲",
+      "牛肉片",
+      "絞牛肉"
+    ],
+    "category": "肉類",
+    "description": "牛肉蛋白質高、風味濃，適合快炒、燴飯、簡易湯品與煎烤主菜的一人份料理。",
+    "intro": "選購牛肉時，薄片或絞肉適合快炒便當，厚片則可做煎烤主菜；冷藏請在一兩天內料理，若要囤貨可小分冷凍保存。家常用法從洋蔥快炒、燴飯到簡易湯品都很實用，一人份份量也好拿捏。Bloom Kitchen 整理了多道一人份牛肉食譜，從便當到高蛋白主菜都能直接開做。",
+    "caloriesPer100g": 250,
+    "proteinPer100g": 26,
+    "fatPer100g": 15,
+    "carbsPer100g": 0,
+    "storage": "冷藏建議 1 到 2 天內料理；可分裝冷凍延長保存。",
+    "commonPairings": [
+      "洋蔥",
+      "青蔥",
+      "白飯",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "豬絲",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "high-protein-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "牛肉",
+      "en": "Beef",
+      "ja": "牛肉",
+      "ko": "소고기"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Beef brings rich flavor and solid protein, making it great for stir-fries, rice bowls, easy soups, and pan-seared meals for one.",
+        "intro": "For beef, thin slices or ground meat work well in quick stir-fries and lunch boxes, while thicker cuts suit pan-seared mains. Cook refrigerated beef within a day or two, or freeze in portions for later. At home it shines with onions, rice bowls, and simple soups. Bloom Kitchen has many one-serving beef recipes, from bento-friendly dishes to high-protein mains.",
+        "storage": "Use refrigerated beef within 1 to 2 days, or portion and freeze it for longer storage."
+      },
+      "ja": {
+        "description": "牛肉は旨みが強くタンパク質も豊富で、炒め物、丼、簡単なスープ、焼き物の一人分料理に向いています。",
+        "intro": "牛肉は薄切りや挽肉なら炒めや弁当向き、厚切りは焼き物の主菜に。冷蔵は1〜2日以内に使い、まとめ買いは小分け冷凍が安心です。玉ねぎ炒め、丼、簡単なスープなど家庭料理に幅広く使えます。Bloom Kitchen には一人分の牛肉レシピが揃っています。",
+        "storage": "冷蔵なら1〜2日以内に使い、長く保存したい場合は小分けして冷凍してください。"
+      },
+      "ko": {
+        "description": "소고기는 풍미가 진하고 단백질이 많아 볶음, 덮밥, 간단한 국물, 구이 한 끼 메뉴에 잘 어울립니다.",
+        "intro": "소고기는 얇게 썬 고기나 다진 고기는 볶음·도시락에, 두꺼운 부위는 구이 메인에 잘 맞습니다. 냉장은 1~2일 안에 조리하고, 미리 준비하려면 소분해 냉동하세요. 양파 볶음, 덮밥, 간단한 국물 등 집밥에 폭넓게 씁니다. Bloom Kitchen에는 1인분 소고기 레시피가 모여 있습니다.",
+        "storage": "냉장 보관한 소고기는 1~2일 안에 조리하고, 더 오래 보관하려면 소분해 냉동하세요."
+      }
+    }
+  },
+  {
+    "name": "雞胸肉",
+    "slug": "chicken-breast",
+    "aliases": [
+      "雞胸",
+      "雞胸料理",
+      "雞里肌",
+      "雞腿肉塊"
+    ],
+    "category": "肉類",
+    "description": "雞胸肉是高蛋白、低負擔的主蛋白來源，適合便當菜與減脂料理。",
+    "intro": "選購時以色澤淡粉、觸感彈性佳者為佳，冷藏約可保存兩天，當日不煮建議分裝冷凍。雞胸肉是高蛋白、低負擔的主菜選擇，適合煎烤、氣炸或與青花菜、菇類搭配做便當與減脂餐。Bloom Kitchen 有多道雞胸食譜，涵蓋氣炸、快炒與備餐便當，幫你輕鬆安排一週菜單。",
+    "caloriesPer100g": 165,
+    "proteinPer100g": 31,
+    "fatPer100g": 3.6,
+    "carbsPer100g": 0,
+    "storage": "冷藏可保存 2 天，若當日不煮建議分裝後冷凍。",
+    "commonPairings": [
+      "青花菜",
+      "菇類",
+      "白飯"
+    ],
+    "substitutes": [
+      "雞里肌",
+      "豆腐"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "bento-meals",
+      "weight-loss-meals",
+      "air-fryer-meals"
+    ],
+    "labels": {
+      "zh-TW": "雞胸肉",
+      "en": "Chicken breast",
+      "ja": "鶏むね肉",
+      "ko": "닭가슴살"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Chicken breast is a lean, high-protein staple that works well for lunch boxes and lighter everyday meals.",
+        "intro": "Look for pale pink color and firm, springy texture. It keeps in the fridge for about two days; if you will not cook it the same day, freeze it in portions. Chicken breast is a lean main protein for grilling, air-frying, or pairing with broccoli and mushrooms in bento and lighter meals. Bloom Kitchen has air-fryer, stir-fry, and meal-prep chicken breast recipes to help you plan the week.",
+        "storage": "Keep refrigerated for up to 2 days, and freeze in portions if you will not cook it the same day."
+      },
+      "ja": {
+        "description": "鶏むね肉は高タンパクで軽く食べやすい定番食材で、お弁当や軽めの食事に向いています。",
+        "intro": "淡いピンク色で弾力のあるものを選び、冷蔵では約2日保存できます。当日使わない場合は小分けして冷凍しましょう。鶏むね肉は高タンパクで軽い主菜に向き、焼く・フライパン炒め・エアフライヤー調理や、ブロッコリー・きのこと合わせたお弁当にも便利です。Bloom Kitchen にはエアフライヤー、炒め物、作り置き向けの鶏むねレシピが複数あります。",
+        "storage": "冷蔵で2日ほど保存でき、当日使わない場合は小分けして冷凍するのがおすすめです。"
+      },
+      "ko": {
+        "description": "닭가슴살은 고단백이면서 부담이 적은 대표 단백질 재료로, 도시락과 가벼운 식사에 잘 맞습니다.",
+        "intro": "연한 분홍색에 탄력이 있는 닭가슴살을 고르고, 냉장으로는 약 2일 보관할 수 있습니다. 당일 조리하지 않을 경우 소분해 냉동하세요. 닭가슴살은 구이, 에어프라이어, 볶음 등에 잘 맞는 고단백 주재료로, 브로콜리·버섯과 함께 도시락이나 가벼운 식사를 만들기 좋습니다. Bloom Kitchen에는 에어프라이어, 볶음, 밀프렙용 닭가슴살 레시피가 여러 가지 있습니다.",
+        "storage": "냉장으로는 2일 정도 보관 가능하며, 당일 조리하지 않을 경우 소분해 냉동하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "番茄",
+    "slug": "tomato",
+    "aliases": [
+      "牛番茄",
+      "番茄料理"
+    ],
+    "category": "蔬菜",
+    "description": "番茄有酸甜感，能快速替家常菜建立味道與濕潤度。",
+    "intro": "買番茄可挑表皮光滑、蒂頭新鮮且略帶彈性的，偏硬可先室溫催熟再冷藏，切記別壓傷以免出水變軟。炒蛋、燉豆腐或拌飯都能用自然酸甜汁水開味，十分鐘料理特別順手又好用。Bloom Kitchen 有多道番茄家常食譜，從清冰箱到一人晚餐都好找、好開做。",
+    "caloriesPer100g": 18,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 3.9,
+    "storage": "熟成後冷藏保存，避免壓傷；想保留風味可先放室溫再入冰箱。",
+    "commonPairings": [
+      "雞蛋",
+      "豆腐",
+      "白飯"
+    ],
+    "substitutes": [
+      "小番茄",
+      "番茄罐"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "番茄",
+      "en": "Tomato",
+      "ja": "トマト",
+      "ko": "토마토"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Tomatoes add acidity, sweetness, and moisture, helping simple home dishes come together quickly.",
+        "intro": "Choose tomatoes with smooth skin and fresh stems; firmer ones can ripen at room temperature before chilling, and handle them gently to avoid bruises. They brighten scrambled eggs, simmered tofu, and rice bowls with juicy acidity, especially in ten-minute meals. Bloom Kitchen offers plenty of tomato-forward home recipes, from fridge-cleanout dishes to solo dinners.",
+        "storage": "Refrigerate once ripe and avoid bruising; for better flavor, let tomatoes sit at room temperature before chilling."
+      },
+      "ja": {
+        "description": "トマトは酸味と甘み、水分を加えてくれるので、家庭料理の味を手早く整えやすい食材です。",
+        "intro": "表皮がなめらかでヘタが新鮮なものを選び、硬めなら室温で追熟してから冷蔵しましょう。傷つけない保存も大切です。卵炒め、豆腐煮、ご飯混ぜなど酸味で味を整えやすく、10分メニューにも向きます。Bloom Kitchen にはトマトを使った家庭向けレシピが揃っています。",
+        "storage": "熟したら冷蔵し、傷つけないように保存します。風味を残したいときは室温に置いてから冷蔵してください。"
+      },
+      "ko": {
+        "description": "토마토는 산미와 단맛, 촉촉함을 더해 간단한 집밥의 맛을 빠르게 잡아 주는 재료입니다.",
+        "intro": "표면이 매끈하고 줄기가 싱싱한 토마토를 고르고, 단단하면 실온에서 익힌 뒤 냉장하세요. 눌리지 않게 다루는 것도 중요합니다. 계란볶음, 두부 요리, 밥 비벼 먹기 등 산미로 맛을 빠르게 잡을 수 있어 10분 요리에도 잘 맞습니다. Bloom Kitchen에는 토마토 집밥 레시피가 모여 있습니다.",
+        "storage": "익은 뒤에는 냉장 보관하고 눌리지 않게 두세요. 풍미를 살리고 싶다면 잠시 실온에 두었다가 냉장하세요."
+      }
+    }
+  },
+  {
+    "name": "義大利麵",
+    "slug": "pasta",
+    "aliases": [
+      "義麵",
+      "spaghetti",
+      "乾麵"
+    ],
+    "category": "主食",
+    "description": "義大利麵是快煮又耐放的主食，適合蒜香、番茄或奶香醬汁的一人份晚餐。",
+    "intro": "選購時看包裝完整、麵條無破損變色；未開封放陰涼乾燥處，開封後務必密封防潮，才能維持彈牙口感。義大利麵煮法快、醬汁變化多，蒜香、番茄或奶油醬都適合一人在家快速開飯，尤其適合忙碌平日。Bloom Kitchen 也收錄多道義大利麵食譜，是預算有限又想兼顧風味的可靠主食選擇。",
+    "caloriesPer100g": 131,
+    "proteinPer100g": 5,
+    "fatPer100g": 1.1,
+    "carbsPer100g": 25,
+    "storage": "未開封放陰涼乾燥處；開封後密封保存，避免受潮。",
+    "commonPairings": [
+      "番茄",
+      "蒜頭",
+      "菇類"
+    ],
+    "substitutes": [
+      "烏龍麵",
+      "細麵"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "義大利麵",
+      "en": "Pasta",
+      "ja": "パスタ",
+      "ko": "파스타"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Pasta is quick to cook and easy to store, making it a dependable base for garlic, tomato, or creamy one-person dinners.",
+        "intro": "Choose pasta with intact packaging and unbroken strands. Store unopened boxes in a cool, dry place, and seal opened packages tightly to keep the noodles from getting soft. Pasta cooks fast and takes many sauces well—garlic, tomato, and cream are all easy wins for a solo weeknight meal. Bloom Kitchen also collects several pasta recipes, making it a reliable staple when you want something quick and budget-friendly.",
+        "storage": "Store unopened pasta in a cool, dry place; once opened, seal it tightly to keep out moisture."
+      },
+      "ja": {
+        "description": "パスタは調理が早く保存もしやすいため、にんにく、トマト、クリーム系の一人分夕食に便利な主食です。",
+        "intro": "選ぶときは包装がきちんとして麺が折れていないものを。未開封は冷暗所、開封後は湿気を避けてしっかり密封すると、茹で上がりの歯ごたえを保てます。調理が早くソースの幅も広いので、にんにく、トマト、クリーム系は忙しい平日の一人分夕食に向いています。Bloom Kitchen でも複数のパスタレシピを掲載しているので、手早くてコストを抑えたいときの頼れる主食です。",
+        "storage": "未開封は冷暗所、開封後は湿気を避けてしっかり密封して保存してください。"
+      },
+      "ko": {
+        "description": "파스타는 빨리 익고 보관도 쉬워 마늘, 토마토, 크림 소스 계열의 1인 저녁에 쓰기 좋은 주식입니다.",
+        "intro": "고를 때는 포장이 온전하고 면이 부러지지 않은 것을 선택하세요. 개봉 전에는 서늘하고 건조한 곳에 두고, 개봉 후에는 밀봉해 습기를 막아야 쫄깃한 식감을 유지할 수 있습니다. 파스타는 조리가 빠르고 소스 변주도 많아 마늘, 토마토, 크림 소스 모두 1인 저녁에 잘 맞습니다. Bloom Kitchen에도 여러 파스타 레시피가 있어, 바쁜 평일에 빠르고 부담 적게 식사를 마치고 싶을 때 믿고 쓸 주식입니다.",
+        "storage": "개봉 전에는 서늘하고 건조한 곳에 두고, 개봉 후에는 밀봉해 습기를 피하세요."
+      }
+    }
+  },
+  {
+    "name": "麵條",
+    "slug": "noodles",
+    "aliases": [
+      "油麵",
+      "泡麵麵"
+    ],
+    "category": "主食",
+    "description": "麵條是台灣家常湯麵、牛肉麵與紅燒麵常用的主食，煮軟後搭配肉湯或醬汁即可上桌。",
+    "caloriesPer100g": 138,
+    "proteinPer100g": 4.5,
+    "fatPer100g": 1.5,
+    "carbsPer100g": 27,
+    "storage": "未開封放陰涼乾燥處；開封後密封保存，避免受潮結塊。",
+    "commonPairings": [
+      "牛肉",
+      "番茄",
+      "青蔥"
+    ],
+    "substitutes": [
+      "烏龍麵",
+      "關廟麵",
+      "義大利麵"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "麵條",
+      "en": "Noodles",
+      "ja": "麺",
+      "ko": "국수"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Noodles are a familiar staple for soups and saucy dishes, and they turn into an easy meal once paired with broth or seasoning.",
+        "storage": "Keep unopened noodles in a cool, dry place, and seal them well after opening to prevent moisture and clumping."
+      },
+      "ja": {
+        "description": "麺は汁物や味つけ麺に使いやすい定番主食で、スープやたれと合わせるだけで一食になります。",
+        "storage": "未開封は冷暗所で、開封後は湿気による固まりを防ぐためにしっかり密封してください。"
+      },
+      "ko": {
+        "description": "국수는 국물 요리와 양념 면에 두루 쓰이는 기본 주식으로, 육수나 양념만 있으면 한 끼로 만들기 쉽습니다.",
+        "storage": "개봉 전에는 서늘하고 건조한 곳에 보관하고, 개봉 후에는 습기와 뭉침을 막도록 잘 밀봉하세요."
+      }
+    }
+  },
+  {
+    "name": "烏龍麵",
+    "slug": "udon",
+    "aliases": [
+      "烏龍"
+    ],
+    "category": "主食",
+    "description": "烏龍麵口感厚實、耐煮，適合湯麵、炒麵與一人份暖胃晚餐。",
+    "caloriesPer100g": 105,
+    "proteinPer100g": 3.5,
+    "fatPer100g": 0.5,
+    "carbsPer100g": 22,
+    "storage": "未開封放陰涼乾燥處；開封後密封冷藏並盡快食用。",
+    "commonPairings": [
+      "牛肉",
+      "菇類",
+      "青蔥"
+    ],
+    "substitutes": [
+      "麵條",
+      "關廟麵"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "烏龍麵",
+      "en": "Udon",
+      "ja": "うどん",
+      "ko": "우동"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Udon has a satisfying chew and holds up well in soups, stir-fries, and cozy one-person dinners.",
+        "storage": "Keep unopened udon in a cool, dry place; refrigerate after opening and use it soon."
+      },
+      "ja": {
+        "description": "うどんは厚みのある食感でのびにくく、汁物、焼きうどん、温かい一人分の食事に向いています。",
+        "storage": "未開封は冷暗所、開封後は密封して冷蔵し、早めに使い切ってください。"
+      },
+      "ko": {
+        "description": "우동은 두툼하고 쫄깃한 식감이 있어 국물, 볶음, 따뜻한 1인분 식사에 잘 어울립니다.",
+        "storage": "개봉 전에는 서늘하고 건조한 곳에 두고, 개봉 후에는 밀봉해 냉장 보관하며 빨리 드세요."
+      }
+    }
+  },
+  {
+    "name": "關廟麵",
+    "slug": "guanmiao-noodles",
+    "aliases": [
+      "關廟麵條"
+    ],
+    "category": "主食",
+    "description": "關廟麵是台南常見的乾麵品項，煮軟後拌醬或入湯都很適合家常料理。",
+    "caloriesPer100g": 140,
+    "proteinPer100g": 4.8,
+    "fatPer100g": 1.2,
+    "carbsPer100g": 28,
+    "storage": "未開封放陰涼乾燥處；開封後密封保存，避免受潮。",
+    "commonPairings": [
+      "牛肉",
+      "蒜頭",
+      "青蔥"
+    ],
+    "substitutes": [
+      "麵條",
+      "烏龍麵"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "關廟麵",
+      "en": "Guanmiao noodles",
+      "ja": "関廟麺",
+      "ko": "관묘면"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Guanmiao noodles are a classic Tainan-style dried noodle that works well in simple soups or tossed noodle dishes.",
+        "storage": "Store unopened noodles in a cool, dry place; once opened, seal them tightly to protect them from moisture."
+      },
+      "ja": {
+        "description": "関廟麺は台南で親しまれる乾麺で、和え麺にも汁麺にも使いやすい家庭向けの主食です。",
+        "storage": "未開封は冷暗所、開封後は湿気を避けてしっかり密封してください。"
+      },
+      "ko": {
+        "description": "관묘면은 타이난에서 친숙한 건면으로, 비빔면과 국물면 모두에 잘 어울리는 집밥용 면입니다.",
+        "storage": "개봉 전에는 서늘하고 건조한 곳에 두고, 개봉 후에는 습기를 막도록 잘 밀봉하세요."
+      }
+    }
+  },
+  {
+    "name": "白飯",
+    "slug": "rice",
+    "aliases": [
+      "剩飯",
+      "米飯",
+      "白米"
+    ],
+    "category": "主食",
+    "description": "白飯是最常見的主食基底，也很適合延伸成快炒飯、拌飯與便當。",
+    "intro": "新米與隔夜飯各有用途：現煮白飯適合作為主餐基底，剩飯則最適合快炒成炒飯。煮熟後請放涼再冷藏，並在一天內回鍋，風味與口感最佳。白飯可延伸成拌飯、便當或與雞蛋、番茄、雞胸肉快速組合。Bloom Kitchen 收錄多道以白飯為起點的一人料理與便當食譜，方便你清冰箱也能吃得飽足。",
+    "caloriesPer100g": 130,
+    "proteinPer100g": 2.7,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 28,
+    "storage": "煮熟後放涼再冷藏，1 天內回鍋風味最佳。",
+    "commonPairings": [
+      "雞蛋",
+      "番茄",
+      "雞胸肉"
+    ],
+    "substitutes": [
+      "糙米飯",
+      "烏龍麵"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "白飯",
+      "en": "Cooked rice",
+      "ja": "ご飯",
+      "ko": "밥"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Cooked rice is one of the most dependable staples and works well for fried rice, rice bowls, and lunch boxes.",
+        "intro": "Freshly cooked rice and day-old rice each have a role: new rice is a reliable base for main meals, while leftovers are ideal for fried rice. Let cooked rice cool before refrigerating and reheat it within a day for the best texture. Rice stretches into rice bowls, bento, or quick combos with eggs, tomato, and chicken breast. Bloom Kitchen has solo and lunch-box recipes that start from cooked rice, even when you are clearing the fridge.",
+        "storage": "Let cooked rice cool before refrigerating, and reheat it within a day for the best texture and flavor."
+      },
+      "ja": {
+        "description": "ご飯は最も定番の主食で、炒飯、丼、お弁当など幅広い料理の土台になります。",
+        "intro": "炊きたてご飯と余りご飯は使い分けが便利で、新米は主菜の土台に、余りご飯は炒飯向きです。炊いたご飯は冷ましてから冷蔵し、1日以内に温め直すと風味と食感が保ちやすいです。ご飯は丼、お弁当、卵・トマト・鶏むね肉との組み合わせにも広がります。Bloom Kitchen にはご飯を起点にした一人分料理やお弁当レシピが複数あります。",
+        "storage": "炊いたご飯は冷ましてから冷蔵し、1日以内に温め直すと風味が保ちやすいです。"
+      },
+      "ko": {
+        "description": "밥은 가장 기본이 되는 주식으로, 볶음밥, 덮밥, 도시락까지 다양하게 활용할 수 있습니다.",
+        "intro": "갓 지은 밥과 남은 밥은 용도가 다릅니다. 새 밥은 주식 베이스로, 남은 밥은 볶음밥에 잘 맞습니다. 지은 밥은 식힌 뒤 냉장 보관하고 하루 안에 다시 데우면 맛과 식감이 가장 좋습니다. 밥은 덮밥, 도시락, 달걀·토마토·닭가슴살과 빠르게 조합할 수 있습니다. Bloom Kitchen에는 밥을 출발점으로 한 1인 요리와 도시락 레시피가 여러 가지 있습니다.",
+        "storage": "지은 밥은 식힌 뒤 냉장 보관하고, 하루 안에 다시 데워 먹는 것이 맛과 식감이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "青蔥",
+    "slug": "scallion",
+    "aliases": [
+      "蔥",
+      "蔥花"
+    ],
+    "category": "蔬菜",
+    "description": "青蔥能快速補香氣，讓簡單料理更有完成感。",
+    "caloriesPer100g": 32,
+    "proteinPer100g": 1.8,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 7.3,
+    "storage": "包上廚房紙巾後冷藏，可延長新鮮度並減少水氣。",
+    "commonPairings": [
+      "雞蛋",
+      "豆腐",
+      "雞胸肉"
+    ],
+    "substitutes": [
+      "洋蔥",
+      "蒜頭"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "青蔥",
+      "en": "Scallion",
+      "ja": "ねぎ",
+      "ko": "대파"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Scallions add fragrance fast and make simple dishes feel more complete with very little effort.",
+        "storage": "Wrap scallions in a paper towel and refrigerate them to extend freshness and reduce excess moisture."
+      },
+      "ja": {
+        "description": "ねぎは香りをすばやく足してくれるので、簡単な料理でも仕上がり感を出しやすい食材です。",
+        "storage": "キッチンペーパーで包んで冷蔵すると、鮮度が保ちやすく水気も抑えられます。"
+      },
+      "ko": {
+        "description": "대파는 향을 빠르게 더해 주어 간단한 요리도 완성도 있게 느껴지게 해 주는 재료입니다.",
+        "storage": "키친타월로 감싸 냉장 보관하면 신선함이 더 오래 가고 수분도 덜 찹니다."
+      }
+    }
+  },
+  {
+    "name": "菇類",
+    "slug": "mushroom",
+    "aliases": [
+      "蘑菇",
+      "香菇",
+      "杏鮑菇",
+      "鴻喜菇"
+    ],
+    "category": "蔬菜",
+    "description": "菇類能補足鮮味，常用在便當菜、電鍋料理和減脂菜色。",
+    "intro": "選購時挑表面乾爽、菌柄硬挺且無黏液或異味的菇類；冷藏時用紙巾吸乾後裝在通風的紙袋或保鮮盒，避免悶住出水而口感變軟。家常適合快炒、電鍋燉煮或與雞胸肉同煮增加鮮味，也是便當與減脂菜色的常用配料。Bloom Kitchen 收錄多道菇類食譜，方便你清冰箱時快速上桌。",
+    "caloriesPer100g": 22,
+    "proteinPer100g": 3.1,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 3.3,
+    "storage": "冷藏保存並保持乾燥，避免悶住後出水影響口感。",
+    "commonPairings": [
+      "雞胸肉",
+      "高麗菜",
+      "青花菜"
+    ],
+    "substitutes": [
+      "杏鮑菇",
+      "洋蔥"
+    ],
+    "relatedScenarios": [
+      "bento-meals",
+      "weight-loss-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "菇類",
+      "en": "Mushrooms",
+      "ja": "きのこ",
+      "ko": "버섯"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Mushrooms deepen savory flavor and show up often in lunch boxes, electric-pot meals, and lighter dishes.",
+        "intro": "Choose mushrooms that feel dry and firm, with no slimy film or off smell. Pat them dry, then store them in a ventilated paper bag or container so they do not sweat and turn soft. At home, they are great in quick stir-fries, electric-pot stews, or cooked with chicken breast for extra savor. Bloom Kitchen also lists several mushroom recipes, which makes them an easy way to use up what is in the fridge.",
+        "storage": "Keep mushrooms refrigerated and dry, since trapped moisture will make them release water and lose texture."
+      },
+      "ja": {
+        "description": "きのこはうま味を補いやすく、お弁当、電気鍋料理、軽めの献立によく使われます。",
+        "intro": "選ぶときは表面が乾いて茎がしっかりし、ねばつきや異臭がないものを。水気を拭き取り、通気のよい紙袋か保存容器に入れて冷蔵し、蒸れて水が出ないようにしてください。家庭では炒め物、電気鍋の煮込み、鶏むね肉との合わせ煮でうま味を足しやすく、お弁当や軽めの献立にも向きます。Bloom Kitchen でも複数のきのこレシピを掲載しているので、冷蔵庫整理のときにすぐ使えます。",
+        "storage": "冷蔵しつつ乾いた状態を保ち、水気がこもって食感が落ちないようにしてください。"
+      },
+      "ko": {
+        "description": "버섯은 감칠맛을 더해 주어 도시락 반찬, 전기냄비 요리, 가벼운 식단에 자주 쓰입니다.",
+        "intro": "고를 때는 표면이 건조하고 줄기가 단단하며 끈적임이나 이상한 냄새가 없는 것을 선택하세요. 키친타월로 물기를 닦은 뒤 통풍이 되는 종이봉투나 용기에 넣어 냉장하면, 습기가 차서 물이 생기는 것을 줄일 수 있습니다. 집에서는 볶음, 전기냄비 찜, 닭가슴살과 함께 끓여 감칠맛을 더하기 좋고 도시락이나 가벼운 식단에도 자주 쓰입니다. Bloom Kitchen에도 여러 버섯 레시피가 있어 냉장고 정리 때 빠르게 활용하기 좋습니다.",
+        "storage": "냉장 보관하되 건조하게 유지하세요. 수분이 차면 물이 생기고 식감이 떨어집니다."
+      }
+    }
+  },
+  {
+    "name": "青花菜",
+    "slug": "broccoli",
+    "aliases": [
+      "綠花椰",
+      "青花椰",
+      "花椰菜"
+    ],
+    "category": "蔬菜",
+    "description": "青花菜常出現在便當菜與減脂料理，能補足纖維和份量感。",
+    "intro": "挑選時花冠緊密、莖部硬挺且色澤翠綠的青花菜較耐放；冷藏前保持乾燥、料理前再清洗，可減少出水與莖部變黃。家常適合清燙、氣炸或與雞胸肉同炒做成便當主菜，也是減脂餐的常用配菜。Bloom Kitchen 也收錄多道青花菜食譜，幫你輕鬆補足纖維與飽足感。",
+    "caloriesPer100g": 35,
+    "proteinPer100g": 2.8,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 7.2,
+    "storage": "冷藏保存時先保持乾燥，料理前再清洗能延長保存。",
+    "commonPairings": [
+      "雞胸肉",
+      "菇類",
+      "白飯"
+    ],
+    "substitutes": [
+      "高麗菜",
+      "花椰菜"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "bento-meals",
+      "weight-loss-meals",
+      "air-fryer-meals"
+    ],
+    "labels": {
+      "zh-TW": "青花菜",
+      "en": "Broccoli",
+      "ja": "ブロッコリー",
+      "ko": "브로콜리"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Broccoli is a favorite in lunch boxes and lighter meals because it adds fiber, color, and satisfying volume.",
+        "intro": "Look for broccoli with tight florets, firm stems, and bright green color. Keep it dry in the refrigerator and wash it just before cooking so it holds up longer and the stems stay fresh. At home, blanching, air-frying, or stir-frying it with chicken breast makes an easy lunch-box main, and it is a common side in lighter meals. Bloom Kitchen also lists several broccoli recipes to help you add fiber and filling volume without much fuss.",
+        "storage": "Keep broccoli dry in the refrigerator, and wash it only before cooking to help it last longer."
+      },
+      "ja": {
+        "description": "ブロッコリーは食物繊維とボリューム感を足しやすく、お弁当や軽めの食事によく合います。",
+        "intro": "選ぶときは房が固く、茎がしっかりし、色が鮮やかな緑のものが日持ちしやすいです。冷蔵中は乾いた状態を保ち、洗うのは調理直前にすると水が出にくく、茎の黄ばみも抑えやすくなります。家庭では下茹で、エアフライヤー、鶏むね肉との炒め合わせがお弁当の主菜にも向き、軽めの献立の定番野菜です。Bloom Kitchen でも複数のブロッコリーレシピを掲載しているので、食物繊維と満足感を無理なく足せます。",
+        "storage": "冷蔵中は乾いた状態を保ち、洗うのは調理直前にすると長持ちしやすくなります。"
+      },
+      "ko": {
+        "description": "브로콜리는 식이섬유와 푸짐한 느낌을 더해 주어 도시락과 가벼운 식사에 자주 쓰입니다.",
+        "intro": "고를 때는 송이가 촘촘하고 줄기가 단단하며 색이 선명한 녹색인 브로콜리가 오래 갑니다. 냉장할 때는 건조하게 두고, 씻는 것은 조리 직전에 하면 물기가 덜 나와 줄기 변색도 줄일 수 있습니다. 집에서는 데치기, 에어프라이어, 닭가슴살과의 볶음이 도시락 메인으로도 좋고 가벼운 식단의 기본 반찬으로도 자주 쓰입니다. Bloom Kitchen에도 여러 브로콜리 레시피가 있어 식이섬유와 포만감을 쉽게 더할 수 있습니다.",
+        "storage": "냉장 보관할 때는 물기를 최대한 줄이고, 씻는 것은 조리 직전에 하는 편이 더 오래 갑니다."
+      }
+    }
+  },
+  {
+    "name": "高麗菜",
+    "slug": "cabbage",
+    "aliases": [
+      "高麗菜絲",
+      "高麗菜料理"
+    ],
+    "category": "蔬菜",
+    "description": "高麗菜耐放又好搭，適合快炒、湯煮與清冰箱料理。",
+    "intro": "挑選時以葉片緊實、色澤新鮮為佳，整顆包保鮮膜冷藏可放較久；切開後請先包好並在三天內用完。高麗菜耐放又好搭，適合快炒、燉湯或與雞蛋、蒜頭、菇類一起做清冰箱料理。Bloom Kitchen 收錄多道高麗菜家常菜，從簡單小炒到便當配菜都能找到靈感。",
+    "caloriesPer100g": 25,
+    "proteinPer100g": 1.3,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 5.8,
+    "storage": "整顆冷藏保濕可放較久，切開後建議先包好並在 3 天內用完。",
+    "commonPairings": [
+      "雞蛋",
+      "蒜頭",
+      "菇類"
+    ],
+    "substitutes": [
+      "白菜",
+      "青花菜"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "高麗菜",
+      "en": "Cabbage",
+      "ja": "キャベツ",
+      "ko": "양배추"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Cabbage stores well and pairs with almost anything, making it a dependable choice for stir-fries, soups, and fridge-cleanout meals.",
+        "intro": "Choose heads with tight, fresh-looking leaves. A whole cabbage keeps well wrapped in the fridge; once cut, wrap it and use it within about three days. Cabbage is great for stir-fries, soups, or fridge-cleanout dishes with eggs, garlic, and mushrooms. Bloom Kitchen has many cabbage home recipes, from simple stir-fries to lunch-box sides.",
+        "storage": "A whole cabbage keeps well in the refrigerator; once cut, wrap it and use it within about 3 days."
+      },
+      "ja": {
+        "description": "キャベツは日持ちしやすく合わせやすいため、炒め物、スープ、冷蔵庫整理メニューに便利です。",
+        "intro": "葉がしっかり締まり、色が新鮮なものを選びましょう。丸ごとはラップで包んで冷蔵すれば比較的長持ちします。切った後は包んで3日ほどで使い切るのがおすすめです。キャベツは炒め物、スープ、卵・にんにく・きのこと合わせた冷蔵庫整理料理に向きます。Bloom Kitchen には簡単な炒め物からお弁当の副菜まで、キャベツを使った家庭料理レシピが複数あります。",
+        "storage": "丸ごとなら冷蔵で比較的長持ちします。切った後は包んで、3日ほどで使い切るのがおすすめです。"
+      },
+      "ko": {
+        "description": "양배추는 오래 두기 쉽고 어디에나 잘 어울려 볶음, 국물, 냉장고 털기 요리에 좋은 기본 채소입니다.",
+        "intro": "잎이 단단하고 색이 선명한 양배추를 고르세요. 통째로는 랩에 싸 냉장 보관하면 비교적 오래 갑니다. 자른 뒤에는 잘 감싸 3일 안에 쓰는 것이 좋습니다. 양배추는 볶음, 국물, 달걀·마늘·버섯과 함께하는 냉장고 털기 요리에 잘 맞습니다. Bloom Kitchen에는 간단한 볶음부터 도시락 반찬까지 양배추를 활용한 집밥 레시피가 여러 가지 있습니다.",
+        "storage": "통째로는 냉장 보관 시 비교적 오래 가고, 자른 뒤에는 잘 감싸서 3일 안에 쓰는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "洋蔥",
+    "slug": "onion",
+    "aliases": [
+      "白洋蔥",
+      "黃洋蔥"
+    ],
+    "category": "蔬菜",
+    "description": "洋蔥能提供甜味和香氣，是平底鍋快炒、氣炸鍋與湯品的常見底味。",
+    "intro": "洋蔥挑外皮乾爽、手感沉的較耐放，整顆放陰涼通風處即可；切半後記得包保鮮膜冷藏並儘快用完，避免潮氣跑掉甜味。切絲快炒、氣炸配菜或當湯品底味，都能帶出自然甜味與香氣。Bloom Kitchen 收錄多道以洋蔥入味的家常食譜，快手晚餐也很好安排。",
+    "caloriesPer100g": 40,
+    "proteinPer100g": 1.1,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 9.3,
+    "storage": "完整洋蔥放陰涼通風處即可，切開後改冷藏並盡快使用。",
+    "commonPairings": [
+      "雞蛋",
+      "番茄",
+      "鮭魚"
+    ],
+    "substitutes": [
+      "青蔥",
+      "蒜頭"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "air-fryer-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "洋蔥",
+      "en": "Onion",
+      "ja": "玉ねぎ",
+      "ko": "양파"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Onions bring sweetness and aroma, making them a strong flavor base for skillet dishes, air fryer meals, and soups.",
+        "intro": "Pick onions with dry, tight skins and a heavy feel for better keeping; store whole ones in a ventilated spot. Once cut, wrap and refrigerate them, then use them soon before they lose moisture. Sliced onions work well in quick stir-fries, air-fryer sides, and soup bases that build natural sweetness. Bloom Kitchen has many home-style recipes built around onions for easy weeknight cooking.",
+        "storage": "Store whole onions in a cool, ventilated place; refrigerate cut onions and use them soon."
+      },
+      "ja": {
+        "description": "玉ねぎは甘みと香りを出してくれるので、フライパン料理、エアフライヤー料理、スープの土台に向いています。",
+        "intro": "外皮が乾いて重みのある玉ねぎは日持ちしやすく、丸ごと風通しのよい場所で保存できます。切ったらラップして冷蔵し、早めに使いましょう。千切り炒め、エアフライヤー副菜、スープの土台など甘みを活かせます。Bloom Kitchen には玉ねぎを使った家庭向けレシピが揃っています。",
+        "storage": "丸ごとは風通しのよい冷暗所で保存し、切った後は冷蔵して早めに使ってください。"
+      },
+      "ko": {
+        "description": "양파는 단맛과 향을 더해 팬 요리, 에어프라이어 요리, 국물 요리의 바탕 맛을 잡아 줍니다.",
+        "intro": "껍질이 건조하고 무게감 있는 양파가 오래 가며, 통째로는 통풍이 되는 곳에 두면 됩니다. 자른 뒤에는 랩을 씌워 냉장해 빨리 쓰세요. 채 썰어 볶거나 에어프라이어 반찬, 국물 바탕 등 단맛을 살리기 좋습니다. Bloom Kitchen에는 양파를 활용한 집밥 레시피가 모여 있습니다.",
+        "storage": "통양파는 서늘하고 통풍이 되는 곳에 두고, 자른 양파는 냉장 보관 후 빨리 사용하세요."
+      }
+    }
+  },
+  {
+    "name": "紅蘿蔔",
+    "slug": "carrot",
+    "aliases": [
+      "胡蘿蔔"
+    ],
+    "category": "蔬菜",
+    "description": "紅蘿蔔耐放、好切配，適合湯品、便當配菜與家常炒菜，能帶出自然甜味。",
+    "caloriesPer100g": 41,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 9.6,
+    "storage": "去除表面水氣後冷藏保存，可延長脆度與甜味。",
+    "commonPairings": [
+      "雞胸肉",
+      "洋蔥",
+      "牛肉"
+    ],
+    "substitutes": [
+      "南瓜",
+      "馬鈴薯"
+    ],
+    "relatedScenarios": [
+      "bento-meals",
+      "budget-meals",
+      "weight-loss-meals"
+    ],
+    "labels": {
+      "zh-TW": "紅蘿蔔",
+      "en": "Carrot",
+      "ja": "にんじん",
+      "ko": "당근"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Carrots keep well, are easy to prep, and add gentle sweetness to soups, stir-fries, and lunch box sides.",
+        "storage": "Dry the surface before refrigerating to help preserve both crunch and sweetness."
+      },
+      "ja": {
+        "description": "にんじんは日持ちしやすく切りやすいため、スープ、お弁当の副菜、家庭の炒め物に使いやすい野菜です。",
+        "storage": "表面の水気を取ってから冷蔵すると、歯ざわりと甘みを保ちやすくなります。"
+      },
+      "ko": {
+        "description": "당근은 오래 두기 쉽고 손질도 쉬워 국, 도시락 반찬, 집반찬 볶음에 자주 쓰이는 채소입니다.",
+        "storage": "겉면의 물기를 제거한 뒤 냉장 보관하면 아삭함과 단맛을 더 오래 유지할 수 있습니다."
+      }
+    }
+  },
+  {
+    "name": "蘿蔔",
+    "slug": "daikon",
+    "aliases": [
+      "白蘿蔔",
+      "大根"
+    ],
+    "category": "蔬菜",
+    "description": "蘿蔔（白蘿蔔）清甜多汁，適合燉湯、滷煮與泡菜配菜的一人份料理。",
+    "caloriesPer100g": 18,
+    "proteinPer100g": 0.6,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 4.1,
+    "storage": "整根冷藏可放較久；切開後建議包好並在 3 天內用完。",
+    "commonPairings": [
+      "牛肉",
+      "高麗菜",
+      "菇類"
+    ],
+    "substitutes": [
+      "南瓜",
+      "高麗菜"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "蘿蔔",
+      "en": "Daikon radish",
+      "ja": "大根",
+      "ko": "무"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Daikon radish is juicy and mildly sweet, making it a good fit for soups, braises, and simple side dishes.",
+        "storage": "Whole daikon lasts well in the refrigerator; once cut, wrap it and finish it within about 3 days."
+      },
+      "ja": {
+        "description": "大根はみずみずしくやさしい甘みがあり、煮物、スープ、漬け物風の副菜に向いています。",
+        "storage": "丸ごとなら冷蔵で比較的長持ちし、切った後は包んで3日ほどで使い切ってください。"
+      },
+      "ko": {
+        "description": "무는 수분이 많고 은은한 단맛이 있어 국물, 조림, 간단한 반찬에 잘 어울립니다.",
+        "storage": "통째로는 냉장 보관 시 비교적 오래 가고, 자른 뒤에는 잘 감싸 3일 안에 사용하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "蒜頭",
+    "slug": "garlic",
+    "aliases": [
+      "大蒜",
+      "蒜末"
+    ],
+    "category": "辛香料",
+    "description": "蒜頭能快速拉高香氣層次，是清冰箱快炒與高蛋白主菜的好幫手。",
+    "intro": "挑蒜頭宜選外皮乾燥、球體飽滿且無發芽者，整顆放陰涼通風處即可；剝皮切末後香氣易散，建議現切現用才最香。平底鍋爆香、拌炒高麗菜或菇類，都能快速把剩菜變成有層次的一人餐。Bloom Kitchen 收錄多道以蒜頭入味的快手食譜，清冰箱也快上手。",
+    "caloriesPer100g": 149,
+    "proteinPer100g": 6.4,
+    "fatPer100g": 0.5,
+    "carbsPer100g": 33,
+    "storage": "未剝皮蒜頭放陰涼通風處即可，切碎後建議盡快使用。",
+    "commonPairings": [
+      "高麗菜",
+      "菇類",
+      "雞胸肉"
+    ],
+    "substitutes": [
+      "洋蔥",
+      "薑末"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "fridge-cleanout-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "蒜頭",
+      "en": "Garlic",
+      "ja": "にんにく",
+      "ko": "마늘"
+    },
+    "categoryLabels": {
+      "zh-TW": "辛香料",
+      "en": "Aromatics & spices",
+      "ja": "香味野菜・スパイス",
+      "ko": "향신료"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Garlic quickly boosts aroma and depth, making it a reliable helper for stir-fries and protein-forward main dishes.",
+        "intro": "Choose garlic with dry outer skins and firm, full bulbs; whole heads keep well in a cool, ventilated spot. Once peeled and minced, the aroma fades fast, so prep it right before cooking. A quick sizzle in the pan lifts leftover cabbage, mushrooms, and other fridge finds into a layered one-person meal. Bloom Kitchen has many fast garlic-forward recipes for easy clean-out cooking.",
+        "storage": "Keep whole garlic in a cool, ventilated place, and use chopped garlic as soon as possible."
+      },
+      "ja": {
+        "description": "にんにくは香りの層を手早く増やしてくれるので、炒め物やタンパク質メインの料理に欠かせません。",
+        "intro": "外皮が乾いて球全体がしっかりしたにんにくを選び、皮つきのまま風通しのよい場所で保存できます。剥いて刻んだら香りが逃げやすいので、使う直前に下ごしらえしましょう。フライパンで香りを出してキャベツやきのこと炒めれば、残り物も一人分の料理に。Bloom Kitchen にはにんにくを効かせた時短レシピが揃っています。",
+        "storage": "皮つきのままなら風通しのよい場所で保存し、刻んだ後は早めに使い切ってください。"
+      },
+      "ko": {
+        "description": "마늘은 향과 풍미를 빠르게 끌어올려 주어 볶음 요리와 단백질 메인 메뉴에 특히 유용합니다.",
+        "intro": "껍질이 건조하고 알이 단단한 마늘을 고르고, 통째로는 서늘하고 통풍이 되는 곳에 두면 됩니다. 까서 다진 뒤에는 향이 빨리 날아가므로 바로 조리하세요. 팬에 볶아 양배추나 버섯과 함께 쓰면 남은 재료도 한 끼로 정리하기 좋습니다. Bloom Kitchen에는 마늘 향을 살린 빠른 레시피가 모여 있습니다.",
+        "storage": "껍질째는 서늘하고 통풍이 되는 곳에 두고, 다진 뒤에는 가능한 빨리 사용하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "蝦仁",
+    "slug": "shrimp",
+    "aliases": [
+      "白蝦",
+      "蝦子",
+      "去殼蝦仁"
+    ],
+    "category": "海鮮",
+    "description": "蝦仁加熱快、風味鮮甜，適合蒜香、青醬或清炒類的義大利麵與快手主菜。",
+    "intro": "選購時挑蝦身彈性佳、殼面完整且無異味的蝦仁；冷藏最好當天料理，若要週末備餐可先分裝冷凍，解凍後盡快下鍋避免口感變軟。家常以蒜香炒蝦、清炒時蔬或搭番茄義大利麵最實用，Bloom Kitchen 也收錄多道蝦仁快手食譜，方便你快速完成高蛋白的一人份晚餐。",
+    "caloriesPer100g": 99,
+    "proteinPer100g": 24,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 0.2,
+    "storage": "冷藏建議當天料理；若需保存可先分裝冷凍，解凍後盡快烹調。",
+    "commonPairings": [
+      "蒜頭",
+      "義大利麵",
+      "青花菜"
+    ],
+    "substitutes": [
+      "鮭魚",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "high-protein-meals"
+    ],
+    "labels": {
+      "zh-TW": "蝦仁",
+      "en": "Shrimp",
+      "ja": "えび",
+      "ko": "새우"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Shrimp cooks quickly and has a naturally sweet seafood flavor, making it great for garlic pasta, pesto dishes, and fast mains.",
+        "intro": "Choose shrimp that feel springy and intact, with no strong off smell. Refrigerate and cook them the same day when you can, or freeze them in portions for weekend prep and cook right after thawing so they stay firm. At home, garlic stir-fry, quick vegetable sautés, and tomato pasta are the most practical paths. Bloom Kitchen also lists several fast shrimp recipes to help you finish a high-protein dinner for one.",
+        "storage": "Cook refrigerated shrimp the same day when possible, or freeze it in portions and cook promptly after thawing."
+      },
+      "ja": {
+        "description": "えびは火の通りが早く甘みもあり、にんにく系やジェノベーゼのパスタ、手早い主菜に向いています。",
+        "intro": "選ぶときは身が弾力があり、殻や見た目がきれいで異臭がないものを。冷蔵ならできるだけ当日に調理し、週末向けに備えるなら小分け冷凍して、解凍後はすぐ加熱すると食感が保てます。家庭ではにんにく炒め、野菜のさっと炒め、トマトパスタが特に使いやすく、Bloom Kitchen でも複数のえびレシピを掲載しているので、高たんぱくな一人分夕食をすぐ作れます。",
+        "storage": "冷蔵ならできるだけ当日に調理し、保存する場合は小分け冷凍して解凍後はすぐ加熱してください。"
+      },
+      "ko": {
+        "description": "새우는 익는 속도가 빠르고 단맛이 좋아 마늘 파스타, 페스토 요리, 간단한 메인 메뉴에 잘 맞습니다.",
+        "intro": "고를 때는 탄력 있고 껍질 상태가 좋으며 이상한 냄새가 없는 새우를 선택하세요. 냉장 보관은 가능한 한 당일 조리하고, 주말용으로 미리 준비하려면 소분 냉동한 뒤 해동 후 바로 익혀야 식감이 유지됩니다. 집에서는 마늘 볶음, 채소 빠른 볶음, 토마토 파스타가 특히 실용적이며 Bloom Kitchen에도 여러 새우 레시피가 있어 고단백 1인 저녁을 빠르게 완성할 수 있습니다.",
+        "storage": "냉장 새우는 가능한 한 당일 조리하고, 보관이 필요하면 소분 냉동한 뒤 해동 후 바로 익히세요."
+      }
+    }
+  },
+  {
+    "name": "鮭魚",
+    "slug": "salmon",
+    "aliases": [
+      "鮭魚排",
+      "鮭魚料理",
+      "鮭魚丁",
+      "鮭魚煎片"
+    ],
+    "category": "海鮮",
+    "description": "鮭魚適合做成簡單主菜，搭配氣炸鍋或烤箱就能快速完成一餐。",
+    "caloriesPer100g": 208,
+    "proteinPer100g": 20,
+    "fatPer100g": 13,
+    "carbsPer100g": 0,
+    "storage": "冷藏建議當天或隔天料理，若要延後食用可先分裝冷凍。",
+    "commonPairings": [
+      "青花菜",
+      "洋蔥",
+      "白飯"
+    ],
+    "substitutes": [
+      "鯖魚",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "air-fryer-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "鮭魚",
+      "en": "Salmon",
+      "ja": "サーモン",
+      "ko": "연어"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Salmon is an easy main protein that turns into a full meal quickly with an air fryer or oven.",
+        "storage": "Use refrigerated salmon the same day or the next day, or freeze it in portions if you need to keep it longer."
+      },
+      "ja": {
+        "description": "サーモンはシンプルな主菜にしやすく、エアフライヤーやオーブンがあれば一食を手早く仕上げられます。",
+        "storage": "冷蔵なら当日または翌日までに使い、先延ばしする場合は小分けして冷凍してください。"
+      },
+      "ko": {
+        "description": "연어는 메인 요리로 만들기 쉬운 재료로, 에어프라이어와 오븐을 쓰면 한 끼를 빠르게 완성할 수 있습니다.",
+        "storage": "냉장 연어는 당일이나 다음 날까지 조리하고, 더 미룰 경우에는 소분해 냉동하세요."
+      }
+    }
+  },
+  {
+    "name": "馬鈴薯",
+    "slug": "potato",
+    "aliases": [
+      "土豆",
+      "洋芋"
+    ],
+    "category": "蔬菜",
+    "description": "馬鈴薯耐放又百搭，適合氣炸、燉煮與做成一人份配菜或主食。",
+    "caloriesPer100g": 77,
+    "proteinPer100g": 2,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 17,
+    "storage": "未洗馬鈴薯放陰涼通風處；切開後需冷藏並盡快料理。",
+    "commonPairings": [
+      "培根",
+      "洋蔥",
+      "玉米"
+    ],
+    "substitutes": [
+      "地瓜",
+      "南瓜"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "budget-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "馬鈴薯",
+      "en": "Potato",
+      "ja": "じゃがいも",
+      "ko": "감자"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Potatoes keep well and work in many formats, from air-fried sides to stews and one-person comfort meals.",
+        "storage": "Store unwashed potatoes in a cool, ventilated place; once cut, refrigerate and cook them soon."
+      },
+      "ja": {
+        "description": "じゃがいもは日持ちしやすく、エアフライヤーの副菜、煮込み料理、一人分の主食風メニューまで幅広く使えます。",
+        "storage": "洗っていない状態で風通しのよい冷暗所に置き、切った後は冷蔵して早めに調理してください。"
+      },
+      "ko": {
+        "description": "감자는 오래 두기 쉽고 활용 범위가 넓어 에어프라이어 사이드, 조림, 든든한 1인 식사에 모두 잘 어울립니다.",
+        "storage": "씻지 않은 감자는 서늘하고 통풍이 되는 곳에 두고, 자른 뒤에는 냉장 보관 후 빨리 조리하세요."
+      }
+    }
+  },
+  {
+    "name": "培根",
+    "slug": "bacon",
+    "aliases": [
+      "煙燻培根",
+      "培根片"
+    ],
+    "category": "肉類",
+    "description": "培根香氣濃，適合快炒、義大利麵與增加料理層次的一人份配菜。",
+    "caloriesPer100g": 417,
+    "proteinPer100g": 12,
+    "fatPer100g": 39,
+    "carbsPer100g": 1.4,
+    "storage": "開封後冷藏，建議 3 到 5 天內使用；可分裝冷凍延長保存。",
+    "commonPairings": [
+      "義大利麵",
+      "雞蛋",
+      "蘑菇"
+    ],
+    "substitutes": [
+      "火腿",
+      "香腸"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "培根",
+      "en": "Bacon",
+      "ja": "ベーコン",
+      "ko": "베이컨"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Bacon adds deep savory aroma to pasta, stir-fries, and quick side dishes even in small amounts.",
+        "storage": "Refrigerate after opening and use within 3 to 5 days, or freeze portions to keep it longer."
+      },
+      "ja": {
+        "description": "ベーコンは少量でも香りとコクが出るため、パスタ、炒め物、副菜に使いやすい食材です。",
+        "storage": "開封後は冷蔵し、3〜5日ほどで使い切るか、小分け冷凍して保存してください。"
+      },
+      "ko": {
+        "description": "베이컨은 적은 양으로도 짭조름한 풍미를 더해 파스타, 볶음, 간단한 반찬에 잘 어울립니다.",
+        "storage": "개봉 후에는 냉장 보관하고 3~5일 안에 사용하거나, 소분 냉동해 더 오래 보관하세요."
+      }
+    }
+  },
+  {
+    "name": "鱈魚",
+    "slug": "cod",
+    "aliases": [
+      "圓鱈",
+      "鱈魚片"
+    ],
+    "category": "海鮮",
+    "description": "鱈魚肉質細嫩、腥味低，適合煎烤、氣炸與做成清爽一人份主菜。",
+    "intro": "選購時挑魚片色澤潔白、肉質緊實且無強烈腥味的鱈魚；冷藏最好當天料理，若要備餐可冷凍並確實密封，避免解凍後肉質乾柴。家常以少油煎烤、氣炸或搭檸檬奶油醬最簡單，也適合做成清爽又高蛋白的一人份主菜。Bloom Kitchen 收錄多道鱈魚食譜，讓你輕鬆完成低油又飽足的晚餐。",
+    "caloriesPer100g": 82,
+    "proteinPer100g": 18,
+    "fatPer100g": 0.7,
+    "carbsPer100g": 0,
+    "storage": "冷藏建議當天料理；冷凍保存需確實密封避免乾燥。",
+    "commonPairings": [
+      "檸檬",
+      "奶油",
+      "青花菜"
+    ],
+    "substitutes": [
+      "鮭魚",
+      "鯛魚"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "high-protein-meals",
+      "weight-loss-meals"
+    ],
+    "labels": {
+      "zh-TW": "鱈魚",
+      "en": "Cod",
+      "ja": "タラ",
+      "ko": "대구"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Cod has a delicate texture and mild flavor, which makes it a good choice for pan-searing, roasting, and lighter main dishes.",
+        "intro": "Choose cod fillets that look clean white, feel firm, and have no strong fishy smell. Refrigerate and cook them the same day when possible, or freeze them in a tight seal so they do not dry out after thawing. At home, a light pan-sear, air-fryer cook, or lemon-butter sauce is the simplest path to a fresh, high-protein solo main. Bloom Kitchen also lists several cod recipes to help you finish a lighter dinner that still feels filling.",
+        "storage": "Cook refrigerated cod the same day if possible, and seal it well before freezing to prevent it from drying out."
+      },
+      "ja": {
+        "description": "タラは身がやわらかく風味も穏やかで、焼き物やエアフライヤー向けの軽めの主菜に向いています。",
+        "intro": "選ぶときは切り身が白く、身がしっかりし、強い生臭さがないタラを。冷蔵ならできるだけ当日に調理し、先に備えるならしっかり密封して冷凍し、解凍後に身が乾かないようにしてください。家庭では少油の焼き物、エアフライヤー、レモンバター系が手早く、さっぱりした高たんぱくの一人分主菜にも向きます。Bloom Kitchen でも複数のタラレシピを掲載しているので、軽くて満足感のある夕食を無理なく作れます。",
+        "storage": "冷蔵ならできるだけ当日に調理し、冷凍する場合は乾燥を防ぐようしっかり密封してください。"
+      },
+      "ko": {
+        "description": "대구는 살이 부드럽고 비린 향이 적어 팬 구이, 오븐, 가벼운 메인 메뉴에 잘 어울립니다.",
+        "intro": "고를 때는 살코기가 하얗고 단단하며 강한 비린 냄새가 없는 대구를 선택하세요. 냉장 보관은 가능한 한 당일 조리하고, 미리 준비하려면 단단히 밀봉해 냉동한 뒤 해동 후에도 살이 마르지 않게 하세요. 집에서는 기름을 적게 쓰는 팬 구이, 에어프라이어, 레몬 버터 소스가 가장 간단하며 가볍지만 고단백인 1인 메인으로도 좋습니다. Bloom Kitchen에도 여러 대구 레시피가 있어 부담 적고 든든한 저녁을 쉽게 만들 수 있습니다.",
+        "storage": "냉장 보관한 대구는 가능한 한 당일 조리하고, 냉동할 때는 마르지 않도록 단단히 밀봉하세요."
+      }
+    }
+  },
+  {
+    "name": "雞翅",
+    "slug": "chicken-wings",
+    "aliases": [
+      "翅腿",
+      "雞翅料理",
+      "雞腿肉",
+      "雞腿"
+    ],
+    "category": "肉類",
+    "description": "雞翅適合氣炸或烤箱，做成一人份小份下酒菜或宵夜主菜。",
+    "caloriesPer100g": 203,
+    "proteinPer100g": 18,
+    "fatPer100g": 14,
+    "carbsPer100g": 0,
+    "storage": "冷藏 1 到 2 天內料理；冷凍前建議分裝成一人份份量。",
+    "commonPairings": [
+      "蒜頭",
+      "蜂蜜",
+      "馬鈴薯"
+    ],
+    "substitutes": [
+      "雞腿",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "late-night-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "雞翅",
+      "en": "Chicken wings",
+      "ja": "手羽先",
+      "ko": "닭날개"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Chicken wings are perfect for the air fryer or oven and make a satisfying late-night or snack-style meal for one.",
+        "storage": "Cook within 1 to 2 days if refrigerated, and portion wings before freezing for easier one-person meals."
+      },
+      "ja": {
+        "description": "手羽先はエアフライヤーやオーブンに向いていて、夜食や小さめの主菜として満足感があります。",
+        "storage": "冷蔵なら1〜2日以内に調理し、冷凍する前に一人分ずつ小分けしておくと便利です。"
+      },
+      "ko": {
+        "description": "닭날개는 에어프라이어나 오븐에 잘 맞아 야식이나 간단한 한 끼 메인 메뉴로 만족감이 좋습니다.",
+        "storage": "냉장이라면 1~2일 안에 조리하고, 냉동 전에는 1인분씩 나눠 두면 사용하기 편합니다."
+      }
+    }
+  },
+  {
+    "name": "地瓜",
+    "slug": "sweet-potato",
+    "aliases": [
+      "番薯",
+      "甜薯"
+    ],
+    "category": "蔬菜",
+    "description": "地瓜甜味明顯，適合氣炸、蒸煮或當一人份主食配菜。",
+    "caloriesPer100g": 86,
+    "proteinPer100g": 1.6,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 20,
+    "storage": "放陰涼通風處可保存數日；切開後需冷藏並盡快食用。",
+    "commonPairings": [
+      "奶油",
+      "蜂蜜",
+      "雞蛋"
+    ],
+    "substitutes": [
+      "馬鈴薯",
+      "南瓜"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "budget-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "地瓜",
+      "en": "Sweet potato",
+      "ja": "さつまいも",
+      "ko": "고구마"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Sweet potatoes bring natural sweetness and work well in air-fried, steamed, or simple one-person side dishes.",
+        "storage": "Keep sweet potatoes in a cool, ventilated place for several days; refrigerate cut pieces and use them soon."
+      },
+      "ja": {
+        "description": "さつまいもは甘みがはっきりしていて、エアフライヤー、蒸し料理、主食代わりの副菜に向いています。",
+        "storage": "風通しのよい場所で数日保存でき、切った後は冷蔵して早めに使ってください。"
+      },
+      "ko": {
+        "description": "고구마는 단맛이 분명해 에어프라이어, 찜 요리, 든든한 1인분 사이드 메뉴에 잘 어울립니다.",
+        "storage": "서늘하고 통풍이 되는 곳에 며칠 보관할 수 있고, 자른 뒤에는 냉장 후 빨리 드세요."
+      }
+    }
+  },
+  {
+    "name": "秋葵",
+    "slug": "okra",
+    "aliases": [
+      "羊角豆"
+    ],
+    "category": "蔬菜",
+    "description": "秋葵加熱快，適合氣炸或清炒，做成清爽一人份配菜。",
+    "caloriesPer100g": 33,
+    "proteinPer100g": 2,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 7,
+    "storage": "冷藏保存，建議 3 天內料理以保持口感。",
+    "commonPairings": [
+      "蒜頭",
+      "番茄",
+      "雞蛋"
+    ],
+    "substitutes": [
+      "四季豆",
+      "蘆筍"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "weight-loss-meals",
+      "ten-minute-meals"
+    ],
+    "labels": {
+      "zh-TW": "秋葵",
+      "en": "Okra",
+      "ja": "オクラ",
+      "ko": "오크라"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Okra cooks quickly and works well in air-fried or lightly stir-fried side dishes for a lighter meal.",
+        "storage": "Refrigerate okra and cook it within about 3 days to keep the texture at its best."
+      },
+      "ja": {
+        "description": "オクラは火の通りが早く、エアフライヤーやさっと炒める副菜にすると軽やかに仕上がります。",
+        "storage": "冷蔵保存し、食感を保つため3日ほどで調理するのがおすすめです。"
+      },
+      "ko": {
+        "description": "오크라는 빨리 익어 에어프라이어나 가벼운 볶음 반찬으로 만들기 좋은 산뜻한 채소입니다.",
+        "storage": "냉장 보관하고 식감을 유지하려면 3일 안에 조리하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "玉米",
+    "slug": "corn",
+    "aliases": [
+      "玉米粒",
+      "甜玉米"
+    ],
+    "category": "蔬菜",
+    "description": "玉米甜味足，適合氣炸、拌炒或加入湯品與一人份蓋飯。",
+    "caloriesPer100g": 86,
+    "proteinPer100g": 3.3,
+    "fatPer100g": 1.2,
+    "carbsPer100g": 19,
+    "storage": "冷藏保存；切下玉米粒後建議 2 天內使用。",
+    "commonPairings": [
+      "奶油",
+      "培根",
+      "馬鈴薯"
+    ],
+    "substitutes": [
+      "豌豆",
+      "紅蘿蔔丁"
+    ],
+    "relatedScenarios": [
+      "air-fryer-meals",
+      "budget-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "玉米",
+      "en": "Corn",
+      "ja": "とうもろこし",
+      "ko": "옥수수"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Corn adds sweetness and works well in air fryer sides, quick stir-fries, soups, and rice bowls.",
+        "storage": "Keep corn refrigerated, and use cut kernels within about 2 days."
+      },
+      "ja": {
+        "description": "とうもろこしは甘みがあり、エアフライヤーの副菜、炒め物、スープ、丼ものに使いやすい食材です。",
+        "storage": "冷蔵保存し、実を外した後は2日ほどで使い切るのがおすすめです。"
+      },
+      "ko": {
+        "description": "옥수수는 단맛이 좋아 에어프라이어 사이드, 볶음, 국물, 덮밥에 두루 잘 어울립니다.",
+        "storage": "냉장 보관하고, 알갱이를 떼어낸 뒤에는 2일 안에 사용하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "泡菜",
+    "slug": "kimchi",
+    "aliases": [
+      "韓式泡菜",
+      "韓國泡菜"
+    ],
+    "category": "辛香料",
+    "description": "泡菜酸辣開胃，適合炒飯、拌麵與快速完成一人份韓式風味料理。",
+    "caloriesPer100g": 24,
+    "proteinPer100g": 1.1,
+    "fatPer100g": 0.5,
+    "carbsPer100g": 4,
+    "storage": "冷藏保存；開封後避免與其他食材交叉沾染氣味。",
+    "commonPairings": [
+      "白飯",
+      "豆腐",
+      "豬肉"
+    ],
+    "substitutes": [
+      "酸菜",
+      "辣白菜罐"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "late-night-meals",
+      "fridge-cleanout-meals"
+    ],
+    "labels": {
+      "zh-TW": "泡菜",
+      "en": "Kimchi",
+      "ja": "キムチ",
+      "ko": "김치"
+    },
+    "categoryLabels": {
+      "zh-TW": "辛香料",
+      "en": "Aromatics & spices",
+      "ja": "香味野菜・スパイス",
+      "ko": "향신료"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Kimchi brings bright heat and tang, making it perfect for fried rice, mixed noodles, and quick Korean-style meals.",
+        "storage": "Keep kimchi refrigerated, and avoid letting other foods pick up its strong aroma after opening."
+      },
+      "ja": {
+        "description": "キムチは酸味と辛みで食欲を引き立て、炒飯、和え麺、韓国風の手早い一人分料理に向いています。",
+        "storage": "冷蔵保存し、開封後はほかの食材に香りが移らないように注意してください。"
+      },
+      "ko": {
+        "description": "김치는 새콤하고 매콤한 맛으로 볶음밥, 비빔면, 빠른 한식풍 1인 요리에 잘 어울립니다.",
+        "storage": "냉장 보관하고, 개봉 후에는 다른 식재료에 냄새가 배지 않도록 주의하세요."
+      }
+    }
+  },
+  {
+    "name": "鯖魚",
+    "slug": "mackerel",
+    "aliases": [
+      "青花鯖",
+      "鯖魚片"
+    ],
+    "category": "海鮮",
+    "description": "鯖魚油脂豐富、風味濃，適合煎烤或氣炸做成一人份主菜。",
+    "caloriesPer100g": 205,
+    "proteinPer100g": 19,
+    "fatPer100g": 14,
+    "carbsPer100g": 0,
+    "storage": "冷藏建議當天料理；腥味較重時可加檸檬或薑去味。",
+    "commonPairings": [
+      "檸檬",
+      "洋蔥",
+      "白飯"
+    ],
+    "substitutes": [
+      "鮭魚",
+      "鱈魚"
+    ],
+    "relatedScenarios": [
+      "high-protein-meals",
+      "air-fryer-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "鯖魚",
+      "en": "Mackerel",
+      "ja": "サバ",
+      "ko": "고등어"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Mackerel is rich and flavorful, making it a strong choice for pan-seared or air-fried one-person main dishes.",
+        "storage": "Cook refrigerated mackerel the same day when possible; lemon or ginger helps if the fish smells strong."
+      },
+      "ja": {
+        "description": "サバは脂がのって風味も濃く、焼き物やエアフライヤー向けの一人分主菜に向いています。",
+        "storage": "冷蔵ならできるだけ当日に調理し、においが気になるときはレモンやしょうがを合わせてください。"
+      },
+      "ko": {
+        "description": "고등어는 기름기가 풍부하고 맛이 진해 팬 구이나 에어프라이어용 1인분 메인 메뉴에 잘 맞습니다.",
+        "storage": "냉장 고등어는 가능한 한 당일 조리하고, 비린 향이 강하면 레몬이나 생강을 곁들이세요."
+      }
+    }
+  },
+  {
+    "name": "豬肉",
+    "slug": "pork",
+    "aliases": [
+      "豬肉片",
+      "里肌肉",
+      "梅花肉",
+      "豬絞肉",
+      "絞肉",
+      "豬里肌排",
+      "里肌排",
+      "肉絲",
+      "豬絲"
+    ],
+    "category": "肉類",
+    "description": "豬肉用途廣，適合快炒、照燒與做成一人份蓋飯或便當主菜。",
+    "intro": "買豬肉可看色澤淡紅、觸感彈性且無異味，絲片或絞肉各適快炒與便當主菜；冷藏一兩天內料理最安心，想備料可小分冷凍保存。照燒、青蔥快炒或蓋飯都順手，一人份也很好控量。Bloom Kitchen 整理了多道豬肉食譜，從省錢便當到蓋飯主菜都能直接開做。",
+    "caloriesPer100g": 242,
+    "proteinPer100g": 27,
+    "fatPer100g": 14,
+    "carbsPer100g": 0,
+    "storage": "冷藏 1 到 2 天內料理；分裝冷凍可延長保存。",
+    "commonPairings": [
+      "青蔥",
+      "洋蔥",
+      "白飯"
+    ],
+    "substitutes": [
+      "雞胸肉",
+      "牛肉"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "豬肉",
+      "en": "Pork",
+      "ja": "豚肉",
+      "ko": "돼지고기"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Pork is versatile and works well in stir-fries, teriyaki-style dishes, rice bowls, and lunch box mains.",
+        "intro": "Look for pork with a light red color, springy texture, and no off smell; sliced strips and ground pork suit quick stir-fries and lunch boxes. Cook refrigerated pork within a day or two, or freeze in portions when prepping ahead. Teriyaki, scallion stir-fries, and rice bowls are easy one-serving wins. Bloom Kitchen has many pork recipes, from budget-friendly bentos to bowl-style mains.",
+        "storage": "Use refrigerated pork within 1 to 2 days, or freeze it in portions for longer storage."
+      },
+      "ja": {
+        "description": "豚肉は使い道が広く、炒め物、照り焼き、丼、お弁当の主菜まで幅広く活躍します。",
+        "intro": "淡い赤色で弾力があり異臭のない豚肉を選び、細切りや挽肉は炒めや弁当に向きます。冷蔵は1〜2日以内に使い、下ごしらえするなら小分け冷凍が便利です。照り焼き、ネギ炒め、丼など一人分にも扱いやすい食材です。Bloom Kitchen には節約弁当から丼の主菜まで豚肉レシピが揃っています。",
+        "storage": "冷蔵なら1〜2日以内に使い、長く保存する場合は小分けして冷凍してください。"
+      },
+      "ko": {
+        "description": "돼지고기는 활용도가 높아 볶음, 데리야키풍 반찬, 덮밥, 도시락 메인 반찬까지 폭넓게 쓰입니다.",
+        "intro": "연한 붉은색에 탄력 있고 이상한 냄새가 없는 돼지고기를 고르고, 채 썬 고기나 다진 고기는 볶음·도시락에 잘 맞습니다. 냉장은 1~2일 안에 조리하고, 미리 준비하려면 소분해 냉동하세요. 데리야키, 파 볶음, 덮밥 등 1인분 조리도 수월합니다. Bloom Kitchen에는 알뜰 도시락부터 덮밥 메인까지 돼지고기 레시피가 모여 있습니다.",
+        "storage": "냉장 보관한 돼지고기는 1~2일 안에 사용하고, 오래 두려면 소분해 냉동하세요."
+      }
+    }
+  },
+  {
+    "name": "罐頭鮪魚",
+    "slug": "canned-tuna",
+    "aliases": [
+      "鮪魚罐頭",
+      "油浸鮪魚"
+    ],
+    "category": "海鮮",
+    "description": "罐頭鮪魚開罐即用，適合拌飯、沙拉與十分鐘完成的省錢一人餐。",
+    "caloriesPer100g": 198,
+    "proteinPer100g": 26,
+    "fatPer100g": 8,
+    "carbsPer100g": 0,
+    "storage": "未開封放陰涼處；開封後冷藏並在 1 到 2 天內用完。",
+    "commonPairings": [
+      "白飯",
+      "雞蛋",
+      "美乃滋"
+    ],
+    "substitutes": [
+      "罐頭鮭魚",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "罐頭鮪魚",
+      "en": "Canned tuna",
+      "ja": "ツナ缶",
+      "ko": "참치 통조림"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Canned tuna is ready to use straight from the pantry, making it great for quick rice bowls, salads, and low-cost meals.",
+        "storage": "Keep unopened cans in a cool place; once opened, refrigerate and finish within 1 to 2 days."
+      },
+      "ja": {
+        "description": "ツナ缶は開けてすぐ使えるので、丼、サラダ、手早い節約ごはんに便利です。",
+        "storage": "未開封は冷暗所で保存し、開封後は冷蔵して1〜2日で使い切ってください。"
+      },
+      "ko": {
+        "description": "참치 통조림은 바로 사용할 수 있어 덮밥, 샐러드, 저렴하고 빠른 한 끼 메뉴에 잘 맞습니다.",
+        "storage": "개봉 전에는 서늘한 곳에 두고, 개봉 후에는 냉장 보관해 1~2일 안에 드세요."
+      }
+    }
+  },
+  {
+    "name": "青椒",
+    "slug": "green-pepper",
+    "aliases": [
+      "甜椒",
+      "大青椒"
+    ],
+    "category": "蔬菜",
+    "description": "青椒脆甜耐炒，適合與肉類快炒或做成家常配菜。",
+    "caloriesPer100g": 20,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 4.6,
+    "storage": "冷藏保存，避免擠壓；切開後建議 2 天內用完。",
+    "commonPairings": [
+      "豬肉",
+      "牛肉",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "甜椒",
+      "芹菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "青椒",
+      "en": "Green bell pepper",
+      "ja": "ピーマン",
+      "ko": "피망"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Green bell peppers stay crisp in the pan and work well with meats in fast home-style stir-fries.",
+        "storage": "Keep refrigerated and avoid crushing them; once cut, try to use them within about 2 days."
+      },
+      "ja": {
+        "description": "ピーマンは炒めても歯ざわりが残りやすく、肉と合わせた家庭の炒め物に向いています。",
+        "storage": "冷蔵保存し、つぶれないように置いてください。切った後は2日ほどで使い切るのがおすすめです。"
+      },
+      "ko": {
+        "description": "피망은 볶아도 아삭함이 남아 고기와 함께하는 집반찬 볶음에 잘 어울립니다.",
+        "storage": "냉장 보관하고 눌리지 않게 두세요. 자른 뒤에는 2일 안에 쓰는 편이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "小黃瓜",
+    "slug": "cucumber",
+    "aliases": [
+      "黃瓜",
+      "大黃瓜"
+    ],
+    "category": "蔬菜",
+    "description": "小黃瓜清脆多汁，適合涼麵、沙拉與快拌小菜。",
+    "caloriesPer100g": 15,
+    "proteinPer100g": 0.7,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 3.6,
+    "storage": "冷藏保存，避免與乙烯水果放一起以免變軟。",
+    "commonPairings": [
+      "雞蛋",
+      "蒜頭",
+      "芝麻醬"
+    ],
+    "substitutes": [
+      "櫛瓜",
+      "生菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "weight-loss-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "小黃瓜",
+      "en": "Cucumber",
+      "ja": "きゅうり",
+      "ko": "오이"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Cucumbers are crisp and juicy, making them a fresh match for salads, cold noodles, and quick dressed sides.",
+        "storage": "Refrigerate cucumbers and keep them away from ethylene-producing fruit so they do not soften too quickly."
+      },
+      "ja": {
+        "description": "きゅうりはみずみずしく歯ざわりがよく、サラダ、冷たい麺、あえる副菜にぴったりです。",
+        "storage": "冷蔵保存し、エチレンを出す果物と離して置くとやわらかくなりにくくなります。"
+      },
+      "ko": {
+        "description": "오이는 아삭하고 수분이 많아 샐러드, 냉면류, 간단한 무침 반찬에 잘 어울립니다.",
+        "storage": "냉장 보관하고 에틸렌을 내는 과일과 떨어뜨려 두면 물러지는 속도를 줄일 수 있습니다."
+      }
+    }
+  },
+  {
+    "name": "櫛瓜",
+    "slug": "zucchini",
+    "aliases": [
+      "義大利瓜",
+      "夏南瓜"
+    ],
+    "category": "蔬菜",
+    "description": "櫛瓜水分高、加熱快，適合清炒、氣炸與減脂料理。",
+    "caloriesPer100g": 17,
+    "proteinPer100g": 1.2,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 3.1,
+    "storage": "冷藏保存，避免潮濕悶住；切開後盡快料理。",
+    "commonPairings": [
+      "雞胸肉",
+      "蒜頭",
+      "番茄"
+    ],
+    "substitutes": [
+      "小黃瓜",
+      "絲瓜"
+    ],
+    "relatedScenarios": [
+      "weight-loss-meals",
+      "ten-minute-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "櫛瓜",
+      "en": "Zucchini",
+      "ja": "ズッキーニ",
+      "ko": "주키니"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Zucchini is quick to cook and full of moisture, which makes it useful for stir-fries, air fryer sides, and lighter meals.",
+        "storage": "Refrigerate zucchini, keep it from trapping too much moisture, and use cut pieces soon."
+      },
+      "ja": {
+        "description": "ズッキーニは水分が多く火の通りも早いので、炒め物、エアフライヤー、副菜、軽めの料理に使いやすいです。",
+        "storage": "冷蔵保存し、蒸れすぎないようにして、切った後は早めに使ってください。"
+      },
+      "ko": {
+        "description": "주키니는 수분이 많고 빨리 익어 볶음, 에어프라이어 사이드, 가벼운 요리에 잘 어울립니다.",
+        "storage": "냉장 보관하되 습기가 차지 않게 하고, 자른 뒤에는 빨리 조리하세요."
+      }
+    }
+  },
+  {
+    "name": "薑",
+    "slug": "ginger",
+    "aliases": [
+      "生薑",
+      "薑絲",
+      "薑末"
+    ],
+    "category": "辛香料",
+    "description": "薑能去腥提香，是肉類快炒、滷肉與湯品的常見辛香料。",
+    "caloriesPer100g": 80,
+    "proteinPer100g": 1.8,
+    "fatPer100g": 0.8,
+    "carbsPer100g": 18,
+    "storage": "未削皮薑可冷藏；削皮後建議密封並盡快使用。",
+    "commonPairings": [
+      "豬肉",
+      "雞胸肉",
+      "牛肉"
+    ],
+    "substitutes": [
+      "蒜頭",
+      "洋蔥"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals",
+      "ten-minute-meals"
+    ],
+    "labels": {
+      "zh-TW": "薑",
+      "en": "Ginger",
+      "ja": "しょうが",
+      "ko": "생강"
+    },
+    "categoryLabels": {
+      "zh-TW": "辛香料",
+      "en": "Aromatics & spices",
+      "ja": "香味野菜・スパイス",
+      "ko": "향신료"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Ginger cuts through richness and removes unwanted odors, making it a common aromatic for meat dishes and soups.",
+        "storage": "Keep unpeeled ginger refrigerated; once peeled, seal it well and use it soon."
+      },
+      "ja": {
+        "description": "しょうがは臭みを抑えて香りを立ててくれるので、肉料理、煮込み、スープでよく使われます。",
+        "storage": "皮つきのままなら冷蔵でき、皮をむいた後は密封して早めに使ってください。"
+      },
+      "ko": {
+        "description": "생강은 잡내를 줄이고 향을 살려 주어 고기 볶음, 조림, 국물 요리에서 자주 쓰이는 향신 재료입니다.",
+        "storage": "껍질째는 냉장 보관하고, 껍질을 벗긴 뒤에는 밀봉해 가능한 빨리 사용하세요."
+      }
+    }
+  },
+  {
+    "name": "紅蔥頭",
+    "slug": "shallot",
+    "aliases": [
+      "紅葱頭",
+      "干蔥"
+    ],
+    "category": "辛香料",
+    "description": "紅蔥頭香氣濃，常用於滷肉、肉燥與爆香底味。",
+    "caloriesPer100g": 72,
+    "proteinPer100g": 2.5,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 16.8,
+    "storage": "完整紅蔥頭放通風處；切開後改冷藏並盡快使用。",
+    "commonPairings": [
+      "豬肉",
+      "白飯",
+      "醬油"
+    ],
+    "substitutes": [
+      "洋蔥",
+      "蒜頭"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "紅蔥頭",
+      "en": "Shallot",
+      "ja": "エシャロット",
+      "ko": "샬롯"
+    },
+    "categoryLabels": {
+      "zh-TW": "辛香料",
+      "en": "Aromatics & spices",
+      "ja": "香味野菜・スパイス",
+      "ko": "향신료"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Shallots have a concentrated aroma and are often used to build the base flavor of braises and savory sauces.",
+        "storage": "Store whole shallots in a ventilated spot; refrigerate them after cutting and use them soon."
+      },
+      "ja": {
+        "description": "エシャロットは香りが濃く、煮込みや肉そぼろのような料理の土台の香りづけによく使われます。",
+        "storage": "丸ごとは風通しのよい場所に置き、切った後は冷蔵して早めに使ってください。"
+      },
+      "ko": {
+        "description": "샬롯은 향이 진해 조림이나 다진 고기 양념처럼 바탕 풍미를 잡는 요리에 자주 쓰입니다.",
+        "storage": "통째로는 통풍이 되는 곳에 두고, 자른 뒤에는 냉장 보관 후 빨리 사용하세요."
+      }
+    }
+  },
+  {
+    "name": "九層塔",
+    "slug": "basil-taiwan",
+    "aliases": [
+      "羅勒",
+      "台灣羅勒"
+    ],
+    "category": "辛香料",
+    "description": "九層塔香氣獨特，是三杯雞、炒蛤蜊等台式料理的經典配料。",
+    "caloriesPer100g": 23,
+    "proteinPer100g": 3.2,
+    "fatPer100g": 0.6,
+    "carbsPer100g": 2.7,
+    "storage": "包廚房紙巾後冷藏，避免水氣悶爛。",
+    "commonPairings": [
+      "雞腿肉",
+      "蒜頭",
+      "醬油"
+    ],
+    "substitutes": [
+      "青蔥",
+      "香菜"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals"
+    ],
+    "labels": {
+      "zh-TW": "九層塔",
+      "en": "Thai basil",
+      "ja": "ホーロクバジル",
+      "ko": "타이 바질"
+    },
+    "categoryLabels": {
+      "zh-TW": "辛香料",
+      "en": "Aromatics & spices",
+      "ja": "香味野菜・スパイス",
+      "ko": "향신료"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Thai basil has a distinctive fragrance and is a signature finishing herb in many Taiwanese stir-fries.",
+        "storage": "Wrap Thai basil in a paper towel and refrigerate it so excess moisture does not make it wilt too quickly."
+      },
+      "ja": {
+        "description": "ホーロクバジルは香りが個性的で、台湾の炒め物を仕上げる定番のハーブです。",
+        "storage": "キッチンペーパーで包んで冷蔵し、水気で傷まないようにしてください。"
+      },
+      "ko": {
+        "description": "타이 바질은 향이 뚜렷해 대만식 볶음 요리의 마무리를 살려 주는 대표 허브입니다.",
+        "storage": "키친타월로 감싸 냉장 보관해 수분 때문에 무르지 않도록 하세요."
+      }
+    }
+  },
+  {
+    "name": "火腿",
+    "slug": "ham",
+    "aliases": [
+      "火腿丁",
+      "火腿片"
+    ],
+    "category": "加工品",
+    "description": "火腿開袋即用，適合炒飯、蛋料理與便當配菜，能快速補足鹹香與蛋白質。",
+    "caloriesPer100g": 145,
+    "proteinPer100g": 18,
+    "fatPer100g": 6,
+    "carbsPer100g": 2,
+    "storage": "未開封冷藏保存；開封後 2 到 3 天內食用，避免受潮。",
+    "commonPairings": [
+      "雞蛋",
+      "白飯",
+      "高麗菜"
+    ],
+    "substitutes": [
+      "培根",
+      "罐頭鮪魚"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "火腿",
+      "en": "Ham",
+      "ja": "ハム",
+      "ko": "햄"
+    },
+    "categoryLabels": {
+      "zh-TW": "加工品",
+      "en": "Processed foods",
+      "ja": "加工食品",
+      "ko": "가공식품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Ham is ready to use straight from the package and quickly adds savory flavor and protein to eggs, fried rice, and lunch boxes.",
+        "storage": "Keep unopened ham refrigerated, and finish it within 2 to 3 days after opening."
+      },
+      "ja": {
+        "description": "ハムは袋から出してすぐ使え、卵料理、炒飯、お弁当に塩気とタンパク質を手早く足せます。",
+        "storage": "未開封でも冷蔵し、開封後は2〜3日以内に使い切ってください。"
+      },
+      "ko": {
+        "description": "햄은 바로 사용할 수 있어 달걀요리, 볶음밥, 도시락 반찬에 짭조름한 맛과 단백질을 빠르게 더해 줍니다.",
+        "storage": "개봉 전에도 냉장 보관하고, 개봉 후에는 2~3일 안에 먹는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "貢丸",
+    "slug": "fish-ball",
+    "aliases": [
+      "魚丸",
+      "花枝丸"
+    ],
+    "category": "加工品",
+    "description": "貢丸耐煮又入味，常見於湯麵、火鍋與快手湯品，一人份加幾顆就很有飽足感。",
+    "caloriesPer100g": 110,
+    "proteinPer100g": 12,
+    "fatPer100g": 4,
+    "carbsPer100g": 8,
+    "storage": "冷藏 2 到 3 天；冷凍可延長保存，料理前不需完全解凍。",
+    "commonPairings": [
+      "麵條",
+      "高麗菜",
+      "青蔥"
+    ],
+    "substitutes": [
+      "豆腐",
+      "蝦仁"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "貢丸",
+      "en": "Fish balls",
+      "ja": "魚団子",
+      "ko": "어묵·물고기 완자"
+    },
+    "categoryLabels": {
+      "zh-TW": "加工品",
+      "en": "Processed foods",
+      "ja": "加工食品",
+      "ko": "가공식품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Fish balls are easy to keep on hand and add quick substance to noodle soups, hot pots, and simple soup meals.",
+        "storage": "Keep fish balls refrigerated for 2 to 3 days, or freeze them longer; they do not need to thaw completely before cooking."
+      },
+      "ja": {
+        "description": "魚団子は煮崩れしにくく、汁麺、鍋、手早いスープに数個入れるだけで満足感が出ます。",
+        "storage": "冷蔵なら2〜3日、冷凍ならより長く保存できます。調理前に完全解凍する必要はありません。"
+      },
+      "ko": {
+        "description": "어묵·물고기 완자는 오래 두기 좋고 국수, 전골, 간단한 국물 요리에 넣으면 금방 든든해집니다.",
+        "storage": "냉장으로는 2~3일, 냉동하면 더 오래 보관할 수 있으며 조리 전 완전히 해동하지 않아도 됩니다."
+      }
+    }
+  },
+  {
+    "name": "起司",
+    "slug": "cheese",
+    "aliases": [
+      "起司條",
+      "起司粉",
+      "帕瑪森起司"
+    ],
+    "category": "加工品",
+    "description": "起司能為義大利麵、烤蔬菜與蛋料理增添濃郁奶香，是西式家常料理的常備加料。",
+    "caloriesPer100g": 350,
+    "proteinPer100g": 25,
+    "fatPer100g": 28,
+    "carbsPer100g": 2,
+    "storage": "未開封冷藏；開封後密封保存，建議 1 週內用完。",
+    "commonPairings": [
+      "義大利麵",
+      "番茄",
+      "雞胸肉"
+    ],
+    "substitutes": [
+      "鮮奶油",
+      "豆腐"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "high-protein-meals"
+    ],
+    "labels": {
+      "zh-TW": "起司",
+      "en": "Cheese",
+      "ja": "チーズ",
+      "ko": "치즈"
+    },
+    "categoryLabels": {
+      "zh-TW": "加工品",
+      "en": "Processed foods",
+      "ja": "加工食品",
+      "ko": "가공식품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Cheese adds rich dairy depth to pasta, roasted vegetables, and egg dishes, making it a handy extra for Western-style home cooking.",
+        "storage": "Keep unopened cheese refrigerated, and finish it within about a week after opening while sealed well."
+      },
+      "ja": {
+        "description": "チーズはパスタ、焼き野菜、卵料理に濃厚なコクを足してくれるので、洋風の家庭料理で重宝します。",
+        "storage": "未開封でも冷蔵し、開封後はしっかり密封して1週間ほどで使い切ってください。"
+      },
+      "ko": {
+        "description": "치즈는 파스타, 구운 채소, 달걀요리에 진한 유제품 풍미를 더해 서양식 집밥에 두루 유용합니다.",
+        "storage": "개봉 전후 모두 냉장 보관하고, 개봉 후에는 밀봉해 1주일 안에 먹는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "泡麵",
+    "slug": "instant-noodles",
+    "aliases": [
+      "速食麵",
+      "袋裝泡麵"
+    ],
+    "category": "主食",
+    "description": "泡麵煮法快、變化多，適合宵夜、省錢料理或加蛋加菜升級成完整一餐。",
+    "caloriesPer100g": 450,
+    "proteinPer100g": 9,
+    "fatPer100g": 18,
+    "carbsPer100g": 62,
+    "storage": "陰涼乾燥處保存，避免受潮軟爛。",
+    "commonPairings": [
+      "雞蛋",
+      "高麗菜",
+      "貢丸"
+    ],
+    "substitutes": [
+      "麵條",
+      "烏龍麵"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals",
+      "late-night-meals"
+    ],
+    "labels": {
+      "zh-TW": "泡麵",
+      "en": "Instant noodles",
+      "ja": "インスタント麺",
+      "ko": "라면"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Instant noodles are fast and flexible, making them perfect for late-night meals, budget dishes, or quick upgrades with eggs and vegetables.",
+        "storage": "Store instant noodles in a cool, dry place and keep them away from moisture."
+      },
+      "ja": {
+        "description": "インスタント麺は調理が早くアレンジもしやすいので、夜食や節約ごはん、卵や野菜を足す一杯に向いています。",
+        "storage": "湿気を避けて冷暗所で保存してください。"
+      },
+      "ko": {
+        "description": "라면은 조리가 빠르고 응용하기 쉬워 야식, 절약 식사, 달걀과 채소를 더한 간단한 한 끼에 잘 맞습니다.",
+        "storage": "서늘하고 건조한 곳에 보관해 습기를 피하세요."
+      }
+    }
+  },
+  {
+    "name": "青江菜",
+    "slug": "bok-choy",
+    "aliases": [
+      "小白菜",
+      "油菜"
+    ],
+    "category": "蔬菜",
+    "description": "青江菜快炒軟嫩、煮湯也適合，是台灣家常菜裡最常見的綠色蔬菜之一。",
+    "caloriesPer100g": 13,
+    "proteinPer100g": 1.5,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 2.2,
+    "storage": "包廚房紙巾後冷藏，2 到 3 天內食用風味最佳。",
+    "commonPairings": [
+      "蒜頭",
+      "豆腐",
+      "貢丸"
+    ],
+    "substitutes": [
+      "高麗菜",
+      "菠菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "青江菜",
+      "en": "Bok choy",
+      "ja": "チンゲン菜",
+      "ko": "청경채"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Bok choy cooks quickly and stays tender, making it one of the most common green vegetables in Taiwanese home cooking.",
+        "storage": "Wrap bok choy in a paper towel and refrigerate it; for the best flavor, use it within 2 to 3 days."
+      },
+      "ja": {
+        "description": "チンゲン菜は火の通りが早くやわらかく仕上がるので、台湾の家庭料理でよく使われる青菜です。",
+        "storage": "キッチンペーパーで包んで冷蔵し、風味のよい2〜3日以内に使うのがおすすめです。"
+      },
+      "ko": {
+        "description": "청경채는 빨리 익고 부드럽게 익어 대만 집밥에서 자주 쓰이는 대표적인 초록 채소입니다.",
+        "storage": "키친타월로 감싸 냉장 보관하고, 맛이 좋을 때인 2~3일 안에 사용하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "豆干",
+    "slug": "dried-tofu",
+    "aliases": [
+      "五香豆干",
+      "白豆干"
+    ],
+    "category": "豆製品",
+    "description": "豆干耐炒耐滷，蛋白質高又平價，適合便當配菜與下酒小菜的一人份料理。",
+    "caloriesPer100g": 140,
+    "proteinPer100g": 15,
+    "fatPer100g": 7,
+    "carbsPer100g": 4,
+    "storage": "冷藏保存，開封後 3 到 4 天內食用。",
+    "commonPairings": [
+      "青蔥",
+      "青椒",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "豆腐",
+      "雞胸肉"
+    ],
+    "relatedScenarios": [
+      "bento-meals",
+      "budget-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "豆干",
+      "en": "Dried tofu",
+      "ja": "厚揚げ",
+      "ko": "건두부"
+    },
+    "categoryLabels": {
+      "zh-TW": "豆製品",
+      "en": "Soy products",
+      "ja": "豆製品",
+      "ko": "두부·콩가공품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Dried tofu is firm, affordable, and protein-rich, making it useful for lunch box sides and savory snacks for one.",
+        "storage": "Keep dried tofu refrigerated and finish it within 3 to 4 days after opening."
+      },
+      "ja": {
+        "description": "厚揚げは炒めても煮ても崩れにくく、タンパク質も多いため、お弁当や小さなおかずに向いています。",
+        "storage": "冷蔵保存し、開封後は3〜4日以内に使い切ってください。"
+      },
+      "ko": {
+        "description": "건두부는 볶음과 조림에 잘 버티고 단백질도 높아 도시락 반찬과 간단한 술안주용 1인 요리에 좋습니다.",
+        "storage": "냉장 보관하고, 개봉 후에는 3~4일 안에 드세요."
+      }
+    }
+  },
+  {
+    "name": "南瓜",
+    "slug": "pumpkin",
+    "aliases": [
+      "金瓜",
+      "日本南瓜"
+    ],
+    "category": "蔬菜",
+    "description": "南瓜甜味自然、口感綿密，適合電鍋蒸煮、濃湯與簡單烤配菜。",
+    "caloriesPer100g": 26,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 6.5,
+    "storage": "整顆陰涼處可放數日；切開後包保鮮膜冷藏，盡快料理。",
+    "commonPairings": [
+      "雞胸肉",
+      "白飯",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "地瓜",
+      "馬鈴薯"
+    ],
+    "relatedScenarios": [
+      "electric-pot-meals",
+      "one-person-meal",
+      "weight-loss-meals"
+    ],
+    "labels": {
+      "zh-TW": "南瓜",
+      "en": "Pumpkin",
+      "ja": "かぼちゃ",
+      "ko": "호박"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Pumpkin is naturally sweet and creamy, making it a good match for electric-pot dishes, soups, and simple roasted sides.",
+        "storage": "Whole pumpkin keeps for several days in a cool place; once cut, wrap it and refrigerate it until cooking."
+      },
+      "ja": {
+        "description": "かぼちゃは自然な甘みとなめらかな食感があり、電気鍋料理、ポタージュ、焼き副菜に向いています。",
+        "storage": "丸ごとは涼しい場所で数日保存でき、切った後は包んで冷蔵し、早めに調理してください。"
+      },
+      "ko": {
+        "description": "호박은 자연스러운 단맛과 포슬한 식감이 있어 전기냄비 요리, 수프, 간단한 구이 반찬에 잘 맞습니다.",
+        "storage": "통째로는 서늘한 곳에 며칠 둘 수 있고, 자른 뒤에는 랩으로 감싸 냉장 후 빨리 조리하세요."
+      }
+    }
+  },
+  {
+    "name": "蛤蜊",
+    "slug": "clam",
+    "aliases": [
+      "花蛤",
+      "文蛤"
+    ],
+    "category": "海鮮",
+    "description": "蛤蜊鮮味足、煮法簡單，適合清湯、炒麵與台式快炒，一人份加一把就很有層次。",
+    "caloriesPer100g": 74,
+    "proteinPer100g": 13,
+    "fatPer100g": 1,
+    "carbsPer100g": 3,
+    "storage": "購買當日料理最佳；暫放冷藏並鋪冰，避免悶死。",
+    "commonPairings": [
+      "九層塔",
+      "蒜頭",
+      "薑"
+    ],
+    "substitutes": [
+      "蝦仁",
+      "貢丸"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "蛤蜊",
+      "en": "Clams",
+      "ja": "あさり",
+      "ko": "조개"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Clams add a deep seafood sweetness and are easy to use in soups, noodle dishes, and quick Taiwanese-style stir-fries.",
+        "storage": "Clams are best cooked the day you buy them; if needed, chill them on ice briefly and avoid trapping them in a closed container."
+      },
+      "ja": {
+        "description": "あさりはだしのような旨みが強く、澄まし汁、麺料理、台湾風のさっと炒める料理に使いやすいです。",
+        "storage": "購入当日に調理するのが理想で、少し置く場合は氷を当てて冷蔵し、密閉しすぎないようにしてください。"
+      },
+      "ko": {
+        "description": "조개는 감칠맛이 깊어 맑은 국물, 면 요리, 대만식 빠른 볶음 요리에 넣기 좋은 해산물입니다.",
+        "storage": "구입한 날 바로 조리하는 것이 가장 좋고, 잠시 둘 때는 얼음을 깔아 냉장하며 너무 밀폐하지 마세요."
+      }
+    }
+  },
+  {
+    "name": "四季豆",
+    "slug": "green-bean",
+    "aliases": [
+      "菜豆",
+      "長豆"
+    ],
+    "category": "蔬菜",
+    "description": "四季豆脆嫩好炒，常見於乾煸、蒜炒與便當配菜，一人份快炒很快就能上桌。",
+    "caloriesPer100g": 31,
+    "proteinPer100g": 1.8,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 7,
+    "storage": "冷藏保存並保持乾燥，3 到 4 天內食用。",
+    "commonPairings": [
+      "蒜頭",
+      "肉絲",
+      "紅蘿蔔"
+    ],
+    "substitutes": [
+      "青椒",
+      "高麗菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "四季豆",
+      "en": "Green beans",
+      "ja": "いんげん",
+      "ko": "강낭콩"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Green beans stay crisp in the pan and are a fast option for garlicky stir-fries and lunch box sides.",
+        "storage": "Keep green beans refrigerated and dry, and use them within about 3 to 4 days."
+      },
+      "ja": {
+        "description": "いんげんは炒めても歯ざわりが残りやすく、にんにく炒めやお弁当の副菜に便利です。",
+        "storage": "冷蔵しつつ乾いた状態を保ち、3〜4日ほどで使い切ってください。"
+      },
+      "ko": {
+        "description": "강낭콩은 볶아도 아삭함이 살아 있어 마늘 볶음과 도시락 반찬으로 빠르게 만들기 좋습니다.",
+        "storage": "냉장 보관하면서 물기를 줄이고, 3~4일 안에 사용하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "小番茄",
+    "slug": "cherry-tomato",
+    "aliases": [
+      "聖女番茄",
+      "小蕃茄"
+    ],
+    "category": "蔬菜",
+    "description": "小番茄酸甜多汁，適合沙拉、義大利麵配菜或快炒提味，一人份用量好控制。",
+    "caloriesPer100g": 18,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 3.9,
+    "storage": "冷藏保存，避免擠壓破皮；開封後盡快食用。",
+    "commonPairings": [
+      "番茄",
+      "雞胸肉",
+      "起司"
+    ],
+    "substitutes": [
+      "番茄",
+      "小黃瓜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "小番茄",
+      "en": "Cherry tomatoes",
+      "ja": "ミニトマト",
+      "ko": "방울토마토"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Cherry tomatoes are juicy and bright, making them useful for salads, pasta sides, and quick flavor boosts in small portions.",
+        "storage": "Keep cherry tomatoes refrigerated and avoid crushing them; once opened, use them soon."
+      },
+      "ja": {
+        "description": "ミニトマトは酸味と甘みがあり、サラダ、パスタの付け合わせ、少量の彩りづけに便利です。",
+        "storage": "冷蔵保存し、つぶれないように置いて、開封後は早めに使ってください。"
+      },
+      "ko": {
+        "description": "방울토마토는 상큼하고 달콤해 샐러드, 파스타 곁들임, 소량의 맛 보강용으로 쓰기 좋습니다.",
+        "storage": "냉장 보관하고 눌리지 않게 두며, 개봉 후에는 빨리 드세요."
+      }
+    }
+  },
+  {
+    "name": "牛奶",
+    "slug": "milk",
+    "aliases": [
+      "鮮奶",
+      "全脂鮮奶"
+    ],
+    "category": "加工品",
+    "description": "牛奶能做出白醬、濃湯與嫩煎肉類，是西式家常料理的基礎液體食材。",
+    "caloriesPer100g": 64,
+    "proteinPer100g": 3.3,
+    "fatPer100g": 3.6,
+    "carbsPer100g": 4.8,
+    "storage": "冷藏保存，開封後 3 天內飲用或料理完畢。",
+    "commonPairings": [
+      "蘑菇",
+      "雞胸肉",
+      "義大利麵"
+    ],
+    "substitutes": [
+      "鮮奶油",
+      "高湯"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "ten-minute-meals"
+    ],
+    "labels": {
+      "zh-TW": "牛奶",
+      "en": "Milk",
+      "ja": "牛乳",
+      "ko": "우유"
+    },
+    "categoryLabels": {
+      "zh-TW": "加工品",
+      "en": "Processed foods",
+      "ja": "加工食品",
+      "ko": "가공식품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Milk forms the base of cream sauces, soups, and tender pan-cooked dishes in many Western-style home recipes.",
+        "storage": "Keep milk refrigerated and finish it within about 3 days after opening."
+      },
+      "ja": {
+        "description": "牛乳はホワイトソース、スープ、やわらかな焼き料理のベースになり、洋風の家庭料理でよく使われます。",
+        "storage": "冷蔵保存し、開封後は3日ほどで飲み切るか料理に使い切ってください。"
+      },
+      "ko": {
+        "description": "우유는 화이트소스, 수프, 부드러운 팬 요리의 바탕이 되어 서양식 집밥에서 자주 쓰입니다.",
+        "storage": "냉장 보관하고, 개봉 후에는 3일 안에 마시거나 조리에 사용하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "透抽",
+    "slug": "squid",
+    "aliases": [
+      "花枝",
+      "中卷",
+      "魷魚"
+    ],
+    "category": "海鮮",
+    "description": "透抽鮮甜好料理，適合快炒、燙煮或加入義大利麵，一人份切圈快炒就很下飯。",
+    "caloriesPer100g": 92,
+    "proteinPer100g": 16,
+    "fatPer100g": 1.4,
+    "carbsPer100g": 3.1,
+    "storage": "購買當日料理最佳；暫放冷藏並保持乾爽。",
+    "commonPairings": [
+      "蒜頭",
+      "九層塔",
+      "番茄"
+    ],
+    "substitutes": [
+      "蝦仁",
+      "貢丸"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "透抽",
+      "en": "Squid",
+      "ja": "いか",
+      "ko": "오징어"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Squid has a clean sweetness and cooks quickly, making it great for stir-fries, brief boiling, and pasta dishes for one.",
+        "storage": "Squid is best cooked the day you buy it, and should be kept chilled and dry if you need to wait."
+      },
+      "ja": {
+        "description": "いかは甘みがあり扱いやすく、さっと炒める料理、下ゆで、パスタなど一人分でも使いやすい食材です。",
+        "storage": "購入当日に調理するのが理想で、少し置く場合は冷蔵しつつできるだけ乾いた状態を保ってください。"
+      },
+      "ko": {
+        "description": "오징어는 단맛이 있고 다루기 쉬워 빠른 볶음, 데침, 파스타 같은 1인분 요리에 잘 맞습니다.",
+        "storage": "구입한 날 조리하는 것이 가장 좋고, 잠시 보관할 때는 냉장하면서 물기가 차지 않게 두세요."
+      }
+    }
+  },
+  {
+    "name": "菜脯",
+    "slug": "preserved-radish",
+    "aliases": [
+      "蘿蔔乾",
+      "鹹菜脯"
+    ],
+    "category": "加工品",
+    "description": "菜脯鹹香下飯，和雞蛋快炒就是經典台灣家常，記得先試鹹度再調味。",
+    "caloriesPer100g": 30,
+    "proteinPer100g": 1.5,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 6,
+    "storage": "未開封陰涼乾燥；開封後密封冷藏，避免受潮。",
+    "commonPairings": [
+      "雞蛋",
+      "白飯",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "火腿",
+      "泡菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "菜脯",
+      "en": "Preserved radish",
+      "ja": "菜脯",
+      "ko": "무말랭이"
+    },
+    "categoryLabels": {
+      "zh-TW": "加工品",
+      "en": "Processed foods",
+      "ja": "加工食品",
+      "ko": "가공식품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Preserved radish is salty and aromatic, and it turns into a classic Taiwanese home dish when stir-fried with eggs.",
+        "storage": "Keep unopened preserved radish in a cool, dry place; once opened, seal and refrigerate it to prevent moisture."
+      },
+      "ja": {
+        "description": "菜脯は塩気とうま味があり、卵と炒めるだけで台湾らしい定番のおかずになります。",
+        "storage": "未開封は冷暗所で保存し、開封後は湿気を避けるため密封して冷蔵してください。"
+      },
+      "ko": {
+        "description": "무말랭이는 짭조름하고 감칠맛이 있어 달걀과 볶기만 해도 대만식 집반찬이 되는 재료입니다.",
+        "storage": "개봉 전에는 서늘하고 건조한 곳에 두고, 개봉 후에는 습기를 막기 위해 밀봉해 냉장하세요."
+      }
+    }
+  },
+  {
+    "name": "米粉",
+    "slug": "rice-vermicelli",
+    "aliases": [
+      "新竹米粉",
+      "細米粉"
+    ],
+    "category": "主食",
+    "description": "米粉煮得快、好入味，適合湯粉、炒米粉與簡易便當，是台灣常見的麵食主食。",
+    "caloriesPer100g": 350,
+    "proteinPer100g": 7,
+    "fatPer100g": 1,
+    "carbsPer100g": 78,
+    "storage": "密封陰涼乾燥處保存，避免受潮。",
+    "commonPairings": [
+      "貢丸",
+      "豆芽菜",
+      "韭菜"
+    ],
+    "substitutes": [
+      "麵條",
+      "冬粉"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "米粉",
+      "en": "Rice vermicelli",
+      "ja": "ビーフン",
+      "ko": "쌀국수"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Rice vermicelli cooks quickly and absorbs flavor well, making it a popular Taiwanese staple for soups and stir-fries.",
+        "storage": "Keep rice vermicelli sealed in a cool, dry place to protect it from moisture."
+      },
+      "ja": {
+        "description": "ビーフンは火が通りやすく味も入りやすいため、汁ビーフンや炒めビーフンに向く台湾でなじみ深い主食です。",
+        "storage": "湿気を避けて密封し、冷暗所で保存してください。"
+      },
+      "ko": {
+        "description": "쌀국수는 빨리 익고 양념이 잘 배어 국물과 볶음 요리에 모두 어울리는 대만식 면 주식입니다.",
+        "storage": "밀봉한 상태로 서늘하고 건조한 곳에 두어 습기를 막아 주세요."
+      }
+    }
+  },
+  {
+    "name": "臘肉",
+    "slug": "cured-pork",
+    "aliases": [
+      "臘味",
+      "臘肉片"
+    ],
+    "category": "加工品",
+    "description": "臘肉香氣濃郁，適合炒飯、蒸配菜或加入義大利麵，少量就能帶出完整風味。",
+    "caloriesPer100g": 400,
+    "proteinPer100g": 20,
+    "fatPer100g": 35,
+    "carbsPer100g": 1,
+    "storage": "冷藏或冷凍保存；料理前先切片，避免過鹹可先汆燙。",
+    "commonPairings": [
+      "高麗菜",
+      "蒜頭",
+      "白飯"
+    ],
+    "substitutes": [
+      "培根",
+      "火腿"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "臘肉",
+      "en": "Cured pork",
+      "ja": "臘肉",
+      "ko": "라육"
+    },
+    "categoryLabels": {
+      "zh-TW": "加工品",
+      "en": "Processed foods",
+      "ja": "加工食品",
+      "ko": "가공식품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Cured pork has a concentrated aroma and adds a lot of flavor to fried rice, steamed sides, and pasta with only a small amount.",
+        "storage": "Keep cured pork refrigerated or frozen, and blanch slices first if you want to soften the saltiness before cooking."
+      },
+      "ja": {
+        "description": "臘肉は香りが濃く、炒飯、蒸し料理、パスタに少量入れるだけでもしっかり味が決まります。",
+        "storage": "冷蔵または冷凍で保存し、塩気をやわらげたいときは調理前にさっと下ゆでしてください。"
+      },
+      "ko": {
+        "description": "라육은 향이 진해 볶음밥, 찜 반찬, 파스타에 조금만 넣어도 풍미가 확 살아납니다.",
+        "storage": "냉장이나 냉동으로 보관하고, 짠맛이 강하면 조리 전에 살짝 데쳐 사용하세요."
+      }
+    }
+  },
+  {
+    "name": "空心菜",
+    "slug": "water-spinach",
+    "aliases": [
+      "蕹菜",
+      "空芯菜"
+    ],
+    "category": "蔬菜",
+    "description": "空心菜是台灣最常見的綠葉菜之一，蒜炒或腐乳炒都能快速完成。",
+    "caloriesPer100g": 19,
+    "proteinPer100g": 2.6,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 3.1,
+    "storage": "包廚房紙巾後冷藏，2 到 3 天內食用。",
+    "commonPairings": [
+      "蒜頭",
+      "豆腐",
+      "貢丸"
+    ],
+    "substitutes": [
+      "青江菜",
+      "菠菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "空心菜",
+      "en": "Water spinach",
+      "ja": "空芯菜",
+      "ko": "공심채"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Water spinach is a classic Taiwanese leafy vegetable that comes together quickly with garlic or fermented tofu.",
+        "storage": "Wrap water spinach in a paper towel and refrigerate it, then use it within 2 to 3 days."
+      },
+      "ja": {
+        "description": "空芯菜は台湾でとても親しまれている葉物野菜で、にんにく炒めや腐乳炒めにすると手早く仕上がります。",
+        "storage": "キッチンペーパーで包んで冷蔵し、2〜3日以内に使い切ってください。"
+      },
+      "ko": {
+        "description": "공심채는 대만에서 아주 친숙한 잎채소로, 마늘 볶음이나 발효두부 볶음으로 빠르게 만들기 좋습니다.",
+        "storage": "키친타월로 감싸 냉장 보관하고, 2~3일 안에 사용하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "韭菜",
+    "slug": "chives-garlic",
+    "aliases": [
+      "韭黃",
+      "韭菜花"
+    ],
+    "category": "蔬菜",
+    "description": "韭菜香氣獨特，適合炒蛋、水餃內餡與快炒麵食，少量就能很提味。",
+    "caloriesPer100g": 32,
+    "proteinPer100g": 2.5,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 6.2,
+    "storage": "冷藏保存並保持乾燥，避免悶爛。",
+    "commonPairings": [
+      "雞蛋",
+      "豆腐",
+      "米粉"
+    ],
+    "substitutes": [
+      "青蔥",
+      "芹菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "韭菜",
+      "en": "Garlic chives",
+      "ja": "ニラ",
+      "ko": "부추"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Garlic chives have a distinct aroma and quickly lift egg dishes, dumpling fillings, and noodle stir-fries.",
+        "storage": "Keep garlic chives refrigerated and dry so they do not trap moisture and wilt."
+      },
+      "ja": {
+        "description": "ニラは香りがはっきりしていて、卵料理、餃子の具、炒め麺に少量加えるだけで味が立ちます。",
+        "storage": "冷蔵保存し、蒸れないように乾いた状態を保ってください。"
+      },
+      "ko": {
+        "description": "부추는 향이 뚜렷해 달걀요리, 만두소, 볶음면에 조금만 넣어도 맛이 확 살아납니다.",
+        "storage": "냉장 보관하면서 물기가 차지 않게 해 무르지 않도록 하세요."
+      }
+    }
+  },
+  {
+    "name": "茄子",
+    "slug": "eggplant",
+    "aliases": [
+      "紫茄",
+      "長茄"
+    ],
+    "category": "蔬菜",
+    "description": "茄子吸味力強，適合蒜燒、肉末燒或氣炸少油版本，一人份切條快煮即可。",
+    "caloriesPer100g": 25,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 6,
+    "storage": "冷藏保存，避免擠壓；切開後盡快料理。",
+    "commonPairings": [
+      "蒜頭",
+      "豬肉",
+      "九層塔"
+    ],
+    "substitutes": [
+      "櫛瓜",
+      "青椒"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "茄子",
+      "en": "Eggplant",
+      "ja": "なす",
+      "ko": "가지"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Eggplant absorbs flavor well and works for garlicky braises, minced meat dishes, or lighter air fryer versions.",
+        "storage": "Refrigerate eggplant carefully to avoid bruising, and cook it soon after cutting."
+      },
+      "ja": {
+        "description": "なすは味をよく吸うので、にんにく焼き、ひき肉煮、少ない油のエアフライヤー料理に向いています。",
+        "storage": "傷つけないように冷蔵し、切った後は早めに調理してください。"
+      },
+      "ko": {
+        "description": "가지는 양념을 잘 흡수해 마늘 조림, 다진 고기 요리, 기름을 줄인 에어프라이어 버전에 잘 어울립니다.",
+        "storage": "눌리지 않게 냉장 보관하고, 자른 뒤에는 가능한 빨리 조리하세요."
+      }
+    }
+  },
+  {
+    "name": "豆芽菜",
+    "slug": "bean-sprouts",
+    "aliases": [
+      "黃豆芽",
+      "綠豆芽"
+    ],
+    "category": "蔬菜",
+    "description": "豆芽菜脆嫩便宜，適合快炒、湯麵與燙青菜，能很快補足蔬菜份量。",
+    "caloriesPer100g": 30,
+    "proteinPer100g": 3,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 6,
+    "storage": "冷藏當天或隔天料理最佳，避免悶水變軟。",
+    "commonPairings": [
+      "韭菜",
+      "貢丸",
+      "米粉"
+    ],
+    "substitutes": [
+      "高麗菜",
+      "青江菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "豆芽菜",
+      "en": "Bean sprouts",
+      "ja": "もやし",
+      "ko": "콩나물"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Bean sprouts are crisp, inexpensive, and useful for quick stir-fries, noodle soups, and blanched vegetable sides.",
+        "storage": "Bean sprouts are best cooked the same day or the day after refrigeration before they soften."
+      },
+      "ja": {
+        "description": "もやしは安くて歯ざわりもよく、さっと炒める料理、汁麺、ゆで野菜のかさ増しに便利です。",
+        "storage": "冷蔵したら当日か翌日までに使うと、やわらかくなりにくく食感を保ちやすいです。"
+      },
+      "ko": {
+        "description": "콩나물은 저렴하고 아삭해 빠른 볶음, 국수 국물, 데친 채소 반찬에 활용하기 좋은 재료입니다.",
+        "storage": "냉장 후에는 당일이나 다음 날 안에 조리해야 쉽게 무르지 않고 식감을 살릴 수 있습니다."
+      }
+    }
+  },
+  {
+    "name": "油豆腐",
+    "slug": "fried-tofu",
+    "aliases": [
+      "豆泡",
+      "炸豆腐"
+    ],
+    "category": "豆製品",
+    "description": "油豆腐吸湯入味，適合滷味、火鍋與簡易燒煮，是豆製品裡很好搭的品項。",
+    "caloriesPer100g": 150,
+    "proteinPer100g": 12,
+    "fatPer100g": 9,
+    "carbsPer100g": 5,
+    "storage": "冷藏 2 到 3 天；若已煮過建議當日吃完。",
+    "commonPairings": [
+      "高麗菜",
+      "香菇",
+      "青蔥"
+    ],
+    "substitutes": [
+      "豆腐",
+      "豆干"
+    ],
+    "relatedScenarios": [
+      "budget-meals",
+      "bento-meals",
+      "electric-pot-meals"
+    ],
+    "labels": {
+      "zh-TW": "油豆腐",
+      "en": "Fried tofu",
+      "ja": "油揚げ",
+      "ko": "유부"
+    },
+    "categoryLabels": {
+      "zh-TW": "豆製品",
+      "en": "Soy products",
+      "ja": "豆製品",
+      "ko": "두부·콩가공품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Fried tofu soaks up broth and seasoning easily, which makes it a handy soy product for braises, hot pots, and simmered dishes.",
+        "storage": "Keep fried tofu refrigerated for 2 to 3 days, and finish cooked portions the same day when possible."
+      },
+      "ja": {
+        "description": "油揚げはだしや味を吸いやすく、煮物、鍋物、さっと煮る料理で使いやすい豆製品です。",
+        "storage": "冷蔵で2〜3日保存でき、すでに加熱したものはできるだけ当日中に食べ切ってください。"
+      },
+      "ko": {
+        "description": "유부는 국물과 양념을 잘 흡수해 조림, 전골, 간단한 국물 요리에 쓰기 좋은 두부 가공품입니다.",
+        "storage": "냉장으로 2~3일 보관 가능하며, 이미 익힌 것은 가능하면 당일 안에 드세요."
+      }
+    }
+  },
+  {
+    "name": "雞腿肉",
+    "slug": "chicken-thigh",
+    "aliases": [
+      "雞腿",
+      "去骨雞腿肉"
+    ],
+    "category": "肉類",
+    "description": "雞腿肉油脂與肉香均衡，適合三杯雞、照燒與氣炸，比雞胸更不易柴。",
+    "caloriesPer100g": 209,
+    "proteinPer100g": 26,
+    "fatPer100g": 11,
+    "carbsPer100g": 0,
+    "storage": "冷藏 1 到 2 天；可分裝冷凍延長保存。",
+    "commonPairings": [
+      "九層塔",
+      "蒜頭",
+      "白飯"
+    ],
+    "substitutes": [
+      "雞胸肉",
+      "雞翅"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals",
+      "air-fryer-meals"
+    ],
+    "labels": {
+      "zh-TW": "雞腿肉",
+      "en": "Chicken thigh",
+      "ja": "鶏もも肉",
+      "ko": "닭다리살"
+    },
+    "categoryLabels": {
+      "zh-TW": "肉類",
+      "en": "Meat",
+      "ja": "肉類",
+      "ko": "육류"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Chicken thigh has a good balance of richness and meatiness, and stays juicier than chicken breast in braises, air fryer meals, and skillet dishes.",
+        "storage": "Use refrigerated chicken thigh within 1 to 2 days, or freeze portions for longer storage."
+      },
+      "ja": {
+        "description": "鶏もも肉は脂と肉のうま味のバランスがよく、照り焼きやエアフライヤー料理でもパサつきにくいです。",
+        "storage": "冷蔵なら1〜2日以内に使い、長く保存したいときは小分けして冷凍してください。"
+      },
+      "ko": {
+        "description": "닭다리살은 기름기와 육향의 균형이 좋아 조림, 에어프라이어, 팬 요리에서도 닭가슴살보다 퍽퍽하지 않게 만들기 쉽습니다.",
+        "storage": "냉장이라면 1~2일 안에 사용하고, 더 오래 두려면 소분해 냉동하세요."
+      }
+    }
+  },
+  {
+    "name": "冬粉",
+    "slug": "glass-noodles",
+    "aliases": [
+      "粉絲",
+      "水晶粉"
+    ],
+    "category": "主食",
+    "description": "冬粉透明好入味，適合冬粉蝦、火鍋與涼拌，一人份泡軟後快煮即可。",
+    "caloriesPer100g": 351,
+    "proteinPer100g": 0.2,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 87,
+    "storage": "密封陰涼乾燥處保存。",
+    "commonPairings": [
+      "蝦仁",
+      "韭菜",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "米粉",
+      "烏龍麵"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "冬粉",
+      "en": "Glass noodles",
+      "ja": "春雨",
+      "ko": "당면"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Glass noodles absorb flavor easily and cook quickly after soaking, making them useful for shrimp dishes, hot pots, and cold salads.",
+        "storage": "Keep glass noodles sealed in a cool, dry place."
+      },
+      "ja": {
+        "description": "春雨は味が入りやすく、戻してしまえばすぐ火が通るので、えび料理、鍋物、和え物に向いています。",
+        "storage": "密封して冷暗所で保存してください。"
+      },
+      "ko": {
+        "description": "당면은 양념이 잘 배고 불린 뒤 금방 익어 새우 요리, 전골, 무침에 잘 어울립니다.",
+        "storage": "밀봉한 상태로 서늘하고 건조한 곳에 보관하세요."
+      }
+    }
+  },
+  {
+    "name": "水餃",
+    "slug": "dumplings",
+    "aliases": [
+      "冷凍水餃",
+      "鍋貼"
+    ],
+    "category": "加工品",
+    "description": "水餃是冰箱常備救急主食，煎、煮、蒸都能快速完成一人份晚餐。",
+    "caloriesPer100g": 230,
+    "proteinPer100g": 8,
+    "fatPer100g": 10,
+    "carbsPer100g": 28,
+    "storage": "冷凍保存；依包裝建議期限食用。",
+    "commonPairings": [
+      "青蔥",
+      "醋",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "貢丸",
+      "泡麵"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "late-night-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "水餃",
+      "en": "Dumplings",
+      "ja": "水餃",
+      "ko": "만두"
+    },
+    "categoryLabels": {
+      "zh-TW": "加工品",
+      "en": "Processed foods",
+      "ja": "加工食品",
+      "ko": "가공식품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Dumplings are a freezer-friendly emergency staple that can quickly become a full one-person dinner by boiling, steaming, or pan-frying.",
+        "storage": "Keep dumplings frozen and follow the package guidance for storage time."
+      },
+      "ja": {
+        "description": "水餃は冷凍庫にあると心強い主食で、ゆでる、蒸す、焼くのどれでも一人分の夕食をすぐ用意できます。",
+        "storage": "冷凍保存し、保存期間はパッケージ表示を目安にしてください。"
+      },
+      "ko": {
+        "description": "만두는 냉동실에 두기 좋은 비상 주식으로, 삶기, 찌기, 굽기만 해도 1인분 저녁을 빠르게 만들 수 있습니다.",
+        "storage": "냉동 보관하고, 보관 기간은 제품 포장 안내를 따르세요."
+      }
+    }
+  },
+  {
+    "name": "香腸",
+    "slug": "sausage",
+    "aliases": [
+      "台式香腸",
+      "小香腸"
+    ],
+    "category": "加工品",
+    "description": "香腸煎香後很下飯，適合炒飯、配菜或氣炸當主菜，一人份 1 到 2 根剛好。",
+    "caloriesPer100g": 320,
+    "proteinPer100g": 12,
+    "fatPer100g": 28,
+    "carbsPer100g": 3,
+    "storage": "冷藏或冷凍；開封後盡快料理。",
+    "commonPairings": [
+      "高麗菜",
+      "白飯",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "培根",
+      "火腿"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "late-night-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "香腸",
+      "en": "Sausage",
+      "ja": "ソーセージ",
+      "ko": "소시지"
+    },
+    "categoryLabels": {
+      "zh-TW": "加工品",
+      "en": "Processed foods",
+      "ja": "加工食品",
+      "ko": "가공식품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Sausage turns nicely savory when browned and works well in fried rice, side dishes, or quick air fryer mains.",
+        "storage": "Keep sausage refrigerated or frozen, and cook it soon after opening."
+      },
+      "ja": {
+        "description": "ソーセージは焼くと香ばしく、ご飯のおかず、炒飯、エアフライヤーの主菜に使いやすいです。",
+        "storage": "冷蔵または冷凍で保存し、開封後は早めに調理してください。"
+      },
+      "ko": {
+        "description": "소시지는 노릇하게 구우면 밥반찬이 잘 되고, 볶음밥이나 에어프라이어 메인 메뉴로도 쓰기 좋습니다.",
+        "storage": "냉장 또는 냉동 보관하고, 개봉 후에는 빨리 조리하세요."
+      }
+    }
+  },
+  {
+    "name": "虱目魚",
+    "slug": "milkfish",
+    "aliases": [
+      "虱目魚肚",
+      "台灣鯛"
+    ],
+    "category": "海鮮",
+    "description": "虱目魚是台灣代表性魚種，煎香或清蒸都很家常，魚肚部位油脂豐富特別受歡迎。",
+    "caloriesPer100g": 180,
+    "proteinPer100g": 20,
+    "fatPer100g": 11,
+    "carbsPer100g": 0,
+    "storage": "冷藏當日料理；冷凍需確實分裝。",
+    "commonPairings": [
+      "薑",
+      "蒜頭",
+      "白飯"
+    ],
+    "substitutes": [
+      "鯖魚",
+      "鱈魚"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "bento-meals"
+    ],
+    "labels": {
+      "zh-TW": "虱目魚",
+      "en": "Milkfish",
+      "ja": "サバヒー",
+      "ko": "밀크피시"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Milkfish is a signature Taiwanese fish that works well pan-seared or steamed, with the belly cut especially prized for its richness.",
+        "storage": "Cook refrigerated milkfish the same day, or portion and freeze it carefully if needed."
+      },
+      "ja": {
+        "description": "サバヒーは台湾を代表する魚で、焼いても蒸しても家庭料理になりやすく、腹側は脂のりのよさで特に人気です。",
+        "storage": "冷蔵なら当日中に調理し、冷凍する場合は小分けしてしっかり包んでください。"
+      },
+      "ko": {
+        "description": "밀크피시는 대만을 대표하는 생선으로, 굽거나 찌기만 해도 집밥 메인 메뉴가 되며 배쪽 부위는 특히 기름져 인기가 높습니다.",
+        "storage": "냉장 상태에서는 당일 조리하고, 냉동이 필요하면 소분해 꼼꼼히 포장하세요."
+      }
+    }
+  },
+  {
+    "name": "吻仔魚",
+    "slug": "whitebait",
+    "aliases": [
+      "吻魚",
+      "鯷魚"
+    ],
+    "category": "海鮮",
+    "description": "吻仔魚細嫩鮮甜，常做成煎蛋或簡易湯品，是台灣沿海常見的家常海鮮。",
+    "caloriesPer100g": 130,
+    "proteinPer100g": 18,
+    "fatPer100g": 5,
+    "carbsPer100g": 1,
+    "storage": "冷藏當日料理最佳，避免久放。",
+    "commonPairings": [
+      "雞蛋",
+      "韭菜",
+      "白飯"
+    ],
+    "substitutes": [
+      "蝦仁",
+      "罐頭鮪魚"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "吻仔魚",
+      "en": "Whitebait",
+      "ja": "しらす",
+      "ko": "멸치"
+    },
+    "categoryLabels": {
+      "zh-TW": "海鮮",
+      "en": "Seafood",
+      "ja": "海鮮",
+      "ko": "해산물"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Whitebait is delicate and naturally sweet, and is often used in egg dishes and light soups in Taiwanese home cooking.",
+        "storage": "Whitebait is best cooked the same day, since it does not keep well for long in the refrigerator."
+      },
+      "ja": {
+        "description": "しらすはやわらかく甘みがあり、卵料理や軽い汁物によく使われる台湾の身近な海鮮です。",
+        "storage": "日持ちしにくいため、冷蔵してもできるだけ当日に調理するのがおすすめです。"
+      },
+      "ko": {
+        "description": "멸치는 부드럽고 은은한 단맛이 있어 달걀요리와 가벼운 국물에 자주 쓰이는 친숙한 해산물입니다.",
+        "storage": "오래 두기 어렵기 때문에 냉장하더라도 가능한 한 당일 조리하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "粄條",
+    "slug": "flat-rice-noodles",
+    "aliases": [
+      "河粉",
+      "寬米粉"
+    ],
+    "category": "主食",
+    "description": "粄條滑嫩好炒，客家與南部家常常見，適合乾炒或湯粉的一人份料理。",
+    "caloriesPer100g": 140,
+    "proteinPer100g": 3,
+    "fatPer100g": 0.5,
+    "carbsPer100g": 32,
+    "storage": "冷藏 2 到 3 天；若為乾燥品則密封保存。",
+    "commonPairings": [
+      "豬肉",
+      "豆芽菜",
+      "韭菜"
+    ],
+    "substitutes": [
+      "米粉",
+      "河粉"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "粄條",
+      "en": "Flat rice noodles",
+      "ja": "粄條",
+      "ko": "쌀국수"
+    },
+    "categoryLabels": {
+      "zh-TW": "主食",
+      "en": "Staples",
+      "ja": "主食",
+      "ko": "주식"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Flat rice noodles are smooth and tender, making them a familiar base for dry stir-fries and soup noodle dishes.",
+        "storage": "Keep fresh flat rice noodles refrigerated for 2 to 3 days; dried ones should stay sealed in a cool, dry place."
+      },
+      "ja": {
+        "description": "粄條はつるっとした食感で、炒め麺にも汁麺にも使いやすい、客家料理や南部料理で親しまれる主食です。",
+        "storage": "生タイプは冷蔵で2〜3日、乾燥タイプは密封して冷暗所で保存してください。"
+      },
+      "ko": {
+        "description": "쌀국수는 매끈하고 부드러운 식감으로 볶음면과 국물면 모두에 잘 어울리는 친숙한 면 요리 재료입니다.",
+        "storage": "생면은 냉장으로 2~3일, 건면은 밀봉해 서늘하고 건조한 곳에 보관하세요."
+      }
+    }
+  },
+  {
+    "name": "竹筍",
+    "slug": "bamboo-shoot",
+    "aliases": [
+      "麻竹筍",
+      "綠竹筍"
+    ],
+    "category": "蔬菜",
+    "description": "竹筍清脆有纖維，適合肉絲快炒、滷味或湯品，是季節性但很台味的蔬菜。",
+    "caloriesPer100g": 27,
+    "proteinPer100g": 2.6,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 5.2,
+    "storage": "冷藏並泡水保存；罐頭或真空包依包裝說明。",
+    "commonPairings": [
+      "豬肉",
+      "香菇",
+      "高麗菜"
+    ],
+    "substitutes": [
+      "筊白筍",
+      "玉米"
+    ],
+    "relatedScenarios": [
+      "bento-meals",
+      "one-person-meal"
+    ],
+    "labels": {
+      "zh-TW": "竹筍",
+      "en": "Bamboo shoot",
+      "ja": "たけのこ",
+      "ko": "죽순"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Bamboo shoots are crisp and fibrous, making them a seasonal but distinctly Taiwanese vegetable for stir-fries, braises, and soups.",
+        "storage": "Keep bamboo shoots refrigerated in water if fresh, and follow the package directions for canned or vacuum-packed versions."
+      },
+      "ja": {
+        "description": "たけのこは歯ざわりがよく繊維感もあり、肉との炒め物、煮物、スープで存在感のある季節野菜です。",
+        "storage": "生のものは水に浸して冷蔵し、缶詰や真空パックは表示に従って保存してください。"
+      },
+      "ko": {
+        "description": "죽순은 아삭하고 섬유감이 있어 고기 볶음, 조림, 국물 요리에 잘 어울리는 계절감 있는 채소입니다.",
+        "storage": "생 죽순은 물에 담가 냉장 보관하고, 통조림이나 진공 포장은 제품 안내에 따라 보관하세요."
+      }
+    }
+  },
+  {
+    "name": "苦瓜",
+    "slug": "bitter-melon",
+    "aliases": [
+      "白苦瓜",
+      "山苦瓜"
+    ],
+    "category": "蔬菜",
+    "description": "苦瓜微苦回甘，常與鹹蛋、肉末快炒，是台灣夏季很常見的家常蔬菜。",
+    "caloriesPer100g": 17,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 3.7,
+    "storage": "冷藏保存，切開後盡快料理避免變軟。",
+    "commonPairings": [
+      "雞蛋",
+      "豆干",
+      "蒜頭"
+    ],
+    "substitutes": [
+      "青椒",
+      "櫛瓜"
+    ],
+    "relatedScenarios": [
+      "one-person-meal",
+      "weight-loss-meals"
+    ],
+    "labels": {
+      "zh-TW": "苦瓜",
+      "en": "Bitter melon",
+      "ja": "にがうり",
+      "ko": "여주"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Bitter melon has a gentle bitterness followed by sweetness, and is a classic summer vegetable in Taiwanese home cooking.",
+        "storage": "Keep bitter melon refrigerated, and cook it soon after cutting so it does not soften too much."
+      },
+      "ja": {
+        "description": "にがうりはほろ苦さのあとに甘みがあり、塩卵炒めや肉との炒め物で親しまれる台湾の夏野菜です。",
+        "storage": "冷蔵保存し、切った後はやわらかくなりすぎないうちに早めに調理してください。"
+      },
+      "ko": {
+        "description": "여주는 은은한 쌉쌀함 뒤에 단맛이 돌아 대만 여름 집반찬에서 자주 보이는 채소입니다.",
+        "storage": "냉장 보관하고, 자른 뒤에는 물러지기 전에 빨리 조리하는 것이 좋습니다."
+      }
+    }
+  },
+  {
+    "name": "百頁豆腐",
+    "slug": "thousand-layer-tofu",
+    "aliases": [
+      "千張豆腐",
+      "豆皮卷"
+    ],
+    "category": "豆製品",
+    "description": "百頁豆腐耐煮耐烤，適合火鍋、燒烤與滷味，口感紮實又吸味。",
+    "caloriesPer100g": 120,
+    "proteinPer100g": 11,
+    "fatPer100g": 6,
+    "carbsPer100g": 4,
+    "storage": "冷藏 2 到 3 天；開封後盡快食用。",
+    "commonPairings": [
+      "高麗菜",
+      "香菇",
+      "青蔥"
+    ],
+    "substitutes": [
+      "油豆腐",
+      "豆干"
+    ],
+    "relatedScenarios": [
+      "electric-pot-meals",
+      "budget-meals"
+    ],
+    "labels": {
+      "zh-TW": "百頁豆腐",
+      "en": "Thousand-layer tofu",
+      "ja": "百頁豆腐",
+      "ko": "백페이지두부"
+    },
+    "categoryLabels": {
+      "zh-TW": "豆製品",
+      "en": "Soy products",
+      "ja": "豆製品",
+      "ko": "두부·콩가공품"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Thousand-layer tofu holds its shape well in hot pots, braises, and grilled dishes while soaking up plenty of flavor.",
+        "storage": "Keep thousand-layer tofu refrigerated for 2 to 3 days, and finish it soon after opening."
+      },
+      "ja": {
+        "description": "百頁豆腐は煮ても焼いても崩れにくく、鍋物、焼き物、煮物でしっかり味を吸ってくれます。",
+        "storage": "冷蔵で2〜3日保存でき、開封後はできるだけ早めに使い切ってください。"
+      },
+      "ko": {
+        "description": "백페이지두부는 전골, 구이, 조림에서도 형태가 잘 유지되면서 양념을 듬뿍 머금는 두부 가공품입니다.",
+        "storage": "냉장으로 2~3일 보관 가능하며, 개봉 후에는 가능한 빨리 드세요."
+      }
+    }
+  },
+  {
+    "name": "水蓮",
+    "slug": "water-lily-stem",
+    "aliases": [
+      "水蓮菜",
+      "野蓮",
+      "子午蓮"
+    ],
+    "category": "蔬菜",
+    "description": "水蓮口感爽脆、帶淡淡清香，快炒、汆燙或入湯都能保留脆度，是台灣很受歡迎的水生蔬菜。",
+    "caloriesPer100g": 20,
+    "proteinPer100g": 1.6,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 3.5,
+    "storage": "冷藏並包廚房紙巾，2 到 3 天內料理；下鍋前再清洗口感較脆。",
+    "commonPairings": [
+      "蒜頭",
+      "菇類",
+      "蝦仁",
+      "貢丸"
+    ],
+    "substitutes": [
+      "空心菜",
+      "青江菜"
+    ],
+    "relatedScenarios": [
+      "ten-minute-meals",
+      "one-person-meal",
+      "weight-loss-meals"
+    ],
+    "labels": {
+      "zh-TW": "水蓮",
+      "en": "Water lily stem",
+      "ja": "水蓮",
+      "ko": "연꽃줄기"
+    },
+    "categoryLabels": {
+      "zh-TW": "蔬菜",
+      "en": "Vegetables",
+      "ja": "野菜",
+      "ko": "채소"
+    },
+    "localeCopy": {
+      "en": {
+        "description": "Water lily stem is crisp and lightly fragrant, making it a popular Taiwanese water vegetable for fast stir-fries and simple soups.",
+        "storage": "Wrap water lily stem in a paper towel and refrigerate it, then cook it within 2 to 3 days and wash it right before using."
+      },
+      "ja": {
+        "description": "水蓮はしゃきっとした食感とやさしい香りがあり、さっと炒める料理や軽いスープで人気の台湾野菜です。",
+        "storage": "キッチンペーパーで包んで冷蔵し、2〜3日以内に調理してください。洗うのは使う直前がおすすめです。"
+      },
+      "ko": {
+        "description": "연꽃줄기는 아삭한 식감과 은은한 향이 있어 빠른 볶음과 가벼운 국물 요리에 인기 있는 대만 채소입니다.",
+        "storage": "키친타월로 감싸 냉장 보관하고 2~3일 안에 조리하세요. 씻는 것은 사용 직전에 하는 편이 좋습니다."
+      }
+    }
+  }
+]

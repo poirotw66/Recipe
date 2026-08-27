@@ -1,0 +1,81 @@
+---
+title: 青花菜菇菇炒蛋
+slug: broccoli-mushroom-egg
+description: 青花菜菇菇炒蛋是高纖高蛋白的快炒菜，適合減脂晚餐。
+coverImage: /images/recipes/broccoli-mushroom-egg.webp
+servings: 2
+prepTime: 7
+cookTime: 10
+totalTime: 17
+difficulty: 簡單
+calories: 300
+protein: 20
+fat: 16
+carbs: 20
+category: "家常菜"
+scenarios:
+- 減脂料理
+- 高蛋白料理
+- 10 分鐘料理
+equipment:
+- 平底鍋
+ingredients:
+- name: 青花菜
+  amount: '1'
+  unit: 碗
+  isCore: true
+- name: 菇類
+  amount: '1'
+  unit: 碗
+  isCore: true
+- name: 雞蛋
+  amount: '2'
+  unit: 顆
+  isCore: true
+seasonings:
+- name: 橄欖油
+  amount: '1'
+  unit: 大匙
+- name: 鹽
+  amount: 1/4
+  unit: 小匙
+- name: 黑胡椒
+  amount: 少許
+  unit: ''
+tags:
+- 減脂
+- 高纖
+intro: 青花菜先汆燙或微波一下，再和菇類、雞蛋快炒，口感會更穩。
+steps:
+- 青花菜 1碗 切小朵；菇類 1碗 切片；雞蛋 2顆 打散。鹽 1/4小匙 與 黑胡椒 少許 混勻備用。
+- 青花菜小朵微波 1 分鐘或汆燙 30 秒至半熟，瀝乾備用。
+- 平底鍋中火熱 橄欖油 1 大匙，下菇類炒 2 分鐘至出水略軟、邊緣微捲曲。
+- 加入青花菜拌炒 1 分鐘，顏色應更翠綠、梗仍帶脆。
+- 將菜推至鍋邊，倒入蛋液，待底部半凝固後用鍋鏟輕推成嫩蛋塊（約 1 分鐘）。
+- 全部翻拌均勻，以鹽與黑胡椒調味；蛋液半凝固帶濕潤即可起鍋。
+tips:
+- 青花菜不要煮太久，保持脆度會更好吃。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
+storage: 冷藏可保存 1 天，適合隔天午餐。
+substitutions:
+- 高麗菜
+- 豆腐
+faqs:
+- question: 可以不先燙青花菜嗎？
+  answer: 可以，但炒的時間要拉長，並加一點水蓋鍋悶熟。
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+relatedIngredients:
+- 青花菜
+- 菇類
+- 雞蛋
+featured: false
+publishedAt: '2026-05-29'
+updatedAt: "2026-07-30"
+customAdditions:
+- 火腿丁
+- 起司絲
+- 蔥花
+---
+
+這道菜顏色漂亮，拿來補一餐的蔬菜量很剛好。

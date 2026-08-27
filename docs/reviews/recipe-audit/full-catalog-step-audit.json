@@ -1,0 +1,4924 @@
+{
+  "generatedAt": "2026-06-17",
+  "summary": {
+    "total": 289,
+    "byGroup": {
+      "home": {
+        "count": 161,
+        "avgStepChars": 35,
+        "thin": 109,
+        "good": 4
+      },
+      "dubu-house": {
+        "count": 58,
+        "avgStepChars": 47,
+        "thin": 24,
+        "good": 18
+      },
+      "second-floor": {
+        "count": 70,
+        "avgStepChars": 59,
+        "thin": 1,
+        "good": 53
+      }
+    },
+    "thin": [
+      {
+        "slug": "air-fryer-butter-corn",
+        "title": "氣炸奶油玉米",
+        "group": "home",
+        "steps": 6,
+        "avg": 26,
+        "category": "家常菜"
+      },
+      {
+        "slug": "air-fryer-crispy-chicken-bites",
+        "title": "氣炸台式雞塊",
+        "group": "home",
+        "steps": 5,
+        "avg": 30,
+        "category": "主菜"
+      },
+      {
+        "slug": "air-fryer-crispy-tofu-cubes",
+        "title": "氣炸酥炸豆腐丁",
+        "group": "home",
+        "steps": 6,
+        "avg": 34,
+        "category": "家常菜"
+      },
+      {
+        "slug": "air-fryer-garlic-mushrooms",
+        "title": "氣炸蒜香菇類",
+        "group": "home",
+        "steps": 6,
+        "avg": 32,
+        "category": "家常菜"
+      },
+      {
+        "slug": "air-fryer-garlic-okra",
+        "title": "氣炸蒜香秋葵",
+        "group": "home",
+        "steps": 6,
+        "avg": 29,
+        "category": "家常菜"
+      },
+      {
+        "slug": "air-fryer-garlic-pork-chop",
+        "title": "氣炸蒜香豬排",
+        "group": "home",
+        "steps": 6,
+        "avg": 32,
+        "category": "主菜"
+      },
+      {
+        "slug": "air-fryer-garlic-shrimp",
+        "title": "氣炸蒜香蝦仁",
+        "group": "home",
+        "steps": 6,
+        "avg": 35,
+        "category": "主菜"
+      },
+      {
+        "slug": "air-fryer-honey-sweet-potato",
+        "title": "氣炸蜜蕃薯",
+        "group": "home",
+        "steps": 6,
+        "avg": 33,
+        "category": "家常菜"
+      },
+      {
+        "slug": "air-fryer-lemon-fish-fillet",
+        "title": "氣炸檸檬魚排",
+        "group": "home",
+        "steps": 6,
+        "avg": 38,
+        "category": "主菜"
+      },
+      {
+        "slug": "air-fryer-soy-chicken-wings",
+        "title": "氣炸醬油雞翅",
+        "group": "home",
+        "steps": 6,
+        "avg": 34,
+        "category": "主菜"
+      },
+      {
+        "slug": "airfryer-garlic-chicken-broccoli",
+        "title": "氣炸蒜香雞胸佐青花菜",
+        "group": "home",
+        "steps": 4,
+        "avg": 36,
+        "category": "主菜"
+      },
+      {
+        "slug": "airfryer-tofu-mushroom-main",
+        "title": "氣炸豆腐菇菇主菜",
+        "group": "home",
+        "steps": 4,
+        "avg": 34,
+        "category": "主菜"
+      },
+      {
+        "slug": "beef-mushroom-stirfry",
+        "title": "牛肉炒香菇",
+        "group": "home",
+        "steps": 5,
+        "avg": 32,
+        "category": "家常菜"
+      },
+      {
+        "slug": "beef-tomato-noodles",
+        "title": "番茄牛肉麵",
+        "group": "home",
+        "steps": 5,
+        "avg": 37,
+        "category": "飯麵"
+      },
+      {
+        "slug": "bento-black-pepper-beef",
+        "title": "便當黑椒牛肉",
+        "group": "home",
+        "steps": 5,
+        "avg": 23,
+        "category": "便當菜"
+      },
+      {
+        "slug": "bento-braised-tofu-egg",
+        "title": "便當滷蛋豆腐",
+        "group": "home",
+        "steps": 5,
+        "avg": 17,
+        "category": "便當菜"
+      },
+      {
+        "slug": "bento-ginger-chicken",
+        "title": "便當薑炒雞肉",
+        "group": "home",
+        "steps": 5,
+        "avg": 23,
+        "category": "便當菜"
+      },
+      {
+        "slug": "bento-honey-soy-pork",
+        "title": "便當蜜汁滷肉",
+        "group": "home",
+        "steps": 5,
+        "avg": 19,
+        "category": "便當菜"
+      },
+      {
+        "slug": "bento-stir-fried-cabbage",
+        "title": "便當炒高麗菜",
+        "group": "home",
+        "steps": 5,
+        "avg": 17,
+        "category": "便當菜"
+      },
+      {
+        "slug": "broccoli-mushroom-egg",
+        "title": "青花菜菇菇炒蛋",
+        "group": "home",
+        "steps": 5,
+        "avg": 31,
+        "category": "家常菜"
+      },
+      {
+        "slug": "broccoli-tofu-garlic-stirfry",
+        "title": "青花菜豆腐蒜炒",
+        "group": "home",
+        "steps": 5,
+        "avg": 29,
+        "category": "家常菜"
+      },
+      {
+        "slug": "budget-cabbage-noodle-soup",
+        "title": "省錢高麗菜麵",
+        "group": "home",
+        "steps": 5,
+        "avg": 16,
+        "category": "飯麵"
+      },
+      {
+        "slug": "budget-simple-egg-fried-rice",
+        "title": "省錢蛋炒飯",
+        "group": "home",
+        "steps": 6,
+        "avg": 20,
+        "category": "飯麵"
+      },
+      {
+        "slug": "budget-tofu-rice-bowl",
+        "title": "省錢豆腐蓋飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 39,
+        "category": "飯麵"
+      },
+      {
+        "slug": "butter-garlic-instant-noodles",
+        "title": "奶油蒜香泡麵",
+        "group": "home",
+        "steps": 5,
+        "avg": 21,
+        "category": "飯麵"
+      },
+      {
+        "slug": "cabbage-egg-stir-fry",
+        "title": "高麗菜炒蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 38,
+        "category": "家常菜"
+      },
+      {
+        "slug": "cabbage-mushroom-clear-soup",
+        "title": "高麗菜菇菇清湯",
+        "group": "home",
+        "steps": 5,
+        "avg": 32,
+        "category": "湯品"
+      },
+      {
+        "slug": "cabbage-mushroom-rice",
+        "title": "高麗菜菇菇炊飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 29,
+        "category": "飯麵"
+      },
+      {
+        "slug": "chefs-daily-soup",
+        "title": "主廚每日例湯",
+        "group": "home",
+        "steps": 6,
+        "avg": 33,
+        "category": "湯品"
+      },
+      {
+        "slug": "classic-caesar-chicken-salad",
+        "title": "經典凱薩嫩雞沙拉",
+        "group": "home",
+        "steps": 4,
+        "avg": 30,
+        "category": "家常菜"
+      },
+      {
+        "slug": "clearout-tofu-veggie-soup",
+        "title": "豆腐蔬菜清湯",
+        "group": "home",
+        "steps": 6,
+        "avg": 25,
+        "category": "湯品"
+      },
+      {
+        "slug": "clearout-veggie-egg-fried-rice",
+        "title": "家常蛋炒飯",
+        "group": "home",
+        "steps": 6,
+        "avg": 23,
+        "category": "飯麵"
+      },
+      {
+        "slug": "crispy-cod-brunch",
+        "title": "金黃酥炸鱈魚早午餐",
+        "group": "home",
+        "steps": 5,
+        "avg": 36,
+        "category": "主菜"
+      },
+      {
+        "slug": "dh-bbq-wrap",
+        "title": "醬燒青蔥牛五花/豬梅花",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 39,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-brown-sugar-pancake",
+        "title": "韓式爆漿黑糖餅",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 38,
+        "category": "甜點"
+      },
+      {
+        "slug": "dh-cheese-pink-sauce-fried-squid-with-rice-cake",
+        "title": "起司玫瑰醬魷魚年糕",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 36,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-deep-fried-tofu",
+        "title": "黃金酥炸嫩豆腐",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 31,
+        "category": "前菜"
+      },
+      {
+        "slug": "dh-fried-oysters",
+        "title": "巨濟島炸牡蠣",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 29,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-ginseng-chicken-clay-pot",
+        "title": "人蔘砂鍋雞",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 36,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-korean-bbq-beef-short-ribs",
+        "title": "韓式BBQ鐵板翼板牛",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 34,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-korean-cheese-egg-roll",
+        "title": "韓式起司烘蛋捲",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 30,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-korean-style-bbq-fish-ball",
+        "title": "韓風辣味魚丸燒",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 36,
+        "category": "前菜"
+      },
+      {
+        "slug": "dh-korean-sweet-and-sour-pork",
+        "title": "韓國糖醋肉",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 39,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-korean-vermicelli-tofu-roll",
+        "title": "韓式金絲豆腐捲",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 28,
+        "category": "前菜"
+      },
+      {
+        "slug": "dh-ox-bone-soup",
+        "title": "神仙霜降雪濃湯",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 28,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-plant-based-fried-chicken-with-rice-cake",
+        "title": "植感炸雞年糕",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 35,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-royal-stir-fried-rice-cake",
+        "title": "韓式宮廷炒年糕",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 33,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-seafood-pancake",
+        "title": "綜合海鮮煎餅",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 38,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-spicy-pan-fried-seafood-rice-cake",
+        "title": "海鮮辣炒年糕",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 34,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-spicy-pan-fried-squid",
+        "title": "辣炒中卷",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 32,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-spicy-stired-fried-chicken",
+        "title": "春川辣炒雞",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 31,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-steamed-eggs-with-cheese-roe",
+        "title": "魚卵起司陶鍋蛋",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 34,
+        "category": "前菜"
+      },
+      {
+        "slug": "dh-stired-fried-fish-fillet-with-vegetables",
+        "title": "田園醬燒飛虎魚",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 27,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-tofu-ice-cream-with-tapioca",
+        "title": "珍珠豆腐冰淇淋",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 32,
+        "category": "甜點"
+      },
+      {
+        "slug": "dh-truffle-cheese-egg-roll",
+        "title": "松露韓式起司烘蛋捲",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 35,
+        "category": "限定主菜"
+      },
+      {
+        "slug": "dh-truffle-jjajang-cheese-rice-cake",
+        "title": "黑松露炸醬起司年糕",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 32,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-vegetable-pancake",
+        "title": "絲瓜鮮蔬煎餅",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 38,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "egg-scallion-oil-noodles",
+        "title": "蛋蔥油麵",
+        "group": "home",
+        "steps": 6,
+        "avg": 20,
+        "category": "飯麵"
+      },
+      {
+        "slug": "electricpot-broccoli-chicken-bento",
+        "title": "電鍋青花菜雞胸便當菜",
+        "group": "home",
+        "steps": 4,
+        "avg": 29,
+        "category": "便當菜"
+      },
+      {
+        "slug": "electricpot-mushroom-chicken-bento",
+        "title": "電鍋菇菇雞胸便當菜",
+        "group": "home",
+        "steps": 4,
+        "avg": 37,
+        "category": "便當菜"
+      },
+      {
+        "slug": "electricpot-tofu-egg-bento-side",
+        "title": "電鍋豆腐蛋便當菜",
+        "group": "home",
+        "steps": 4,
+        "avg": 35,
+        "category": "便當菜"
+      },
+      {
+        "slug": "fish-and-chips",
+        "title": "英式炸魚薯條",
+        "group": "home",
+        "steps": 4,
+        "avg": 37,
+        "category": "主菜"
+      },
+      {
+        "slug": "fridge-bottom-soup-noodles",
+        "title": "什錦蔬菜湯麵",
+        "group": "home",
+        "steps": 6,
+        "avg": 23,
+        "category": "飯麵"
+      },
+      {
+        "slug": "fried-trio-platter",
+        "title": "炸物三重奏",
+        "group": "home",
+        "steps": 4,
+        "avg": 36,
+        "category": "家常菜"
+      },
+      {
+        "slug": "garden-vegetable-pasta",
+        "title": "田園時蔬義大利麵",
+        "group": "home",
+        "steps": 4,
+        "avg": 33,
+        "category": "飯麵"
+      },
+      {
+        "slug": "garlic-beef-cabbage-stirfry",
+        "title": "蒜香牛肉炒高麗菜",
+        "group": "home",
+        "steps": 5,
+        "avg": 39,
+        "category": "家常菜"
+      },
+      {
+        "slug": "garlic-cabbage-tofu-braise",
+        "title": "蒜頭高麗菜豆腐煮",
+        "group": "home",
+        "steps": 5,
+        "avg": 32,
+        "category": "家常菜"
+      },
+      {
+        "slug": "garlic-cream-shrimp-pasta",
+        "title": "蒜香奶油鮮蝦麵",
+        "group": "home",
+        "steps": 4,
+        "avg": 38,
+        "category": "飯麵"
+      },
+      {
+        "slug": "garlic-egg-cabbage-bento-side",
+        "title": "蒜香蛋炒高麗菜便當菜",
+        "group": "home",
+        "steps": 3,
+        "avg": 39,
+        "category": "便當菜"
+      },
+      {
+        "slug": "garlic-mushroom-chicken",
+        "title": "蒜香菇菇雞胸",
+        "group": "home",
+        "steps": 5,
+        "avg": 32,
+        "category": "主菜"
+      },
+      {
+        "slug": "garlic-tofu-chicken-pan-main",
+        "title": "蒜香豆腐雞胸主菜",
+        "group": "home",
+        "steps": 5,
+        "avg": 29,
+        "category": "主菜"
+      },
+      {
+        "slug": "herb-pan-chicken-brunch",
+        "title": "香草煎雞胸早午餐",
+        "group": "home",
+        "steps": 5,
+        "avg": 30,
+        "category": "主菜"
+      },
+      {
+        "slug": "high-protein-chicken-broccoli-bowl",
+        "title": "高蛋白雞肉青花碗",
+        "group": "home",
+        "steps": 5,
+        "avg": 22,
+        "category": "主菜"
+      },
+      {
+        "slug": "high-protein-egg-white-stirfry",
+        "title": "高蛋白蛋白炒",
+        "group": "home",
+        "steps": 5,
+        "avg": 20,
+        "category": "家常菜"
+      },
+      {
+        "slug": "high-protein-shrimp-tofu-bowl",
+        "title": "高蛋白蝦豆腐碗",
+        "group": "home",
+        "steps": 5,
+        "avg": 21,
+        "category": "主菜"
+      },
+      {
+        "slug": "high-protein-tofu-steak-plate",
+        "title": "高蛋白豆腐排",
+        "group": "home",
+        "steps": 5,
+        "avg": 18,
+        "category": "主菜"
+      },
+      {
+        "slug": "instant-miso-egg-soup",
+        "title": "味噌蛋花湯",
+        "group": "home",
+        "steps": 6,
+        "avg": 25,
+        "category": "湯品"
+      },
+      {
+        "slug": "leftover-meat-quick-stirfry",
+        "title": "豬肉青椒快炒",
+        "group": "home",
+        "steps": 5,
+        "avg": 20,
+        "category": "家常菜"
+      },
+      {
+        "slug": "leftover-mixed-veggie-fried-rice",
+        "title": "綜合蔬菜炒飯",
+        "group": "home",
+        "steps": 6,
+        "avg": 27,
+        "category": "飯麵"
+      },
+      {
+        "slug": "leftover-rice-egg-pancake",
+        "title": "米飯蛋煎餅",
+        "group": "home",
+        "steps": 4,
+        "avg": 39,
+        "category": "家常菜"
+      },
+      {
+        "slug": "microwave-steamed-egg-rice",
+        "title": "電子鍋蒸蛋蓋飯",
+        "group": "home",
+        "steps": 6,
+        "avg": 23,
+        "category": "飯麵"
+      },
+      {
+        "slug": "mixed-leftover-congee",
+        "title": "蛋花鹹粥",
+        "group": "home",
+        "steps": 6,
+        "avg": 22,
+        "category": "飯麵"
+      },
+      {
+        "slug": "mushroom-scallion-soft-eggs",
+        "title": "菇菇青蔥滑蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 38,
+        "category": "家常菜"
+      },
+      {
+        "slug": "mushroom-soft-egg-brunch",
+        "title": "野菇嫩蛋早午餐",
+        "group": "home",
+        "steps": 4,
+        "avg": 26,
+        "category": "主菜"
+      },
+      {
+        "slug": "onion-beef-slices",
+        "title": "洋蔥牛肉片",
+        "group": "home",
+        "steps": 4,
+        "avg": 35,
+        "category": "主菜"
+      },
+      {
+        "slug": "onion-cabbage-mushroom-saute",
+        "title": "洋蔥高麗菜菇菇炒",
+        "group": "home",
+        "steps": 5,
+        "avg": 35,
+        "category": "家常菜"
+      },
+      {
+        "slug": "onion-garlic-tofu-eggs",
+        "title": "洋蔥蒜香豆腐炒蛋",
+        "group": "home",
+        "steps": 5,
+        "avg": 36,
+        "category": "家常菜"
+      },
+      {
+        "slug": "onion-salmon-pan-steak",
+        "title": "洋蔥香煎鮭魚排",
+        "group": "home",
+        "steps": 5,
+        "avg": 36,
+        "category": "主菜"
+      },
+      {
+        "slug": "onion-tomato-egg-fried-rice",
+        "title": "洋蔥番茄蛋炒飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 39,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pan-seared-flap-steak-brunch",
+        "title": "香煎翼板牛排早午餐",
+        "group": "home",
+        "steps": 5,
+        "avg": 36,
+        "category": "主菜"
+      },
+      {
+        "slug": "quick-kimchi-fried-rice",
+        "title": "快速泡菜炒飯",
+        "group": "home",
+        "steps": 6,
+        "avg": 24,
+        "category": "飯麵"
+      },
+      {
+        "slug": "quick-pickled-cucumber-egg-rice",
+        "title": "菜脯蛋飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 39,
+        "category": "飯麵"
+      },
+      {
+        "slug": "random-veggie-egg-pancake",
+        "title": "雜菜雞蛋煎餅",
+        "group": "home",
+        "steps": 5,
+        "avg": 19,
+        "category": "家常菜"
+      },
+      {
+        "slug": "roasted-lemon-salmon-brunch",
+        "title": "爐烤檸香鮭魚早午餐",
+        "group": "home",
+        "steps": 6,
+        "avg": 38,
+        "category": "主菜"
+      },
+      {
+        "slug": "salmon-broccoli-garlic-main",
+        "title": "蒜香鮭魚青花菜主菜",
+        "group": "home",
+        "steps": 5,
+        "avg": 29,
+        "category": "主菜"
+      },
+      {
+        "slug": "salmon-garlic-pasta",
+        "title": "蒜香鮭魚義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 39,
+        "category": "飯麵"
+      },
+      {
+        "slug": "scallion-beef-fried-rice",
+        "title": "蔥花牛肉炒飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 39,
+        "category": "飯麵"
+      },
+      {
+        "slug": "scallion-chicken-rice-bowl",
+        "title": "青蔥雞胸拌飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 39,
+        "category": "飯麵"
+      },
+      {
+        "slug": "scallion-egg-rice",
+        "title": "蔥蛋拌飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 34,
+        "category": "飯麵"
+      },
+      {
+        "slug": "scallion-mushroom-egg-pan",
+        "title": "青蔥菇菇蛋煎盤",
+        "group": "home",
+        "steps": 3,
+        "avg": 32,
+        "category": "家常菜"
+      },
+      {
+        "slug": "scallion-oil-dry-noodles",
+        "title": "蔥油乾麵",
+        "group": "home",
+        "steps": 5,
+        "avg": 24,
+        "category": "飯麵"
+      },
+      {
+        "slug": "seasonal-greens-salad-bowl",
+        "title": "季節鮮蔬沙拉碗",
+        "group": "home",
+        "steps": 4,
+        "avg": 25,
+        "category": "家常菜"
+      },
+      {
+        "slug": "sesame-cold-noodles-solo",
+        "title": "一人麻醬涼麵",
+        "group": "home",
+        "steps": 6,
+        "avg": 20,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-country-cinnamon-peach-pie",
+        "title": "鄉村肉桂蜜桃派",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 39,
+        "category": "甜點"
+      },
+      {
+        "slug": "smoked-salmon-brunch",
+        "title": "煙燻鮭魚早午餐",
+        "group": "home",
+        "steps": 4,
+        "avg": 31,
+        "category": "主菜"
+      },
+      {
+        "slug": "smoked-salmon-caesar-salad",
+        "title": "煙燻鮭魚凱薩沙拉",
+        "group": "home",
+        "steps": 4,
+        "avg": 24,
+        "category": "家常菜"
+      },
+      {
+        "slug": "soy-garlic-beef-slices",
+        "title": "醬蒜牛肉片",
+        "group": "home",
+        "steps": 3,
+        "avg": 37,
+        "category": "主菜"
+      },
+      {
+        "slug": "soy-garlic-chicken-breast-pan",
+        "title": "醬香蒜煎雞胸",
+        "group": "home",
+        "steps": 5,
+        "avg": 35,
+        "category": "主菜"
+      },
+      {
+        "slug": "spicy-garlic-bacon-pasta",
+        "title": "蒜辣培根橄欖油麵",
+        "group": "home",
+        "steps": 4,
+        "avg": 31,
+        "category": "飯麵"
+      },
+      {
+        "slug": "spicy-seafood-tomato-pasta",
+        "title": "海鮮番茄辣麵",
+        "group": "home",
+        "steps": 5,
+        "avg": 30,
+        "category": "飯麵"
+      },
+      {
+        "slug": "steamed-chicken-bento",
+        "title": "電鍋雞胸便當菜",
+        "group": "home",
+        "steps": 4,
+        "avg": 32,
+        "category": "便當菜"
+      },
+      {
+        "slug": "ten-minute-udon-soup",
+        "title": "十分鐘烏龍麵湯",
+        "group": "home",
+        "steps": 6,
+        "avg": 20,
+        "category": "飯麵"
+      },
+      {
+        "slug": "tofu-cabbage-mushroom-stirfry",
+        "title": "豆腐高麗菜菇菇炒",
+        "group": "home",
+        "steps": 5,
+        "avg": 33,
+        "category": "家常菜"
+      },
+      {
+        "slug": "tofu-egg-savory-rice-bowl",
+        "title": "豆腐蛋香拌飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 35,
+        "category": "飯麵"
+      },
+      {
+        "slug": "tofu-tomato-pasta",
+        "title": "豆腐番茄義大利麵",
+        "group": "home",
+        "steps": 4,
+        "avg": 36,
+        "category": "飯麵"
+      },
+      {
+        "slug": "tomato-broccoli-egg-rice",
+        "title": "番茄青花菜蛋炒飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 38,
+        "category": "飯麵"
+      },
+      {
+        "slug": "tomato-cabbage-soft-eggs",
+        "title": "番茄高麗菜滑蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 38,
+        "category": "家常菜"
+      },
+      {
+        "slug": "tomato-garlic-cabbage-eggs",
+        "title": "番茄蒜香高麗菜炒蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 37,
+        "category": "家常菜"
+      },
+      {
+        "slug": "tomato-tofu-soup",
+        "title": "番茄豆腐湯",
+        "group": "home",
+        "steps": 5,
+        "avg": 31,
+        "category": "湯品"
+      },
+      {
+        "slug": "truffle-mushroom-farfalle",
+        "title": "黑松露野菇蝴蝶麵",
+        "group": "home",
+        "steps": 4,
+        "avg": 30,
+        "category": "飯麵"
+      },
+      {
+        "slug": "water-lily-stem-chicken-rice-bowl",
+        "title": "水蓮雞肉蓋飯",
+        "group": "home",
+        "steps": 5,
+        "avg": 24,
+        "category": "飯麵"
+      },
+      {
+        "slug": "water-lily-stem-clear-soup",
+        "title": "水蓮清湯",
+        "group": "home",
+        "steps": 5,
+        "avg": 18,
+        "category": "湯品"
+      },
+      {
+        "slug": "water-lily-stem-egg-stirfry",
+        "title": "水蓮炒蛋",
+        "group": "home",
+        "steps": 6,
+        "avg": 26,
+        "category": "家常菜"
+      },
+      {
+        "slug": "water-lily-stem-fish-ball-noodles",
+        "title": "水蓮貢丸湯麵",
+        "group": "home",
+        "steps": 5,
+        "avg": 18,
+        "category": "飯麵"
+      },
+      {
+        "slug": "water-lily-stem-garlic-stirfry",
+        "title": "蒜蓉炒水蓮",
+        "group": "home",
+        "steps": 5,
+        "avg": 20,
+        "category": "家常菜"
+      },
+      {
+        "slug": "water-lily-stem-mushroom-stirfry",
+        "title": "水蓮炒菇類",
+        "group": "home",
+        "steps": 5,
+        "avg": 19,
+        "category": "家常菜"
+      },
+      {
+        "slug": "water-lily-stem-oyster-sauce",
+        "title": "蠔油炒水蓮",
+        "group": "home",
+        "steps": 5,
+        "avg": 21,
+        "category": "家常菜"
+      },
+      {
+        "slug": "water-lily-stem-pork-soup",
+        "title": "水蓮肉片湯",
+        "group": "home",
+        "steps": 5,
+        "avg": 20,
+        "category": "湯品"
+      },
+      {
+        "slug": "water-lily-stem-shrimp-stirfry",
+        "title": "水蓮炒蝦仁",
+        "group": "home",
+        "steps": 5,
+        "avg": 22,
+        "category": "主菜"
+      },
+      {
+        "slug": "water-lily-stem-tofu-braise",
+        "title": "水蓮燒豆腐",
+        "group": "home",
+        "steps": 5,
+        "avg": 20,
+        "category": "家常菜"
+      },
+      {
+        "slug": "weight-loss-clear-mushroom-soup",
+        "title": "減脂菇類清湯",
+        "group": "home",
+        "steps": 6,
+        "avg": 20,
+        "category": "湯品"
+      },
+      {
+        "slug": "weight-loss-shrimp-veg-salad",
+        "title": "減脂鮮蝦沙拉",
+        "group": "home",
+        "steps": 5,
+        "avg": 19,
+        "category": "家常菜"
+      },
+      {
+        "slug": "weight-loss-zucchini-chicken",
+        "title": "減脂櫛瓜雞肉",
+        "group": "home",
+        "steps": 5,
+        "avg": 20,
+        "category": "主菜"
+      },
+      {
+        "slug": "white-sauce-chicken-pasta",
+        "title": "白醬雞肉義大利麵",
+        "group": "home",
+        "steps": 5,
+        "avg": 38,
+        "category": "飯麵"
+      }
+    ],
+    "medium": [
+      {
+        "slug": "air-fryer-salmon-broccoli",
+        "title": "氣炸鮭魚青花菜",
+        "group": "home",
+        "steps": 4,
+        "avg": 44,
+        "category": "主菜"
+      },
+      {
+        "slug": "beef-broccoli-stirfry",
+        "title": "牛肉青花快炒",
+        "group": "home",
+        "steps": 5,
+        "avg": 40,
+        "category": "家常菜"
+      },
+      {
+        "slug": "beef-tofu-braise",
+        "title": "牛肉豆腐燉煮",
+        "group": "home",
+        "steps": 4,
+        "avg": 47,
+        "category": "家常菜"
+      },
+      {
+        "slug": "broccoli-mushroom-chicken-rice-bowl",
+        "title": "青花菜菇菇雞胸飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 46,
+        "category": "飯麵"
+      },
+      {
+        "slug": "broccoli-onion-chicken-soup",
+        "title": "青花菜洋蔥雞湯",
+        "group": "home",
+        "steps": 3,
+        "avg": 42,
+        "category": "湯品"
+      },
+      {
+        "slug": "cabbage-carrot-chicken-rice-bowl",
+        "title": "高麗菜紅蘿蔔雞胸飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 46,
+        "category": "飯麵"
+      },
+      {
+        "slug": "cabbage-onion-eggs",
+        "title": "高麗菜洋蔥炒蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 49,
+        "category": "家常菜"
+      },
+      {
+        "slug": "cabbage-tofu-egg-drop-soup",
+        "title": "高麗菜豆腐蛋花湯",
+        "group": "home",
+        "steps": 3,
+        "avg": 41,
+        "category": "湯品"
+      },
+      {
+        "slug": "cajun-fries",
+        "title": "肯瓊香辣薯條",
+        "group": "home",
+        "steps": 5,
+        "avg": 42,
+        "category": "家常菜"
+      },
+      {
+        "slug": "canned-tuna-rice-bowl",
+        "title": "鮪魚罐頭飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 42,
+        "category": "飯麵"
+      },
+      {
+        "slug": "carrot-chicken-rice-bowl",
+        "title": "紅蘿蔔雞胸飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 44,
+        "category": "飯麵"
+      },
+      {
+        "slug": "chicken-broccoli-pasta",
+        "title": "雞胸青花義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 42,
+        "category": "飯麵"
+      },
+      {
+        "slug": "creamy-mushroom-pasta",
+        "title": "奶香菇類義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 42,
+        "category": "飯麵"
+      },
+      {
+        "slug": "curry-beef-rice",
+        "title": "咖哩牛肉飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 46,
+        "category": "飯麵"
+      },
+      {
+        "slug": "dh-bbq-korean-fried-chicken",
+        "title": "醬味韓式炸雞",
+        "group": "dubu-house",
+        "steps": 7,
+        "avg": 47,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-bibimbap",
+        "title": "石燒拌飯",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 53,
+        "category": "韓式飯食"
+      },
+      {
+        "slug": "dh-cajun-korean-fried-chicken",
+        "title": "肯瓊醬韓式炸雞",
+        "group": "dubu-house",
+        "steps": 7,
+        "avg": 46,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-classic-stone-pot-rice",
+        "title": "韓式石鍋飯",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 50,
+        "category": "韓式飯食"
+      },
+      {
+        "slug": "dh-creamy-onion-korean-fried-chicken",
+        "title": "洋蔥白醬韓式炸雞",
+        "group": "dubu-house",
+        "steps": 7,
+        "avg": 46,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-duck-jerky-stone-pot-rice",
+        "title": "鴨賞石鍋飯",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 50,
+        "category": "韓式飯食"
+      },
+      {
+        "slug": "dh-french-fries-with-korean-flavored-sauce",
+        "title": "韓式酥炸脆薯",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 44,
+        "category": "前菜"
+      },
+      {
+        "slug": "dh-fried-glass-noodle",
+        "title": "韓式炒冬粉",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 44,
+        "category": "前菜"
+      },
+      {
+        "slug": "dh-ginseng-chicken-hot-pot",
+        "title": "韓國人蔘雞火鍋",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 41,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-golden-chicken-stone-pot-rice",
+        "title": "黃金雞石鍋飯",
+        "group": "dubu-house",
+        "steps": 4,
+        "avg": 49,
+        "category": "韓式飯食"
+      },
+      {
+        "slug": "dh-honey-garlic-korean-fried-chicken",
+        "title": "蜂蜜蒜味韓式炸雞",
+        "group": "dubu-house",
+        "steps": 7,
+        "avg": 48,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-kimchi-tofu-pancake",
+        "title": "泡菜豆腐煎餅",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 41,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-korean-fried-chicken-combo",
+        "title": "Combo雙享韓式炸雞",
+        "group": "dubu-house",
+        "steps": 7,
+        "avg": 42,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-original-korean-fried-chicken",
+        "title": "原味韓式炸雞",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 41,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-potato-pancake-with-cheese",
+        "title": "起司馬鈴薯煎餅",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 45,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "dh-spicy-korean-fried-chicken",
+        "title": "辣味韓式炸雞",
+        "group": "dubu-house",
+        "steps": 7,
+        "avg": 46,
+        "category": "韓式主菜"
+      },
+      {
+        "slug": "garlic-mushroom-tofu-rice-bowl",
+        "title": "蒜香菇豆腐拌飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 43,
+        "category": "飯麵"
+      },
+      {
+        "slug": "garlic-tomato-chicken-rice-bowl",
+        "title": "蒜香番茄雞胸飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 45,
+        "category": "飯麵"
+      },
+      {
+        "slug": "garlic-tomato-tofu-eggs",
+        "title": "蒜香番茄豆腐炒蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 51,
+        "category": "家常菜"
+      },
+      {
+        "slug": "honey-cajun-chicken-wings",
+        "title": "蜜汁紐澳良雞翅",
+        "group": "home",
+        "steps": 5,
+        "avg": 42,
+        "category": "主菜"
+      },
+      {
+        "slug": "mushroom-beef-rice-bowl",
+        "title": "香菇牛肉蓋飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 43,
+        "category": "飯麵"
+      },
+      {
+        "slug": "mushroom-cabbage-rice-bowl",
+        "title": "菇菇高麗菜燴飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 44,
+        "category": "飯麵"
+      },
+      {
+        "slug": "onion-bacon-style-egg-pasta",
+        "title": "洋蔥蛋香義大利麵",
+        "group": "home",
+        "steps": 4,
+        "avg": 48,
+        "category": "飯麵"
+      },
+      {
+        "slug": "onion-beef-rice-bowl",
+        "title": "洋蔥牛肉蓋飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 43,
+        "category": "飯麵"
+      },
+      {
+        "slug": "onion-carrot-egg-bento-side",
+        "title": "洋蔥紅蘿蔔炒蛋便當菜",
+        "group": "home",
+        "steps": 3,
+        "avg": 41,
+        "category": "便當菜"
+      },
+      {
+        "slug": "onion-egg-rice-bowl",
+        "title": "洋蔥滑蛋飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 44,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-chicken-broccoli-pasta",
+        "title": "青蔥蒜香雞肉青花義大利麵",
+        "group": "home",
+        "steps": 4,
+        "avg": 52,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-chicken-mushroom-pasta",
+        "title": "青蔥蒜香雞肉菇類義大利麵",
+        "group": "home",
+        "steps": 4,
+        "avg": 42,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-chicken-pasta",
+        "title": "青蔥蒜香雞胸義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 46,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-salmon-broccoli-pasta",
+        "title": "青蔥蒜香鮭魚青花義大利麵",
+        "group": "home",
+        "steps": 4,
+        "avg": 51,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-salmon-pasta",
+        "title": "青蔥蒜香鮭魚義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 45,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-shrimp-pasta",
+        "title": "青蔥蒜香蝦仁義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 46,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-style-scallion-pasta",
+        "title": "青蔥風味義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 40,
+        "category": "飯麵"
+      },
+      {
+        "slug": "scallion-garlic-pasta",
+        "title": "青蔥蒜香義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 40,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sesame-onion-chicken-rice-bowl",
+        "title": "麻油洋蔥雞胸拌飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 45,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-acai-berry-yogurt-bowl",
+        "title": "巴西莓果優格碗",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 42,
+        "category": "輕食沙拉"
+      },
+      {
+        "slug": "sf-american-cheesecake",
+        "title": "全美起司蛋糕",
+        "group": "second-floor",
+        "steps": 5,
+        "avg": 50,
+        "category": "甜點"
+      },
+      {
+        "slug": "sf-asahi-cordon-bleu-pork-burger",
+        "title": "朝日藍帶豬排堡",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 45,
+        "category": "限定主餐"
+      },
+      {
+        "slug": "sf-brownie-ice-cream",
+        "title": "布朗尼冰淇淋",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 42,
+        "category": "甜點"
+      },
+      {
+        "slug": "sf-campfire-lemon-zucchini-fish-fillet",
+        "title": "野炊系義式檸香櫛瓜魚菲力",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 45,
+        "category": "限定主餐"
+      },
+      {
+        "slug": "sf-chef-crispy-pork-knuckle",
+        "title": "主廚脆皮豬腳",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 54,
+        "category": "排餐盤"
+      },
+      {
+        "slug": "sf-greek-campfire-grilled-chicken-brunch",
+        "title": "Greek style 野炊系炭烤雞肉早午餐",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 48,
+        "category": "限定主餐"
+      },
+      {
+        "slug": "sf-mini-beef-egg-burger-set",
+        "title": "牛蛋小堡堡套餐",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 46,
+        "category": "兒童餐"
+      },
+      {
+        "slug": "sf-mushroom-cheese-omelette",
+        "title": "蕈菇奶起司歐姆蕾",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 51,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-salted-egg-seafood-pizza",
+        "title": "金黃流沙海鮮披薩",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 49,
+        "category": "限定主餐"
+      },
+      {
+        "slug": "sf-south-sea-spiced-chicken-rice",
+        "title": "南洋辛香雞肉飯",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 54,
+        "category": "限定主餐"
+      },
+      {
+        "slug": "sf-strong-chocolate-cake",
+        "title": "強的",
+        "group": "second-floor",
+        "steps": 5,
+        "avg": 50,
+        "category": "甜點"
+      },
+      {
+        "slug": "sf-supreme-cheese-omelette",
+        "title": "總匯奶起司歐姆蕾",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 50,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-sweet-savory-rice",
+        "title": "甘味飯",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 54,
+        "category": "限定主餐"
+      },
+      {
+        "slug": "sf-tropical-yogurt-bowl",
+        "title": "熱帶水果優格碗",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 42,
+        "category": "輕食沙拉"
+      },
+      {
+        "slug": "sf-worcester-meat-sauce-omelette",
+        "title": "烏斯特肉醬歐姆蕾",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 50,
+        "category": "早午餐"
+      },
+      {
+        "slug": "solo-ginger-pork-rice",
+        "title": "薑絲肉燥飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 40,
+        "category": "飯麵"
+      },
+      {
+        "slug": "solo-lu-rou-rice",
+        "title": "滷肉飯一人份",
+        "group": "home",
+        "steps": 4,
+        "avg": 41,
+        "category": "飯麵"
+      },
+      {
+        "slug": "solo-mapo-tofu-rice-bowl",
+        "title": "麻婆豆腐蓋飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 43,
+        "category": "飯麵"
+      },
+      {
+        "slug": "solo-oyster-sauce-beef-rice",
+        "title": "蠔油牛肉蓋飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 48,
+        "category": "主菜"
+      },
+      {
+        "slug": "solo-pan-fried-pork-cutlet-rice",
+        "title": "煎豬排蓋飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 41,
+        "category": "主菜"
+      },
+      {
+        "slug": "solo-sesame-chicken-rice",
+        "title": "芝麻雞蓋飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 43,
+        "category": "主菜"
+      },
+      {
+        "slug": "solo-three-cup-chicken-rice",
+        "title": "三杯雞蓋飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 44,
+        "category": "主菜"
+      },
+      {
+        "slug": "surf-turf-brunch",
+        "title": "澎湃海陸早午餐",
+        "group": "home",
+        "steps": 5,
+        "avg": 43,
+        "category": "主菜"
+      },
+      {
+        "slug": "tofu-scrambled-eggs",
+        "title": "豆腐炒蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 45,
+        "category": "家常菜"
+      },
+      {
+        "slug": "tomato-beef-rice-bowl",
+        "title": "番茄牛肉燴飯",
+        "group": "home",
+        "steps": 4,
+        "avg": 45,
+        "category": "飯麵"
+      },
+      {
+        "slug": "tomato-egg-tofu-light-soup",
+        "title": "番茄蛋豆腐清湯",
+        "group": "home",
+        "steps": 3,
+        "avg": 46,
+        "category": "湯品"
+      },
+      {
+        "slug": "tomato-garlic-pasta",
+        "title": "番茄蒜香義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 44,
+        "category": "飯麵"
+      },
+      {
+        "slug": "tomato-onion-scrambled-eggs",
+        "title": "番茄洋蔥滑蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 44,
+        "category": "家常菜"
+      },
+      {
+        "slug": "tomato-onion-tofu-soup",
+        "title": "番茄洋蔥豆腐湯",
+        "group": "home",
+        "steps": 3,
+        "avg": 44,
+        "category": "湯品"
+      },
+      {
+        "slug": "water-lily-stem-sesame-toss",
+        "title": "麻油拌水蓮",
+        "group": "home",
+        "steps": 4,
+        "avg": 44,
+        "category": "便當菜"
+      }
+    ],
+    "good": [
+      {
+        "slug": "beef-carrot-soup",
+        "title": "紅蘿蔔牛肉湯",
+        "group": "home",
+        "steps": 4,
+        "avg": 61,
+        "category": "湯品"
+      },
+      {
+        "slug": "dh-cheese-kimchi-mushroom-soondubu",
+        "title": "起司泡菜鮮菇嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 69,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-cheese-soondubu",
+        "title": "起司嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 63,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-cheese-stuffed-rice-cake-soondubu",
+        "title": "打爆起司年糕嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 7,
+        "avg": 61,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed",
+        "title": "海菜起司年糕鮮魚嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 7,
+        "avg": 59,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-cheese-vegetable-soondubu",
+        "title": "起司野菜鮮菇嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 69,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-clams-shrimp-soondubu",
+        "title": "蛤蜊鮮蝦嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 63,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-classic-soondubu",
+        "title": "嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 60,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-combo-soondubu",
+        "title": "海陸綜合嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 67,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-curry-soondubu",
+        "title": "咖哩嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 60,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-fish-soondubu",
+        "title": "鮮魚嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 61,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-kimchi-mushroom-soondubu",
+        "title": "泡菜鮮菇嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 69,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-kimchi-seafood-soondubu",
+        "title": "泡菜海鮮嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 66,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-kimchi-soondubu",
+        "title": "泡菜嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 66,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-korean-dumpling-soondubu",
+        "title": "韓式餃子嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 65,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-plant-based-fried-chicken-with-mushroom-soondubu",
+        "title": "植感炸雞鮮菇嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 66,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-seafood-soondubu",
+        "title": "海鮮嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 6,
+        "avg": 67,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-seaweed-oyster-soondubu",
+        "title": "海菜鮮蚵嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 67,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "dh-vegetable-soondubu",
+        "title": "野菜鮮菇嫩豆腐煲",
+        "group": "dubu-house",
+        "steps": 5,
+        "avg": 67,
+        "category": "韓式鍋物"
+      },
+      {
+        "slug": "garlic-oil-pasta",
+        "title": "蒜香義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 96,
+        "category": "飯麵"
+      },
+      {
+        "slug": "scallion-beef-stirfry",
+        "title": "蔥爆牛肉",
+        "group": "home",
+        "steps": 4,
+        "avg": 59,
+        "category": "主菜"
+      },
+      {
+        "slug": "sf-avocado-bacon-open-toast",
+        "title": "酪梨慢煎培根／歐包 Open",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 57,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-avocado-local-sausage-danish-open",
+        "title": "酪梨 Local 香腸／丹麥 Open",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 58,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-avocado-smoked-salmon-open-toast",
+        "title": "酪梨燻鮭魚／歐包 Open",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 55,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-baked-thick-cut-pork-cream-rice",
+        "title": "焗厚切豬排奶油飯",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 61,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-balsamic-mushroom-pasta",
+        "title": "巴薩米克蕈菇麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 66,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-bbq-roasted-half-chicken",
+        "title": "BBQ 溫烤半雞",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 56,
+        "category": "排餐盤"
+      },
+      {
+        "slug": "sf-black-pepper-hamburg-rice",
+        "title": "老闆黑胡椒漢堡排飯",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 61,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-black-truffle-cordon-bleu-pork-open",
+        "title": "黑松露厚切藍帶豬／歐包 Open",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 58,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-bloody-mary-spicy-rice",
+        "title": "血腥瑪麗辣味飯",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 58,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-buffalo-chicken-wings",
+        "title": "水牛城辣雞翅",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 64,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-cheesy-chicken-egg-rice",
+        "title": "吃光光起司蛋雞肉飯",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 59,
+        "category": "兒童餐"
+      },
+      {
+        "slug": "sf-cheesy-local-sausage-cream-pasta",
+        "title": "起司 Local 香腸奶白麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 71,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-chicken-quesadilla",
+        "title": "墨西哥雞肉酥餅",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 62,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-classic-beef-mushroom-eggs-benedict",
+        "title": "經典牛肉奶油炒菇班尼蛋",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 67,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-classic-caesar-salad",
+        "title": "經典凱薩沙拉",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 63,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-classic-ham-mushroom-eggs-benedict",
+        "title": "經典火腿奶油炒菇班尼蛋",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 70,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-classic-pesto-shrimp-pasta",
+        "title": "經典青醬鮮蝦麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 66,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-crispy-calamari-cocktail-sauce",
+        "title": "酥炸鮮魷佐雞尾酒醬",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 64,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-dawn-shrimp-chicken-linguine",
+        "title": "曙光汁鮮蝦雞肉麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 65,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-green-superhero-quinoa-buddha-bowl",
+        "title": "綠超人藜麥佛陀碗",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 59,
+        "category": "輕食沙拉"
+      },
+      {
+        "slug": "sf-griddled-butter-ham-sandwich",
+        "title": "厚烤奶油 Ham 三明治",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 58,
+        "category": "漢堡三明治"
+      },
+      {
+        "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
+        "title": "家鄉肉醬長管麵佐老媽肉丸",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 66,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-keto-surf-and-turf-platter",
+        "title": "生酮總匯海陸拼盤",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 64,
+        "category": "輕食沙拉"
+      },
+      {
+        "slug": "sf-kids-cream-chicken-penne",
+        "title": "北鼻奶油雞肉長管麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 66,
+        "category": "兒童餐"
+      },
+      {
+        "slug": "sf-local-sausage-quesadilla",
+        "title": "墨西哥 Local 香腸酥餅",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 62,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-moon-view-bitter-melon-cream-rice",
+        "title": "月見苦瓜奶油飯",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 60,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-oat-crusted-fish-and-fries",
+        "title": "燕麥脆脆炸魚薯條",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 58,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-orange-danish-mushroom-poached-potato",
+        "title": "橙香法式丹麥 蕈菇水波洋芋",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 60,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-orange-danish-poached-seafood-potato",
+        "title": "橙香法式丹麥 水波海鮮洋芋",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 58,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-orange-danish-sous-vide-steak",
+        "title": "橙香法式丹麥 舒肥牛排",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 61,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-orange-danish-sunny-sous-vide-chicken",
+        "title": "橙香法式丹麥 Sunny 舒肥雞",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 61,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-poached-egg-smoked-beef-danish-open",
+        "title": "水波燻牛肉／丹麥 Open",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 56,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-poutine-meat-sauce-fries",
+        "title": "普丁肉醬薯條",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 61,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-roasted-sesame-chicken-salad",
+        "title": "焙煎胡麻雞沙拉",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 62,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-salsa-black-curry-fried-chicken",
+        "title": "莎莎黑咖哩炸雞",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 63,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-salted-egg-bitter-melon-pasta",
+        "title": "台式熱炒鹹蛋苦瓜麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 68,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-salted-egg-yolk-fries",
+        "title": "金黃流沙薯條",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 67,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-san-francisco-garlic-fries",
+        "title": "舊金山蒜香薯條",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 59,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-second-floor-fiesta-shrimp-penne",
+        "title": "貳樓費氏鮮蝦長管麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 67,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-second-floor-saltwater-chicken-salad",
+        "title": "貳樓金牌鹽水雞沙拉",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 69,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
+        "title": "台胃口水雞奶油炒菇班尼蛋",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 72,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-signature-double-stack-burger",
+        "title": "實打實招牌漢堡",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 58,
+        "category": "漢堡三明治"
+      },
+      {
+        "slug": "sf-smoked-salmon-caesar-salad",
+        "title": "經典燻鮭魚凱薩沙拉",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 58,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
+        "title": "燻鮭魚奶油炒菇班尼蛋",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 67,
+        "category": "早午餐"
+      },
+      {
+        "slug": "sf-sous-vide-chicken-caesar-salad",
+        "title": "經典舒肥雞凱薩沙拉",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 56,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
+        "title": "舒肥雞藜麥花椰飯",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 58,
+        "category": "輕食沙拉"
+      },
+      {
+        "slug": "sf-spicy-mexican-firecracker-burger",
+        "title": "老墨辣鞭炮漢堡",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 62,
+        "category": "漢堡三明治"
+      },
+      {
+        "slug": "sf-spicy-pepper-karaage-pasta",
+        "title": "香爆椒麻唐揚雞麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 68,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-spicy-spanish-surf-and-turf-rice",
+        "title": "西班牙辣炒海陸飯",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 59,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-spicy-tomato-bacon-penne",
+        "title": "辣茄汁香煸培根長管麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 67,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-truffle-fries",
+        "title": "松露薯條",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 58,
+        "category": "開胃菜"
+      },
+      {
+        "slug": "sf-truffle-mushroom-cream-pasta",
+        "title": "松露蕈菇奶油麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 67,
+        "category": "飯麵"
+      },
+      {
+        "slug": "sf-white-wine-garlic-clam-squid-ink-pasta",
+        "title": "酒香蒜味蛤蜊墨魚麵",
+        "group": "second-floor",
+        "steps": 4,
+        "avg": 65,
+        "category": "飯麵"
+      },
+      {
+        "slug": "tomato-egg-rice",
+        "title": "番茄雞蛋飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 86,
+        "category": "家常菜"
+      }
+    ],
+    "lowStepCount": [
+      {
+        "slug": "broccoli-onion-chicken-soup",
+        "title": "青花菜洋蔥雞湯",
+        "group": "home",
+        "steps": 3,
+        "avg": 42,
+        "category": "湯品"
+      },
+      {
+        "slug": "cabbage-egg-stir-fry",
+        "title": "高麗菜炒蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 38,
+        "category": "家常菜"
+      },
+      {
+        "slug": "cabbage-onion-eggs",
+        "title": "高麗菜洋蔥炒蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 49,
+        "category": "家常菜"
+      },
+      {
+        "slug": "cabbage-tofu-egg-drop-soup",
+        "title": "高麗菜豆腐蛋花湯",
+        "group": "home",
+        "steps": 3,
+        "avg": 41,
+        "category": "湯品"
+      },
+      {
+        "slug": "chicken-broccoli-pasta",
+        "title": "雞胸青花義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 42,
+        "category": "飯麵"
+      },
+      {
+        "slug": "creamy-mushroom-pasta",
+        "title": "奶香菇類義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 42,
+        "category": "飯麵"
+      },
+      {
+        "slug": "garlic-egg-cabbage-bento-side",
+        "title": "蒜香蛋炒高麗菜便當菜",
+        "group": "home",
+        "steps": 3,
+        "avg": 39,
+        "category": "便當菜"
+      },
+      {
+        "slug": "garlic-oil-pasta",
+        "title": "蒜香義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 96,
+        "category": "飯麵"
+      },
+      {
+        "slug": "garlic-tomato-tofu-eggs",
+        "title": "蒜香番茄豆腐炒蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 51,
+        "category": "家常菜"
+      },
+      {
+        "slug": "mushroom-scallion-soft-eggs",
+        "title": "菇菇青蔥滑蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 38,
+        "category": "家常菜"
+      },
+      {
+        "slug": "onion-carrot-egg-bento-side",
+        "title": "洋蔥紅蘿蔔炒蛋便當菜",
+        "group": "home",
+        "steps": 3,
+        "avg": 41,
+        "category": "便當菜"
+      },
+      {
+        "slug": "onion-egg-rice-bowl",
+        "title": "洋蔥滑蛋飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 44,
+        "category": "飯麵"
+      },
+      {
+        "slug": "onion-tomato-egg-fried-rice",
+        "title": "洋蔥番茄蛋炒飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 39,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-chicken-pasta",
+        "title": "青蔥蒜香雞胸義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 46,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-salmon-pasta",
+        "title": "青蔥蒜香鮭魚義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 45,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-shrimp-pasta",
+        "title": "青蔥蒜香蝦仁義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 46,
+        "category": "飯麵"
+      },
+      {
+        "slug": "pesto-style-scallion-pasta",
+        "title": "青蔥風味義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 40,
+        "category": "飯麵"
+      },
+      {
+        "slug": "salmon-garlic-pasta",
+        "title": "蒜香鮭魚義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 39,
+        "category": "飯麵"
+      },
+      {
+        "slug": "scallion-beef-fried-rice",
+        "title": "蔥花牛肉炒飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 39,
+        "category": "飯麵"
+      },
+      {
+        "slug": "scallion-egg-rice",
+        "title": "蔥蛋拌飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 34,
+        "category": "飯麵"
+      },
+      {
+        "slug": "scallion-garlic-pasta",
+        "title": "青蔥蒜香義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 40,
+        "category": "飯麵"
+      },
+      {
+        "slug": "scallion-mushroom-egg-pan",
+        "title": "青蔥菇菇蛋煎盤",
+        "group": "home",
+        "steps": 3,
+        "avg": 32,
+        "category": "家常菜"
+      },
+      {
+        "slug": "soy-garlic-beef-slices",
+        "title": "醬蒜牛肉片",
+        "group": "home",
+        "steps": 3,
+        "avg": 37,
+        "category": "主菜"
+      },
+      {
+        "slug": "tofu-egg-savory-rice-bowl",
+        "title": "豆腐蛋香拌飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 35,
+        "category": "飯麵"
+      },
+      {
+        "slug": "tofu-scrambled-eggs",
+        "title": "豆腐炒蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 45,
+        "category": "家常菜"
+      },
+      {
+        "slug": "tomato-broccoli-egg-rice",
+        "title": "番茄青花菜蛋炒飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 38,
+        "category": "飯麵"
+      },
+      {
+        "slug": "tomato-cabbage-soft-eggs",
+        "title": "番茄高麗菜滑蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 38,
+        "category": "家常菜"
+      },
+      {
+        "slug": "tomato-egg-rice",
+        "title": "番茄雞蛋飯",
+        "group": "home",
+        "steps": 3,
+        "avg": 86,
+        "category": "家常菜"
+      },
+      {
+        "slug": "tomato-egg-tofu-light-soup",
+        "title": "番茄蛋豆腐清湯",
+        "group": "home",
+        "steps": 3,
+        "avg": 46,
+        "category": "湯品"
+      },
+      {
+        "slug": "tomato-garlic-cabbage-eggs",
+        "title": "番茄蒜香高麗菜炒蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 37,
+        "category": "家常菜"
+      },
+      {
+        "slug": "tomato-garlic-pasta",
+        "title": "番茄蒜香義大利麵",
+        "group": "home",
+        "steps": 3,
+        "avg": 44,
+        "category": "飯麵"
+      },
+      {
+        "slug": "tomato-onion-scrambled-eggs",
+        "title": "番茄洋蔥滑蛋",
+        "group": "home",
+        "steps": 3,
+        "avg": 44,
+        "category": "家常菜"
+      },
+      {
+        "slug": "tomato-onion-tofu-soup",
+        "title": "番茄洋蔥豆腐湯",
+        "group": "home",
+        "steps": 3,
+        "avg": 44,
+        "category": "湯品"
+      }
+    ]
+  },
+  "rows": [
+    {
+      "slug": "air-fryer-butter-corn",
+      "title": "氣炸奶油玉米",
+      "group": "home",
+      "steps": 6,
+      "avg": 26,
+      "category": "家常菜"
+    },
+    {
+      "slug": "air-fryer-crispy-chicken-bites",
+      "title": "氣炸台式雞塊",
+      "group": "home",
+      "steps": 5,
+      "avg": 30,
+      "category": "主菜"
+    },
+    {
+      "slug": "air-fryer-crispy-tofu-cubes",
+      "title": "氣炸酥炸豆腐丁",
+      "group": "home",
+      "steps": 6,
+      "avg": 34,
+      "category": "家常菜"
+    },
+    {
+      "slug": "air-fryer-garlic-mushrooms",
+      "title": "氣炸蒜香菇類",
+      "group": "home",
+      "steps": 6,
+      "avg": 32,
+      "category": "家常菜"
+    },
+    {
+      "slug": "air-fryer-garlic-okra",
+      "title": "氣炸蒜香秋葵",
+      "group": "home",
+      "steps": 6,
+      "avg": 29,
+      "category": "家常菜"
+    },
+    {
+      "slug": "air-fryer-garlic-pork-chop",
+      "title": "氣炸蒜香豬排",
+      "group": "home",
+      "steps": 6,
+      "avg": 32,
+      "category": "主菜"
+    },
+    {
+      "slug": "air-fryer-garlic-shrimp",
+      "title": "氣炸蒜香蝦仁",
+      "group": "home",
+      "steps": 6,
+      "avg": 35,
+      "category": "主菜"
+    },
+    {
+      "slug": "air-fryer-honey-sweet-potato",
+      "title": "氣炸蜜蕃薯",
+      "group": "home",
+      "steps": 6,
+      "avg": 33,
+      "category": "家常菜"
+    },
+    {
+      "slug": "air-fryer-lemon-fish-fillet",
+      "title": "氣炸檸檬魚排",
+      "group": "home",
+      "steps": 6,
+      "avg": 38,
+      "category": "主菜"
+    },
+    {
+      "slug": "air-fryer-salmon-broccoli",
+      "title": "氣炸鮭魚青花菜",
+      "group": "home",
+      "steps": 4,
+      "avg": 44,
+      "category": "主菜"
+    },
+    {
+      "slug": "air-fryer-soy-chicken-wings",
+      "title": "氣炸醬油雞翅",
+      "group": "home",
+      "steps": 6,
+      "avg": 34,
+      "category": "主菜"
+    },
+    {
+      "slug": "airfryer-garlic-chicken-broccoli",
+      "title": "氣炸蒜香雞胸佐青花菜",
+      "group": "home",
+      "steps": 4,
+      "avg": 36,
+      "category": "主菜"
+    },
+    {
+      "slug": "airfryer-tofu-mushroom-main",
+      "title": "氣炸豆腐菇菇主菜",
+      "group": "home",
+      "steps": 4,
+      "avg": 34,
+      "category": "主菜"
+    },
+    {
+      "slug": "beef-broccoli-stirfry",
+      "title": "牛肉青花快炒",
+      "group": "home",
+      "steps": 5,
+      "avg": 40,
+      "category": "家常菜"
+    },
+    {
+      "slug": "beef-carrot-soup",
+      "title": "紅蘿蔔牛肉湯",
+      "group": "home",
+      "steps": 4,
+      "avg": 61,
+      "category": "湯品"
+    },
+    {
+      "slug": "beef-mushroom-stirfry",
+      "title": "牛肉炒香菇",
+      "group": "home",
+      "steps": 5,
+      "avg": 32,
+      "category": "家常菜"
+    },
+    {
+      "slug": "beef-tofu-braise",
+      "title": "牛肉豆腐燉煮",
+      "group": "home",
+      "steps": 4,
+      "avg": 47,
+      "category": "家常菜"
+    },
+    {
+      "slug": "beef-tomato-noodles",
+      "title": "番茄牛肉麵",
+      "group": "home",
+      "steps": 5,
+      "avg": 37,
+      "category": "飯麵"
+    },
+    {
+      "slug": "bento-black-pepper-beef",
+      "title": "便當黑椒牛肉",
+      "group": "home",
+      "steps": 5,
+      "avg": 23,
+      "category": "便當菜"
+    },
+    {
+      "slug": "bento-braised-tofu-egg",
+      "title": "便當滷蛋豆腐",
+      "group": "home",
+      "steps": 5,
+      "avg": 17,
+      "category": "便當菜"
+    },
+    {
+      "slug": "bento-ginger-chicken",
+      "title": "便當薑炒雞肉",
+      "group": "home",
+      "steps": 5,
+      "avg": 23,
+      "category": "便當菜"
+    },
+    {
+      "slug": "bento-honey-soy-pork",
+      "title": "便當蜜汁滷肉",
+      "group": "home",
+      "steps": 5,
+      "avg": 19,
+      "category": "便當菜"
+    },
+    {
+      "slug": "bento-stir-fried-cabbage",
+      "title": "便當炒高麗菜",
+      "group": "home",
+      "steps": 5,
+      "avg": 17,
+      "category": "便當菜"
+    },
+    {
+      "slug": "broccoli-mushroom-chicken-rice-bowl",
+      "title": "青花菜菇菇雞胸飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 46,
+      "category": "飯麵"
+    },
+    {
+      "slug": "broccoli-mushroom-egg",
+      "title": "青花菜菇菇炒蛋",
+      "group": "home",
+      "steps": 5,
+      "avg": 31,
+      "category": "家常菜"
+    },
+    {
+      "slug": "broccoli-onion-chicken-soup",
+      "title": "青花菜洋蔥雞湯",
+      "group": "home",
+      "steps": 3,
+      "avg": 42,
+      "category": "湯品"
+    },
+    {
+      "slug": "broccoli-tofu-garlic-stirfry",
+      "title": "青花菜豆腐蒜炒",
+      "group": "home",
+      "steps": 5,
+      "avg": 29,
+      "category": "家常菜"
+    },
+    {
+      "slug": "budget-cabbage-noodle-soup",
+      "title": "省錢高麗菜麵",
+      "group": "home",
+      "steps": 5,
+      "avg": 16,
+      "category": "飯麵"
+    },
+    {
+      "slug": "budget-simple-egg-fried-rice",
+      "title": "省錢蛋炒飯",
+      "group": "home",
+      "steps": 6,
+      "avg": 20,
+      "category": "飯麵"
+    },
+    {
+      "slug": "budget-tofu-rice-bowl",
+      "title": "省錢豆腐蓋飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 39,
+      "category": "飯麵"
+    },
+    {
+      "slug": "butter-garlic-instant-noodles",
+      "title": "奶油蒜香泡麵",
+      "group": "home",
+      "steps": 5,
+      "avg": 21,
+      "category": "飯麵"
+    },
+    {
+      "slug": "cabbage-carrot-chicken-rice-bowl",
+      "title": "高麗菜紅蘿蔔雞胸飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 46,
+      "category": "飯麵"
+    },
+    {
+      "slug": "cabbage-egg-stir-fry",
+      "title": "高麗菜炒蛋",
+      "group": "home",
+      "steps": 3,
+      "avg": 38,
+      "category": "家常菜"
+    },
+    {
+      "slug": "cabbage-mushroom-clear-soup",
+      "title": "高麗菜菇菇清湯",
+      "group": "home",
+      "steps": 5,
+      "avg": 32,
+      "category": "湯品"
+    },
+    {
+      "slug": "cabbage-mushroom-rice",
+      "title": "高麗菜菇菇炊飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 29,
+      "category": "飯麵"
+    },
+    {
+      "slug": "cabbage-onion-eggs",
+      "title": "高麗菜洋蔥炒蛋",
+      "group": "home",
+      "steps": 3,
+      "avg": 49,
+      "category": "家常菜"
+    },
+    {
+      "slug": "cabbage-tofu-egg-drop-soup",
+      "title": "高麗菜豆腐蛋花湯",
+      "group": "home",
+      "steps": 3,
+      "avg": 41,
+      "category": "湯品"
+    },
+    {
+      "slug": "cajun-fries",
+      "title": "肯瓊香辣薯條",
+      "group": "home",
+      "steps": 5,
+      "avg": 42,
+      "category": "家常菜"
+    },
+    {
+      "slug": "canned-tuna-rice-bowl",
+      "title": "鮪魚罐頭飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 42,
+      "category": "飯麵"
+    },
+    {
+      "slug": "carrot-chicken-rice-bowl",
+      "title": "紅蘿蔔雞胸飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 44,
+      "category": "飯麵"
+    },
+    {
+      "slug": "chefs-daily-soup",
+      "title": "主廚每日例湯",
+      "group": "home",
+      "steps": 6,
+      "avg": 33,
+      "category": "湯品"
+    },
+    {
+      "slug": "chicken-broccoli-pasta",
+      "title": "雞胸青花義大利麵",
+      "group": "home",
+      "steps": 3,
+      "avg": 42,
+      "category": "飯麵"
+    },
+    {
+      "slug": "classic-caesar-chicken-salad",
+      "title": "經典凱薩嫩雞沙拉",
+      "group": "home",
+      "steps": 4,
+      "avg": 30,
+      "category": "家常菜"
+    },
+    {
+      "slug": "clearout-tofu-veggie-soup",
+      "title": "豆腐蔬菜清湯",
+      "group": "home",
+      "steps": 6,
+      "avg": 25,
+      "category": "湯品"
+    },
+    {
+      "slug": "clearout-veggie-egg-fried-rice",
+      "title": "家常蛋炒飯",
+      "group": "home",
+      "steps": 6,
+      "avg": 23,
+      "category": "飯麵"
+    },
+    {
+      "slug": "creamy-mushroom-pasta",
+      "title": "奶香菇類義大利麵",
+      "group": "home",
+      "steps": 3,
+      "avg": 42,
+      "category": "飯麵"
+    },
+    {
+      "slug": "crispy-cod-brunch",
+      "title": "金黃酥炸鱈魚早午餐",
+      "group": "home",
+      "steps": 5,
+      "avg": 36,
+      "category": "主菜"
+    },
+    {
+      "slug": "curry-beef-rice",
+      "title": "咖哩牛肉飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 46,
+      "category": "飯麵"
+    },
+    {
+      "slug": "dh-bbq-korean-fried-chicken",
+      "title": "醬味韓式炸雞",
+      "group": "dubu-house",
+      "steps": 7,
+      "avg": 47,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-bbq-wrap",
+      "title": "醬燒青蔥牛五花/豬梅花",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 39,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-bibimbap",
+      "title": "石燒拌飯",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 53,
+      "category": "韓式飯食"
+    },
+    {
+      "slug": "dh-brown-sugar-pancake",
+      "title": "韓式爆漿黑糖餅",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 38,
+      "category": "甜點"
+    },
+    {
+      "slug": "dh-cajun-korean-fried-chicken",
+      "title": "肯瓊醬韓式炸雞",
+      "group": "dubu-house",
+      "steps": 7,
+      "avg": 46,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-cheese-kimchi-mushroom-soondubu",
+      "title": "起司泡菜鮮菇嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 69,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-cheese-pink-sauce-fried-squid-with-rice-cake",
+      "title": "起司玫瑰醬魷魚年糕",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 36,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-cheese-soondubu",
+      "title": "起司嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 63,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-cheese-stuffed-rice-cake-soondubu",
+      "title": "打爆起司年糕嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 7,
+      "avg": 61,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-cheese-stuffed-rice-cake-with-fresh-fish-seaweed",
+      "title": "海菜起司年糕鮮魚嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 7,
+      "avg": 59,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-cheese-vegetable-soondubu",
+      "title": "起司野菜鮮菇嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 69,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-clams-shrimp-soondubu",
+      "title": "蛤蜊鮮蝦嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 63,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-classic-soondubu",
+      "title": "嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 60,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-classic-stone-pot-rice",
+      "title": "韓式石鍋飯",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 50,
+      "category": "韓式飯食"
+    },
+    {
+      "slug": "dh-combo-soondubu",
+      "title": "海陸綜合嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 67,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-creamy-onion-korean-fried-chicken",
+      "title": "洋蔥白醬韓式炸雞",
+      "group": "dubu-house",
+      "steps": 7,
+      "avg": 46,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-curry-soondubu",
+      "title": "咖哩嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 60,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-deep-fried-tofu",
+      "title": "黃金酥炸嫩豆腐",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 31,
+      "category": "前菜"
+    },
+    {
+      "slug": "dh-duck-jerky-stone-pot-rice",
+      "title": "鴨賞石鍋飯",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 50,
+      "category": "韓式飯食"
+    },
+    {
+      "slug": "dh-fish-soondubu",
+      "title": "鮮魚嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 61,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-french-fries-with-korean-flavored-sauce",
+      "title": "韓式酥炸脆薯",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 44,
+      "category": "前菜"
+    },
+    {
+      "slug": "dh-fried-glass-noodle",
+      "title": "韓式炒冬粉",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 44,
+      "category": "前菜"
+    },
+    {
+      "slug": "dh-fried-oysters",
+      "title": "巨濟島炸牡蠣",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 29,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-ginseng-chicken-clay-pot",
+      "title": "人蔘砂鍋雞",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 36,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-ginseng-chicken-hot-pot",
+      "title": "韓國人蔘雞火鍋",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 41,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-golden-chicken-stone-pot-rice",
+      "title": "黃金雞石鍋飯",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 49,
+      "category": "韓式飯食"
+    },
+    {
+      "slug": "dh-honey-garlic-korean-fried-chicken",
+      "title": "蜂蜜蒜味韓式炸雞",
+      "group": "dubu-house",
+      "steps": 7,
+      "avg": 48,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-kimchi-mushroom-soondubu",
+      "title": "泡菜鮮菇嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 69,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-kimchi-seafood-soondubu",
+      "title": "泡菜海鮮嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 66,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-kimchi-soondubu",
+      "title": "泡菜嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 66,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-kimchi-tofu-pancake",
+      "title": "泡菜豆腐煎餅",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 41,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-korean-bbq-beef-short-ribs",
+      "title": "韓式BBQ鐵板翼板牛",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 34,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-korean-cheese-egg-roll",
+      "title": "韓式起司烘蛋捲",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 30,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-korean-dumpling-soondubu",
+      "title": "韓式餃子嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 65,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-korean-fried-chicken-combo",
+      "title": "Combo雙享韓式炸雞",
+      "group": "dubu-house",
+      "steps": 7,
+      "avg": 42,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-korean-style-bbq-fish-ball",
+      "title": "韓風辣味魚丸燒",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 36,
+      "category": "前菜"
+    },
+    {
+      "slug": "dh-korean-sweet-and-sour-pork",
+      "title": "韓國糖醋肉",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 39,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-korean-vermicelli-tofu-roll",
+      "title": "韓式金絲豆腐捲",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 28,
+      "category": "前菜"
+    },
+    {
+      "slug": "dh-original-korean-fried-chicken",
+      "title": "原味韓式炸雞",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 41,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-ox-bone-soup",
+      "title": "神仙霜降雪濃湯",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 28,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-plant-based-fried-chicken-with-mushroom-soondubu",
+      "title": "植感炸雞鮮菇嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 66,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-plant-based-fried-chicken-with-rice-cake",
+      "title": "植感炸雞年糕",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 35,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-potato-pancake-with-cheese",
+      "title": "起司馬鈴薯煎餅",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 45,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-royal-stir-fried-rice-cake",
+      "title": "韓式宮廷炒年糕",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 33,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-seafood-pancake",
+      "title": "綜合海鮮煎餅",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 38,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-seafood-soondubu",
+      "title": "海鮮嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 6,
+      "avg": 67,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-seaweed-oyster-soondubu",
+      "title": "海菜鮮蚵嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 67,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "dh-spicy-korean-fried-chicken",
+      "title": "辣味韓式炸雞",
+      "group": "dubu-house",
+      "steps": 7,
+      "avg": 46,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-spicy-pan-fried-seafood-rice-cake",
+      "title": "海鮮辣炒年糕",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 34,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-spicy-pan-fried-squid",
+      "title": "辣炒中卷",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 32,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-spicy-stired-fried-chicken",
+      "title": "春川辣炒雞",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 31,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-steamed-eggs-with-cheese-roe",
+      "title": "魚卵起司陶鍋蛋",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 34,
+      "category": "前菜"
+    },
+    {
+      "slug": "dh-stired-fried-fish-fillet-with-vegetables",
+      "title": "田園醬燒飛虎魚",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 27,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-tofu-ice-cream-with-tapioca",
+      "title": "珍珠豆腐冰淇淋",
+      "group": "dubu-house",
+      "steps": 4,
+      "avg": 32,
+      "category": "甜點"
+    },
+    {
+      "slug": "dh-truffle-cheese-egg-roll",
+      "title": "松露韓式起司烘蛋捲",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 35,
+      "category": "限定主菜"
+    },
+    {
+      "slug": "dh-truffle-jjajang-cheese-rice-cake",
+      "title": "黑松露炸醬起司年糕",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 32,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-vegetable-pancake",
+      "title": "絲瓜鮮蔬煎餅",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 38,
+      "category": "韓式主菜"
+    },
+    {
+      "slug": "dh-vegetable-soondubu",
+      "title": "野菜鮮菇嫩豆腐煲",
+      "group": "dubu-house",
+      "steps": 5,
+      "avg": 67,
+      "category": "韓式鍋物"
+    },
+    {
+      "slug": "egg-scallion-oil-noodles",
+      "title": "蛋蔥油麵",
+      "group": "home",
+      "steps": 6,
+      "avg": 20,
+      "category": "飯麵"
+    },
+    {
+      "slug": "electricpot-broccoli-chicken-bento",
+      "title": "電鍋青花菜雞胸便當菜",
+      "group": "home",
+      "steps": 4,
+      "avg": 29,
+      "category": "便當菜"
+    },
+    {
+      "slug": "electricpot-mushroom-chicken-bento",
+      "title": "電鍋菇菇雞胸便當菜",
+      "group": "home",
+      "steps": 4,
+      "avg": 37,
+      "category": "便當菜"
+    },
+    {
+      "slug": "electricpot-tofu-egg-bento-side",
+      "title": "電鍋豆腐蛋便當菜",
+      "group": "home",
+      "steps": 4,
+      "avg": 35,
+      "category": "便當菜"
+    },
+    {
+      "slug": "fish-and-chips",
+      "title": "英式炸魚薯條",
+      "group": "home",
+      "steps": 4,
+      "avg": 37,
+      "category": "主菜"
+    },
+    {
+      "slug": "fridge-bottom-soup-noodles",
+      "title": "什錦蔬菜湯麵",
+      "group": "home",
+      "steps": 6,
+      "avg": 23,
+      "category": "飯麵"
+    },
+    {
+      "slug": "fried-trio-platter",
+      "title": "炸物三重奏",
+      "group": "home",
+      "steps": 4,
+      "avg": 36,
+      "category": "家常菜"
+    },
+    {
+      "slug": "garden-vegetable-pasta",
+      "title": "田園時蔬義大利麵",
+      "group": "home",
+      "steps": 4,
+      "avg": 33,
+      "category": "飯麵"
+    },
+    {
+      "slug": "garlic-beef-cabbage-stirfry",
+      "title": "蒜香牛肉炒高麗菜",
+      "group": "home",
+      "steps": 5,
+      "avg": 39,
+      "category": "家常菜"
+    },
+    {
+      "slug": "garlic-cabbage-tofu-braise",
+      "title": "蒜頭高麗菜豆腐煮",
+      "group": "home",
+      "steps": 5,
+      "avg": 32,
+      "category": "家常菜"
+    },
+    {
+      "slug": "garlic-cream-shrimp-pasta",
+      "title": "蒜香奶油鮮蝦麵",
+      "group": "home",
+      "steps": 4,
+      "avg": 38,
+      "category": "飯麵"
+    },
+    {
+      "slug": "garlic-egg-cabbage-bento-side",
+      "title": "蒜香蛋炒高麗菜便當菜",
+      "group": "home",
+      "steps": 3,
+      "avg": 39,
+      "category": "便當菜"
+    },
+    {
+      "slug": "garlic-mushroom-chicken",
+      "title": "蒜香菇菇雞胸",
+      "group": "home",
+      "steps": 5,
+      "avg": 32,
+      "category": "主菜"
+    },
+    {
+      "slug": "garlic-mushroom-tofu-rice-bowl",
+      "title": "蒜香菇豆腐拌飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 43,
+      "category": "飯麵"
+    },
+    {
+      "slug": "garlic-oil-pasta",
+      "title": "蒜香義大利麵",
+      "group": "home",
+      "steps": 3,
+      "avg": 96,
+      "category": "飯麵"
+    },
+    {
+      "slug": "garlic-tofu-chicken-pan-main",
+      "title": "蒜香豆腐雞胸主菜",
+      "group": "home",
+      "steps": 5,
+      "avg": 29,
+      "category": "主菜"
+    },
+    {
+      "slug": "garlic-tomato-chicken-rice-bowl",
+      "title": "蒜香番茄雞胸飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 45,
+      "category": "飯麵"
+    },
+    {
+      "slug": "garlic-tomato-tofu-eggs",
+      "title": "蒜香番茄豆腐炒蛋",
+      "group": "home",
+      "steps": 3,
+      "avg": 51,
+      "category": "家常菜"
+    },
+    {
+      "slug": "herb-pan-chicken-brunch",
+      "title": "香草煎雞胸早午餐",
+      "group": "home",
+      "steps": 5,
+      "avg": 30,
+      "category": "主菜"
+    },
+    {
+      "slug": "high-protein-chicken-broccoli-bowl",
+      "title": "高蛋白雞肉青花碗",
+      "group": "home",
+      "steps": 5,
+      "avg": 22,
+      "category": "主菜"
+    },
+    {
+      "slug": "high-protein-egg-white-stirfry",
+      "title": "高蛋白蛋白炒",
+      "group": "home",
+      "steps": 5,
+      "avg": 20,
+      "category": "家常菜"
+    },
+    {
+      "slug": "high-protein-shrimp-tofu-bowl",
+      "title": "高蛋白蝦豆腐碗",
+      "group": "home",
+      "steps": 5,
+      "avg": 21,
+      "category": "主菜"
+    },
+    {
+      "slug": "high-protein-tofu-steak-plate",
+      "title": "高蛋白豆腐排",
+      "group": "home",
+      "steps": 5,
+      "avg": 18,
+      "category": "主菜"
+    },
+    {
+      "slug": "honey-cajun-chicken-wings",
+      "title": "蜜汁紐澳良雞翅",
+      "group": "home",
+      "steps": 5,
+      "avg": 42,
+      "category": "主菜"
+    },
+    {
+      "slug": "instant-miso-egg-soup",
+      "title": "味噌蛋花湯",
+      "group": "home",
+      "steps": 6,
+      "avg": 25,
+      "category": "湯品"
+    },
+    {
+      "slug": "leftover-meat-quick-stirfry",
+      "title": "豬肉青椒快炒",
+      "group": "home",
+      "steps": 5,
+      "avg": 20,
+      "category": "家常菜"
+    },
+    {
+      "slug": "leftover-mixed-veggie-fried-rice",
+      "title": "綜合蔬菜炒飯",
+      "group": "home",
+      "steps": 6,
+      "avg": 27,
+      "category": "飯麵"
+    },
+    {
+      "slug": "leftover-rice-egg-pancake",
+      "title": "米飯蛋煎餅",
+      "group": "home",
+      "steps": 4,
+      "avg": 39,
+      "category": "家常菜"
+    },
+    {
+      "slug": "microwave-steamed-egg-rice",
+      "title": "電子鍋蒸蛋蓋飯",
+      "group": "home",
+      "steps": 6,
+      "avg": 23,
+      "category": "飯麵"
+    },
+    {
+      "slug": "mixed-leftover-congee",
+      "title": "蛋花鹹粥",
+      "group": "home",
+      "steps": 6,
+      "avg": 22,
+      "category": "飯麵"
+    },
+    {
+      "slug": "mushroom-beef-rice-bowl",
+      "title": "香菇牛肉蓋飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 43,
+      "category": "飯麵"
+    },
+    {
+      "slug": "mushroom-cabbage-rice-bowl",
+      "title": "菇菇高麗菜燴飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 44,
+      "category": "飯麵"
+    },
+    {
+      "slug": "mushroom-scallion-soft-eggs",
+      "title": "菇菇青蔥滑蛋",
+      "group": "home",
+      "steps": 3,
+      "avg": 38,
+      "category": "家常菜"
+    },
+    {
+      "slug": "mushroom-soft-egg-brunch",
+      "title": "野菇嫩蛋早午餐",
+      "group": "home",
+      "steps": 4,
+      "avg": 26,
+      "category": "主菜"
+    },
+    {
+      "slug": "onion-bacon-style-egg-pasta",
+      "title": "洋蔥蛋香義大利麵",
+      "group": "home",
+      "steps": 4,
+      "avg": 48,
+      "category": "飯麵"
+    },
+    {
+      "slug": "onion-beef-rice-bowl",
+      "title": "洋蔥牛肉蓋飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 43,
+      "category": "飯麵"
+    },
+    {
+      "slug": "onion-beef-slices",
+      "title": "洋蔥牛肉片",
+      "group": "home",
+      "steps": 4,
+      "avg": 35,
+      "category": "主菜"
+    },
+    {
+      "slug": "onion-cabbage-mushroom-saute",
+      "title": "洋蔥高麗菜菇菇炒",
+      "group": "home",
+      "steps": 5,
+      "avg": 35,
+      "category": "家常菜"
+    },
+    {
+      "slug": "onion-carrot-egg-bento-side",
+      "title": "洋蔥紅蘿蔔炒蛋便當菜",
+      "group": "home",
+      "steps": 3,
+      "avg": 41,
+      "category": "便當菜"
+    },
+    {
+      "slug": "onion-egg-rice-bowl",
+      "title": "洋蔥滑蛋飯",
+      "group": "home",
+      "steps": 3,
+      "avg": 44,
+      "category": "飯麵"
+    },
+    {
+      "slug": "onion-garlic-tofu-eggs",
+      "title": "洋蔥蒜香豆腐炒蛋",
+      "group": "home",
+      "steps": 5,
+      "avg": 36,
+      "category": "家常菜"
+    },
+    {
+      "slug": "onion-salmon-pan-steak",
+      "title": "洋蔥香煎鮭魚排",
+      "group": "home",
+      "steps": 5,
+      "avg": 36,
+      "category": "主菜"
+    },
+    {
+      "slug": "onion-tomato-egg-fried-rice",
+      "title": "洋蔥番茄蛋炒飯",
+      "group": "home",
+      "steps": 3,
+      "avg": 39,
+      "category": "飯麵"
+    },
+    {
+      "slug": "pan-seared-flap-steak-brunch",
+      "title": "香煎翼板牛排早午餐",
+      "group": "home",
+      "steps": 5,
+      "avg": 36,
+      "category": "主菜"
+    },
+    {
+      "slug": "pesto-chicken-broccoli-pasta",
+      "title": "青蔥蒜香雞肉青花義大利麵",
+      "group": "home",
+      "steps": 4,
+      "avg": 52,
+      "category": "飯麵"
+    },
+    {
+      "slug": "pesto-chicken-mushroom-pasta",
+      "title": "青蔥蒜香雞肉菇類義大利麵",
+      "group": "home",
+      "steps": 4,
+      "avg": 42,
+      "category": "飯麵"
+    },
+    {
+      "slug": "pesto-chicken-pasta",
+      "title": "青蔥蒜香雞胸義大利麵",
+      "group": "home",
+      "steps": 3,
+      "avg": 46,
+      "category": "飯麵"
+    },
+    {
+      "slug": "pesto-salmon-broccoli-pasta",
+      "title": "青蔥蒜香鮭魚青花義大利麵",
+      "group": "home",
+      "steps": 4,
+      "avg": 51,
+      "category": "飯麵"
+    },
+    {
+      "slug": "pesto-salmon-pasta",
+      "title": "青蔥蒜香鮭魚義大利麵",
+      "group": "home",
+      "steps": 3,
+      "avg": 45,
+      "category": "飯麵"
+    },
+    {
+      "slug": "pesto-shrimp-pasta",
+      "title": "青蔥蒜香蝦仁義大利麵",
+      "group": "home",
+      "steps": 3,
+      "avg": 46,
+      "category": "飯麵"
+    },
+    {
+      "slug": "pesto-style-scallion-pasta",
+      "title": "青蔥風味義大利麵",
+      "group": "home",
+      "steps": 3,
+      "avg": 40,
+      "category": "飯麵"
+    },
+    {
+      "slug": "quick-kimchi-fried-rice",
+      "title": "快速泡菜炒飯",
+      "group": "home",
+      "steps": 6,
+      "avg": 24,
+      "category": "飯麵"
+    },
+    {
+      "slug": "quick-pickled-cucumber-egg-rice",
+      "title": "菜脯蛋飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 39,
+      "category": "飯麵"
+    },
+    {
+      "slug": "random-veggie-egg-pancake",
+      "title": "雜菜雞蛋煎餅",
+      "group": "home",
+      "steps": 5,
+      "avg": 19,
+      "category": "家常菜"
+    },
+    {
+      "slug": "roasted-lemon-salmon-brunch",
+      "title": "爐烤檸香鮭魚早午餐",
+      "group": "home",
+      "steps": 6,
+      "avg": 38,
+      "category": "主菜"
+    },
+    {
+      "slug": "salmon-broccoli-garlic-main",
+      "title": "蒜香鮭魚青花菜主菜",
+      "group": "home",
+      "steps": 5,
+      "avg": 29,
+      "category": "主菜"
+    },
+    {
+      "slug": "salmon-garlic-pasta",
+      "title": "蒜香鮭魚義大利麵",
+      "group": "home",
+      "steps": 3,
+      "avg": 39,
+      "category": "飯麵"
+    },
+    {
+      "slug": "scallion-beef-fried-rice",
+      "title": "蔥花牛肉炒飯",
+      "group": "home",
+      "steps": 3,
+      "avg": 39,
+      "category": "飯麵"
+    },
+    {
+      "slug": "scallion-beef-stirfry",
+      "title": "蔥爆牛肉",
+      "group": "home",
+      "steps": 4,
+      "avg": 59,
+      "category": "主菜"
+    },
+    {
+      "slug": "scallion-chicken-rice-bowl",
+      "title": "青蔥雞胸拌飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 39,
+      "category": "飯麵"
+    },
+    {
+      "slug": "scallion-egg-rice",
+      "title": "蔥蛋拌飯",
+      "group": "home",
+      "steps": 3,
+      "avg": 34,
+      "category": "飯麵"
+    },
+    {
+      "slug": "scallion-garlic-pasta",
+      "title": "青蔥蒜香義大利麵",
+      "group": "home",
+      "steps": 3,
+      "avg": 40,
+      "category": "飯麵"
+    },
+    {
+      "slug": "scallion-mushroom-egg-pan",
+      "title": "青蔥菇菇蛋煎盤",
+      "group": "home",
+      "steps": 3,
+      "avg": 32,
+      "category": "家常菜"
+    },
+    {
+      "slug": "scallion-oil-dry-noodles",
+      "title": "蔥油乾麵",
+      "group": "home",
+      "steps": 5,
+      "avg": 24,
+      "category": "飯麵"
+    },
+    {
+      "slug": "seasonal-greens-salad-bowl",
+      "title": "季節鮮蔬沙拉碗",
+      "group": "home",
+      "steps": 4,
+      "avg": 25,
+      "category": "家常菜"
+    },
+    {
+      "slug": "sesame-cold-noodles-solo",
+      "title": "一人麻醬涼麵",
+      "group": "home",
+      "steps": 6,
+      "avg": 20,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sesame-onion-chicken-rice-bowl",
+      "title": "麻油洋蔥雞胸拌飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 45,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-acai-berry-yogurt-bowl",
+      "title": "巴西莓果優格碗",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 42,
+      "category": "輕食沙拉"
+    },
+    {
+      "slug": "sf-american-cheesecake",
+      "title": "全美起司蛋糕",
+      "group": "second-floor",
+      "steps": 5,
+      "avg": 50,
+      "category": "甜點"
+    },
+    {
+      "slug": "sf-asahi-cordon-bleu-pork-burger",
+      "title": "朝日藍帶豬排堡",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 45,
+      "category": "限定主餐"
+    },
+    {
+      "slug": "sf-avocado-bacon-open-toast",
+      "title": "酪梨慢煎培根／歐包 Open",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 57,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-avocado-local-sausage-danish-open",
+      "title": "酪梨 Local 香腸／丹麥 Open",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 58,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-avocado-smoked-salmon-open-toast",
+      "title": "酪梨燻鮭魚／歐包 Open",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 55,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-baked-thick-cut-pork-cream-rice",
+      "title": "焗厚切豬排奶油飯",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 61,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-balsamic-mushroom-pasta",
+      "title": "巴薩米克蕈菇麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 66,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-bbq-roasted-half-chicken",
+      "title": "BBQ 溫烤半雞",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 56,
+      "category": "排餐盤"
+    },
+    {
+      "slug": "sf-black-pepper-hamburg-rice",
+      "title": "老闆黑胡椒漢堡排飯",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 61,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-black-truffle-cordon-bleu-pork-open",
+      "title": "黑松露厚切藍帶豬／歐包 Open",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 58,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-bloody-mary-spicy-rice",
+      "title": "血腥瑪麗辣味飯",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 58,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-brownie-ice-cream",
+      "title": "布朗尼冰淇淋",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 42,
+      "category": "甜點"
+    },
+    {
+      "slug": "sf-buffalo-chicken-wings",
+      "title": "水牛城辣雞翅",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 64,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-campfire-lemon-zucchini-fish-fillet",
+      "title": "野炊系義式檸香櫛瓜魚菲力",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 45,
+      "category": "限定主餐"
+    },
+    {
+      "slug": "sf-cheesy-chicken-egg-rice",
+      "title": "吃光光起司蛋雞肉飯",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 59,
+      "category": "兒童餐"
+    },
+    {
+      "slug": "sf-cheesy-local-sausage-cream-pasta",
+      "title": "起司 Local 香腸奶白麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 71,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-chef-crispy-pork-knuckle",
+      "title": "主廚脆皮豬腳",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 54,
+      "category": "排餐盤"
+    },
+    {
+      "slug": "sf-chicken-quesadilla",
+      "title": "墨西哥雞肉酥餅",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 62,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-classic-beef-mushroom-eggs-benedict",
+      "title": "經典牛肉奶油炒菇班尼蛋",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 67,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-classic-caesar-salad",
+      "title": "經典凱薩沙拉",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 63,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-classic-ham-mushroom-eggs-benedict",
+      "title": "經典火腿奶油炒菇班尼蛋",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 70,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-classic-pesto-shrimp-pasta",
+      "title": "經典青醬鮮蝦麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 66,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-country-cinnamon-peach-pie",
+      "title": "鄉村肉桂蜜桃派",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 39,
+      "category": "甜點"
+    },
+    {
+      "slug": "sf-crispy-calamari-cocktail-sauce",
+      "title": "酥炸鮮魷佐雞尾酒醬",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 64,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-dawn-shrimp-chicken-linguine",
+      "title": "曙光汁鮮蝦雞肉麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 65,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-greek-campfire-grilled-chicken-brunch",
+      "title": "Greek style 野炊系炭烤雞肉早午餐",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 48,
+      "category": "限定主餐"
+    },
+    {
+      "slug": "sf-green-superhero-quinoa-buddha-bowl",
+      "title": "綠超人藜麥佛陀碗",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 59,
+      "category": "輕食沙拉"
+    },
+    {
+      "slug": "sf-griddled-butter-ham-sandwich",
+      "title": "厚烤奶油 Ham 三明治",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 58,
+      "category": "漢堡三明治"
+    },
+    {
+      "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
+      "title": "家鄉肉醬長管麵佐老媽肉丸",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 66,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-keto-surf-and-turf-platter",
+      "title": "生酮總匯海陸拼盤",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 64,
+      "category": "輕食沙拉"
+    },
+    {
+      "slug": "sf-kids-cream-chicken-penne",
+      "title": "北鼻奶油雞肉長管麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 66,
+      "category": "兒童餐"
+    },
+    {
+      "slug": "sf-local-sausage-quesadilla",
+      "title": "墨西哥 Local 香腸酥餅",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 62,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-mini-beef-egg-burger-set",
+      "title": "牛蛋小堡堡套餐",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 46,
+      "category": "兒童餐"
+    },
+    {
+      "slug": "sf-moon-view-bitter-melon-cream-rice",
+      "title": "月見苦瓜奶油飯",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 60,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-mushroom-cheese-omelette",
+      "title": "蕈菇奶起司歐姆蕾",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 51,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-oat-crusted-fish-and-fries",
+      "title": "燕麥脆脆炸魚薯條",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 58,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-orange-danish-mushroom-poached-potato",
+      "title": "橙香法式丹麥 蕈菇水波洋芋",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 60,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-orange-danish-poached-seafood-potato",
+      "title": "橙香法式丹麥 水波海鮮洋芋",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 58,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-orange-danish-sous-vide-steak",
+      "title": "橙香法式丹麥 舒肥牛排",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 61,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-orange-danish-sunny-sous-vide-chicken",
+      "title": "橙香法式丹麥 Sunny 舒肥雞",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 61,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-poached-egg-smoked-beef-danish-open",
+      "title": "水波燻牛肉／丹麥 Open",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 56,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-poutine-meat-sauce-fries",
+      "title": "普丁肉醬薯條",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 61,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-roasted-sesame-chicken-salad",
+      "title": "焙煎胡麻雞沙拉",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 62,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-salsa-black-curry-fried-chicken",
+      "title": "莎莎黑咖哩炸雞",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 63,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-salted-egg-bitter-melon-pasta",
+      "title": "台式熱炒鹹蛋苦瓜麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 68,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-salted-egg-seafood-pizza",
+      "title": "金黃流沙海鮮披薩",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 49,
+      "category": "限定主餐"
+    },
+    {
+      "slug": "sf-salted-egg-yolk-fries",
+      "title": "金黃流沙薯條",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 67,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-san-francisco-garlic-fries",
+      "title": "舊金山蒜香薯條",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 59,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-second-floor-fiesta-shrimp-penne",
+      "title": "貳樓費氏鮮蝦長管麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 67,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-second-floor-saltwater-chicken-salad",
+      "title": "貳樓金牌鹽水雞沙拉",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 69,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
+      "title": "台胃口水雞奶油炒菇班尼蛋",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 72,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-signature-double-stack-burger",
+      "title": "實打實招牌漢堡",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 58,
+      "category": "漢堡三明治"
+    },
+    {
+      "slug": "sf-smoked-salmon-caesar-salad",
+      "title": "經典燻鮭魚凱薩沙拉",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 58,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
+      "title": "燻鮭魚奶油炒菇班尼蛋",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 67,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-sous-vide-chicken-caesar-salad",
+      "title": "經典舒肥雞凱薩沙拉",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 56,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
+      "title": "舒肥雞藜麥花椰飯",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 58,
+      "category": "輕食沙拉"
+    },
+    {
+      "slug": "sf-south-sea-spiced-chicken-rice",
+      "title": "南洋辛香雞肉飯",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 54,
+      "category": "限定主餐"
+    },
+    {
+      "slug": "sf-spicy-mexican-firecracker-burger",
+      "title": "老墨辣鞭炮漢堡",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 62,
+      "category": "漢堡三明治"
+    },
+    {
+      "slug": "sf-spicy-pepper-karaage-pasta",
+      "title": "香爆椒麻唐揚雞麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 68,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-spicy-spanish-surf-and-turf-rice",
+      "title": "西班牙辣炒海陸飯",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 59,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-spicy-tomato-bacon-penne",
+      "title": "辣茄汁香煸培根長管麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 67,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-strong-chocolate-cake",
+      "title": "強的",
+      "group": "second-floor",
+      "steps": 5,
+      "avg": 50,
+      "category": "甜點"
+    },
+    {
+      "slug": "sf-supreme-cheese-omelette",
+      "title": "總匯奶起司歐姆蕾",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 50,
+      "category": "早午餐"
+    },
+    {
+      "slug": "sf-sweet-savory-rice",
+      "title": "甘味飯",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 54,
+      "category": "限定主餐"
+    },
+    {
+      "slug": "sf-tropical-yogurt-bowl",
+      "title": "熱帶水果優格碗",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 42,
+      "category": "輕食沙拉"
+    },
+    {
+      "slug": "sf-truffle-fries",
+      "title": "松露薯條",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 58,
+      "category": "開胃菜"
+    },
+    {
+      "slug": "sf-truffle-mushroom-cream-pasta",
+      "title": "松露蕈菇奶油麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 67,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-white-wine-garlic-clam-squid-ink-pasta",
+      "title": "酒香蒜味蛤蜊墨魚麵",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 65,
+      "category": "飯麵"
+    },
+    {
+      "slug": "sf-worcester-meat-sauce-omelette",
+      "title": "烏斯特肉醬歐姆蕾",
+      "group": "second-floor",
+      "steps": 4,
+      "avg": 50,
+      "category": "早午餐"
+    },
+    {
+      "slug": "smoked-salmon-brunch",
+      "title": "煙燻鮭魚早午餐",
+      "group": "home",
+      "steps": 4,
+      "avg": 31,
+      "category": "主菜"
+    },
+    {
+      "slug": "smoked-salmon-caesar-salad",
+      "title": "煙燻鮭魚凱薩沙拉",
+      "group": "home",
+      "steps": 4,
+      "avg": 24,
+      "category": "家常菜"
+    },
+    {
+      "slug": "solo-ginger-pork-rice",
+      "title": "薑絲肉燥飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 40,
+      "category": "飯麵"
+    },
+    {
+      "slug": "solo-lu-rou-rice",
+      "title": "滷肉飯一人份",
+      "group": "home",
+      "steps": 4,
+      "avg": 41,
+      "category": "飯麵"
+    },
+    {
+      "slug": "solo-mapo-tofu-rice-bowl",
+      "title": "麻婆豆腐蓋飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 43,
+      "category": "飯麵"
+    },
+    {
+      "slug": "solo-oyster-sauce-beef-rice",
+      "title": "蠔油牛肉蓋飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 48,
+      "category": "主菜"
+    },
+    {
+      "slug": "solo-pan-fried-pork-cutlet-rice",
+      "title": "煎豬排蓋飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 41,
+      "category": "主菜"
+    },
+    {
+      "slug": "solo-sesame-chicken-rice",
+      "title": "芝麻雞蓋飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 43,
+      "category": "主菜"
+    },
+    {
+      "slug": "solo-three-cup-chicken-rice",
+      "title": "三杯雞蓋飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 44,
+      "category": "主菜"
+    },
+    {
+      "slug": "soy-garlic-beef-slices",
+      "title": "醬蒜牛肉片",
+      "group": "home",
+      "steps": 3,
+      "avg": 37,
+      "category": "主菜"
+    },
+    {
+      "slug": "soy-garlic-chicken-breast-pan",
+      "title": "醬香蒜煎雞胸",
+      "group": "home",
+      "steps": 5,
+      "avg": 35,
+      "category": "主菜"
+    },
+    {
+      "slug": "spicy-garlic-bacon-pasta",
+      "title": "蒜辣培根橄欖油麵",
+      "group": "home",
+      "steps": 4,
+      "avg": 31,
+      "category": "飯麵"
+    },
+    {
+      "slug": "spicy-seafood-tomato-pasta",
+      "title": "海鮮番茄辣麵",
+      "group": "home",
+      "steps": 5,
+      "avg": 30,
+      "category": "飯麵"
+    },
+    {
+      "slug": "steamed-chicken-bento",
+      "title": "電鍋雞胸便當菜",
+      "group": "home",
+      "steps": 4,
+      "avg": 32,
+      "category": "便當菜"
+    },
+    {
+      "slug": "surf-turf-brunch",
+      "title": "澎湃海陸早午餐",
+      "group": "home",
+      "steps": 5,
+      "avg": 43,
+      "category": "主菜"
+    },
+    {
+      "slug": "ten-minute-udon-soup",
+      "title": "十分鐘烏龍麵湯",
+      "group": "home",
+      "steps": 6,
+      "avg": 20,
+      "category": "飯麵"
+    },
+    {
+      "slug": "tofu-cabbage-mushroom-stirfry",
+      "title": "豆腐高麗菜菇菇炒",
+      "group": "home",
+      "steps": 5,
+      "avg": 33,
+      "category": "家常菜"
+    },
+    {
+      "slug": "tofu-egg-savory-rice-bowl",
+      "title": "豆腐蛋香拌飯",
+      "group": "home",
+      "steps": 3,
+      "avg": 35,
+      "category": "飯麵"
+    },
+    {
+      "slug": "tofu-scrambled-eggs",
+      "title": "豆腐炒蛋",
+      "group": "home",
+      "steps": 3,
+      "avg": 45,
+      "category": "家常菜"
+    },
+    {
+      "slug": "tofu-tomato-pasta",
+      "title": "豆腐番茄義大利麵",
+      "group": "home",
+      "steps": 4,
+      "avg": 36,
+      "category": "飯麵"
+    },
+    {
+      "slug": "tomato-beef-rice-bowl",
+      "title": "番茄牛肉燴飯",
+      "group": "home",
+      "steps": 4,
+      "avg": 45,
+      "category": "飯麵"
+    },
+    {
+      "slug": "tomato-broccoli-egg-rice",
+      "title": "番茄青花菜蛋炒飯",
+      "group": "home",
+      "steps": 3,
+      "avg": 38,
+      "category": "飯麵"
+    },
+    {
+      "slug": "tomato-cabbage-soft-eggs",
+      "title": "番茄高麗菜滑蛋",
+      "group": "home",
+      "steps": 3,
+      "avg": 38,
+      "category": "家常菜"
+    },
+    {
+      "slug": "tomato-egg-rice",
+      "title": "番茄雞蛋飯",
+      "group": "home",
+      "steps": 3,
+      "avg": 86,
+      "category": "家常菜"
+    },
+    {
+      "slug": "tomato-egg-tofu-light-soup",
+      "title": "番茄蛋豆腐清湯",
+      "group": "home",
+      "steps": 3,
+      "avg": 46,
+      "category": "湯品"
+    },
+    {
+      "slug": "tomato-garlic-cabbage-eggs",
+      "title": "番茄蒜香高麗菜炒蛋",
+      "group": "home",
+      "steps": 3,
+      "avg": 37,
+      "category": "家常菜"
+    },
+    {
+      "slug": "tomato-garlic-pasta",
+      "title": "番茄蒜香義大利麵",
+      "group": "home",
+      "steps": 3,
+      "avg": 44,
+      "category": "飯麵"
+    },
+    {
+      "slug": "tomato-onion-scrambled-eggs",
+      "title": "番茄洋蔥滑蛋",
+      "group": "home",
+      "steps": 3,
+      "avg": 44,
+      "category": "家常菜"
+    },
+    {
+      "slug": "tomato-onion-tofu-soup",
+      "title": "番茄洋蔥豆腐湯",
+      "group": "home",
+      "steps": 3,
+      "avg": 44,
+      "category": "湯品"
+    },
+    {
+      "slug": "tomato-tofu-soup",
+      "title": "番茄豆腐湯",
+      "group": "home",
+      "steps": 5,
+      "avg": 31,
+      "category": "湯品"
+    },
+    {
+      "slug": "truffle-mushroom-farfalle",
+      "title": "黑松露野菇蝴蝶麵",
+      "group": "home",
+      "steps": 4,
+      "avg": 30,
+      "category": "飯麵"
+    },
+    {
+      "slug": "water-lily-stem-chicken-rice-bowl",
+      "title": "水蓮雞肉蓋飯",
+      "group": "home",
+      "steps": 5,
+      "avg": 24,
+      "category": "飯麵"
+    },
+    {
+      "slug": "water-lily-stem-clear-soup",
+      "title": "水蓮清湯",
+      "group": "home",
+      "steps": 5,
+      "avg": 18,
+      "category": "湯品"
+    },
+    {
+      "slug": "water-lily-stem-egg-stirfry",
+      "title": "水蓮炒蛋",
+      "group": "home",
+      "steps": 6,
+      "avg": 26,
+      "category": "家常菜"
+    },
+    {
+      "slug": "water-lily-stem-fish-ball-noodles",
+      "title": "水蓮貢丸湯麵",
+      "group": "home",
+      "steps": 5,
+      "avg": 18,
+      "category": "飯麵"
+    },
+    {
+      "slug": "water-lily-stem-garlic-stirfry",
+      "title": "蒜蓉炒水蓮",
+      "group": "home",
+      "steps": 5,
+      "avg": 20,
+      "category": "家常菜"
+    },
+    {
+      "slug": "water-lily-stem-mushroom-stirfry",
+      "title": "水蓮炒菇類",
+      "group": "home",
+      "steps": 5,
+      "avg": 19,
+      "category": "家常菜"
+    },
+    {
+      "slug": "water-lily-stem-oyster-sauce",
+      "title": "蠔油炒水蓮",
+      "group": "home",
+      "steps": 5,
+      "avg": 21,
+      "category": "家常菜"
+    },
+    {
+      "slug": "water-lily-stem-pork-soup",
+      "title": "水蓮肉片湯",
+      "group": "home",
+      "steps": 5,
+      "avg": 20,
+      "category": "湯品"
+    },
+    {
+      "slug": "water-lily-stem-sesame-toss",
+      "title": "麻油拌水蓮",
+      "group": "home",
+      "steps": 4,
+      "avg": 44,
+      "category": "便當菜"
+    },
+    {
+      "slug": "water-lily-stem-shrimp-stirfry",
+      "title": "水蓮炒蝦仁",
+      "group": "home",
+      "steps": 5,
+      "avg": 22,
+      "category": "主菜"
+    },
+    {
+      "slug": "water-lily-stem-tofu-braise",
+      "title": "水蓮燒豆腐",
+      "group": "home",
+      "steps": 5,
+      "avg": 20,
+      "category": "家常菜"
+    },
+    {
+      "slug": "weight-loss-clear-mushroom-soup",
+      "title": "減脂菇類清湯",
+      "group": "home",
+      "steps": 6,
+      "avg": 20,
+      "category": "湯品"
+    },
+    {
+      "slug": "weight-loss-shrimp-veg-salad",
+      "title": "減脂鮮蝦沙拉",
+      "group": "home",
+      "steps": 5,
+      "avg": 19,
+      "category": "家常菜"
+    },
+    {
+      "slug": "weight-loss-zucchini-chicken",
+      "title": "減脂櫛瓜雞肉",
+      "group": "home",
+      "steps": 5,
+      "avg": 20,
+      "category": "主菜"
+    },
+    {
+      "slug": "white-sauce-chicken-pasta",
+      "title": "白醬雞肉義大利麵",
+      "group": "home",
+      "steps": 5,
+      "avg": 38,
+      "category": "飯麵"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+---
+title: 電鍋雞胸便當菜
+slug: steamed-chicken-bento
+description: 電鍋蒸雞胸便當菜一人份，30 分鐘可分裝帶走，適合工作日準備高蛋白便當。
+coverImage: /images/recipes/steamed-chicken-bento.webp
+servings: 2
+prepTime: 8
+cookTime: 12
+totalTime: 20
+difficulty: 簡單
+calories: 360
+protein: 34
+fat: 12
+carbs: 18
+category: "便當菜"
+scenarios:
+- 便當菜
+- 減脂料理
+- 高蛋白料理
+equipment:
+- 電鍋
+ingredients:
+- name: 雞胸肉
+  amount: '2'
+  unit: 片
+  isCore: true
+- name: 鴻喜菇
+  amount: 1/2
+  unit: 包
+  isCore: false
+- name: 青花菜
+  amount: 1/3
+  unit: 顆
+  isCore: false
+seasonings:
+- name: 鹽
+  amount: 1/4
+  unit: 小匙
+- name: 黑胡椒
+  amount: 少許
+  unit: ''
+- name: 橄欖油
+  amount: '1'
+  unit: 小匙
+tags:
+- 高蛋白
+- 電鍋料理
+- 減脂
+intro: 這道電鍋雞胸便當菜把主蛋白和配菜一次蒸好，適合週中快速準備隔天便當。
+steps:
+- 雞胸肉 2 片提前室溫回溫 10 分鐘，用廚房紙巾吸乾表面水分；在肉厚處劃幾道淺刀，幫助入味與受熱均勻。
+- 兩面抹上鹽 1/4 小匙、黑胡椒與橄欖油 1 小匙，靜置 5 分鐘入味。
+- 青花菜 1/3 顆切小朵洗淨；鴻喜菇 1/2 包去蒂撥散。取可進電鍋的耐熱盤，先鋪青花菜與菇類。
+- 將雞胸肉平鋪在配菜上，肉與肉之間留空隙，不要堆疊。
+- 電鍋外鍋加 1 杯水，內鍋放入裝盤，蓋上鍋蓋，按下開關開始蒸煮。
+- 開關跳起後悶 5 分鐘，用竹籤刺入雞胸最厚處，流出汁水應透明、無粉紅血水。
+- 切片分裝成 2 份便當；青花菜顏色應仍翠綠，過軟代表蒸太久。
+tips:
+- 雞胸肉先回溫 10 分鐘再蒸，口感會更均勻。
+- 如果要做便當，青花菜不要蒸太久，顏色會比較漂亮。
+- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
+storage: 冷藏可保存 2 天，分裝後回熱會更方便。
+substitutions:
+- 雞里肌
+- 花椰菜
+faqs:
+- question: 雞胸肉怎麼蒸才不會太柴？
+  answer: 不要切太薄，蒸好後先悶一下，水分會更留得住。
+- question: 可以提前一天做嗎？
+  answer: 可以，這道菜很適合前一天做好後冷藏，隔天再微波或電鍋回熱。
+- question: "如何避免主食材變乾？"
+  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+relatedIngredients:
+- 雞胸肉
+- 菇類
+- 青花菜
+featured: true
+publishedAt: '2026-05-27'
+updatedAt: "2026-07-30"
+customAdditions:
+- 杏鮑菇
+- 玉米筍
+- 彩椒
+---
+
+對需要帶便當的人來說，電鍋雞胸便當菜的好處是穩定、省火力，也不太需要顧鍋。先把主菜準備好，平日會輕鬆很多。

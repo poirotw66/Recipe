@@ -1,0 +1,82 @@
+---
+title: "豬肉青椒快炒"
+description: "新鮮豬肉與青椒快炒，蒜香嗆鍋，一人份 15 分鐘內完成的租屋族晚餐。"
+coverImage: /images/recipes/leftover-meat-quick-stirfry.webp
+servings: 1
+prepTime: 6
+cookTime: 8
+totalTime: 14
+difficulty: "簡單"
+calories: 380
+protein: 28
+fat: 22
+carbs: 12
+category: "家常菜"
+scenarios:
+- 一人料理
+- 10 分鐘料理
+equipment:
+- 平底鍋
+tags:
+- 一人份
+- 快炒
+- 豬肉料理
+tips:
+- 牛肉片同樣適用，炒至變色即可，時間略短。
+- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
+substitutions: []
+relatedIngredients:
+- 豬肉
+- 洋蔥
+customAdditions: []
+ingredients:
+- name: "豬肉"
+  amount: "120"
+  unit: "公克"
+  isCore: true
+- name: "洋蔥"
+  amount: "1/4"
+  unit: "顆"
+  isCore: false
+- name: "青椒"
+  amount: "1/2"
+  unit: "顆"
+  isCore: false
+seasonings:
+- name: "蒜頭"
+  amount: "2"
+  unit: "瓣"
+- name: "橄欖油"
+  amount: "1"
+  unit: "大匙"
+- name: "醬油"
+  amount: "1"
+  unit: "大匙"
+- name: "米酒"
+  amount: "1"
+  unit: "大匙"
+- name: "鹽"
+  amount: "少許"
+  unit: ""
+intro: "豬肉先切薄片，大火快炒才不會過老；醬油與米酒從鍋邊嗆入，香氣會更集中。"
+steps:
+- 豬肉 120 公克逆紋切薄片；洋蔥 1/4 顆切絲；青椒 1/2 顆去籽切條；蒜頭 2 瓣切片。
+- 豬肉片以醬油 1/2 大匙與米酒 1/2 大匙抓拌，靜置 5 分鐘入味（醬油、米酒各留一半炒製用）。
+- 平底鍋中大火熱橄欖油 1 大匙，爆香蒜片與洋蔥 1 分鐘至透明。
+- 下豬肉大火快炒 2 分鐘至變色、表面微焦（勿炒太久以免變老）。
+- 加入青椒條中火翻炒 1 分鐘，青椒應仍帶脆、顏色鮮亮。
+- 淋剩餘醬油與米酒從鍋邊嗆入，快速翻勻 30 秒，以鹽少許試味即可起鍋。
+storage: "現做現吃；冷藏 1 天，再加熱用大火快炒 1 分鐘。"
+faqs:
+- question: "沒有青椒怎麼辦？"
+  answer: "可用甜椒、芹菜或高麗菜代替。"
+- question: "蔬菜出水時怎麼辦？"
+  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-07-30"
+---
+---
+
+
+豬肉青椒快炒是租屋族想快速吃上新鮮主菜時很實用的一道。

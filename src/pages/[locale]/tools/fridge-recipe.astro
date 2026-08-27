@@ -1,0 +1,14 @@
+---
+import FridgeToolPage from "../../../components/FridgeToolPage.astro";
+import { buildFridgeToolPayload } from "../../../lib/fridge-tool";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const toolData = await buildFridgeToolPayload(locale);
+---
+
+<FridgeToolPage locale={locale} toolData={toolData} />

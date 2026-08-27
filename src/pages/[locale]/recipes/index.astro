@@ -1,0 +1,29 @@
+---
+import RecipesListPage from "../../../components/RecipesListPage.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { localePath } from "../../../lib/i18n";
+import { getRecipesListPage } from "../../../i18n/recipes-list-page";
+import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
+import { listRecipesForLocale } from "../../../lib/recipe-locale";
+import { sortRecipesByPublishedDate } from "../../../lib/recipes";
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+
+const locale = requireNonDefaultLocale(Astro.params.locale);
+const content = getRecipesListPage(locale);
+const recipes = sortRecipesByPublishedDate(await listRecipesForLocale(locale));
+const canonical = localePath(locale, "/recipes");
+const hasRecipes = recipes.length > 0;
+---
+
+<BaseLayout
+  title={content.title}
+  description={hasRecipes ? content.description : content.emptyLocale}
+  canonicalPath={canonical}
+  alternatePath="/recipes"
+  locale={locale}
+>
+  <RecipesListPage locale={locale} recipes={recipes} />
+</BaseLayout>

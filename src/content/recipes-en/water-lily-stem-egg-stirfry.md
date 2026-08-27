@@ -1,0 +1,81 @@
+---
+title: Water Dropwort and Egg Stir-Fry
+recipeId: water-lily-stem-egg-stirfry
+description: Water dropwort blasted with rice wine, then soft eggs—aromatic, rice-friendly stir-fry for one.
+coverImage: /images/recipes/water-lily-stem-egg-stirfry.webp
+servings: 1
+prepTime: 5
+cookTime: 9
+totalTime: 14
+difficulty: Easy
+calories: 185
+protein: 12
+fat: 12
+carbs: 6
+category: "Home cooking"
+scenarios:
+- Budget-friendly meals
+- Cooking for one
+- 10-minute meals
+equipment:
+- Skillet
+tags:
+- Single serving
+- Quick
+- Eggs
+intro: High-heat rice wine with water dropwort first, then eggs—crunch and aroma stay intact.
+steps:
+- Rinse 180 g water dropwort and cut into about 5 cm lengths; drain well. Peel and mince 1 garlic clove.
+- Beat 2 eggs in a bowl and set aside.
+- Heat a skillet over high heat. Add 1 tbsp olive oil. When hot, add minced garlic and sauté until fragrant (about 15 seconds).
+- Add water dropwort and stir-fry over high heat about 30 seconds.
+- Pour 1 tbsp rice wine down the side of the pan; over high heat, blast-fry about 30 seconds until the aroma lifts and greens stay crisp.
+- Push water dropwort to the side; pour eggs into the center. When edges set, gently push into soft curds with a spatula (about 1 minute).
+- Toss water dropwort and egg together; add 1/4 tsp salt and a pinch of white pepper. Serve immediately.
+tips:
+- High heat cooks off wine so greens do not stew.
+- Drain vegetables well before cooking; excess water steams them and softens the texture.
+storage: Same day best; reheat over high quickly.
+substitutions:
+- Water spinach
+- Bok choy
+faqs:
+- question: "What should I do if the vegetables release water?"
+  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+relatedIngredients:
+- 水蓮
+- 雞蛋
+- 蒜頭
+customAdditions: []
+featured: false
+publishedAt: "2026-06-03"
+updatedAt: "2026-07-30"
+ingredients:
+- name: Water dropwort
+  amount: "180"
+  unit: g
+  isCore: true
+- name: Eggs
+  amount: "2"
+  unit: ""
+  isCore: true
+- name: Garlic
+  amount: "1"
+  unit: clove
+  isCore: false
+seasonings:
+- name: Olive oil
+  amount: "1"
+  unit: tbsp
+- name: Rice wine
+  amount: "1"
+  unit: tbsp
+- name: Salt
+  amount: "1/4"
+  unit: tsp
+- name: White pepper
+  amount: pinch
+  unit: ""
+---
+
+Crisp greens and egg in a fast homestyle wok.

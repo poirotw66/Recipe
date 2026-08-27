@@ -1,0 +1,375 @@
+---
+import JsonLd from "./JsonLd.astro";
+import RecipeCard from "./RecipeCard.astro";
+import TopicHubIntro from "./TopicHubIntro.astro";
+import TopicHubInlineLinks from "./TopicHubInlineLinks.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import catalog from "../data/restaurant-replica-catalog.json";
+import { localePath, t, type Locale } from "../lib/i18n";
+import { listRecipesForLocale } from "../lib/recipe-locale";
+import { sortRecipesByPublishedDate } from "../lib/recipes";
+import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../lib/seo";
+import {
+  filterIngredientsWithRecipes,
+  getIngredientBySlug,
+  getIngredientLabel,
+  getRecipesByTopicHub,
+  getScenarioBySlug,
+  getScenarioLabel,
+  getTopicHubBySlug,
+  getTopicHubDescription,
+  getTopicHubSeoDescription,
+  getTopicHubSeoTitle,
+  getTopicHubTags
+} from "../lib/taxonomy";
+
+interface Props {
+  hubSlug: string;
+  locale: Locale;
+  label: string;
+  heroCover?: string;
+}
+
+const { hubSlug, locale, label, heroCover = "/images/recipes/tomato-egg-rice.webp" } = Astro.props;
+const hub = getTopicHubBySlug(hubSlug);
+
+if (!hub) {
+  throw new Error(`Topic hub not configured: ${hubSlug}`);
+}
+
+const hubPath = `/${hub.slug}`;
+const canonical = localePath(locale, hubPath);
+const recipes = sortRecipesByPublishedDate(await listRecipesForLocale(locale));
+const hubRecipes = getRecipesByTopicHub(recipes, hub.slug, locale);
+const commonIngredients = filterIngredientsWithRecipes(
+  recipes,
+  hub.commonIngredients
+    .map((ingredientSlug) => getIngredientBySlug(ingredientSlug))
+    .filter((ingredient): ingredient is NonNullable<typeof ingredient> => Boolean(ingredient))
+);
+const relatedScenarios = hub.relatedScenarios
+  .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
+  .filter((scenario): scenario is NonNullable<typeof scenario> => Boolean(scenario));
+const hubTitle = t(locale, `nav.${hubSlug === "air-fryer" ? "airFryer" : hubSlug === "quick-meals" ? "quickMeals" : hubSlug === "restaurant-replicas" ? "restaurantReplicas" : hubSlug}`);
+const hubDescription = getTopicHubDescription(hub, locale) ?? hub.description;
+const hubSeoTitle = getTopicHubSeoTitle(hub, locale) ?? hubTitle;
+const hubSeoDescription = getTopicHubSeoDescription(hub, locale) ?? hubDescription;
+const collectionJsonLd = buildCollectionPageJsonLd(hubSeoTitle, hubSeoDescription, canonical);
+const breadcrumbJsonLd = buildBreadcrumbJsonLd([
+  { name: t(locale, "nav.home"), path: localePath(locale, "/") },
+  { name: hubTitle, path: canonical }
+]);
+const hubJsonLd = buildThingJsonLd(hub, canonical);
+const featuredEntry = hubRecipes[0];
+const featuredRecipe = featuredEntry
+  ? {
+      slug: featuredEntry.slug,
+      title: featuredEntry.data.title,
+      description: featuredEntry.data.description,
+      coverImage: featuredEntry.data.coverImage,
+      totalTime: featuredEntry.data.totalTime
+    }
+  : undefined;
+
+const tierLabels: Record<string, string> = {
+  "michelin-3": "米其林三星",
+  "michelin-1": "米其林一星",
+  "bib-gourmand": "必比登",
+  classic: "經典名店"
+};
+---
+
+<BaseLayout
+  title={hubSeoTitle}
+  description={hubSeoDescription}
+  canonicalPath={canonical}
+  alternatePath={hubPath}
+  locale={locale}
+>
+  <JsonLd data={collectionJsonLd} />
+  <JsonLd data={breadcrumbJsonLd} />
+  <JsonLd data={hubJsonLd} />
+  <section class="section">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href={localePath(locale, "/")}>{t(locale, "nav.home")}</a>
+        <span>/</span>
+        <span>{hubTitle}</span>
+      </nav>
+
+      <TopicHubIntro
+        hub={{ name: hubTitle, description: hubDescription }}
+        label={label}
+        heroCover={heroCover}
+        recipeCount={hubRecipes.length}
+        secondaryStat={hubSlug === "restaurant-replicas" ? t(locale, "taxonomy.restaurantReplicasSecondary") : undefined}
+        featured={featuredRecipe}
+        locale={locale}
+      />
+
+      <TopicHubInlineLinks hub={hub} hubDisplayName={hubTitle} locale={locale} recipes={recipes} />
+
+      {
+        hubSlug === "restaurant-replicas" ? (
+          <>
+            {/* Brand Showcase Section */}
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">{t(locale, "taxonomy.brandSpecialShowcase")}</p>
+                  <h2>{t(locale, "taxonomy.brandSpecialIntro")}</h2>
+                </div>
+              </div>
+              <div class="brand-showcases-grid">
+                <article class="brand-card">
+                  <div>
+                    <div class="chip-row">
+                      <span class="chip success">{t(locale, "taxonomy.brandSpecialCompletion")}: {hubRecipes.filter(r => r.slug.startsWith('sf-')).length}/70</span>
+                      <span class="chip note">100%</span>
+                    </div>
+                    <h3>貳樓 Second Floor Cafe</h3>
+                    <p class="brand-meta">
+                      {locale === "zh-TW" ? "全台連鎖早午餐品牌。包含熱門班尼迪克蛋、燉飯麵食與主廚甜點全系列還原。" :
+                       locale === "en" ? "Famous Taiwanese brunch chain. Fully replicated Benedicts, pastas, risottos, and chef desserts." :
+                       locale === "ja" ? "台湾で大人気のブランチチェーン。エッグベネディクト、パスタ、リゾット、特製デザートの完全再現。" :
+                       "대만 인기 브런치 체인. 에그 베네딕트, 파스타, 리조토, 셰프 디저트 전 메뉴 완전 재현."}
+                    </p>
+                  </div>
+                  <a href={localePath(locale, "/restaurant-replicas/second-floor-cafe")} class="button small">{t(locale, "taxonomy.brandSpecialView")}</a>
+                </article>
+                
+                <article class="brand-card">
+                  <div>
+                    <div class="chip-row">
+                      <span class="chip success">{t(locale, "taxonomy.brandSpecialCompletion")}: {hubRecipes.filter(r => r.slug.startsWith('dh-')).length}/58</span>
+                      <span class="chip note">100%</span>
+                    </div>
+                    <h3>涓豆腐 Dubu House</h3>
+                    <p class="brand-meta">
+                      {locale === "zh-TW" ? "韓式第一連鎖品牌。包含經典豆腐煲系列、石鍋飯與蜂蜜蒜味炸雞全系列還原。" :
+                       locale === "en" ? "Top Korean soft tofu stew chain. Fully replicated soondubu, stone pot rice, and fried chicken." :
+                       locale === "ja" ? "韓国の純豆腐チゲ専門店。定番の純豆腐チゲ、石釜ご飯、韓国風フライドチキンの完全再現。" :
+                       "대한민국 대표 순두부찌개 전문점. 대표 순두부찌개, 돌솥밥, 한국식 치킨 전 메뉴 완전 재현."}
+                    </p>
+                  </div>
+                  <a href={localePath(locale, "/restaurant-replicas/dubu-house")} class="button small">{t(locale, "taxonomy.brandSpecialView")}</a>
+                </article>
+              </div>
+            </section>
+
+            <section class="hub-section">
+              <div class="hub-section__head">
+                <div>
+                  <p class="eyebrow">{t(locale, "taxonomy.restaurantReplicasLive")}</p>
+                  <h2>{t(locale, "taxonomy.restaurantReplicasLiveTitle")}</h2>
+                </div>
+                <span>
+                  {hubRecipes.length} {t(locale, "taxonomy.topicHubCount")}
+                </span>
+              </div>
+
+              <div class="filter-tabs-wrapper" style="margin-bottom: var(--space-6);">
+                <div class="filter-tabs" style="display: flex; gap: var(--space-2); flex-wrap: wrap;">
+                  <button class="button filter-tab active" data-filter="all">{t(locale, "restaurantFilterAll")}</button>
+                  <button class="button note filter-tab" data-filter="second-floor-cafe">{t(locale, "restaurantFilterSecondFloor").replace(" Second Floor Cafe", "")} ({hubRecipes.filter(r => r.slug.startsWith('sf-')).length})</button>
+                  <button class="button note filter-tab" data-filter="dubu-house">{t(locale, "restaurantFilterDubuHouse").replace(" Dubu House", "")} ({hubRecipes.filter(r => r.slug.startsWith('dh-')).length})</button>
+                </div>
+              </div>
+
+              {hubRecipes.length === 0 ? (
+                <article class="card empty-panel">
+                  <div class="card-body">
+                    <h2>{t(locale, "taxonomy.topicHubEmptyTitle")}</h2>
+                    <p>{t(locale, "taxonomy.topicHubEmptyBody")}</p>
+                  </div>
+                </article>
+              ) : (
+                <div class="grid recipes-grid-container">
+                  {hubRecipes.map((recipe) => (
+                    <RecipeCard recipe={recipe} locale={locale} />
+                  ))}
+                </div>
+              )}
+            </section>
+
+            <style>
+              .filter-tab {
+                transition: background-color 0.2s, color 0.2s;
+                cursor: pointer;
+              }
+              .filter-tab.active {
+                background-color: var(--scallion) !important;
+                color: #fff !important;
+                border-color: var(--scallion-deep) !important;
+              }
+              .brand-showcases-grid {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: var(--space-4);
+                margin-bottom: var(--space-8);
+              }
+              @media (min-width: 720px) {
+                .brand-showcases-grid {
+                  grid-template-columns: 1fr 1fr;
+                }
+              }
+              .brand-card {
+                border: 1px solid var(--bran-line);
+                border-radius: var(--radius-md);
+                background: var(--porcelain);
+                padding: var(--space-6);
+                box-shadow: var(--shadow-sm);
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                transition: transform 0.2s, box-shadow 0.2s;
+              }
+              .brand-card:hover {
+                transform: translateY(-2px);
+                box-shadow: var(--shadow-md);
+              }
+              .brand-card h3 {
+                margin-top: var(--space-2);
+                margin-bottom: var(--space-2);
+              }
+              .brand-card .brand-meta {
+                font-size: var(--small);
+                color: var(--mushroom);
+                margin-bottom: var(--space-4);
+                line-height: 1.5;
+              }
+              .recipes-grid-container .recipe-card {
+                transition: opacity 0.2s ease, transform 0.2s ease;
+              }
+            </style>
+
+            <script>
+              const tabs = document.querySelectorAll('.filter-tab');
+              const cards = document.querySelectorAll('.recipes-grid-container .recipe-card');
+
+              tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                  tabs.forEach(t => t.classList.remove('active'));
+                  tab.classList.add('active');
+
+                  const filterValue = tab.getAttribute('data-filter');
+
+                  cards.forEach(card => {
+                    const brand = card.getAttribute('data-brand');
+                    const el = card as HTMLElement;
+                    
+                    if (filterValue === 'all' || brand === filterValue) {
+                      el.style.display = 'block';
+                      setTimeout(() => {
+                        el.style.opacity = '1';
+                        el.style.transform = 'scale(1)';
+                      }, 10);
+                    } else {
+                      el.style.opacity = '0';
+                      el.style.transform = 'scale(0.95)';
+                      setTimeout(() => {
+                        el.style.display = 'none';
+                      }, 200);
+                    }
+                  });
+                });
+              });
+            </script>
+
+            {
+              catalog.categories.map((category) => (
+                <section class="hub-section">
+                  <div class="hub-section__head">
+                    <div>
+                      <p class="eyebrow">{category.name}</p>
+                      <h2>{category.description}</h2>
+                    </div>
+                    <span>
+                      {category.restaurants.length}
+                    </span>
+                  </div>
+                  <div class="grid">
+                    {category.restaurants.map((restaurant) => (
+                      <article class="card card-body">
+                        <div class="chip-row">
+                          <span class="chip note">{restaurant.region}</span>
+                          <span class="chip">{tierLabels[restaurant.tier] ?? restaurant.tier}</span>
+                        </div>
+                        <h3>{restaurant.name}</h3>
+                        <p class="eyebrow">{t(locale, "taxonomy.restaurantReplicasCatalogEyebrow")}</p>
+                        <ul>
+                          {restaurant.signatureDishes.map((dish) => (
+                            <li>
+                              {dish.name}
+                              {dish.status === "planned" && (
+                                <span class="chip note"> {t(locale, "taxonomy.restaurantReplicasPlanned")}</span>
+                              )}
+                            </li>
+                          ))}
+                        </ul>
+                      </article>
+                    ))}
+                  </div>
+                </section>
+              ))
+            }
+          </>
+        ) : (
+          <section class="hub-section">
+            <div class="hub-section__head">
+              <div>
+                <p class="eyebrow">{t(locale, "taxonomy.topicHubRecipes")}</p>
+                <h2>{hubTitle}</h2>
+              </div>
+              <span>
+                {hubRecipes.length} {t(locale, "taxonomy.topicHubCount")}
+              </span>
+            </div>
+            {hubRecipes.length === 0 ? (
+              <article class="card empty-panel">
+                <div class="card-body">
+                  <h2>{t(locale, "taxonomy.topicHubEmptyTitle")}</h2>
+                  <p>{t(locale, "taxonomy.topicHubEmptyBody")}</p>
+                </div>
+              </article>
+            ) : (
+              <div class="grid">
+                {hubRecipes.map((recipe) => (
+                  <RecipeCard recipe={recipe} locale={locale} />
+                ))}
+              </div>
+            )}
+          </section>
+        )
+      }
+
+      <div class="ingredient-pills" aria-label={t(locale, "taxonomy.topicHubCommonIngredients")}>
+        <p class="ingredient-pills__title">{t(locale, "taxonomy.topicHubCommonIngredients")}</p>
+        {commonIngredients.map((ingredient) => (
+          <a class="chip note" href={localePath(locale, `/ingredients/${ingredient.slug}`)}>
+            {getIngredientLabel(ingredient, locale)}
+          </a>
+        ))}
+        {relatedScenarios.length > 0 && (
+          <>
+            <p class="ingredient-pills__title">{t(locale, "taxonomy.topicHubRelatedScenarios")}</p>
+            {relatedScenarios.map((scenario) => (
+              <a class="chip" href={localePath(locale, `/scenarios/${scenario.slug}`)}>
+                {getScenarioLabel(scenario, locale)}
+              </a>
+            ))}
+          </>
+        )}
+      </div>
+
+      <div class="section-links">
+        <a class="button" href={localePath(locale, "/recipes")}>
+          {t(locale, "taxonomy.topicHubViewAllRecipes")}
+        </a>
+        <a class="button note" href={localePath(locale, "/scenarios")}>
+          {t(locale, "taxonomy.topicHubBrowseScenarios")}
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
