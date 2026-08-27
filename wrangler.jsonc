@@ -24,7 +24,11 @@
       "/ja/404",
       "/ja/404/",
       "/ko/404",
-      "/ko/404/"
+      "/ko/404/",
+      "/tools/fridge-recipe/*",
+      "/en/tools/fridge-recipe/*",
+      "/ja/tools/fridge-recipe/*",
+      "/ko/tools/fridge-recipe/*"
     ]
   }
 }

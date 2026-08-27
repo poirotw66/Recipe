@@ -1,13 +1,15 @@
 const checks = [
   {
-    name: "robots.txt Disallow",
+    name: "robots.txt permits query crawling",
     url: "https://recipe.bloss0m.com/robots.txt",
-    test: (body) => body.includes("Disallow: /*?ingredients=")
+    test: (body) =>
+      !body.includes("Disallow: /*?ingredients=") && !body.includes("Disallow: /*?preferences=")
   },
   {
     name: "sitemap-index",
     url: "https://recipe.bloss0m.com/sitemap-index.xml",
-    test: (body) => body.includes("sitemap-recipes.xml")
+    test: (body) =>
+      body.includes("sitemap-core-recipes.xml") && body.includes("sitemap-ja-ko-pilot.xml")
   },
   {
     name: "cabbage intro links",

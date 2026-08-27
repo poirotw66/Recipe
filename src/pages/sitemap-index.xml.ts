@@ -5,7 +5,10 @@ export const GET: APIRoute = () =>
   new Response(
     renderSitemapIndex([
       "/sitemap-pages.xml",
-      "/sitemap-recipes.xml",
+      "/sitemap-core-recipes.xml",
+      "/sitemap-other-zh-recipes.xml",
+      "/sitemap-en-recipes.xml",
+      "/sitemap-ja-ko-pilot.xml",
       "/sitemap-ingredients.xml",
       "/sitemap-scenarios.xml"
     ]),

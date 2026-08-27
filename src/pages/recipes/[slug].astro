@@ -43,7 +43,6 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: recipe.data.title, path: `/recipes/${recipe.slug}/` }
 ]);
 const alternateLocales = await localesWithRecipeTranslation(recipe.slug);
-const hreflangLocales = alternateLocales.length > 1 ? alternateLocales : undefined;
 const recipeJsonLd = buildRecipeJsonLd(recipe, "zh-TW");
 const faqJsonLd = recipe.data.faqs.length > 0 ? buildFaqJsonLd(recipe.data.faqs) : null;
 const topicHubLinks = getTopicHubLinksForRecipe(recipe);
@@ -54,7 +53,7 @@ const introTailLink = getRecipeIntroTailLink(
 );
 ---
 
-<RecipeLayout recipe={recipe} alternateLocales={hreflangLocales}>
+<RecipeLayout recipe={recipe} alternateLocales={alternateLocales}>
   <Fragment slot="structured-data">
     <JsonLd data={breadcrumbJsonLd} />
     <JsonLd data={recipeJsonLd} />

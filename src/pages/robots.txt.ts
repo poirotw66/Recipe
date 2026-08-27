@@ -4,8 +4,6 @@ import { absoluteUrl } from "../lib/seo";
 export const GET: APIRoute = () => {
   const body = `User-agent: *
 Allow: /
-Disallow: /*?ingredients=
-Disallow: /*?preferences=
 
 Sitemap: ${absoluteUrl("/sitemap-index.xml")}
 `;

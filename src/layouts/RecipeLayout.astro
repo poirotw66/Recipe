@@ -3,6 +3,10 @@ import BaseLayout from "./BaseLayout.astro";
 import type { Locale } from "../lib/i18n";
 import { localePath } from "../lib/i18n";
 import type { LocalizedRecipeEntry } from "../lib/recipe-locale";
+import {
+  getRecipeIndexEligibility,
+  indexableRecipeLocales
+} from "../lib/recipe-index-eligibility";
 
 interface Props {
   recipe: LocalizedRecipeEntry;
@@ -13,6 +17,11 @@ interface Props {
 const { recipe, locale = "zh-TW", alternateLocales } = Astro.props;
 const description = recipe.data.description;
 const canonicalPath = localePath(locale, `/recipes/${recipe.slug}`);
+const eligibility = getRecipeIndexEligibility(recipe.slug, locale);
+const eligibleAlternateLocales = indexableRecipeLocales(
+  recipe.slug,
+  alternateLocales ?? [locale]
+);
 ---
 
 <BaseLayout
@@ -23,7 +32,8 @@ const canonicalPath = localePath(locale, `/recipes/${recipe.slug}`);
   type="article"
   locale={locale}
   alternatePath={`/recipes/${recipe.slug}`}
-  alternateLocales={alternateLocales}
+  alternateLocales={eligibleAlternateLocales}
+  robots={eligibility.indexable ? undefined : "noindex, follow"}
 >
   <slot name="structured-data" />
   <slot />

@@ -40,6 +40,10 @@ const requiredFiles = [
   "src/pages/sitemap-index.xml.ts",
   "src/pages/sitemap-pages.xml.ts",
   "src/pages/sitemap-recipes.xml.ts",
+  "src/pages/sitemap-core-recipes.xml.ts",
+  "src/pages/sitemap-other-zh-recipes.xml.ts",
+  "src/pages/sitemap-en-recipes.xml.ts",
+  "src/pages/sitemap-ja-ko-pilot.xml.ts",
   "src/pages/sitemap-ingredients.xml.ts",
   "src/pages/sitemap-scenarios.xml.ts",
   "src/lib/sitemap.ts",
@@ -160,8 +164,8 @@ if (!robotsRoute.includes("User-agent: *") || !robotsRoute.includes("sitemap-ind
   process.exit(1);
 }
 
-if (!robotsRoute.includes("Disallow: /*?ingredients=") || !robotsRoute.includes("Disallow: /*?preferences=")) {
-  console.error("robots.txt must disallow fridge tool query-string URLs.");
+if (robotsRoute.includes("Disallow: /*?ingredients=") || robotsRoute.includes("Disallow: /*?preferences=")) {
+  console.error("robots.txt must allow fridge query URLs to be crawled so noindex can be observed.");
   process.exit(1);
 }
 

@@ -272,6 +272,10 @@ async function main() {
   const sitemapFiles = [
     "sitemap-pages.xml",
     "sitemap-recipes.xml",
+    "sitemap-core-recipes.xml",
+    "sitemap-other-zh-recipes.xml",
+    "sitemap-en-recipes.xml",
+    "sitemap-ja-ko-pilot.xml",
     "sitemap-ingredients.xml",
     "sitemap-scenarios.xml"
   ];

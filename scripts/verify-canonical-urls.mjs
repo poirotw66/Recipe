@@ -146,6 +146,9 @@ for (const file of htmlFiles) {
   if (url === "/404/" || url.endsWith("/404/")) continue;
   const html = readFileSync(file, "utf8");
   if (/<meta name="robots" content="[^"]*noindex/.test(html)) continue;
+  // During the staged recovery, non-pilot ja/ko recipes remain indexable and
+  // self-canonical but are intentionally not actively submitted in a sitemap.
+  if (/^\/(?:ja|ko)\/recipes\/[^/]+\/$/.test(url) && !sitemapPaths.has(url)) continue;
   if (!sitemapPaths.has(url)) {
     errors.push(`sitemap: indexable page is missing from the sitemap: ${url}`);
   }
