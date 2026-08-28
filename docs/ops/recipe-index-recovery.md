@@ -2,6 +2,9 @@
 
 本輪修復採分段提交，不在缺少 Search Console 資料時猜測核心頁或一次 `noindex` 大量頁面。
 
+2026-08-21 的「已檢索－目前尚未建立索引」匯出分析與後續資料需求，見
+[`gsc-crawled-not-indexed-2026-08-21.md`](./gsc-crawled-not-indexed-2026-08-21.md)。
+
 ## 單一 eligibility 來源
 
 所有食譜的索引資格由 `src/lib/recipe-index-eligibility.ts` 決定，欄位為：
