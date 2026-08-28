@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { pageUrlPath } from "../src/lib/page-url.ts";
+import { pageUrlPath } from "../src/lib/page-url.js";
 
 assert.equal(pageUrlPath("/"), "/");
 assert.equal(pageUrlPath("/about"), "/about/");

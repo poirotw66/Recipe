@@ -1,10 +1,15 @@
 const errorPagePath = /^\/(?:(?:en|ja|ko)\/)?404(?:\.html)?\/?$/;
 
-export function isErrorPagePath(pathname: string): boolean {
+/** @param {string} pathname */
+export function isErrorPagePath(pathname) {
   return errorPagePath.test(pathname);
 }
 
-export function asNotFound(response: Response): Response {
+/**
+ * @param {Response} response
+ * @returns {Response}
+ */
+export function asNotFound(response) {
   if (response.status === 404) {
     return response;
   }

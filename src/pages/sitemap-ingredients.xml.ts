@@ -12,7 +12,10 @@ export const GET: APIRoute = async () => {
     path: `/ingredients/${ingredient.slug}/`
   }));
 
-  for (const locale of ["en", "ja", "ko"] as const) {
+  // During recovery, only zh-TW and en taxonomy pages are actively submitted.
+  // ja/ko pages remain available, self-canonical, and discoverable through
+  // hreflang, but are not pushed as a full non-pilot taxonomy cohort.
+  for (const locale of ["en"] as const) {
     const recipes = sortRecipesByPublishedDate(await listRecipesForLocale(locale));
     for (const ingredient of getVisibleIngredients(recipes)) {
       entries.push({

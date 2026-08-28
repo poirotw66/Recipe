@@ -107,6 +107,11 @@
 5. 抽查並統一 slash redirect、canonical、sitemap 與內鏈格式。
 6. 針對 ingredients／scenarios 建立 taxonomy 品質審查批次。
 
+2026-08-28 先完成可逆的 sitemap 收斂：ja／ko 食材與情境頁維持
+indexable、self-canonical 與 hreflang，但不再作為整批 taxonomy 主動提交；
+zh-TW 與 en taxonomy 保留在 sitemap。內容是否 noindex、合併或刪除仍等待
+Performance 資料與逐頁審查。
+
 ### 目前證據不足，不執行
 
 - 不因為 URL 位於「已檢索－尚未索引」就全部加 noindex。

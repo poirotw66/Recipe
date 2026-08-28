@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { asNotFound, isErrorPagePath } from "../src/lib/error-page.ts";
+import { asNotFound, isErrorPagePath } from "../src/lib/error-page.js";
 
 
 assert.equal(isErrorPagePath("/404"), true);

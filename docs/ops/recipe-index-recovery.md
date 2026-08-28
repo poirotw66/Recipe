@@ -18,6 +18,7 @@
 - zh-TW、en：預設 `indexable + other`。
 - ja、ko 的既有 spec-018 15 篇：`indexable + pilot`。
 - 其他 ja、ko：暫時仍 `indexable + other`、維持 self-canonical 與 hreflang，但不主動放入新 sitemap。這是過渡狀態，不等於 `noindex`。
+- ja、ko 的食材與情境 taxonomy 頁同樣維持 indexable、self-canonical 與 hreflang，但在 GSC 顯示大量已檢索未索引後，暫不主動放入 sitemap；zh-TW、en taxonomy 繼續提交。
 - `core` 暫時為空；不得依主觀印象挑選。
 - 2026-08-27 已人工逐篇審查 128 篇餐廳還原食譜；其中 25 篇 Critical（19.5%）的四語頁暫時 `noindex, follow`，直到配方、時間或食安問題完成校正。
 

@@ -1,7 +1,7 @@
 import { handle } from "@astrojs/cloudflare/handler";
 import type { SSRManifest } from "astro";
 import { App } from "astro/app";
-import { asNotFound, isErrorPagePath } from "./lib/error-page";
+import { asNotFound, isErrorPagePath } from "./lib/error-page.js";
 import { applyFridgeQueryRobots } from "./lib/fridge-indexing";
 
 export function createExports(manifest: SSRManifest) {

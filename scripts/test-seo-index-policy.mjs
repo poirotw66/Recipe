@@ -52,6 +52,18 @@ const sitemapIndex = xml("sitemap-index.xml");
 assert.doesNotMatch(sitemapIndex, /sitemap-recipes\.xml/);
 assert.equal(primaryLocations(xml("sitemap-core-recipes.xml")).length, 0);
 
+const pageLocations = primaryLocations(xml("sitemap-pages.xml"));
+const ingredientLocations = primaryLocations(xml("sitemap-ingredients.xml"));
+const scenarioLocations = primaryLocations(xml("sitemap-scenarios.xml"));
+for (const locale of ["ja", "ko"]) {
+  assert.ok(!pageLocations.includes(`https://recipe.bloss0m.com/${locale}/ingredients/`));
+  assert.ok(!pageLocations.includes(`https://recipe.bloss0m.com/${locale}/scenarios/`));
+  assert.ok(ingredientLocations.every((url) => !url.includes(`/${locale}/ingredients/`)));
+  assert.ok(scenarioLocations.every((url) => !url.includes(`/${locale}/scenarios/`)));
+}
+assert.ok(ingredientLocations.some((url) => url.includes("/en/ingredients/")));
+assert.ok(scenarioLocations.some((url) => url.includes("/en/scenarios/")));
+
 const zhCount = readdirSync(join(root, "src/content/recipes")).filter((name) => name.endsWith(".md")).length;
 const enCount = readdirSync(join(root, "src/content/recipes-en")).filter((name) => name.endsWith(".md")).length;
 const zhLocations = primaryLocations(xml("sitemap-other-zh-recipes.xml"));

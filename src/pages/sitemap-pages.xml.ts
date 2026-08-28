@@ -33,6 +33,10 @@ const localizedShellPages = [
   "/terms/"
 ];
 
+const transitionalLocaleShellPages = localizedShellPages.filter(
+  (path) => path !== "/ingredients/" && path !== "/scenarios/"
+);
+
 const localizedTopicHubPages = topicHubs.map((hub) => `/${hub.slug}/`);
 
 /** Brand replica pages are built and linked but were missing from the sitemap. */
@@ -43,8 +47,15 @@ const brandReplicaPages = ["second-floor-cafe", "dubu-house"].map(
 const staticPages = [
   ...defaultPages,
   ...brandReplicaPages,
-  ...(["en", "ja", "ko"] as const).flatMap((locale) => [
+  ...["en" as const].flatMap((locale) => [
     ...localizedShellPages.map((path) => localePath(locale, path === "/" ? "/" : path.replace(/\/$/, ""))),
+    ...localizedTopicHubPages.map((path) => localePath(locale, path.replace(/\/$/, ""))),
+    ...brandReplicaPages.map((path) => localePath(locale, path.replace(/\/$/, "")))
+  ]),
+  ...(["ja", "ko"] as const).flatMap((locale) => [
+    ...transitionalLocaleShellPages.map((path) =>
+      localePath(locale, path === "/" ? "/" : path.replace(/\/$/, ""))
+    ),
     ...localizedTopicHubPages.map((path) => localePath(locale, path.replace(/\/$/, ""))),
     ...brandReplicaPages.map((path) => localePath(locale, path.replace(/\/$/, "")))
   ])

@@ -44,6 +44,10 @@ const isAsset = (pathname) => /\.[a-z0-9]+$/i.test(pathname);
 const wouldRedirect = (pathname) =>
   pathname !== "" && pathname !== "/" && !pathname.endsWith("/") && !isAsset(pathname);
 
+const isTransitionalUnsubmittedPage = (pathname) =>
+  /^\/(?:ja|ko)\/recipes\/[^/]+\/$/.test(pathname) ||
+  /^\/(?:ja|ko)\/(?:ingredients|scenarios)(?:\/[^/]+)?\/$/.test(pathname);
+
 const errors = [];
 const add = (file, message) => errors.push(`${relative(root, file)}: ${message}`);
 
@@ -146,9 +150,9 @@ for (const file of htmlFiles) {
   if (url === "/404/" || url.endsWith("/404/")) continue;
   const html = readFileSync(file, "utf8");
   if (/<meta name="robots" content="[^"]*noindex/.test(html)) continue;
-  // During the staged recovery, non-pilot ja/ko recipes remain indexable and
-  // self-canonical but are intentionally not actively submitted in a sitemap.
-  if (/^\/(?:ja|ko)\/recipes\/[^/]+\/$/.test(url) && !sitemapPaths.has(url)) continue;
+  // During the staged recovery, non-pilot ja/ko recipes and taxonomy pages
+  // remain indexable and self-canonical but are not actively submitted.
+  if (isTransitionalUnsubmittedPage(url) && !sitemapPaths.has(url)) continue;
   if (!sitemapPaths.has(url)) {
     errors.push(`sitemap: indexable page is missing from the sitemap: ${url}`);
   }

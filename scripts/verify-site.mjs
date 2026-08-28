@@ -47,8 +47,8 @@ const requiredFiles = [
   "src/pages/sitemap-ingredients.xml.ts",
   "src/pages/sitemap-scenarios.xml.ts",
   "src/lib/sitemap.ts",
-  "src/lib/page-url.ts",
-  "src/lib/error-page.ts",
+  "src/lib/page-url.js",
+  "src/lib/error-page.js",
   "src/worker.ts",
   "wrangler.jsonc",
   "scripts/verify-canonical-urls.mjs",
@@ -217,7 +217,7 @@ if (
 }
 
 const workerSource = read("src/worker.ts");
-const errorPageHelper = read("src/lib/error-page.ts");
+const errorPageHelper = read("src/lib/error-page.js");
 if (!workerSource.includes("asNotFound") || !errorPageHelper.includes("noindex")) {
   console.error("Cloudflare worker must mark /404 responses as HTTP 404 with X-Robots-Tag noindex.");
   process.exit(1);
@@ -605,7 +605,7 @@ if (!astroConfig.includes('trailingSlash: "always"')) {
   process.exit(1);
 }
 
-const pageUrlHelper = read("src/lib/page-url.ts");
+const pageUrlHelper = read("src/lib/page-url.js");
 if (!pageUrlHelper.includes("pageUrlPath") || !seoLib.includes("absolutePageUrl") || !seoHead.includes("pageUrlPath")) {
   console.error("Canonical/JSON-LD/sitemap URLs must normalize through pageUrlPath / absolutePageUrl.");
   process.exit(1);

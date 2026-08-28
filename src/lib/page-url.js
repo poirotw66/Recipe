@@ -5,8 +5,11 @@
  * `/recipes` 301s to `/recipes/`. Canonical, JSON-LD, sitemap <loc>, and
  * internal page links must already be that final form or Search Console
  * files them under "Page with redirect".
+ *
+ * @param {string} path
+ * @returns {string}
  */
-export const pageUrlPath = (path: string): string => {
+export const pageUrlPath = (path) => {
   const base = path.startsWith("/") ? path : `/${path}`;
   const match = /^([^?#]*)([?#].*)?$/.exec(base);
   const pathname = match?.[1] ?? base;

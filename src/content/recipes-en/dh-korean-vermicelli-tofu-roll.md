@@ -25,8 +25,9 @@ tags:
 intro: This Korean vermicelli tofu roll wraps vegetables and glass noodles in tofu skin, then crisps in a skillet for a shareable appetizer.
 steps:
 - Soak 100 g Korean glass noodles in cold water for 20 minutes until soft; drain and cut into about 5 cm lengths. Cut 4 sheets of tofu skin into rollable rectangles. Mince 0.5 onion, cut 1 scallion into sections, and blanch, squeeze dry, and shred 1/4 carrot and 80 g spinach.
-- Heat a little oil in a skillet over low heat and sauté 1 Tbsp minced garlic until fragrant. Add the onion and scallion, then stir-fry for 1 minute.
-- Add the glass noodles, carrot, spinach, 1 Tbsp soy sauce, 1 Tbsp toasted sesame oil, and a pinch of salt. Toss until evenly seasoned, then let the filling cool slightly.
+- Heat a little oil in a skillet over low heat and sauté 1 Tbsp minced garlic until fragrant. If using minced beef or mushrooms, add them now and cook until the beef is no longer pink or the mushrooms are tender.
+- Add the onion and scallion and stir-fry for 1 minute. Season with 1 Tbsp soy sauce, 1 Tbsp toasted sesame oil, and a pinch of salt, then turn off the heat.
+- Mix the cooked aromatics with the glass noodles, carrot, and spinach. Taste and adjust the seasoning; the filling should be slightly assertive so it does not taste bland after wrapping.
 - Lay a tofu-skin sheet flat. Add a small portion of filling, fold in the sides, and roll tightly; repeat with the remaining sheets and filling.
 - Brush the skillet lightly with oil. Pan-fry the rolls seam-side down over medium heat, turning after each side is golden, until all sides are crisp and the seam is sealed.
 - Slice into about 2 cm pieces, sprinkle with chopped scallions and sesame seeds, and serve hot.
