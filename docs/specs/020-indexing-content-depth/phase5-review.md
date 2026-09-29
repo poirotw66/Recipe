@@ -40,14 +40,17 @@ node scripts/verify-live-seo.mjs
 
 ### 待手動（GSC — 需 Google 帳號）
 
-1. **提交 Sitemap**  
-   [Search Console](https://search.google.com/search-console) → 索引 → Sitemap → 新增  
-   `https://recipe.bloss0m.com/sitemap-index.xml`
+1. **提交 Sitemap — 已完成（2026-09-29）**
 
-2. **網址檢查 — 要求建立索引**（各 1 次，勿大量提交）  
-   - `https://recipe.bloss0m.com/ingredients/egg/`
-   - `https://recipe.bloss0m.com/ingredients/cabbage/`
-   - `https://recipe.bloss0m.com/ingredients/tofu/`
+   GSC 狀態顯示「成功」。提交後報表仍顯示上次讀取為 2026-09-20、探索網頁 0，這不是新提交的處理結果；待 Google 重新讀取後再核對。正式站 sitemap index 回應 HTTP 200，含 7 個子 sitemap、共 731 個 URL；25 個暫停索引的 slug 不在其中。
+
+2. **網址檢查 — 要求建立索引（已完成，2026-09-29）**
+
+   三個網址的 GSC 即時測試都顯示可編入索引，並已各提交一次，加入優先檢索佇列。這只代表提出檢索要求，不保證 Google 會收錄。
+
+   - `https://recipe.bloss0m.com/ingredients/egg/`（舊索引資料：已檢索未索引；上次檢索 2026-06-19）
+   - `https://recipe.bloss0m.com/ingredients/cabbage/`（舊索引資料：已檢索未索引；上次檢索 2026-06-18）
+   - `https://recipe.bloss0m.com/ingredients/tofu/`（舊索引資料：已找到未索引；尚無上次檢索時間）
 
 3. **（可選）再提交 2 情境 hub**  
    - `https://recipe.bloss0m.com/scenarios/ten-minute-meals/`

@@ -3,7 +3,7 @@
 | Phase | 內容 | 狀態 | 備註 |
 | --- | --- | --- | --- |
 | 0 | 冰箱 query noindex + 食材 programmatic intro | done | query 使用可檢索的 HTTP response header；robots Disallow 已於 2026-08-27 移除 |
-| 1 | Deploy + GSC sitemap | done | push `c40575b` 2026-08-22；GSC 提交待手動 |
+| 1 | Deploy + GSC sitemap | done | push `c40575b` 2026-08-22；2026-09-29 已提交 sitemap 並對 3 個食材頁提出索引要求，等待 Google 重新處理 |
 | 2 | 15 食材人工 intro | done | 3 subagents；zh/en/ja/ko 全完成 |
 | 3 | 12 情境 hubIntro + 內链 | done | 3 subagents；zh/en/ja/ko 全完成 |
 | 4 | 內链強化 + 20 篇 zh 食譜 | done | 首頁/6 hub 內文連結 + 20 篇 intro 尾链 |
@@ -15,8 +15,8 @@
 - 歷史檢查：2026-08-22 `/robots.txt` 曾含 query Disallow；此規則已於 2026-08-27 移除
 - [x] `/ingredients/cabbage/` intro 與內文連結正常
 - [x] `/tools/fridge-recipe/?ingredients=雞蛋` — 2026-09-29 線上回 200 與 `X-Robots-Tag: noindex, follow`；robots.txt 未封鎖 query
-- [ ] GSC 提交 `sitemap-index.xml`（**需手動**）
-- [ ] 手動提交：`/ingredients/egg/`、`/ingredients/cabbage/`、`/ingredients/tofu/`（**需手動**）
+- [x] GSC 提交 `https://recipe.bloss0m.com/sitemap-index.xml`（2026-09-29；狀態「成功」，Google 尚未以新提交日期重新讀取）
+- [x] GSC 即時測試允許索引並提交要求：`/ingredients/egg/`、`/ingredients/cabbage/`、`/ingredients/tofu/`（2026-09-29；三頁皆已排入優先檢索佇列）
 
 驗證：`node scripts/verify-live-seo.mjs`
 
