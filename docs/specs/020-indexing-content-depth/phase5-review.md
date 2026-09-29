@@ -106,6 +106,15 @@ node scripts/verify-live-seo.mjs
 
 這批 GSC 數據顯示目前搜尋使用量很低，沒有足夠點擊或繁中 Critical 頁面曝光可用來降低食安驗收優先級。試作先按食安風險排序，`sf-moon-view-bitter-melon-cream-rice` 的 2 次韓文曝光僅作同級次序的弱訊號。逐篇順序與量測欄位見 [Critical 試作驗收計畫](../../reviews/recipe-audit/critical-kitchen-validation-2026-09-29.md)。
 
+### Critical 食譜網址檢查（抽樣，2026-09-29）
+
+抽查 `https://recipe.bloss0m.com/recipes/sf-bbq-roasted-half-chicken/`；這是原 Critical 清單 25 個 slug 之一，並非 100 個多語頁面的全量檢查。
+
+- GSC 即時測試於 2026-09-29 17:27（台灣時間）完成：Google 檢查工具（智慧型手機）允許檢索、擷取成功；但偵測到頁面 `robots` 中繼標記 `noindex`，因此目前不能編入索引。
+- 即時測試顯示使用者宣告的標準網址為該繁中網址；因頁面不可索引，Google 尚未判定所選標準網址。這與此批尚待實際試作驗收、暫時保留 noindex 的政策一致，不代表索引故障或品質處置。
+- 此 URL 的索引資料上次檢索時間為 2026-09-04 18:09（台灣時間），比 9 月 29 日即時測試早。當時 GSC 未偵測 sitemap 參照，並列出日文版為參照頁；這是索引資料中的發現資訊，不是即時測試結果。
+- 本次只驗證一個 Critical 繁中 URL 的線上回應。其餘 Critical URL 是否部署相同標記，仍需逐頁驗證；不得由此抽樣推論全批。
+
 ---
 
 ## +7 日複盤清單（2026-08-29）
