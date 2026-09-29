@@ -1,7 +1,7 @@
 ---
 title: Garlic Mushroom Tofu Rice Bowl
 recipeId: garlic-mushroom-tofu-rice-bowl
-description: Pan-seared mushrooms and tofu in garlic soy sauce over rice—a light, meat-free main bowl.
+description: Firm tofu and mushrooms in garlic-soy sauce over rice—a meat-free single-serving bowl to mix just before eating.
 coverImage: /images/recipes/garlic-mushroom-tofu-rice-bowl.webp
 servings: 1
 prepTime: 8
@@ -19,7 +19,7 @@ scenarios:
 equipment:
 - Skillet
 ingredients:
-- name: Tofu
+- name: Firm tofu
   amount: '0.5'
   unit: pack
   isCore: true
@@ -47,17 +47,17 @@ seasonings:
 tags:
 - Tofu mains
 - Meat-free
-intro: Sear the tofu first for better texture; cook mushrooms until fragrant so they lose any raw taste.
+intro: This meat-free bowl pairs mushrooms with firm tofu in garlic-soy sauce over rice. Cook the mushrooms first and set them aside so the tofu has room to sear in a single layer; spoon everything over the rice and mix just before eating.
 steps:
-- Cube tofu 0.5 pack and pat dry; slice mushrooms 120 g; mince 2 garlic cloves; place cooked white rice 1 bowl in a serving bowl.
+- Cube firm tofu 0.5 pack and pat dry; slice mushrooms 120 g; mince 2 garlic cloves; place cooked white rice 1 bowl in a serving bowl.
 - Mix 1 tsp soy sauce, a pinch of salt, and minced garlic into a sauce; toss tofu with half the sauce and rest 5 minutes.
-- "Heat 1 tbsp olive oil in a skillet over medium heat; stir-fry mushrooms 2 minutes until they release moisture, soften slightly, and turn fragrant."
-- Lay tofu in a single layer; pan-fry over medium heat 1.5–2 minutes per side until lightly golden, then gently toss 1 minute.
-- Pour in the remaining sauce and stir-fry over high heat 30 seconds until evenly coated.
-- Spoon tofu and mushrooms over rice; toss and eat while hot.
+- Heat 1 tbsp olive oil in a skillet over medium heat; cook the mushrooms about 2 minutes until softened and fragrant, then transfer them to a plate.
+- Add the remaining 1.5 tsp olive oil. Lay the tofu in a single layer and pan-fry over medium heat 1.5–2 minutes per side until lightly golden, then gently toss 1 minute.
+- Return the mushrooms to the pan. Pour in the remaining sauce and stir-fry over high heat 30 seconds until evenly coated.
+- Spoon the tofu and mushrooms over the rice, then mix and eat while hot.
 tips:
 - Pat the tofu dry first—it browns more easily.
-- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
+- For a firmer tofu sear, keep the topping separate from the rice until serving; mixing too early softens the browned surface.
 storage: Best eaten fresh; refrigerate up to 1 day if needed.
 substitutions:
 - Swap white rice for brown rice or quinoa.
@@ -74,7 +74,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-15'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Shredded pork
 - Shrimp
@@ -83,4 +83,4 @@ customAdditions:
 
 ---
 
-A solid choice on no-meat days when you still want aroma and fullness.
+Garlic-soy sauce, sautéed mushrooms, and seared tofu make a meat-free single-serving bowl over rice. Cooking the toppings in sequence gives the tofu room to brown before everything is mixed together.
