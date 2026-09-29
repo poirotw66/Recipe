@@ -17,6 +17,15 @@ equipment:
   - 볼
 tags:
   - 집밥
+references:
+  - label: 레시피 참고
+    name: Yakult UK — Tropical Yoghurt Bowl
+    url: https://www.yakult.co.uk/recipe/tropical-yoghurt-bowl/
+    note: 요거트와 과일, 그래놀라를 층층이 올리는 방식에서 착안해 망고, 바나나, 파인애플, 오트를 1인분으로 구성하고 꿀을 더했습니다.
+  - label: 식품 안전 안내
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: FoodSafety.gov 공식 안내에 따라 상하기 쉬운 음식은 2시간 안에 냉장합니다. 재료별 보관과 재가열 방법도 안내합니다.
 intro: 플레인 요거트를 바탕으로 과일과 오트의 식감을 더한 차가운 볼입니다. 올리브유나 소금은 넣지 않습니다.
 steps:
   - 망고와 파인애플을 한입 크기로 자르고 바나나는 둥글게 썹니다. 자른 과일은 바로 냉장하거나 곧바로 담습니다.
@@ -24,7 +33,7 @@ steps:
   - 먹기 직전에 오트 클러스터와 꿀을 조금 뿌려 바삭함을 살립니다.
 tips:
   - 요거트와 과일 위에 오래 두면 오트가 눅눅해집니다. 먹기 직전에 올리세요.
-storage: 과일과 요거트를 담은 볼은 바로 먹습니다. 미리 준비한다면 따로 밀폐해 냉장하고 자른 과일은 1일 안에 먹습니다.
+storage: 요거트와 자른 과일은 냉장하고 자른 과일은 당일 먹습니다. 담은 볼은 바로 먹고 오트는 따로 보관합니다.
 substitutions: []
 relatedIngredients:
   - 무가당 플레인 요거트
@@ -66,4 +75,4 @@ ingredients:
 seasonings: []
 ---
 
-플레인 요거트 위에 망고, 바나나, 파인애플, 오트 클러스터, 꿀을 올립니다. 과일즙에 눅눅해지지 않도록 오트는 마지막에 더하세요.
+요거트와 과일, 그래놀라를 층층이 올리는 방식에서 착안해 망고, 바나나, 파인애플, 오트를 1인분으로 구성하고 꿀을 더했습니다.

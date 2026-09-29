@@ -18,6 +18,15 @@ equipment:
 tags:
 - 가정 디저트
 - 냉동 디저트
+references:
+  - label: 레시피 참고
+    name: Epicurious — Chocolate Tofu Ice Cream
+    url: https://www.epicurious.com/recipes/food/views/chocolate-tofu-ice-cream-379381
+    note: 연두부를 아이스크림 베이스로 갈아 만드는 방법을 참고해 흑설탕과 생크림 버전으로 바꾸고 얼리는 중간에 저으며 타피오카는 따로 익힙니다.
+  - label: 식품 안전 안내
+    name: Enjoying Homemade Ice Cream without the Risk of Salmonella Infection
+    url: https://www.fda.gov/food/buy-store-serve-safe-food/enjoying-homemade-ice-cream-without-risk-salmonella-infection
+    note: FDA는 살균 유제품 사용을 권합니다. 날달걀은 넣지 않으며 바로 먹을 수 있는 냉장 두부를 쓰고 차갑게 보관합니다.
 intro: 연두부, 생크림, 흑설탕을 갈아 중간에 저으면서 얼립니다. 빠르게 삶는 타피오카 펄을 곁들이며 최소 4시간 냉동합니다.
 steps:
 - 두부는 물기를 빼고 차게 둔다. 생크림 100ml, 흑설탕 30g과 함께 블렌더에 넣어 부드럽게 간 뒤 얕은 냉동용 용기에 옮긴다.
@@ -27,13 +36,14 @@ steps:
 tips:
 - 바로 먹을 수 있는 냉장 두부를 선택하고 냉장 상태와 소비기한을 지키세요.
 - 얕은 용기를 쓰고 저을 때마다 가장자리 얼음을 긁어 가운데로 섞으세요.
-storage: 밀폐해 냉동하고 식감을 위해 약 1주 안에 먹는 것이 좋습니다. 뜨기 전 실온에 몇 분 둡니다. 익힌 펄은 따로 냉장하고 포장지 보관 안내를 따르세요.
+storage: 살균 생크림과 바로 먹을 수 있다고 표시된 냉장 두부를 사용합니다. 밀폐해 냉동하고 식감을 위해 약 1주 안에 먹습니다. 타피오카는 따로 익히고
+  남은 것은 포장 안내대로 냉장합니다.
 substitutions: []
 relatedIngredients:
-- 嫩豆腐
-- 鮮奶油
-- 黑糖
-- 黑糖珍珠
+  - 연두부
+  - 생크림
+  - 흑설탕
+  - 흑당 타피오카 펄
 customAdditions: []
 faqs:
 - question: 얼리는 데 얼마나 걸리나요?
@@ -67,4 +77,4 @@ ingredients:
 seasonings: []
 ---
 
-연두부, 생크림, 흑설탕을 갈아 중간에 저으면서 얼립니다. 빠르게 삶는 타피오카 펄을 곁들이며 최소 4시간 냉동합니다.
+연두부를 아이스크림 베이스로 갈아 만드는 방법을 참고해 흑설탕과 생크림 버전으로 바꾸고 얼리는 중간에 저으며 타피오카는 따로 익힙니다.타피오카는 포장 안내대로 익혀 냉동 후 곁들입니다. 아이스크림과 함께 얼리지 않습니다。

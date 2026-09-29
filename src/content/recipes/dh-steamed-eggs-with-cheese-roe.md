@@ -14,15 +14,16 @@ scenarios:
 equipment:
 - 蒸鍋或有蓋湯鍋
 - 食物溫度計
+- 耐熱小碗 2 個
 tags:
 - 家常料理
 - 蒸蛋
 intro: 兩顆蛋與 200 毫升高湯調成蛋液，蒸至中心凝固，再加起司與即食熟魚卵。
 steps:
-- 雞蛋 2 顆打散，加入高湯 200 毫升與少量鹽拌勻，過篩後倒入耐熱小鍋。
-- 鍋中放入蒸架和熱水，蛋液加蓋以小火蒸約 10～15 分鐘，直到中心凝固且溫度計測得至少 71°C；未達溫度時續蒸並重測。
-- 關火後放上切達起司片 1 片，蓋鍋悶至融化。
-- 加入即食熟飛魚卵 30 克與少許芝麻油、蔥花，趁熱享用。
+- "雞蛋打散，加入已放涼的高湯與少量鹽拌勻並過篩，分倒入兩個耐熱小碗。"
+- "蒸鍋以小火預熱，水維持微滾。小碗加蓋或覆耐熱盤，蒸約 12～18 分鐘；從蛋羹中心測量，達至少 71°C 且凝固後取出，未達則續蒸並重測。"
+- "取下碗蓋，趁熱放上切達起司片，蓋回短暫悶至融化。"
+- "加入即食熟飛魚卵（須標示可直接食用）、少許芝麻油和蔥花，趁熱享用。"
 tips:
 - 高湯先放涼再拌蛋，以免蛋液結塊。
 - 蓋住蒸碗以減少水滴落入；避免大火滾煮造成孔洞。
@@ -40,6 +41,15 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-29"
+references:
+  - label: 配方參考
+    name: "Japanese Steamed Egg Custard — Gorenje Hong Kong recipe book"
+    url: https://www.gorenje.hk/en/files/default/markets/hong_kong/catalogues/Gorenje-Recipe-Book_HK.pdf
+    note: 參考先過篩蛋液、分碗加蓋蒸熟，再於最後放魚卵的茶碗蒸流程；本頁另加入切達起司並以中心溫度確認熟度。
+  - label: 食安基準
+    name: "What Is a Safe Internal Temperature for Food Made with Eggs? — USDA FSIS"
+    url: https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs
+    note: 蛋料理中心至少達 71°C；飛魚卵須選標示可直接食用的熟製品。
 ingredients:
 - name: 雞蛋
   amount: '2'

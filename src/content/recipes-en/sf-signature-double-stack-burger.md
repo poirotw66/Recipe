@@ -15,22 +15,18 @@ scenarios:
 equipment:
   - Skillet
   - Food thermometer
+  - Wide spatula
+  - Parchment paper
 tags:
   - Home cooking
 intro: Build this double burger with two ground-beef patties, cheese, and fresh
   vegetables. Check the center of each patty to 71°C / 160°F; cut color alone is
   not a reliable test.
 steps:
-  - Divide the beef in two and gently shape into thin patties without compacting
-    them. Season both sides with salt and pepper.
-  - Heat oil in a skillet over medium heat. Cook the patties for about 3
-    minutes, turn, and continue cooking. Measure the center of each patty from
-    the side; remove each only when it reaches 71°C / 160°F. Continue cooking
-    and recheck if needed.
-  - Toast the cut side of the bun. Layer lettuce, tomato, one patty, and one
-    cheese slice on the bottom bun, then add the second patty, the second cheese
-    slice, and pickles. Cap with the top bun.
-  - Serve hot. If needed, briefly cover the hot patties to soften the cheese.
+  - "Divide the beef into two loose balls without kneading or packing them. Heat a little oil in a skillet over medium-high until shimmering. Add the beef and use a wide spatula with a small piece of parchment to press each portion into a thin patty; season both sides with salt and pepper."
+  - "Cook until the underside is well browned, then flip and top each patty with a slice of cheese. Measure each center from the side; remove only when both reach 71°C / 160°F, continuing to cook if needed. Stack the patties once the cheese softens."
+  - "Toast the cut sides of the buns in the same skillet. Layer lettuce, tomato, the double cheese patties, and pickles on the bottom bun; close with the top."
+  - "Serve hot. Cover the pan briefly after flipping if needed to help the cheese melt."
 tips:
   - Thin patties cook quickly, so check each one separately. Ground beef must
     reach 71°C / 160°F at the center; browning or a non-pink cut surface is not
@@ -49,6 +45,15 @@ faqs:
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29
+references:
+  - label: Recipe adaptation
+    name: "Double-Stack Smash Burger Alfresco — Epicurious"
+    url: https://www.epicurious.com/recipes/food/views/double-stack-smash-burger-alfresco-with-cheese
+    note: This one-serving skillet adaptation uses thin pressed patties stacked as a double; use a thermometer to verify doneness despite the browned crust.
+  - label: Food-safety guidance
+    name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: Measure both ground-beef patties separately; each center must reach at least 71°C / 160°F.
 ingredients:
   - name: Ground beef
     amount: "180"

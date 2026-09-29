@@ -1,8 +1,8 @@
 ---
 title: Black Curry Chicken Bites with Salsa
 recipeId: sf-salsa-black-curry-fried-chicken
-description: Oven-cooked chicken bites checked to 74°C / 165°F, served with
-  black curry sauce and tomato salsa.
+description: Cornstarch-coated chicken thigh baked to 74°C / 165°F and served
+  with black curry sauce and fresh tomato salsa.
 coverImage: /images/recipes/sf-salsa-black-curry-fried-chicken.webp
 servings: 2
 prepTime: 15
@@ -11,30 +11,30 @@ totalTime: 40
 difficulty: Medium
 category: "Appetizers"
 scenarios:
-  - Food to share
+  - High-protein meals
 equipment:
   - Oven
   - Baking tray
   - Food thermometer
 tags:
   - Home cooking
-intro: Bake lightly coated chicken bites and serve them with two dips. Since
-  chunk sizes can vary, check the thickest piece with a thermometer.
+intro: This home variation pairs oven-baked chicken thigh bites and fresh salsa
+  with the black curry and chicken-katsu flavor combination.
 steps:
-  - Heat the oven to 220°C / 425°F. Cut the chicken into roughly 3 cm pieces.
-    Toss with cornstarch, oil, salt, pepper, and curry powder, then arrange in
-    one layer on a tray.
-  - Bake for 12 minutes, turn, and bake another 8–12 minutes. Check the center
+  - Heat the oven to 220°C / 425°F. Cut the chicken thigh into even 3 cm pieces.
+    Do not rinse; pat dry. Toss with cornstarch, oil, salt, black pepper, and
+    curry powder, then arrange in one layer on a tray.
+  - Bake for 12 minutes, turn, then bake another 8–12 minutes. Check the center
     of the largest piece with a thermometer; it must reach 74°C / 165°F.
     Continue baking and recheck if needed.
-  - Dice the tomato and mince the onion. Mix with lemon juice for the salsa. Put
-    the black curry sauce in a small bowl; thin it with a teaspoon of warm water
-    if needed.
-  - Serve the chicken hot with the salsa and black curry sauce in separate bowls
-    for dipping.
+  - Seed and dice the tomato, mince the onion, and mix with lemon juice for the
+    salsa. Put the black curry sauce in a separate bowl; thin with a little warm
+    water if needed.
+  - Serve the chicken hot once it reaches 74°C / 165°F, with the salsa and black
+    curry as separate dips. Wash and sanitize tools that touched raw chicken.
 tips:
-  - Cut the chicken into similar-sized pieces so small pieces do not dry out
-    before larger ones cook. Check that the largest piece reaches 74°C / 165°F.
+  - Cut even pieces and avoid crowding the tray so they cook evenly. Curry sauce
+    saltiness varies by brand, so taste before adding extra seasoning.
 storage: Refrigerate the cooked chicken and salsa separately within 2 hours and
   use within 3 days. Reheat the chicken to 74°C / 165°F.
 substitutions: []
@@ -86,6 +86,17 @@ seasonings:
   - name: Black curry sauce
     amount: "1"
     unit: tbsp
+references:
+  - label: Recipe inspiration
+    name: Black Katsu Curry — S&B Foods
+    url: https://www.sbfoods-worldwide.com/recipes/419.html
+    note: Inspired by the Japanese black-curry and chicken-katsu pairing; this
+      version uses lightly cornstarch-coated baked bites and adds fresh salsa
+      rather than copying the source recipe.
+  - label: Food safety
+    name: Safe Minimum Internal Temperatures — FoodSafety.gov
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: Check that the chicken center reaches 74°C / 165°F.
 ---
 
-Lightly coat chicken in cornstarch and bake it, then serve fresh tomato salsa and black curry sauce separately as dips. Check the center of the largest chicken piece for doneness.
+This original home adaptation takes inspiration from Japanese black curry served with chicken katsu, then uses baked chicken bites and a separate tomato salsa. It is not a specific restaurant recipe; timings have not been kitchen-tested.

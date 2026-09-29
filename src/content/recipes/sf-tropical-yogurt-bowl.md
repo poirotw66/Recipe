@@ -16,6 +16,15 @@ equipment:
   - 碗
 tags:
   - 家常料理
+references:
+  - label: 食譜來源
+    name: Yakult UK — Tropical Yoghurt Bowl
+    url: https://www.yakult.co.uk/recipe/tropical-yoghurt-bowl/
+    note: 參考優格、水果與穀物分層組合；本站保留芒果、香蕉、鳳梨與燕麥脆片，改為單人份並以蜂蜜調味。
+  - label: 食品安全參考
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: FoodSafety.gov 官方指引：易腐食物應在 2 小時內冷藏；本文另依品項補充保存或加熱提醒。
 intro: 這款冷食水果碗以原味優格為主體，水果與燕麥脆片增加口感；不加入橄欖油或鹽。
 steps:
   - 芒果和鳳梨切成一口大小，香蕉切片。水果切好後儘快冷藏或組碗。
@@ -23,7 +32,7 @@ steps:
   - 食用前撒燕麥脆片並淋少量蜂蜜，立即享用以保持脆片口感。
 tips:
   - 若水果和優格先組好，燕麥脆片會吸水變軟；建議食用前才加入。
-storage: 水果與優格組好的碗請立即食用；需備料時，水果和優格分開密封冷藏，並在切水果後 1 天內吃完。
+storage: 優格與切好的水果保持冷藏，切果後當天食用；組碗後立即享用，燕麥脆片分開保存。
 substitutions: []
 relatedIngredients:
   - 無糖原味優格
@@ -65,4 +74,4 @@ ingredients:
 seasonings: []
 ---
 
-原味優格是這碗的底層，搭配芒果、香蕉、鳳梨、燕麥脆片和蜂蜜。燕麥最後放，避免吸收水果水分。
+參考優格、水果與穀物分層組合；本站保留芒果、香蕉、鳳梨與燕麥脆片，改為單人份並以蜂蜜調味。

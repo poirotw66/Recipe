@@ -16,6 +16,15 @@ equipment:
   - 沙拉碗
 tags:
   - 家常料理
+references:
+  - label: 食譜來源
+    name: Love & Lemons — Roasted Veggie Grain Bowl
+    url: https://www.loveandlemons.com/grain-bowl/
+    note: 參考藜麥、鷹嘴豆與烤蔬菜組碗；本站以單人份花椰菜、檸檬油醋和酪梨重新搭配。
+  - label: 食品安全參考
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: FoodSafety.gov 官方指引：易腐食物應在 2 小時內冷藏；本文另依品項補充保存或加熱提醒。
 intro: 藜麥先煮熟，花椰菜和鷹嘴豆烤至熱透，再與酪梨及檸檬油醋組成一碗。這份配方不宣稱特定營養或減脂效果。
 steps:
   - 藜麥以細網篩洗淨，放入鍋中加 120 毫升水煮滾，轉小火加蓋煮約 15 分鐘。關火悶 5 分鐘後用叉子鬆開。
@@ -24,7 +33,7 @@ steps:
   - 碗中放藜麥、烤蔬菜、鷹嘴豆、酪梨和小番茄，淋上檸檬油醋後食用。
 tips:
   - 藜麥和配菜分別烹調，裝碗前再組合；若花椰菜切得較大，需延長烘烤並確認中心熟軟。
-storage: 藜麥、烤蔬菜和鷹嘴豆分開密封冷藏，2 小時內冷藏並在 3 天內食用；酪梨切好後現吃。
+storage: 熟藜麥、烤花椰菜與鷹嘴豆在 2 小時內分開冷藏，3 天內食用；回熱至全盤冒熱氣，酪梨和番茄現切現加。
 substitutions: []
 relatedIngredients:
   - 藜麥
@@ -75,4 +84,4 @@ seasonings:
     unit: ""
 ---
 
-藜麥煮約15分鐘後還要加蓋悶5分鐘；烤蔬菜另需約20分鐘，因此總時間會超過單純的藜麥烹煮時間。
+參考藜麥、鷹嘴豆與烤蔬菜組碗；本站以單人份花椰菜、檸檬油醋和酪梨重新搭配。

@@ -17,6 +17,15 @@ equipment:
 - 派石與烘焙紙
 tags:
 - 烘焙甜點
+references:
+  - label: 食譜來源
+    name: King Arthur Baking — Summertime Peach Pie
+    url: https://www.kingarthurbaking.com/recipes/summertime-peach-pie-recipe
+    note: 參考鮮桃派餡增稠與餡汁冒泡的熟度判斷；本站改用 20 公分雙層市售派皮、肉桂與較小份量。
+  - label: 食品安全參考
+    name: Safe Minimum Internal Temperature Chart
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: USDA 指引：含蛋料理中心至少 71°C；易腐食物烹調後 2 小時內冷藏。
 intro: 使用已解凍的雙層派皮與去核蜜桃，做成一個約 20 公分的派。果汁以玉米澱粉收稠，出爐後留一小時冷卻再切六片。
 steps:
 - 烤箱預熱至 180°C。去核蜜桃 500 克切片，與細砂糖 40 克、肉桂粉 1 小匙及玉米澱粉 20 克拌勻。
@@ -26,7 +35,7 @@ steps:
 tips:
 - 蜜桃出水量不同，餡汁必須煮到冒泡，冷卻後才較容易切整齊。
 - 派皮邊緣提早上色時可蓋鋁箔，繼續烤至中央餡料熟。
-storage: 派在出爐後 2 小時內冷藏，3 天內食用。冰淇淋另放冷凍庫，上桌才加；室溫超過 32°C 時將冷藏時限縮短為 1 小時。
+storage: 蜜桃派出爐後 2 小時內冷藏，3 天內食用；環境高於 32°C 時改為 1 小時內冷藏。冰淇淋分開冷凍。
 substitutions: []
 relatedIngredients:
 - 蜜桃
@@ -70,4 +79,4 @@ ingredients:
 seasonings: []
 ---
 
-使用已解凍的雙層派皮與去核蜜桃，做成一個約 20 公分的派。果汁以玉米澱粉收稠，出爐後留一小時冷卻再切六片。
+參考鮮桃派餡增稠與餡汁冒泡的熟度判斷；本站改用 20 公分雙層市售派皮、肉桂與較小份量。

@@ -18,6 +18,15 @@ equipment:
 - 食品用温度計
 tags:
 - 焼き菓子
+references:
+  - label: 参考レシピ
+    name: King Arthur Baking — Easy Cheesecake
+    url: https://www.kingarthurbaking.com/recipes/easy-cheesecake-recipe
+    note: クリームチーズ、砂糖、卵を使う焼き方を参考に、6インチ型、クッキー生地、水浴焼きに組み直しています。
+  - label: 食品安全情報
+    name: Safe Minimum Internal Temperature Chart
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: USDAの目安：卵料理の中心は71°C以上。傷みやすい食品は調理後2時間以内に冷蔵します。
 intro: 直径15cmの焼きチーズケーキ。サンドクッキーの台にクリームチーズ、卵、生クリームの生地を流し、焼いた後に冷まして冷蔵します。小さめ8切れ分です。
 steps:
 - オーブンを160°Cに予熱する。6インチの型の底に紙を敷く。クッキーを砕き、溶かしバター 50gと混ぜて型の底に押し固め、冷蔵する。
@@ -27,13 +36,13 @@ steps:
 tips:
 - クリームチーズは混ぜやすい程度にやわらかくし、長時間室温に置かないでください。
 - 湯せん用の水が入らない型を使用。底が外れる型はアルミ箔で覆い、水位は型の縁より低くします。
-storage: 覆って4°C以下で冷蔵し、3日以内に食べます。切り分けたらすぐ冷蔵庫へ戻し、長時間室温に置かないでください。
+storage: 焼成後2時間以内に4°C以下で冷蔵し、3日以内に食べます。切った後はすぐ冷蔵庫に戻します。
 substitutions: []
 relatedIngredients:
-- 奶油乳酪
-- 雞蛋
-- 鮮奶油
-- Oreo 餅乾
+  - クリームチーズ
+  - 卵
+  - 生クリーム
+  - オレオクッキー
 customAdditions: []
 faqs: []
 featured: false
@@ -67,4 +76,4 @@ ingredients:
 seasonings: []
 ---
 
-直径15cmの焼きチーズケーキ。サンドクッキーの台にクリームチーズ、卵、生クリームの生地を流し、焼いた後に冷まして冷蔵します。小さめ8切れ分です。
+クリームチーズ、砂糖、卵を使う焼き方を参考に、6インチ型、クッキー生地、水浴焼きに組み直しています。

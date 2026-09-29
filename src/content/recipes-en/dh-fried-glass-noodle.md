@@ -1,12 +1,14 @@
 ---
 title: Vegetable Japchae
 recipeId: dh-fried-glass-noodle
-description: A two-serving side dish of Korean sweet-potato glass noodles, spinach, carrot, and fresh wood ear mushrooms, with a measured soy-sesame sauce.
+description: A two-serving vegetable japchae with sweet-potato glass noodles,
+  spinach, carrot, onion, and fresh wood ear; noodle soaking is included in prep
+  time.
 coverImage: /images/recipes/dh-fried-glass-noodle.webp
 servings: 2
-prepTime: 10
+prepTime: 45
 cookTime: 20
-totalTime: 30
+totalTime: 65
 difficulty: Medium
 category: "Korean appetizers"
 scenarios:
@@ -19,16 +21,28 @@ equipment:
 tags:
 - Korean side dish
 - Vegetables
-intro: This home-style vegetable japchae contains no meat. Cook the noodles until just tender, then briefly stir-fry with the vegetables and sauce so they do not turn mushy.
+intro: This two-serving meat-free side adapts japchae’s sweet-potato noodles,
+  vegetables, and soy-sesame seasoning, cooked in short stages to keep texture.
 steps:
-- Shred 30 g carrot and half an onion, cut 50 g spinach, and rinse and slice 30 g fresh wood ear mushrooms. Mix 1 tbsp soy sauce, 1 tsp sugar, 1 tsp minced garlic, and 1 tsp toasted sesame oil for the sauce.
-- Cook 100 g Korean sweet-potato glass noodles according to the package until just tender. Drain and cut shorter. If the product requires soaking, allow the additional soaking time stated on its package.
-- Heat the remaining 2 tsp sesame oil in a wok over medium heat. Cook the onion and carrot for about 3–4 minutes, add the fresh mushrooms for about 2 minutes, then add the spinach and wilt.
-- Add the noodles and prepared sauce. Toss for about 1–2 minutes until evenly hot and coated. Taste before adding any further seasoning and serve hot.
+- Soak the Korean sweet-potato glass noodles (dry) in cold water for about 40
+  minutes, or follow the package directions. Slice the carrot and onion thinly,
+  cut the spinach, and rinse and slice the fresh wood ear mushrooms. Mix the soy
+  sauce, sugar, minced garlic, and 1 teaspoon toasted sesame oil for the sauce.
+- Cook the soaked Korean sweet-potato glass noodles (dry) according to the
+  package until tender but still springy. Drain and cut to an easy-to-eat
+  length.
+- Heat the remaining toasted sesame oil in a skillet over medium heat. Stir-fry
+  the onion and carrot for 3–4 minutes, add the fresh wood ear mushrooms for
+  about 2 minutes, then add spinach and cook just until wilted.
+- Add the noodles and sauce; toss-fry for 1–2 minutes until evenly hot. Taste
+  before adding any extra seasoning and serve warm.
 tips:
-- Noodle thickness and brand affect cooking time; follow the package and check texture.
-- The total 1 tbsp sesame oil is divided into 1 tsp for the sauce and 2 tsp for frying.
-storage: Refrigerate leftovers in shallow containers at 4°C or below within 2 hours, or 1 hour if the room is above 32°C. Eat within 3 days and reheat to a center temperature of 74°C.
+- "Noodle thickness and brand affect soaking and cooking time; follow the
+  package and check the texture. The recipe uses 1 tablespoon sesame oil total:
+  1 teaspoon in the sauce and the rest in the pan."
+storage: Refrigerate leftovers in shallow containers at 4°C or below within 2
+  hours, or 1 hour if the room is above 32°C. Eat within 3 days and reheat to a
+  center temperature of 74°C.
 substitutions: []
 relatedIngredients:
 - 韓式冬粉
@@ -38,7 +52,9 @@ relatedIngredients:
 customAdditions: []
 faqs:
 - question: Can I use dried wood ear mushrooms?
-  answer: Yes, but the listed 30 g is the fresh weight. Rehydrate dried mushrooms in the refrigerator according to their package, then weigh them. Allow additional soaking time.
+  answer: Yes, but the listed 30 g is the fresh weight. Rehydrate dried mushrooms
+    in the refrigerator according to their package, then weigh them. Allow
+    additional soaking time.
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-29"
@@ -76,6 +92,18 @@ seasonings:
 - name: minced garlic
   amount: '1'
   unit: tsp
+references:
+- label: Recipe inspiration
+  name: Easy japchae — Maangchi
+  url: https://www.maangchi.com/recipe/easy-japchae
+  note: Uses japchae’s sweet-potato noodles, vegetables, and soy-sesame seasoning
+    as a reference; meat and egg are omitted and the two-serving quantities and
+    sequence are rewritten.
+- label: Food safety
+  name: Cold Food Storage Charts — FoodSafety.gov
+  url: https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts
+  note: Follow noodle package directions; refrigerate leftovers promptly and
+    reheat thoroughly.
 ---
 
-The yield is two side-dish portions. For a main meal, add a separately prepared protein dish; the time for that accompaniment and any noodle soaking is not included.
+This meat-free home side adapts the noodles, vegetables, and soy-sesame seasoning of the cited japchae recipe, with new quantities and sequence for two. It is not a restaurant formula; total time includes noodle soaking and has not been kitchen-tested.

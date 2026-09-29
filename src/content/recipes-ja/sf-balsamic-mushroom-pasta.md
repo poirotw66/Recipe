@@ -16,6 +16,15 @@ equipment:
   - フライパン
 tags:
   - 家庭料理
+references:
+  - label: 参考レシピ
+    name: Bon Appétit — Balsamic Mushroom and Sausage Pasta
+    url: https://www.bonappetit.com/recipe/balsamic-mushroom-and-sausage-pasta
+    note: きのこの焼き色、バルサミコ酢で鍋底をこそげる工程、ゆで汁でまとめる方法を参考に、一人分の肉なしレシピにしています。
+  - label: 食品安全情報
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: FoodSafety.govの公的指針に基づき、傷みやすい食品は2時間以内に冷蔵します。食材別の保存・再加熱方法も記載しています。
 intro: きのことバルサミコ酢で味をつける一人分のパスタです。生卵は使わず、ゆで汁を少し残してソースを麺になじませます。
 steps:
   - きのこを薄切りにし、にんにくをみじん切りにします。パスタを表示時間どおりにゆで、湯を切る前にゆで汁を約1/2カップ取っておきます。
@@ -24,7 +33,7 @@ steps:
   - 火を止め、パルメザン、塩、こしょうを混ぜて味を調え、熱いうちに盛り付けます。
 tips:
   - きのこは水分が飛ぶまで広げたまま焼くと焼き色がつきやすくなります。ゆで汁は少しずつ加え、ソースを薄くしすぎないようにします。
-storage: 残りは2時間以内に冷蔵し、3日以内に食べます。少量の水を加えてフライパンで全体が熱くなるまで温め直します。
+storage: 残りは調理後2時間以内に冷蔵し、3日以内に食べます。少量の水を加えて全体が熱くなるまで温めます。
 substitutions: []
 relatedIngredients:
   - パスタ
@@ -68,4 +77,4 @@ seasonings:
     unit: ""
 ---
 
-きのこの水分を飛ばしてからバルサミコ酢と少量のゆで汁を加え、軽いソースにします。このレシピでは生卵を使いません。
+きのこの焼き色、バルサミコ酢で鍋底をこそげる工程、ゆで汁でまとめる方法を参考に、一人分の肉なしレシピにしています。

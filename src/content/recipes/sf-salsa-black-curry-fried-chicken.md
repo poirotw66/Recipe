@@ -1,6 +1,6 @@
 ---
 title: 黑咖哩莎莎烤雞塊
-description: 雞腿肉裹薄粉烤至 74°C，搭配黑咖哩與番茄莎莎沾醬。
+description: 雞腿肉裹薄玉米粉烤至中心 74°C，配黑咖哩醬與新鮮番茄莎莎。
 coverImage: /images/recipes/sf-salsa-black-curry-fried-chicken.webp
 servings: 2
 prepTime: 15
@@ -9,21 +9,21 @@ totalTime: 40
 difficulty: 中等
 category: "開胃菜"
 scenarios:
-  - 分享料理
+  - 高蛋白料理
 equipment:
   - 烤箱
   - 烤盤
   - 食物溫度計
 tags:
   - 家常料理
-intro: 以烤箱製作酥香雞塊，搭配兩款沾醬；雞肉切塊厚度不同時，以溫度計確認最厚處熟度。
+intro: 參考日式黑咖哩與雞排搭配，改成烤箱雞腿塊，另配新鮮莎莎，減少油炸步驟。
 steps:
-  - 烤箱預熱 220°C。雞腿肉切成約 3 公分塊，拌入玉米粉、食用油、鹽、黑胡椒和咖哩粉，單層排在烤盤上。
-  - 烤 12 分鐘後翻面，續烤約 8～12 分鐘；用溫度計測量最大塊中心，至少達 74°C。未達時續烤並再測。
-  - 番茄去籽切丁，洋蔥切末，與檸檬汁拌勻作莎莎醬。黑咖哩醬放入小碗；若太稠可加一小匙溫水調開。
-  - 雞肉達溫度後趁熱和莎莎、黑咖哩醬分開上桌沾食。
+  - 烤箱預熱至 220°C。雞腿肉切成大小接近的約 3 公分塊，不水洗，以紙巾擦乾；拌入玉米粉、食用油、鹽、黑胡椒和咖哩粉，單層排在烤盤上。
+  - 烤 12 分鐘後翻面，再烤 8～12 分鐘。以溫度計測量最大雞塊中心，至少達 74°C；未達就續烤並重測。
+  - 番茄去籽切丁、洋蔥切末，與檸檬汁拌成莎莎。黑咖哩醬另盛小碗；太稠時拌入少量溫水。
+  - 雞肉達 74°C 後趁熱上桌，莎莎與黑咖哩醬分開沾食。生雞用過的器具清洗消毒。
 tips:
-  - 雞塊大小應接近，避免小塊過乾而大塊未熟；用溫度計測最大塊中心是否達 74°C。
+  - 雞塊大小要一致，且烤盤不要擠滿以利受熱。黑咖哩醬鹹度依品牌不同，先試味再決定是否調味。
 storage: 熟雞肉與莎莎醬分開密封冷藏，2 小時內放冰箱並於 3 天內食用；回熱雞肉中心達 74°C。
 substitutions: []
 relatedIngredients:
@@ -73,6 +73,15 @@ seasonings:
   - name: 黑咖哩醬
     amount: "1"
     unit: 大匙
+references:
+  - label: 配方參考
+    name: Black Katsu Curry — S&B Foods
+    url: https://www.sbfoods-worldwide.com/recipes/419.html
+    note: 參考日式黑咖哩搭配雞排的風味；本篇改用玉米粉薄裹烤雞塊，並加入獨立番茄莎莎，非照搬原食譜。
+  - label: 食安基準
+    name: Safe Minimum Internal Temperatures — FoodSafety.gov
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: 雞肉中心須以溫度計確認達 74°C。
 ---
 
-雞肉裹上薄薄玉米粉後用烤箱烤，另以新鮮番茄莎莎和黑咖哩醬分開沾食。雞肉熟度以最大塊中心溫度確認。
+本篇是家常創作改編，參考日式黑咖哩與雞排的搭配，再改用烤雞塊並另配番茄莎莎；不是特定餐廳配方，時間未經實際試做驗證。

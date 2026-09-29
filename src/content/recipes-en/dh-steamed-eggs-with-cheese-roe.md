@@ -15,15 +15,16 @@ scenarios:
 equipment:
 - Steamer or covered pot
 - Food thermometer
+- 2 heatproof ramekins
 tags:
 - Home cooking
 - Steamed eggs
 intro: Steam two eggs with 200 ml stock until the center sets, then add cheese and ready-to-eat cooked roe.
 steps:
-- Beat 2 eggs with 200 ml broth and a small pinch of salt. Strain into a heatproof covered bowl.
-- Set the bowl on a rack over simmering water and steam gently for about 10–15 minutes, until set and the center reaches at least 160°F (71°C) on a food thermometer. Continue steaming and recheck if needed.
-- Turn off the heat, add 1 slice cheddar, cover, and let it melt.
-- Top with 30 g ready-to-eat cooked flying fish roe, a little sesame oil, and scallion; serve hot.
+- "Beat the eggs with the cooled stock and a little salt. Strain the mixture and divide it between two heatproof small bowls."
+- "Bring the steamer water to a gentle simmer. Cover the bowls with lids or heatproof plates and steam for about 12–18 minutes. Measure the center; remove when it is set and reaches at least 71°C / 160°F. Continue steaming and recheck if needed."
+- "Uncover and add a slice of cheddar to each bowl while hot. Cover briefly to soften the cheese."
+- "Top with Ready-to-eat cooked flying fish roe, a little sesame oil, and scallion; serve hot."
 tips:
 - Cool the stock before mixing it with eggs to avoid curdling.
 - Cover the bowl to keep condensed water out, and steam gently to avoid large holes.
@@ -41,6 +42,15 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-29"
+references:
+  - label: Recipe adaptation
+    name: "Japanese Steamed Egg Custard — Gorenje Hong Kong recipe book"
+    url: https://www.gorenje.hk/en/files/default/markets/hong_kong/catalogues/Gorenje-Recipe-Book_HK.pdf
+    note: We adapt the strained, covered, portioned steamed-custard method and add roe at the end; this version adds cheddar and verifies the center temperature.
+  - label: Food-safety guidance
+    name: "What Is a Safe Internal Temperature for Food Made with Eggs? — USDA FSIS"
+    url: https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs
+    note: Cook the egg mixture to at least 71°C / 160°F; use roe labeled ready to eat.
 ingredients:
 - name: Eggs
   amount: '2'

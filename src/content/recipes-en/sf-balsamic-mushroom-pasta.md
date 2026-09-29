@@ -16,6 +16,17 @@ equipment:
   - Skillet
 tags:
   - Home cooking
+references:
+  - label: Recipe source
+    name: Bon Appétit — Balsamic Mushroom and Sausage Pasta
+    url: https://www.bonappetit.com/recipe/balsamic-mushroom-and-sausage-pasta
+    note: Adapted from its browned mushrooms, balsamic deglazing, and pasta-water method as
+      a meatless single serving with revised quantities.
+  - label: Food safety guidance
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: 'Official FoodSafety.gov guidance: refrigerate perishable foods within 2 hours;
+      the recipe adds item-specific storage or reheating cues.'
 intro: This single-serving pasta gets its flavor from mushrooms and balsamic
   vinegar. It contains no raw egg; reserved pasta water helps the sauce cling to
   the noodles.
@@ -33,8 +44,8 @@ tips:
   - Let the mushrooms sit in a single layer while their moisture cooks off
     before stirring. Add pasta water gradually so the sauce does not become
     thin.
-storage: Refrigerate leftovers within 2 hours and use within 3 days. Reheat in a
-  skillet with a splash of water until steaming throughout.
+storage: Refrigerate leftovers within 2 hours and use within 3 days. Reheat with a splash
+  of water until steaming throughout.
 substitutions: []
 relatedIngredients:
   - Pasta
@@ -79,4 +90,4 @@ seasonings:
     unit: ""
 ---
 
-Brown the mushrooms before adding balsamic vinegar and a little pasta water to make a light sauce. This version does not use raw egg, so the egg does not depend on residual heat for cooking.
+Adapted from its browned mushrooms, balsamic deglazing, and pasta-water method as a meatless single serving with revised quantities.

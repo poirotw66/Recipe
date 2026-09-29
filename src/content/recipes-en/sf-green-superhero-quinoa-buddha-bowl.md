@@ -18,6 +18,17 @@ equipment:
   - Serving bowl
 tags:
   - Home cooking
+references:
+  - label: Recipe source
+    name: Love & Lemons — Roasted Veggie Grain Bowl
+    url: https://www.loveandlemons.com/grain-bowl/
+    note: Adapted from the grain, chickpea, and roasted-vegetable bowl format with single-serving
+      cauliflower, lemon dressing, and avocado.
+  - label: Food safety guidance
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: 'Official FoodSafety.gov guidance: refrigerate perishable foods within 2 hours;
+      the recipe adds item-specific storage or reheating cues.'
 intro: Cook the quinoa, roast the cauliflower and chickpeas until hot, then
   assemble the bowl with avocado and lemon dressing. This recipe makes no
   specific nutrition or weight-loss claims.
@@ -36,8 +47,8 @@ tips:
   - Cook the quinoa and toppings separately and assemble just before serving.
     Larger cauliflower pieces may need extra roasting; cook until tender through
     the center.
-storage: Refrigerate the quinoa, roasted vegetables, and chickpeas separately
-  within 2 hours and use within 3 days. Cut the avocado just before serving.
+storage: Refrigerate cooked quinoa, cauliflower, and chickpeas separately within 2 hours and
+  use within 3 days. Reheat until steaming; cut avocado and tomatoes just before serving.
 substitutions: []
 relatedIngredients:
   - Quinoa
@@ -89,4 +100,4 @@ seasonings:
     unit: ""
 ---
 
-Quinoa simmers for about 15 minutes and then rests covered for 5 minutes. The vegetables need about 20 minutes in the oven, so the full preparation takes longer than the quinoa alone.
+Adapted from the grain, chickpea, and roasted-vegetable bowl format with single-serving cauliflower, lemon dressing, and avocado.

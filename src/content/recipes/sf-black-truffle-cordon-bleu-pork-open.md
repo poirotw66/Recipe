@@ -1,6 +1,6 @@
 ---
 title: 黑松露藍帶豬排歐包
-description: 火腿起司藍帶豬排搭配烤歐包與少量黑松露美乃滋；肉與內餡均需達 74°C。
+description: 火腿起司藍帶豬排搭配烤歐包與薄抹松露美乃滋；豬肉與內餡中心均須達 74°C。
 coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.webp
 servings: 1
 prepTime: 15
@@ -16,14 +16,14 @@ equipment:
   - 食物溫度計
 tags:
   - 家常料理
-intro: 在家製作的開放式豬排麵包：將火腿和起司包進豬里肌、裹粉煎香，再烤到豬肉與內餡中心都達 74°C。黑松露美乃滋薄薄抹上即可。
+intro: 參考豬肉藍帶排的填餡與麵包粉外衣，改成烤歐包上的開放式三明治，以少量松露美乃滋提味。
 steps:
-  - 烤箱預熱至 200°C。豬肉用保鮮膜隔著輕敲至約 1 公分厚，兩面撒鹽和黑胡椒；中央放火腿、起司，折起豬肉並壓緊邊緣。
-  - 豬肉依序裹麵粉、打散的雞蛋和麵包粉。平底鍋中火加橄欖油，兩面各煎約 2 分鐘至金黃。
-  - 移至烤盤烤約 10～15 分鐘。從側面測量豬肉最厚處及火腿起司內餡中心；兩處都達 74°C 才取出。未達時續烤並再次測量。
-  - 將歐包切片烤至表面微脆。把美乃滋與黑松露醬拌勻，薄抹在麵包上，放上切片豬排趁熱食用。
+  - 烤箱預熱至 200°C。豬里肌夾在保鮮膜間輕拍至約 1 公分厚，撒鹽和胡椒；中央放火腿、起司後對折，壓緊邊緣封口。
+  - 依序沾麵粉、打散的蛋液和麵包粉。平底鍋加油以中火每面煎約 2 分鐘至金黃。
+  - 移至烤盤烤約 10～15 分鐘。從側面測最厚豬肉處及火腿起司內餡中心，兩處均須達 74°C；未達就續烤並重測。
+  - 歐包切片烤至微酥。將美乃滋與黑松露醬拌勻薄抹在麵包上，放上切片豬排趁熱食用。
 tips:
-  - 這是有填餡的豬肉料理，豬肉最厚處和內餡中心都需達 74°C；不能套用未填餡整塊豬肉的 63°C 加靜置標準。
+  - 包餡邊緣壓緊可減少起司流出。松露醬風味濃，先少量拌入美乃滋；豬肉厚處與內餡都須量溫。
 storage: 熟豬排與麵包分開密封冷藏，2 小時內冷藏並於 3 天內食用；回熱時豬排與內餡中心均達 74°C。
 substitutions: []
 relatedIngredients:
@@ -85,6 +85,15 @@ seasonings:
   - name: 黑胡椒
     amount: 少許
     unit: ""
+references:
+  - label: 配方參考
+    name: Pork Cordon Bleu — Great British Chefs
+    url: https://www.greatbritishchefs.com/recipes/pork-cordon-bleu-recipe
+    note: 參考豬肉藍帶排的豬肉、火腿、起司與裹粉組合；本篇改成搭配烤歐包和少量松露美乃滋的開放式吃法。
+  - label: 食安基準
+    name: Stuffing and Food Safety — USDA FSIS
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/stuffing-and-food-safety
+    note: 豬肉厚處與填料中心均須以溫度計確認達 74°C。
 ---
 
-火腿與起司包入薄豬里肌後裹粉煎香，再以烤箱完成。測量豬肉厚處和內餡中心，兩者均達74°C後再放上烤麵包。
+本篇是家常開放式吐司改編，參考豬肉藍帶排的填餡與裹粉做法；不是特定餐廳配方，時間尚未實際試做驗證。

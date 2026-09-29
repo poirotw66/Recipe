@@ -18,6 +18,15 @@ equipment:
 tags:
 - 家庭デザート
 - 冷たいデザート
+references:
+  - label: 参考レシピ
+    name: Epicurious — Chocolate Tofu Ice Cream
+    url: https://www.epicurious.com/recipes/food/views/chocolate-tofu-ice-cream-379381
+    note: 絹ごし豆腐をアイスのベースにする方法を参考に、黒糖と生クリームに変え、凍結中に混ぜてタピオカは別に調理します。
+  - label: 食品安全情報
+    name: Enjoying Homemade Ice Cream without the Risk of Salmonella Infection
+    url: https://www.fda.gov/food/buy-store-serve-safe-food/enjoying-homemade-ice-cream-without-risk-salmonella-infection
+    note: FDAは殺菌済み乳製品の使用を勧めています。生卵は使わず、そのまま食べられる表示の冷蔵豆腐を使い、低温を保ちます。
 intro: 絹ごし豆腐、生クリーム、黒糖を混ぜ、途中でかき混ぜながら冷凍します。短時間でゆでられるタピオカを添え、冷凍は最低4時間必要です。
 steps:
 - 豆腐の水気を切って冷やす。生クリーム 100ml、黒糖 30gと一緒にミキサーでなめらかにし、浅い冷凍対応容器に移す。
@@ -27,13 +36,13 @@ steps:
 tips:
 - そのまま食べられる冷蔵豆腐を使い、冷蔵と消費期限を守ります。
 - 浅い容器を使い、かき混ぜるたびに端の氷を中央へ混ぜ込みます。
-storage: 密閉して冷凍し、食感のため1週間程度を目安に食べてください。すくう前に数分室温に置きます。調理済みタピオカは別に冷蔵し、袋の保存方法に従ってください。
+storage: 殺菌済みの生クリームと、そのまま食べられる表示の冷蔵豆腐を使います。アイスは密閉冷凍し、食感のため約1週間以内を目安にします。タピオカは別に調理し、残りは表示に従って冷蔵します。
 substitutions: []
 relatedIngredients:
-- 嫩豆腐
-- 鮮奶油
-- 黑糖
-- 黑糖珍珠
+  - 絹ごし豆腐
+  - 生クリーム
+  - 黒糖
+  - 黒糖タピオカ
 customAdditions: []
 faqs:
 - question: 冷凍時間はどれくらいですか？
@@ -67,4 +76,4 @@ ingredients:
 seasonings: []
 ---
 
-絹ごし豆腐、生クリーム、黒糖を混ぜ、途中でかき混ぜながら冷凍します。短時間でゆでられるタピオカを添え、冷凍は最低4時間必要です。
+絹ごし豆腐をアイスのベースにする方法を参考に、黒糖と生クリームに変え、凍結中に混ぜてタピオカは別に調理します。タピオカは表示どおりに調理し、冷凍後に添えます。アイスと一緒に冷凍しません。

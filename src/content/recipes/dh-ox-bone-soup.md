@@ -1,65 +1,89 @@
 ---
-title: 霜降牛肉清湯
-description: 以現成牛肉高湯與薄切牛肉快速完成的家常湯品；這不是以牛骨長時間熬煮的雪濃湯。
+title: 韓式雪濃湯（牛骨湯）
+description: 牛骨與牛腩長時間熬成乳白湯底，搭配白蘿蔔與蔥；家用小批次約需 8 小時慢煮。
 coverImage: /images/recipes/dh-ox-bone-soup.webp
-servings: 2
-prepTime: 10
-cookTime: 10
-totalTime: 20
-difficulty: 簡單
+servings: 6
+prepTime: 30
+cookTime: 490
+totalTime: 520
+difficulty: 進階
 category: "湯品"
 scenarios:
-- 宵夜料理
+  - 高蛋白料理
 equipment:
-- 湯鍋
-- 湯碗
-- 細探針食物溫度計
+  - 大型厚底湯鍋
+  - 濾網
+  - 湯碗
 tags:
-- 家常湯品
-intro: 這是一道快速牛肉清湯，使用現成牛肉高湯與薄切牛肉，不宣稱還原餐廳配方或牛骨熬湯。
+  - 韓式料理
+  - 長時間燉煮
+references:
+  - label: 食譜來源
+    name: Maangchi — Ox-bone soup (Seolleongtang)
+    url: https://www.maangchi.com/recipe/seolleongtang
+    note: 參考汆燙洗淨牛骨、長時間熬至乳白、牛肉與蘿蔔先取出的做法；本站縮為家用小批次並重整水量和時間。
+  - label: 食品安全參考
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: FoodSafety.gov 官方指引：易腐食物應在 2 小時內冷藏；本文另依品項補充保存或加熱提醒。
+intro: 家用小批次雪濃湯以牛腿骨和牛腩慢熬，牛腩與蘿蔔先熟先取出，牛骨則繼續熬至湯色乳白。鹽與胡椒上桌後再調。
 steps:
-- 青蔥 1 根切蔥花；霜降牛肉片 150 克分開攤放，避免黏成一團。
-- 湯鍋加入牛肉高湯 400 毫升煮至沸騰，先試味；若高湯已鹹，先不要加鹽。
-- 轉中火讓湯維持微滾，分批放入牛肉片並煮至最厚處達 63°C；離火靜置 3 分鐘。不要以肉色代替溫度計判斷熟度。
-- 將牛肉與熱湯盛入碗中，撒上蔥花；試味後再酌量加鹽與黑胡椒，立即享用。
+  - 牛骨冷水浸泡 30 分鐘，中途換水一次；牛腩切大塊，白蘿蔔去皮切段，洋蔥去皮。
+  - 牛腿骨放入大鍋，加冷水淹過後煮沸 10 分鐘。倒掉汆燙水，以冷水沖洗牛腿骨並清洗鍋子，去除碎骨屑與浮沫。
+  - 洗淨的牛腿骨放回鍋中，加入 4 公升水（起始用）、牛腩、白蘿蔔與洋蔥煮至沸騰，撈去浮沫後轉小火，保持湯面輕微翻動。
+  - 慢煮約 2～2.5 小時，取出已熟的牛腩和蘿蔔；牛腩切片、蘿蔔切片並冷藏。牛骨繼續小火熬至約 8 小時，水位不足時補入熱水，維持牛骨浸在湯中。
+  - 以濾網濾出湯底，趁熱分裝到淺容器快速降溫，2 小時內冷藏。上桌時只取所需湯量煮沸，放入牛肉和蘿蔔加熱，撒蔥花，搭配鹽與黑胡椒調味。
 tips:
-- 使用無鹽或低鈉高湯，較容易調整鹹度。
-- 牛肉分批下鍋可避免湯溫驟降，也較容易煮熟均勻。
-storage: 牛肉湯最好現煮現吃。若有剩餘，2 小時內分裝冷藏；食用前將湯與牛肉重新加熱至至少 74°C。
+  - 用低火保持穩定小滾；大火翻滾會讓湯水蒸發過快。補水請用熱水，避免中斷熬煮。
+  - 一次煮多份時，湯底、牛肉和蘿蔔分開冷藏；大鍋湯不可整鍋放涼後才冷藏。
+storage: 湯底、牛肉和蘿蔔分裝淺盒，2 小時內冷藏於 4°C 以下，3 天內食用；較晚食用請冷凍。回熱時將湯和配料加熱至至少 74°C。
 substitutions: []
 relatedIngredients:
-- 霜降牛肉片
-- 牛肉高湯
-- 青蔥
+  - 牛腿骨
+  - 牛腩
+  - 白蘿蔔
+  - 青蔥
 customAdditions: []
 faqs:
-- question: 這道湯需要牛骨嗎？
-  answer: 不需要；這份家常做法使用現成牛肉高湯，不是長時間熬煮牛骨的雪濃湯。
-- question: 可以提前準備嗎？
-  answer: 可先切好蔥花並備妥高湯；牛肉建議上桌前再煮，口感較好。
+  - question: 為什麼要先汆燙牛骨？
+    answer: 先煮沸後倒掉水並沖洗，可去除部分血沫與碎骨屑，接著用乾淨的水熬湯。
+  - question: 一定要熬滿 8 小時嗎？
+    answer: 長時間小火熬煮有助湯底變成乳白色；鍋具和火力不同，可能需要更久，請以湯色與骨頭狀態為準。
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'
 ingredients:
-- name: 霜降牛肉片
-  amount: '150'
-  unit: 克
-  isCore: true
-- name: 牛肉高湯
-  amount: '400'
-  unit: 毫升
-  isCore: true
-- name: 青蔥
-  amount: '1'
-  unit: 根
-  isCore: true
+  - name: 牛腿骨
+    amount: '1500'
+    unit: 克
+    isCore: true
+  - name: 牛腩
+    amount: '800'
+    unit: 克
+    isCore: true
+  - name: 白蘿蔔
+    amount: '500'
+    unit: 克
+    isCore: true
+  - name: 洋蔥
+    amount: '1'
+    unit: 顆
+    isCore: false
+  - name: 青蔥
+    amount: '2'
+    unit: 根
+    isCore: false
+  - name: 水（起始用）
+    amount: '4000'
+    unit: 毫升
+    isCore: true
 seasonings:
-- name: 黑胡椒
-  amount: 適量
-  unit: ''
-- name: 鹽
-  amount: 適量
-  unit: ''
+  - name: 鹽
+    amount: 上桌調味
+    unit: ''
+  - name: 黑胡椒
+    amount: 上桌調味
+    unit: ''
 ---
 
-這道快速牛肉清湯以現成牛肉高湯和薄切牛肉製作。牛肉依溫度計確認熟度並靜置；這不是牛骨熬煮的雪濃湯，也不代表餐廳配方。
+這是以牛骨長時間熬煮的韓式雪濃湯家用小批次；牛肉與蘿蔔先取出冷藏，牛骨繼續熬至乳白。

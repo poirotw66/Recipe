@@ -5,9 +5,9 @@ description: A ground-beef patty with cheese, jalapeño, and lettuce; the patty
   center must reach 71°C / 160°F.
 coverImage: /images/recipes/sf-spicy-mexican-firecracker-burger.webp
 servings: 1
-prepTime: 15
+prepTime: 10
 cookTime: 15
-totalTime: 30
+totalTime: 25
 difficulty: Medium
 category: "Burgers & sandwiches"
 scenarios:
@@ -21,17 +21,10 @@ intro: Make a spicy burger with a ground-beef patty, cheese, jalapeño, and fres
   vegetables. Cook the ground beef to 71°C / 160°F at the center rather than
   judging by color.
 steps:
-  - Gently shape the ground beef into a patty slightly wider than the bun and
-    press a shallow dimple in the center. Season both sides with salt, pepper,
-    and chili powder.
-  - Heat the oil in a skillet over medium heat. Cook the patty for about 3–4
-    minutes, turn, and continue. Measure the center from the side; once it
-    reaches 71°C / 160°F, add the cheese. Continue cooking and recheck if
-    needed.
-  - Rest the patty for 1–2 minutes. Toast the bun cut side down, then layer
-    lettuce, tomato, the patty, cheese, and jalapeño on the bottom half.
-  - Cap with the bun and serve hot. Adjust the number of jalapeño slices to
-    taste.
+  - "Gently shape the beef into a patty slightly wider than the bun and press a shallow dimple in the center. Season both sides with salt, pepper, and chili powder."
+  - "Heat the oil in a skillet over medium-high until it shimmers. Cook the patty for about 3–4 minutes, then turn it. Toast the bun cut-side down at the edge of the pan for 2–3 minutes and remove."
+  - "Top the patty with pepper Jack and cover briefly to soften the cheese. Check the center from the side with a thermometer; remove only at 71°C / 160°F, continuing to cook and recheck if needed."
+  - "Layer lettuce, tomato, pickle, the patty, and pickled jalapeño on the bun. Serve hot."
 tips:
   - Use a thermometer to confirm 71°C / 160°F at the center of the ground-beef
     patty. Color, juices, and browning cannot replace this check.
@@ -50,28 +43,41 @@ faqs:
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29
+references:
+  - label: Recipe adaptation
+    name: "Southwestern Pickled Jalapeño Burger — Food Network"
+    url: https://www.foodnetwork.com/recipes/southwestern-pickled-jalape241o-burger-recipe-2131713
+    note: We adapt the pepper Jack, pickled jalapeño, and pan-toasted bun combination while keeping this page’s chili seasoning and fresh vegetables.
+  - label: Food-safety guidance
+    name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: The center of the ground-beef patty must reach 71°C / 160°F; do not judge by browning or color.
 ingredients:
-  - name: Ground beef
+  - name: "Ground beef"
     amount: "160"
     unit: g
     isCore: true
-  - name: Burger bun
+  - name: "Burger bun"
     amount: "1"
     unit: ""
     isCore: true
-  - name: Cheese slice
+  - name: "Pepper Jack cheese slice"
     amount: "1"
     unit: ""
     isCore: true
-  - name: Jalapeño slices
+  - name: "Pickled jalapeño slices"
     amount: "2"
-    unit: ""
+    unit: slices
     isCore: false
-  - name: Lettuce
+  - name: "Dill pickle chips"
+    amount: "2"
+    unit: slices
+    isCore: false
+  - name: "Lettuce"
     amount: "2"
     unit: leaves
     isCore: false
-  - name: Tomato
+  - name: "Tomato"
     amount: "2"
     unit: slices
     isCore: false

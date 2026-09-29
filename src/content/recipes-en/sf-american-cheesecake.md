@@ -18,6 +18,17 @@ equipment:
 - Food thermometer
 tags:
 - Baked dessert
+references:
+  - label: Recipe source
+    name: King Arthur Baking — Easy Cheesecake
+    url: https://www.kingarthurbaking.com/recipes/easy-cheesecake-recipe
+    note: Adapted from its baked cream-cheese filling and doneness guidance, scaled to a 6-inch
+      pan with a cookie crust and water bath.
+  - label: Food safety guidance
+    name: Safe Minimum Internal Temperature Chart
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: 'USDA guidance: egg dishes should reach 71°C / 160°F; refrigerate perishable food
+      within 2 hours.'
 intro: A 6-inch baked cheesecake with a sandwich-cookie crust and cream-cheese, egg, and cream filling. Allow cooling and refrigeration after baking; cut into eight small slices.
 steps:
 - Heat the oven to 320°F (160°C). Line the base of a 6-inch springform pan. Crush the cookies, mix with 50 g melted butter, press into the pan base, and chill.
@@ -27,13 +38,14 @@ steps:
 tips:
 - Soften cream cheese only enough to mix easily; avoid prolonged room-temperature storage.
 - Use a watertight pan for the water bath. Wrap a loose-bottom pan in foil against leaks, and keep water below the rim.
-storage: Keep covered at 4°C or below and eat within 3 days. Return slices to the refrigerator promptly instead of leaving the whole cake out.
+storage: Refrigerate within 2 hours of baking at 4°C / 40°F or below and use within 3 days.
+  Return slices promptly.
 substitutions: []
 relatedIngredients:
-- 奶油乳酪
-- 雞蛋
-- 鮮奶油
-- Oreo 餅乾
+  - Cream cheese
+  - Eggs
+  - Heavy cream
+  - Oreo cookies
 customAdditions: []
 faqs: []
 featured: false
@@ -67,4 +79,4 @@ ingredients:
 seasonings: []
 ---
 
-A 6-inch baked cheesecake with a sandwich-cookie crust and cream-cheese, egg, and cream filling. Allow cooling and refrigeration after baking; cut into eight small slices.
+Adapted from its baked cream-cheese filling and doneness guidance, scaled to a 6-inch pan with a cookie crust and water bath.

@@ -24,6 +24,13 @@ const restaurantSourceShape = z.object({
   region: z.string().min(1).optional()
 });
 
+const recipeReferenceShape = z.object({
+  label: z.string().min(1),
+  name: z.string().min(1),
+  url: z.string().url().refine((url) => url.startsWith("https://")),
+  note: z.string().min(1)
+});
+
 export function defineRecipeSchema(
   difficultyValues: readonly [string, ...string[]],
   withRecipeId: boolean
@@ -51,6 +58,7 @@ export function defineRecipeSchema(
       seasonings: z.array(seasoningShape),
       tags: z.array(z.string().min(1)).default([]),
       restaurantSource: restaurantSourceShape.optional(),
+      references: z.array(recipeReferenceShape).default([]),
       intro: z.string().min(1),
       steps: z.array(z.string().min(1)).min(3),
       tips: z.array(z.string().min(1)).default([]),

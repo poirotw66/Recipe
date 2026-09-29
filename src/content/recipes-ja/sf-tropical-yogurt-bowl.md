@@ -17,6 +17,15 @@ equipment:
   - 器
 tags:
   - 家庭料理
+references:
+  - label: 参考レシピ
+    name: Yakult UK — Tropical Yoghurt Bowl
+    url: https://www.yakult.co.uk/recipe/tropical-yoghurt-bowl/
+    note: ヨーグルト、果物、グラノーラを重ねる方法を参考に、マンゴー、バナナ、パイナップル、オーツを一人分にし、はちみつを加えています。
+  - label: 食品安全情報
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: FoodSafety.govの公的指針に基づき、傷みやすい食品は2時間以内に冷蔵します。食材別の保存・再加熱方法も記載しています。
 intro: プレーンヨーグルトをベースに果物とオーツの食感を加えた冷たいボウルです。オリーブ油や塩は使いません。
 steps:
   - マンゴーとパイナップルを一口大に切り、バナナを輪切りにします。切った果物は早めに冷蔵するか、すぐに盛り付けます。
@@ -24,7 +33,7 @@ steps:
   - 食べる直前にオーツクランチとはちみつを少量加えます。
 tips:
   - ヨーグルトと果物にのせたままにするとオーツが柔らかくなります。食べる直前に加えてください。
-storage: 盛り付けた果物とヨーグルトは早めに食べます。前もって準備する場合は別々に密閉して冷蔵し、切った果物は1日以内に使います。
+storage: ヨーグルトと切った果物は冷蔵し、果物は切った当日に使います。盛り付けたら早めに食べ、オーツは別に保存します。
 substitutions: []
 relatedIngredients:
   - 無糖プレーンヨーグルト
@@ -66,4 +75,4 @@ ingredients:
 seasonings: []
 ---
 
-プレーンヨーグルトにマンゴー、バナナ、パイナップル、オーツクランチ、はちみつを重ねます。オーツは果汁を吸わないよう最後に加えます。
+ヨーグルト、果物、グラノーラを重ねる方法を参考に、マンゴー、バナナ、パイナップル、オーツを一人分にし、はちみつを加えています。

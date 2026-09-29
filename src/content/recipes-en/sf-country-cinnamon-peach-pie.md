@@ -18,6 +18,17 @@ equipment:
 - Pie weights and baking paper
 tags:
 - Baked dessert
+references:
+  - label: Recipe source
+    name: King Arthur Baking — Summertime Peach Pie
+    url: https://www.kingarthurbaking.com/recipes/summertime-peach-pie-recipe
+    note: Adapted from its fresh-peach filling and bubbling-juice doneness cue, with a 20
+      cm double crust, cinnamon, and a smaller yield.
+  - label: Food safety guidance
+    name: Safe Minimum Internal Temperature Chart
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: 'USDA guidance: egg dishes should reach 71°C / 160°F; refrigerate perishable food
+      within 2 hours.'
 intro: Use thawed double pie crust and pitted peaches for a 20 cm pie. Cornstarch thickens the juices; cool for an hour before cutting six slices.
 steps:
 - Preheat the oven to 180°C. Slice 500 g pitted peaches and mix with 40 g sugar, 1 tsp cinnamon, and 20 g cornstarch.
@@ -27,13 +38,14 @@ steps:
 tips:
 - Peaches release different amounts of juice; let the filling bubble and cool before slicing.
 - Shield the crust edge with foil if it browns before the center filling is cooked.
-storage: Refrigerate the pie within 2 hours of baking and eat within 3 days; above 32°C refrigerate within 1 hour. Keep ice cream frozen separately and add only when serving.
+storage: Refrigerate within 2 hours and use within 3 days; refrigerate within 1 hour if above
+  32°C / 90°F. Keep ice cream frozen separately.
 substitutions: []
 relatedIngredients:
-- 蜜桃
-- 派皮
-- 肉桂粉
-- 玉米澱粉
+  - Peaches
+  - Pie crust
+  - Ground cinnamon
+  - Cornstarch
 customAdditions: []
 faqs: []
 featured: false
@@ -71,4 +83,4 @@ ingredients:
 seasonings: []
 ---
 
-Use thawed double pie crust and pitted peaches for a 20 cm pie. Cornstarch thickens the juices; cool for an hour before cutting six slices.
+Adapted from its fresh-peach filling and bubbling-juice doneness cue, with a 20 cm double crust, cinnamon, and a smaller yield.

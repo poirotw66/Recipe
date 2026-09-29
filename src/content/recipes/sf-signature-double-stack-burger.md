@@ -13,14 +13,16 @@ scenarios:
 equipment:
   - 平底鍋
   - 食物溫度計
+  - 寬鍋鏟
+  - 烘焙紙
 tags:
   - 家常料理
 intro: 以兩片牛絞肉肉餅、起司和新鮮蔬菜組成雙層漢堡。牛絞肉需以溫度計確認中心達 71°C，不能只看切面顏色。
 steps:
-  - 牛絞肉分成兩份，各自輕壓成薄肉餅，避免過度搓揉；兩面撒鹽和黑胡椒。
-  - 平底鍋中火加油，放入肉餅煎約 3 分鐘，翻面後續煎。用溫度計從側邊量每片肉餅中心，達 71°C 才起鍋；未達時續煎並再測。
-  - 麵包切面朝下乾煎至微脆。下層麵包放生菜、番茄、一片肉餅與一片起司，再疊第二片肉餅、另一片起司和酸黃瓜，蓋上麵包。
-  - 趁熱上桌；若起司未軟化，可蓋住熱肉餅短暫加熱。
+  - "牛絞肉分成兩份，各自輕捏成鬆散肉球，不要搓揉壓實。平底鍋中大火加少量油至油面發亮，放入肉球；用寬鍋鏟隔烘焙紙壓成薄肉餅，兩面撒鹽和黑胡椒。"
+  - "肉餅煎至底面焦香後翻面，每片放一片起司。從側邊量每片中心，均達 71°C 才起鍋；未達時續煎。起司融化後把兩片疊起。"
+  - "用同鍋乾煎麵包切面至微脆。底層依序放生菜、番茄、雙層起司肉餅和酸黃瓜，蓋上麵包。"
+  - "趁熱上桌；若要融化起司，可在肉餅翻面後短暫加蓋。"
 tips:
   - 薄肉餅熟得快，請逐片測中心溫度；牛絞肉中心需達 71°C，不要以表面上色或切面無粉紅判斷。
 storage: 肉餅和漢堡配料分開密封冷藏，2 小時內冷藏並於 3 天內食用；回熱肉餅時中心達 74°C。
@@ -35,6 +37,15 @@ faqs:
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29
+references:
+  - label: 配方參考
+    name: "Double-Stack Smash Burger Alfresco — Epicurious"
+    url: https://www.epicurious.com/recipes/food/views/double-stack-smash-burger-alfresco-with-cheese
+    note: 參考薄肉餅壓煎後雙層堆疊的作法，改成室內平底鍋與一人份；高溫煎香仍須以溫度計確認熟度。
+  - label: 食安基準
+    name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: 兩片牛絞肉肉餅都要分別測量中心，至少達 71°C。
 ingredients:
   - name: 牛絞肉
     amount: "180"

@@ -21,16 +21,10 @@ intro: Stir-fry sliced pork loin with dried apricots and cooked rice, balancing
   the fruit with soy sauce. Check the thickest pork slice, rest it, then return
   it to the rice.
 steps:
-  - Cut the pork loin into slices about 1 cm thick. Dice the apricots, slice the
-    scallion, and mince the garlic.
-  - Heat the oil in a skillet over medium heat. Cook the pork in one layer.
-    Check the thickest slice; once it reaches 63°C / 145°F, remove it and rest
-    for at least 3 minutes. Continue cooking and recheck if needed.
-  - In the same pan, cook the garlic and apricots for about 30 seconds. Add the
-    cooked rice and soy sauce; break up clumps and heat until steaming
-    throughout.
-  - Return the pork and any resting juices to the pan and toss to combine.
-    Finish with scallion and black pepper.
+  - "Cut the pork loin into similar slices about 1 cm thick. Dice the apricots, slice the scallion, mince the garlic, and grate the ginger."
+  - "Heat the oil in a skillet over medium heat. Cook the pork in one layer; check the thickest slice and remove it at 63°C / 145°F. Rest for at least 3 minutes. Continue cooking and recheck if needed."
+  - "In the same pan, cook the garlic, ginger, and apricots for about 30 seconds. Add the rice, soy sauce, and rice vinegar; break up clumps and heat until steaming throughout."
+  - "Return the pork and any resting juices to the pan and toss to combine. Finish with scallion and black pepper."
 tips:
   - Keep the pork slices a similar thickness and check the thickest one for 63°C
     / 145°F, followed by a 3-minute rest. If using ground pork instead, cook it
@@ -50,36 +44,52 @@ faqs:
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29
+references:
+  - label: Recipe adaptation
+    name: "Pork & Apricot Fried Rice — The Nibble (Chef Ingrid Hoffmann)"
+    url: https://blog.thenibble.com/2016/02/07/recipe-pork-apricot-fried-rice/
+    note: We keep the source’s pork-and-dried-apricot pairing but use cooked rice for a quick stir-fry; ginger and rice vinegar echo its aromatic and tart notes in a one-serving portion.
+  - label: Food-safety guidance
+    name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: Whole-cut pork must reach 63°C / 145°F and rest for at least 3 minutes; ground pork has a different endpoint.
 ingredients:
-  - name: Pork loin
+  - name: "Pork loin"
     amount: "150"
     unit: g
     isCore: true
-  - name: Cooked white rice
+  - name: "Cooked white rice"
     amount: "200"
     unit: g
     isCore: true
-  - name: Dried apricots
+  - name: "Dried apricots"
     amount: "25"
     unit: g
     isCore: true
-  - name: Scallion
+  - name: "Scallion"
     amount: "1"
     unit: ""
     isCore: false
-  - name: Garlic
+  - name: "Garlic"
     amount: "1"
     unit: clove
     isCore: false
+  - name: "Fresh ginger"
+    amount: "1"
+    unit: tsp, grated
+    isCore: false
 seasonings:
-  - name: Soy sauce
+  - name: "Soy sauce"
     amount: "1"
     unit: tbsp
-  - name: Neutral oil
+  - name: "Neutral oil"
     amount: "1"
     unit: tbsp
-  - name: Black pepper
-    amount: to taste
+  - name: "Rice vinegar"
+    amount: "1"
+    unit: tsp
+  - name: "Black pepper"
+    amount: "to taste"
     unit: ""
 ---
 

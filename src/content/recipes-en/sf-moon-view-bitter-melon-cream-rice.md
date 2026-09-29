@@ -15,25 +15,17 @@ scenarios:
 equipment:
   - Skillet
   - Spatula
+  - Small saucepan
 tags:
   - Home cooking
 intro: This single-serving fried rice uses a little cream for a rounder texture.
   Cook the egg until fully set and its center reaches 71°C / 160°F; it is not
   mixed in raw or cooked by residual rice heat.
 steps:
-  - Remove the seeds from the bitter melon and slice it thinly. Slice the
-    scallion. Beat the egg with the cream.
-  - Heat the oil in a skillet over medium heat. Cook the bitter melon for 3–4
-    minutes until softened; add a teaspoon of water if the pan gets dry.
-  - Add the rice, salt, and pepper and break up any clumps. Push the rice to the
-    side of the pan and pour in the egg mixture. Stir and fold it into a thicker,
-    compact curd. Measure the center of its thickest part with a thermometer
-    (if the curd is thin, insert the probe from the side so its sensing area
-    reaches the center) and confirm it reaches 71°C / 160°F, is fully set, and
-    has no liquid egg. Break the curd into
-    smaller pieces, fold it through the rice, and heat until the whole dish is
-    steaming.
-  - Top with scallion and serve hot.
+  - "Halve the bitter melon lengthwise, remove the seeds and white pith, then slice thinly. Slice the scallion. Bring a small pot of lightly salted water to a boil; blanch the melon for 30 seconds and drain. Beat the egg with the cream."
+  - "Heat the oil in a skillet over medium heat. Stir-fry the melon for 1–2 minutes to drive off surface moisture; add a teaspoon of water if the pan gets dry."
+  - "Add the rice, salt, and pepper and break up clumps. Push the rice to one side and pour the egg mixture into the open space. Scramble into soft, larger curds; measure the thickest center and cook to 71°C / 160°F until fully set. Break up the egg, fold it through the rice, and heat until the whole dish is steaming."
+  - "Top with scallion and serve hot."
 tips:
   - Soften the bitter melon before adding the rice. Cook the egg until its
     center reaches 71°C / 160°F and it is fully set. If using chilled leftover
@@ -53,6 +45,15 @@ faqs:
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29
+references:
+  - label: Recipe adaptation
+    name: "Bitter Melon with Eggs — The Woks of Life"
+    url: https://thewoksoflife.com/bitter-melon-with-eggs/
+    note: This is our one-serving cream egg fried rice, adapting the home-style bitter melon and egg pairing. The rice, quantities, and cooking order are original to this page; it is not an official restaurant recipe.
+  - label: Food-safety guidance
+    name: "What Is a Safe Internal Temperature for Food Made with Eggs? — USDA FSIS"
+    url: https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs
+    note: Cook egg dishes to at least 71°C / 160°F; this recipe also requires fully set egg.
 ingredients:
   - name: Cooked white rice
     amount: "200"

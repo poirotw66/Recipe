@@ -15,15 +15,16 @@ scenarios:
 equipment:
 - 찜기 또는 뚜껑 있는 냄비
 - 식품 온도계
+- 내열 소형 그릇 2개
 tags:
 - 가정식
 - 계란찜
 intro: 달걀 2개와 육수 200ml를 섞어 중심까지 익힌 뒤 치즈와 바로 먹을 수 있는 익힌 알을 올립니다.
 steps:
-- 달걀 2개를 풀고 육수 200ml와 소금 약간을 섞어 체에 거른 뒤 뚜껑 있는 내열 그릇에 붓는다.
-- 찜기나 물을 끓인 냄비의 받침 위에 그릇을 놓고 약불에서 10~15분 찐다. 계란찜이 굳고 중심 온도가 식품 온도계로 71°C 이상인지 확인한다. 부족하면 더 찌고 다시 잰다.
-- 불을 끄고 체더 치즈 1장을 올린 뒤 뚜껑을 덮어 녹인다.
-- 바로 먹을 수 있는 익힌 날치알 30g, 참기름 약간, 대파를 올려 뜨겁게 낸다.
+- "달걀을 풀어 식힌 육수와 소금을 약간 섞습니다. 체에 걸러 내열 소형 그릇 두 개에 나눠 담습니다."
+- "찜기 물을 약하게 끓입니다. 그릇을 뚜껑이나 내열 접시로 덮고 약 12~18분 찝니다. 중심이 굳고 71°C 이상인지 확인합니다. 덜 익었으면 더 찌고 다시 측정합니다."
+- "뚜껑을 열고 뜨거울 때 체더치즈를 한 장씩 올립니다. 다시 잠시 덮어 치즈를 부드럽게 녹입니다."
+- "바로 먹을 수 있다고 표시된 익힌 날치알, 참기름 약간, 쪽파를 올려 따뜻할 때 냅니다."
 tips:
 - 육수는 식힌 뒤 달걀과 섞어 덩어리가 생기지 않게 하세요.
 - 그릇을 덮어 물방울이 떨어지지 않게 하고 약하게 쪄 큰 구멍을 줄이세요.
@@ -41,6 +42,15 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-29"
+references:
+  - label: 레시피 참고
+    name: "Japanese Steamed Egg Custard — Gorenje Hong Kong recipe book"
+    url: https://www.gorenje.hk/en/files/default/markets/hong_kong/catalogues/Gorenje-Recipe-Book_HK.pdf
+    note: 달걀물을 체에 거르고 그릇에 나눠 덮어 찐 뒤 마지막에 날치알을 올리는 차완무시 방식을 참고했습니다. 이 버전은 체더치즈를 더하고 중심 온도를 확인합니다.
+  - label: 식품 안전 안내
+    name: "What Is a Safe Internal Temperature for Food Made with Eggs? — USDA FSIS"
+    url: https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs
+    note: 달걀물 중심을 71°C 이상으로 익히고, 날치알은 바로 먹을 수 있다고 표시된 제품을 사용하세요.
 ingredients:
 - name: 달걀
   amount: '2'

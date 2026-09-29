@@ -4,8 +4,8 @@ description: 兩個迷你牛肉堡搭配全熟煎蛋；牛絞肉中心需達 71�
 coverImage: /images/recipes/sf-mini-beef-egg-burger-set.webp
 servings: 1
 prepTime: 10
-cookTime: 20
-totalTime: 30
+cookTime: 22
+totalTime: 32
 difficulty: 簡單
 category: "兒童餐"
 scenarios:
@@ -17,12 +17,12 @@ tags:
   - 家常料理
 intro: 小份量漢堡以牛絞肉、全熟蛋和起司組成。牛絞肉需以溫度計確認中心達 71°C，不用肉色判斷熟度。
 steps:
-  - 牛絞肉分成兩份，輕壓成略大於麵包的肉餅，中間按出淺凹；兩面撒鹽和黑胡椒。
-  - 平底鍋以中火加熱食用油，放入肉餅煎約 3～4 分鐘，翻面續煎。從側面量最厚處中心，達 71°C 後起鍋；未達則續煎再測。
-  - 同鍋煎蛋，蛋白和蛋黃都凝固後取出。麵包切面朝下略烤，依序放生菜、番茄、肉餅、起司和煎蛋。
-  - 分成兩份上桌；若起司未融，可在熱肉餅上加蓋短暫悶熱。
+  - "洋蔥切細末。取半顆蛋打散，和牛絞肉、乾燥麵包粉、洋蔥、鹽及黑胡椒拌至剛好均勻，不要揉緊；分成兩份，輕壓成略大於麵包的肉餅，中央按出淺凹。"
+  - "平底鍋中火加油，肉餅單層煎約 3～4 分鐘後翻面續煎。從側面量每片最厚處中心；各自達 71°C 才起鍋，未達則續煎並重測。"
+  - "用剩下的蛋在同鍋煎至蛋白、蛋黃都凝固。麵包切面略烤，依序放生菜、番茄、肉餅、起司和煎蛋；兩份分開組裝。"
+  - "若起司未融，可在熱肉餅上加蓋短暫悶熱；趁熱上桌。"
 tips:
-  - 牛絞肉不能以表面焦色或切面顏色判斷安全熟度；肉餅中心需達 71°C。蛋也應煎至蛋白和蛋黃凝固。
+  - 牛絞肉不能以表面焦色或切面顏色判斷安全熟度；肉餅中心需達 71°C。用剩餘蛋液煎的蛋也要完全凝固。
 storage: 熟肉餅與配料分開冷藏，2 小時內放冰箱並於 3 天內食用；牛肉餅回熱至中心 74°C。
 substitutions: []
 relatedIngredients:
@@ -36,28 +36,45 @@ faqs:
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29
+references:
+  - label: 配方參考
+    name: "Mini Beef Burgers — Foodland Ontario"
+    url: https://www.ontario.ca/foodland/recipes/mini-beef-burgers
+    note: 牛絞肉、麵包粉、洋蔥和半顆蛋拌成肉餅，參考迷你牛肉堡的常見做法；另一半蛋仍煎熟作為配料。
+  - label: 食安基準
+    name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: 每一片牛絞肉肉餅中心需達 71°C；顏色不能代替測溫。
 ingredients:
-  - name: 牛絞肉
+  - name: "牛絞肉"
     amount: "150"
     unit: 公克
     isCore: true
-  - name: 迷你漢堡麵包
+  - name: "迷你漢堡麵包"
     amount: "2"
     unit: 個
     isCore: true
-  - name: 雞蛋
+  - name: "雞蛋"
     amount: "1"
     unit: 顆
     isCore: true
-  - name: 起司片
+  - name: "乾燥麵包粉"
+    amount: "1"
+    unit: 大匙
+    isCore: false
+  - name: "洋蔥"
+    amount: "15"
+    unit: 公克
+    isCore: false
+  - name: "起司片"
     amount: "2"
     unit: 片
     isCore: false
-  - name: 生菜
+  - name: "生菜"
     amount: "2"
     unit: 片
     isCore: false
-  - name: 番茄
+  - name: "番茄"
     amount: "2"
     unit: 片
     isCore: false

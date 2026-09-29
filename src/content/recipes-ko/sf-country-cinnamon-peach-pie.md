@@ -18,6 +18,15 @@ equipment:
 - 누름돌과 유산지
 tags:
 - 구운 디저트
+references:
+  - label: 레시피 참고
+    name: King Arthur Baking — Summertime Peach Pie
+    url: https://www.kingarthurbaking.com/recipes/summertime-peach-pie-recipe
+    note: 복숭아 필링 농도와 과즙이 끓어오르는 익힘 기준을 참고해 20cm 시판 더블 크러스트와 계피로 작은 분량을 구성했습니다.
+  - label: 식품 안전 안내
+    name: Safe Minimum Internal Temperature Chart
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: 'USDA 안내: 달걀 요리는 중심 온도 71°C 이상, 상하기 쉬운 음식은 조리 후 2시간 안에 냉장합니다.'
 intro: 해동한 파이지 2장과 씨를 뺀 복숭아로 20cm 파이를 만듭니다. 옥수수전분으로 과즙을 걸쭉하게 하고 1시간 식힌 뒤 6조각으로 자릅니다.
 steps:
 - 오븐을 180°C로 예열한다. 씨를 뺀 복숭아 500g을 썰고 설탕 40g, 계피 1작은술, 옥수수전분 20g과 섞는다.
@@ -27,13 +36,13 @@ steps:
 tips:
 - 복숭아마다 수분이 다르므로 속이 끓어오르게 굽고 식힌 뒤 자르세요.
 - 가장자리가 먼저 갈색이 되면 호일로 가리고 중앙까지 굽습니다.
-storage: 구운 뒤 2시간 이내 (실내 32°C 초과 시 1시간 이내)에 냉장하고 3일 이내에 먹습니다. 아이스크림은 따로 냉동하고 먹을 때만 올리세요.
+storage: 구운 뒤 2시간 안에 냉장하고 3일 안에 먹습니다. 실내가 32°C보다 더우면 1시간 안에 냉장합니다. 아이스크림은 따로 냉동합니다.
 substitutions: []
 relatedIngredients:
-- 蜜桃
-- 派皮
-- 肉桂粉
-- 玉米澱粉
+  - 복숭아
+  - 파이 크러스트
+  - 계핏가루
+  - 옥수수전분
 customAdditions: []
 faqs: []
 featured: false
@@ -71,4 +80,4 @@ ingredients:
 seasonings: []
 ---
 
-해동한 파이지 2장과 씨를 뺀 복숭아로 20cm 파이를 만듭니다. 옥수수전분으로 과즙을 걸쭉하게 하고 1시간 식힌 뒤 6조각으로 자릅니다.
+복숭아 필링 농도와 과즙이 끓어오르는 익힘 기준을 참고해 20cm 시판 더블 크러스트와 계피로 작은 분량을 구성했습니다.

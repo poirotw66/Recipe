@@ -16,6 +16,15 @@ equipment:
   - 프라이팬
 tags:
   - 집밥
+references:
+  - label: 레시피 참고
+    name: Bon Appétit — Balsamic Mushroom and Sausage Pasta
+    url: https://www.bonappetit.com/recipe/balsamic-mushroom-and-sausage-pasta
+    note: 버섯을 볶고 발사믹 식초와 면수로 풍미를 모으는 방법을 참고해 1인분 고기 없는 레시피로 양을 다시 구성했습니다.
+  - label: 식품 안전 안내
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: FoodSafety.gov 공식 안내에 따라 상하기 쉬운 음식은 2시간 안에 냉장합니다. 재료별 보관과 재가열 방법도 안내합니다.
 intro: 버섯과 발사믹 식초로 맛을 낸 1인분 파스타입니다. 날달걀은 쓰지 않고, 면수를 조금 남겨 소스가 면에 잘 묻도록 합니다.
 steps:
   - 버섯을 썰고 마늘을 다집니다. 파스타를 포장지에 적힌 시간대로 삶습니다. 물을 버리기 전에 면수 1/2컵 정도를 덜어 둡니다.
@@ -25,7 +34,7 @@ steps:
   - 불을 끄고 파마산 치즈, 소금, 후추를 넣어 섞은 뒤 간을 보고 따뜻할 때 냅니다.
 tips:
   - 버섯 수분이 날아가도록 한 겹으로 펼쳐 두었다가 볶습니다. 면수는 조금씩 넣어 소스가 묽어지지 않게 하세요.
-storage: 남은 음식은 2시간 안에 냉장하고 3일 안에 먹습니다. 팬에 물을 조금 넣고 전체가 뜨거워질 때까지 데웁니다.
+storage: 남은 음식은 조리 후 2시간 안에 냉장하고 3일 안에 먹습니다. 물을 조금 넣고 전체가 김이 날 때까지 데웁니다.
 substitutions: []
 relatedIngredients:
   - 파스타
@@ -69,4 +78,4 @@ seasonings:
     unit: ""
 ---
 
-버섯의 수분을 먼저 날린 뒤 발사믹 식초와 면수를 조금 넣어 가벼운 소스를 만듭니다. 이 조리법에는 날달걀이 들어가지 않습니다.
+버섯을 볶고 발사믹 식초와 면수로 풍미를 모으는 방법을 참고해 1인분 고기 없는 레시피로 양을 다시 구성했습니다.

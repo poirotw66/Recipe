@@ -18,6 +18,17 @@ equipment:
   - Bowl
 tags:
   - Home cooking
+references:
+  - label: Recipe source
+    name: Yakult UK — Tropical Yoghurt Bowl
+    url: https://www.yakult.co.uk/recipe/tropical-yoghurt-bowl/
+    note: Adapted from its layered yogurt, fruit, and granola format as one serving with mango,
+      banana, pineapple, oat clusters, and honey.
+  - label: Food safety guidance
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: 'Official FoodSafety.gov guidance: refrigerate perishable foods within 2 hours;
+      the recipe adds item-specific storage or reheating cues.'
 intro: This chilled fruit bowl is built on plain yogurt, with fruit and oat
   clusters for texture. It contains no olive oil or salt.
 steps:
@@ -30,9 +41,8 @@ steps:
 tips:
   - Oat clusters soften if left on the yogurt and fruit. Add them right before
     eating.
-storage: Eat an assembled fruit-and-yogurt bowl promptly. If prepping ahead,
-  refrigerate the fruit and yogurt separately in sealed containers and use the
-  cut fruit within 1 day.
+storage: Keep yogurt and cut fruit refrigerated and use cut fruit the same day. Eat assembled
+  promptly; store oat clusters separately.
 substitutions: []
 relatedIngredients:
   - Plain unsweetened yogurt
@@ -75,4 +85,4 @@ ingredients:
 seasonings: []
 ---
 
-Plain yogurt forms the base, with mango, banana, pineapple, oat clusters, and honey on top. Add the oats last to keep them from soaking up fruit juices.
+Adapted from its layered yogurt, fruit, and granola format as one serving with mango, banana, pineapple, oat clusters, and honey.

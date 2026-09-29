@@ -17,6 +17,15 @@ equipment:
   - 볼
 tags:
   - 집밥
+references:
+  - label: 레시피 참고
+    name: Love & Lemons — Roasted Veggie Grain Bowl
+    url: https://www.loveandlemons.com/grain-bowl/
+    note: 퀴노아, 병아리콩, 구운 채소 구성에서 착안해 콜리플라워와 레몬 드레싱, 아보카도를 넣은 1인분으로 재구성했습니다.
+  - label: 식품 안전 안내
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: FoodSafety.gov 공식 안내에 따라 상하기 쉬운 음식은 2시간 안에 냉장합니다. 재료별 보관과 재가열 방법도 안내합니다.
 intro: 퀴노아를 익히고 콜리플라워와 병아리콩을 오븐에 구워 따뜻하게 만든 뒤 아보카도와 레몬 드레싱을 곁들입니다. 영양 수치나 체중 감량
   효과를 주장하지 않습니다.
 steps:
@@ -28,7 +37,7 @@ steps:
   - 볼에 퀴노아, 구운 채소, 병아리콩, 아보카도, 토마토를 담고 레몬 드레싱을 뿌려 냅니다.
 tips:
   - 퀴노아와 토핑은 따로 익힌 뒤 먹기 직전에 담습니다. 콜리플라워가 크면 가운데까지 부드러워질 때까지 더 구우세요.
-storage: 퀴노아, 구운 채소, 병아리콩은 따로 밀폐해 2시간 안에 냉장하고 3일 안에 먹습니다. 아보카도는 먹기 직전에 자릅니다.
+storage: 익힌 퀴노아, 콜리플라워, 병아리콩은 2시간 안에 따로 냉장하고 3일 안에 먹습니다. 김이 날 때까지 데우고 아보카도와 토마토는 직전에 자릅니다.
 substitutions: []
 relatedIngredients:
   - 퀴노아
@@ -79,4 +88,4 @@ seasonings:
     unit: ""
 ---
 
-퀴노아는 약 15분 끓인 뒤 뚜껑을 덮고 5분 뜸 들입니다. 채소도 오븐에서 약 20분 구워야 하므로 전체 조리 시간은 퀴노아만 익히는 시간보다 깁니다.
+퀴노아, 병아리콩, 구운 채소 구성에서 착안해 콜리플라워와 레몬 드레싱, 아보카도를 넣은 1인분으로 재구성했습니다.

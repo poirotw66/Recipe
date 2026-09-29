@@ -1,8 +1,8 @@
 ---
 title: Cordon Bleu Pork Burger
 recipeId: sf-asahi-cordon-bleu-pork-burger
-description: A homemade pork cordon bleu cutlet with ham and cheese, baked to a
-  measured safe temperature and served in a bun.
+description: Thin pork loin stuffed with ham and cheese, breaded, browned, and
+  baked for a burger; cook both pork and filling centers to 74°C / 165°F.
 coverImage: /images/recipes/sf-asahi-cordon-bleu-pork-burger.webp
 servings: 1
 prepTime: 20
@@ -18,25 +18,25 @@ equipment:
   - Food thermometer
 tags:
   - Home cooking
-intro: Wrap ham and cheese in a pork cutlet, bread it, and bake it through
-  before assembling the burger. Use a thermometer to check the pork rather than
-  relying on color or melted cheese.
+intro: Inspired by pork cordon bleu’s ham-cheese filling and breaded cutlet,
+  this version sears the cutlet, finishes it in the oven, and serves it in a
+  burger bun.
 steps:
-  - Heat the oven to 200°C / 400°F. Cover the pork with plastic wrap and gently
-    pound it to about 1 cm thick. Season with salt and pepper, place the ham and
-    cheese in the center, fold, and press the edges closed.
-  - Coat the pork in flour, beaten egg, and breadcrumbs. Heat the oil in a
-    skillet over medium heat and brown both sides, about 2 minutes per side.
-  - Bake on a tray for about 10–15 minutes. Insert a thermometer from the side
-    into the thickest pork section and the center of the ham-and-cheese filling.
-    Remove only when both reach 74°C / 165°F; continue baking and recheck if
-    either is lower.
-  - Toast the cut side of the bun. Add lettuce, tomato, and the pork cutlet,
-    then serve hot.
+  - Heat the oven to 200°C / 400°F. Place the pork between sheets of wrap and
+    gently pound to about 1 cm thick. Season both sides; put the ham and cheese
+    in the center, fold over, and press the edges closed.
+  - Coat in flour, beaten egg, then breadcrumbs. Heat oil in a skillet over
+    medium heat and brown for about 2 minutes per side.
+  - Transfer to a baking tray and bake about 10–15 minutes. Insert a thermometer
+    from the side into the thickest pork and into the center of the ham-cheese
+    filling; both must reach 74°C / 165°F. Continue baking and recheck if
+    needed.
+  - Toast the cut side of the bun. Layer with lettuce, tomato, and the hot
+    cutlet, then serve.
 tips:
-  - "This is stuffed pork: both the thickest pork section and the center of the
-    filling must reach 74°C / 165°F. The 63°C / 145°F plus rest guidance for
-    intact, unstuffed pork does not apply."
+  - Seal the edges firmly to limit cheese leakage. Because this is stuffed pork,
+    use the conservative 74°C / 165°F endpoint for both meat and filling rather
+    than judging by color.
 storage: Refrigerate the cooked cutlet and bun separately within 2 hours and use
   within 3 days. Reheat the cutlet to 74°C / 165°F.
 substitutions: []
@@ -101,6 +101,17 @@ seasonings:
   - name: Black pepper
     amount: to taste
     unit: ""
+references:
+  - label: Recipe inspiration
+    name: Pork Cordon Bleu — Great British Chefs
+    url: https://www.greatbritishchefs.com/recipes/pork-cordon-bleu-recipe
+    note: Adapts the pork, ham, cheese, and breaded-cutlet structure into a
+      thin-loin burger with a skillet sear and oven finish.
+  - label: Food safety
+    name: Stuffing and Food Safety — USDA FSIS
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/stuffing-and-food-safety
+    note: Check both the thickest pork and filling centers with a thermometer for
+      74°C / 165°F.
 ---
 
-Ham and cheese are folded inside a thin pork cutlet, which is browned before it finishes in the oven. Oven time varies with thickness, so use the internal temperature as the doneness check.
+This home burger adaptation uses the ham-cheese filling and breading idea from pork cordon bleu; it is not a specific restaurant recipe. Timings have not been kitchen-tested.

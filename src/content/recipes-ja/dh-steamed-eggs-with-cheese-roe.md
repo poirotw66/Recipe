@@ -15,15 +15,16 @@ scenarios:
 equipment:
 - 蒸し器またはふた付き鍋
 - 食品用温度計
+- 耐熱の小鉢 2 個
 tags:
 - 家庭料理
 - 蒸し卵
 intro: 卵2個とだし200mlを合わせ、中心まで蒸し固めてからチーズと加熱済みの魚卵を加えます。
 steps:
-- 卵 2個を溶き、だし 200mlと少量の塩を混ぜてこし、ふたのできる耐熱容器に入れる。
-- 蒸し器または湯を張った鍋に容器を置き、弱火で約10～15分蒸す。固まり、温度計で中心が71°C以上になったことを確認する。足りなければ蒸し続けて再確認する。
-- 火を止めてチェダーチーズ 1枚をのせ、ふたをして溶かす。
-- そのまま食べられる加熱済み飛び魚卵 30g、ごま油少量、青ねぎをのせて熱いうちに食べる。
+- "卵を溶き、冷ましただしと塩少々を混ぜます。こして耐熱の小さな器2つに分けます。"
+- "蒸し器の湯を弱く沸かします。器にふたまたは耐熱皿をかぶせ、約12～18分蒸します。中心が固まり、71°C以上になったことを確認します。未達なら蒸し続けて再測定します。"
+- "ふたを取り、熱いうちにチェダーチーズを1枚ずつのせます。再びふたをして短時間蒸らし、チーズを柔らかくします。"
+- "そのまま食べられる表示の加熱済み飛び魚卵、ごま油少々、青ねぎをのせ、熱いうちに食べます。"
 tips:
 - だしを冷ましてから卵と混ぜ、固まりができるのを防ぎます。
 - 器を覆って水滴を防ぎ、強火を避けて静かに蒸します。
@@ -41,6 +42,15 @@ faqs:
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-29"
+references:
+  - label: レシピの参考
+    name: "Japanese Steamed Egg Custard — Gorenje Hong Kong recipe book"
+    url: https://www.gorenje.hk/en/files/default/markets/hong_kong/catalogues/Gorenje-Recipe-Book_HK.pdf
+    note: 卵液をこして器に分け、ふたをして蒸し、最後に魚卵をのせる茶碗蒸しの流れを参考にしました。本ページではチェダーを加え、中心温度も確認します。
+  - label: 食品安全の基準
+    name: "What Is a Safe Internal Temperature for Food Made with Eggs? — USDA FSIS"
+    url: https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs
+    note: 卵液は中心を71°C以上にします。とびこはそのまま食べられる製品を使います。
 ingredients:
 - name: 卵
   amount: '2'

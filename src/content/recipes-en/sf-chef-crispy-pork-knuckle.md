@@ -11,7 +11,7 @@ totalTime: 60
 difficulty: Advanced
 category: "Main plates"
 scenarios:
-  - Food to share
+  - High-protein meals
 equipment:
   - Oven
   - Baking tray
@@ -23,18 +23,10 @@ intro: This recipe is for a pork knuckle labeled fully cooked; the oven step
   reheats it and crisps the skin. Do not use this timing for raw pork knuckle,
   which needs a separate long-cooking method.
 steps:
-  - Check that the pork knuckle is labeled fully cooked. If frozen, thaw it
-    completely as directed on the package. Heat the oven to 220°C / 425°F.
-  - Halve the potatoes, toss with a little oil, and roast for 15 minutes. Place
-    the pork knuckle skin-side up on the tray and follow its package reheating
-    directions.
-  - Add the corn. Check the potatoes for tenderness and the corn for heat;
-    remove each side when ready and keep it warm, even if the pork needs more
-    time. Continue reheating the pork as directed on the package until its
-    thickest part reaches 74°C / 165°F. Briefly use the broiler to crisp the
-    skin if needed, watching closely.
-  - Warm the sauerkraut in a small pan. Rest the pork briefly after it reaches
-    temperature, then serve with potatoes, corn, sauerkraut, and mustard.
+  - "Check that the pork knuckle is labeled fully cooked; thaw frozen product completely as directed on the package. Pat the skin dry. Preheat the oven to the package temperature, or 180°C / 350°F if no oven direction is given."
+  - "Halve the potatoes, toss with a little oil, and roast until they begin to soften, about 15 minutes. Add the knuckle skin-side up and the corn, following the package heating directions. Remove sides once tender and hot through."
+  - "Reheat the knuckle for the package time and check the thickest center for 74°C / 165°F. If the skin is still soft, broil for 2–4 minutes to crisp it, watching closely to prevent scorching."
+  - "Warm the sauerkraut. Rest the knuckle for a few minutes, then serve with the potatoes, corn, sauerkraut, and mustard."
 tips:
   - Buy a product labeled fully cooked. Reheating time varies by weight and
     package; check for 74°C / 165°F at the center before serving.
@@ -53,6 +45,15 @@ faqs:
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29
+references:
+  - label: Recipe adaptation
+    name: "Crispy Pork Knuckle (Czech Veprove Koleno) — Cook Like Czechs"
+    url: https://www.cooklikeczechs.com/pork-knuckle-recipe/
+    note: We adapt the source’s two-stage idea of slow heating followed by high heat for crisp skin, but this recipe reheats a fully cooked product rather than roasting raw knuckle.
+  - label: Food-safety guidance
+    name: "Leftovers and Food Safety — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+    note: This method is only for pork knuckle labeled fully cooked; follow its package directions and reheat the center to 74°C / 165°F.
 ingredients:
   - name: Fully cooked pork knuckle
     amount: "700"

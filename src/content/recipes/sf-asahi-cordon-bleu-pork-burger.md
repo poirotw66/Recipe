@@ -1,6 +1,6 @@
 ---
 title: 藍帶豬排起司堡
-description: 以豬里肌、火腿與起司自製藍帶豬排，烤至安全熟度後夾入麵包。
+description: 薄豬里肌包入火腿和起司，裹粉煎上色後烤熟再夾入漢堡；豬肉與內餡中心均須達 74°C。
 coverImage: /images/recipes/sf-asahi-cordon-bleu-pork-burger.webp
 servings: 1
 prepTime: 20
@@ -16,14 +16,14 @@ equipment:
   - 食物溫度計
 tags:
   - 家常料理
-intro: 這份漢堡把火腿與起司包進豬里肌，再以麵包粉烤成外酥內熱的豬排；中心溫度和靜置時間決定熟度。
+intro: 參考豬肉藍帶排的火腿起司填餡與裹粉流程，改成先煎上色、再烤熟，最後組成漢堡。
 steps:
-  - 烤箱預熱至 200°C。豬肉用保鮮膜隔著輕敲至約 1 公分厚，撒鹽和黑胡椒；中央放火腿、起司後折起，壓緊邊緣。
-  - 依序裹麵粉、打散的雞蛋和麵包粉。平底鍋加橄欖油，中火將兩面各煎約 2 分鐘至金黃。
-  - 移到烤盤烤約 10～15 分鐘。從側面測量豬肉最厚處，以及火腿和起司內餡中心；兩處都達 74°C 才取出。未達時續烤並再次測量。
-  - 麵包切面乾煎或烤至微脆。下層放生菜、番茄和豬排，蓋上麵包趁熱享用。
+  - 烤箱預熱至 200°C。豬里肌夾在保鮮膜間輕拍至約 1 公分厚，兩面撒鹽和胡椒；中央放火腿、起司後對折，壓緊邊緣封口。
+  - 依序沾麵粉、打散的蛋液和麵包粉。平底鍋加油中火加熱，每面煎約 2 分鐘至金黃。
+  - 移至烤盤烤約 10～15 分鐘。由側面測量最厚豬肉處與火腿起司內餡中心，兩處都須達 74°C；未達就續烤並重測。
+  - 漢堡麵包切面烤香，放上生菜、番茄與藍帶豬排，趁熱食用。
 tips:
-  - 這是有填餡的豬肉料理。豬肉最厚處與內餡中心都需達 74°C；未填餡整塊豬肉的 63°C 加靜置標準不適用。
+  - 包餡邊緣要壓緊，避免起司流出。這是填餡豬肉料理，依保守食安做法，豬肉與內餡均量至 74°C，不以顏色判斷。
 storage: 熟豬排與麵包分開密封冷藏，2 小時內冷藏並於 3 天內食用；回熱時豬排中心達 74°C。
 substitutions: []
 relatedIngredients:
@@ -86,6 +86,15 @@ seasonings:
   - name: 黑胡椒
     amount: 少許
     unit: ""
+references:
+  - label: 配方參考
+    name: Pork Cordon Bleu — Great British Chefs
+    url: https://www.greatbritishchefs.com/recipes/pork-cordon-bleu-recipe
+    note: 參考豬肉藍帶排以火腿、起司包入豬肉並裹粉煎熟；本篇改為薄里肌、先煎後烤並夾入漢堡。
+  - label: 食安基準
+    name: Stuffing and Food Safety — USDA FSIS
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/stuffing-and-food-safety
+    note: 填餡料理的豬肉厚處與內餡中心均以溫度計確認達 74°C。
 ---
 
-火腿與起司包在薄豬里肌中，先煎上色再入烤箱，能讓外層酥脆、內餡熱透。烤箱時間會隨豬排厚度改變，請以中心溫度為準。
+本篇是家常漢堡改編，參考豬肉藍帶排的火腿起司填餡與裹粉方式；不是特定餐廳配方，時間尚未實際試做驗證。

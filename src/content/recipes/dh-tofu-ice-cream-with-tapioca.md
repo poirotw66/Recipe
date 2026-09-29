@@ -17,6 +17,15 @@ equipment:
 tags:
 - 家常甜點
 - 冷凍甜點
+references:
+  - label: 食譜來源
+    name: Epicurious — Chocolate Tofu Ice Cream
+    url: https://www.epicurious.com/recipes/food/views/chocolate-tofu-ice-cream-379381
+    note: 參考以嫩豆腐打成冰淇淋基底；本站改為黑糖奶香版本，冷凍時分次攪拌，珍珠另煮。
+  - label: 食品安全參考
+    name: Enjoying Homemade Ice Cream without the Risk of Salmonella Infection
+    url: https://www.fda.gov/food/buy-store-serve-safe-food/enjoying-homemade-ice-cream-without-risk-salmonella-infection
+    note: FDA 建議使用巴氏殺菌乳品；本配方不含生蛋，請用標示可直接食用的冷藏嫩豆腐並維持低溫。
 intro: 嫩豆腐、鮮奶油與黑糖打勻後分次攪拌冷凍，搭配即煮珍珠；總時間包含至少四小時冷凍。
 steps:
 - 嫩豆腐瀝水並冷藏，與鮮奶油 100 毫升、黑糖 30 克放入調理機打至細滑。倒入可冷凍的淺盒。
@@ -26,7 +35,7 @@ steps:
 tips:
 - 豆腐選可直接食用的冷藏製品，保持冷藏並遵守包裝期限。
 - 淺盒較容易凍透；每次攪拌刮起盒邊冰晶再拌入中心。
-storage: 冷凍密封保存，建議 1 週內食用。食用前可在室溫放置數分鐘軟化；珍珠應分開冷藏並依包裝期限使用。
+storage: 使用巴氏殺菌鮮奶油與標示可直接食用的冷藏嫩豆腐。冰淇淋密封冷凍，建議一週內享用；珍珠另煮，剩餘珍珠依包裝方式冷藏。
 substitutions: []
 relatedIngredients:
 - 嫩豆腐
@@ -66,4 +75,4 @@ ingredients:
 seasonings: []
 ---
 
-嫩豆腐、鮮奶油與黑糖打勻後分次攪拌冷凍，搭配即煮珍珠；總時間包含至少四小時冷凍。
+參考以嫩豆腐打成冰淇淋基底；本站改為黑糖奶香版本，冷凍時分次攪拌，珍珠另煮。珍珠依包裝煮熟後再加，不和冰淇淋一起冷凍。

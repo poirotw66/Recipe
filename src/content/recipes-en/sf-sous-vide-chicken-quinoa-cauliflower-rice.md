@@ -23,18 +23,10 @@ intro: Use sous vide chicken labeled fully cooked and ready to eat. If the
   directions; this recipe’s timing does not apply. Cook the quinoa and
   cauliflower rice separately before assembling.
 steps:
-  - Rinse the quinoa in a fine-mesh strainer. Add about 100 ml water, bring to a
-    boil, cover, and simmer for 15 minutes. Turn off the heat and rest covered
-    for 5 minutes, then fluff.
-  - Heat the olive oil in a skillet over medium heat. Add the cauliflower rice
-    and cooked corn; stir-fry for 5–7 minutes until hot throughout and tender.
-    Season with salt and pepper.
-  - Check that the sous vide chicken package says fully cooked and ready to eat.
-    If reheating is needed, follow its directions. For microwave reheating,
-    cover, turn the chicken as directed, and heat until the center reaches 74°C
-    / 165°F.
-  - Add the quinoa, cauliflower rice, corn, and chicken to a bowl. Stir the
-    yogurt with lemon juice, spoon it over the bowl, and serve promptly.
+  - "Rinse the quinoa in a fine-mesh sieve. Add it and 100 ml water to a small saucepan; bring to a boil, then cover and simmer for about 15 minutes, until the water is absorbed and the grains look translucent with tiny tails. Remove from the heat and rest covered for 5 minutes, then fluff with a fork."
+  - "Heat the olive oil in a skillet over medium heat. Add the cauliflower rice and cooked corn; stir-fry for 5–7 minutes until tender and hot throughout. Season with salt and pepper."
+  - "Check that the sous vide chicken is labeled fully cooked and ready to eat. If it needs reheating, follow the package directions; slice it after reheating. Do not treat raw or partially cooked product as ready to eat."
+  - "Arrange the quinoa, cauliflower rice, corn, and chicken in a bowl. Stir together the yogurt and lemon juice, spoon over the bowl, and serve promptly."
 tips:
   - Do not treat fully cooked sous vide chicken and raw or partially cooked
     chicken as interchangeable. Cook raw or partially cooked products using the
@@ -57,6 +49,15 @@ faqs:
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29
+references:
+  - label: Recipe adaptation
+    name: "Chicken & Quinoa Bowl — Feel Good Foodie"
+    url: https://feelgoodfoodie.net/recipe/chicken-quinoa-bowl/
+    note: Quinoa follows the covered simmer-and-rest method used for chicken grain bowls; this version adds ready-to-eat sous vide chicken, cauliflower rice, and corn.
+  - label: Food-safety guidance
+    name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: If chicken requires cooking or reheating, follow the package directions and use 74°C / 165°F as the poultry endpoint.
 ingredients:
   - name: Fully cooked sous vide chicken breast
     amount: "150"

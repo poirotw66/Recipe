@@ -1,6 +1,6 @@
 ---
 title: 焙煎芝麻雞肉沙拉
-description: 煎熟雞胸肉搭配生菜、小黃瓜與芝麻醬；雞肉中心需達 74°C。
+description: 煎熟雞胸搭配生菜、小黃瓜、番茄與焙煎芝麻醬；雞肉中心須達 74°C。
 coverImage: /images/recipes/sf-roasted-sesame-chicken-salad.webp
 servings: 1
 prepTime: 15
@@ -16,14 +16,14 @@ equipment:
   - 沙拉碗
 tags:
   - 家常料理
-intro: 以平底鍋煎熟雞胸肉，再和蔬菜及芝麻醬組成沙拉。生雞肉不清洗，熟度以溫度計確認。
+intro: 參考芝麻雞肉沙拉以熟雞肉搭配爽脆蔬菜和芝麻風味醬汁的做法，改為一人份平底鍋版本。
 steps:
-  - 雞胸肉以紙巾擦乾，厚度不均時可從側邊片開或輕敲至厚度接近；兩面撒鹽與黑胡椒。生雞肉不要沖洗。
-  - 平底鍋中火加油，放入雞肉煎約 5～7 分鐘後翻面，續煎至最厚處中心達 74°C。厚度不同時延長時間並再次測量。
-  - 雞肉移到乾淨砧板靜置數分鐘，再切片。生菜洗淨瀝乾，小黃瓜切片，小番茄對切。
-  - 將蔬菜放入碗中，淋芝麻醬並拌勻，放上雞肉片後食用。
+  - 雞胸不水洗，以紙巾擦乾；厚薄不均時從側面片開或輕拍至厚度一致，兩面撒鹽和黑胡椒。生雞用過的砧板與刀不要用來切蔬菜。
+  - 平底鍋加油以中火加熱，放入雞胸煎約 5～7 分鐘後翻面，續煎至最厚中心至少 74°C。由側面量測，未達就續煎並重測。
+  - 雞肉移至乾淨砧板靜置數分鐘後切片。洗淨並瀝乾生菜、小黃瓜切片、小番茄對半切。
+  - 將蔬菜與芝麻醬拌勻後盛盤，放上雞肉趁鮮食用。
 tips:
-  - 處理熟雞肉請使用乾淨砧板和刀具，避免接觸處理生雞肉的器具；雞胸中心需達 74°C。
+  - 雞肉厚度會改變時間，先把肉拍勻有助熟度一致。生熟食材分開處理，芝麻醬在上桌前拌入可保持蔬菜爽脆。
 storage: 雞肉和蔬菜分開密封冷藏，2 小時內放入冰箱並於 3 天內食用；沙拉醬另外保存。
 substitutions: []
 relatedIngredients:
@@ -68,6 +68,15 @@ seasonings:
   - name: 黑胡椒
     amount: 少許
     unit: ""
+references:
+  - label: 配方參考
+    name: Sesame Chicken Salad With Mandarin-Ginger Vinaigrette — Cleveland Clinic
+    url: https://health.clevelandclinic.org/recipe-sesame-chicken-salad-with-mandarin-ginger-vinaigrette
+    note: 參考熟雞肉搭配葉菜與芝麻風味醬汁的沙拉構成；改成平底鍋煎雞胸、小份量並使用現成焙煎芝麻醬。
+  - label: 食安基準
+    name: Safe Minimum Internal Temperatures — FoodSafety.gov
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: 雞肉中心須達 74°C，生熟食材分開處理。
 ---
 
-雞胸肉需煎至中心74°C再切片。生菜和蔬菜保持乾爽，芝麻醬在上桌前拌入，以免提前浸軟。
+本篇為一人份家常改編，參考公開芝麻雞沙拉的熟雞肉、蔬菜與芝麻醬搭配，並非餐廳配方；時間是估算且尚未實際試做。

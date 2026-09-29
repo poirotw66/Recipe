@@ -18,6 +18,15 @@ equipment:
 - 식품 온도계
 tags:
 - 구운 디저트
+references:
+  - label: 레시피 참고
+    name: King Arthur Baking — Easy Cheesecake
+    url: https://www.kingarthurbaking.com/recipes/easy-cheesecake-recipe
+    note: 크림치즈, 설탕, 달걀을 쓰는 구운 방식에서 착안해 6인치 틀, 쿠키 바닥, 중탕 굽기로 재구성했습니다.
+  - label: 식품 안전 안내
+    name: Safe Minimum Internal Temperature Chart
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: 'USDA 안내: 달걀 요리는 중심 온도 71°C 이상, 상하기 쉬운 음식은 조리 후 2시간 안에 냉장합니다.'
 intro: 15cm 구운 치즈케이크입니다. 샌드 쿠키 바닥에 크림치즈, 달걀, 생크림 반죽을 붓고 구운 뒤 식혀 냉장합니다. 작은 조각 8개 분량입니다.
 steps:
 - 오븐을 160°C로 예열한다. 6인치 틀 바닥에 유산지를 깐다. 쿠키를 부수고 녹인 버터 50g과 섞어 틀 바닥에 눌러 담은 뒤 냉장한다.
@@ -27,13 +36,13 @@ steps:
 tips:
 - 크림치즈는 섞기 쉬운 정도로만 부드럽게 하고 실온에 오래 두지 마세요.
 - 중탕 물이 새지 않는 틀을 쓰고 분리형 틀은 호일로 감싸세요. 물 높이는 틀 테두리보다 낮게 합니다.
-storage: 덮어서 4°C 이하로 냉장하고 3일 이내에 먹습니다. 자른 뒤 바로 냉장고에 넣고 케이크 전체를 실온에 오래 두지 마세요.
+storage: 구운 뒤 2시간 안에 4°C 이하로 냉장하고 3일 안에 먹습니다. 자른 뒤 바로 냉장고에 넣습니다.
 substitutions: []
 relatedIngredients:
-- 奶油乳酪
-- 雞蛋
-- 鮮奶油
-- Oreo 餅乾
+  - 크림치즈
+  - 달걀
+  - 생크림
+  - 오레오 쿠키
 customAdditions: []
 faqs: []
 featured: false
@@ -67,4 +76,4 @@ ingredients:
 seasonings: []
 ---
 
-15cm 구운 치즈케이크입니다. 샌드 쿠키 바닥에 크림치즈, 달걀, 생크림 반죽을 붓고 구운 뒤 식혀 냉장합니다. 작은 조각 8개 분량입니다.
+크림치즈, 설탕, 달걀을 쓰는 구운 방식에서 착안해 6인치 틀, 쿠키 바닥, 중탕 굽기로 재구성했습니다.

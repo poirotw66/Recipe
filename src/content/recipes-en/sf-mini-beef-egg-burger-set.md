@@ -6,8 +6,8 @@ description: Two mini beef burgers with a fully cooked egg; ground beef must
 coverImage: /images/recipes/sf-mini-beef-egg-burger-set.webp
 servings: 1
 prepTime: 10
-cookTime: 20
-totalTime: 30
+cookTime: 22
+totalTime: 32
 difficulty: Easy
 category: "Kids meals"
 scenarios:
@@ -21,17 +21,10 @@ intro: These small burgers use ground beef, a fully cooked egg, and cheese.
   Check that the center of each beef patty reaches 71°C / 160°F; color is not a
   reliable doneness test.
 steps:
-  - Divide the beef into two portions and gently shape into patties slightly
-    wider than the buns. Press a shallow dimple in each center and season both
-    sides with salt and pepper.
-  - Heat the oil in a skillet over medium heat. Cook the patties for about 3–4
-    minutes, turn, and continue cooking. Insert a thermometer from the side into
-    the thickest center; remove only when it reaches 71°C / 160°F. Continue
-    cooking and recheck if needed.
-  - Fry the egg in the same pan until both white and yolk are firm. Toast the
-    cut sides of the buns, then layer lettuce, tomato, patties, cheese, and egg.
-  - Serve as two mini burgers. If needed, cover the hot patties briefly to
-    soften the cheese.
+  - "Finely mince the onion. Beat one egg and use half of it; mix that portion with the beef, dry breadcrumbs, onion, salt, and pepper just until combined. Do not pack the mixture tightly. Divide it in two, shape patties slightly wider than the buns, and press a shallow dimple in each center."
+  - "Heat the oil in a skillet over medium heat. Cook the patties in one layer for about 3–4 minutes, turn, and continue. Insert a thermometer from the side into each thickest center; remove each patty only at 71°C / 160°F. Continue cooking and recheck if needed."
+  - "Fry the remaining egg in the same pan until both white and yolk are firm. Lightly toast the cut sides of the buns. Build two burgers with lettuce, tomato, a patty, cheese, and fried egg."
+  - "If needed, cover the hot patties briefly to soften the cheese. Serve hot."
 tips:
   - Do not judge ground beef by its browned exterior or cut color. Each patty
     must reach 71°C / 160°F at the center. Cook the egg until both white and
@@ -52,28 +45,45 @@ faqs:
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29
+references:
+  - label: Recipe adaptation
+    name: "Mini Beef Burgers — Foodland Ontario"
+    url: https://www.ontario.ca/foodland/recipes/mini-beef-burgers
+    note: The beef patty borrows the beef, breadcrumbs, onion, and egg binder used in mini-burger recipes; the other half of the egg remains a cooked topping.
+  - label: Food-safety guidance
+    name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: Each ground-beef patty must reach 71°C / 160°F at the center; color is not a substitute for a thermometer.
 ingredients:
-  - name: Ground beef
+  - name: "Ground beef"
     amount: "150"
     unit: g
     isCore: true
-  - name: Mini burger buns
+  - name: "Mini burger buns"
     amount: "2"
     unit: ""
     isCore: true
-  - name: Egg
+  - name: "Eggs"
     amount: "1"
     unit: ""
     isCore: true
-  - name: Cheese slices
+  - name: "Dry breadcrumbs"
+    amount: "1"
+    unit: tbsp
+    isCore: false
+  - name: "Onion"
+    amount: "15"
+    unit: g
+    isCore: false
+  - name: "Cheese slices"
     amount: "2"
     unit: ""
     isCore: false
-  - name: Lettuce
+  - name: "Lettuce"
     amount: "2"
     unit: leaves
     isCore: false
-  - name: Tomato
+  - name: "Tomato"
     amount: "2"
     unit: slices
     isCore: false

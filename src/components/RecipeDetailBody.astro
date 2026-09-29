@@ -13,6 +13,7 @@ interface Props {
 }
 
 const { recipe, locale, relatedRecipes } = Astro.props;
+const references = recipe.data.references ?? [];
 const primaryIngredients = recipe.data.ingredients.slice(0, 4);
 const ingredientQuery = primaryIngredients.map((item) => item.name).join(",");
 const recipesPath = localePath(locale, "/recipes");
@@ -77,6 +78,23 @@ const homePath = localePath(locale, "/");
         <p>{recipe.data.intro}</p>
       </div>
     </section>
+
+    {references.length > 0 && (
+      <section class="section section-compact">
+        <div class="article">
+          <ul class="tips-list">
+            {references.map((reference) => (
+              <li>
+                <strong>{reference.label}：</strong>
+                <a href={reference.url}>{reference.name}</a>
+                {" "}
+                {reference.note}
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+    )}
 
     <section class="section section-compact">
       <div class="article">

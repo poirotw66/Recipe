@@ -1,9 +1,8 @@
 ---
 title: Black Truffle Cordon Bleu Pork Toast
 recipeId: sf-black-truffle-cordon-bleu-pork-open
-description: A ham-and-cheese stuffed pork cutlet served on toasted baguette
-  with a thin layer of truffle mayonnaise; both meat and filling must reach 74°C
-  / 165°F.
+description: Ham-and-cheese stuffed pork on toasted baguette with a light
+  truffle-mayo spread; cook both pork and filling to 74°C / 165°F.
 coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.webp
 servings: 1
 prepTime: 15
@@ -19,26 +18,23 @@ equipment:
   - Food thermometer
 tags:
   - Home cooking
-intro: For this open sandwich, wrap ham and cheese in pork loin, bread and brown
-  it, then bake until both the pork and the center of the filling reach 74°C /
-  165°F. Use the truffle mayonnaise sparingly.
+intro: Inspired by breaded pork cordon bleu, this open-faced toast serves the
+  stuffed cutlet on baguette with a small amount of truffle mayonnaise.
 steps:
-  - Heat the oven to 200°C / 400°F. Cover the pork with plastic wrap and gently
-    pound to about 1 cm thick. Season both sides, place the ham and cheese in
-    the center, fold the pork over, and press the edges closed.
-  - Coat the pork in flour, beaten egg, and breadcrumbs. Heat the oil in a
-    skillet over medium heat and brown both sides, about 2 minutes per side.
-  - Transfer to a tray and bake about 10–15 minutes. Insert a thermometer from
-    the side into the thickest pork section and the center of the ham-and-cheese
-    filling. Remove only when both reach 74°C / 165°F; continue baking and
-    recheck if either is lower.
-  - Toast the baguette slices until lightly crisp. Mix the mayonnaise with the
-    truffle paste, spread a thin layer on the bread, and top with sliced pork to
-    serve.
+  - Heat the oven to 200°C / 400°F. Place the pork between sheets of wrap and
+    gently pound to about 1 cm thick. Season; add ham and cheese in the center,
+    fold over, and press the edges closed.
+  - Coat in flour, beaten egg, then breadcrumbs. Heat oil in a skillet over
+    medium heat and brown for about 2 minutes per side.
+  - Transfer to a baking tray and bake about 10–15 minutes. Insert a thermometer
+    from the side into the thickest pork and the center of the ham-cheese
+    filling; both must reach 74°C / 165°F. Continue baking and recheck if
+    needed.
+  - Toast the baguette slices until lightly crisp. Mix mayonnaise with truffle
+    paste, spread thinly on the bread, top with sliced pork, and serve hot.
 tips:
-  - "This is stuffed pork: both the thickest pork section and the center of the
-    filling must reach 74°C / 165°F. The 63°C / 145°F plus rest guidance for
-    intact, unstuffed pork does not apply."
+  - Seal the edges to reduce cheese leakage. Truffle paste is potent, so mix in
+    a small amount first; check temperatures in both the pork and filling.
 storage: Refrigerate the cooked pork and bread separately within 2 hours and use
   within 3 days. Reheat until both the pork and filling centers reach 74°C /
   165°F.
@@ -103,6 +99,17 @@ seasonings:
   - name: Black pepper
     amount: to taste
     unit: ""
+references:
+  - label: Recipe inspiration
+    name: Pork Cordon Bleu — Great British Chefs
+    url: https://www.greatbritishchefs.com/recipes/pork-cordon-bleu-recipe
+    note: Uses the pork, ham, cheese, and breading combination as a reference, then
+      serves it open-faced on baguette with a little truffle mayonnaise.
+  - label: Food safety
+    name: Stuffing and Food Safety — USDA FSIS
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/stuffing-and-food-safety
+    note: Check both the pork and filling centers with a thermometer for 74°C /
+      165°F.
 ---
 
-Ham and cheese are folded into thin pork loin, breaded, browned, and finished in the oven. Check the thickest pork section and the center of the filling; both must reach 74°C / 165°F before serving on toast.
+This home-style open toast adapts the stuffed, breaded pork cutlet idea from pork cordon bleu; it is not a specific restaurant recipe. Timings have not been kitchen-tested.

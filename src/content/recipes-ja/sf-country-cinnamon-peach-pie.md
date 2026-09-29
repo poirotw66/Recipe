@@ -18,6 +18,15 @@ equipment:
 - 重石とオーブンシート
 tags:
 - 焼き菓子
+references:
+  - label: 参考レシピ
+    name: King Arthur Baking — Summertime Peach Pie
+    url: https://www.kingarthurbaking.com/recipes/summertime-peach-pie-recipe
+    note: 桃のフィリングのとろみ付けと果汁が泡立つ焼き上がりの目安を参考に、20cm型の市販ダブル生地とシナモンで小さく作ります。
+  - label: 食品安全情報
+    name: Safe Minimum Internal Temperature Chart
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: USDAの目安：卵料理の中心は71°C以上。傷みやすい食品は調理後2時間以内に冷蔵します。
 intro: 解凍済みのパイ生地2枚と種を除いた桃で直径20cmのパイを作ります。コーンスターチで果汁にとろみを付け、1時間冷まして6切れにします。
 steps:
 - オーブンを180°Cに予熱。種を除いた桃500gを切り、砂糖40g、シナモン小さじ1、コーンスターチ20gと混ぜる。
@@ -27,13 +36,13 @@ steps:
 tips:
 - 桃の水分量は異なります。具が泡立つまで焼き、冷ましてから切ります。
 - 縁が先に色づく場合はアルミ箔で覆い、中央まで焼きます。
-storage: 焼き上がりから2時間以内（室温32°C超では1時間以内）に冷蔵し、3日以内に食べます。アイスは別に冷凍し、食べる直前に添えます。
+storage: 焼成後2時間以内に冷蔵し、3日以内に食べます。室温が32°Cを超える場合は1時間以内に冷蔵します。アイスは別に冷凍します。
 substitutions: []
 relatedIngredients:
-- 蜜桃
-- 派皮
-- 肉桂粉
-- 玉米澱粉
+  - 桃
+  - パイ生地
+  - シナモンパウダー
+  - コーンスターチ
 customAdditions: []
 faqs: []
 featured: false
@@ -71,4 +80,4 @@ ingredients:
 seasonings: []
 ---
 
-解凍済みのパイ生地2枚と種を除いた桃で直径20cmのパイを作ります。コーンスターチで果汁にとろみを付け、1時間冷まして6切れにします。
+桃のフィリングのとろみ付けと果汁が泡立つ焼き上がりの目安を参考に、20cm型の市販ダブル生地とシナモンで小さく作ります。

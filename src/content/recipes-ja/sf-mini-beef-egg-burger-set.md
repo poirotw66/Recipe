@@ -5,8 +5,8 @@ description: ミニ牛肉バーガー2個にしっかり火を通した卵を合
 coverImage: /images/recipes/sf-mini-beef-egg-burger-set.webp
 servings: 1
 prepTime: 10
-cookTime: 20
-totalTime: 30
+cookTime: 22
+totalTime: 32
 difficulty: かんたん
 category: "キッズメニュー"
 scenarios:
@@ -18,12 +18,12 @@ tags:
   - 家庭料理
 intro: 牛ひき肉、十分に火を通した卵、チーズで作る小さなバーガーです。色ではなく温度計で、牛肉の中心が71°Cに達したことを確認してください。
 steps:
-  - 牛ひき肉を2等分し、バンズより少し大きい円形に整えます。中央を浅くくぼませ、両面に塩、こしょうを振ります。
-  - フライパンに油を中火で熱し、肉だねを約3～4分焼いて裏返します。温度計を横から最も厚い中心に差し、71°Cに達したら取り出します。未達なら焼き続けて再測定します。
-  - 同じフライパンで卵を焼き、白身と黄身の両方が固まったら取り出します。バンズの切り口を焼き、レタス、トマト、肉、チーズ、卵をはさみます。
-  - ミニバーガー2個として盛り付けます。チーズを柔らかくしたい場合は、熱い肉の上で短時間ふたをします。
+  - "玉ねぎを細かく刻みます。卵1個を溶き、半量を牛ひき肉、乾燥パン粉、玉ねぎ、塩、こしょうと均一になるまで混ぜます。練りすぎず、2等分してバンズより少し大きいパティに整え、中央を浅くくぼませます。"
+  - "フライパンに油を中火で熱し、パティを重ならないように置いて約3～4分焼き、裏返します。温度計を横から最も厚い中心に差し、各パティが71°Cに達したら取り出します。未達なら加熱して再測定します。"
+  - "残りの卵を同じフライパンで焼き、白身と黄身の両方を固めます。バンズの切り口を軽く焼き、レタス、トマト、パティ、チーズ、目玉焼きをはさんで2個作ります。"
+  - "チーズが溶けていなければ、熱いパティにふたをして短時間蒸らします。熱いうちに出します。"
 tips:
-  - 牛ひき肉は表面の焼き色や断面の色で安全性を判断できません。肉の中心を71°Cにし、卵も白身と黄身が固まるまで焼きます。
+  - 牛ひき肉は表面の焼き色や断面の色で安全性を判断できません。肉の中心を71°Cにし、残りの溶き卵も完全に固まるまで焼きます。
 storage: 焼いた肉と具材は分けて密閉し、2時間以内に冷蔵して3日以内に食べます。肉を温め直すときは中心を74°Cにします。
 substitutions: []
 relatedIngredients:
@@ -37,28 +37,45 @@ faqs:
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29
+references:
+  - label: レシピの参考
+    name: "Mini Beef Burgers — Foodland Ontario"
+    url: https://www.ontario.ca/foodland/recipes/mini-beef-burgers
+    note: ミニ牛肉バーガーの牛肉、パン粉、玉ねぎ、卵を使う作り方を参考にし、残り半量の卵は焼いて具にします。
+  - label: 食品安全の基準
+    name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: 牛ひき肉の各パティは中心を71°Cにします。色だけで判断せず温度計を使います。
 ingredients:
-  - name: 牛ひき肉
+  - name: "牛ひき肉"
     amount: "150"
     unit: g
     isCore: true
-  - name: ミニバンズ
+  - name: "ミニバンズ"
     amount: "2"
     unit: 個
     isCore: true
-  - name: 卵
+  - name: "卵"
     amount: "1"
     unit: 個
     isCore: true
-  - name: スライスチーズ
+  - name: "乾燥パン粉"
+    amount: "1"
+    unit: 大さじ
+    isCore: false
+  - name: "玉ねぎ"
+    amount: "15"
+    unit: g
+    isCore: false
+  - name: "スライスチーズ"
     amount: "2"
     unit: 枚
     isCore: false
-  - name: レタス
+  - name: "レタス"
     amount: "2"
     unit: 枚
     isCore: false
-  - name: トマト
+  - name: "トマト"
     amount: "2"
     unit: 枚
     isCore: false

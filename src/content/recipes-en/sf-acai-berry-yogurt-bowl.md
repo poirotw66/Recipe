@@ -17,6 +17,17 @@ equipment:
 tags:
 - Breakfast
 - Light meal
+references:
+  - label: Recipe source
+    name: BBC Good Food — Acai bowl
+    url: https://www.bbcgoodfood.com/recipes/acai-bowl
+    note: Adapted from the açaí, yogurt, fruit, and crunchy-topping bowl format with ready-to-eat
+      puree and single-serving toppings.
+  - label: Food safety guidance
+    name: Bacteria and Viruses
+    url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
+    note: 'Official FoodSafety.gov guidance: refrigerate perishable foods within 2 hours;
+      the recipe adds item-specific storage or reheating cues.'
 intro: This bowl layers plain yogurt and açaí with fruit, granola, and nuts. It is a home-style combination and does not claim to recreate a specific restaurant recipe.
 steps:
 - Use 100 g ready-to-eat açaí puree; thaw frozen puree according to the package. Slice 60 g banana and rinse and drain 75 g mixed berries.
@@ -25,13 +36,14 @@ steps:
 tips:
 - Partially thaw frozen açaí so it blends more easily.
 - Add granola and nuts just before serving to keep them crunchy.
-storage: Eat the assembled yogurt bowl promptly. You can refrigerate the berry-yogurt base without granola or nuts and assemble it the same day.
+storage: Eat the assembled bowl promptly. If making the base ahead, refrigerate at 4°C / 40°F
+  or below and assemble the same day; store toppings separately.
 substitutions: []
 relatedIngredients:
-- 巴西莓
-- 綜合莓果
-- 香蕉
-- 穀物
+  - Açaí puree
+  - Mixed berries
+  - Banana
+  - Granola
 faqs:
 - question: What kind of yogurt should I use?
   answer: Plain unsweetened yogurt pairs well with the fruit. Greek yogurt makes a thicker base.
@@ -68,4 +80,4 @@ ingredients:
 seasonings: []
 ---
 
-This single serving weighs about 375 g, using ready-to-eat açaí, yogurt, fruit, and modest crunchy toppings. It is not weight-loss or medical nutrition advice and does not represent a restaurant recipe.
+Adapted from the açaí, yogurt, fruit, and crunchy-topping bowl format with ready-to-eat puree and single-serving toppings.

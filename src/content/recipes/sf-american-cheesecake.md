@@ -17,6 +17,15 @@ equipment:
 - 食物溫度計
 tags:
 - 烘焙甜點
+references:
+  - label: 食譜來源
+    name: King Arthur Baking — Easy Cheesecake
+    url: https://www.kingarthurbaking.com/recipes/easy-cheesecake-recipe
+    note: 參考奶油乳酪、糖與蛋的烤起司蛋糕做法；本站改用 6 吋模、夾心餅乾底與水浴，份量另行縮配。
+  - label: 食品安全參考
+    name: Safe Minimum Internal Temperature Chart
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+    note: USDA 指引：含蛋料理中心至少 71°C；易腐食物烹調後 2 小時內冷藏。
 intro: 6 吋烤起司蛋糕，以夾心餅乾做底，奶油乳酪、蛋與鮮奶油做內餡。完成烘烤後需冷卻及冷藏定型，約可切八小片。
 steps:
 - 烤箱預熱至 160°C。6 吋模具底部鋪烘焙紙；Oreo 餅乾壓碎，與融化無鹽奶油 50 克拌勻後壓入模底，冷藏備用。
@@ -26,7 +35,7 @@ steps:
 tips:
 - 奶油乳酪只需軟化至容易拌勻，不要長時間置於室溫。
 - 使用可水浴的密封模具；活動底模外包鋁箔防進水，水位不要高過模具邊緣。
-storage: 加蓋冷藏於 4°C 以下，3 天內食用；切片後盡快放回冰箱，不要整盤長時間擺在室溫。
+storage: 蛋糕在停止加熱後 2 小時內冷藏於 4°C 以下，3 天內食用；切片後立即放回冰箱。
 substitutions: []
 relatedIngredients:
 - 奶油乳酪
@@ -66,4 +75,4 @@ ingredients:
 seasonings: []
 ---
 
-6 吋烤起司蛋糕，以夾心餅乾做底，奶油乳酪、蛋與鮮奶油做內餡。完成烘烤後需冷卻及冷藏定型，約可切八小片。
+參考奶油乳酪、糖與蛋的烤起司蛋糕做法；本站改用 6 吋模、夾心餅乾底與水浴，份量另行縮配。
