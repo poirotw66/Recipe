@@ -12,6 +12,10 @@
 - 填餡豬肉項目以肉和內餡都達 74°C 作為本次保守驗收門檻。熟食回熱及舒肥雞依包裝上的即食／回熱指示確認，不自行推定產品已熟或可即食。
 - 參考：[FoodSafety.gov 安全最低內部溫度表](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)、[USDA FSIS 食品溫度計使用說明](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers)。
 
+## 後續文字複核（2026-09-29）
+
+第二輪只讀複核後，已在四語食譜修正三項可由文字確認的問題：雙層漢堡明確使用兩片起司；苦瓜炒飯先聚成較厚蛋團，再量最厚處中心至 71°C 並完全凝固；豬腳食譜補上小鍋設備，並讓馬鈴薯、玉米依熟度分別取出，不再跟著包裝差異很大的豬腳回熱時間一起烤。這些是文字修正，不是試作結果；25 篇仍待實際量測、試吃與拍照，並繼續保留 noindex。
+
 ## 排序依據
 
 1. 先測原審查中有生禽肉、填餡肉、絞肉、蛋或肉類條件不明的配方。

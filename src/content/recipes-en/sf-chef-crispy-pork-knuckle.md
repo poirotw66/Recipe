@@ -15,6 +15,7 @@ scenarios:
 equipment:
   - Oven
   - Baking tray
+  - Small saucepan
   - Food thermometer
 tags:
   - Home cooking
@@ -27,9 +28,11 @@ steps:
   - Halve the potatoes, toss with a little oil, and roast for 15 minutes. Place
     the pork knuckle skin-side up on the tray and follow its package reheating
     directions.
-  - Add the corn and continue heating until the thickest part of the pork
-    reaches 74°C / 165°F. Adjust for the product size and package directions.
-    Briefly use the broiler to crisp the skin if needed, watching closely.
+  - Add the corn. Check the potatoes for tenderness and the corn for heat;
+    remove each side when ready and keep it warm, even if the pork needs more
+    time. Continue reheating the pork as directed on the package until its
+    thickest part reaches 74°C / 165°F. Briefly use the broiler to crisp the
+    skin if needed, watching closely.
   - Warm the sauerkraut in a small pan. Rest the pork briefly after it reaches
     temperature, then serve with potatoes, corn, sauerkraut, and mustard.
 tips:

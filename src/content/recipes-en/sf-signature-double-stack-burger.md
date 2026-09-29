@@ -27,9 +27,9 @@ steps:
     minutes, turn, and continue cooking. Measure the center of each patty from
     the side; remove each only when it reaches 71°C / 160°F. Continue cooking
     and recheck if needed.
-  - Toast the cut side of the bun. Layer lettuce, tomato, one patty, and cheese
-    on the bottom bun, then add the second patty and pickles. Cap with the top
-    bun.
+  - Toast the cut side of the bun. Layer lettuce, tomato, one patty, and one
+    cheese slice on the bottom bun, then add the second patty, the second cheese
+    slice, and pickles. Cap with the top bun.
   - Serve hot. If needed, briefly cover the hot patties to soften the cheese.
 tips:
   - Thin patties cook quickly, so check each one separately. Ground beef must
