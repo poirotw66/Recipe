@@ -1,100 +1,87 @@
 ---
-title: Avocado Smoked Salmon Open Toast
+title: Avocado and Smoked Salmon Open Sandwich
 recipeId: sf-avocado-smoked-salmon-open-toast
-description: "Second Floor Cafe-inspired open sandwiches with restaurant-style portions and 歐包、燻鮭、酪梨、水波蛋、酸豆、檸檬."
+description: Bread with ready-to-eat hot-smoked salmon, avocado, fully cooked poached eggs, and capers makes two portions. Keep the fish chilled until assembly.
 coverImage: /images/recipes/sf-avocado-smoked-salmon-open-toast.webp
-servings: 1
+servings: 2
 prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: Medium
-calories: 590
-protein: 32
-fat: 26
-carbs: 38
 category: "Open sandwiches"
 scenarios:
 - Cooking for one
-- 10-minute meals
 equipment:
-- Skillet
 - Oven
+- Skillet
+- Saucepan
+- Slotted spoon
 tags:
 - Restaurant replica
 - Open sandwiches
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 酪梨燻鮭魚／歐包 Open
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+intro: Bread with ready-to-eat hot-smoked salmon, avocado, fully cooked poached eggs, and capers makes two portions. Keep the fish chilled until assembly.
 steps:
-- "Slice 2 baguette rolls crosswise; butter the cut sides and bake at 180°C / 350°F 5–7 minutes until golden and lightly crisp; cut 1/2 lemon into wedges and set aside."
-- Halve and pit 1 avocado, slice thinly; rest 120 g smoked salmon from the fridge until lightly softened, keeping slices intact.
-- "Bring a saucepan of water to a boil with 1 tbsp vinegar; reduce to low, stir a whirlpool with a spoon, crack in 2 eggs, and poach about 3 minutes until whites set and yolks runny; drain well."
-- On toasted baguette, layer avocado and smoked salmon, top with 2 poached eggs, and dot with capers to taste.
-- Drizzle 1 tbsp olive oil, sprinkle 1/3 tsp sea salt and 1/4 tsp cracked black pepper, serve with lemon wedges to squeeze, and enjoy hot.
+- Split the baguette and brush the cut sides with butter. Toast at 180°C for 5–7 minutes until crisp; cut the lemon into wedges.
+- Pit and slice the avocado. Keep the smoked salmon refrigerated until assembly; do not leave it out to warm.
+- Bring water to a boil, add vinegar, then lower the heat. Slide in the eggs one at a time and cook until both whites and yolks are firm. Drain.
+- Layer avocado, smoked salmon, and fully cooked poached eggs on the toasted baguette; add the capers.
+- Drizzle with olive oil, season with salt and pepper, add lemon, and serve at once.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 酸種麵包
-- 丹麥麵包
+- Drain the poached eggs well before putting them on the bread.
+- Bacon, sausage, and smoked salmon are already salty; taste before adding the listed salt.
+storage: Eat assembled sandwiches promptly. Store bread and toppings separately. Refrigerate egg, meat, and fish at 4°C or below within 2 hours, or 1 hour above 32°C, and follow package use-by dates. Reheat cooked egg and meat to 74°C the next day; eat cut avocado the same day.
+substitutions: []
 relatedIngredients:
 - 歐包
 - 燻鮭
 - 酪梨
 - 水波蛋
-customAdditions:
-- Extra poached egg
-- Balsamic on the side
-faqs:
-- question: What makes this 酪梨燻鮭魚／歐包 Open feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+customAdditions: []
+faqs: []
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-09'
+updatedAt: "2026-09-29"
 ingredients:
-- name: 歐包
-  amount: "2"
-  unit: 份
+- name: Baguette
+  amount: '2'
+  unit: slices (about 100 g total)
   isCore: true
-- name: 燻鮭
-  amount: "120"
-  unit: 公克
+- name: Ready-to-eat hot-smoked salmon
+  amount: '80'
+  unit: g
   isCore: true
-- name: 酪梨
-  amount: "1"
-  unit: 顆
+- name: Avocado
+  amount: '1'
+  unit: whole
   isCore: true
-- name: 水波蛋
-  amount: "2"
-  unit: 顆
+- name: Eggs
+  amount: '2'
+  unit: ''
   isCore: true
-- name: 酸豆
-  amount: "適量"
-  unit: ""
+- name: Capers
+  amount: '1'
+  unit: tbsp
   isCore: false
-- name: 檸檬
-  amount: "1/2"
-  unit: 顆
+- name: Lemon
+  amount: 1/2
+  unit: ''
   isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+- name: Olive oil
+  amount: '1'
+  unit: tsp
+- name: Unsalted butter
+  amount: '5'
+  unit: g
+- name: White vinegar
+  amount: '1'
+  unit: tsp
+- name: Salt
+  amount: 1/8
+  unit: tsp
+- name: Black pepper
+  amount: 1/8
+  unit: tsp
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Bread with ready-to-eat hot-smoked salmon, avocado, fully cooked poached eggs, and capers makes two portions. Keep the fish chilled until assembly.

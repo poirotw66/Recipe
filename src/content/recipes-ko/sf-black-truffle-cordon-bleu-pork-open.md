@@ -1,94 +1,95 @@
 ---
-title: 黑松露厚切藍帶豬／歐包 Open 스타일 레시피
+title: 블랙 트러플 코르동 블루 포크 토스트
 recipeId: sf-black-truffle-cordon-bleu-pork-open
-description: Second Floor Cafe 스타일로 歐包、藍帶豬排、黑松露醬、水波蛋 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
+description: 햄과 치즈를 채운 돼지고기를 구워 바게트에 올리고 트러플 마요네즈를 얇게 바릅니다. 고기와 속재료 모두 74°C까지 익힙니다.
 coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.webp
 servings: 1
-prepTime: 18
-cookTime: 14
-totalTime: 32
+prepTime: 15
+cookTime: 30
+totalTime: 45
 difficulty: 보통
-calories: 590
-protein: 32
-fat: 26
-carbs: 38
-category: "오픈 샌드위치"
+category: "브런치"
 scenarios:
-- 1인 요리
-- 10분 요리
+  - 1인 요리
 equipment:
-- 프라이팬
-- 오븐
+  - 프라이팬
+  - 오븐
+  - 식품용 온도계
 tags:
-- 맛집 재현
-- 오픈 샌드위치
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 黑松露厚切藍帶豬／歐包 Open
-  region: 全台連鎖
-intro: Second Floor Cafe에서 자주 보이는 조리 흐름을 참고해 한 접시 전체의 완성도를 살리는 방식으로 만듭니다.
+  - 집밥
+intro: 햄과 치즈를 돼지고기에 넣고 빵가루를 입혀 팬에 노릇하게 구운 뒤 오븐에서 마무리하는 오픈 샌드위치입니다. 돼지고기와 속재료 중심을
+  모두 74°C까지 익힙니다.
 steps:
-- 歐包 2份를 가로로 잘라 단면에 버터를 살짝 바르고, 180℃ 오븐에서 5~7분 굽혀 표면이 금색으로 바삭하게 만듭니다.
-- 藍帶豬排 220g을 실온에서 10분 두었다가 양면에 바다소금과 후추를 조금 뿌립니다. 팬에 올리브 오일을 두르고 중불로 각 면 4~5분 굽혀 금색으로 익힌 뒤 2분 쉬게 하고 사선으로 썹니다.
-- 작은 그릇에 黑松露醬 3큰술, 松露醬 3큰술, 올리브 오일 1큰술, 바다소금 1/3작은술, 후추 1/4작은술을 섞어 트러플 소스를 만듭니다.
-- 냄비에 물을 끓이고 식초를 조금 넣은 뒤 약불로 줄이고 소용돌이를 만든 다음 달걀 2개를 넣어 약 3분 수란합니다(노른자가 흐르게).
-- 구운 歐包에 트러플 소스의 1/3을 바르고 藍帶豬排를 올립니다.
-- 수란 2개를 얹고 남은 트러플 소스를 뿌려 따뜻할 때 낸다.
+  - 오븐을 200°C로 예열합니다. 돼지고기를 랩 사이에 두고 약 1cm 두께로 가볍게 두드립니다. 양면에 간하고 가운데 햄과 치즈를 놓아
+    접은 뒤 가장자리를 눌러 닫습니다.
+  - 밀가루, 푼 달걀, 빵가루 순으로 묻힙니다. 팬에 기름을 두르고 중불에서 양면을 각각 약 2분씩 노릇하게 굽습니다.
+  - 오븐 팬에 옮겨 약 10~15분 굽습니다. 온도계를 옆에서 넣어 가장 두꺼운 돼지고기 부분과 햄·치즈 속 중심을 측정합니다. 두 곳 모두
+    74°C가 되어야 꺼냅니다. 낮으면 더 굽고 다시 확인합니다.
+  - 바게트를 살짝 바삭하게 굽습니다. 마요네즈와 트러플 페이스트를 섞어 얇게 바르고 썬 돼지고기를 올립니다.
 tips:
-- 주재료와 소스를 따로 완성한 뒤 마지막에 합치면 질감 차이가 더 살아납니다.
-- 차가운 가니시와 뜨거운 단백질은 마지막에 합쳐야 매장 같은 결과가 납니다.
-- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
-storage: 가급적 당일 섭취를 권장합니다. 보관할 때는 재료와 소스를 나누어 냉장하고 먹기 직전에 부드럽게 다시 데우세요.
-substitutions:
-- 酸種麵包
-- 丹麥麵包
+  - 속을 채운 돼지고기 요리이므로 가장 두꺼운 고기 부분과 속재료 중심 모두 74°C까지 익혀야 합니다. 속을 채우지 않은 통돼지고기의
+    63°C와 휴지 기준을 적용하지 마세요.
+storage: 익힌 돼지고기와 빵은 따로 밀폐해 2시간 안에 냉장하고 3일 안에 먹습니다. 다시 데울 때 고기와 속재료 중심 모두 74°C가 되게 합니다.
+substitutions: []
 relatedIngredients:
-- 歐包
-- 藍帶豬排
-- 水波蛋
-customAdditions:
-- 수란 추가
-- 발사믹 별도 제공
+  - 얇게 편 돼지고기 등심
+  - 햄
+  - 슬라이스 치즈
+  - 바게트
+customAdditions: []
 faqs:
-- question: 黑松露厚切藍帶豬／歐包 Open 를 매장 스타일에 가깝게 만드는 핵심은 무엇인가요?
-  answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
-- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
-  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
+  - question: 냉동 코르동 블루를 써도 되나요?
+    answer: 가능합니다. 포장 안내에 따라 조리하고 돼지고기와 속재료 중심 모두 74°C인지 확인하세요. 이 레시피의 시간은 적용하지 마세요.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 歐包
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 藍帶豬排
-  amount: "220"
-  unit: 公克
-  isCore: true
-- name: 水波蛋
-  amount: "2"
-  unit: 顆
-  isCore: true
+  - name: 얇게 편 돼지고기 등심
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: 햄
+    amount: "1"
+    unit: 장
+    isCore: true
+  - name: 슬라이스 치즈
+    amount: "1"
+    unit: 장
+    isCore: true
+  - name: 바게트
+    amount: "2"
+    unit: 조각
+    isCore: true
+  - name: 달걀
+    amount: "1"
+    unit: 개
+    isCore: false
+  - name: 밀가루
+    amount: "2"
+    unit: 큰술
+    isCore: false
+  - name: 빵가루
+    amount: "30"
+    unit: g
+    isCore: false
+  - name: 마요네즈
+    amount: "1"
+    unit: 큰술
+    isCore: false
+  - name: 블랙 트러플 페이스트
+    amount: "1"
+    unit: 작은술
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 黑松露醬
-  amount: "3"
-  unit: 大匙
-- name: 松露醬
-  amount: "3"
-  unit: 大匙
+  - name: 올리브유
+    amount: "1"
+    unit: 큰술
+  - name: 소금
+    amount: 1/4
+    unit: 작은술
+  - name: 후추
+    amount: 약간
+    unit: ""
 ---
 
-이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.
-
-주재료 준비, 소스 완성, 마지막 플레이팅 순서를 지키면 매장 스타일에 더 가깝게 만들 수 있습니다.
-
+얇은 돼지고기에 햄과 치즈를 넣고 빵가루를 입혀 팬에 굽고 오븐에서 익힙니다. 돼지고기 두꺼운 부분과 속재료 중심을 모두 74°C까지 익힌 뒤 토스트 위에 올립니다.

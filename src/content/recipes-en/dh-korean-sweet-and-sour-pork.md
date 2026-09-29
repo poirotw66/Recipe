@@ -1,89 +1,88 @@
 ---
-title: Korean Sweet and Sour Pork
+title: Korean Sweet-and-Sour Pork
 recipeId: dh-korean-sweet-and-sour-pork
-description: "Dubu House-inspired chef specials recreating 韓國糖醋肉 with restaurant-style broth depth and plating."
+description: Crisp pork with carrot, onion, and a tangy-sweet sauce. Toss the pork in the sauce just before serving to keep its crust crisp.
 coverImage: /images/recipes/dh-korean-sweet-and-sour-pork.webp
 servings: 2
-prepTime: 25
-cookTime: 20
+prepTime: 20
+cookTime: 25
 totalTime: 45
 difficulty: Advanced
-calories: 720
-protein: 34
-fat: 36
-carbs: 52
 category: "Chef specials"
 scenarios:
-- "Late-night meals"
+- High-protein meals
 equipment:
-- Fryer
-- Griddle or skillet
+- 18 cm deep pot
+- Skillet
+- Oil thermometer
+- Wire rack
+- Knife
+- Cutting board
 tags:
-- Restaurant replica
-- Chef specials
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 韓國糖醋肉
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- Korean sweet-and-sour dishes
+intro: Lightly coat and batch-fry the pork, then cook the vegetables and sauce separately. Toss everything together at the end, checking the pork
+  with a thermometer.
 steps:
-- Cut pork hind shank cubes 200 g into about 2 cm pieces; cut carrot 30 g into diamond slices and dice onion ½ pc.
-- Marinate pork with a pinch of salt and a pinch of black pepper powder for 10 minutes; dredge each piece in all-purpose flour, shake off excess.
-- Heat fryer oil to 170°C; fry pork in batches about 4–5 minutes until golden and cooked through; drain and rest 2 minutes.
-- Raise oil to 185°C; second fry 1 minute for a crisper crust; set aside.
-- In another skillet, leave 1 tbsp oil; sauté onion and carrot over medium heat 1–2 minutes.
-- Pour in 150 ml Korean sweet and sour sauce; boil over high heat, then simmer over medium-low about 2 minutes until slightly thickened.
-- Add fried pork and toss quickly to coat; turn off heat and serve hot to match the restaurant sweet-and-sour pork texture.
+- Cut the pork into 2 cm cubes, slice the carrot thinly, and cut the onion into chunks. Keep raw meat and vegetables separate; wash any utensils
+  that touched raw pork.
+- Season the pork with salt and white pepper for 10 minutes. Add flour gradually to coat lightly; you may not need all of it.
+- Measure 500 ml neutral oil into an 18 cm deep pot and heat to 170°C using a thermometer. Fry pork in batches for about 4–6 minutes until the
+  thickest piece reaches 63°C. Drain and rest at least 3 minutes.
+- Raise the oil to 185°C and fry the pork again for 45–60 seconds until crisp. Remove with clean tongs.
+- Heat 1 tbsp cooking oil in a skillet. Sauté onion and carrot over medium heat for 2–3 minutes. Add the sauce, bring to a boil, and simmer about
+  2 minutes until lightly thickened.
+- Add the fried pork only at the end, toss to coat, and serve immediately so the crust does not soften.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
+- Do not crowd the pan, as a sharp oil-temperature drop makes the coating greasy. Keep pork and sauce separate if serving later.
+storage: Refrigerate leftovers within 2 hours and use within 1–2 days. Reheat the pork and sauce separately.
 substitutions:
 - pork hind shank cubes
-- "all-purpose flour"
+- all-purpose flour
 relatedIngredients:
-- 豬後腿肉丁
-- 胡蘿蔔
-- 洋蔥
-customAdditions:
-- chopped scallions
-- sesame seeds
+- pork leg
+- carrot
+- onion
+customAdditions: []
 faqs:
-- question: How do I make this 韓國糖醋肉 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: How do I keep the pork crisp?
+  answer: Drain it after frying and toss it with the sauce only at the end. Keep them separate if serving later.
+- question: How do I check the pork is safely cooked?
+  answer: Use a food thermometer to confirm at least 63°C (145°F) in the thickest piece, then rest it for at least 3 minutes.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: '2026-09-29'
 ingredients:
-- name: pork hind shank cubes
-  amount: "200"
+- name: pork leg
+  amount: '200'
   unit: g
   isCore: true
 - name: carrot
-  amount: "30"
+  amount: '30'
   unit: g
   isCore: true
 - name: onion
-  amount: "0.5"
+  amount: '0.5'
   unit: pc
   isCore: true
 seasonings:
-- name: "all-purpose flour"
-  amount: "150"
+- name: all-purpose flour
+  amount: '60'
   unit: g
-- name: sweet and sour sauce
-  amount: "150"
+- name: Korean sweet-and-sour sauce
+  amount: '120'
   unit: ml
 - name: salt
-  amount: pinch
-  unit: ""
-- name: black pepper powder
-  amount: pinch
-  unit: ""
+  amount: '0.25'
+  unit: tsp
+- name: white pepper
+  amount: '0.125'
+  unit: tsp
+- name: neutral frying oil
+  amount: '500'
+  unit: ml
+- name: neutral cooking oil
+  amount: '1'
+  unit: tbsp
 ---
 
-This home version recreates the layered broth and generous plating associated with Dubu House chef specials.
-
+Lightly coat and batch-fry the pork, then cook the vegetables and sauce separately. Toss everything together at the end, checking the pork with a thermometer.

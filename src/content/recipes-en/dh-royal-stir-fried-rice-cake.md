@@ -1,98 +1,101 @@
 ---
-title: "Korean Royal Stir-fried Rice Cake"
+title: Korean Royal-Style Stir-Fried Rice Cakes
 recipeId: dh-royal-stir-fried-rice-cake
-description: "Dubu House-inspired korean mains recreating 韓式宮廷炒年糕 with restaurant-style broth depth and plating."
+description: Beef, vegetables, and rice cakes are tossed in a soy-sesame sauce and simmered until tender.
 coverImage: /images/recipes/dh-royal-stir-fried-rice-cake.webp
 servings: 2
-prepTime: 22
-cookTime: 22
-totalTime: 44
+prepTime: 18
+cookTime: 20
+totalTime: 38
 difficulty: Medium
-calories: 640
-protein: 30
-fat: 26
-carbs: 58
 category: "Korean mains"
 scenarios:
-- "High-protein meals"
+- Late-night meals
 equipment:
 - Skillet
-- Pot
+- Small bowl
+- Knife
+- Cutting board
 tags:
-- Restaurant replica
-- Korean mains
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 韓式宮廷炒年糕
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- Korean rice cake dishes
+intro: This non-spicy soy-seasoned rice cake dish cooks beef and vegetables first, then simmers the rice cakes. Unsalted broth makes the salt
+  level easier to control.
 steps:
-- "Prep: If Korean rice cake sticks 150 g are firm from the fridge, soak in warm water 10 minutes until slightly soft, then drain. Bring beef slices 120 g to room temperature; shred onion ½, carrot 30 g, and rehydrated wood ear mushroom 30 g."
-- In a small bowl, mix soy sauce 1 Tbsp, toasted sesame oil 1 Tbsp, sugar 1 tsp, and minced garlic 1 Tbsp into a stir-fry sauce; set aside.
-- Preheat a skillet over medium heat with 1 Tbsp oil; add beef and stir-fry over high heat 1–2 minutes until the surface changes color; remove and set aside.
-- In the same pan, add onion, carrot, and wood ear mushroom; stir-fry over medium heat 2 minutes until vegetables soften slightly and release aroma.
-- Return beef to the pan, add drained rice cakes and the prepared sauce, and stir-fry over high heat 1 minute until the rice cakes are evenly coated.
-- Pour in broth or water 100 ml, cover, and simmer over medium heat 5 minutes, stirring every 1–2 minutes to prevent sticking.
-- Uncover and reduce over high heat 1–2 minutes until the sauce is thick and clings to the rice cakes. Top with sesame seeds or scallions and serve hot.
+- If refrigerated rice cakes are firm, soften them in warm water according to the package and drain. Slice onion and carrot; soak, rinse, and
+  slice the wood ear mushrooms. Keep the beef chilled until cooking.
+- Mix soy sauce, sesame oil, sugar, and garlic in a small bowl.
+- Heat cooking oil in a skillet over medium-high. Stir-fry the beef in batches until no longer pink, then set aside. Wash any utensil that touched
+  raw beef before reusing it.
+- In the same pan, cook onion, carrot, and mushrooms for 2–3 minutes until slightly softened. Add drained rice cakes and sauce; toss for 1 minute.
+- Add water or unsalted broth, cover, and simmer over medium-low for 4–6 minutes, stirring every minute or two until the rice cakes are tender
+  and the beef is cooked through. Add a splash of water if the pan dries.
+- Uncover and reduce for 1–2 minutes. Sprinkle with sesame seeds, divide into two portions, and serve hot.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
+- Rice cakes vary in how long they need to soften. Stir regularly while simmering to keep their starch from sticking to the pan.
+storage: Refrigerate leftovers within 2 hours and use within 1–2 days. Add a little water when reheating rice cakes and heat until steaming throughout.
 substitutions:
 - Korean rice cakes
 - soy sauce
 relatedIngredients:
-- 韓式年糕條
-- 牛肉片
-- 洋蔥
-- 胡蘿蔔
-customAdditions:
-- chopped scallions
-- sesame seeds
+- Korean rice cakes
+- thinly sliced beef
+- onion
+- carrot
+- rehydrated wood ear mushrooms
+- water or unsalted broth
+customAdditions: []
 faqs:
-- question: How do I make this 韓式宮廷炒年糕 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "Can I prepare this ahead of time?"
-  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
+- question: Can I use frozen rice cakes?
+  answer: Yes. Thaw them according to the package or soften in warm water, drain, and adjust the simmer until tender.
+- question: How do I keep the beef tender?
+  answer: Slice it thinly, sear in batches, and remove once browned; return it to finish cooking with the rice cakes.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: '2026-09-29'
 ingredients:
 - name: Korean rice cakes
-  amount: "150"
+  amount: '150'
   unit: g
   isCore: true
-- name: beef slices
-  amount: "120"
+- name: thinly sliced beef
+  amount: '120'
   unit: g
   isCore: true
 - name: onion
-  amount: "0.5"
+  amount: '0.5'
   unit: pc
   isCore: true
 - name: carrot
-  amount: "30"
+  amount: '30'
   unit: g
   isCore: true
-- name: wood ear mushroom
-  amount: "30"
+- name: rehydrated wood ear mushrooms
+  amount: '30'
   unit: g
+  isCore: true
+- name: water or unsalted broth
+  amount: '100'
+  unit: ml
   isCore: true
 seasonings:
 - name: soy sauce
-  amount: "1"
+  amount: '1'
   unit: tbsp
 - name: toasted sesame oil
-  amount: "1"
-  unit: tbsp
+  amount: '1'
+  unit: tsp
 - name: sugar
-  amount: "1"
+  amount: '1'
   unit: tsp
 - name: minced garlic
-  amount: "1"
+  amount: '1'
+  unit: tsp
+- name: neutral cooking oil
+  amount: '1'
   unit: tbsp
+- name: sesame seeds
+  amount: '1'
+  unit: tsp
 ---
 
-This home version recreates the layered broth and generous plating associated with Dubu House korean mains.
-
+This non-spicy soy-seasoned rice cake dish cooks beef and vegetables first, then simmers the rice cakes. Unsalted broth makes the salt level easier to control.

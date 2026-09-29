@@ -1,95 +1,85 @@
 ---
 title: Roasted Sesame Chicken Salad
 recipeId: sf-roasted-sesame-chicken-salad
-description: "Second Floor Cafe-inspired appetizers with restaurant-style portions and 綜合生菜、炸雞、焙煎胡麻醬、小番茄、酸黃瓜."
+description: Pan-cooked chicken breast with greens, cucumber, tomatoes, and
+  sesame dressing; chicken must reach 74°C / 165°F.
 coverImage: /images/recipes/sf-roasted-sesame-chicken-salad.webp
-servings: 2
-prepTime: 18
-cookTime: 18
-totalTime: 36
+servings: 1
+prepTime: 15
+cookTime: 15
+totalTime: 30
 difficulty: Medium
-calories: 550
-protein: 30
-fat: 28
-carbs: 38
-category: "Appetizers"
+category: "Salads"
 scenarios:
-- Late-night meals
-- Cooking for one
+  - Cooking for one
 equipment:
-- Fryer
-- Oven
+  - Skillet
+  - Food thermometer
+  - Salad bowl
 tags:
-- Restaurant replica
-- Appetizers
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 焙煎胡麻雞沙拉
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Home cooking
+intro: Cook the chicken breast in a skillet, then serve it with vegetables and
+  sesame dressing. Do not rinse raw chicken; use a thermometer to verify
+  doneness.
 steps:
-- Separate, wash, and spin-dry 綜合生菜 120 g; halve 小番茄 8 pcs; thinly slice 酸黃瓜 50 g; keep separate to avoid excess moisture.
-- Heat the frying oil to 170°C; fry the chicken for 6–7 minutes until golden and cooked through, then drain on a wire rack to stay crisp.
-- While chicken is still warm, snip into about 3 cm pieces with kitchen shears for easy mixing.
-- In a deep bowl, whisk 焙煎胡麻醬 2 tbsp with 海鹽 1/2 tsp; taste for salt and aroma.
-- Add greens to a large salad bowl; pour about 2/3 of the sesame dressing and toss gently to coat each leaf.
-- Transfer dressed greens to a large platter; mound fried chicken in the center and garnish with tomatoes and pickles for color and acidity.
-- Drizzle remaining sesame dressing; sprinkle a little white sesame; serve while chicken skin is still crisp.
+  - Pat the chicken dry. If it is unevenly thick, butterfly or gently pound it
+    to an even thickness; season both sides with salt and pepper. Do not rinse
+    raw poultry.
+  - Heat the oil in a skillet over medium heat. Cook the chicken for about 5–7
+    minutes, turn, and continue until the thickest center reaches 74°C / 165°F.
+    Cook longer and recheck if needed.
+  - Transfer the chicken to a clean board and rest briefly before slicing. Wash
+    and dry the greens; slice the cucumber and halve the tomatoes.
+  - Toss the vegetables with the sesame dressing and top with the sliced chicken.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - Use a clean board and knife for cooked chicken, separate from anything used
+    for raw poultry. The chicken center must reach 74°C / 165°F.
+storage: Refrigerate the chicken and vegetables separately within 2 hours and
+  use within 3 days. Keep the dressing separate.
+substitutions: []
 relatedIngredients:
-- 綜合生菜
-- 炸雞
-- 小番茄
-- 酸黃瓜
+  - Boneless skinless chicken breast
+  - Mixed salad greens
+  - Sesame dressing
 customAdditions: []
 faqs:
-- question: What makes this 焙煎胡麻雞沙拉 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: Can I use ready-cooked chicken?
+    answer: Yes. Store or reheat it according to its package directions, then slice
+      it. If reheating, bring the center to 74°C / 165°F.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 綜合生菜
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 炸雞
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 小番茄
-  amount: "8"
-  unit: 顆
-  isCore: true
-- name: 酸黃瓜
-  amount: "50"
-  unit: 公克
-  isCore: true
+  - name: Boneless skinless chicken breast
+    amount: "150"
+    unit: g
+    isCore: true
+  - name: Mixed salad greens
+    amount: "80"
+    unit: g
+    isCore: true
+  - name: Cucumber
+    amount: 1/2
+    unit: ""
+    isCore: false
+  - name: Cherry tomatoes
+    amount: "80"
+    unit: g
+    isCore: false
+  - name: Sesame dressing
+    amount: "1.5"
+    unit: tbsp
+    isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
-- name: 焙煎胡麻醬
-  amount: "2"
-  unit: 大匙
-- name: White sesame seeds
-  amount: pinch
-  unit: ""
+  - name: Neutral oil
+    amount: "1"
+    unit: tsp
+  - name: Salt
+    amount: 1/4
+    unit: tsp
+  - name: Black pepper
+    amount: to taste
+    unit: ""
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Cook the chicken breast to 74°C / 165°F at the center before slicing. Keep the greens dry and add the sesame dressing just before serving.

@@ -1,109 +1,84 @@
 ---
-title: Moon View Bitter Melon Cream Rice
+title: Bitter Melon Cream Egg Fried Rice
 recipeId: sf-moon-view-bitter-melon-cream-rice
-description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 鹹蛋、山苦瓜、蕈菇、生蛋、起司."
+description: Fried cooked rice with bitter melon, egg, and a small amount of
+  cream; cook the egg fully.
 coverImage: /images/recipes/sf-moon-view-bitter-melon-cream-rice.webp
 servings: 1
-prepTime: 18
-cookTime: 18
-totalTime: 36
+prepTime: 10
+cookTime: 15
+totalTime: 25
 difficulty: Medium
-calories: 690
-protein: 30
-fat: 26
-carbs: 84
 category: "Rice & pasta"
 scenarios:
-- High-protein meals
-- Cooking for one
+  - Cooking for one
 equipment:
-- Skillet
-- Pot
+  - Skillet
+  - Spatula
 tags:
-- Restaurant replica
-- Rice & pasta
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 月見苦瓜奶油飯
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Home cooking
+intro: This single-serving fried rice uses a little cream for a rounder texture.
+  Cook the egg until fully set; it is not mixed in raw or cooked by residual
+  rice heat.
 steps:
-- "Prep: slice 120 g bitter melon thin after removing seeds, soak in salted water 5 minutes and drain; slice 120 g mushrooms; crush salted egg to taste; cube 40 g cheese; have 1 raw egg ready; warm 250 ml broth."
-- Heat 1 Tbsp olive oil in a skillet over medium; stir-fry mushrooms 2 minutes until moisture cooks off; add bitter melon and salted egg and cook 3 minutes until melon softens slightly and salted egg turns sandy and fragrant; set aside.
-- In the same pan, stir-fry 220 g cream rice over medium heat 2 minutes until grains are coated with oil (toast the rice).
-- Reduce to medium-low; add hot broth in 1/2-ladle additions, stirring until absorbed each time, repeat 4–5 times about 8 minutes until creamy texture.
-- Stir in heavy cream to taste with 1/3 tsp sea salt, 1/4 tsp cracked black pepper, and 1/2 tsp chili flakes; simmer 1 minute to thicken.
-- Return bitter melon, mushrooms, and salted egg; toss with cream rice; fold in 40 g cheese until half-melted.
-- Plate and crack 1 raw egg in the center (moon-view style); let residual heat set the white slightly while keeping the yolk runny.
-- Serve hot; break the yolk and mix the rich egg into the cream rice.
+  - Remove the seeds from the bitter melon and slice it thinly. Slice the
+    scallion. Beat the egg with the cream.
+  - Heat the oil in a skillet over medium heat. Cook the bitter melon for 3–4
+    minutes until softened; add a teaspoon of water if the pan gets dry.
+  - Add the rice, salt, and pepper and break up any clumps. Push the rice to the
+    side, pour in the egg mixture, and stir until no liquid egg remains. Fold it
+    through the rice.
+  - Top with scallion and serve hot.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 義大利麵
-- 香米
+  - Soften the bitter melon before adding the rice. Cook the egg until fully
+    set. If using chilled leftover rice, break it up first and heat the whole
+    dish until steaming.
+storage: Refrigerate leftovers within 2 hours and use within 1 day. Reheat while
+  stirring until steaming throughout; egg dishes should reach 74°C / 165°F.
+substitutions: []
 relatedIngredients:
-- 鹹蛋
-- 山苦瓜
-- 蕈菇
-- 生蛋
-customAdditions:
-- Extra chili flakes
-- House chili sauce
+  - Cooked white rice
+  - Bitter melon
+  - Egg
+customAdditions: []
 faqs:
-- question: What makes this 月見苦瓜奶油飯 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "Can I prepare this ahead of time?"
-  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
+  - question: Can I leave out the cream?
+    answer: Yes. Replace it with the same amount of milk or omit it; still cook the
+      egg until fully set.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 鹹蛋
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 山苦瓜
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 蕈菇
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 生蛋
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 起司
-  amount: "40"
-  unit: 公克
-  isCore: false
-- name: 奶油飯
-  amount: "220"
-  unit: 公克
-  isCore: false
+  - name: Cooked white rice
+    amount: "200"
+    unit: g
+    isCore: true
+  - name: Bitter melon
+    amount: "60"
+    unit: g
+    isCore: true
+  - name: Egg
+    amount: "1"
+    unit: ""
+    isCore: true
+  - name: Heavy cream
+    amount: "1"
+    unit: tbsp
+    isCore: false
+  - name: Scallion
+    amount: "1"
+    unit: ""
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 鮮奶油
-  amount: "適量"
-  unit: ""
-- name: 辣椒碎
-  amount: "1/2"
-  unit: 小匙
+  - name: Neutral oil
+    amount: "1"
+    unit: tsp
+  - name: Salt
+    amount: 1/4
+    unit: tsp
+  - name: Black pepper
+    amount: to taste
+    unit: ""
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Stir-fry cooked rice with bitter melon, then add egg mixed with a little cream and cook it through. The egg is not served raw or left to cook from residual heat.

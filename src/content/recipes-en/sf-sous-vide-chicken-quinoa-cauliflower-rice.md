@@ -1,93 +1,97 @@
 ---
-title: Sous Vide Chicken Quinoa Cauliflower Rice
+title: Sous Vide Chicken Quinoa Cauliflower Rice Bowl
 recipeId: sf-sous-vide-chicken-quinoa-cauliflower-rice
-description: "Second Floor Cafe-inspired light plates with restaurant-style portions and 舒肥雞、花椰菜飯、藜麥、火烤玉米、起司醬."
+description: A bowl of quinoa, cauliflower rice, corn, and packaged fully cooked
+  sous vide chicken.
 coverImage: /images/recipes/sf-sous-vide-chicken-quinoa-cauliflower-rice.webp
 servings: 1
-prepTime: 20
-cookTime: 12
-totalTime: 32
+prepTime: 10
+cookTime: 25
+totalTime: 35
 difficulty: Easy
-calories: 500
-protein: 32
-fat: 18
-carbs: 42
-category: "Light plates"
+category: "Light meals"
 scenarios:
-- Cooking for one
-- "Light & lean meals"
+  - Cooking for one
 equipment:
-- Skillet
-- Salad bowl
+  - Small saucepan
+  - Skillet
+  - Bowl
 tags:
-- Restaurant replica
-- Light plates
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 舒肥雞藜麥花椰飯
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Home cooking
+intro: Use sous vide chicken labeled fully cooked and ready to eat. If the
+  package says the product needs cooking, follow its complete package
+  directions; this recipe’s timing does not apply. Cook the quinoa and
+  cauliflower rice separately before assembling.
 steps:
-- "Prep: slice 180 g sous-vide chicken thick; dice 100 g fire-roasted corn; cook 80 g quinoa per package and drain; heat 120 g cauliflower rice; warm 2 Tbsp cheese sauce."
-- In a salad bowl, layer 120 g cauliflower rice and 80 g quinoa; drizzle 1/2 Tbsp olive oil and a pinch of sea salt and toss for the grain base.
-- Heat 1/2 Tbsp olive oil in a skillet over medium; sear sous-vide chicken 1–2 minutes per side until golden while keeping the center tender; rest 2 minutes and slice on a bias.
-- In the same pan, dry-sear 100 g fire-roasted corn 1 minute until lightly charred for aroma; set aside with chicken (protein finish).
-- Arrange chicken slices and corn over the grains in a fan or layered pattern.
-- Drizzle 2 Tbsp cheese sauce over chicken and grains with the back of a spoon; add remaining 1/2 Tbsp olive oil.
-- Season with 1/3 tsp sea salt and cracked black pepper to taste; keep hot and cool layers distinct.
-- Serve while chicken is warm and grains are gently heated; toss lightly before eating for a balanced plate.
+  - Rinse the quinoa in a fine-mesh strainer. Add about 100 ml water, bring to a
+    boil, cover, and simmer for 15 minutes. Turn off the heat and rest covered
+    for 5 minutes, then fluff.
+  - Heat the olive oil in a skillet over medium heat. Add the cauliflower rice
+    and cooked corn; stir-fry for 5–7 minutes until hot throughout and tender.
+    Season with salt and pepper.
+  - Check that the sous vide chicken package says fully cooked and ready to eat.
+    If reheating is needed, follow its directions. For microwave reheating,
+    cover, turn the chicken as directed, and heat until the center reaches 74°C
+    / 165°F.
+  - Add the quinoa, cauliflower rice, corn, and chicken to a bowl. Stir the
+    yogurt with lemon juice, spoon it over the bowl, and serve promptly.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 綜合生菜
-- 花椰菜飯
+  - Do not treat fully cooked sous vide chicken and raw or partially cooked
+    chicken as interchangeable. Cook raw or partially cooked products using the
+    complete package directions; only ready-to-eat cooked chicken can be sliced
+    and served as is.
+storage: Refrigerate opened cooked chicken and other cooked components within 2
+  hours and follow the package use-by date; use prepared components within 3
+  days. Reheat chicken to 74°C / 165°F.
+substitutions: []
 relatedIngredients:
-- 舒肥雞
-- 花椰菜飯
-- 藜麥
-- 火烤玉米
+  - Fully cooked sous vide chicken breast
+  - Quinoa
+  - Cauliflower rice
 customAdditions: []
 faqs:
-- question: What makes this 舒肥雞藜麥花椰飯 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: Can I slice raw sous vide chicken directly into the bowl?
+    answer: No. Only chicken labeled fully cooked and ready to eat can be served
+      directly. Cook raw or partially cooked products using the complete package
+      instructions.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 舒肥雞
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 花椰菜飯
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 藜麥
-  amount: "80"
-  unit: 公克
-  isCore: true
-- name: 火烤玉米
-  amount: "100"
-  unit: 公克
-  isCore: true
+  - name: Fully cooked sous vide chicken breast
+    amount: "150"
+    unit: g
+    isCore: true
+  - name: Quinoa
+    amount: "50"
+    unit: g
+    isCore: true
+  - name: Cauliflower rice
+    amount: "150"
+    unit: g
+    isCore: true
+  - name: Cooked corn kernels
+    amount: "60"
+    unit: g
+    isCore: false
+  - name: Plain yogurt
+    amount: "2"
+    unit: tbsp
+    isCore: false
+  - name: Lemon juice
+    amount: "1"
+    unit: tsp
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1.5"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 起司醬
-  amount: "2"
-  unit: 大匙
+  - name: Olive oil
+    amount: "1"
+    unit: tsp
+  - name: Salt
+    amount: 1/4
+    unit: tsp
+  - name: Black pepper
+    amount: to taste
+    unit: ""
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+The quinoa simmers for about 15 minutes and then rests covered for 5 minutes; cook the cauliflower rice separately until hot throughout. Use only chicken clearly labeled fully cooked and ready to eat unless following its full package cooking directions.

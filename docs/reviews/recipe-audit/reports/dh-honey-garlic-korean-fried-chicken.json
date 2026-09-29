@@ -1,8 +1,21 @@
 {
   "slug": "dh-honey-garlic-korean-fried-chicken",
-  "title": "蜂蜜蒜味韓式炸雞",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.88,
+  "coverage": [
+    "zh-TW",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "The revised four-locale recipe has not been independently cooked. Timing and final texture remain estimates pending home-kitchen verification. Unsupported protein, fat, and carbohydrate estimates were removed; nutrition is not presented as calculated.",
+      "suggested_fix": "Cook this exact recipe in a home kitchen and revise timing or texture guidance only when measured results support the change.",
+      "source": "agent"
+    }
+  ]
 }

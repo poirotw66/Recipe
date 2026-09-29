@@ -1,91 +1,78 @@
 ---
-title: 牛蛋小堡堡套餐 스타일 레시피
+title: 미니 소고기 달걀 버거
 recipeId: sf-mini-beef-egg-burger-set
-description: Second Floor Cafe 스타일로 小漢堡、牛肉排、煎蛋、薯條 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
+description: 완전히 익힌 달걀을 곁들인 미니 소고기 버거 2개입니다. 다진 소고기 중심은 71°C까지 익힙니다.
 coverImage: /images/recipes/sf-mini-beef-egg-burger-set.webp
 servings: 1
-prepTime: 15
-cookTime: 14
-totalTime: 29
+prepTime: 10
+cookTime: 20
+totalTime: 30
 difficulty: 쉬움
-calories: 590
-protein: 30
-fat: 20
-carbs: 58
-category: "키즈 플레이트"
+category: "어린이 메뉴"
 scenarios:
-- 도시락 반찬
-- 1인 요리
+  - 1인 요리
 equipment:
-- 프라이팬
+  - 프라이팬
+  - 식품용 온도계
 tags:
-- 맛집 재현
-- 키즈 플레이트
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 牛蛋小堡堡套餐
-  region: 全台連鎖
-intro: Second Floor Cafe에서 자주 보이는 조리 흐름을 참고해 한 접시 전체의 완성도를 살리는 방식으로 만듭니다.
+  - 집밥
+intro: 다진 소고기, 완전히 익힌 달걀, 치즈로 만드는 작은 버거입니다. 색깔로 익힘을 판단하지 말고 패티 중심이 71°C인지 온도계로 확인하세요.
 steps:
-- 미니 햄버거 번 適量을 가로로 자르고 소고기 패티 180g을 실온에 둡니다; 계란 프라이 適量과 감자튀김 250g을 준비합니다; 상추와 토마토를 씻어 썹니다.
-- 팬에 올리브 오일 1큰술을 중불로 달군 뒤 소고기 양면에 바다소금 1/3작은술과 후추 1/4작은술을 뿌리고 3분간 움직이지 않고 굽습니다.
-- 뒤집어 2~3분 더 익힌 뒤 건져 보온합니다.
-- 같은 팬에 달걀을 깨뜨려 중약불로 계란 프라이 또는 완숙으로 굽습니다(흰자가 익고 노른자는 취향대로, 약 2~3분).
-- 미니 번 안쪽을 1분 가볍게 노릇하게 토스트합니다.
-- 감자튀김은 포장 표시대로 황금색까지 조리하고 소금을 살짝 뿌립니다.
-- 아래 미니 번에 상추, 소고기, 계란 프라이를 올리고 윗번을 덮어 감자튀김과 함께 키즈 세트로 뜨겁게 낸다.
+  - 소고기를 두 덩이로 나누어 번보다 약간 크게 둥글게 빚습니다. 가운데를 살짝 눌러 홈을 만들고 양면에 소금과 후추를 뿌립니다.
+  - 팬에 기름을 두르고 중불로 달군 뒤 패티를 약 3~4분 굽고 뒤집습니다. 온도계를 옆에서 가장 두꺼운 중심에 넣어 71°C가 되면
+    꺼냅니다. 낮으면 더 굽고 다시 확인합니다.
+  - 같은 팬에서 흰자와 노른자가 모두 굳을 때까지 달걀을 익힙니다. 번의 자른 면을 굽고 상추, 토마토, 패티, 치즈, 달걀을 올립니다.
+  - 미니 버거 두 개로 내세요. 치즈를 부드럽게 하고 싶으면 뜨거운 패티 위에서 잠시 뚜껑을 덮습니다.
 tips:
-- 주재료와 소스를 따로 완성한 뒤 마지막에 합치면 질감 차이가 더 살아납니다.
-- 차가운 가니시와 뜨거운 단백질은 마지막에 합쳐야 매장 같은 결과가 납니다.
-- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
-storage: 가급적 당일 섭취를 권장합니다. 보관할 때는 재료와 소스를 나누어 냉장하고 먹기 직전에 부드럽게 다시 데우세요.
-substitutions:
-- 白飯
-- 玉米粒
+  - 다진 소고기는 겉면 색이나 자른 단면 색으로 안전한 익힘을 판단할 수 없습니다. 패티 중심이 71°C인지 확인하고 달걀도 완전히 익히세요.
+storage: 익힌 패티와 토핑은 따로 밀폐해 2시간 안에 냉장하고 3일 안에 먹습니다. 패티를 다시 데울 때 중심이 74°C가 되게 합니다.
+substitutions: []
 relatedIngredients:
-- 小漢堡
-- 牛肉排
-- 煎蛋
-- 薯條
+  - 다진 소고기
+  - 미니 버거 번
+  - 달걀
 customAdditions: []
 faqs:
-- question: 牛蛋小堡堡套餐 를 매장 스타일에 가깝게 만드는 핵심은 무엇인가요?
-  answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
-- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
-  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
+  - question: 달걀을 반숙으로 내도 되나요?
+    answer: 임신부, 어린이, 고령자, 면역력이 약한 사람에게는 흰자와 노른자를 모두 익혀 제공하세요. 이 조리법은 완숙 달걀을 사용합니다.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 小漢堡
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 牛肉排
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 煎蛋
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 薯條
-  amount: "250"
-  unit: 公克
-  isCore: true
+  - name: 다진 소고기
+    amount: "150"
+    unit: g
+    isCore: true
+  - name: 미니 버거 번
+    amount: "2"
+    unit: 개
+    isCore: true
+  - name: 달걀
+    amount: "1"
+    unit: 개
+    isCore: true
+  - name: 슬라이스 치즈
+    amount: "2"
+    unit: 장
+    isCore: false
+  - name: 상추
+    amount: "2"
+    unit: 장
+    isCore: false
+  - name: 토마토
+    amount: "2"
+    unit: 쪽
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: 식용유
+    amount: "1"
+    unit: 작은술
+  - name: 소금
+    amount: 1/4
+    unit: 작은술
+  - name: 후추
+    amount: 약간
+    unit: ""
 ---
 
-이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.
-
-주재료 준비, 소스 완성, 마지막 플레이팅 순서를 지키면 매장 스타일에 더 가깝게 만들 수 있습니다.
-
+다진 소고기를 사용하므로 패티 중심을 71°C까지 익혀야 합니다. 온도계를 옆면에서 넣으면 패티 중앙에 탐침을 두기 쉽습니다.

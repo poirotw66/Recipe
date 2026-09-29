@@ -1,86 +1,92 @@
 ---
-title: 朝日藍帶豬排堡 再現レシピ
+title: ポークコルドンブルーバーガー
 recipeId: sf-asahi-cordon-bleu-pork-burger
-description: Second Floor Cafe 風に 藍帶豬排、漢堡麵包、起司 を組み合わせた、店の一皿を意識した再現レシピです。
+description: 豚肉にハムとチーズを包んだ手作りカツを、温度を確認して焼き上げ、バンズにはさみます。
 coverImage: /images/recipes/sf-asahi-cordon-bleu-pork-burger.webp
 servings: 1
 prepTime: 20
-cookTime: 18
-totalTime: 38
+cookTime: 25
+totalTime: 45
 difficulty: 普通
-calories: 710
-protein: 36
-fat: 28
-carbs: 58
-category: "季節限定"
+category: "バーガー・サンド"
 scenarios:
-- 一人分の料理
+  - 一人分の料理
 equipment:
-- フライパン
-- オーブン
+  - オーブン
+  - フライパン
+  - 食品用温度計
 tags:
-- 名店再現
-- 季節限定
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 朝日藍帶豬排堡
-  region: 全台連鎖
-intro: Second Floor Cafe でよく見られる組み立て方を参考にし、皿全体の流れごと再現するイメージで作ります。
+  - 家庭料理
+intro: 薄切りの豚肉でハムとチーズを包み、衣をつけてオーブンで火を通してからバーガーにします。色やチーズの溶け具合ではなく、中心温度を確認してください。
 steps:
-- 藍帶豬排 220gを冷蔵庫から取り出し10分常温に戻す；ハンバーガーバンズ 2個を横切り；レタスを洗って水切り、トマトを薄切りにする。
-- フライパンを中火で熱し、オリーブオイル 大さじ1を入れる；豚カツ両面に海塩 1/3小匙と黒胡椒 1/4小匙を振る。
-- 中火で3分焼き底面がこんがりしたらひっくり返し、さらに3分；中のチーズが溶けていなければ弱火で蓋をして1分蒸し、取り出す。
-- 同じ鍋を拭き、バンの切り口を下にして油なしで1～2分、表面が焦げてサクサクに；取り出す。
-- 熱い豚カツに起司 40gをのせ、蓋または電子レンジ20秒で縁が溶けるまで。
-- 下のバンにレタス、トマト、熱い豚カツを重ね、上のバンをかぶせて軽く押す。
-- 半分に切るかそのまま温かいうちに、貳樓朝日藍帶豬排堡の厚みを再現する。
+  - オーブンを200°Cに予熱します。豚肉をラップではさみ、厚さ約1cmになるまで軽くたたきます。塩、こしょうを振り、中央にハムとチーズを置いて折り、端を押さえて閉じます。
+  - 小麦粉、溶き卵、パン粉の順につけます。フライパンに油を中火で熱し、両面を約2分ずつ焼いて焼き色をつけます。
+  - 天板に移して約10～15分焼きます。温度計を横から豚肉の最も厚い部分とハム・チーズの詰め物の中心に差します。両方が74°Cに達したら取り出します。未達なら焼き続けて再測定します。
+  - バンズの切り口を焼きます。レタス、トマト、豚カツをはさみ、熱いうちに食べます。
 tips:
-- 主役の具材とソースは別々に完成させ、最後に盛り付けると食感の差が残せます。
-- 冷たい付け合わせと温かい主菜は最後まで分けておくと、店らしい仕上がりになります。
-- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
-storage: できれば当日中がおすすめ。保存する場合は具材とソースを分けて冷蔵し、食べる前にやさしく温め直します。
-substitutions:
-- 時蔬
-- 白飯
+  - 詰め物をした豚肉料理です。豚肉の最も厚い部分と詰め物の中心を両方74°Cにします。詰め物のない豚肉に適用される63°Cと休ませ時間の基準は使いません。
+storage: 焼いた豚肉とバンズは分けて密閉し、2時間以内に冷蔵して3日以内に食べます。温め直すときは中心を74°Cにします。
+substitutions: []
 relatedIngredients:
-- 藍帶豬排
-- 漢堡麵包
-- 起司
+  - 薄切り豚ロース
+  - ハム
+  - スライスチーズ
+  - バーガーバンズ
+  - 卵
 customAdditions: []
 faqs:
-- question: 朝日藍帶豬排堡 を店っぽく仕上げるコツは？
-  answer: 主役の具材を先に整え、最後にソースをまとわせてから盛り付けると、レストランらしい厚みが出ます。
-- question: "主材料をパサつかせないコツは？"
-  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
+  - question: 冷凍のコルドンブルーを使えますか？
+    answer: 使えます。包装表示に従い、豚肉と詰め物の中心がどちらも74°Cに達したことを確認してください。このレシピの時間は使えません。
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 藍帶豬排
-  amount: "220"
-  unit: 公克
-  isCore: true
-- name: 漢堡麵包
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 起司
-  amount: "40"
-  unit: 公克
-  isCore: true
+  - name: 薄切り豚ロース
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: ハム
+    amount: "1"
+    unit: 枚
+    isCore: true
+  - name: スライスチーズ
+    amount: "1"
+    unit: 枚
+    isCore: true
+  - name: バーガーバンズ
+    amount: "1"
+    unit: 個
+    isCore: true
+  - name: レタス
+    amount: "2"
+    unit: 枚
+    isCore: false
+  - name: トマト
+    amount: "2"
+    unit: 枚
+    isCore: false
+  - name: 卵
+    amount: "1"
+    unit: 個
+    isCore: true
+  - name: 小麦粉
+    amount: "2"
+    unit: 大さじ
+    isCore: false
+  - name: パン粉
+    amount: "30"
+    unit: g
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: オリーブ油
+    amount: "1"
+    unit: 大さじ
+  - name: 塩
+    amount: 1/4
+    unit: 小さじ
+  - name: 黒こしょう
+    amount: 少々
+    unit: ""
 ---
 
-この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。
-
-主役の具材、ソース、盛り付けの順で仕上げると、店で出てくるような完成度に近づけます。
-
+ハムとチーズを薄い豚肉で包み、表面を焼いてからオーブンで火を通します。オーブン時間は厚さで変わるため、中心温度を目安にしてください。

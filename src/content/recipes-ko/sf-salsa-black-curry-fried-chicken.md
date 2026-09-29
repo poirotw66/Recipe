@@ -1,85 +1,81 @@
 ---
-title: 莎莎黑咖哩炸雞 스타일 레시피
+title: 블랙커리 치킨과 살사
 recipeId: sf-salsa-black-curry-fried-chicken
-description: Second Floor Cafe 스타일로 炸雞、黑咖哩醬、莎莎醬 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
+description: 닭고기를 얇게 전분 옷을 입혀 오븐에 익히고 블랙커리 소스와 토마토 살사를 곁들입니다.
 coverImage: /images/recipes/sf-salsa-black-curry-fried-chicken.webp
 servings: 2
-prepTime: 18
-cookTime: 18
-totalTime: 36
+prepTime: 15
+cookTime: 25
+totalTime: 40
 difficulty: 보통
-calories: 630
-protein: 30
-fat: 28
-carbs: 48
 category: "애피타이저"
 scenarios:
-- 야식
-- 1인 요리
+  - 함께 먹는 요리
 equipment:
-- 튀김냄비
-- 오븐
+  - 오븐
+  - 베이킹 팬
+  - 식품용 온도계
 tags:
-- 맛집 재현
-- 애피타이저
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 莎莎黑咖哩炸雞
-  region: 全台連鎖
-intro: Second Floor Cafe에서 자주 보이는 조리 흐름을 참고해 한 접시 전체의 완성도를 살리는 방식으로 만듭니다.
+  - 집밥
+intro: 전분을 얇게 묻힌 닭고기를 구워 두 가지 소스와 함께 냅니다. 조각 크기가 다를 수 있으므로 가장 큰 조각의 중심 온도를 확인하세요.
 steps:
-- 튀김 닭 適量을 한입 크기로 자르고 키친타월로 물기를 완전히 뺍니다; 바다소금 1/2작은술과 후추 약간을 넣고 10분 재웁니다.
-- 닭고기에 얇은 튀김가루를 고루 입혀 살짝 누르고 남은 가루를 털어냅니다.
-- 튀김기름 600ml를 170°C로 달군 뒤 닭고기를 소량씩 중불로 6~7분 튀겨 속까지 익고 겉이 잡힐 때까지 합니다.
-- 철망에 올려 3분 쉽니다.
-- 기름 온도를 185°C로 올려 1.5~2분 더 튀겨 황금색 바삭하게 만든 뒤 기름을 뺍니다.
-- 작은 그릇에 흑카레 소스 2큰술, 살사 소스 2큰술, 고춧가루 1/2작은술을 섞어 이중 딥 소스를 만듭니다.
-- 튀긴 닭을 담고 흑카레 살사 소스를 곁들여 찍어 먹으며, 貳樓 공유 플레이트의 바삭함을 재현합니다.
+  - 오븐을 220°C로 예열합니다. 닭고기를 약 3cm 크기로 썰고 전분, 기름, 소금, 후추, 카레 가루를 버무려 팬에 겹치지 않게
+    놓습니다.
+  - 12분 굽고 뒤집어 8~12분 더 굽습니다. 가장 큰 조각 중심에 온도계를 넣어 74°C 이상인지 확인합니다. 낮으면 더 굽고 다시
+    확인합니다.
+  - 토마토를 깍둑썰고 양파를 다져 레몬즙과 섞어 살사를 만듭니다. 블랙커리 소스를 작은 그릇에 담고 너무 되면 따뜻한 물 1작은술을 섞습니다.
+  - 닭고기가 기준 온도에 도달하면 살사와 블랙커리 소스를 따로 곁들여 따뜻할 때 냅니다.
 tips:
-- 주재료와 소스를 따로 완성한 뒤 마지막에 합치면 질감 차이가 더 살아납니다.
-- 차가운 가니시와 뜨거운 단백질은 마지막에 합쳐야 매장 같은 결과가 납니다.
-- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
-storage: 가급적 당일 섭취를 권장합니다. 보관할 때는 재료와 소스를 나누어 냉장하고 먹기 직전에 부드럽게 다시 데우세요.
-substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - 작은 조각이 큰 조각보다 먼저 마르지 않도록 비슷한 크기로 자릅니다. 가장 큰 조각 중심이 74°C인지 확인하세요.
+storage: 익힌 닭고기와 살사는 따로 밀폐해 2시간 안에 냉장하고 3일 안에 먹습니다. 닭고기를 다시 데울 때 중심이 74°C가 되게 합니다.
+substitutions: []
 relatedIngredients:
-- 炸雞
-customAdditions:
-- 추가 고춧가루
-- 수제 칠리소스
+  - 뼈 없는 닭다리살
+  - 토마토
+customAdditions: []
 faqs:
-- question: 莎莎黑咖哩炸雞 를 매장 스타일에 가깝게 만드는 핵심은 무엇인가요?
-  answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
-- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
-  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
+  - question: 닭가슴살을 써도 되나요?
+    answer: 가능합니다. 고르게 썰고 살코기가 쉽게 마르지 않도록 주의하세요. 가장 큰 조각도 74°C까지 익혀야 합니다.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 炸雞
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: 뼈 없는 닭다리살
+    amount: "300"
+    unit: g
+    isCore: true
+  - name: 옥수수전분
+    amount: "2"
+    unit: 큰술
+    isCore: false
+  - name: 토마토
+    amount: "1"
+    unit: 개
+    isCore: true
+  - name: 양파
+    amount: 1/4
+    unit: 개
+    isCore: false
+  - name: 레몬즙
+    amount: "1"
+    unit: 작은술
+    isCore: false
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
-- name: 黑咖哩醬
-  amount: "2"
-  unit: 大匙
-- name: 莎莎醬
-  amount: "2"
-  unit: 大匙
-- name: 辣椒碎
-  amount: "1/2"
-  unit: 小匙
+  - name: 카레 가루
+    amount: "1"
+    unit: 작은술
+  - name: 식용유
+    amount: "1"
+    unit: 큰술
+  - name: 소금
+    amount: 1/2
+    unit: 작은술
+  - name: 후추
+    amount: 약간
+    unit: ""
+  - name: 블랙커리 소스
+    amount: "1"
+    unit: 큰술
 ---
 
-이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.
-
-주재료 준비, 소스 완성, 마지막 플레이팅 순서를 지키면 매장 스타일에 더 가깝게 만들 수 있습니다.
-
+닭고기에 전분을 얇게 입혀 오븐에 굽고 생토마토 살사와 블랙커리 소스를 따로 곁들입니다. 가장 큰 닭고기 조각 중심 온도로 익힘을 확인합니다.

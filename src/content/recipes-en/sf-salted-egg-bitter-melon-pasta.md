@@ -1,105 +1,87 @@
 ---
-title: Salted Egg Bitter Melon Pasta
+title: Salted Egg, Bitter Melon, and King Oyster Mushroom Pasta
 recipeId: sf-salted-egg-bitter-melon-pasta
-description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 鹹蛋、山苦瓜、杏鮑菇、山藥、辣椒碎."
+description: "A measured home recipe for Salted Egg, Bitter Melon, and King
+  Oyster Mushroom Pasta, with clear preparation and cooking steps."
 coverImage: /images/recipes/sf-salted-egg-bitter-melon-pasta.webp
-servings: 1
-prepTime: 18
-cookTime: 18
-totalTime: 36
+servings: 2
+prepTime: 15
+cookTime: 20
+totalTime: 35
 difficulty: Medium
-calories: 690
-protein: 30
-fat: 26
-carbs: 84
 category: "Rice & pasta"
 scenarios:
-- High-protein meals
-- Cooking for one
+  - Meatless meals
 equipment:
-- Skillet
-- Pot
+  - Skillet
+  - Pot
 tags:
-- Restaurant replica
-- Rice & pasta
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 台式熱炒鹹蛋苦瓜麵
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Rice & pasta
+intro: "Boil the pasta just shy of tender and reserve some pasta water, then
+  finish the sauce in the pan. Return seafood or meat only at the end to avoid
+  overcooking."
 steps:
-- "Prep: seed and thinly slice bitter melon 120 g; salt 5 minutes, rinse to remove bitterness, and squeeze dry. Cut king oyster mushrooms 120 g into strips; peel and thinly slice yam 80 g and soak in cold water. Shell salted eggs as needed, separate whites and yolks, and dice. Mince garlic 2 cloves."
-- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook spaghetti 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
-- Heat olive oil 1 Tbsp in a skillet over medium heat; sauté minced garlic and chili flakes ½ tsp until fragrant, about 30 seconds.
-- Add king oyster mushrooms and yam slices; stir-fry over medium heat 3–4 minutes until slightly tender and colored. Add bitter melon and stir-fry over high heat 1–2 minutes until bright green and still crisp.
-- Push salted egg whites to the side; add salted egg yolks and salted egg yolk sauce 2 Tbsp to the center; press and stir over low heat into a flowing texture, about 1 minute; toss with vegetables.
-- Add 3–4 Tbsp pasta water; stir until sauce thickens and emulsifies.
-- Raise heat to high; add pasta and toss vigorously 1–2 minutes until salted egg sauce coats noodles and vegetables.
-- Taste and adjust with black pepper; plate in a deep dish and serve hot to match Second Floor Cafe Taiwanese salted egg bitter melon pasta.
+  - Shell the salted eggs and separate the whites and yolks; chop both. Seed and
+    thinly slice the bitter melon, cut the mushrooms into strips, and mince the
+    garlic.
+  - Boil a pot of water and cook the pasta until just shy of al dente, following
+    the package timing. Reserve about 120 ml pasta water, then drain.
+  - Heat the olive oil in a skillet over medium heat. Sauté the garlic and chili
+    flakes for about 30 seconds; add the mushrooms and cook until browned, then
+    stir-fry the bitter melon until bright green but still crisp.
+  - Add the salted egg whites and yolks. Press and stir over low heat until the
+    yolks break down, then add 60 ml pasta water and stir into a creamy sauce.
+  - Add the pasta and toss. Add reserved pasta water a little at a time if
+    needed; taste and season with black pepper before serving.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 義大利麵
-- 香米
+  - Salted eggs are already salty, so taste before adding any salt. Add pasta
+    water gradually to keep the sauce from becoming thin.
+  - Boil the pasta just shy of tender and reserve some pasta water, then finish
+    the sauce in the pan. Return seafood or meat only at the end to avoid
+    overcooking.
+storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
+  toppings, greens, or soft-cooked eggs separately to protect texture.
 relatedIngredients:
-- 鹹蛋
-- 山苦瓜
-- 杏鮑菇
-- 山藥
-customAdditions:
-- Extra chili flakes
-- House chili sauce
-faqs:
-- question: What makes this 台式熱炒鹹蛋苦瓜麵 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+  - Salted eggs
+  - Bitter melon
+  - King oyster mushrooms
+  - Spaghetti
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 鹹蛋
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 山苦瓜
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 杏鮑菇
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 山藥
-  amount: "80"
-  unit: 公克
-  isCore: true
-- name: 義大利麵
-  amount: "180"
-  unit: 公克
-  isCore: false
+  - name: Salted eggs
+    amount: "2"
+    unit: ""
+    isCore: true
+  - name: Bitter melon
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: King oyster mushrooms
+    amount: "120"
+    unit: g
+    isCore: true
+  - name: Spaghetti
+    amount: "160"
+    unit: g
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 辣椒碎
-  amount: "1/2"
-  unit: 小匙
-- name: 鹹蛋黃醬
-  amount: "2"
-  unit: 大匙
+  - name: Olive oil
+    amount: "1"
+    unit: tbsp
+  - name: Garlic
+    amount: "2"
+    unit: cloves
+  - name: Chili flakes
+    amount: 1/4
+    unit: tsp
+  - name: Black pepper
+    amount: 1/4
+    unit: tsp
+faqs:
+  - question: Does this need extra salt?
+    answer: Usually not; the salted eggs season the sauce. Taste the finished dish
+      first and adjust only if needed.
 ---
-
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-

@@ -1,93 +1,86 @@
 ---
-title: 泡菜豆腐煎餅
-description: 參考涓豆腐常見做法還原 泡菜豆腐煎餅，保留 主廚推薦 系列的湯頭層次、配料比例與上桌份量。
+title: 泡菜嫩豆腐煎餅
+description: 將韓式泡菜、嫩豆腐與麵糊煎成酥香煎餅，搭配醬油醋沾醬。
 coverImage: /images/recipes/dh-kimchi-tofu-pancake.webp
 servings: 2
-prepTime: 25
-cookTime: 20
-totalTime: 45
-difficulty: 進階
-calories: 720
-protein: 34
-fat: 36
-carbs: 52
-category: "韓式主菜"
+prepTime: 20
+cookTime: 18
+totalTime: 38
+difficulty: 中等
+category: "韓式前菜"
 scenarios:
-- 宵夜料理
+  - 宵夜料理
 equipment:
-- 炸鍋
-- 鐵板或平底鍋
+  - 26公分平底鍋
+  - 大碗
+  - 鍋鏟
+  - 食物溫度計
 tags:
-- 名店還原
-- 主廚推薦
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 泡菜豆腐煎餅
-  region: 全台連鎖
-intro: 這道 泡菜豆腐煎餅 還原版，以 韓式泡菜 為核心，依照餐廳常見的備料、爆香、下鍋與上桌順序撰寫。
+  - 韓式煎餅
+intro: 將泡菜、嫩豆腐與青蔥拌入含蛋麵糊，以中小火煎至兩面金黃、中心達71°C，搭配醬油醋沾醬。
 steps:
-- "備料：韓式泡菜 100克 略擠乾湯汁後切小段；嫩豆腐 1包 用廚房紙巾包覆輕壓 5 分鐘去水分，再用手捏碎；青蔥 1根 切細段。"
-- 大碗中混合 中筋麵粉 150克、雞蛋 1顆、鹽 0.25少許 與 冷水 120 毫升，攪拌至無粉粒的略稠麵糊，靜置 10 分鐘讓麵粉吸水。
-- 將泡菜碎、豆腐碎與青蔥拌入麵糊，輕輕翻拌至均勻（泡菜已擠乾，避免出水讓麵糊變稀）。
-- 26 公分平底鍋以中火預熱 2 分鐘，倒入 韓式芝麻油 1大匙 均勻晃動鍋面，確認油紋出現即表示鍋夠熱。
-- 倒入全部麵糊，用鍋鏟由中心向外攤成圓餅，中火煎 3～4 分鐘至底部金黃定型、邊緣略翹起。
-- 以鍋鏟小心翻面，再煎 3 分鐘；期間輕壓餅面讓中心熟透，兩面皆呈金黃酥脆即可起鍋。
-- 切塊後搭配醬油醋沾醬或韓式沾醬趁熱上桌。
+  - 泡菜略擠乾後切小段；嫩豆腐用廚房紙巾輕壓5分鐘去除表面水分，再捏碎；青蔥切細段。
+  - 大碗中加入中筋麵粉150克、雞蛋1顆、鹽少許與清水80毫升，攪拌成濃稠麵糊，靜置10分鐘。
+  - 將泡菜、豆腐與青蔥拌入麵糊，輕輕翻拌至均勻。
+  - 26公分平底鍋以中火預熱，加入韓式芝麻油1大匙並晃勻。倒入麵糊攤成約1.5公分厚的圓餅，轉中小火煎約5～6分鐘至底部金黃定型。
+  - 用鍋鏟小心翻面，再煎約4～5分鐘至兩面金黃。用食物溫度計確認煎餅中心達71°C（160°F），未達時續煎並再次測量。
+  - 小碗混合醬油1大匙與米醋1小匙作沾醬；起鍋稍放後切塊，趁熱搭配沾醬。
 tips:
-- 烹調前請將醬料調和均勻，一次下鍋能確保風味分布完美。
-- 熱鍋熱油能快速鎖住食材水分，維持多汁口感。
-- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
-storage: 炸雞建議現炸現吃；鐵板肉類可冷藏 1 天後回鍋加熱。
+  - 翻面前確認邊緣定型，使用寬鍋鏟一次翻面，避免嫩豆腐煎餅破裂。
+  - 中心較厚時延長小火煎製，並以溫度計確認雞蛋煎餅中心達71°C。
+storage: 剩食於烹調後2小時內冷藏；平底鍋小火回煎至熱透，或用溫度計確認中心達74°C。
 substitutions:
-- 韓式泡菜
-- 中筋麵粉
+  - 韓式泡菜
+  - 中筋麵粉
 relatedIngredients:
-- 韓式泡菜
-- 嫩豆腐
-- 青蔥
-customAdditions:
-- 可改為全素配料
-- 蔥花
+  - 韓式泡菜
+  - 嫩豆腐
+  - 青蔥
+customAdditions: []
 faqs:
-- question: 如何把 泡菜豆腐煎餅 做得更像涓豆腐？
-  answer: 先把 主廚推薦 的醬料或湯頭煮到正確濃度，最後再下主要配料與嫩豆腐，最能還原門市口感。
-- question: "蔬菜出水時怎麼辦？"
-  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+  - question: 如何避免煎餅翻面時破裂？
+    answer: 嫩豆腐表面先壓去水分，麵糊靜置後攤成均勻厚度，等底部定型再翻面。
+  - question: 煎餅要煎到什麼程度？
+    answer: 兩面金黃後確認中心達71°C，確保含蛋麵糊完全熟透。
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 韓式泡菜
-  amount: "100"
-  unit: 克
-  isCore: true
-- name: 嫩豆腐
-  amount: "1"
-  unit: 包
-  isCore: true
-- name: 青蔥
-  amount: "1"
-  unit: 根
-  isCore: true
+  - name: 韓式泡菜
+    amount: "100"
+    unit: 克
+    isCore: true
+  - name: 嫩豆腐
+    amount: "1"
+    unit: 包
+    isCore: true
+  - name: 青蔥
+    amount: "1"
+    unit: 根
+    isCore: true
+  - name: 中筋麵粉
+    amount: "150"
+    unit: 克
+    isCore: true
+  - name: 雞蛋
+    amount: "1"
+    unit: 顆
+    isCore: true
+  - name: 清水
+    amount: "80"
+    unit: 毫升
+    isCore: false
 seasonings:
-- name: 中筋麵粉
-  amount: "150"
-  unit: 克
-- name: 雞蛋
-  amount: "1"
-  unit: 顆
-- name: 鹽
-  amount: "0.25"
-  unit: 少許
-- name: 韓式芝麻油
-  amount: "1"
-  unit: 大匙
+  - name: 鹽
+    amount: 少許
+    unit: ""
+  - name: 韓式芝麻油
+    amount: "1"
+    unit: 大匙
+  - name: 醬油
+    amount: "1"
+    unit: 大匙
+  - name: 米醋
+    amount: "1"
+    unit: 小匙
 ---
-
-泡菜豆腐煎餅 的在家還原版，重點是還原涓豆腐 主廚推薦 的湯頭或醬料層次，以及餐廳常見 of 2 人份鍋物／主菜份量。
-
-依照步驟先完成醬料或湯底，再組合主食材，就能做出接近門市視覺與風味的還原版。
-
-
-
-

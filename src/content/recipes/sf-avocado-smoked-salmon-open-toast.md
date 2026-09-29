@@ -1,100 +1,86 @@
 ---
-title: 酪梨燻鮭魚／歐包 Open
-description: 參考貳樓 Second Floor Cafe 常見做法，以 歐包、燻鮭、酪梨、水波蛋、酸豆、檸檬 還原 酪梨燻鮭魚／歐包 Open 的餐廳份量與風味層次。
+title: 酪梨燻鮭魚開放三明治
+description: 歐包搭配即食熱燻鮭魚、酪梨、全熟水波蛋與酸豆，分成兩份；鮭魚保持冷藏，上桌前才取出組裝。
 coverImage: /images/recipes/sf-avocado-smoked-salmon-open-toast.webp
-servings: 1
+servings: 2
 prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: 中等
-calories: 590
-protein: 32
-fat: 26
-carbs: 38
 category: "早午餐"
 scenarios:
 - 一人料理
-- 10 分鐘料理
 equipment:
-- 平底鍋
 - 烤箱
+- 平底鍋
+- 小湯鍋
+- 漏勺
 tags:
-- 名店還原
+- 家常料理
 - 開放三明治
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 酪梨燻鮭魚／歐包 Open
-  region: 全台連鎖
-intro: 這道 酪梨燻鮭魚／歐包 Open 參考貳樓 Second Floor Cafe 常見做法，會先把 歐包、燻鮭、酪梨 分段處理，再依 開放三明治 的出餐邏輯完成整盤。
+intro: 歐包搭配即食熱燻鮭魚、酪梨、全熟水波蛋與酸豆，分成兩份；鮭魚保持冷藏，上桌前才取出組裝。
 steps:
-- 歐包 2 份橫切，切面抹少許奶油，以 180°C 烤箱烤 5～7 分鐘至表面金黃微脆；檸檬 1/2 顆切角備用。
-- 酪梨 1 顆對半去核，果肉切薄片；燻鮭 120 公克從冷藏取出回溫，片狀保持完整。
-- 湯鍋燒滾水加 1 大匙醋，轉小火用勺子攪出漩渦，打入雞蛋 2 顆，小火燙煮約 3 分鐘至蛋白凝固、蛋黃流心，撈起瀝乾。
-- 烤好的歐包依序鋪上酪梨片與燻鮭，放上水波蛋 2 顆，點綴酸豆適量。
-- 淋橄欖油 1 大匙，撒海鹽 1/3 小匙、黑胡椒碎 1/4 小匙，旁附檸檬角擠汁後即可上桌。
+- 歐包切開，切面抹無鹽奶油，放入 180°C 烤箱烤 5～7 分鐘至酥脆。檸檬切角。
+- 酪梨去核切片；燻鮭魚取出後保持冷藏，組裝前再拆開切片，不需回溫。
+- 水鍋煮沸後加白醋並轉小火，雞蛋逐顆滑入水中，煮至蛋白與蛋黃均凝固後撈起瀝乾。
+- 在烤好的歐包上依序放酪梨、燻鮭魚與熟透的水波蛋，撒上酸豆。
+- 淋橄欖油，撒鹽、黑胡椒，搭配檸檬角，立即享用。
 tips:
-- 麵包要先烤到外脆內軟，再疊上溫熱主料，才會有門市開放三明治的對比口感。
-- 水波蛋與生菜最後上桌，才能保留蛋黃流心和葉菜的新鮮度。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
-storage: 建議現做現吃；若要提前準備，麵包與配料請分開保存，食用前再組裝。
-substitutions:
-- 酸種麵包
-- 丹麥麵包
+- 水波蛋瀝乾後再放到麵包上，減少水分浸濕麵包。
+- 培根、香腸或燻鮭魚已有鹹味，先試味再加材料表中的鹽。
+storage: 組裝後立即食用。剩餘麵包與配料分開保存；蛋、肉與魚依包裝期限並在 2 小時內冷藏於 4°C 以下，室溫超過 32°C 時縮短為 1 小時。熟蛋與肉翌日回熱至 74°C，酪梨切開後當天食用。
+substitutions: []
 relatedIngredients:
 - 歐包
 - 燻鮭
 - 酪梨
 - 水波蛋
-customAdditions:
-- 水波蛋加一顆
-- 巴薩米克另外放
-faqs:
-- question: 想把 酪梨燻鮭魚／歐包 Open 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 歐包與燻鮭 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+customAdditions: []
+faqs: []
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-09'
+updatedAt: "2026-09-29"
 ingredients:
 - name: 歐包
-  amount: "2"
-  unit: 份
+  amount: '2'
+  unit: 片（共約 100 克）
   isCore: true
-- name: 燻鮭
-  amount: "120"
+- name: 即食熱燻鮭魚
+  amount: '80'
   unit: 公克
   isCore: true
 - name: 酪梨
-  amount: "1"
+  amount: '1'
   unit: 顆
   isCore: true
-- name: 水波蛋
-  amount: "2"
+- name: 雞蛋
+  amount: '2'
   unit: 顆
   isCore: true
 - name: 酸豆
-  amount: "適量"
-  unit: ""
+  amount: '1'
+  unit: 大匙
   isCore: false
 - name: 檸檬
-  amount: "1/2"
+  amount: 1/2
   unit: 顆
   isCore: false
 seasonings:
 - name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
+  amount: '1'
   unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
+- name: 無鹽奶油
+  amount: '5'
+  unit: 公克
+- name: 白醋
+  amount: '1'
+  unit: 小匙
+- name: 海鹽
+  amount: 1/8
+  unit: 小匙
+- name: 黑胡椒
+  amount: 1/8
   unit: 小匙
 ---
 
-酪梨燻鮭魚／歐包 Open 的在家還原版，重點是把 歐包、燻鮭、酪梨 做出分層口感，並保留貳樓常見的 開放三明治 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-
+歐包搭配即食熱燻鮭魚、酪梨、全熟水波蛋與酸豆，分成兩份；鮭魚保持冷藏，上桌前才取出組裝。

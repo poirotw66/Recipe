@@ -1,86 +1,86 @@
 ---
 title: 南洋辛香雞肉飯
-description: 參考貳樓 Second Floor Cafe 常見做法，以 南洋香料、雞肉、燉飯 還原 南洋辛香雞肉飯 的餐廳份量與風味層次。
+description: 在家製作「南洋辛香雞肉飯」，依照份量處理食材並按步驟完成烹調。
 coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.webp
-servings: 1
-prepTime: 20
-cookTime: 18
-totalTime: 38
+servings: 2
+prepTime: 15
+cookTime: 25
+totalTime: 40
 difficulty: 中等
-calories: 710
-protein: 36
-fat: 28
-carbs: 70
 category: "限定主餐"
 scenarios:
-- 一人料理
+  - 平日快速料理
+  - 一人份料理
 equipment:
-- 平底鍋
-- 烤箱
+  - 平底鍋
+  - 小湯鍋
 tags:
-- 名店還原
-- 季節限定
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 南洋辛香雞肉飯
-  region: 全台連鎖
-intro: 這道 南洋辛香雞肉飯 參考貳樓 Second Floor Cafe 常見做法，會先把 南洋香料、雞肉、燉飯 分段處理，再依 季節限定 的出餐邏輯完成整盤。
+  - 季節限定
+intro: 使用已煮熟並撥鬆的米飯，待配料炒熟後再加入，讓米粒吸附醬汁再起鍋。
 steps:
-- 備料：海鹽 1/3 小匙與黑胡椒碎 1/4 小匙各取一半，和南洋香料適量拌入雞肉 180 公克醃 10 分鐘，剩餘鹽與胡椒留到收尾調味；燉飯適量回溫，高湯 250 毫升加熱保溫。
-- 平底鍋中火下橄欖油 1 大匙，下醃雞肉與南洋香料 適量 翻炒 5～6 分鐘至表面金黃、中心全熟，盛出備用。
-- 同鍋倒入燉飯 適量，中火翻炒 2 分鐘至米粒外層透油、散開炒香（炒米）。
-- 轉中小火，每次加入約 1/2 杓熱高湯，待吸收後再加下一杓，推拌 4～5 次約 8 分鐘至米粒呈奶油燉飯質地。
-- 將雞肉回鍋與燉飯拌勻，以剩餘的海鹽、黑胡椒碎試味調整。
-- 轉中火收乾至每粒飯裹上辛香料油、帶微黏稠咬勁。
-- 盛盤後可再撒少許南洋香料提香。
-- 趁熱上桌，還原貳樓南洋辛香雞肉飯的濃郁風味。
+  - 雞腿肉切成一口大小；甜椒和洋蔥切丁。咖哩粉、孜然、薑黃、鹽與胡椒混合。
+  - 平底鍋加油，中火將雞肉煎炒至中心 74°C，盛起。
+  - 同鍋炒洋蔥、甜椒 3 分鐘，加入熟飯和一半香料翻炒至熱透。
+  - 雞肉回鍋，加入剩餘香料拌勻；試味後趁熱分成兩份。
 tips:
-- 限定品項通常以單一強烈味型作為辨識點，先把那個核心風味做好最重要。
-- 若參考的是食記版本，建議用門市常見配菜邏輯補齊整體份量。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
-storage: 限定品項以現做現吃為佳；若需冷藏，醬汁與主體請分開保存。
+  - 處理生肉後請清洗雙手、刀具和砧板；禽肉中心需達 74°C，魚肉需達 63°C。
+  - 使用已煮熟並撥鬆的米飯，待配料炒熟後再加入，讓米粒吸附醬汁再起鍋。
+storage: 建議現做現吃；剩食請於烹調後 2 小時內冷藏，並在 3～4 天內食用。冷藏剩食回熱時應加熱至中心
+  74°C。含生菜、酥炸食材或半熟蛋的組合，請分開保存以維持口感。
 substitutions:
-- 時蔬
-- 白飯
+  - 時蔬
+  - 白飯
 relatedIngredients:
-- 南洋香料
-- 雞肉
-- 燉飯
+  - 南洋香料
+  - 雞肉
+  - 燉飯
 customAdditions: []
-faqs:
-- question: 想把 南洋辛香雞肉飯 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 南洋香料與雞肉 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 南洋香料
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 雞肉
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 燉飯
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: 去骨雞腿肉
+    amount: "300"
+    unit: 公克
+    isCore: true
+  - name: 熟白飯
+    amount: "360"
+    unit: 公克
+    isCore: true
+  - name: 紅甜椒
+    amount: "80"
+    unit: 公克
+    isCore: true
+  - name: 洋蔥
+    amount: "60"
+    unit: 公克
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: 橄欖油
+    amount: "1"
+    unit: 大匙
+    isCore: true
+  - name: 咖哩粉
+    amount: "1"
+    unit: 小匙
+    isCore: true
+  - name: 孜然粉
+    amount: 1/2
+    unit: 小匙
+    isCore: true
+  - name: 薑黃粉
+    amount: 1/4
+    unit: 小匙
+    isCore: true
+  - name: 海鹽
+    amount: 1/2
+    unit: 小匙
+    isCore: true
+  - name: 黑胡椒
+    amount: 1/4
+    unit: 小匙
+    isCore: true
+faqs:
+  - question: 如何確認肉類熟度？
+    answer: 使用食物溫度計測量最厚處中心；雞肉需達 74°C，魚肉需達 63°C。
 ---
-南洋辛香雞肉飯 的在家還原版，重點是把 南洋香料、雞肉、燉飯 做出分層口感，並保留貳樓常見的 季節限定 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-

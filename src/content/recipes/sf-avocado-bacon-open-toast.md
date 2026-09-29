@@ -1,96 +1,86 @@
 ---
-title: 酪梨慢煎培根／歐包 Open
-description: 參考貳樓 Second Floor Cafe 常見做法，以 歐包、酪梨、培根、水波蛋、巴薩米克 還原 酪梨慢煎培根／歐包 Open 的餐廳份量與風味層次。
+title: 酪梨培根開放三明治
+description: 烤酥的歐包搭配酪梨、煎培根與全熟水波蛋，兩片分成兩份輕食；上桌前才組裝，麵包較不易濕軟。
 coverImage: /images/recipes/sf-avocado-bacon-open-toast.webp
-servings: 1
+servings: 2
 prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: 中等
-calories: 520
-protein: 24
-fat: 26
-carbs: 38
 category: "早午餐"
 scenarios:
 - 一人料理
-- 10 分鐘料理
 equipment:
-- 平底鍋
 - 烤箱
+- 平底鍋
+- 小湯鍋
+- 漏勺
 tags:
-- 名店還原
+- 家常料理
 - 開放三明治
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 酪梨慢煎培根／歐包 Open
-  region: 全台連鎖
-intro: 這道 酪梨慢煎培根／歐包 Open 參考貳樓 Second Floor Cafe 常見做法，會先把 歐包、酪梨、培根 分段處理，再依 開放三明治 的出餐邏輯完成整盤。
+intro: 烤酥的歐包搭配酪梨、煎培根與全熟水波蛋，兩片分成兩份輕食；上桌前才組裝，麵包較不易濕軟。
 steps:
-- 歐包 2 份橫切，切面抹少許奶油，以 180°C 烤箱烤 5～7 分鐘至表面金黃微脆（或用平底鍋小火煎至兩面焦香）。
-- 培根 80 公克切小片，平底鍋不需加油，中小火慢煎至出油、邊緣微脆，起鍋用紙巾吸去多餘油分。
-- 酪梨 1 顆對半去核，果肉切薄片，可淋少許檸檬汁防氧化。
-- 湯鍋燒滾水加 1 大匙醋，轉小火用勺子攪出漩渦，打入雞蛋 2 顆，小火燙煮約 3 分鐘至蛋白凝固、蛋黃流心，撈起瀝乾。
-- 烤好的歐包依序鋪上酪梨片與培根，放上水波蛋 2 顆。
-- 淋橄欖油 1 大匙，撒海鹽 1/3 小匙、黑胡椒碎 1/4 小匙，再淋巴薩米克適量，趁熱上桌。
+- 歐包兩片切面抹上無鹽奶油，放入 180°C 烤箱烤約 5～7 分鐘至酥脆。
+- 培根切成 1 公分寬，乾鍋中小火煎約 3～4 分鐘至熟透酥脆，取出瀝油。
+- 酪梨去核切片，檸檬切角。
+- 小湯鍋煮水，加入白醋後轉小火。雞蛋逐顆打入小杯再滑入水中，煮至蛋白、蛋黃皆凝固，撈起瀝乾。
+- 歐包上放酪梨、培根與全熟水波蛋，每人一片。
+- 淋橄欖油、巴薩米克醋，試味後撒鹽與黑胡椒，附檸檬角立即上桌。
 tips:
-- 麵包要先烤到外脆內軟，再疊上溫熱主料，才會有門市開放三明治的對比口感。
-- 水波蛋與生菜最後上桌，才能保留蛋黃流心和葉菜的新鮮度。
-- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
-storage: 建議現做現吃；若要提前準備，麵包與配料請分開保存，食用前再組裝。
-substitutions:
-- 酸種麵包
-- 丹麥麵包
+- 水波蛋瀝乾後再放到麵包上，減少水分浸濕麵包。
+- 培根、香腸或燻鮭魚已有鹹味，先試味再加材料表中的鹽。
+storage: 組裝後立即食用。剩餘麵包與配料分開保存；蛋、肉與魚依包裝期限並在 2 小時內冷藏於 4°C 以下，室溫超過 32°C 時縮短為 1 小時。熟蛋與肉翌日回熱至 74°C，酪梨切開後當天食用。
+substitutions: []
 relatedIngredients:
 - 歐包
 - 酪梨
 - 培根
 - 水波蛋
-customAdditions:
-- 水波蛋加一顆
-- 巴薩米克另外放
-faqs:
-- question: 想把 酪梨慢煎培根／歐包 Open 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 歐包與酪梨 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "蔬菜出水時怎麼辦？"
-  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+customAdditions: []
+faqs: []
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-09'
+updatedAt: "2026-09-29"
 ingredients:
 - name: 歐包
-  amount: "2"
-  unit: 份
+  amount: '2'
+  unit: 片（共約 100 克）
   isCore: true
 - name: 酪梨
-  amount: "1"
+  amount: '1'
   unit: 顆
   isCore: true
 - name: 培根
-  amount: "80"
+  amount: '60'
   unit: 公克
   isCore: true
-- name: 水波蛋
-  amount: "2"
+- name: 雞蛋
+  amount: '2'
   unit: 顆
   isCore: true
+- name: 檸檬
+  amount: 1/2
+  unit: 顆
+  isCore: false
 seasonings:
 - name: 橄欖油
-  amount: "1"
-  unit: 大匙
+  amount: '1'
+  unit: 小匙
+- name: 無鹽奶油
+  amount: '5'
+  unit: 公克
+- name: 白醋
+  amount: '1'
+  unit: 小匙
 - name: 海鹽
-  amount: "1/3"
+  amount: 1/8
   unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
+- name: 黑胡椒
+  amount: 1/8
   unit: 小匙
-- name: 巴薩米克
-  amount: "適量"
-  unit: ""
+- name: 巴薩米克醋
+  amount: '1'
+  unit: 小匙
 ---
 
-酪梨慢煎培根／歐包 Open 的在家還原版，重點是把 歐包、酪梨、培根 做出分層口感，並保留貳樓常見的 開放三明治 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-
+烤酥的歐包搭配酪梨、煎培根與全熟水波蛋，兩片分成兩份輕食；上桌前才組裝，麵包較不易濕軟。

@@ -1,104 +1,99 @@
 ---
 title: Griddled Butter Ham Sandwich
 recipeId: sf-griddled-butter-ham-sandwich
-description: "Second Floor Cafe-inspired handheld mains with restaurant-style portions and 歐包、火腿、起司、荷包蛋、薯塊、楓糖漿."
+description: "A measured home recipe for Griddled Butter Ham Sandwich, with
+  clear preparation and cooking steps."
 coverImage: /images/recipes/sf-griddled-butter-ham-sandwich.webp
-servings: 1
+servings: 2
 prepTime: 18
 cookTime: 15
 totalTime: 33
 difficulty: Medium
-calories: 850
-protein: 32
-fat: 46
-carbs: 58
 category: "Handheld mains"
 scenarios:
-- Bento-friendly dishes
-- Cooking for one
+  - Bento-friendly dishes
 equipment:
-- Skillet
-- Oven
+  - Skillet
+  - Small saucepan
+  - Oven
 tags:
-- Restaurant replica
-- Handheld mains
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 厚烤奶油 Ham 三明治
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Handheld mains
+intro: "Cook the filling first, toast the bread or tortilla, and assemble
+  shortly before serving so steam does not soften the exterior."
 steps:
-- Split baguette 2 portions horizontally; spread butter evenly on the cut sides. Have ham as needed, cheese 40 g, sunny-side eggs 2, and potato wedges 250 g ready.
-- Heat a skillet over low heat; toast baguette cut-side down until both sides are golden and crisp; set aside.
-- In the same skillet over medium heat, pan-fry ham as needed until lightly browned and fragrant; keep warm.
-- Add a little butter to the skillet; crack sunny-side eggs 2, cover, and fry 2–3 minutes until whites are set and yolks are semi-runny; keep warm.
-- Roast or pan-fry potato wedges 250 g at 350°F until golden and crisp; season lightly with salt and pepper.
-- On the toasted baguette, layer cheese 40 g, ham, and fried eggs in order; top with the other baguette half and press lightly.
-- Drizzle maple syrup 2 Tbsp and cream as needed; serve with potato wedges, sprinkled with sea salt 1/3 tsp and black pepper ¼ tsp while hot.
+  - Split baguette 2 portions horizontally; spread butter evenly on the cut
+    sides. Have ham as needed, cheese 40 g, sunny-side eggs 2, and potato wedges
+    250 g ready.
+  - Heat a skillet over low heat; toast baguette cut-side down until both sides
+    are golden and crisp; set aside.
+  - In the same skillet over medium heat, pan-fry ham as needed until lightly
+    browned and fragrant; keep warm.
+  - Add a little butter to the skillet; crack sunny-side eggs 2, cover, and fry
+    2–3 minutes until whites are set and yolks are semi-runny; keep warm.
+  - Roast or pan-fry potato wedges 250 g at 350°F until golden and crisp; season
+    lightly with salt and pepper.
+  - On the toasted baguette, layer cheese 40 g, ham, and fried eggs in order;
+    top with the other baguette half and press lightly.
+  - Drizzle maple syrup 2 Tbsp and ; serve with potato wedges, sprinkled with
+    sea salt 1/3 tsp and black pepper ¼ tsp while hot.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
+  - Prepare the fillings first and cook the eggs last. Cook eggs through, or use
+    pasteurized eggs if serving them runny.
+  - Cook the filling first, toast the bread or tortilla, and assemble shortly
+    before serving so steam does not soften the exterior.
+storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
+  toppings, greens, or soft-cooked eggs separately to protect texture.
 substitutions:
-- 漢堡麵包
-- 布里歐麵包
+  - burger buns
+  - brioche buns
 relatedIngredients:
-- 歐包
-- 火腿
-- 起司
-- 荷包蛋
+  - bread roll
+  - ham
+  - cheese
+  - fried eggs
 customAdditions:
-- Double cheese
-- Pickle slices
-faqs:
-- question: What makes this 厚烤奶油 Ham 三明治 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+  - Double cheese
+  - Pickle slices
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 歐包
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 火腿
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 起司
-  amount: "40"
-  unit: 公克
-  isCore: true
-- name: 荷包蛋
-  amount: "2"
-  unit: 顆
-  isCore: true
-- name: 薯塊
-  amount: "250"
-  unit: 公克
-  isCore: false
+  - name: bread roll
+    amount: "2"
+    unit: " servings"
+    isCore: true
+  - name: ham
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: cheese
+    amount: "40"
+    unit: g
+    isCore: true
+  - name: fried eggs
+    amount: "2"
+    unit: ""
+    isCore: true
+  - name: potato wedges
+    amount: "250"
+    unit: g
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 楓糖漿
-  amount: "2"
-  unit: 大匙
-- name: 鮮奶油
-  amount: "適量"
-  unit: ""
+  - name: olive oil
+    amount: "1"
+    unit: tbsp
+  - name: sea salt
+    amount: 1/3
+    unit: tsp
+  - name: cracked black pepper
+    amount: 1/4
+    unit: tsp
+  - name: maple syrup
+    amount: "2"
+    unit: tbsp
+faqs:
+  - question: Can I cook the eggs ahead?
+    answer: You can prep the other ingredients ahead. Cook the eggs close to serving
+      and to your preferred safe doneness.
 ---
-
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-

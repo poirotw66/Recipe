@@ -1,90 +1,71 @@
 ---
-title: 韓式BBQ鐵板翼板牛
-description: 參考涓豆腐常見做法還原 韓式BBQ鐵板翼板牛，保留 主廚推薦 系列的湯頭層次、配料比例與上桌份量。
+title: 韓式BBQ翼板牛快煎
+description: 翼板牛肉以韓式BBQ醬醃入味後快煎，搭配洋蔥與青蔥，份量為 2 人。
 coverImage: /images/recipes/dh-korean-bbq-beef-short-ribs.webp
 servings: 2
-prepTime: 25
-cookTime: 20
+prepTime: 30
+cookTime: 15
 totalTime: 45
-difficulty: 進階
-calories: 720
-protein: 34
-fat: 36
-carbs: 52
+difficulty: 中等
 category: "韓式主菜"
 scenarios:
-- 宵夜料理
+  - 宵夜料理
 equipment:
-- 炸鍋
-- 鐵板或平底鍋
+  - 鐵板或厚底平底鍋
+  - 食物溫度計
+  - 夾子
+  - 攪拌碗
 tags:
-- 名店還原
-- 主廚推薦
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 韓式BBQ鐵板翼板牛
-  region: 全台連鎖
-intro: 這道 韓式BBQ鐵板翼板牛 還原版，以 翼板牛肉 為核心，依照餐廳常見的備料、爆香、下鍋與上桌順序撰寫。
+  - 韓式主菜
+intro: 將翼板牛肉薄切，以韓式BBQ醬冷藏醃漬後分批快煎至63°C，靜置3分鐘，再與炒軟的洋蔥和青蔥一同上桌。
 steps:
-- 翼板牛肉 200克 逆紋切成約 0.3 公分薄片，洋蔥 0.5顆 切絲，青蔥 1根 切段備用。
-- 將 韓式BBQ燒烤醬 3大匙、韓式芝麻油 1大匙、蒜末 1大匙 混勻成醃料；牛肉片抓醃 15～30 分鐘（冷藏過夜更入味）。
-- 鐵板或鑄鐵鍋以大火預熱至冒輕煙，下 韓式芝麻油 1小匙 潤鍋。
-- 牛肉片單層鋪平，靜置 2 分鐘不要移動，待底部出現焦痕再翻面。
-- 翻面後續煎 1.5～2 分鐘，下洋蔥絲大火快炒 1 分鐘至透明出甜。
-- 牛肉熟後用廚房剪刀直接在鐵板上剪成適口大小，撒上青蔥段。
-- 趁熱上桌，還原涓豆腐鐵板烤肉分食節奏，可配白飯或生菜包食。
+  - 翼板牛肉200克逆紋切約0.5公分薄片；洋蔥0.5顆切絲，青蔥1根切段。
+  - 將韓式BBQ醬3大匙、韓式芝麻油1大匙與蒜末1大匙混勻，與牛肉拌合後冷藏醃15～30分鐘。
+  - 鐵板或厚底平底鍋以中大火充分預熱；加入韓式芝麻油1小匙潤鍋。牛肉分批單層鋪入，避免擁擠。
+  - 每面煎約1～2分鐘至上色；以食物溫度計確認牛肉中心達63°C（145°F），未達時繼續加熱並再次測量。達溫後移至乾淨盤子靜置3分鐘。
+  - 同鍋加入洋蔥絲炒約1～2分鐘至變軟，將牛肉連同肉汁放回鍋中短暫加熱至燙熱。
+  - 撒上青蔥段趁熱上桌，可搭配白飯或生菜；搭配食材依個人準備，不列入必要食材。
 tips:
-- 烹調前請將醬料調和均勻，一次下鍋能確保風味分布完美。
-- 熱鍋熱油能快速鎖住食材水分，維持多汁口感。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
-storage: 炸雞建議現炸現吃；鐵板肉類可冷藏 1 天後回鍋加熱。
+  - 牛肉薄片分批煎，避免鍋溫下降而出水。
+  - 翼板牛片達63°C後靜置至少3分鐘；勿以焦痕或「多汁」代替溫度判斷。
+storage: 剩食於烹調後2小時內冷藏，再加熱至中心74°C。
 substitutions:
-- 翼板牛肉
-- 韓式BBQ燒烤醬
+  - 翼板牛肉
+  - 韓式BBQ燒烤醬
 relatedIngredients:
-- 翼板牛肉
-- 洋蔥
-- 青蔥
-customAdditions:
-- 蔥花
-- 芝麻
+  - 翼板牛肉
+  - 洋蔥
+  - 青蔥
+customAdditions: []
 faqs:
-- question: 如何把 韓式BBQ鐵板翼板牛 做得更像涓豆腐？
-  answer: 先把 主廚推薦 的醬料或湯頭煮到正確濃度，最後再下主要配料與嫩豆腐，最能還原門市口感。
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+  - question: 牛肉要煎到什麼程度？
+    answer: 用食物溫度計確認中心達63°C，並靜置至少3分鐘後再食用。
+  - question: 如何避免牛肉出水？
+    answer: 鍋具充分預熱、牛肉分批單層煎，不要一次塞滿鍋面。
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 翼板牛肉
-  amount: "200"
-  unit: 克
-  isCore: true
-- name: 洋蔥
-  amount: "0.5"
-  unit: 顆
-  isCore: true
-- name: 青蔥
-  amount: "1"
-  unit: 根
-  isCore: true
+  - name: 翼板牛肉
+    amount: "200"
+    unit: 克
+    isCore: true
+  - name: 洋蔥
+    amount: "0.5"
+    unit: 顆
+    isCore: true
+  - name: 青蔥
+    amount: "1"
+    unit: 根
+    isCore: true
 seasonings:
-- name: 韓式BBQ燒烤醬
-  amount: "3"
-  unit: 大匙
-- name: 韓式芝麻油
-  amount: "1"
-  unit: 大匙
-- name: 蒜末
-  amount: "1"
-  unit: 大匙
+  - name: 韓式BBQ燒烤醬
+    amount: "3"
+    unit: 大匙
+  - name: 韓式芝麻油
+    amount: "4"
+    unit: 小匙
+  - name: 蒜末
+    amount: "1"
+    unit: 大匙
 ---
-
-韓式BBQ鐵板翼板牛 的在家還原版，重點是還原涓豆腐 主廚推薦 的湯頭或醬料層次，以及餐廳常見 of 2 人份鍋物／主菜份量。
-
-依照步驟先完成醬料或湯底，再組合主食材，就能做出接近門市視覺與風味的還原版。
-
-
-
-

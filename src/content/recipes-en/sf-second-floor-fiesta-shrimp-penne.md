@@ -1,95 +1,98 @@
 ---
 title: Second Floor Fiesta Shrimp Penne
 recipeId: sf-second-floor-fiesta-shrimp-penne
-description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and Taco 調味、鮮蝦、奶油醬."
+description: "A measured home recipe for Second Floor Fiesta Shrimp Penne, with
+  clear preparation and cooking steps."
 coverImage: /images/recipes/sf-second-floor-fiesta-shrimp-penne.webp
-servings: 1
+servings: 2
 prepTime: 18
 cookTime: 18
 totalTime: 36
 difficulty: Medium
-calories: 760
-protein: 38
-fat: 26
-carbs: 84
 category: "Rice & pasta"
 scenarios:
-- High-protein meals
-- Cooking for one
+  - Bento-friendly dishes
 equipment:
-- Skillet
-- Pot
+  - Skillet
+  - Small saucepan
 tags:
-- Restaurant replica
-- Rice & pasta
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 貳樓費氏鮮蝦長管麵
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Rice & pasta
+intro: "Boil the pasta just shy of tender and reserve some pasta water, then
+  finish the sauce in the pan. Return seafood or meat only at the end to avoid
+  overcooking."
 steps:
-- "Prep: peel and devein shrimp 180 g and pat dry; mix taco seasoning as needed with chili flakes ½ tsp into a Mexican spice blend. Mince garlic 2 cloves."
-- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook penne 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
-- Heat olive oil 1 Tbsp in a skillet over medium-high heat; lay shrimp in a single layer, sprinkle taco spice blend, and sear about 1 minute per side until pink, curled, and lightly charred with spice aroma; set aside.
-- Lower heat; sauté minced garlic until fragrant, about 20 seconds.
-- Add cream sauce as needed and 3–4 Tbsp pasta water; stir over low heat until lightly simmering and smooth with a creamy aroma.
-- Raise heat to high; add penne and seared shrimp; toss vigorously 1–2 minutes until cream sauce coats the tube centers.
-- Plate in a deep dish; sprinkle black pepper and a little chili flakes; serve hot to match Second Floor Cafe fiesta shrimp penne.
+  - "Prep: peel and devein shrimp 180 g and pat dry; mix taco seasoning as
+    needed with chili flakes ½ tsp into a Mexican spice blend. Mince garlic 2
+    cloves."
+  - Bring a large pot of water to a rolling boil over high heat; add sea salt
+    1/3 tsp. Cook penne 180 g 1 minute less than package time until al dente;
+    drain and reserve about ½ cup pasta cooking water.
+  - Heat olive oil 1 Tbsp in a skillet over medium-high heat; lay shrimp in a
+    single layer, sprinkle taco spice blend, and sear about 1 minute per side
+    until pink, curled, and lightly charred with spice aroma; set aside.
+  - Lower heat; sauté minced garlic until fragrant, about 20 seconds.
+  - Add cream sauce as needed and 3–4 Tbsp pasta water; stir over low heat until
+    lightly simmering and smooth with a creamy aroma.
+  - Raise heat to high; add penne and seared shrimp; toss vigorously 1–2 minutes
+    until cream sauce coats the tube centers.
+  - Plate in a deep dish
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
+  - Wash hands and tools after handling raw meat. Cook poultry to 165°F (74°C)
+    and fish to 145°F (63°C).
+  - Boil the pasta just shy of tender and reserve some pasta water, then finish
+    the sauce in the pan. Return seafood or meat only at the end to avoid
+    overcooking.
+storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
+  toppings, greens, or soft-cooked eggs separately to protect texture.
 substitutions:
-- 義大利麵
-- 香米
+  - pasta
+  - jasmine rice
 relatedIngredients:
-- Taco 調味
-- 鮮蝦
-- 長管麵
+  - taco seasoning
+  - shrimp
+  - penne
 customAdditions:
-- Extra chili flakes
-- House chili sauce
-faqs:
-- question: What makes this 貳樓費氏鮮蝦長管麵 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - Extra chili flakes
+  - House chili sauce
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: Taco 調味
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 鮮蝦
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 長管麵
-  amount: "180"
-  unit: 公克
-  isCore: true
+  - name: taco seasoning
+    amount: "1"
+    unit: tsp
+    isCore: true
+  - name: shrimp
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: penne
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: garlic cloves
+    amount: "2"
+    unit: cloves
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 奶油醬
-  amount: "適量"
-  unit: ""
-- name: 辣椒碎
-  amount: "1/2"
-  unit: 小匙
+  - name: olive oil
+    amount: "1"
+    unit: tbsp
+  - name: sea salt
+    amount: 1/3
+    unit: tsp
+  - name: cracked black pepper
+    amount: 1/4
+    unit: tsp
+  - name: prepared cream sauce
+    amount: "2"
+    unit: tbsp
+  - name: chili flakes
+    amount: 1/2
+    unit: tsp
+faqs:
+  - question: How can I check doneness?
+    answer: "Use a food thermometer at the thickest point: 165°F (74°C) for poultry
+      and 145°F (63°C) for fish."
 ---
-
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-

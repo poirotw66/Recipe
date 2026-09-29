@@ -1,89 +1,104 @@
 ---
-title: Kimchi & Tofu Pancake
+title: Kimchi Soft-Tofu Pancake
 recipeId: dh-kimchi-tofu-pancake
-description: "Dubu House-inspired chef specials recreating 泡菜豆腐煎餅 with restaurant-style broth depth and plating."
+description: "Korean kimchi, soft tofu, and batter are pan-fried into a savory
+  pancake served with soy-vinegar dip."
 coverImage: /images/recipes/dh-kimchi-tofu-pancake.webp
 servings: 2
-prepTime: 25
-cookTime: 20
-totalTime: 45
-difficulty: Advanced
-calories: 720
-protein: 34
-fat: 36
-carbs: 52
-category: "Chef specials"
+prepTime: 20
+cookTime: 18
+totalTime: 38
+difficulty: Medium
+category: "Korean appetizers"
 scenarios:
-- "Late-night meals"
+  - Late-night meals
 equipment:
-- Fryer
-- Griddle or skillet
+  - 26 cm skillet
+  - Mixing bowl
+  - Spatula
+  - Food thermometer
 tags:
-- Restaurant replica
-- Chef specials
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 泡菜豆腐煎餅
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+  - Korean pancakes
+intro: "Fold kimchi, soft tofu, and scallion into an egg batter, then pan-fry
+  over medium-low heat until golden and 71°C (160°F) at the center. Serve with
+  soy-vinegar dip."
 steps:
-- "Prep: Squeeze excess brine from kimchi 100 g and cut into small pieces; wrap soft tofu 1 pack in paper towels and press 5 minutes to remove moisture, then crumble by hand; cut scallion 1 into thin segments."
-- In a large bowl, mix all-purpose flour 150 g, egg 1, salt pinch, and cold water 120 ml into a slightly thick, lump-free batter; rest 10 minutes so the flour hydrates.
-- Fold kimchi, crumbled tofu, and scallion into the batter and gently mix until even (kimchi is already drained to keep the batter from thinning).
-- Preheat a 26 cm skillet over medium heat for 2 minutes; add toasted sesame oil 1 Tbsp and swirl to coat. When ripples appear in the oil, the pan is hot enough.
-- Pour in all the batter and spread from the center outward with a spatula into a round pancake. Pan-fry over medium heat 3–4 minutes until the bottom is golden and set and the edges lift slightly.
-- Carefully flip and cook 3 minutes more; press lightly so the center cooks through. When both sides are golden and crisp, remove from the pan.
-- Cut into pieces and serve hot with soy-vinegar dipping sauce or Korean dipping sauce.
+  - Squeeze excess liquid from the kimchi and chop it. Gently press the soft
+    tofu with paper towels for 5 minutes to remove surface moisture, then
+    crumble it. Finely cut the scallion.
+  - In a bowl, whisk together 150 g flour, 1 egg, a pinch of salt, and 80 ml
+    water into a thick batter. Rest for 10 minutes.
+  - Fold in the kimchi, tofu, and scallion until just combined.
+  - Preheat a 26 cm skillet over medium heat and add 1 tbsp Korean sesame oil.
+    Spread the batter into a round about 1.5 cm thick; lower to medium-low and
+    cook 5–6 minutes until the bottom is golden and set.
+  - Carefully flip with a wide spatula and cook another 4–5 minutes until both
+    sides are golden. Use a food thermometer to confirm the center reaches 71°C
+    (160°F); continue cooking and recheck if needed.
+  - Mix 1 tbsp soy sauce with 1 tsp rice vinegar for a dip. Let the pancake rest
+    briefly, cut into pieces, and serve hot with the dip.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
+  - Wait until the edges are set before flipping; use a wide spatula to reduce
+    breakage.
+  - If the center is thick, keep cooking gently and use a thermometer to check
+    that the egg batter reaches 71°C (160°F).
+storage: Refrigerate leftovers within 2 hours. Reheat gently in a skillet until
+  hot throughout, or use a thermometer to confirm the center reaches 74°C
+  (165°F).
 substitutions:
-- Korean kimchi
-- "all-purpose flour"
+  - Korean kimchi
+  - "all-purpose flour"
 relatedIngredients:
-- 韓式泡菜
-- 嫩豆腐
-- 青蔥
-customAdditions:
-- Can be made vegetarian
-- chopped scallions
+  - Korean kimchi
+  - soft tofu
+  - scallion
+customAdditions: []
 faqs:
-- question: How do I make this 泡菜豆腐煎餅 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+  - question: How do I keep the pancake from breaking?
+    answer: Press excess moisture from the tofu, rest the batter, spread it evenly,
+      and wait until the bottom sets before flipping.
+  - question: How do I know the pancake is done?
+    answer: After both sides are golden, confirm the center reaches 71°C (160°F) so
+      the egg batter is fully cooked.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: Korean kimchi
-  amount: "100"
-  unit: g
-  isCore: true
-- name: soft tofu
-  amount: "1"
-  unit: pack
-  isCore: true
-- name: scallion
-  amount: "1"
-  unit: stalk
-  isCore: true
+  - name: Korean kimchi
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: soft tofu
+    amount: "1"
+    unit: pack
+    isCore: true
+  - name: scallion
+    amount: "1"
+    unit: stalk
+    isCore: true
+  - name: all-purpose flour
+    amount: "150"
+    unit: g
+    isCore: true
+  - name: egg
+    amount: "1"
+    unit: pc
+    isCore: true
+  - name: water
+    amount: "80"
+    unit: ml
+    isCore: false
 seasonings:
-- name: "all-purpose flour"
-  amount: "150"
-  unit: g
-- name: egg
-  amount: "1"
-  unit: pc
-- name: salt
-  amount: "0.25"
-  unit: pinch
-- name: toasted sesame oil
-  amount: "1"
-  unit: tbsp
+  - name: salt
+    amount: pinch
+    unit: ""
+  - name: Korean sesame oil
+    amount: "1"
+    unit: tbsp
+  - name: soy sauce
+    amount: "1"
+    unit: tbsp
+  - name: rice vinegar
+    amount: "1"
+    unit: tsp
 ---
-
-This home version recreates the layered broth and generous plating associated with Dubu House chef specials.
-

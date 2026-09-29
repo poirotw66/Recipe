@@ -1,86 +1,106 @@
 ---
-title: Asahi Cordon Bleu Pork Burger
+title: Cordon Bleu Pork Burger
 recipeId: sf-asahi-cordon-bleu-pork-burger
-description: "Second Floor Cafe-inspired seasonal specials with restaurant-style portions and 藍帶豬排、漢堡麵包、起司."
+description: A homemade pork cordon bleu cutlet with ham and cheese, baked to a
+  measured safe temperature and served in a bun.
 coverImage: /images/recipes/sf-asahi-cordon-bleu-pork-burger.webp
 servings: 1
 prepTime: 20
-cookTime: 18
-totalTime: 38
+cookTime: 25
+totalTime: 45
 difficulty: Medium
-calories: 710
-protein: 36
-fat: 28
-carbs: 58
-category: "Seasonal specials"
+category: "Burgers & sandwiches"
 scenarios:
-- Cooking for one
+  - Cooking for one
 equipment:
-- Skillet
-- Oven
+  - Oven
+  - Skillet
+  - Food thermometer
 tags:
-- Restaurant replica
-- Seasonal specials
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 朝日藍帶豬排堡
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Home cooking
+intro: Wrap ham and cheese in a pork cutlet, bread it, and bake it through
+  before assembling the burger. Use a thermometer to check the pork rather than
+  relying on color or melted cheese.
 steps:
-- Rest cordon bleu pork cutlet 220 g at room temperature 10 minutes; split burger buns 2 pc; wash lettuce and drain; slice tomato thin.
-- Heat olive oil 1 tbsp in a skillet over medium; season both sides of the cutlet with sea salt 1/3 tsp and black pepper 1/4 tsp.
-- Pan-fry cutlet over medium heat 3 minutes until golden on the bottom; flip and cook 3 minutes more; if cheese inside is not melted, cover and steam on low 1 minute, then remove.
-- Wipe the pan; toast bun cut sides dry without oil 1–2 minutes until golden crisp; set aside.
-- Lay cheese 40 g on the hot cutlet; cover or microwave 20 seconds until edges soften.
-- On the bottom bun, layer lettuce, tomato, and hot cutlet; cap with top bun and press gently to set.
-- Halve or serve whole while hot to match Second Floor Cafe Asahi cordon bleu pork burger.
+  - Heat the oven to 200°C / 400°F. Cover the pork with plastic wrap and gently
+    pound it to about 1 cm thick. Season with salt and pepper, place the ham and
+    cheese in the center, fold, and press the edges closed.
+  - Coat the pork in flour, beaten egg, and breadcrumbs. Heat the oil in a
+    skillet over medium heat and brown both sides, about 2 minutes per side.
+  - Bake on a tray for about 10–15 minutes. Insert a thermometer from the side
+    into the thickest pork section and the center of the ham-and-cheese filling.
+    Remove only when both reach 74°C / 165°F; continue baking and recheck if
+    either is lower.
+  - Toast the cut side of the bun. Add lettuce, tomato, and the pork cutlet,
+    then serve hot.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 時蔬
-- 白飯
+  - "This is stuffed pork: both the thickest pork section and the center of the
+    filling must reach 74°C / 165°F. The 63°C / 145°F plus rest guidance for
+    intact, unstuffed pork does not apply."
+storage: Refrigerate the cooked cutlet and bun separately within 2 hours and use
+  within 3 days. Reheat the cutlet to 74°C / 165°F.
+substitutions: []
 relatedIngredients:
-- 藍帶豬排
-- 漢堡麵包
-- 起司
+  - Thin pork loin cutlet
+  - Ham
+  - Cheese slice
+  - Burger bun
+  - Egg
 customAdditions: []
 faqs:
-- question: What makes this 朝日藍帶豬排堡 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: Can I use a frozen cordon bleu cutlet?
+    answer: Yes. Follow its package directions and confirm that both the pork and
+      filling center reach 74°C / 165°F. This recipe’s timing does not apply.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 藍帶豬排
-  amount: "220"
-  unit: 公克
-  isCore: true
-- name: 漢堡麵包
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 起司
-  amount: "40"
-  unit: 公克
-  isCore: true
+  - name: Thin pork loin cutlet
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: Ham
+    amount: "1"
+    unit: slice
+    isCore: true
+  - name: Cheese slice
+    amount: "1"
+    unit: slice
+    isCore: true
+  - name: Burger bun
+    amount: "1"
+    unit: ""
+    isCore: true
+  - name: Lettuce
+    amount: "2"
+    unit: leaves
+    isCore: false
+  - name: Tomato
+    amount: "2"
+    unit: slices
+    isCore: false
+  - name: Egg
+    amount: "1"
+    unit: ""
+    isCore: true
+  - name: Flour
+    amount: "2"
+    unit: tbsp
+    isCore: false
+  - name: Breadcrumbs
+    amount: "30"
+    unit: g
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: Olive oil
+    amount: "1"
+    unit: tbsp
+  - name: Salt
+    amount: 1/4
+    unit: tsp
+  - name: Black pepper
+    amount: to taste
+    unit: ""
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Ham and cheese are folded inside a thin pork cutlet, which is browned before it finishes in the oven. Oven time varies with thickness, so use the internal temperature as the doneness check.

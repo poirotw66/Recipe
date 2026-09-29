@@ -1,96 +1,98 @@
 ---
-title: Korean Fried Chicken
+title: Honey Garlic Korean Fried Chicken
 recipeId: dh-honey-garlic-korean-fried-chicken
-description: "Dubu House-inspired chef specials recreating 蜂蜜蒜味韓式炸雞 with restaurant-style broth depth and plating."
+description: Coated chicken thigh is fried to 74°C (165°F), double-fried for crispness, and tossed
+  with honey-garlic glaze.
 coverImage: /images/recipes/dh-honey-garlic-korean-fried-chicken.webp
 servings: 2
-prepTime: 25
+prepTime: 30
 cookTime: 20
-totalTime: 45
-difficulty: Advanced
-calories: 720
-protein: 34
-fat: 36
-carbs: 52
-category: "Chef specials"
+totalTime: 50
+difficulty: Medium
+category: "Korean main dishes"
 scenarios:
-- "Late-night meals"
+  - Late-night meals
 equipment:
-- Fryer
-- Griddle or skillet
-tags:
-- Restaurant replica
-- Chef specials
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 蜂蜜蒜味韓式炸雞
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+  - Heavy pot or deep fryer
+  - Skillet
+  - Food thermometer
+  - Wire rack
+tags: []
+intro: Coat and fry the chicken in batches to 74°C (165°F), fry a second time for crispness, then
+  toss with honey-garlic glaze off the heat.
 steps:
-- Cut boneless chicken thigh 250 g into bite-size pieces (about 3–4 cm); pat the surface thoroughly dry with paper towels.
-- Massage with a pinch of salt, a pinch of black pepper powder, and 1 tbsp toasted sesame oil; refrigerate 30 minutes to marinate.
-- Spread 150 g Korean fried chicken mix in a deep plate; coat each piece evenly, press lightly, and shake off excess flour.
-- Fill the fryer with enough oil and use a kitchen thermometer to confirm 170°C; fry chicken in batches over medium heat about 7 minutes until set on the outside and cooked through inside (avoid crowding to keep oil temperature steady).
-- Drain and rest on a wire rack 3–5 minutes so steam escapes from inside.
-- Raise oil temperature to 185°C; return chicken for a second fry 1.5–2 minutes until golden and crispy, then drain on a wire rack.
-- In another skillet, heat 1 tbsp toasted sesame oil over low heat; sauté onion ½ pc julienned and scallion 1 stalk cut into segments until fragrant (about 1 minute).
-- Add 3 tbsp honey garlic glaze; stir until slightly thickened, turn off heat, quickly toss fried chicken to coat (turning off heat keeps the crust crispy), sprinkle a pinch of sesame seeds, and serve.
+  - Cut 250 g boneless chicken thigh into bite-size pieces and pat dry with paper towels.
+  - Season with a pinch each of salt and black pepper and refrigerate for 30 minutes. Reserve the
+    sesame oil for the sauce; it is not part of the marinade.
+  - Spread 150 g Korean fried chicken mix in a deep plate. Coat the chicken evenly and shake off
+    excess.
+  - Add enough neutral oil to a heavy pot and heat to 170°C (340°F), checking with a food
+    thermometer. Fry chicken in batches for about 7 minutes and confirm the thickest piece reaches
+    74°C (165°F); continue frying and recheck if needed.
+  - Drain the chicken and rest on a wire rack for 3–5 minutes.
+  - Raise the oil to 185°C (365°F). Fry the chicken in batches for 1.5–2 minutes until golden and
+    crisp, then drain.
+  - Heat 1 tbsp toasted sesame oil in a skillet over low heat. Sauté the onion and scallion for
+    about 1 minute; add 3 tbsp honey-garlic glaze and stir until slightly thickened, then turn off
+    the heat.
+  - Toss the fried chicken in the sauce off the heat, sprinkle with sesame seeds, and serve hot.
 tips:
-- "Double-frying is essential. The first fry cooks the meat, and the second fry makes it crispy."
-- Turn off the heat before tossing with the sauce, otherwise, the crispy skin will turn soggy.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
+  - Fry in batches and let the oil return to temperature between them. The thickest piece must reach
+    74°C (165°F).
+  - Tossing the chicken after turning off the heat helps limit softening; serve soon after coating.
+storage: Best while freshly fried. Refrigerate leftovers within 2 hours and reheat to 74°C (165°F);
+  the coated crust will soften.
 substitutions:
-- boneless chicken thigh
-- Korean fried chicken mix
+  - boneless chicken thigh
+  - Korean fried chicken mix
 relatedIngredients:
-- 去骨雞腿肉
-- 洋蔥
-- 青蔥
-customAdditions:
-- chopped scallions
-- sesame seeds
+  - 去骨雞腿肉
+  - 洋蔥
+  - 青蔥
+customAdditions: []
 faqs:
-- question: How do I make this 蜂蜜蒜味韓式炸雞 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: How do I confirm the chicken is cooked?
+    answer: Use a food thermometer in the thickest piece and confirm it reaches 74°C (165°F).
+  - question: How can I keep the coating crisp?
+    answer: Fry in batches and toss with sauce only after turning off the heat. Coat the chicken just
+      before serving.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-03
+updatedAt: 2026-09-29
 ingredients:
-- name: boneless chicken thigh
-  amount: "250"
-  unit: g
-  isCore: true
-- name: onion
-  amount: "0.5"
-  unit: pc
-  isCore: true
-- name: scallion
-  amount: "1"
-  unit: stalk
-  isCore: true
+  - name: boneless chicken thigh
+    amount: "250"
+    unit: g
+    isCore: true
+  - name: onion
+    amount: "0.5"
+    unit: pc
+    isCore: true
+  - name: scallion
+    amount: "1"
+    unit: stalk
+    isCore: true
+  - name: neutral frying oil
+    amount: as needed
+    unit: for deep-frying
+    isCore: false
 seasonings:
-- name: Korean fried chicken mix
-  amount: "150"
-  unit: g
-- name: honey garlic glaze
-  amount: "3"
-  unit: tbsp
-- name: toasted sesame oil
-  amount: "1"
-  unit: tbsp
-- name: sesame seeds
-  amount: pinch
-  unit: ""
-- name: salt
-  amount: pinch
-  unit: ""
-- name: black pepper powder
-  amount: pinch
-  unit: ""
+  - name: Korean fried chicken mix
+    amount: "150"
+    unit: g
+  - name: honey-garlic glaze
+    amount: "3"
+    unit: tbsp
+  - name: toasted sesame oil
+    amount: "1"
+    unit: tbsp
+  - name: sesame seeds
+    amount: pinch
+    unit: ""
+  - name: salt
+    amount: pinch
+    unit: ""
+  - name: black pepper
+    amount: pinch
+    unit: ""
 ---
-
-This home version recreates the layered broth and generous plating associated with Dubu House chef specials.
-

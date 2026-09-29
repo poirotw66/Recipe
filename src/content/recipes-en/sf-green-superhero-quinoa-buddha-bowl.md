@@ -1,93 +1,92 @@
 ---
-title: Green Superhero Quinoa Buddha Bowl
+title: Green Vegetable Quinoa Bowl
 recipeId: sf-green-superhero-quinoa-buddha-bowl
-description: "Second Floor Cafe-inspired light plates with restaurant-style portions and 蘆筍、莎莎、花椰菜、藜麥、水波蛋."
+description: A single-serving bowl of quinoa, cauliflower, chickpeas, and
+  avocado with lemon dressing.
 coverImage: /images/recipes/sf-green-superhero-quinoa-buddha-bowl.webp
 servings: 1
-prepTime: 20
-cookTime: 12
-totalTime: 32
+prepTime: 10
+cookTime: 40
+totalTime: 50
 difficulty: Easy
-calories: 350
-protein: 24
-fat: 18
-carbs: 20
-category: "Light plates"
+category: "Light meals"
 scenarios:
-- Cooking for one
-- "Light & lean meals"
+  - Cooking for one
 equipment:
-- Skillet
-- Salad bowl
+  - Small saucepan
+  - Oven
+  - Serving bowl
 tags:
-- Restaurant replica
-- Light plates
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 綠超人藜麥佛陀碗
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Home cooking
+intro: Cook the quinoa, roast the cauliflower and chickpeas until hot, then
+  assemble the bowl with avocado and lemon dressing. This recipe makes no
+  specific nutrition or weight-loss claims.
 steps:
-- "Rinse 藜麥 80 g; simmer with a 1:2 water ratio, cover on low 15 minutes until absorbed, rest off heat 5 minutes, then fluff with a fork and cool."
-- Cut 花椰菜 120 g into small florets; blanch in salted boiling water 3 minutes until tender-crisp and drain; cut 蘆筍 as needed on the bias, blanch 2 minutes, then shock in ice water to stay bright green.
-- Bring a pot of water to a boil with 1 tsp vinegar; reduce to low, stir a gentle whirlpool, add 雞蛋 2 pcs for poached eggs, cook about 3 minutes until whites set and yolks runny, then drain.
-- Heat a skillet over medium with half of 橄欖油 1.5 tbsp; quickly sauté blanched cauliflower and asparagus 1 minute; season with 海鹽 1/3 tsp and set aside.
-- In a deep bowl or shallow plate, spread a layer of quinoa as the grain base, leaving edges for garnish.
-- Top quinoa with sautéed cauliflower and asparagus, 莎莎 as needed, and 2 poached eggs in the center.
-- Drizzle remaining olive oil, sprinkle chopped nuts, break poached eggs so yolk flows into the bowl, and serve.
+  - Rinse the quinoa in a fine-mesh strainer. Add it to a saucepan with 120 ml
+    water and bring to a boil. Cover, reduce to low, and simmer about 15
+    minutes. Turn off the heat and let stand covered for 5 minutes, then fluff.
+  - Heat the oven to 200°C / 400°F. Cut the cauliflower into small florets and
+    drain the chickpeas. Toss with half the oil, salt, and pepper. Roast for
+    18–22 minutes, until the cauliflower is tender and the chickpeas are hot.
+  - Slice the avocado and halve the tomatoes. Stir the lemon juice with the
+    remaining oil.
+  - Add the quinoa, roasted vegetables, chickpeas, avocado, and tomatoes to a
+    bowl. Spoon over the lemon dressing and serve.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 綜合生菜
-- 花椰菜飯
+  - Cook the quinoa and toppings separately and assemble just before serving.
+    Larger cauliflower pieces may need extra roasting; cook until tender through
+    the center.
+storage: Refrigerate the quinoa, roasted vegetables, and chickpeas separately
+  within 2 hours and use within 3 days. Cut the avocado just before serving.
+substitutions: []
 relatedIngredients:
-- 蘆筍
-- 莎莎
-- 花椰菜
-- 藜麥
+  - Quinoa
+  - Cauliflower
+  - Cooked chickpeas
+  - Avocado
 customAdditions: []
 faqs:
-- question: What makes this 綠超人藜麥佛陀碗 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "Can I prepare this ahead of time?"
-  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
+  - question: Can I prepare this ahead?
+    answer: Yes. Refrigerate the cooked quinoa and roasted vegetables separately.
+      Reheat them thoroughly before adding freshly cut avocado and tomatoes.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 蘆筍
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 莎莎
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 花椰菜
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 藜麥
-  amount: "80"
-  unit: 公克
-  isCore: true
-- name: 水波蛋
-  amount: "2"
-  unit: 顆
-  isCore: false
+  - name: Quinoa
+    amount: "60"
+    unit: g
+    isCore: true
+  - name: Cauliflower
+    amount: "150"
+    unit: g
+    isCore: true
+  - name: Cooked chickpeas
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: Avocado
+    amount: 1/2
+    unit: ""
+    isCore: true
+  - name: Cherry tomatoes
+    amount: "80"
+    unit: g
+    isCore: false
+  - name: Lemon juice
+    amount: "1"
+    unit: tbsp
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1.5"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
+  - name: Olive oil
+    amount: "1"
+    unit: tbsp
+  - name: Salt
+    amount: 1/4
+    unit: tsp
+  - name: Black pepper
+    amount: to taste
+    unit: ""
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Quinoa simmers for about 15 minutes and then rests covered for 5 minutes. The vegetables need about 20 minutes in the oven, so the full preparation takes longer than the quinoa alone.

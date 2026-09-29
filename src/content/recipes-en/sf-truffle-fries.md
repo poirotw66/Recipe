@@ -1,82 +1,77 @@
 ---
 title: Truffle Fries
 recipeId: sf-truffle-fries
-description: "Second Floor Cafe-inspired appetizers with restaurant-style portions and 薯條、松露醬、起司粉."
+description: "A measured home recipe for Truffle Fries, with clear preparation
+  and cooking steps."
 coverImage: /images/recipes/sf-truffle-fries.webp
 servings: 2
 prepTime: 18
 cookTime: 18
 totalTime: 36
 difficulty: Medium
-calories: 670
-protein: 22
-fat: 36
-carbs: 48
 category: "Appetizers"
 scenarios:
-- Late-night meals
-- Cooking for one
+  - Late-night meals
 equipment:
-- Fryer
-- Oven
+  - Deep fryer or heavy pot
+  - Rack
 tags:
-- Restaurant replica
-- Appetizers
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 松露薯條
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Appetizers
+intro: "Pat the ingredients dry, cook in batches while keeping the oil
+  temperature steady, and toss with sauce after frying to preserve crispness."
 steps:
-- Pat 薯條 250 g thoroughly dry with paper towels; portion 松露醬 3 tbsp and 起司粉 40 g separately.
-- Heat 炸油 600 ml to 160°C; blanch-fry fries in batches 3 minutes; drain.
-- Raise oil to 175°C; refry 3–4 minutes until crisp outside and tender inside; drain on a wire rack 2 minutes.
-- While fries are hot, toss in a large bowl with 海鹽 1/2 tsp.
-- Add half of 起司粉 40 g and toss quickly so heat slightly melts the cheese.
-- Drizzle 松露醬 3 tbsp and toss gently; sprinkle remaining cheese on top.
-- Mound high in a basket; serve while truffle aroma is strong and fries are still crisp.
+  - Pat fries 250 g thoroughly dry with paper towels; portion truffle sauce 1
+    tbsp and grated cheese 15 g separately.
+  - Heat neutral frying oil 600 ml to 160°C; blanch-fry fries in batches 3
+    minutes; drain.
+  - Raise oil to 175°C; refry 3–4 minutes until crisp outside and tender inside;
+    drain on a wire rack 2 minutes.
+  - While fries are hot, toss in a large bowl with sea salt 1/2 tsp.
+  - Add half of grated cheese 15 g and toss quickly so heat slightly melts the
+    cheese.
+  - Drizzle truffle sauce 1 tbsp and toss gently; sprinkle remaining cheese on
+    top.
+  - Mound high in a basket; serve while truffle aroma is strong and fries are
+    still crisp.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
+  - Fry in batches and drain on a rack so the oil temperature does not drop
+    sharply.
+  - Pat the ingredients dry, cook in batches while keeping the oil temperature
+    steady, and toss with sauce after frying to preserve crispness.
+storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
+  toppings, greens, or soft-cooked eggs separately to protect texture.
 substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - frozen fries
+  - romaine hearts
 relatedIngredients:
-- 薯條
-- 起司粉
+  - fries
+  - grated cheese
 customAdditions: []
-faqs:
-- question: What makes this 松露薯條 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 薯條
-  amount: "250"
-  unit: 公克
-  isCore: true
-- name: 起司粉
-  amount: "40"
-  unit: 公克
-  isCore: true
+  - name: fries
+    amount: "250"
+    unit: g
+    isCore: true
+  - name: grated cheese
+    amount: "15"
+    unit: g
+    isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
-- name: 松露醬
-  amount: "3"
-  unit: 大匙
+  - name: neutral frying oil
+    amount: "600"
+    unit: ml
+  - name: sea salt
+    amount: 1/2
+    unit: tsp
+  - name: truffle sauce
+    amount: "1"
+    unit: tbsp
+faqs:
+  - question: Can I reheat leftovers?
+    answer: Fried food is best fresh. Refrigerate leftovers and reheat in an oven or
+      air fryer until hot throughout.
 ---
-
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-

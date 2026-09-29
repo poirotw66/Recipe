@@ -1,87 +1,87 @@
 ---
-title: 南洋辛香雞肉飯 스타일 레시피
+title: 남국풍 향신료 치킨 라이스
 recipeId: sf-south-sea-spiced-chicken-rice
-description: Second Floor Cafe 스타일로 南洋香料、雞肉、燉飯 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
+description: 남국풍 향신료 치킨 라이스를 집에서 만드는 레시피입니다. 분량에 맞춘 재료 준비와 조리 순서를 안내합니다.
 coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.webp
-servings: 1
-prepTime: 20
-cookTime: 18
-totalTime: 38
+servings: 2
+prepTime: 15
+cookTime: 25
+totalTime: 40
 difficulty: 보통
-calories: 710
-protein: 36
-fat: 28
-carbs: 70
 category: "시즌 한정"
 scenarios:
-- 1인 요리
+  - 평일 간단 요리
+  - 1인분 요리
 equipment:
-- 프라이팬
-- 오븐
+  - 프라이팬
+  - 작은 냄비
 tags:
-- 맛집 재현
-- 시즌 한정
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 南洋辛香雞肉飯
-  region: 全台連鎖
-intro: Second Floor Cafe에서 자주 보이는 조리 흐름을 참고해 한 접시 전체의 완성도를 살리는 방식으로 만듭니다.
+  - 시즌 한정
+intro: 지은 밥을 풀어 두었다가 다른 재료가 익은 뒤 넣고 양념이 밥알에 배도록 볶아 마무리하세요.
 steps:
-- "준비: 소금 1/3작은술과 후춧가루 1/4작은술을 각각 절반만 사용해 남양 향신료 적당량과 닭고기 180g을 버무려 10분 재웁니다. 남은 소금과 후추는 마무리용으로 둡니다. 리조또 쌀은 실온에 두고 육수 250ml를 데웁니다."
-- 팬에 올리브 오일 1큰술을 중불로 달군 뒤 재운 닭고기와 남양 향신료 적당량을 5~6분 볶아 겉은 노릇하고 속까지 익힙니다. 덜어 둡니다.
-- 같은 팬에 리조또 쌀 적당량을 중불로 2분 볶아 알 겉에 기름이 돌고 향이 나게 합니다(볶은 밥).
-- 중약불로 줄이고 뜨거운 육수를 국자 1/2씩 넣어 흡수될 때마다 추가, 4~5회 약 8분 크리미한 리조또 질감까지.
-- 닭고기를 다시 넣어 리조또와 버무리고 남겨 둔 소금과 후춧가루로 간을 맞춥니다.
-- 중불로 올려 알맹이가 향신료 기름에 고루 묻고 살짝 끈적한 식감이 나도록 졸입니다.
-- 접시에 담고 원하면 남양 향신료를 조금 더 뿌립니다.
-- 뜨겁게 내며, 貳樓 남양 매운 치킨 밥의 진한 풍미를 재현한다.
+  - 닭고기를 한입 크기로 썰고 파프리카와 양파는 깍둑썰기합니다. 카레가루, 큐민, 강황, 소금, 후추를 섞습니다.
+  - 팬에 기름을 두르고 닭고기의 가장 두꺼운 부분 중심 온도가 74°C가 될 때까지 볶은 뒤 깨끗한 접시에 덜어 둡니다.
+  - 같은 팬에서 양파와 파프리카를 3분 볶습니다. 밥과 향신료 절반을 넣고 전체가 뜨거워질 때까지 볶습니다.
+  - 닭고기와 남은 향신료를 다시 넣어 섞고 간을 조절합니다. 두 그릇에 나누어 담습니다.
 tips:
-- 주재료와 소스를 따로 완성한 뒤 마지막에 합치면 질감 차이가 더 살아납니다.
-- 차가운 가니시와 뜨거운 단백질은 마지막에 합쳐야 매장 같은 결과가 납니다.
-- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
-storage: 가급적 당일 섭취를 권장합니다. 보관할 때는 재료와 소스를 나누어 냉장하고 먹기 직전에 부드럽게 다시 데우세요.
+  - 생고기를 만진 뒤 손과 도구를 씻으세요. 닭고기는 중심 74°C, 생선은 63°C까지 익힙니다.
+  - 지은 밥을 풀어 두었다가 다른 재료가 익은 뒤 넣고 양념이 밥알에 배도록 볶아 마무리하세요.
+storage: 갓 만들어 먹는 것을 권합니다. 남은 음식은 조리 후 2시간 안에 냉장하고 3~4일 안에 드세요. 다시 데울 때는 중심 온도가
+  74°C가 되도록 가열하세요. 생채소, 튀김, 반숙 달걀은 식감을 위해 따로 보관하세요.
 substitutions:
-- 時蔬
-- 白飯
+  - 제철 채소
+  - 밥
 relatedIngredients:
-- 南洋香料
-- 雞肉
-- 燉飯
+  - 南洋香料
+  - 닭고기
+  - 燉飯
 customAdditions: []
-faqs:
-- question: 南洋辛香雞肉飯 를 매장 스타일에 가깝게 만드는 핵심은 무엇인가요?
-  answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
-- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
-  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 南洋香料
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 雞肉
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 燉飯
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: 뼈 없는 닭다리살
+    amount: "300"
+    unit: g
+    isCore: true
+  - name: 지은 밥
+    amount: "360"
+    unit: g
+    isCore: true
+  - name: 빨간 파프리카
+    amount: "80"
+    unit: g
+    isCore: true
+  - name: 양파
+    amount: "60"
+    unit: g
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: 올리브오일
+    amount: "1"
+    unit: 큰술
+    isCore: true
+  - name: 카레가루
+    amount: "1"
+    unit: 작은술
+    isCore: true
+  - name: 큐민가루
+    amount: 1/2
+    unit: 작은술
+    isCore: true
+  - name: 강황가루
+    amount: 1/4
+    unit: 작은술
+    isCore: true
+  - name: 소금
+    amount: 1/2
+    unit: 작은술
+    isCore: true
+  - name: 후추
+    amount: 1/4
+    unit: 작은술
+    isCore: true
+faqs:
+  - question: 익었는지 어떻게 확인하나요?
+    answer: 온도계로 가장 두꺼운 부분을 측정하세요. 닭고기는 74°C, 생선은 63°C가 기준입니다.
 ---
-
-이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.
-
-주재료 준비, 소스 완성, 마지막 플레이팅 순서를 지키면 매장 스타일에 더 가깝게 만들 수 있습니다.
-

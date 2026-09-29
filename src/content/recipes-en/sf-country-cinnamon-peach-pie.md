@@ -1,86 +1,74 @@
 ---
-title: Country Cinnamon Peach Pie
+title: Cinnamon Peach Pie
 recipeId: sf-country-cinnamon-peach-pie
-description: "Second Floor Cafe-inspired desserts with restaurant-style portions and 肉桂蜜桃派 + 香草冰淇淋."
+description: Use thawed double pie crust and pitted peaches for a 20 cm pie. Cornstarch thickens the juices; cool for an hour before cutting six slices.
 coverImage: /images/recipes/sf-country-cinnamon-peach-pie.webp
-servings: 2
-prepTime: 20
-cookTime: 28
-totalTime: 48
+servings: 6
+prepTime: 25
+cookTime: 55
+totalTime: 140
 difficulty: Medium
-calories: 420
-protein: 7
-fat: 30
-carbs: 64
 category: "Desserts"
 scenarios:
 - Cooking for one
 equipment:
 - Oven
+- 20 cm pie dish
 - Mixing bowl
+- Pie weights and baking paper
 tags:
-- Restaurant replica
-- Desserts
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 鄉村肉桂蜜桃派
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+- Baked dessert
+intro: Use thawed double pie crust and pitted peaches for a 20 cm pie. Cornstarch thickens the juices; cool for an hour before cutting six slices.
 steps:
-- "Prep: roll out 2 pie crusts to fit the pan; toss diced peaches with 1 tsp cinnamon and 40 g sugar and rest 10 minutes to release juice; beat 1 egg for egg wash."
-- Fit the bottom crust in the pie dish and prick the base evenly with a fork (to prevent puffing); cover with parchment and pie weights (or beans) and blind-bake at 180°C 10 minutes until the edges just set.
-- Remove weights and parchment; spread peach filling with its juices into the crust, mounding slightly above the rim; top with lattice or a full top crust and pinch edges firmly.
-- Brush the crust with egg wash and sprinkle a little extra sugar for shine; wrap pie edges in foil to prevent over-browning.
-- Bake at 180°C 30–35 minutes until the crust is golden and the filling bubbles in the center (a skewer should show no raw starch).
-- Cool on a rack at least 15 minutes so the filling sets before slicing (cutting too early makes the filling run).
-- Slice and serve with 2 scoops vanilla ice cream; set 30 g unsalted butter and 2 Tbsp granulated sugar on the side for dipping.
-- Serve while the pie is still warm and the ice cream cold—the sweet-salty temperature contrast matches Second Floor country pie service.
+- Preheat the oven to 180°C. Slice 500 g pitted peaches and mix with 40 g sugar, 1 tsp cinnamon, and 20 g cornstarch.
+- Line a 20 cm pie dish with one thawed crust. Prick the base, add baking paper and pie weights, and blind-bake for 10 minutes. Remove paper and weights.
+- Add the peach filling, cover with the second crust, seal the edges, and cut steam vents. Brush lightly with beaten egg and discard unused raw egg. Bake at 180°C for about 35–45 more minutes until the crust is cooked and golden and the filling bubbles steadily through the vents.
+- Cool on a rack for at least 60 minutes before slicing. Divide the optional 2 scoops of vanilla ice cream into small portions for six slices. Crust thawing time is additional.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 鮮奶油
-- 香草冰淇淋
+- Peaches release different amounts of juice; let the filling bubble and cool before slicing.
+- Shield the crust edge with foil if it browns before the center filling is cooked.
+storage: Refrigerate the pie within 2 hours of baking and eat within 3 days; above 32°C refrigerate within 1 hour. Keep ice cream frozen separately and add only when serving.
+substitutions: []
 relatedIngredients:
-- 肉桂蜜桃派
-- 香草冰淇淋
+- 蜜桃
 - 派皮
-customAdditions:
-- Vanilla ice cream
-- Whipped cream
-faqs:
-- question: What makes this 鄉村肉桂蜜桃派 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- 肉桂粉
+- 玉米澱粉
+customAdditions: []
+faqs: []
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-09'
+updatedAt: "2026-09-29"
 ingredients:
-- name: 肉桂蜜桃派
-  amount: "1"
-  unit: 份
+- name: Peaches (pitted weight)
+  amount: '500'
+  unit: g
   isCore: true
-- name: 香草冰淇淋
-  amount: "2"
-  unit: 球
+- name: Thawed pie crusts (to fit a 20 cm dish)
+  amount: '2'
+  unit: sheets
   isCore: true
-- name: 派皮
-  amount: "2"
-  unit: 份
+- name: Granulated sugar
+  amount: '40'
+  unit: g
   isCore: true
-seasonings:
-- name: 無鹽奶油
-  amount: "30"
-  unit: 公克
-- name: 細砂糖
-  amount: "2"
-  unit: 大匙
+- name: Ground cinnamon
+  amount: '1'
+  unit: tsp
+  isCore: false
+- name: Egg
+  amount: '1'
+  unit: large
+  isCore: true
+- name: Vanilla ice cream
+  amount: '2'
+  unit: scoops
+  isCore: false
+- name: Cornstarch
+  amount: '20'
+  unit: g
+  isCore: true
+seasonings: []
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Use thawed double pie crust and pitted peaches for a 20 cm pie. Cornstarch thickens the juices; cool for an hour before cutting six slices.

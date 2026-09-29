@@ -1,82 +1,93 @@
 ---
 title: Oat Crusted Fish And Fries
 recipeId: sf-oat-crusted-fish-and-fries
-description: "Second Floor Cafe-inspired appetizers with restaurant-style portions and 燕麥炸魚、薯條、塔塔醬."
+description: "A measured home recipe for Oat Crusted Fish And Fries, with clear
+  preparation and cooking steps."
 coverImage: /images/recipes/sf-oat-crusted-fish-and-fries.webp
 servings: 2
-prepTime: 18
-cookTime: 18
-totalTime: 36
+prepTime: 15
+cookTime: 20
+totalTime: 35
 difficulty: Medium
-calories: 740
-protein: 30
-fat: 36
-carbs: 48
 category: "Appetizers"
 scenarios:
-- Late-night meals
-- Cooking for one
+  - Weeknight quick meals
+  - Cooking for one
 equipment:
-- Fryer
-- Oven
+  - Deep fryer or heavy pot
+  - Rack
 tags:
-- Restaurant replica
-- Appetizers
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 燕麥脆脆炸魚薯條
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Appetizers
+intro: "Pat the ingredients dry, cook in batches while keeping the oil
+  temperature steady, and toss with sauce after frying to preserve crispness."
 steps:
-- Remove 燕麥炸魚 as needed and 薯條 250 g from the refrigerator; pat dry with paper towels. Pour 炸油 600 ml into the fryer and begin preheating.
-- Use a kitchen thermometer to confirm oil at 175°C; fry fries in batches 5 minutes until golden and set, then drain.
-- Keep oil at 175–180°C; fry oat-crusted fish 4–5 minutes until the coating is golden and crisp and the fish is cooked through (internal 63°C or flakes easily with a fork).
-- Drain fish on a wire rack 1 minute.
-- (Optional) Raise oil to 185°C and refry fries 1 minute for extra crispness.
-- Toss hot fries with 海鹽 1/2 tsp.
-- Arrange oat-crusted fish and fries in separate zones on a sharing platter; serve with 塔塔醬 as needed for dipping while hot.
+  - Preheat the oven to 425°F (220°C). Cut the potatoes into thick fries, toss
+    with half the oil and a pinch of salt, and roast for 15 minutes.
+  - Pulse or crush the oats lightly and mix with the flour and pepper. Pat the
+    fish dry, dip it in beaten egg, then coat it with the oat mixture.
+  - Turn the fries. Place the fish on a separate tray and brush with the
+    remaining oil. Roast for 10–12 minutes, until the fish reaches 145°F (63°C)
+    and the coating is golden.
+  - Serve hot with lemon. Wash any plate or utensil that touched raw fish before
+    reusing it.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
+  - Fry in batches and drain on a rack so the oil temperature does not drop
+    sharply.
+  - Pat the ingredients dry, cook in batches while keeping the oil temperature
+    steady, and toss with sauce after frying to preserve crispness.
+storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
+  toppings, greens, or soft-cooked eggs separately to protect texture.
 substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - frozen fries
+  - romaine hearts
 relatedIngredients:
-- 燕麥炸魚
-- 薯條
+  - oat-crusted fish fillets
+  - fries
 customAdditions: []
-faqs:
-- question: What makes this 燕麥脆脆炸魚薯條 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 燕麥炸魚
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 薯條
-  amount: "250"
-  unit: 公克
-  isCore: true
+  - name: white fish fillets
+    amount: "300"
+    unit: g
+    isCore: true
+  - name: potatoes
+    amount: "300"
+    unit: g
+    isCore: true
+  - name: rolled oats
+    amount: "40"
+    unit: g
+    isCore: true
+  - name: egg
+    amount: "1"
+    unit: ""
+    isCore: true
+  - name: all-purpose flour
+    amount: "25"
+    unit: g
+    isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
-- name: 塔塔醬
-  amount: "適量"
-  unit: ""
+  - name: neutral oil
+    amount: "1"
+    unit: tbsp
+    isCore: true
+  - name: salt
+    amount: 1/2
+    unit: tsp
+    isCore: true
+  - name: black pepper
+    amount: 1/4
+    unit: tsp
+    isCore: true
+  - name: lemon
+    amount: 1/2
+    unit: ""
+    isCore: true
+faqs:
+  - question: Can I reheat leftovers?
+    answer: Fried food is best fresh. Refrigerate leftovers and reheat in an oven or
+      air fryer until hot throughout.
 ---
-
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-

@@ -1,82 +1,66 @@
 ---
-title: Ox Bone Soup
+title: Quick Marbled Beef Soup
 recipeId: dh-ox-bone-soup
-description: "Dubu House-inspired chef specials recreating 神仙霜降雪濃湯 with restaurant-style broth depth and plating."
+description: A quick home soup made with prepared beef broth and thinly sliced beef. It is not a long-simmered ox-bone soup.
 coverImage: /images/recipes/dh-ox-bone-soup.webp
 servings: 2
-prepTime: 25
-cookTime: 20
-totalTime: 45
-difficulty: Advanced
-calories: 720
-protein: 34
-fat: 36
-carbs: 52
-category: "Chef specials"
+prepTime: 10
+cookTime: 10
+totalTime: 20
+difficulty: Easy
+category: "Soup"
 scenarios:
-- "Late-night meals"
+- Late-night meals
 equipment:
-- Fryer
-- Griddle or skillet
+- Soup pot
+- Soup bowls
+- Thin-probe food thermometer
 tags:
-- Restaurant replica
-- Chef specials
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 神仙霜降雪濃湯
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- Home cooking
+intro: This quick soup uses prepared beef broth and thinly sliced beef. It does not claim to recreate a restaurant recipe or long-simmered ox-bone broth.
 steps:
-- Spread out marbled beef slices 150 g on a plate and pat dry with paper towels. Finely chop 1 scallion for garnish.
-- Pour 400 ml broth into a soup pot. Bring to a boil over high heat, then reduce to medium and keep the surface at a steady gentle boil (about 95°C; avoid a rolling boil that toughens the meat).
-- Pick up beef slices with chopsticks and swish in the hot broth until the color changes and the center is still lightly pink (about 30–60 seconds). Remove immediately.
-- Ladle hot broth into a bowl, add the swished beef, and season with a pinch of salt and a pinch of black pepper.
-- Top with chopped scallions and serve while the broth is still piping hot; drizzle a little sesame oil if desired.
-- Best made and served immediately; do not leave the beef soaking in the broth or the texture will toughen.
+- Thinly slice 1 scallion. Separate 150 g marbled beef slices so they are not clumped together.
+- Bring 400 ml prepared beef broth to a boil in a soup pot and taste it. If it is already salty, do not add salt yet.
+- Reduce to a steady simmer. Add the beef in batches and cook until the thickest slice reaches 145°F (63°C). Remove from the heat and rest the beef for 3 minutes. Use a thermometer rather than color to judge doneness.
+- Ladle the beef and hot broth into bowls and top with scallion. Taste, add black pepper and salt only as needed, and serve promptly.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Season soup at the end because reducing the liquid concentrates salt and makes the final balance easier to control.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
-substitutions:
-- prime beef slices
-- salt
+- Use unsalted or low-sodium broth so you can control the seasoning.
+- Cooking the beef in batches helps the broth stay hot and the slices cook evenly.
+storage: Best freshly made. Refrigerate leftovers within 2 hours; reheat the broth and beef to at least 165°F (74°C) before serving.
+substitutions: []
 relatedIngredients:
-- 霜降牛肉片
-- 高湯
-- 青蔥
-customAdditions:
-- chopped scallions
-- sesame seeds
+- Marbled beef slices
+- Beef broth
+- Scallion
+customAdditions: []
 faqs:
-- question: How do I make this 神仙霜降雪濃湯 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "Can I keep the soup overnight?"
-  answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
+- question: Does this soup use ox bones?
+  answer: No. This home version uses prepared beef broth; it is not a long-simmered ox-bone soup.
+- question: Can I prepare it ahead?
+  answer: You can chop the scallion and measure the broth ahead. Cook the beef just before serving for the best texture.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: '2026-09-29'
 ingredients:
-- name: marbled beef slices
-  amount: "150"
+- name: Marbled beef slices
+  amount: '150'
   unit: g
   isCore: true
-- name: broth
-  amount: "400"
+- name: Prepared beef broth
+  amount: '400'
   unit: ml
   isCore: true
-- name: scallion
-  amount: "1"
+- name: Scallion
+  amount: '1'
   unit: stalk
   isCore: true
 seasonings:
-- name: salt
-  amount: "0.25"
-  unit: pinch
-- name: black pepper
-  amount: "0.25"
-  unit: pinch
+- name: Black pepper
+  amount: to taste
+  unit: ''
+- name: Salt
+  amount: to taste
+  unit: ''
 ---
 
-This home version recreates the layered broth and generous plating associated with Dubu House chef specials.
-
+This quick beef soup uses prepared broth and thinly sliced beef. Use a thermometer and rest the beef; this is not an ox-bone soup or a restaurant recipe.

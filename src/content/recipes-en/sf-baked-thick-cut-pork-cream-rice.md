@@ -1,103 +1,91 @@
 ---
-title: Baked Thick Cut Pork Cream Rice
+title: Baked Pork Chop and Creamy Rice
 recipeId: sf-baked-thick-cut-pork-cream-rice
-description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 曙光醬、厚切豬排、花椰菜、培根、起司."
+description: Use already cooked rice with bacon, broccoli, and cream, then bake with a cooked pork chop and cheese. The listed time excludes cooking rice separately.
 coverImage: /images/recipes/sf-baked-thick-cut-pork-cream-rice.webp
 servings: 1
 prepTime: 18
-cookTime: 18
-totalTime: 36
+cookTime: 35
+totalTime: 53
 difficulty: Medium
-calories: 760
-protein: 38
-fat: 26
-carbs: 84
 category: "Rice & pasta"
 scenarios:
-- High-protein meals
 - Cooking for one
 equipment:
 - Skillet
-- Pot
+- Food thermometer
+- Oven
+- Oven-safe dish
 tags:
 - Restaurant replica
 - Rice & pasta
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 焗厚切豬排奶油飯
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+intro: Use already cooked rice with bacon, broccoli, and cream, then bake with a cooked pork chop and cheese. The listed time excludes cooking rice separately.
 steps:
-- "Prep: use half of the 1/3 tsp sea salt and half of the 1/4 tsp cracked black pepper to season both sides of the 220 g pork chop; reserve the rest for the rice. Cut 120 g broccoli into florets, dice 80 g bacon, shred 40 g cheese, and warm 300 ml broth over low heat."
-- Heat 1 Tbsp olive oil in a skillet over medium; sear pork 3–4 minutes per side until golden and cooked through (no pink juices), rest 3 minutes, then slice thick.
-- In the same pan, cook bacon 2 minutes until crisp and fat renders; add broccoli and stir-fry 2 minutes until bright green; set aside with pork.
-- Add a little more oil to the pan; stir-fry 220 g cream rice with Dawn sauce to taste over medium heat 2 minutes until grains are coated and separate (toast the rice).
-- Reduce to medium-low; add about 1/2 ladle hot broth at a time, stirring until almost absorbed before the next addition; keep stirring with a spatula, repeat 4–5 times about 8 minutes until creamy risotto texture.
-- Stir in heavy cream to taste with the reserved sea salt and black pepper; simmer 1 minute until thickened to risotto consistency.
-- Spread cream rice in an ovenproof dish; top with sliced pork, bacon, and broccoli; cover with 40 g shredded cheese.
-- Bake at 200°C 8 minutes until cheese is golden and melted; serve hot.
+- Preheat the oven to 200°C. Cut broccoli into small florets, dice bacon, and mince garlic. Use a boneless pork chop about 1.5 cm thick; pat dry and season with some of the salt and pepper.
+- Heat the olive oil in a skillet over medium heat. Brown the pork on both sides, then lower the heat and continue cooking. Check the center with a thermometer; once it reaches 63°C, rest the chop for at least 3 minutes before slicing.
+- Render the bacon in the same pan. Add the broccoli and cook until just tender, then stir in the garlic until fragrant.
+- Add the cooked rice, butter, stock, and cream. Stir until the rice is hot and the mixture is creamy but not soupy; taste before adding more salt or pepper.
+- Spread the rice in an oven-safe dish, top with sliced pork and cheese.
+- Bake at 200°C for about 5–10 minutes until the cheese melts and the center of the assembled rice dish reaches 74°C. Continue baking and recheck if needed; serve hot.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 義大利麵
-- 香米
+- Use already cooked rice, not raw rice; add a little water if the pan becomes too dry.
+- Meat thickness changes cooking time; verify doneness with a thermometer.
+storage: Refrigerate leftovers in shallow containers at 4°C or below within 2 hours, or 1 hour above 32°C. Eat within 3 days and reheat to 74°C throughout.
+substitutions: []
 relatedIngredients:
 - 厚切豬排
 - 花椰菜
 - 培根
 - 起司
 customAdditions: []
-faqs:
-- question: What makes this 焗厚切豬排奶油飯 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+faqs: []
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-09'
+updatedAt: "2026-09-29"
 ingredients:
-- name: 厚切豬排
-  amount: "220"
-  unit: 公克
+- name: Pork chop
+  amount: '150'
+  unit: g
   isCore: true
-- name: 花椰菜
-  amount: "120"
-  unit: 公克
+- name: Broccoli
+  amount: '100'
+  unit: g
   isCore: true
-- name: 培根
-  amount: "80"
-  unit: 公克
+- name: Bacon
+  amount: '20'
+  unit: g
   isCore: true
-- name: 起司
-  amount: "40"
-  unit: 公克
+- name: Shredded cheese
+  amount: '25'
+  unit: g
   isCore: true
-- name: 奶油飯
-  amount: "220"
-  unit: 公克
+- name: Cooked rice
+  amount: '180'
+  unit: g
+  isCore: true
+- name: Garlic clove
+  amount: '1'
+  unit: ''
   isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 曙光醬
-  amount: "適量"
-  unit: ""
-- name: 鮮奶油
-  amount: "適量"
-  unit: ""
+- name: Olive oil
+  amount: '1'
+  unit: tsp
+- name: Unsalted butter
+  amount: '5'
+  unit: g
+- name: Heavy cream
+  amount: '2'
+  unit: tbsp
+- name: Stock
+  amount: '60'
+  unit: ml
+- name: Salt
+  amount: 1/4
+  unit: tsp
+- name: Black pepper
+  amount: 1/8
+  unit: tsp
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Use already cooked rice with bacon, broccoli, and cream, then bake with a cooked pork chop and cheese. The listed time excludes cooking rice separately.

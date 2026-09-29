@@ -1,103 +1,91 @@
 ---
-title: Ginseng Chicken Soup
+title: Ginseng Chicken and Rice Cake Hot Pot
 recipeId: dh-ginseng-chicken-hot-pot
-description: "Dubu House-inspired korean mains recreating 韓國人蔘雞火鍋 with restaurant-style broth depth and plating."
+description: A home-style hot pot of whole chicken, ginseng, vegetables, and rice cakes. Check the chicken and rice filling with a thermometer.
 coverImage: /images/recipes/dh-ginseng-chicken-hot-pot.webp
 servings: 2
-prepTime: 22
-cookTime: 22
-totalTime: 44
+prepTime: 35
+cookTime: 100
+totalTime: 135
 difficulty: Medium
-calories: 640
-protein: 30
-fat: 26
-carbs: 58
 category: "Korean mains"
 scenarios:
-- "High-protein meals"
+- High-protein meals
 equipment:
-- Skillet
-- Pot
+- Hot pot or soup pot
+- Food thermometer
 tags:
-- Restaurant replica
-- Korean mains
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 韓國人蔘雞火鍋
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- Home cooking
+- Korean soup
+intro: This home-style hot pot uses a whole chicken. Confirm that the chicken and rice filling reach 165°F (74°C) before adding rice cakes.
 steps:
-- Clean 1 whole chicken inside and out and pat dry. Scrub and slice 1 fresh Korean ginseng root, pit 4 red dates, cut napa cabbage 200 g into sections, and peel 1 garlic bulb into cloves. Soak Korean rice cake sticks 150 g in warm water 10 minutes; remove stems from 3 shiitake mushrooms and cut into thick slices.
-- Soak glutinous rice 50 g in cold water 30 minutes and drain. Stuff into the chicken cavity and seal with toothpicks or kitchen twine.
-- Add about 1.5 L water or broth to a clay pot or thick soup pot. Add the chicken, ginseng, red dates, napa cabbage, garlic, and shiitake. Bring to a boil over high heat and skim foam.
-- Reduce to medium-low, cover, and simmer 50–60 minutes until the bones are soft and the meat is tender. Skim foam as needed to keep the surface clear.
-- In the last 10 minutes, add Korean rice cake sticks 150 g and cook until chewy and floating (do not overcook or they will break down).
-- Season with a pinch of salt and a pinch of black pepper to taste. Serve with broth and ingredients; dipping sauce optional for sharing.
+- Rinse and soak 50 g glutinous rice for 30 minutes, then drain. Do not rinse raw chicken; check the cavity and pat dry. Prepare the ginseng, jujubes, cabbage, garlic, rice cakes, and mushrooms.
+- Loosely fill the chicken cavity with rice without packing it tightly, then tie it closed. Add 1.5 L water, chicken, ginseng, jujubes, cabbage, garlic, and mushrooms to a hot pot.
+- Allow about 10–15 minutes to bring the pot to a boil. Skim, cover, and simmer gently for about 60–75 minutes. Check the thickest breast, innermost thigh and wing, and center of the rice filling with a food thermometer without touching bone. Every site must reach at least 74°C; cook longer and recheck if needed.
+- After confirming both chicken and rice are cooked, add the rice cakes and cook for about 5–10 minutes, following their package, until tender. Season with salt and pepper and serve hot. Thoroughly clean tools and surfaces that touched raw chicken.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
-substitutions:
-- whole Cornish hen
-- salt
+- Use a deep pot that fits the chicken; add hot water if needed to nearly cover it.
+- Timing assumes an 800–1,000 g small chicken. Larger birds need longer. Do not pack the rice tightly or judge doneness from juice color.
+storage: Cut leftover chicken into smaller portions and divide the rice and soup into shallow containers. Refrigerate at 4°C or below within 2 hours, or 1 hour above 32°C; do not wait for the whole pot to cool completely. Eat within 3 days and reheat to 74°C throughout.
+substitutions: []
 relatedIngredients:
 - 全雞
 - 糯米
-- 新鮮高麗人蔘
+- 新鮮人蔘
 - 紅棗
-customAdditions:
-- chopped scallions
-- sesame seeds
+customAdditions: []
 faqs:
-- question: How do I make this 韓國人蔘雞火鍋 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: Does the rice filling also need a temperature check?
+  answer: Yes. The rice contacts raw chicken and its center must also reach 74°C. If the chicken is cooked but the filling is not, keep cooking.
+- question: Why does this take longer than a quick soup?
+  answer: The estimate includes 30 minutes of rice soaking, bringing the pot to a boil, and simmering a whole chicken. Larger birds or lower heat may take longer; use the thermometer, not the clock, to judge doneness.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: "2026-09-29"
 ingredients:
-- name: whole chicken
-  amount: "1"
-  unit: whole
+- name: Small whole chicken (giblets removed, 800–1,000 g)
+  amount: '1'
+  unit: bird
   isCore: true
-- name: glutinous rice
-  amount: "50"
+- name: Glutinous rice
+  amount: '50'
   unit: g
   isCore: true
-- name: fresh Korean ginseng
-  amount: "1"
+- name: Fresh ginseng
+  amount: '1'
   unit: root
   isCore: true
-- name: red dates
-  amount: "4"
-  unit: pcs
+- name: Jujubes
+  amount: '4'
+  unit: pieces
   isCore: true
-- name: napa cabbage
-  amount: "200"
+- name: Napa cabbage
+  amount: '200'
   unit: g
   isCore: true
-- name: garlic bulb
-  amount: "1"
-  unit: bulb
+- name: Garlic
+  amount: '1'
+  unit: clove
   isCore: true
-- name: Korean rice cake sticks
-  amount: "150"
+- name: Korean rice cakes
+  amount: '150'
   unit: g
   isCore: true
-- name: shiitake mushrooms
-  amount: "3"
-  unit: pcs
+- name: Shiitake mushrooms
+  amount: '3'
+  unit: pieces
+  isCore: true
+- name: Water
+  amount: '1.5'
+  unit: L
   isCore: true
 seasonings:
 - name: salt
-  amount: "0.25"
-  unit: pinch
+  amount: to taste
+  unit: ''
 - name: black pepper
-  amount: "0.25"
-  unit: pinch
+  amount: to taste
+  unit: ''
 ---
 
-This home version recreates the layered broth and generous plating associated with Dubu House korean mains.
-
+This home-style soup uses a small whole chicken and is not a restaurant-supplied recipe. The estimate includes preparation, rice soaking, heating, and simmering; the rice-cake version also allows time for cooking the rice cakes at the end. Kitchen testing is still pending. Check chicken and rice doneness with a thermometer.

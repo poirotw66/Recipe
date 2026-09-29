@@ -1,76 +1,89 @@
 ---
-title: Fried Oysters
+title: Crispy Fried Oysters
 recipeId: dh-fried-oysters
-description: "Dubu House-inspired chef specials recreating 巨濟島炸牡蠣 with restaurant-style broth depth and plating."
+description: Shucked oysters are breaded with flour, egg, and breadcrumbs, fried until crisp, and
+  served with lemon.
 coverImage: /images/recipes/dh-fried-oysters.webp
 servings: 2
 prepTime: 25
 cookTime: 20
 totalTime: 45
-difficulty: Advanced
-calories: 720
-protein: 34
-fat: 36
-carbs: 52
-category: "Chef specials"
+difficulty: Medium
+category: "Korean main dishes"
 scenarios:
-- "Late-night meals"
+  - Late-night meals
 equipment:
-- Fryer
-- Griddle or skillet
-tags:
-- Restaurant replica
-- Chef specials
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 巨濟島炸牡蠣
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+  - Heavy pot or deep fryer
+  - Food thermometer
+  - Shallow plates
+  - Wire rack
+  - Paper towels
+tags: []
+intro: Drain and bread the shucked oysters in flour, egg, and breadcrumbs, then fry in batches.
+  Judge doneness by flesh that is milky white and firm.
 steps:
-- Rinse 150 g fresh oysters gently under running water. Drain and pat each oyster dry with paper towels (the drier the surface, the better the coating adheres and the crispier the fry).
-- Mix 150 g all-purpose flour with a pinch of salt and a pinch of black pepper powder. Prepare separate shallow dishes of beaten egg and breadcrumbs.
-- Coat each oyster in flour → egg → breadcrumbs, pressing lightly at each layer so the coating sticks. Rest on a plate 2 minutes so the coating sets.
-- Pour enough oil into a fryer and heat over medium heat to 175°C (thermometer steady, or chopsticks inserted in oil produce steady bubbles).
-- Fry oysters in batches without crowding. Fry about 2 minutes until golden and crisp; edges curl slightly while the inside stays juicy (overcooking makes them tough and shrunken).
-- Drain on a rack for 1 minute to keep the crust crisp.
-- Plate and serve hot with tartar sauce, Korean chili paste, or lemon wedges; sprinkle with chopped scallions and sesame seeds.
+  - Drain the shucked oysters without rinsing and pat each dry with paper towels. Wash hands and
+    clean any tools or surfaces that contacted the raw oysters.
+  - "Set out three shallow plates: 50 g flour, 1 beaten egg, and 50 g breadcrumbs. Mix a pinch each
+    of salt and black pepper into the flour."
+  - Coat each oyster lightly in flour, egg, then breadcrumbs, pressing gently so the coating
+    adheres. Rest on a plate for 2 minutes.
+  - Add enough neutral oil to a heavy pot and use a food thermometer to bring it to 175°C (350°F).
+    Fry oysters in batches without crowding.
+  - Fry each batch for about 2–3 minutes until the oyster flesh is milky white and firm and the
+    coating is golden. Drain; continue frying and recheck if the oysters are not fully cooked.
+  - Drain on a wire rack for about 1 minute. Transfer with clean utensils and serve hot with lemon
+    wedges.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
+  - Pat the oysters dry and wait for the oil to return to temperature between batches. Do not use
+    “juicy” as a doneness test.
+  - Keep flour, egg, and breadcrumbs in separate plates, and wash hands, surfaces, and tools after
+    handling raw oysters.
+storage: Best served freshly fried. Refrigerate leftovers within 2 hours and reheat to 74°C (165°F);
+  the coating will soften.
 substitutions:
-- fresh oysters
-- "all-purpose flour"
+  - fresh oysters
+  - all-purpose flour
 relatedIngredients:
-- 新鮮生蠔
+  - 新鮮生蠔
 customAdditions:
-- chopped scallions
-- sesame seeds
+  - lemon wedges
 faqs:
-- question: How do I make this 巨濟島炸牡蠣 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+  - question: How can I tell when shucked oysters are cooked?
+    answer: FDA guidance describes fully cooked shucked oysters as opaque (milky white) and firm. Do not
+      rely on juiciness or curled edges.
+  - question: Can I bread the oysters ahead?
+    answer: You may bread them shortly before cooking, keep them refrigerated, and cook promptly. Do not
+      leave raw oysters at room temperature.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-03
+updatedAt: 2026-09-29
 ingredients:
-- name: fresh oysters
-  amount: "150"
-  unit: g
-  isCore: true
+  - name: shucked oysters
+    amount: "150"
+    unit: g
+    isCore: true
+  - name: all-purpose flour
+    amount: "50"
+    unit: g
+    isCore: false
+  - name: egg
+    amount: "1"
+    unit: pc
+    isCore: false
+  - name: breadcrumbs
+    amount: "50"
+    unit: g
+    isCore: false
+  - name: neutral frying oil
+    amount: as needed
+    unit: for deep-frying
+    isCore: false
 seasonings:
-- name: "all-purpose flour"
-  amount: "150"
-  unit: g
-- name: salt
-  amount: "0.25"
-  unit: pinch
-- name: black pepper powder
-  amount: "0.25"
-  unit: pinch
+  - name: salt
+    amount: pinch
+    unit: ""
+  - name: black pepper
+    amount: pinch
+    unit: ""
 ---
-
-This home version recreates the layered broth and generous plating associated with Dubu House chef specials.
-

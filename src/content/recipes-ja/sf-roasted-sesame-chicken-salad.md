@@ -1,95 +1,74 @@
 ---
-title: 焙煎胡麻雞沙拉 再現レシピ
+title: ごまチキンサラダ
 recipeId: sf-roasted-sesame-chicken-salad
-description: Second Floor Cafe 風に 綜合生菜、炸雞、焙煎胡麻醬、小番茄、酸黃瓜 を組み合わせた、店の一皿を意識した再現レシピです。
+description: 鶏むね肉と葉野菜、きゅうり、トマトにごまドレッシングを合わせます。鶏肉の中心は74°Cにします。
 coverImage: /images/recipes/sf-roasted-sesame-chicken-salad.webp
-servings: 2
-prepTime: 18
-cookTime: 18
-totalTime: 36
+servings: 1
+prepTime: 15
+cookTime: 15
+totalTime: 30
 difficulty: 普通
-calories: 550
-protein: 30
-fat: 28
-carbs: 38
-category: "前菜"
+category: "サラダ"
 scenarios:
-- 夜食
-- 一人分の料理
+  - 一人分の料理
 equipment:
-- フライヤー
-- オーブン
+  - フライパン
+  - 食品用温度計
+  - サラダボウル
 tags:
-- 名店再現
-- 前菜
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 焙煎胡麻雞沙拉
-  region: 全台連鎖
-intro: Second Floor Cafe でよく見られる組み立て方を参考にし、皿全体の流れごと再現するイメージで作ります。
+  - 家庭料理
+intro: 鶏むね肉をフライパンで焼き、野菜とごまドレッシングを合わせます。生の鶏肉は洗わず、温度計で火の通りを確認します。
 steps:
-- 綜合生菜 120gを葉に分け洗い脱水し、食べやすくちぎる。小番茄 8個を半分に、酸黃瓜 50gを薄切りにし、水分が出ないよう別置き。
-- 揚げ油を170°Cに熱し、炸雞 適量を6～7分、黄金色で中心まで火が通るまで揚げる。網の上で油を切り、サクサク感を保つ。
-- 温かいうちにキッチンバサミで約3cm角に切り、サラダに混ぜやすくする。
-- 深めのボウルで焙煎胡麻醬 大さじ2と海塩 小さじ1/2を混ぜ、塩味と香りを確認。
-- 大ボウルにレタスを入れ、胡麻ドレッシングの約2/3をかけ、葉が均一に絡むよう軽く和える。
-- 和えたレタスを大皿に盛り、中央に炸雞をのせ、周りに小番茄と酸黃瓜を彩りと酸味で添える。
-- 残りの胡麻醬をかけ、白ごまを少々振る。炸雞の皮がまだサクサクのうちに。
+  - 鶏肉の水気を拭き、厚さに差があれば開くか軽くたたいて均一にします。両面に塩、こしょうを振ります。生の鶏肉は洗いません。
+  - フライパンに油を中火で熱し、鶏肉を約5～7分焼いて裏返します。最も厚い中心が74°Cになるまで焼きます。未達なら続けて焼き、再測定します。
+  - 清潔なまな板に移して少し休ませてから切ります。葉野菜を洗って水気を切り、きゅうりを切り、トマトを半分にします。
+  - 野菜をごまドレッシングで和え、切った鶏肉をのせます。
 tips:
-- 主役の具材とソースは別々に完成させ、最後に盛り付けると食感の差が残せます。
-- 冷たい付け合わせと温かい主菜は最後まで分けておくと、店らしい仕上がりになります。
-- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
-storage: できれば当日中がおすすめ。保存する場合は具材とソースを分けて冷蔵し、食べる前にやさしく温め直します。
-substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - 加熱済みの鶏肉には、生肉に使ったものと別の清潔なまな板と包丁を使います。鶏肉の中心は74°Cにしてください。
+storage: 鶏肉と野菜は別々に密閉し、2時間以内に冷蔵して3日以内に食べます。ドレッシングも別にします。
+substitutions: []
 relatedIngredients:
-- 綜合生菜
-- 炸雞
-- 小番茄
-- 酸黃瓜
+  - 皮なし鶏むね肉
+  - ミックスリーフ
+  - ごまドレッシング
 customAdditions: []
 faqs:
-- question: 焙煎胡麻雞沙拉 を店っぽく仕上げるコツは？
-  answer: 主役の具材を先に整え、最後にソースをまとわせてから盛り付けると、レストランらしい厚みが出ます。
-- question: "主材料をパサつかせないコツは？"
-  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
+  - question: 加熱済みの鶏肉を使えますか？
+    answer: 使えます。製品表示に従って保存または温めてから切ります。温め直す場合は中心を74°Cにします。
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 綜合生菜
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 炸雞
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 小番茄
-  amount: "8"
-  unit: 顆
-  isCore: true
-- name: 酸黃瓜
-  amount: "50"
-  unit: 公克
-  isCore: true
+  - name: 皮なし鶏むね肉
+    amount: "150"
+    unit: g
+    isCore: true
+  - name: ミックスリーフ
+    amount: "80"
+    unit: g
+    isCore: true
+  - name: きゅうり
+    amount: 1/2
+    unit: 本
+    isCore: false
+  - name: ミニトマト
+    amount: "80"
+    unit: g
+    isCore: false
+  - name: ごまドレッシング
+    amount: "1.5"
+    unit: 大さじ
+    isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
-- name: 焙煎胡麻醬
-  amount: "2"
-  unit: 大匙
-- name: 白ごま
-  amount: 少々
-  unit: ""
+  - name: 植物油
+    amount: "1"
+    unit: 小さじ
+  - name: 塩
+    amount: 1/4
+    unit: 小さじ
+  - name: 黒こしょう
+    amount: 少々
+    unit: ""
 ---
 
-この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。
-
-主役の具材、ソース、盛り付けの順で仕上げると、店で出てくるような完成度に近づけます。
-
+鶏むね肉の中心を74°Cまで加熱してから切ります。葉野菜の水気を切り、ごまドレッシングは食べる直前に和えます。

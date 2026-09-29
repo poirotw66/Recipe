@@ -1,92 +1,72 @@
 ---
 title: 金黃流沙海鮮披薩
-description: 參考貳樓 Second Floor Cafe 常見做法，以 金沙醬、海鮮、九層塔、披薩餅皮 還原 金黃流沙海鮮披薩 的餐廳份量與風味層次。
+description: 在家製作「金黃流沙海鮮披薩」，依照份量處理食材並按步驟完成烹調。
 coverImage: /images/recipes/sf-salted-egg-seafood-pizza.webp
-servings: 1
+servings: 2
 prepTime: 20
 cookTime: 18
 totalTime: 38
 difficulty: 中等
-calories: 640
-protein: 28
-fat: 28
-carbs: 58
 category: "限定主餐"
 scenarios:
-- 一人料理
+  - 便當菜
 equipment:
-- 平底鍋
-- 烤箱
+  - 平底鍋
+  - 小湯鍋
 tags:
-- 名店還原
-- 季節限定
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 金黃流沙海鮮披薩
-  region: 全台連鎖
-intro: 這道 金黃流沙海鮮披薩 參考貳樓 Second Floor Cafe 常見做法，會先把 金沙醬、海鮮、九層塔 分段處理，再依 季節限定 的出餐邏輯完成整盤。
+  - 季節限定
+intro: 先煮熟配料再處理雞蛋；若要半熟或流心，請使用巴氏殺菌蛋，一般雞蛋應煮至凝固。
 steps:
-- 備料：海鮮 180公克（蝦、透抽等）洗淨切適口大小並徹底吸乾；九層塔 10公克 洗淨；將 金沙醬 適量 與 鹹蛋黃醬 2大匙 混合成流沙醬底試味調整。
-- 烤箱預熱至 220°C；披薩餅皮 2份 以 橄欖油 1大匙 輕刷表面。
-- 平底鍋中火熱少許油，海鮮單層鋪開，快炒至七分熟、表面微焦（蝦變色、透抽蜷曲，約 2 分鐘），盛出備用（避免烤箱過度加熱變老）。
-- 在餅皮上均勻抹上流沙醬底，預留邊緣約 1 公分不塗醬。
-- 鋪上炒好的海鮮與九層塔葉，撒上 海鹽 1/3小匙 與 黑胡椒碎 1/4小匙 調味。
-- 送入烤箱中以 220°C 烤 8～10 分鐘至餅皮金黃酥脆、醬汁微微冒泡。
-- 取出稍置 2 分鐘後切塊盛盤，趁熱享用還原貳樓金黃流沙海鮮披薩的鹹香流沙風味。
+  - 海鮮洗淨切成一口大小並徹底擦乾，九層塔洗淨；量好市售鹹蛋黃醬 2 大匙備用。
+  - 烤箱預熱至 220°C；披薩餅皮 2份 以 橄欖油 1大匙 輕刷表面。
+  - 平底鍋中火熱少許油，海鮮單層鋪開，快炒至七分熟、表面微焦（蝦變色、透抽蜷曲，約 2 分鐘），盛出備用（避免烤箱過度加熱變老）。
+  - 在餅皮上均勻抹上流沙醬底，預留邊緣約 1 公分不塗醬。
+  - 鋪上炒好的海鮮與九層塔葉，撒上 海鹽 1/3小匙 與 黑胡椒碎 1/4小匙 調味。
+  - 送入烤箱中以 220°C 烤 8～10 分鐘至餅皮金黃酥脆、醬汁微微冒泡。
+  - 取出稍置 2 分鐘後切塊盛盤
 tips:
-- 限定品項通常以單一強烈味型作為辨識點，先把那個核心風味做好最重要。
-- 若參考的是食記版本，建議用門市常見配菜邏輯補齊整體份量。
-- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
-storage: 限定品項以現做現吃為佳；若需冷藏，醬汁與主體請分開保存。
+  - 處理生肉後請清洗雙手、刀具和砧板；禽肉中心需達 74°C，魚肉需達 63°C。
+  - 先煮熟配料再處理雞蛋；若要半熟或流心，請使用巴氏殺菌蛋，一般雞蛋應煮至凝固。
+storage: 建議現做現吃；剩食請於烹調後 2 小時內冷藏，並在 3～4 天內食用。冷藏剩食回熱時應加熱至中心
+  74°C。含生菜、酥炸食材或半熟蛋的組合，請分開保存以維持口感。
 substitutions:
-- 時蔬
-- 白飯
+  - 時蔬
+  - 白飯
 relatedIngredients:
-- 海鮮
-- 九層塔
-- 披薩餅皮
+  - 海鮮
+  - 九層塔
+  - 披薩餅皮
 customAdditions: []
-faqs:
-- question: 想把 金黃流沙海鮮披薩 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 金沙醬與海鮮 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "蔬菜出水時怎麼辦？"
-  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 海鮮
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 九層塔
-  amount: "10"
-  unit: 公克
-  isCore: true
-- name: 披薩餅皮
-  amount: "2"
-  unit: 份
-  isCore: true
+  - name: 海鮮
+    amount: "180"
+    unit: 公克
+    isCore: true
+  - name: 九層塔
+    amount: "10"
+    unit: 公克
+    isCore: true
+  - name: 披薩餅皮
+    amount: "2"
+    unit: 份
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 金沙醬
-  amount: "適量"
-  unit: ""
-- name: 鹹蛋黃醬
-  amount: "2"
-  unit: 大匙
+  - name: 橄欖油
+    amount: "1"
+    unit: 大匙
+  - name: 海鹽
+    amount: 1/3
+    unit: 小匙
+  - name: 黑胡椒碎
+    amount: 1/4
+    unit: 小匙
+  - name: 市售鹹蛋黃醬
+    amount: "2"
+    unit: 大匙
+faqs:
+  - question: 如何確認肉類熟度？
+    answer: 使用食物溫度計測量最厚處中心；雞肉需達 74°C，魚肉需達 63°C。
 ---
-
-金黃流沙海鮮披薩 的在家還原版，重點是把 金沙醬、海鮮、九層塔 做出分層口感，並保留貳樓常見的 季節限定 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-

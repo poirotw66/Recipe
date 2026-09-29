@@ -1,97 +1,75 @@
 ---
-title: 橙香法式丹麥 蕈菇水波洋芋
-description: 參考貳樓 Second Floor Cafe 常見做法，以 橙香丹麥、水波蛋、炒菇、炒薯、起司醬 還原 橙香法式丹麥 蕈菇水波洋芋 的餐廳份量與風味層次。
+title: 丹麥酥皮蕈菇水波蛋馬鈴薯盤
+description: 在家製作「丹麥酥皮蕈菇水波蛋馬鈴薯盤」，依照份量處理食材並按步驟完成烹調。
 coverImage: /images/recipes/sf-orange-danish-mushroom-poached-potato.webp
 servings: 1
-prepTime: 20
-cookTime: 18
-totalTime: 38
+prepTime: 15
+cookTime: 25
+totalTime: 40
 difficulty: 中等
-calories: 610
-protein: 28
-fat: 30
-carbs: 46
 category: "早午餐"
 scenarios:
-- 一人料理
-- 早午餐
+  - 一人料理
 equipment:
-- 平底鍋
-- 小湯鍋
+  - 烤箱
+  - 平底鍋
+  - 小湯鍋
 tags:
-- 名店還原
-- 早午餐
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 橙香法式丹麥 蕈菇水波洋芋
-  region: 全台連鎖
-intro: 這道 橙香法式丹麥 蕈菇水波洋芋 參考貳樓 Second Floor Cafe 常見做法，會先把 橙香丹麥、水波蛋、炒菇 分段處理，再依 早午餐 的出餐邏輯完成整盤。
+  - 早午餐
+intro: 先將主食材煮至安全熟度，再完成醬汁與配菜；依食材厚度調整加熱時間。
 steps:
-- 橙香丹麥 2 份排在烤盤上，以 180°C 烤箱烤 3～5 分鐘至外層酥香、內層仍鬆軟；起司醬 2 大匙 盛入小碗備用。
-- 平底鍋中火加入 橄欖油 1/2 大匙，倒入 炒菇 120 公克 拌炒至出水後轉小火收乾，撒 海鹽 1/6 小匙、黑胡椒碎少許，起鍋保溫。
-- 炒薯 250 公克 另鍋以中火煎至表面金黃焦香，起鍋保溫。
-- 湯鍋燒滾水加 1 大匙白醋，轉小火，用湯匙攪出漩渦後打入雞蛋 2 顆，小火燙煮約 3 分鐘至蛋白凝固、蛋黃流心，撈起瀝乾。
-- 大圓盤分區擺放烤好的橙香丹麥、炒菇、炒薯與水波蛋 2 顆。
-- 在主料上淋 起司醬 2 大匙，再淋 橄欖油 1 大匙，撒 海鹽 1/3 小匙、黑胡椒碎 1/4 小匙。
-- 確認醬汁均勻後趁熱上桌。
+  - 烤箱預熱至 180°C。馬鈴薯切約 1 公分丁，蘑菇切片；丹麥酥皮放上烤盤，烤 5 分鐘回酥。
+  - 平底鍋加一半橄欖油，中火煎馬鈴薯並加 2 大匙水，蓋鍋煮 8 分鐘；開蓋續煎至軟熟、表面金黃，撒一半鹽與胡椒後盛起。
+  - 同鍋加入剩餘橄欖油，炒蘑菇至出水後收乾、邊緣上色，撒剩餘鹽與胡椒。
+  - 小湯鍋加水煮至微滾，加入白醋。雞蛋分別打入小碗，再輕輕滑入水中；以小火煮至蛋白與蛋黃凝固，撈起瀝水。若希望蛋黃流心，請使用巴氏殺菌蛋。
+  - 將熱酥皮、馬鈴薯、蘑菇和水波蛋分放於兩個盤中，淋上起司醬，趁熱享用。
 tips:
-- 把麵包、蛋、主蛋白與配菜分段完成，最後再整盤擺出，最能還原 Second Floor Cafe 的早午餐節奏。
-- 班尼蛋與歐姆蕾都要保留蛋體濕潤度，不要過熟。
-- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
-storage: 早午餐盤建議現做現吃；蛋料理與吐司放久會失去最佳口感。
-substitutions:
-- 歐包
-- 綜合生菜
+  - 馬鈴薯切成相近大小才會同時熟；水波蛋可先逐顆打入小碗，較容易完整滑入鍋中。
+  - 先將主食材煮至安全熟度，再完成醬汁與配菜；依食材厚度調整加熱時間。
+storage: 建議現做現吃；剩食請於烹調後 2 小時內冷藏，並在 3～4 天內食用。冷藏剩食回熱時應加熱至中心
+  74°C。含生菜、酥炸食材或半熟蛋的組合，請分開保存以維持口感。
 relatedIngredients:
-- 橙香丹麥
-- 水波蛋
-- 炒菇
-- 炒薯
-customAdditions:
-- 水波蛋加一顆
-- 巴薩米克另外放
-faqs:
-- question: 想把 橙香法式丹麥 蕈菇水波洋芋 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 橙香丹麥與水波蛋 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "蔬菜出水時怎麼辦？"
-  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+  - 原味丹麥酥皮
+  - 馬鈴薯
+  - 蘑菇
+  - 雞蛋
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 橙香丹麥
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 水波蛋
-  amount: "2"
-  unit: 顆
-  isCore: true
-- name: 炒菇
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 炒薯
-  amount: "250"
-  unit: 公克
-  isCore: true
+  - name: 原味丹麥酥皮
+    amount: "1"
+    unit: 個
+    isCore: true
+  - name: 馬鈴薯
+    amount: "125"
+    unit: 公克
+    isCore: true
+  - name: 蘑菇
+    amount: "75"
+    unit: 公克
+    isCore: true
+  - name: 雞蛋
+    amount: "1"
+    unit: 顆
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 起司醬
-  amount: "2"
-  unit: 大匙
+  - name: 橄欖油
+    amount: "1"
+    unit: 大匙
+  - name: 起司醬
+    amount: "2"
+    unit: 大匙
+  - name: 白醋
+    amount: "1"
+    unit: 大匙
+  - name: 海鹽
+    amount: 1/2
+    unit: 小匙
+  - name: 黑胡椒
+    amount: 1/4
+    unit: 小匙
+faqs:
+  - question: 哪些部分可以先準備？
+    answer: 馬鈴薯和蘑菇可以先切好並冷藏；酥皮、馬鈴薯與水波蛋建議接近上桌時完成。
 ---
-
-橙香法式丹麥 蕈菇水波洋芋 的在家還原版，重點是把 橙香丹麥、水波蛋、炒菇 做出分層口感，並保留貳樓常見的 早午餐 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-

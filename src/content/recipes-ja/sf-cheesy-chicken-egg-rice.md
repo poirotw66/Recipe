@@ -1,99 +1,84 @@
 ---
-title: 吃光光起司蛋雞肉飯 再現レシピ
+title: 鶏肉と卵のチーズ炒飯
 recipeId: sf-cheesy-chicken-egg-rice
-description: Second Floor Cafe 風に 曙光醬、雞肉、花椰菜、起司、奶油飯 を組み合わせた、店の一皿を意識した再現レシピです。
+description: 「鶏肉と卵のチーズ炒飯」を家庭で作るレシピです。分量に合わせた下準備と調理手順を紹介します。
 coverImage: /images/recipes/sf-cheesy-chicken-egg-rice.webp
 servings: 1
-prepTime: 15
-cookTime: 14
-totalTime: 29
+prepTime: 12
+cookTime: 15
+totalTime: 27
 difficulty: かんたん
-calories: 590
-protein: 30
-fat: 20
-carbs: 70
 category: "キッズプレート"
 scenarios:
-- お弁当向けのおかず
-- 一人分の料理
+  - 平日の時短料理
+  - 一人分の料理
 equipment:
-- フライパン
+  - フライパン
+  - 小鍋
 tags:
-- 名店再現
-- キッズプレート
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 吃光光起司蛋雞肉飯
-  region: 全台連鎖
-intro: Second Floor Cafe でよく見られる組み立て方を参考にし、皿全体の流れごと再現するイメージで作ります。
+  - キッズプレート
+intro: 炊いたご飯をほぐしておき、ほかの具材に火が通ってから加えて、味をなじませて仕上げます。
 steps:
-- 下準備：鶏肉 180gを小さく切り、ブロッコリー 120gを小房に、チーズ 40gを角切り。卵 2個を塩少々で溶く。だし汁 200mlを弱火で温める。
-- フライパンを中火にし、オリーブオイル 大さじ1でブロッコリーを2分炒めて鮮やかな緑にし、鶏肉を加え4～5分炒めて中心まで火を通す（ピンクがない）。取り出す。
-- 同鍋でクリームライス 220gと曙光醬 適量を中火で2分炒め、米粒が油で透きほぐれるまで（炒米）。
-- 中弱火に下げ、熱いだし汁を大さじ1/2ずつ加え、吸われたら次を入れ、4～5回約6分、クリーミーなリゾット状に。
-- 鶏肉とブロッコリーを戻し、クリームライスと和える。海塩 小さじ1/3、挽き黒胡椒 小さじ1/4で味付け。
-- ご飯を端に寄せ、溶き卵を流し入れ、弱火で約1分ふんわり炒り卵にし、ご飯と和える。
-- 火を止め、チーズ 40gを加え半分溶けるまで混ぜ、とろける程度に。
-- 温かいうちに丼に盛り、子ども向けのやさしいチーズ卵の香りで提供。
+  - 鶏肉は1.5cm角に切り、ブロッコリーは小房に分け、卵を溶きほぐします。ご飯はほぐしておきます。
+  - フライパンに油を熱し、鶏肉を中心温度74°Cまで加熱して清潔な皿に取り出します。同じフライパンでブロッコリーを3分炒めます。
+  - ご飯を加え、かたまりをほぐしながら3分炒め、しょうゆを混ぜます。
+  - ご飯を端に寄せ、卵を加えて完全に火が通るまで炒めてから全体を混ぜます。
+  - 鶏肉を戻し、チーズが溶けるまで混ぜます。塩、こしょうで調え、熱いうちに食べます。
 tips:
-- 主役の具材とソースは別々に完成させ、最後に盛り付けると食感の差が残せます。
-- 冷たい付け合わせと温かい主菜は最後まで分けておくと、店らしい仕上がりになります。
-- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
-storage: できれば当日中がおすすめ。保存する場合は具材とソースを分けて冷蔵し、食べる前にやさしく温め直します。
+  - 生肉を扱った後は手、包丁、まな板を洗います。鶏肉は中心74°C、魚は63°Cまで加熱します。
+  - 炊いたご飯をほぐしておき、ほかの具材に火が通ってから加えて、味をなじませて仕上げます。
+storage: できたてがおすすめです。残りは調理後2時間以内に冷蔵し、3～4日以内に食べ切ってください。再加熱する場合は中心まで74°Cに加熱します。生野菜、揚げ物、半熟卵は食感を保つため別々に保存してください。
 substitutions:
-- 白飯
-- 玉米粒
+  - ご飯
+  - コーン
 relatedIngredients:
-- 雞肉
-- 花椰菜
-- 起司
-- 奶油飯
+  - 鶏肉
+  - ブロッコリー
+  - チーズ
+  - バターライス
 customAdditions: []
-faqs:
-- question: 吃光光起司蛋雞肉飯 を店っぽく仕上げるコツは？
-  answer: 主役の具材を先に整え、最後にソースをまとわせてから盛り付けると、レストランらしい厚みが出ます。
-- question: "主材料をパサつかせないコツは？"
-  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 雞肉
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 花椰菜
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 起司
-  amount: "40"
-  unit: 公克
-  isCore: true
-- name: 奶油飯
-  amount: "220"
-  unit: 公克
-  isCore: true
-- name: 雞蛋
-  amount: "2"
-  unit: 顆
-  isCore: false
+  - name: 鶏むね肉
+    amount: "150"
+    unit: g
+    isCore: true
+  - name: 温かいご飯
+    amount: "220"
+    unit: g
+    isCore: true
+  - name: ブロッコリー
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: 卵
+    amount: "1"
+    unit: 個
+    isCore: true
+  - name: チェダーチーズ
+    amount: "25"
+    unit: g
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 曙光醬
-  amount: "適量"
-  unit: ""
+  - name: オリーブオイル
+    amount: "1"
+    unit: 大さじ
+    isCore: true
+  - name: しょうゆ
+    amount: "1"
+    unit: 小さじ
+    isCore: true
+  - name: 塩
+    amount: 1/8
+    unit: 小さじ
+    isCore: true
+  - name: 黒こしょう
+    amount: 1/8
+    unit: 小さじ
+    isCore: true
+faqs:
+  - question: 火の通りはどう確認しますか？
+    answer: 温度計で最も厚い部分を測ります。鶏肉は74°C、魚は63°Cが目安です。
 ---
-
-この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。
-
-主役の具材、ソース、盛り付けの順で仕上げると、店で出てくるような完成度に近づけます。
-

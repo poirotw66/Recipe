@@ -1,8 +1,39 @@
 {
   "slug": "sf-avocado-local-sausage-danish-open",
-  "title": "酪梨 Local 香腸／丹麥 Open",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.8,
+  "locales": [
+    "zh-TW",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "repair_summary": "Removed null equipment and restaurant claims, specified pork sausage and thermometer endpoint, clarified bread weight/two portions and storage.",
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "Recipe text has been corrected and cross-locale structure checked, but cooking time, yield, texture and retained cover-image consistency still need practical verification. No kitchen trial is claimed.",
+      "suggested_fix": "Run and record a kitchen trial with the listed ingredients and equipment, check the existing image against the resulting dish, and review all translations before changing index eligibility.",
+      "source": "agent"
+    }
+  ],
+  "mechanical_review": {
+    "issues": [
+      {
+        "type": "Ingredient_Mismatch",
+        "code": "unused_ingredient",
+        "severity": "Warning",
+        "description": "Listed item \"海鹽\" not found in steps text (heuristic)."
+      },
+      {
+        "type": "Ingredient_Mismatch",
+        "code": "step_mentions_unknown",
+        "severity": "Warning",
+        "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
+      }
+    ],
+    "disposition": "Reviewed against the complete ingredient list and steps. Qualified names (small whole chicken, ready-to-eat products), shortened ingredient names, and black-pepper/salt aliases account for these string-matching warnings; no missing required ingredient was identified in this parent review."
+  }
 }

@@ -1,81 +1,73 @@
 ---
 title: 經典燻鮭魚凱薩沙拉
-description: 參考貳樓 Second Floor Cafe 常見做法，以 凱薩沙拉 + 燻鮭魚 + 溏心蛋 還原 經典燻鮭魚凱薩沙拉 的餐廳份量與風味層次。
+description: 在家製作「經典燻鮭魚凱薩沙拉」，依照份量處理食材並按步驟完成烹調。
 coverImage: /images/recipes/sf-smoked-salmon-caesar-salad.webp
 servings: 2
 prepTime: 18
 cookTime: 18
 totalTime: 36
 difficulty: 中等
-calories: 550
-protein: 30
-fat: 28
-carbs: 38
 category: "開胃菜"
 scenarios:
-- 一人料理
-- 宵夜料理
+  - 宵夜料理
 equipment:
-- 炸鍋
-- 烤箱
+  - 沙拉碗
+  - 平底鍋
+  - 小湯鍋
 tags:
-- 名店還原
-- 分享盤
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 經典燻鮭魚凱薩沙拉
-  region: 全台連鎖
-intro: 這道 經典燻鮭魚凱薩沙拉 參考貳樓 Second Floor Cafe 常見做法，會先把 凱薩沙拉 + 燻鮭魚 + 溏心蛋 分段處理，再依 分享盤 的出餐邏輯完成整盤。
+  - 分享盤
+intro: 生菜洗淨後要充分瀝乾，醬汁在上桌前才拌入；麵包丁等酥脆配料最後加入。
 steps:
-- 凱薩沙拉 適量 中的生菜拆葉洗淨，放入沙拉脫水器徹底甩乾，撕成適口大小裝入大沙拉碗。
-- 燻鮭魚 120公克 從冷藏取出，逆紋斜切成約 0.3 公分薄片，分開鋪平避免黏連，靜置回溫約 5 分鐘。
-- 溏心蛋 適量 以滾水燙煮約 6.5 分鐘（或依個人喜好調整），泡冰水後剝殼對半切開，蛋黃保持流心狀態。
-- 生菜撒 海鹽 1/2小匙 輕拋提味，確認葉面乾爽無積水，醬汁才容易附著。
-- 將凱薩沙拉附帶的醬汁（或市售凱薩醬）取約 2/3 份量倒入沙拉碗，輕快拋拌讓每片葉菜薄薄裹醬。
-- 拌好的生菜盛入大盤中央，周邊依序放射狀鋪上燻鮭魚片與溏心蛋，仿門市分享盤擺法。
-- 表面再淋剩餘醬汁，撒上黑胡椒與帕瑪森起司粉，趁燻鮭魚尚冰涼、蛋黃流心時享用。
+  - 蘿蔓生菜洗淨並徹底脫水，撕成適口大小；燻鮭魚切薄片。
+  - 雞蛋放入滾水煮 9～10 分鐘至蛋黃凝固，泡冷水後剝殼切半。
+  - 將凱薩醬與生菜拌勻，放入兩個盤中，再分放燻鮭魚、麵包丁與帕瑪森起司。趁麵包丁酥脆時上桌。
 tips:
-- 分享盤的關鍵是一次做好主炸物與沾醬，起鍋後立刻組盤才會接近門市口感。
-- 若有生菜或冷醬，請最後才放，避免熱氣讓配菜出水。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
-storage: 炸物建議當天吃完；冷藏後回烤 6 到 8 分鐘恢復脆度。
+  - 生菜洗淨後要充分瀝乾，醬汁則在上桌前拌入，能避免沙拉出水。
+  - 一般雞蛋請煮至蛋白、蛋黃凝固；若要流心蛋，請使用巴氏殺菌蛋並冷藏保存。
+  - 生菜洗淨後要充分瀝乾，醬汁在上桌前才拌入；麵包丁等酥脆配料最後加入。
+storage: 建議現做現吃；剩食請於烹調後 2 小時內冷藏，並在 3～4 天內食用。冷藏剩食回熱時應加熱至中心
+  74°C。含生菜、酥炸食材或半熟蛋的組合，請分開保存以維持口感。
 substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - 冷凍薯條
+  - 蘿蔓心
 relatedIngredients:
-- 凱薩沙拉
-- 燻鮭魚
-- 溏心蛋
+  - 凱薩沙拉
+  - 燻鮭魚
+  - 溏心蛋
 customAdditions: []
-faqs:
-- question: 想把 經典燻鮭魚凱薩沙拉 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 凱薩沙拉 + 燻鮭魚 + 溏心蛋 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 凱薩沙拉
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 燻鮭魚
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 溏心蛋
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: 蘿蔓生菜
+    amount: "120"
+    unit: 公克
+    isCore: true
+  - name: 燻鮭魚
+    amount: "120"
+    unit: 公克
+    isCore: true
+  - name: 雞蛋
+    amount: "2"
+    unit: 顆
+    isCore: true
+  - name: 凱薩醬
+    amount: "2"
+    unit: 大匙
+    isCore: true
+  - name: 麵包丁
+    amount: "30"
+    unit: 公克
+    isCore: true
+  - name: 帕瑪森起司
+    amount: "15"
+    unit: 公克
+    isCore: true
 seasonings:
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
+  - name: 海鹽
+    amount: 1/2
+    unit: 小匙
+faqs:
+  - question: 可以提前準備嗎？
+    answer: 配料與醬汁可分開冷藏；生菜和醬汁建議上桌前再混合。
 ---
-
-經典燻鮭魚凱薩沙拉 的在家還原版，重點是把 凱薩沙拉 + 燻鮭魚 + 溏心蛋 做出分層口感，並保留貳樓常見的 分享盤 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-

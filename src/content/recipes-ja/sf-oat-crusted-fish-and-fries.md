@@ -1,82 +1,81 @@
 ---
-title: 燕麥脆脆炸魚薯條 再現レシピ
+title: オートミール衣の魚フライとポテト
 recipeId: sf-oat-crusted-fish-and-fries
-description: Second Floor Cafe 風に 燕麥炸魚、薯條、塔塔醬 を組み合わせた、店の一皿を意識した再現レシピです。
+description: 「オートミール衣の魚フライとポテト」を家庭で作るレシピです。分量に合わせた下準備と調理手順を紹介します。
 coverImage: /images/recipes/sf-oat-crusted-fish-and-fries.webp
 servings: 2
-prepTime: 18
-cookTime: 18
-totalTime: 36
+prepTime: 15
+cookTime: 20
+totalTime: 35
 difficulty: 普通
-calories: 740
-protein: 30
-fat: 36
-carbs: 48
 category: "前菜"
 scenarios:
-- 夜食
-- 一人分の料理
+  - 平日の時短料理
+  - 一人分の料理
 equipment:
-- フライヤー
-- オーブン
+  - 揚げ鍋
+  - 網
 tags:
-- 名店再現
-- 前菜
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 燕麥脆脆炸魚薯條
-  region: 全台連鎖
-intro: Second Floor Cafe でよく見られる組み立て方を参考にし、皿全体の流れごと再現するイメージで作ります。
+  - 前菜
+intro: 具材の水気を拭き、油温を保ちながら少量ずつ揚げます。ソースは揚げた後に絡めると食感を保てます。
 steps:
-- 燕麥炸魚 適量とフライドポテト 250gを冷蔵庫から取り出し、キッチンペーパーで表面の水分を拭き取る。揚げ油 600mlを揚げ鍋に注ぎ予熱を始める。
-- キッチン温度計で油温 175°Cを確認。ポテトは少量ずつ入れ、5分揚げて黄金色に形が固まったら油を切る。
-- 油温を175～180°Cに保ち、燕麥炸魚を4～5分揚げ、衣が黄金色でサクサク、魚の中心まで火が通るまで（内部63°C、またはフォークでほぐれる）。
-- 揚げた魚を網の上で1分油を切る。
-- （任意）油温を185°Cに上げ、ポテトを1分再揚げしてよりサクサクに。
-- 熱いポテトに海塩 小さじ1/2を振り混ぜる。
-- シェア皿に燕麥炸魚とポテトを分けて盛り、塔塔醬 適量を添えて温かいうちに。
+  - オーブンを220°Cに予熱します。じゃがいもを太めの棒状に切り、油の半量と塩少々をまぶして天板で15分焼きます。
+  - オートミールを粗く砕き、薄力粉、こしょうと混ぜます。魚の水気を拭いて溶き卵にくぐらせ、オートミールをまぶします。
+  - じゃがいもを返します。魚は別の天板に置いて残りの油を塗ります。魚の中心が63°Cになり、衣がきつね色になるまで10～12分焼きます。
+  - レモンを添えて熱いうちに食べます。生魚に触れた皿や器具は洗ってから再利用してください。
 tips:
-- 主役の具材とソースは別々に完成させ、最後に盛り付けると食感の差が残せます。
-- 冷たい付け合わせと温かい主菜は最後まで分けておくと、店らしい仕上がりになります。
-- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
-storage: できれば当日中がおすすめ。保存する場合は具材とソースを分けて冷蔵し、食べる前にやさしく温め直します。
+  - 一度にたくさん入れず、数回に分けて揚げ、網で油を切ると油温が下がりにくくなります。
+  - 具材の水気を拭き、油温を保ちながら少量ずつ揚げます。ソースは揚げた後に絡めると食感を保てます。
+storage: できたてがおすすめです。残りは調理後2時間以内に冷蔵し、3～4日以内に食べ切ってください。再加熱する場合は中心まで74°Cに加熱します。生野菜、揚げ物、半熟卵は食感を保つため別々に保存してください。
 substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - 冷凍フライドポテト
+  - ロメインレタスの芯
 relatedIngredients:
-- 燕麥炸魚
-- 薯條
+  - オートミール衣の魚フライ
+  - フライドポテト
 customAdditions: []
-faqs:
-- question: 燕麥脆脆炸魚薯條 を店っぽく仕上げるコツは？
-  answer: 主役の具材を先に整え、最後にソースをまとわせてから盛り付けると、レストランらしい厚みが出ます。
-- question: "主材料をパサつかせないコツは？"
-  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 燕麥炸魚
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 薯條
-  amount: "250"
-  unit: 公克
-  isCore: true
+  - name: 白身魚の切り身
+    amount: "300"
+    unit: g
+    isCore: true
+  - name: じゃがいも
+    amount: "300"
+    unit: g
+    isCore: true
+  - name: オートミール
+    amount: "40"
+    unit: g
+    isCore: true
+  - name: 卵
+    amount: "1"
+    unit: 個
+    isCore: true
+  - name: 薄力粉
+    amount: "25"
+    unit: g
+    isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
-- name: 塔塔醬
-  amount: "適量"
-  unit: ""
+  - name: サラダ油
+    amount: "1"
+    unit: 大さじ
+    isCore: true
+  - name: 塩
+    amount: 1/2
+    unit: 小さじ
+    isCore: true
+  - name: 黒こしょう
+    amount: 1/4
+    unit: 小さじ
+    isCore: true
+  - name: レモン
+    amount: 1/2
+    unit: 個
+    isCore: true
+faqs:
+  - question: 残りを温め直せますか？
+    answer: 揚げ物はできたてがおすすめです。残りは冷蔵し、オーブンなどで中心まで熱くなるよう温めてください。
 ---
-
-この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。
-
-主役の具材、ソース、盛り付けの順で仕上げると、店で出てくるような完成度に近づけます。
-

@@ -1,86 +1,74 @@
 ---
-title: Campfire Lemon Zucchini Fish Fillet
+title: Lemon Fish with Zucchini
 recipeId: sf-campfire-lemon-zucchini-fish-fillet
-description: "Second Floor Cafe-inspired linkou specials with restaurant-style portions and 魚菲力、櫛瓜、檸香醬汁."
+description: "A measured home recipe for Lemon Fish with Zucchini, with clear
+  preparation and cooking steps."
 coverImage: /images/recipes/sf-campfire-lemon-zucchini-fish-fillet.webp
 servings: 1
-prepTime: 20
-cookTime: 18
-totalTime: 38
+prepTime: 10
+cookTime: 15
+totalTime: 25
 difficulty: Medium
-calories: 690
-protein: 38
-fat: 28
-carbs: 48
 category: "Linkou specials"
 scenarios:
-- Cooking for one
+  - Cooking for one
 equipment:
-- Skillet
-- Oven
+  - Skillet
 tags:
-- Restaurant replica
-- Linkou specials
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 野炊系義式檸香櫛瓜魚菲力
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Linkou specials
+intro: "Cook the main ingredient to a safe doneness before finishing the sauce
+  and sides; adjust time for its thickness."
 steps:
-- Pat fish fillet 180 g dry with paper towels; slice zucchini 適量 into 0.5 cm rounds; prepare lemon sauce 適量.
-- Season both sides of fish with sea salt 1/3 tsp and black pepper 1/4 tsp; rest 5 minutes.
-- Heat olive oil 1 tbsp in a skillet over medium until shimmering; sear fish skin-side down (if skin-on) 3 minutes until golden on the bottom.
-- Flip and cook 2–3 minutes until opaque and flakes easily with a fork; set aside and keep warm.
-- In the same pan, sauté zucchini rounds over medium 2 minutes until edges lightly char and still crisp-tender.
-- Turn off heat; squeeze a little lemon juice and fold in lemon sauce 適量 into a warm glaze.
-- Plate fish and zucchini separately; drizzle lemon sauce and serve hot for the Linkou campfire lemon zucchini fish fillet.
+  - Pat the fish dry. Cut the zucchini into 5 mm slices and squeeze the lemon.
+  - Heat the olive oil over medium heat. Cook the fish about 3–4 minutes per
+    side, adjusting for thickness, until its center reaches 145°F (63°C).
+    Transfer to a plate and rest.
+  - Cook the zucchini in the same skillet until lightly browned and tender.
+  - Lower the heat. Add the butter and lemon juice and stir until the butter
+    melts; season with salt and pepper, then spoon over the fish.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 皮塔餅
-- 櫛瓜
+  - Fish thickness changes the cooking time. Use a thermometer and check the
+    thickest part for 145°F (63°C).
+  - Cook the main ingredient to a safe doneness before finishing the sauce and
+    sides; adjust time for its thickness.
+storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
+  toppings, greens, or soft-cooked eggs separately to protect texture.
 relatedIngredients:
-- 魚菲力
-- 櫛瓜
-- 檸香醬汁
-customAdditions: []
-faqs:
-- question: What makes this 野炊系義式檸香櫛瓜魚菲力 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - White fish fillet
+  - Zucchini
+  - Lemon
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 魚菲力
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 櫛瓜
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 檸香醬汁
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: White fish fillet
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: Zucchini
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: Lemon
+    amount: 1/2
+    unit: ""
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: Olive oil
+    amount: "1"
+    unit: tbsp
+  - name: Unsalted butter
+    amount: "10"
+    unit: g
+  - name: Salt
+    amount: 1/4
+    unit: tsp
+  - name: Black pepper
+    amount: 1/8
+    unit: tsp
+faqs:
+  - question: Can I use another fish?
+    answer: Yes. Choose a white fish fillet of similar thickness and check its
+      center temperature.
 ---
-
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-

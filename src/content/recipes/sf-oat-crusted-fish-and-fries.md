@@ -1,82 +1,81 @@
 ---
 title: 燕麥脆脆炸魚薯條
-description: 參考貳樓 Second Floor Cafe 常見做法，以 燕麥炸魚、薯條、塔塔醬 還原 燕麥脆脆炸魚薯條 的餐廳份量與風味層次。
+description: 在家製作「燕麥脆脆炸魚薯條」，依照份量處理食材並按步驟完成烹調。
 coverImage: /images/recipes/sf-oat-crusted-fish-and-fries.webp
 servings: 2
-prepTime: 18
-cookTime: 18
-totalTime: 36
+prepTime: 15
+cookTime: 20
+totalTime: 35
 difficulty: 中等
-calories: 740
-protein: 30
-fat: 36
-carbs: 48
 category: "開胃菜"
 scenarios:
-- 一人料理
-- 宵夜料理
+  - 平日快速料理
+  - 一人份料理
 equipment:
-- 炸鍋
-- 烤箱
+  - 炸鍋
+  - 網架
 tags:
-- 名店還原
-- 分享盤
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 燕麥脆脆炸魚薯條
-  region: 全台連鎖
-intro: 這道 燕麥脆脆炸魚薯條 參考貳樓 Second Floor Cafe 常見做法，會先把 燕麥炸魚、薯條、塔塔醬 分段處理，再依 分享盤 的出餐邏輯完成整盤。
+  - 分享盤
+intro: 食材下鍋前先擦乾，分批烹調並維持油溫；醬料在起鍋後再拌，較能保留酥脆口感。
 steps:
-- 將 燕麥炸魚 適量 與 薯條 250公克 從冷藏取出，用廚房紙巾吸乾表面水分；炸鍋倒入 炸油 600毫升 開始預熱。
-- 以廚房溫度計確認油溫 175°C；薯條分批下鍋，炸 5 分鐘至金黃定型，撈起瀝油。
-- 油溫維持 175～180°C，下燕麥炸魚，炸 4～5 分鐘至外皮金黃酥脆、魚肉熟透（內部溫度達 63°C 或叉子可輕鬆撥開）。
-- 炸魚撈起放在網架上瀝油 1 分鐘。
-- （可選）油溫升至 185°C，薯條回鍋複炸 1 分鐘至更酥脆。
-- 熱薯條撒上 海鹽 1/2小匙 拌勻。
-- 分享盤分區擺上燕麥炸魚與薯條，附上 塔塔醬 適量 沾食，趁熱享用。
+  - 烤箱預熱至 220°C。馬鈴薯切成粗條，拌半大匙油和少量鹽，鋪在烤盤上烤 15 分鐘。
+  - 燕麥片稍微壓碎，與麵粉、胡椒混合。魚片擦乾，沾打散的蛋液，再裹燕麥粉。
+  - 翻動薯條；魚片放在另一張烤盤上，刷上剩餘的油。與薯條一起烤 10～12 分鐘，直到魚肉中心達 63°C、外層呈金黃。
+  - 搭配檸檬角趁熱食用。生魚接觸過的盤子和器具須清洗後再使用。
 tips:
-- 分享盤的關鍵是一次做好主炸物與沾醬，起鍋後立刻組盤才會接近門市口感。
-- 若有生菜或冷醬，請最後才放，避免熱氣讓配菜出水。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
-storage: 炸物建議當天吃完；冷藏後回烤 6 到 8 分鐘恢復脆度。
+  - 分批油炸並放在網架瀝油，避免一次下太多食材讓油溫下降。
+  - 食材下鍋前先擦乾，分批烹調並維持油溫；醬料在起鍋後再拌，較能保留酥脆口感。
+storage: 建議現做現吃；剩食請於烹調後 2 小時內冷藏，並在 3～4 天內食用。冷藏剩食回熱時應加熱至中心
+  74°C。含生菜、酥炸食材或半熟蛋的組合，請分開保存以維持口感。
 substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - 冷凍薯條
+  - 蘿蔓心
 relatedIngredients:
-- 燕麥炸魚
-- 薯條
+  - 燕麥炸魚
+  - 薯條
 customAdditions: []
-faqs:
-- question: 想把 燕麥脆脆炸魚薯條 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 燕麥炸魚與薯條 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 燕麥炸魚
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 薯條
-  amount: "250"
-  unit: 公克
-  isCore: true
+  - name: 白肉魚片
+    amount: "300"
+    unit: 公克
+    isCore: true
+  - name: 馬鈴薯
+    amount: "300"
+    unit: 公克
+    isCore: true
+  - name: 燕麥片
+    amount: "40"
+    unit: 公克
+    isCore: true
+  - name: 雞蛋
+    amount: "1"
+    unit: 顆
+    isCore: true
+  - name: 中筋麵粉
+    amount: "25"
+    unit: 公克
+    isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
-- name: 塔塔醬
-  amount: "適量"
-  unit: ""
+  - name: 中性油
+    amount: "1"
+    unit: 大匙
+    isCore: true
+  - name: 海鹽
+    amount: 1/2
+    unit: 小匙
+    isCore: true
+  - name: 黑胡椒
+    amount: 1/4
+    unit: 小匙
+    isCore: true
+  - name: 檸檬
+    amount: 1/2
+    unit: 顆
+    isCore: true
+faqs:
+  - question: 可以回熱嗎？
+    answer: 炸物新鮮時口感最好；剩食請冷藏，回熱時用烤箱或氣炸鍋加熱至中心滾燙。
 ---
-
-燕麥脆脆炸魚薯條 的在家還原版，重點是把 燕麥炸魚、薯條、塔塔醬 做出分層口感，並保留貳樓常見的 分享盤 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-

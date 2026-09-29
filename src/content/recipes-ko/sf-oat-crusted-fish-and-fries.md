@@ -1,82 +1,83 @@
 ---
-title: 燕麥脆脆炸魚薯條 스타일 레시피
+title: 오트밀 생선튀김과 감자튀김
 recipeId: sf-oat-crusted-fish-and-fries
-description: Second Floor Cafe 스타일로 燕麥炸魚、薯條、塔塔醬 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
+description: 오트밀 생선튀김과 감자튀김를 집에서 만드는 레시피입니다. 분량에 맞춘 재료 준비와 조리 순서를 안내합니다.
 coverImage: /images/recipes/sf-oat-crusted-fish-and-fries.webp
 servings: 2
-prepTime: 18
-cookTime: 18
-totalTime: 36
+prepTime: 15
+cookTime: 20
+totalTime: 35
 difficulty: 보통
-calories: 740
-protein: 30
-fat: 36
-carbs: 48
 category: "애피타이저"
 scenarios:
-- 야식
-- 1인 요리
+  - 평일 간단 요리
+  - 1인분 요리
 equipment:
-- 튀김냄비
-- 오븐
+  - 튀김 냄비
+  - 망
 tags:
-- 맛집 재현
-- 애피타이저
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 燕麥脆脆炸魚薯條
-  region: 全台連鎖
-intro: Second Floor Cafe에서 자주 보이는 조리 흐름을 참고해 한 접시 전체의 완성도를 살리는 방식으로 만듭니다.
+  - 애피타이저
+intro: 재료의 물기를 닦고 기름 온도를 유지하며 나눠 튀기세요. 바삭함을 위해 소스는 튀긴 뒤 버무립니다.
 steps:
-- 燕麥炸魚 적량과 감자튀김 250g을 냉장고에서 꺼내 키친타월로 표면 수분을 닦습니다. 튀김기름 600ml을 넣고 예열합니다.
-- 키친 온도계로 기름 온도 175°C를 확인합니다. 감자튀김은 소량씩 넣어 5분 튀겨 황금색으로 형이 잡히면 건집니다.
-- 기름 온도를 175~180°C로 유지하고 燕麥炸魚를 4~5분 튀겨 겉은 노릇하고 바삭하며 속까지 익힙니다(내부 63°C 또는 포크로 쉽게 갈라질 때).
-- 튀긴 생선을 철망 위에서 1분 기름을 뺍니다.
-- (선택) 기름 온도를 185°C로 올려 감자튀김을 1분 더 튀겨 더 바삭하게 합니다.
-- 뜨거운 감자튀김에 바다소금 1/2작은술을 뿌려 버무립니다.
-- 나눠 먹는 접시에 燕麥炸魚와 감자튀김을 구역 나눠 담고 塔塔醬 적량을 곁들여 뜨거울 때 드세요.
+  - 오븐을 220°C로 예열합니다. 감자를 굵은 막대 모양으로 썰어 기름 절반과 소금 약간을 버무린 뒤 팬에 올려 15분 굽습니다.
+  - 오트밀을 살짝 부수고 밀가루, 후추와 섞습니다. 생선의 물기를 닦고 푼 달걀에 담근 뒤 오트밀 혼합물을 입힙니다.
+  - 감자를 뒤집습니다. 생선은 별도 팬에 놓고 남은 기름을 바릅니다. 생선 중심 온도가 63°C에 도달하고 겉이 노릇해질 때까지 10~12분
+    굽습니다.
+  - 레몬을 곁들여 뜨거울 때 냅니다. 생선이 닿은 접시와 도구는 씻은 뒤 다시 사용하세요.
 tips:
-- 주재료와 소스를 따로 완성한 뒤 마지막에 합치면 질감 차이가 더 살아납니다.
-- 차가운 가니시와 뜨거운 단백질은 마지막에 합쳐야 매장 같은 결과가 납니다.
-- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
-storage: 가급적 당일 섭취를 권장합니다. 보관할 때는 재료와 소스를 나누어 냉장하고 먹기 직전에 부드럽게 다시 데우세요.
+  - 한 번에 많이 넣지 말고 나누어 튀긴 뒤 망에서 기름을 빼면 기름 온도가 급격히 떨어지지 않습니다.
+  - 재료의 물기를 닦고 기름 온도를 유지하며 나눠 튀기세요. 바삭함을 위해 소스는 튀긴 뒤 버무립니다.
+storage: 갓 만들어 먹는 것을 권합니다. 남은 음식은 조리 후 2시간 안에 냉장하고 3~4일 안에 드세요. 다시 데울 때는 중심 온도가
+  74°C가 되도록 가열하세요. 생채소, 튀김, 반숙 달걀은 식감을 위해 따로 보관하세요.
 substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - 냉동 감자튀김
+  - 로메인 하트
 relatedIngredients:
-- 燕麥炸魚
-- 薯條
+  - 귀리옷 생선 튀김
+  - 감자튀김
 customAdditions: []
-faqs:
-- question: 燕麥脆脆炸魚薯條 를 매장 스타일에 가깝게 만드는 핵심은 무엇인가요?
-  answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
-- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
-  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 燕麥炸魚
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 薯條
-  amount: "250"
-  unit: 公克
-  isCore: true
+  - name: 흰살생선 필레
+    amount: "300"
+    unit: g
+    isCore: true
+  - name: 감자
+    amount: "300"
+    unit: g
+    isCore: true
+  - name: 오트밀
+    amount: "40"
+    unit: g
+    isCore: true
+  - name: 달걀
+    amount: "1"
+    unit: 개
+    isCore: true
+  - name: 중력분
+    amount: "25"
+    unit: g
+    isCore: true
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
-- name: 塔塔醬
-  amount: "適量"
-  unit: ""
+  - name: 식용유
+    amount: "1"
+    unit: 큰술
+    isCore: true
+  - name: 소금
+    amount: 1/2
+    unit: 작은술
+    isCore: true
+  - name: 후추
+    amount: 1/4
+    unit: 작은술
+    isCore: true
+  - name: 레몬
+    amount: 1/2
+    unit: 개
+    isCore: true
+faqs:
+  - question: 남은 음식을 데울 수 있나요?
+    answer: 튀김은 갓 만들었을 때 가장 맛있습니다. 남은 음식은 냉장하고 오븐이나 에어프라이어로 속까지 뜨겁게 데우세요.
 ---
-
-이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.
-
-주재료 준비, 소스 완성, 마지막 플레이팅 순서를 지키면 매장 스타일에 더 가깝게 만들 수 있습니다.
-

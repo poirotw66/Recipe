@@ -1,86 +1,66 @@
 ---
-title: 野炊系義式檸香櫛瓜魚菲力 스타일 레시피
+title: 레몬 생선구이와 주키니
 recipeId: sf-campfire-lemon-zucchini-fish-fillet
-description: Second Floor Cafe 스타일로 魚菲力、櫛瓜、檸香醬汁 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
+description: 레몬 생선구이와 주키니를 집에서 만드는 레시피입니다. 분량에 맞춘 재료 준비와 조리 순서를 안내합니다.
 coverImage: /images/recipes/sf-campfire-lemon-zucchini-fish-fillet.webp
 servings: 1
-prepTime: 20
-cookTime: 18
-totalTime: 38
+prepTime: 10
+cookTime: 15
+totalTime: 25
 difficulty: 보통
-calories: 690
-protein: 38
-fat: 28
-carbs: 48
 category: "린커우 한정"
 scenarios:
-- 1인 요리
+  - 1인 요리
 equipment:
-- 프라이팬
-- 오븐
+  - 프라이팬
 tags:
-- 맛집 재현
-- 린커우 한정
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 野炊系義式檸香櫛瓜魚菲力
-  region: 全台連鎖
-intro: Second Floor Cafe에서 자주 보이는 조리 흐름을 참고해 한 접시 전체의 완성도를 살리는 방식으로 만듭니다.
+  - 린커우 한정
+intro: 주재료를 안전하게 익힌 뒤 소스와 곁들임을 마무리하세요. 두께에 따라 가열 시간을 조절합니다.
 steps:
-- 생선 필레 180g의 물기를 키친타월로 닦습니다; 주키니 適量을 0.5cm 두께로 썹니다; 레몬 소스 適量을 준비합니다.
-- 생선 양면에 바다소금 1/3작은술과 후추 1/4작은술을 뿌려 5분 재웁니다.
-- 팬에 올리브 오일 1큰술을 중불로 달군 뒤 껍질이 있으면 껍질 아래로 3분 바닥이 노릇해질 때까지 굽습니다.
-- 뒤집어 2~3분 불투명해지고 포크로 쉽게 갈라질 때까지 굽습니다; 건져 보온합니다.
-- 같은 팬에 주키니를 중불로 2분 볶아 가장자리가 살짝 탄 뒤에도 아삭함을 유지합니다.
-- 불을 끄고 레몬즙을 조금 짜고 레몬 소스 適量을 넣어 따뜻한 소스로 만듭니다.
-- 생선과 주키니를 나눠 담고 레몬 소스를 뿌려 뜨겁게 내며, 林口限定野炊風味을 재현합니다.
+  - 생선의 물기를 닦습니다. 애호박은 5mm 두께로 썰고 레몬즙을 짭니다.
+  - 팬에 올리브오일을 두르고 중불에서 생선을 한 면당 약 3~4분 익힙니다. 가장 두꺼운 부분의 중심 온도가 63°C에 도달하면 접시에 옮겨
+    둡니다.
+  - 같은 팬에서 애호박을 양면이 살짝 노릇하고 부드러워질 때까지 익힙니다.
+  - 불을 약하게 줄이고 버터와 레몬즙을 넣어 녹입니다. 소금과 후추로 간한 뒤 생선 위에 끼얹습니다.
 tips:
-- 주재료와 소스를 따로 완성한 뒤 마지막에 합치면 질감 차이가 더 살아납니다.
-- 차가운 가니시와 뜨거운 단백질은 마지막에 합쳐야 매장 같은 결과가 납니다.
-- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
-storage: 가급적 당일 섭취를 권장합니다. 보관할 때는 재료와 소스를 나누어 냉장하고 먹기 직전에 부드럽게 다시 데우세요.
-substitutions:
-- 皮塔餅
-- 櫛瓜
+  - 생선 두께에 따라 시간이 달라집니다. 온도계로 가장 두꺼운 부분이 63°C인지 확인하세요.
+  - 주재료를 안전하게 익힌 뒤 소스와 곁들임을 마무리하세요. 두께에 따라 가열 시간을 조절합니다.
+storage: 갓 만들어 먹는 것을 권합니다. 남은 음식은 조리 후 2시간 안에 냉장하고 3~4일 안에 드세요. 다시 데울 때는 중심 온도가
+  74°C가 되도록 가열하세요. 생채소, 튀김, 반숙 달걀은 식감을 위해 따로 보관하세요.
 relatedIngredients:
-- 魚菲力
-- 櫛瓜
-- 檸香醬汁
-customAdditions: []
-faqs:
-- question: 野炊系義式檸香櫛瓜魚菲力 를 매장 스타일에 가깝게 만드는 핵심은 무엇인가요?
-  answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
-- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
-  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
+  - 흰살생선 필레
+  - 애호박
+  - 레몬
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 魚菲力
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 櫛瓜
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 檸香醬汁
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: 흰살생선 필레
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: 애호박
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: 레몬
+    amount: 1/2
+    unit: 개
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: 올리브오일
+    amount: "1"
+    unit: 큰술
+  - name: 무염버터
+    amount: "10"
+    unit: g
+  - name: 소금
+    amount: 1/4
+    unit: 작은술
+  - name: 후추
+    amount: 1/8
+    unit: 작은술
+faqs:
+  - question: 다른 생선을 사용해도 되나요?
+    answer: 두께가 비슷한 흰살생선을 사용하고 중심 온도를 확인해 익히면 됩니다.
 ---
-
-이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.
-
-주재료 준비, 소스 완성, 마지막 플레이팅 순서를 지키면 매장 스타일에 더 가깝게 만들 수 있습니다.
-

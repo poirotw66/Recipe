@@ -1,8 +1,16 @@
 {
   "slug": "dh-plant-based-fried-chicken-with-mushroom-soondubu",
-  "title": "植感炸雞鮮菇嫩豆腐煲",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "title": "植物肉炸雞鮮菇嫩豆腐煲",
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 88,
+  "issues": [
+    {
+      "type": "Safety_Risk",
+      "severity": "Warning",
+      "description": "份量調整為一人份並把步驟中的蛋列入食材，按產品說明加熱植物肉、全熟雞蛋，修正設備／時間並移除不實營養數字。 四語內容已校準配料數量與數字份量；廚房試煮及成品影像核對仍待完成，因此維持 Warning、不標記 Pass。",
+      "suggested_fix": "安排實際試煮，記錄熟度、時間、口感與份量；另核對成品影像符合本配方後再重新審查。",
+      "source": "agent"
+    }
+  ]
 }

@@ -1,94 +1,91 @@
 ---
-title: 黑松露厚切藍帶豬／歐包 Open 再現レシピ
+title: 黒トリュフのコルドンブルートースト
 recipeId: sf-black-truffle-cordon-bleu-pork-open
-description: Second Floor Cafe 風に 歐包、藍帶豬排、黑松露醬、水波蛋 を組み合わせた、店の一皿を意識した再現レシピです。
+description: ハムとチーズを包んだ豚カツを焼いたバゲットにのせ、トリュフマヨネーズを薄く塗ります。肉と詰め物の両方を74°Cにします。
 coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.webp
 servings: 1
-prepTime: 18
-cookTime: 14
-totalTime: 32
+prepTime: 15
+cookTime: 30
+totalTime: 45
 difficulty: 普通
-calories: 590
-protein: 32
-fat: 26
-carbs: 38
-category: "オープンサンド"
+category: "ブランチ"
 scenarios:
-- 一人分の料理
-- 10分でできる料理
+  - 一人分の料理
 equipment:
-- フライパン
-- オーブン
+  - フライパン
+  - オーブン
+  - 食品用温度計
 tags:
-- 名店再現
-- オープンサンド
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 黑松露厚切藍帶豬／歐包 Open
-  region: 全台連鎖
-intro: Second Floor Cafe でよく見られる組み立て方を参考にし、皿全体の流れごと再現するイメージで作ります。
+  - 家庭料理
+intro: ハムとチーズを豚ロースで包んで衣をつけ、焼き色をつけてからオーブンで仕上げるオープンサンドです。豚肉と詰め物の中心をどちらも74°Cにします。
 steps:
-- 歐包2份を横切りにし、切り口にバターを薄く塗り、180℃のオーブンで5～7分焼いて表面をきつね色に軽くカリカリにする。
-- 藍帶豬排220gを室温で10分戻し、両面に海塩と黒胡椒を少々ふる。フライパンを中火にしオリーブオイルで各面4～5分きつね色に焼き、2分休ませてから斜め切りにする。
-- 小さなボウルで黑松露醬大さじ3、松露醬大さじ3、オリーブオイル大さじ1、海塩小さじ1/3、黒胡椒小さじ1/4を混ぜてトリュフソースにする。
-- 鍋で湯を沸かし酢を少し加え、弱火にして渦を作り、卵2個を割り入れ約3分ポーチする（黄身がとろり）。
-- 焼いた歐包にトリュフソースの1/3を塗り、藍帶豬排をのせる。
-- ポーチドエッグ2個を載せ、残りのトリュフソースをかけて温かいうちに。
+  - オーブンを200°Cに予熱します。豚肉をラップではさみ、約1cm厚になるまで軽くたたきます。両面に塩、こしょうを振り、中央にハムとチーズを置いて折り、端を押さえて閉じます。
+  - 小麦粉、溶き卵、パン粉の順につけます。フライパンに油を中火で熱し、両面を約2分ずつ焼いて焼き色をつけます。
+  - 天板に移して約10～15分焼きます。温度計を横から豚肉の最も厚い部分とハム・チーズの詰め物の中心に差します。両方が74°Cに達したら取り出します。未達なら焼き続けて再測定します。
+  - バゲットを軽くカリッと焼きます。マヨネーズとトリュフペーストを混ぜて薄く塗り、切った豚カツをのせます。
 tips:
-- 主役の具材とソースは別々に完成させ、最後に盛り付けると食感の差が残せます。
-- 冷たい付け合わせと温かい主菜は最後まで分けておくと、店らしい仕上がりになります。
-- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
-storage: できれば当日中がおすすめ。保存する場合は具材とソースを分けて冷蔵し、食べる前にやさしく温め直します。
-substitutions:
-- 酸種麵包
-- 丹麥麵包
+  - 詰め物をした豚肉料理です。豚肉の最も厚い部分と詰め物の中心を両方74°Cにします。詰め物のない豚肉に適用される63°Cと休ませ時間の基準は使いません。
+storage: 焼いた豚肉とパンは分けて密閉し、2時間以内に冷蔵して3日以内に食べます。温め直すときは豚肉と詰め物の両方を74°Cにします。
+substitutions: []
 relatedIngredients:
-- 歐包
-- 藍帶豬排
-- 水波蛋
-customAdditions:
-- ポーチドエッグ追加
-- バルサミコ別添え
+  - 薄切り豚ロース
+  - ハム
+  - スライスチーズ
+  - バゲット
+customAdditions: []
 faqs:
-- question: 黑松露厚切藍帶豬／歐包 Open を店っぽく仕上げるコツは？
-  answer: 主役の具材を先に整え、最後にソースをまとわせてから盛り付けると、レストランらしい厚みが出ます。
-- question: "主材料をパサつかせないコツは？"
-  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
+  - question: 冷凍のコルドンブルーを使えますか？
+    answer: 使えます。包装表示に従い、豚肉と詰め物の中心がどちらも74°Cに達したことを確認してください。このレシピの時間は使えません。
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 歐包
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 藍帶豬排
-  amount: "220"
-  unit: 公克
-  isCore: true
-- name: 水波蛋
-  amount: "2"
-  unit: 顆
-  isCore: true
+  - name: 薄切り豚ロース
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: ハム
+    amount: "1"
+    unit: 枚
+    isCore: true
+  - name: スライスチーズ
+    amount: "1"
+    unit: 枚
+    isCore: true
+  - name: バゲット
+    amount: "2"
+    unit: 切れ
+    isCore: true
+  - name: 卵
+    amount: "1"
+    unit: 個
+    isCore: false
+  - name: 小麦粉
+    amount: "2"
+    unit: 大さじ
+    isCore: false
+  - name: パン粉
+    amount: "30"
+    unit: g
+    isCore: false
+  - name: マヨネーズ
+    amount: "1"
+    unit: 大さじ
+    isCore: false
+  - name: 黒トリュフペースト
+    amount: "1"
+    unit: 小さじ
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 黑松露醬
-  amount: "3"
-  unit: 大匙
-- name: 松露醬
-  amount: "3"
-  unit: 大匙
+  - name: オリーブ油
+    amount: "1"
+    unit: 大さじ
+  - name: 塩
+    amount: 1/4
+    unit: 小さじ
+  - name: 黒こしょう
+    amount: 少々
+    unit: ""
 ---
 
-この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。
-
-主役の具材、ソース、盛り付けの順で仕上げると、店で出てくるような完成度に近づけます。
-
+薄い豚ロースでハムとチーズを包み、衣をつけて焼き、オーブンで仕上げます。豚肉の厚い部分と詰め物の中心を測り、両方74°Cになってからトーストにのせます。

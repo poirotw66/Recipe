@@ -1,102 +1,89 @@
 ---
-title: Signature Double Stack Burger
+title: Double-Stack Cheeseburger
 recipeId: sf-signature-double-stack-burger
-description: "Second Floor Cafe-inspired handheld mains with restaurant-style portions and 牛肉排、炸魚、培根、巴薩米克醬、薯塊."
+description: Two ground-beef patties layered with cheese and vegetables; each
+  patty must reach 71°C / 160°F.
 coverImage: /images/recipes/sf-signature-double-stack-burger.webp
 servings: 1
-prepTime: 18
+prepTime: 15
 cookTime: 15
-totalTime: 33
+totalTime: 30
 difficulty: Medium
-calories: 850
-protein: 32
-fat: 46
-carbs: 58
-category: "Handheld mains"
+category: "Burgers & sandwiches"
 scenarios:
-- Bento-friendly dishes
-- Cooking for one
+  - Cooking for one
 equipment:
-- Skillet
-- Oven
+  - Skillet
+  - Food thermometer
 tags:
-- Restaurant replica
-- Handheld mains
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 實打實招牌漢堡
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Home cooking
+intro: Build this double burger with two ground-beef patties, cheese, and fresh
+  vegetables. Check the center of each patty to 71°C / 160°F; cut color alone is
+  not a reliable test.
 steps:
-- Set out beef patty 180 g, bacon 80 g, fried fish 適量, potato wedges 250 g, and burger buns 2 pc; wash and slice lettuce and tomato and keep dry.
-- Cook bacon 80 g in a skillet over medium until crisp both sides (about 3 minutes); drain on paper towels.
-- Add olive oil 1 tbsp to the same pan and heat until shimmering; season beef both sides with sea salt 1/3 tsp and black pepper 1/4 tsp; lay in pan and sear 3 minutes without moving.
-- Flip beef and cook 2–3 minutes until cooked through (no pink inside); cover 30 seconds at the end to rest juices.
-- Reheat fried fish in an air fryer at 180°C for 4 minutes, or pan-fry with a little oil 2 minutes per side until golden crisp.
-- Toast bun cut sides dry 1–2 minutes until golden; cook wedges per package until golden.
-- Spread balsamic sauce 適量 on the bottom bun; stack lettuce, tomato, beef, bacon, and fried fish; cap and press gently.
-- Halve the burger, plate with hot wedges to match Second Floor Cafe signature double-stack burger.
+  - Divide the beef in two and gently shape into thin patties without compacting
+    them. Season both sides with salt and pepper.
+  - Heat oil in a skillet over medium heat. Cook the patties for about 3
+    minutes, turn, and continue cooking. Measure the center of each patty from
+    the side; remove each only when it reaches 71°C / 160°F. Continue cooking
+    and recheck if needed.
+  - Toast the cut side of the bun. Layer lettuce, tomato, one patty, and cheese
+    on the bottom bun, then add the second patty and pickles. Cap with the top
+    bun.
+  - Serve hot. If needed, briefly cover the hot patties to soften the cheese.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 漢堡麵包
-- 布里歐麵包
+  - Thin patties cook quickly, so check each one separately. Ground beef must
+    reach 71°C / 160°F at the center; browning or a non-pink cut surface is not
+    enough.
+storage: Refrigerate patties and burger toppings separately within 2 hours and
+  use within 3 days. Reheat patties to 74°C / 165°F.
+substitutions: []
 relatedIngredients:
-- 牛肉排
-- 炸魚
-- 培根
-- 薯塊
-customAdditions:
-- Double cheese
-- Pickle slices
+  - Ground beef
+  - Burger bun
+customAdditions: []
 faqs:
-- question: What makes this 實打實招牌漢堡 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+  - question: Can I shape the patties ahead?
+    answer: Yes. Cover and refrigerate raw patties separately from ready-to-eat
+      foods and cook within 1–2 days. Each patty must still reach 71°C / 160°F.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 牛肉排
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 炸魚
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 培根
-  amount: "80"
-  unit: 公克
-  isCore: true
-- name: 薯塊
-  amount: "250"
-  unit: 公克
-  isCore: true
-- name: 漢堡麵包
-  amount: "2"
-  unit: 份
-  isCore: false
+  - name: Ground beef
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: Burger bun
+    amount: "1"
+    unit: ""
+    isCore: true
+  - name: Cheese slices
+    amount: "2"
+    unit: ""
+    isCore: false
+  - name: Lettuce
+    amount: "2"
+    unit: leaves
+    isCore: false
+  - name: Tomato
+    amount: "2"
+    unit: slices
+    isCore: false
+  - name: Pickle slices
+    amount: "2"
+    unit: ""
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 巴薩米克醬
-  amount: "適量"
-  unit: ""
+  - name: Neutral oil
+    amount: "1"
+    unit: tsp
+  - name: Salt
+    amount: 1/3
+    unit: tsp
+  - name: Black pepper
+    amount: to taste
+    unit: ""
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Cook the two thin beef patties separately, then layer them with cheese, vegetables, and pickles. Each patty is ground beef and must reach 71°C / 160°F at the center.

@@ -1,93 +1,78 @@
 ---
-title: 綠超人藜麥佛陀碗
-description: 參考貳樓 Second Floor Cafe 常見做法，以 蘆筍、莎莎、花椰菜、藜麥、水波蛋 還原 綠超人藜麥佛陀碗 的餐廳份量與風味層次。
+title: 綠蔬藜麥蔬食碗
+description: 以藜麥、花椰菜、鷹嘴豆與酪梨組成的一人份蔬食碗，搭配檸檬油醋。
 coverImage: /images/recipes/sf-green-superhero-quinoa-buddha-bowl.webp
 servings: 1
-prepTime: 20
-cookTime: 12
-totalTime: 32
+prepTime: 10
+cookTime: 40
+totalTime: 50
 difficulty: 簡單
-calories: 350
-protein: 24
-fat: 18
-carbs: 20
 category: "輕食沙拉"
 scenarios:
-- 一人料理
-- 減脂料理
+  - 一人料理
 equipment:
-- 平底鍋
-- 沙拉碗
+  - 小湯鍋
+  - 烤箱
+  - 沙拉碗
 tags:
-- 名店還原
-- 均衡盤
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 綠超人藜麥佛陀碗
-  region: 全台連鎖
-intro: 這道 綠超人藜麥佛陀碗 參考貳樓 Second Floor Cafe 常見做法，會先把 蘆筍、莎莎、花椰菜 分段處理，再依 均衡盤 的出餐邏輯完成整盤。
+  - 家常料理
+intro: 藜麥先煮熟，花椰菜和鷹嘴豆烤至熱透，再與酪梨及檸檬油醋組成一碗。這份配方不宣稱特定營養或減脂效果。
 steps:
-- 藜麥 80公克 洗淨後以 1:2 水量煮滾，轉小火蓋鍋煮 15 分鐘至吸水飽滿，關火悶 5 分鐘，用叉子撥鬆放涼。
-- 花椰菜 120公克 切小朵，滾水加鹽汆燙 3 分鐘至脆嫩，撈起瀝乾；蘆筍 適量 切斜段，同鍋汆燙 2 分鐘後泡冰水保持翠綠。
-- 湯鍋燒滾水加 1 小匙醋，轉小火攪出漩渦，打入雞蛋 2 顆 做水波蛋，煮約 3 分鐘至蛋白凝固、蛋黃流心，撈起瀝乾。
-- 平底鍋中火加 橄欖油 1.5大匙 的一半，將汆燙好的花椰菜與蘆筍快速翻炒 1 分鐘，撒 海鹽 1/3小匙 調味，起鍋備用。
-- 取深碗或平盤，底部先鋪一層藜麥作為穀物底，邊緣預留擺飾空間。
-- 藜麥上依序分區鋪上炒好的花椰菜與蘆筍、莎莎 適量，中央放上水波蛋 2顆。
-- 最後淋上剩餘橄欖油，撒上堅果碎點綴，戳破水波蛋讓蛋黃流入碗內即可享用。
+  - 藜麥以細網篩洗淨，放入鍋中加 120 毫升水煮滾，轉小火加蓋煮約 15 分鐘。關火悶 5 分鐘後用叉子鬆開。
+  - 烤箱預熱 200°C。花椰菜切小朵，瀝乾鷹嘴豆，和一半橄欖油、鹽及黑胡椒拌勻，烤 18～22 分鐘至花椰菜熟軟、鷹嘴豆熱透。
+  - 酪梨切片，小番茄對切。將檸檬汁與剩餘橄欖油拌勻。
+  - 碗中放藜麥、烤蔬菜、鷹嘴豆、酪梨和小番茄，淋上檸檬油醋後食用。
 tips:
-- 先把穀物、蛋白質與醬汁分開準備，最後再拌合，口感會更接近餐廳出餐。
-- 輕食盤的份量要足，主配料不要切得太碎，擺盤才有 Second Floor Cafe 的豐盛感。
-- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
-storage: 沙拉與優格碗建議現做現吃；熟食配料可冷藏 1 天後再重新組裝。
-substitutions:
-- 綜合生菜
-- 花椰菜飯
+  - 藜麥和配菜分別烹調，裝碗前再組合；若花椰菜切得較大，需延長烘烤並確認中心熟軟。
+storage: 藜麥、烤蔬菜和鷹嘴豆分開密封冷藏，2 小時內冷藏並在 3 天內食用；酪梨切好後現吃。
+substitutions: []
 relatedIngredients:
-- 蘆筍
-- 莎莎
-- 花椰菜
-- 藜麥
+  - 藜麥
+  - 花椰菜
+  - 熟鷹嘴豆
+  - 酪梨
 customAdditions: []
 faqs:
-- question: 想把 綠超人藜麥佛陀碗 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 蘆筍與莎莎 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "可以提前準備嗎？"
-  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
+  - question: 可以提前備餐嗎？
+    answer: 可以，將熟藜麥與烤蔬菜分開冷藏；食用前充分回熱，再放上新切酪梨和番茄。
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 蘆筍
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 莎莎
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 花椰菜
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 藜麥
-  amount: "80"
-  unit: 公克
-  isCore: true
-- name: 水波蛋
-  amount: "2"
-  unit: 顆
-  isCore: false
+  - name: 藜麥
+    amount: "60"
+    unit: 公克
+    isCore: true
+  - name: 花椰菜
+    amount: "150"
+    unit: 公克
+    isCore: true
+  - name: 熟鷹嘴豆
+    amount: "100"
+    unit: 公克
+    isCore: true
+  - name: 酪梨
+    amount: 1/2
+    unit: 顆
+    isCore: true
+  - name: 小番茄
+    amount: "80"
+    unit: 公克
+    isCore: false
+  - name: 檸檬汁
+    amount: "1"
+    unit: 大匙
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1.5"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
+  - name: 橄欖油
+    amount: "1"
+    unit: 大匙
+  - name: 鹽
+    amount: 1/4
+    unit: 小匙
+  - name: 黑胡椒
+    amount: 少許
+    unit: ""
 ---
 
-綠超人藜麥佛陀碗 的在家還原版，重點是把 蘆筍、莎莎、花椰菜 做出分層口感，並保留貳樓常見的 均衡盤 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-
+藜麥煮約15分鐘後還要加蓋悶5分鐘；烤蔬菜另需約20分鐘，因此總時間會超過單純的藜麥烹煮時間。

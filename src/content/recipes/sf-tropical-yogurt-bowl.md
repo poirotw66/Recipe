@@ -1,93 +1,68 @@
 ---
 title: 熱帶水果優格碗
-description: 參考貳樓 Second Floor Cafe 常見做法，以 香蕉、芒果、季節水果、穀物、堅果 還原 熱帶水果優格碗 的餐廳份量與風味層次。
+description: 以原味優格為底，搭配芒果、香蕉、鳳梨、燕麥脆片與少量蜂蜜。
 coverImage: /images/recipes/sf-tropical-yogurt-bowl.webp
 servings: 1
-prepTime: 20
-cookTime: 12
-totalTime: 32
+prepTime: 10
+cookTime: 0
+totalTime: 10
 difficulty: 簡單
-calories: 350
-protein: 24
-fat: 18
-carbs: 20
 category: "輕食沙拉"
 scenarios:
-- 一人料理
-- 減脂料理
+  - 一人料理
 equipment:
-- 平底鍋
-- 沙拉碗
+  - 刀
+  - 砧板
+  - 碗
 tags:
-- 名店還原
-- 均衡盤
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 熱帶水果優格碗
-  region: 全台連鎖
-intro: 這道 熱帶水果優格碗 參考貳樓 Second Floor Cafe 常見做法，會先把 香蕉、芒果、季節水果 分段處理，再依 均衡盤 的出餐邏輯完成整盤。
+  - 家常料理
+intro: 這款冷食水果碗以原味優格為主體，水果與燕麥脆片增加口感；不加入橄欖油或鹽。
 steps:
-- 香蕉 150公克 去皮切圓片，芒果 150公克 切塊，季節水果 150公克 洗淨切適口大小，分裝備用。
-- 穀物 80公克 平鋪烤盤，160°C 烤 8 分鐘至金黃酥脆，取出放涼；堅果 30公克 切碎備用。
-- 取深玻璃碗，底部先鋪一層 香蕉 圓片作為襯底，邊緣略為上翹方便堆疊。
-- 香蕉上依序鋪上 芒果 塊與 季節水果，由外往內分區排列，形成熱帶水果色彩層次。
-- 水果表面分區撒上烤脆 穀物 80公克，旁邊再鋪 堅果 30公克，穀物最後才加以保持酥脆。
-- 輕淋 橄欖油 1.5大匙，以湯匙背面輕推讓油分均勻分布於水果表面。
-- 最後撒 海鹽 1/3小匙 提甜，現做現吃，趁穀物尚脆、水果新鮮時享用。
+  - 芒果和鳳梨切成一口大小，香蕉切片。水果切好後儘快冷藏或組碗。
+  - 將原味優格舀入碗中，鋪上芒果、香蕉和鳳梨。
+  - 食用前撒燕麥脆片並淋少量蜂蜜，立即享用以保持脆片口感。
 tips:
-- 先把穀物、蛋白質與醬汁分開準備，最後再拌合，口感會更接近餐廳出餐。
-- 輕食盤的份量要足，主配料不要切得太碎，擺盤才有 Second Floor Cafe 的豐盛感。
-- 冷飯或煮好的麵條下鍋前先攤開散熱，能減少結塊並讓醬汁更均勻附著。
-storage: 沙拉與優格碗建議現做現吃；熟食配料可冷藏 1 天後再重新組裝。
-substitutions:
-- 綜合生菜
-- 花椰菜飯
+  - 若水果和優格先組好，燕麥脆片會吸水變軟；建議食用前才加入。
+storage: 水果與優格組好的碗請立即食用；需備料時，水果和優格分開密封冷藏，並在切水果後 1 天內吃完。
+substitutions: []
 relatedIngredients:
-- 香蕉
-- 芒果
-- 季節水果
-- 穀物
+  - 無糖原味優格
+  - 芒果
+  - 香蕉
+  - 鳳梨
 customAdditions: []
 faqs:
-- question: 想把 熱帶水果優格碗 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 香蕉與芒果 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "可以提前準備嗎？"
-  answer: "可以，煮好的主食與配料分開冷藏，食用前再加熱拌合，口感與風味會比混合後久放更好。"
+  - question: 可以用冷凍水果嗎？
+    answer: 可以，先在冰箱解凍並瀝掉多餘水分，再放到優格上；燕麥脆片仍在食用前加入。
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 香蕉
-  amount: "150"
-  unit: 公克
-  isCore: true
-- name: 芒果
-  amount: "150"
-  unit: 公克
-  isCore: true
-- name: 季節水果
-  amount: "150"
-  unit: 公克
-  isCore: true
-- name: 穀物
-  amount: "80"
-  unit: 公克
-  isCore: true
-- name: 堅果
-  amount: "30"
-  unit: 公克
-  isCore: false
-seasonings:
-- name: 橄欖油
-  amount: "1.5"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
+  - name: 無糖原味優格
+    amount: "180"
+    unit: 公克
+    isCore: true
+  - name: 芒果
+    amount: "100"
+    unit: 公克
+    isCore: true
+  - name: 香蕉
+    amount: 1/2
+    unit: 根
+    isCore: true
+  - name: 鳳梨
+    amount: "80"
+    unit: 公克
+    isCore: true
+  - name: 燕麥脆片
+    amount: "25"
+    unit: 公克
+    isCore: false
+  - name: 蜂蜜
+    amount: "1"
+    unit: 小匙
+    isCore: false
+seasonings: []
 ---
 
-熱帶水果優格碗 的在家還原版，重點是把 香蕉、芒果、季節水果 做出分層口感，並保留貳樓常見的 均衡盤 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-
+原味優格是這碗的底層，搭配芒果、香蕉、鳳梨、燕麥脆片和蜂蜜。燕麥最後放，避免吸收水果水分。

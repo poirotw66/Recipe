@@ -1,31 +1,22 @@
 ---
-title: 綜合海鮮煎餅 再現レシピ
+title: 海鮮チヂミ
 recipeId: dh-seafood-pancake
-description: 涓豆腐の 綜合海鮮煎餅 を家庭で再現する、シェフおすすめ 向けレシピです。
+description: 分量と火加減の目安を示した、家庭で作る海鮮チヂミのレシピです。材料表に沿って順に調理できます。
 coverImage: /images/recipes/dh-seafood-pancake.webp
 servings: 2
-prepTime: 25
-cookTime: 20
-totalTime: 45
+prepTime: 15
+cookTime: 15
+totalTime: 30
 difficulty: むずかしい
-calories: 720
-protein: 34
-fat: 36
-carbs: 52
-category: "シェフおすすめ"
+category: "チヂミ"
 scenarios:
 - 夜食
 equipment:
-- フライヤー
-- 철판 또는 프라이팬
+- 26cmフライパン
+- ボウル
 tags:
-- 名店再現
-- シェフおすすめ
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 綜合海鮮煎餅
-  region: 全台連鎖
-intro: 涓豆腐でよく見られる下ごしらえと仕上げの流れを意識した再現レシピです。
+- チヂミ
+intro: 手に入りやすい食材と家庭用の調理器具を使う、2人分の海鮮チヂミレシピです。味付けは好みに合わせて調整してください。
 steps:
 - 下準備：イカ 150gの内臓を取り洗い輪切りに、エビ 6尾は殻をむき尾を残して背ワタを取る。長ねぎ 1本を細切りにする。海鮮はキッチンペーパーで水気を拭く。
 - 大きめのボウルに中力粉 150g、卵 1個、塩 少々、冷水 120mlを混ぜ、粉粒のないやや濃い生地にする。10分置いて粉に水分を含ませる。
@@ -35,55 +26,51 @@ steps:
 - 裏返し、さらに3分焼く。軽く押さえて中心まで火を通す。エビがピンク色、イカが丸まれば火が通った目安。両面きつね色でカリッとしたら取り出す。
 - 切り分け、醤油酢のつけダレや韓国風つけダレを添えて温かいうちに。
 tips:
-- 調理前に調味料をよく混ぜ合わせておくことで、均一に味が広がります。
-- 熱したフライパンと十分な油で素早く炒めることが、水分を逃がさないコツです。
-- 野菜の水気をよく切ってから炒めると、蒸れにくく歯ごたえが残ります。
-storage: できれば当日中がおすすめ。保存する場合は具材とスープを分けて冷蔵します。
-substitutions:
-- イカ
-- 中力粉
+- 魚介は生地に混ぜる前に水気をしっかり拭き、蒸し焼きにならないよう中火を保ちます。
+- 返すときは大きな皿をかぶせて裏返し、フライパンに戻すと安全です。エビが不透明になり、イカに火が通るまで焼きます。
+storage: できたてがおすすめです。残りは調理後2時間以内に小分けして冷蔵し、3～4日以内に食べ切ります。再加熱は中心まで湯気が立つ状態（74°C）にします。
+substitutions: []
 relatedIngredients:
-- 透抽
-- 白蝦
-- 青蔥
+- イカ
+- エビ
+- 青ネギ
 customAdditions:
 - 刻みネギ
 - ごま
 faqs:
-- question: 綜合海鮮煎餅 を店っぽくするコツは？
-  answer: スープやタレの濃度を先に整え、最後に具材を加えるのが近道です。
-- question: "野菜から水が出るときは？"
-  answer: "水気を切って少量ずつ炒め、フライパンの温度を保つと水っぽくなりにくいです。"
+- question: 材料を先に準備できますか？
+  answer: 調味料を量り、食材を切っておくことはできます。傷みやすい食材は早めに冷蔵し、食感を保つため食べる直前に調理してください。
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: '2026-09-29'
 ingredients:
 - name: イカ
-  amount: "150"
+  amount: '150'
   unit: g
   isCore: true
 - name: エビ
-  amount: "6"
+  amount: '6'
   unit: 尾
   isCore: true
 - name: 青ネギ
-  amount: "1"
+  amount: '1'
   unit: 本
   isCore: true
 seasonings:
 - name: 中力粉
-  amount: "150"
+  amount: '150'
   unit: g
 - name: 卵
-  amount: "1"
+  amount: '1'
   unit: 個
 - name: 塩
-  amount: "0.25"
+  amount: '0.25'
   unit: 少々
 - name: ごま油
-  amount: "1"
+  amount: '1'
   unit: 大さじ
+- name: 水
+  amount: '120'
+  unit: ml
 ---
-
-この再現版は、涓豆腐らしいスープの層とボリューム感を意識して作っています。
-
+材料を量り、浸水やたれ作りが必要なものを先に済ませてから、記載順に調理します。このレシピはまだ調理試作をしていないため、時間や食感は実作業での確認が必要です。

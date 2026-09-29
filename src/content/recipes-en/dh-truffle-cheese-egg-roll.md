@@ -1,79 +1,82 @@
 ---
-title: Korean Style Cheese Egg Roll (Truffle)
+title: Truffle Cheese Egg Roll
 recipeId: dh-truffle-cheese-egg-roll
-description: "Dubu House-inspired seasonal specials recreating 松露韓式起司烘蛋捲 with restaurant-style broth depth and plating."
+description: A practical home recipe for Truffle Cheese Egg Roll, with measured portions, clear heat cues, and an
+  order that matches the ingredients listed.
 coverImage: /images/recipes/dh-truffle-cheese-egg-roll.webp
 servings: 2
-prepTime: 22
-cookTime: 20
-totalTime: 42
+prepTime: 10
+cookTime: 15
+totalTime: 25
 difficulty: Advanced
-calories: 680
-protein: 26
-fat: 30
-carbs: 62
-category: "Seasonal specials"
+category: "egg dish"
 scenarios:
-- Cooking for one
+- Bento-friendly dishes
 equipment:
-- Skillet
-- Pot
+- Nonstick skillet
+- Wide spatula
 tags:
-- Restaurant replica
-- Seasonal specials
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 松露韓式起司烘蛋捲
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- egg dish
+intro: This two-serving home recipe for Truffle Cheese Egg Roll uses common ingredients, clear steps, and standard
+  cookware. Adjust the seasoning to taste.
 steps:
-- Beat 3 eggs in a bowl with a pinch of salt and 1 Tbsp toasted sesame oil until smooth. Cut 60 g shredded mozzarella into short pieces and set 1 tsp black truffle paste aside in a small dish (do not add all at once; high heat dissipates aroma).
-- Brush a skillet or Korean egg-roll pan lightly with oil and preheat over low heat. Pour in about 1/3 of the egg mixture and tilt to spread a thin sheet.
-- When the sheet is half set, layer part of the mozzarella on the side nearest you and dot about 1/3 of the truffle paste with a teaspoon.
-- Gently roll into a log with a spatula and push to the edge. Pour in another 1/3 of egg to connect, then repeat cheese and truffle before rolling again.
-- Repeat until all egg is used, rolling 2–3 layers total. On the last layer you may add cheese only for an even outer color.
-- Pan-fry the whole roll 1 minute more, pressing lightly on all sides until lightly browned and cheese begins to melt (truffle aroma should be clear, not bitter).
-- Move to a cutting board, rest 1 minute, slice into thick rounds. Drizzle a little more truffle paste if desired, sprinkle with chopped scallions and sesame seeds, and serve hot.
+- Beat 3 eggs in a bowl with a pinch of salt and 1 Tbsp toasted sesame oil until smooth. Cut 60 g shredded mozzarella
+  into short pieces and set 1 tsp black truffle paste aside in a small dish (do not add all at once; high heat dissipates
+  aroma).
+- Brush a skillet or Korean egg-roll pan with 1 tsp neutral oil and preheat over low heat. Pour in about 1/3 of
+  the egg mixture and tilt to spread a thin sheet.
+- When the sheet is half set, layer part of the mozzarella on the side nearest you and dot about 1/3 of the truffle
+  paste with a teaspoon.
+- Gently roll into a log with a spatula and push to the edge. Pour in another 1/3 of egg to connect, then repeat
+  cheese and truffle before rolling again.
+- Repeat until all egg is used, rolling 2–3 layers total. On the last layer you may add cheese only for an even
+  outer color.
+- Pan-fry the whole roll 1 minute more, pressing lightly on all sides until lightly browned and cheese begins to
+  melt (truffle aroma should be clear, not bitter).
+- Move to a cutting board, rest 1 minute, slice into thick rounds. Drizzle a little more truffle paste if desired,
+  sprinkle with chopped scallions and 1 tsp sesame seeds, and serve hot.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
-substitutions:
-- egg
-- black truffle paste
+- Keep the heat low and roll each layer while just set. Cook until the center of the finished roll is fully set,
+  not merely browned outside.
+- Add or dot the truffle paste near the end; prolonged heating dulls its aroma.
+storage: Serve fresh when possible. Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat until
+  steaming hot throughout (74°C / 165°F).
+substitutions: []
 relatedIngredients:
-- 雞蛋
+- egg
 customAdditions:
 - chopped scallions
 - sesame seeds
 faqs:
-- question: How do I make this 松露韓式起司烘蛋捲 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: Can I prep the ingredients ahead?
+  answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
+    cook shortly before serving for the best texture.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: '2026-09-29'
 ingredients:
 - name: egg
-  amount: "1"
+  amount: '3'
   unit: pc
   isCore: true
 seasonings:
 - name: black truffle paste
-  amount: "1"
+  amount: '1'
   unit: tsp
 - name: mozzarella cheese
-  amount: "60"
+  amount: '60'
   unit: g
 - name: salt
-  amount: "0.25"
+  amount: '0.25'
   unit: pinch
 - name: toasted sesame oil
-  amount: "1"
+  amount: '1'
   unit: tbsp
+- name: sesame seeds
+  amount: '1'
+  unit: tsp
+- name: neutral oil
+  amount: '1'
+  unit: tsp
 ---
-
-This home version recreates the layered broth and generous plating associated with Dubu House seasonal specials.
-
+Measure the listed ingredients, complete any soaking or sauce mixing first, and cook in the order shown. This recipe has not had a kitchen trial, so its timing and texture still need practical verification.

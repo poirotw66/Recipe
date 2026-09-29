@@ -1,86 +1,97 @@
 ---
 title: Greek Campfire Grilled Chicken Brunch
 recipeId: sf-greek-campfire-grilled-chicken-brunch
-description: "Second Floor Cafe-inspired linkou specials with restaurant-style portions and 炭烤雞肉、皮塔餅、沙拉."
+description: "A measured home recipe for Greek Campfire Grilled Chicken Brunch,
+  with clear preparation and cooking steps."
 coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.webp
 servings: 1
-prepTime: 20
-cookTime: 18
-totalTime: 38
+prepTime: 15
+cookTime: 20
+totalTime: 35
 difficulty: Medium
-calories: 690
-protein: 38
-fat: 28
-carbs: 48
 category: "Linkou specials"
 scenarios:
-- Cooking for one
+  - Weeknight quick meals
+  - Cooking for one
 equipment:
-- Skillet
-- Oven
+  - Skillet
+  - Small saucepan
+  - Oven
 tags:
-- Restaurant replica
-- Linkou specials
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: Greek style 野炊系炭烤雞肉早午餐
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Linkou specials
+intro: "Cook the main ingredient to a safe doneness before finishing the sauce
+  and sides; adjust time for its thickness."
 steps:
-- If charcoal-grilled chicken 180 g is refrigerated, bring to room temperature; wash salad greens as needed and drain. Have pita bread 2 portions ready.
-- Heat pita in a skillet or oven at 350°F for 2–3 minutes until lightly charred outside and still soft inside; cut open and set aside.
-- Sear charcoal-grilled chicken in a preheated skillet over medium heat, 2–3 minutes per side until golden and heated through; slice and set aside.
-- Place salad greens in a large bowl; drizzle olive oil ½ Tbsp, sprinkle sea salt 1/6 tsp and a pinch of black pepper; toss gently.
-- On a large round plate, arrange pita, sliced charcoal-grilled chicken, and dressed salad in separate sections.
-- Drizzle the remaining olive oil ½ Tbsp over the chicken; sprinkle sea salt 1/3 tsp and black pepper ¼ tsp.
-- Check that each section is at the right temperature and serve immediately while hot, keeping the Greek brunch compartmentalized plating.
+  - Pat the chicken dry and season with salt, pepper, and oregano. Slice the
+    cucumber, halve the tomatoes, and stir a little lemon juice into the yogurt.
+  - Heat the olive oil in a skillet or grill pan over medium heat. Cook the
+    chicken for 5–7 minutes per side, until the thickest part reaches 165°F
+    (74°C). Rest for 3 minutes.
+  - Warm the pita according to its package directions and slice the chicken.
+  - Serve the chicken with the vegetables, pita, and lemon yogurt sauce.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
+  - Prepare the fillings first and cook the eggs last. Cook eggs through, or use
+    pasteurized eggs if serving them runny.
+  - Cook the main ingredient to a safe doneness before finishing the sauce and
+    sides; adjust time for its thickness.
+storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
+  toppings, greens, or soft-cooked eggs separately to protect texture.
 substitutions:
-- 皮塔餅
-- 櫛瓜
+  - pita bread
+  - zucchini
 relatedIngredients:
-- 炭烤雞肉
-- 皮塔餅
-- 沙拉
+  - grilled chicken
+  - pita bread
+  - salad greens
 customAdditions: []
-faqs:
-- question: What makes this Greek style 野炊系炭烤雞肉早午餐 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 炭烤雞肉
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 皮塔餅
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 沙拉
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: chicken breast
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: pita bread
+    amount: "1"
+    unit: piece
+    isCore: true
+  - name: cucumber
+    amount: "60"
+    unit: g
+    isCore: true
+  - name: cherry tomatoes
+    amount: "80"
+    unit: g
+    isCore: true
+  - name: plain yogurt
+    amount: "40"
+    unit: g
+    isCore: true
+  - name: lemon
+    amount: 1/2
+    unit: ""
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: olive oil
+    amount: "1"
+    unit: tbsp
+    isCore: true
+  - name: dried oregano
+    amount: 1/2
+    unit: tsp
+    isCore: true
+  - name: salt
+    amount: 1/4
+    unit: tsp
+    isCore: true
+  - name: black pepper
+    amount: 1/8
+    unit: tsp
+    isCore: true
+faqs:
+  - question: Can I cook the eggs ahead?
+    answer: You can prep the other ingredients ahead. Cook the eggs close to serving
+      and to your preferred safe doneness.
 ---
-
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-

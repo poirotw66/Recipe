@@ -1,87 +1,86 @@
 ---
-title: Sweet Savory Rice
+title: Sweet-and-Savory Apricot Pork Rice
 recipeId: sf-sweet-savory-rice
-description: "Second Floor Cafe-inspired seasonal specials with restaurant-style portions and 蜜餞、米飯、台南限定."
+description: Quick-fried rice with pork loin, dried apricots, and cooked rice;
+  rest whole-cut pork for 3 minutes after it reaches 63°C / 145°F.
 coverImage: /images/recipes/sf-sweet-savory-rice.webp
 servings: 1
-prepTime: 20
-cookTime: 18
-totalTime: 38
+prepTime: 15
+cookTime: 20
+totalTime: 35
 difficulty: Medium
-calories: 640
-protein: 28
-fat: 28
-carbs: 70
-category: "Seasonal specials"
+category: "Rice & pasta"
 scenarios:
-- Cooking for one
+  - Cooking for one
 equipment:
-- Skillet
-- Oven
+  - Skillet
+  - Food thermometer
 tags:
-- Restaurant replica
-- Seasonal specials
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 甘味飯
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Home cooking
+intro: Stir-fry sliced pork loin with dried apricots and cooked rice, balancing
+  the fruit with soy sauce. Check the thickest pork slice, rest it, then return
+  it to the rice.
 steps:
-- "Prep: dice 40 g candied fruit; steam rice to taste until fluffy and keep warm, fluffing with a spatula; prepare Tainan specialty to taste per package."
-- Heat 1 Tbsp olive oil in a skillet over low heat; stir candied fruit 1 minute until glossy and fragrant (do not let it burn).
-- Add rice to taste; raise to medium heat and stir-fry 2 minutes until grains are coated with oil and separate (toast the rice).
-- Add 2 Tbsp hot water at a time, stirring until absorbed, repeat 2–3 times about 4 minutes until grains are lightly moist and sticky.
-- Balance sweetness with 1/3 tsp sea salt and 1/4 tsp cracked black pepper; taste and adjust sweet-savory ratio.
-- Fold in Tainan specialty to taste and stir-fry 1 minute to distribute sweet-savory flavor evenly.
-- Turn off heat and toss gently to avoid breaking grains.
-- Serve in bowls while hot—the sweet-salty layers of Second Floor Tainan sweet rice.
+  - Cut the pork loin into slices about 1 cm thick. Dice the apricots, slice the
+    scallion, and mince the garlic.
+  - Heat the oil in a skillet over medium heat. Cook the pork in one layer.
+    Check the thickest slice; once it reaches 63°C / 145°F, remove it and rest
+    for at least 3 minutes. Continue cooking and recheck if needed.
+  - In the same pan, cook the garlic and apricots for about 30 seconds. Add the
+    cooked rice and soy sauce; break up clumps and heat until steaming
+    throughout.
+  - Return the pork and any resting juices to the pan and toss to combine.
+    Finish with scallion and black pepper.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 時蔬
-- 白飯
+  - Keep the pork slices a similar thickness and check the thickest one for 63°C
+    / 145°F, followed by a 3-minute rest. If using ground pork instead, cook it
+    to 71°C / 160°F.
+storage: Refrigerate leftover rice within 2 hours and use within 3 days. Reheat
+  until steaming throughout and the pork center reaches 74°C / 165°F.
+substitutions: []
 relatedIngredients:
-- 蜜餞
-- 米飯
-- 台南限定
+  - Pork loin
+  - Cooked white rice
+  - Dried apricots
 customAdditions: []
 faqs:
-- question: What makes this 甘味飯 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "Can I prepare this ahead of time?"
-  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
+  - question: Can I use leftover rice?
+    answer: Yes. Break up chilled rice before adding it and heat the whole dish
+      until steaming. Check the pork with a thermometer as directed.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 蜜餞
-  amount: "40"
-  unit: 公克
-  isCore: true
-- name: 米飯
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 台南限定
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: Pork loin
+    amount: "150"
+    unit: g
+    isCore: true
+  - name: Cooked white rice
+    amount: "200"
+    unit: g
+    isCore: true
+  - name: Dried apricots
+    amount: "25"
+    unit: g
+    isCore: true
+  - name: Scallion
+    amount: "1"
+    unit: ""
+    isCore: false
+  - name: Garlic
+    amount: "1"
+    unit: clove
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: Soy sauce
+    amount: "1"
+    unit: tbsp
+  - name: Neutral oil
+    amount: "1"
+    unit: tbsp
+  - name: Black pepper
+    amount: to taste
+    unit: ""
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Dried apricots provide sweetness while soy sauce adds savoriness. Whole-cut pork slices reach 63°C / 145°F and rest for 3 minutes; ground pork requires the different 71°C / 160°F standard.

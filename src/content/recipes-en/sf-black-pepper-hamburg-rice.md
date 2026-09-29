@@ -1,101 +1,77 @@
 ---
-title: Black Pepper Hamburg Rice
+title: Black Pepper Beef Patty Rice
 recipeId: sf-black-pepper-hamburg-rice
-description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 黑胡椒醬、漢堡排、起司、荷包蛋、香米."
+description: Shape ground beef into a thin patty and verify doneness with a thermometer. Serve with pepper-sauce rice and a fully cooked egg, using already cooked rice; separate rice cooking is not included.
 coverImage: /images/recipes/sf-black-pepper-hamburg-rice.webp
 servings: 1
-prepTime: 18
-cookTime: 18
-totalTime: 36
+prepTime: 12
+cookTime: 15
+totalTime: 27
 difficulty: Medium
-calories: 800
-protein: 30
-fat: 34
-carbs: 84
 category: "Rice & pasta"
 scenarios:
-- High-protein meals
 - Cooking for one
 equipment:
 - Skillet
-- Pot
+- Food thermometer
 tags:
 - Restaurant replica
 - Rice & pasta
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 老闆黑胡椒漢堡排飯
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+intro: Shape ground beef into a thin patty and verify doneness with a thermometer. Serve with pepper-sauce rice and a fully cooked egg, using already cooked rice; separate rice cooking is not included.
 steps:
-- "Prep: use half of the 1/3 tsp sea salt and half of the 1/4 tsp cracked black pepper to season both sides of the 180 g hamburger patty; reserve the rest for the rice. Cube 40 g cheese, prepare 2 fried eggs, and steam and fluff 220 g jasmine rice."
-- Heat 1 Tbsp olive oil in a skillet over medium; sear patty 3 minutes per side until browned and cooked through (no pink); rest 2 minutes.
-- In the same pan over low heat, fry 2 eggs one at a time until whites set and yolks are half-runny (about 2 minutes each); set aside.
-- Leave pan drippings; add 220 g jasmine rice with black pepper sauce to taste and 1/2 tsp chili flakes; stir-fry over medium heat 2 minutes until grains are evenly coated.
-- Taste and adjust with the reserved sea salt and black pepper; stir until the rice is dry with wok aroma and the sauce is slightly reduced, then turn off the heat.
-- Mound rice in a deep plate; lay 40 g cheese on top to half-melt from residual heat.
-- Top with the patty and 2 fried eggs; drizzle a little more black pepper sauce if desired.
-- Serve hot; break the runny yolks and mix into the rice.
+- Season the ground beef with salt and pepper, then shape it into a patty about 1.5 cm thick.
+- Heat the olive oil in a skillet over medium heat. Brown the patty on both sides, then lower the heat and cook until the center reaches 71°C on a thermometer. Rest for 2 minutes.
+- In the same skillet, fry the egg until both the white and yolk are firm; set aside.
+- Add the cooked rice, black pepper sauce, and chili flakes to the skillet. Stir-fry until the rice is hot throughout; taste before adding more salt.
+- Spoon the rice into a bowl, add the cheese, and top with the patty and fully cooked egg. Serve hot.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 義大利麵
-- 香米
+- Use already cooked rice, not raw rice; add a little water if the pan becomes too dry.
+- Meat thickness changes cooking time; verify doneness with a thermometer.
+storage: Refrigerate leftovers in shallow containers at 4°C or below within 2 hours, or 1 hour above 32°C. Eat within 3 days and reheat to 74°C throughout.
+substitutions: []
 relatedIngredients:
 - 漢堡排
 - 起司
 - 荷包蛋
 - 香米
-customAdditions:
-- Extra chili flakes
-- House chili sauce
-faqs:
-- question: What makes this 老闆黑胡椒漢堡排飯 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "Can I prepare this ahead of time?"
-  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
+customAdditions: []
+faqs: []
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-09'
+updatedAt: "2026-09-29"
 ingredients:
-- name: 漢堡排
-  amount: "180"
-  unit: 公克
+- name: Ground beef
+  amount: '150'
+  unit: g
   isCore: true
-- name: 起司
-  amount: "40"
-  unit: 公克
+- name: Cooked rice
+  amount: '180'
+  unit: g
   isCore: true
-- name: 荷包蛋
-  amount: "2"
-  unit: 顆
+- name: Cheese
+  amount: '20'
+  unit: g
   isCore: true
-- name: 香米
-  amount: "220"
-  unit: 公克
+- name: Egg
+  amount: '1'
+  unit: ''
   isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 黑胡椒醬
-  amount: "適量"
-  unit: ""
-- name: 辣椒碎
-  amount: "1/2"
-  unit: 小匙
+- name: Olive oil
+  amount: '1'
+  unit: tsp
+- name: Salt
+  amount: 1/4
+  unit: tsp
+- name: Black pepper
+  amount: 1/8
+  unit: tsp
+- name: Black pepper sauce
+  amount: '1'
+  unit: tbsp
+- name: Chili flakes
+  amount: 1/8
+  unit: tsp
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Shape ground beef into a thin patty and verify doneness with a thermometer. Serve with pepper-sauce rice and a fully cooked egg, using already cooked rice; separate rice cooking is not included.

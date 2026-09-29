@@ -1,92 +1,77 @@
 ---
-title: 舒肥雞藜麥花椰飯
-description: 參考貳樓 Second Floor Cafe 常見做法，以 舒肥雞、花椰菜飯、藜麥、火烤玉米、起司醬 還原 舒肥雞藜麥花椰飯 的餐廳份量與風味層次。
+title: 舒肥雞藜麥花椰米碗
+description: 以包裝標示可即食的熟舒肥雞，搭配藜麥、花椰菜米與玉米；未開封雞肉依包裝保存。
 coverImage: /images/recipes/sf-sous-vide-chicken-quinoa-cauliflower-rice.webp
 servings: 1
-prepTime: 20
-cookTime: 12
-totalTime: 32
+prepTime: 10
+cookTime: 25
+totalTime: 35
 difficulty: 簡單
-calories: 500
-protein: 32
-fat: 18
-carbs: 42
 category: "輕食沙拉"
 scenarios:
-- 一人料理
-- 減脂料理
+  - 一人料理
 equipment:
-- 平底鍋
-- 沙拉碗
+  - 小湯鍋
+  - 平底鍋
+  - 碗
 tags:
-- 名店還原
-- 均衡盤
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 舒肥雞藜麥花椰飯
-  region: 全台連鎖
-intro: 這道 舒肥雞藜麥花椰飯 參考貳樓 Second Floor Cafe 常見做法，會先把 舒肥雞、花椰菜飯、藜麥 分段處理，再依 均衡盤 的出餐邏輯完成整盤。
+  - 家常料理
+intro: 使用包裝標示已熟、可即食的舒肥雞；若產品標示仍需烹煮，必須依其完整包裝指示處理，不可套用本食譜時間。藜麥與花椰菜米分開煮熟後組碗。
 steps:
-- 備料：舒肥雞 180 公克 切厚片；火烤玉米 100 公克 切粒；藜麥 80 公克 依包裝煮熟瀝乾；花椰菜飯 120 公克 微波或蒸熱；起司醬 2 大匙 回溫備用。
-- 沙拉碗先鋪花椰菜飯 120 公克 與藜麥 80 公克，淋橄欖油 1/2 大匙 與海鹽少許拌勻作穀物底。
-- 平底鍋中火下橄欖油 1/2 大匙，舒肥雞 每面煎 1～2 分鐘至表面金黃，中心保持嫩度；起鍋靜置 2 分鐘後斜切厚片。
-- 同鍋下火烤玉米 100 公克 乾煎 1 分鐘至微焦增香，與雞肉一併備用（蛋白質收尾）。
-- 將舒肥雞片與玉米粒排列於穀物上，呈扇形或層疊擺盤。
-- 以匙背將起司醬 2 大匙 淋於雞肉與穀物上，再淋剩餘橄欖油 1/2 大匙。
-- 依喜好撒海鹽 1/3 小匙、黑胡椒碎調味，確認冷熱層次分明。
-- 趁雞肉溫熱、穀物微溫時上桌，輕拌後享用均衡盤。
+  - 藜麥以細網篩洗淨，加水約 100 毫升煮滾後轉小火加蓋煮 15 分鐘；關火再悶 5 分鐘，之後用叉子鬆開。
+  - 平底鍋中火加橄欖油，放入花椰菜米和熟玉米，翻炒約 5～7 分鐘至全盤熱透、花椰菜米變軟；以鹽和黑胡椒調味。
+  - 確認舒肥雞包裝標示為已熟可即食；如需回熱，依包裝指示操作。若以微波回熱，需覆蓋並翻面，直至中心達 74°C。
+  - 將藜麥、花椰菜米、玉米和雞肉盛入碗中。把優格與檸檬汁拌勻，淋在碗上立即食用。
 tips:
-- 先把穀物、蛋白質與醬汁分開準備，最後再拌合，口感會更接近餐廳出餐。
-- 輕食盤的份量要足，主配料不要切得太碎，擺盤才有 Second Floor Cafe 的豐盛感。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
-storage: 沙拉與優格碗建議現做現吃；熟食配料可冷藏 1 天後再重新組裝。
-substitutions:
-- 綜合生菜
-- 花椰菜飯
+  - 不要把已煮熟與仍需烹煮的舒肥雞混為一談；生或未熟產品依包裝完整程序烹煮，只有可即食熟產品可直接切片食用。
+storage: 拆封熟雞肉和其他熟食於 2 小時內冷藏，並依包裝保存期限食用；自製配料建議 3 天內吃完。回熱雞肉中心達 74°C。
+substitutions: []
 relatedIngredients:
-- 舒肥雞
-- 花椰菜飯
-- 藜麥
-- 火烤玉米
+  - 熟舒肥雞胸肉
+  - 藜麥
+  - 花椰菜米
 customAdditions: []
 faqs:
-- question: 想把 舒肥雞藜麥花椰飯 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 舒肥雞與花椰菜飯 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+  - question: 生舒肥雞也可直接切片放入嗎？
+    answer: 不可以。只有包裝標示已熟可即食的雞肉可直接食用；生或未熟產品必須依包裝完整烹煮程序處理。
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 舒肥雞
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 花椰菜飯
-  amount: "120"
-  unit: 公克
-  isCore: true
-- name: 藜麥
-  amount: "80"
-  unit: 公克
-  isCore: true
-- name: 火烤玉米
-  amount: "100"
-  unit: 公克
-  isCore: true
+  - name: 熟舒肥雞胸肉
+    amount: "150"
+    unit: 公克
+    isCore: true
+  - name: 藜麥
+    amount: "50"
+    unit: 公克
+    isCore: true
+  - name: 花椰菜米
+    amount: "150"
+    unit: 公克
+    isCore: true
+  - name: 熟玉米粒
+    amount: "60"
+    unit: 公克
+    isCore: false
+  - name: 原味優格
+    amount: "2"
+    unit: 大匙
+    isCore: false
+  - name: 檸檬汁
+    amount: "1"
+    unit: 小匙
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1.5"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 起司醬
-  amount: "2"
-  unit: 大匙
+  - name: 橄欖油
+    amount: "1"
+    unit: 小匙
+  - name: 鹽
+    amount: 1/4
+    unit: 小匙
+  - name: 黑胡椒
+    amount: 少許
+    unit: ""
 ---
-舒肥雞藜麥花椰飯 的在家還原版，重點是把 舒肥雞、花椰菜飯、藜麥 做出分層口感，並保留貳樓常見的 均衡盤 大份量出餐感。
 
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-
+藜麥需煮約15分鐘並悶5分鐘，花椰菜米另炒至熱透。雞肉僅使用包裝明確標示已熟可即食的產品；若包裝要求烹煮，請遵循產品指示。

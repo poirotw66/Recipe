@@ -1,8 +1,16 @@
 {
   "slug": "dh-korean-style-bbq-fish-ball",
   "title": "韓風辣味魚丸燒",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 88,
+  "issues": [
+    {
+      "type": "Safety_Risk",
+      "severity": "Warning",
+      "description": "新增芝麻油與水的調味份量，改為冷藏解凍並依產品標示加熱，刪除不相符設備、通用肉類建議及無來源餐廳／營養宣稱。 四語內容已校準配料數量與數字份量；廚房試煮及成品影像核對仍待完成，因此維持 Warning、不標記 Pass。",
+      "suggested_fix": "安排實際試煮，記錄熟度、時間、口感與份量；另核對成品影像符合本配方後再重新審查。",
+      "source": "agent"
+    }
+  ]
 }

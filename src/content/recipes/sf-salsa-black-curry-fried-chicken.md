@@ -1,85 +1,78 @@
 ---
-title: 莎莎黑咖哩炸雞
-description: 參考貳樓 Second Floor Cafe 常見做法，以 炸雞、黑咖哩醬、莎莎醬 還原 莎莎黑咖哩炸雞 的餐廳份量與風味層次。
+title: 黑咖哩莎莎烤雞塊
+description: 雞腿肉裹薄粉烤至 74°C，搭配黑咖哩與番茄莎莎沾醬。
 coverImage: /images/recipes/sf-salsa-black-curry-fried-chicken.webp
 servings: 2
-prepTime: 18
-cookTime: 18
-totalTime: 36
+prepTime: 15
+cookTime: 25
+totalTime: 40
 difficulty: 中等
-calories: 630
-protein: 30
-fat: 28
-carbs: 48
 category: "開胃菜"
 scenarios:
-- 一人料理
-- 宵夜料理
+  - 分享料理
 equipment:
-- 炸鍋
-- 烤箱
+  - 烤箱
+  - 烤盤
+  - 食物溫度計
 tags:
-- 名店還原
-- 分享盤
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 莎莎黑咖哩炸雞
-  region: 全台連鎖
-intro: 這道 莎莎黑咖哩炸雞 參考貳樓 Second Floor Cafe 常見做法，會先把 炸雞、黑咖哩醬、莎莎醬 分段處理，再依 分享盤 的出餐邏輯完成整盤。
+  - 家常料理
+intro: 以烤箱製作酥香雞塊，搭配兩款沾醬；雞肉切塊厚度不同時，以溫度計確認最厚處熟度。
 steps:
-- 將 炸雞 適量 切成一口大小，用廚房紙巾徹底吸乾；以 海鹽 1/2小匙、黑胡椒碎 少許 抓醃 10 分鐘。
-- 雞肉均勻裹上薄層酥炸粉，輕壓後抖掉多餘粉粒。
-- 炸鍋倒入 炸油 600毫升，油溫 170°C；雞肉分批下鍋，中火炸 6～7 分鐘至內部熟透、表面定型。
-- 撈起放在網架上休息 3 分鐘。
-- 油溫升至 185°C，雞肉回鍋複炸 1.5～2 分鐘至金黃酥脆，撈起瀝油。
-- 小碗中混合 黑咖哩醬 2大匙 與 莎莎醬 2大匙，加入 辣椒碎 1/2小匙 拌勻成雙醬。
-- 炸雞盛盤，黑咖哩莎莎醬分裝一旁沾食，還原貳樓分享盤的酥脆口感。
+  - 烤箱預熱 220°C。雞腿肉切成約 3 公分塊，拌入玉米粉、食用油、鹽、黑胡椒和咖哩粉，單層排在烤盤上。
+  - 烤 12 分鐘後翻面，續烤約 8～12 分鐘；用溫度計測量最大塊中心，至少達 74°C。未達時續烤並再測。
+  - 番茄去籽切丁，洋蔥切末，與檸檬汁拌勻作莎莎醬。黑咖哩醬放入小碗；若太稠可加一小匙溫水調開。
+  - 雞肉達溫度後趁熱和莎莎、黑咖哩醬分開上桌沾食。
 tips:
-- 分享盤的關鍵是一次做好主炸物與沾醬，起鍋後立刻組盤才會接近門市口感。
-- 若有生菜或冷醬，請最後才放，避免熱氣讓配菜出水。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
-storage: 炸物建議當天吃完；冷藏後回烤 6 到 8 分鐘恢復脆度。
-substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - 雞塊大小應接近，避免小塊過乾而大塊未熟；用溫度計測最大塊中心是否達 74°C。
+storage: 熟雞肉與莎莎醬分開密封冷藏，2 小時內放冰箱並於 3 天內食用；回熱雞肉中心達 74°C。
+substitutions: []
 relatedIngredients:
-- 炸雞
-customAdditions:
-- 辣椒碎加量
-- 自製辣醬
+  - 去骨雞腿肉
+  - 番茄
+customAdditions: []
 faqs:
-- question: 想把 莎莎黑咖哩炸雞 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 炸雞與黑咖哩醬 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+  - question: 可以用雞胸肉嗎？
+    answer: 可以，切成相近大小並留意較瘦的雞胸容易乾；仍須確認最大塊中心達 74°C。
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 炸雞
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: 去骨雞腿肉
+    amount: "300"
+    unit: 公克
+    isCore: true
+  - name: 玉米粉
+    amount: "2"
+    unit: 大匙
+    isCore: false
+  - name: 番茄
+    amount: "1"
+    unit: 顆
+    isCore: true
+  - name: 洋蔥
+    amount: 1/4
+    unit: 顆
+    isCore: false
+  - name: 檸檬汁
+    amount: "1"
+    unit: 小匙
+    isCore: false
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
-- name: 黑咖哩醬
-  amount: "2"
-  unit: 大匙
-- name: 莎莎醬
-  amount: "2"
-  unit: 大匙
-- name: 辣椒碎
-  amount: "1/2"
-  unit: 小匙
+  - name: 咖哩粉
+    amount: "1"
+    unit: 小匙
+  - name: 食用油
+    amount: "1"
+    unit: 大匙
+  - name: 鹽
+    amount: 1/2
+    unit: 小匙
+  - name: 黑胡椒
+    amount: 少許
+    unit: ""
+  - name: 黑咖哩醬
+    amount: "1"
+    unit: 大匙
 ---
 
-莎莎黑咖哩炸雞 的在家還原版，重點是把 炸雞、黑咖哩醬、莎莎醬 做出分層口感，並保留貳樓常見的 分享盤 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-
+雞肉裹上薄薄玉米粉後用烤箱烤，另以新鮮番茄莎莎和黑咖哩醬分開沾食。雞肉熟度以最大塊中心溫度確認。

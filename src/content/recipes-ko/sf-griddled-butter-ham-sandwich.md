@@ -1,104 +1,86 @@
 ---
-title: 厚烤奶油 Ham 三明治 스타일 레시피
+title: 버터 햄 샌드위치
 recipeId: sf-griddled-butter-ham-sandwich
-description: Second Floor Cafe 스타일로 歐包、火腿、起司、荷包蛋、薯塊、楓糖漿 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
+description: 버터 햄 샌드위치를 집에서 만드는 레시피입니다. 분량에 맞춘 재료 준비와 조리 순서를 안내합니다.
 coverImage: /images/recipes/sf-griddled-butter-ham-sandwich.webp
-servings: 1
+servings: 2
 prepTime: 18
 cookTime: 15
 totalTime: 33
 difficulty: 보통
-calories: 850
-protein: 32
-fat: 46
-carbs: 58
 category: "버거와 샌드위치"
 scenarios:
-- 도시락 반찬
-- 1인 요리
+  - 도시락 반찬
 equipment:
-- 프라이팬
-- 오븐
+  - 프라이팬
+  - 작은 냄비
+  - 오븐
 tags:
-- 맛집 재현
-- 버거와 샌드위치
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 厚烤奶油 Ham 三明治
-  region: 全台連鎖
-intro: Second Floor Cafe에서 자주 보이는 조리 흐름을 참고해 한 접시 전체의 완성도를 살리는 방식으로 만듭니다.
+  - 버거와 샌드위치
+intro: 속재료를 먼저 익히고 빵이나 토르티야를 구운 다음 먹기 직전에 조립하면 겉이 눅눅해지지 않습니다.
 steps:
-- 歐包 2份을 가로로 자르고 안쪽에 버터를 고르게 바릅니다. 火腿 適量, 起司 40g, 荷包蛋 2개, 薯塊 250g을 준비합니다.
-- 팬을 약불로 달군 뒤 歐包 안쪽을 아래로 두고 양면이 노릇하고 바삭해질 때까지 굽고 꺼냅니다.
-- 같은 팬을 중불로 달군 뒤 火腿 適量을 겉이 살짝 태워 향이 날 때까지 굽고 따뜻하게 둡니다.
-- 팬에 버터를 조금 넣고 荷包蛋 2개를 깨어 뚜껑을 덮어 2~3분간 흰자가 익고 노른자가 반숙이 되면 따뜻하게 둡니다.
-- 薯塊 250g을 180°C 오븐에 굽거나 팬에 노릇하고 바삭하게 조리한 뒤 소금과 후추를 약간 뿌립니다.
-- 구운 歐包 위에 起司 40g, 火腿, 荷包蛋을 순서대로 올리고 다른 歐包 조각을 덮어 살짝 누릅니다.
-- 楓糖漿 2큰술과 鮮奶油 適量을 뿌리고 薯塊을 곁들여 바다소금 1/3작은술과 후추 1/4작은술을 뿌려 뜨겁게 낸다.
+  - 롤빵 2인분을 가로로 자르고 안쪽에 버터를 고르게 바릅니다. 햄 100g, 치즈 40g, 프라이드 에그 2개, 감자 웨지 250g을
+    준비합니다.
+  - 팬을 약불로 달군 뒤 롤빵 안쪽을 아래로 두고 양면이 노릇하고 바삭해질 때까지 굽고 꺼냅니다.
+  - 같은 팬을 중불로 달군 뒤 햄 100g을 겉이 살짝 태워 향이 날 때까지 굽고 따뜻하게 둡니다.
+  - 팬에 버터를 조금 넣고 프라이드 에그 2개를 깨어 뚜껑을 덮어 2~3분간 흰자가 익고 노른자가 반숙이 되면 따뜻하게 둡니다.
+  - 감자 웨지 250g을 180°C 오븐에 굽거나 팬에 노릇하고 바삭하게 조리한 뒤 소금과 후추를 약간 뿌립니다.
+  - 구운 롤빵 위에 치즈 40g, 햄, 프라이드 에그을 순서대로 올리고 다른 롤빵 조각을 덮어 살짝 누릅니다.
+  - 메이플 시럽 2큰술과 을 뿌리고 감자 웨지을 곁들여 바다소금 1/3작은술과 후추 1/4작은술을 뿌려 뜨겁게 낸다.
 tips:
-- 주재료와 소스를 따로 완성한 뒤 마지막에 합치면 질감 차이가 더 살아납니다.
-- 차가운 가니시와 뜨거운 단백질은 마지막에 합쳐야 매장 같은 결과가 납니다.
-- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
-storage: 가급적 당일 섭취를 권장합니다. 보관할 때는 재료와 소스를 나누어 냉장하고 먹기 직전에 부드럽게 다시 데우세요.
+  - 속재료를 먼저 준비하고 달걀은 마지막에 조리하세요. 반숙으로 먹으려면 살균 달걀을 사용하세요.
+  - 속재료를 먼저 익히고 빵이나 토르티야를 구운 다음 먹기 직전에 조립하면 겉이 눅눅해지지 않습니다.
+storage: 갓 만들어 먹는 것을 권합니다. 남은 음식은 조리 후 2시간 안에 냉장하고 3~4일 안에 드세요. 다시 데울 때는 중심 온도가
+  74°C가 되도록 가열하세요. 생채소, 튀김, 반숙 달걀은 식감을 위해 따로 보관하세요.
 substitutions:
-- 漢堡麵包
-- 布里歐麵包
+  - 햄버거 번
+  - 브리오슈 번
 relatedIngredients:
-- 歐包
-- 火腿
-- 起司
-- 荷包蛋
+  - 롤빵
+  - 햄
+  - 치즈
+  - 프라이드 에그
 customAdditions:
-- 더블 치즈
-- 피클 추가
-faqs:
-- question: 厚烤奶油 Ham 三明治 를 매장 스타일에 가깝게 만드는 핵심은 무엇인가요?
-  answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
-- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
-  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
+  - 더블 치즈
+  - 피클 추가
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 歐包
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 火腿
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 起司
-  amount: "40"
-  unit: 公克
-  isCore: true
-- name: 荷包蛋
-  amount: "2"
-  unit: 顆
-  isCore: true
-- name: 薯塊
-  amount: "250"
-  unit: 公克
-  isCore: false
+  - name: 롤빵
+    amount: "2"
+    unit: 인분
+    isCore: true
+  - name: 햄
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: 치즈
+    amount: "40"
+    unit: g
+    isCore: true
+  - name: 프라이드 에그
+    amount: "2"
+    unit: 개
+    isCore: true
+  - name: 감자 웨지
+    amount: "250"
+    unit: g
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 楓糖漿
-  amount: "2"
-  unit: 大匙
-- name: 鮮奶油
-  amount: "適量"
-  unit: ""
+  - name: 올리브오일
+    amount: "1"
+    unit: 큰술
+  - name: 바다소금
+    amount: 1/3
+    unit: 작은술
+  - name: 굵은 후추
+    amount: 1/4
+    unit: 작은술
+  - name: 메이플 시럽
+    amount: "2"
+    unit: 큰술
+faqs:
+  - question: 달걀을 미리 익혀도 되나요?
+    answer: 다른 재료는 미리 준비할 수 있습니다. 달걀은 내기 직전에 원하는 안전한 익힘으로 조리하세요.
 ---
-
-이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.
-
-주재료 준비, 소스 완성, 마지막 플레이팅 순서를 지키면 매장 스타일에 더 가깝게 만들 수 있습니다.
-

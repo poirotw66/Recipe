@@ -1,103 +1,107 @@
 ---
 title: Korean Dumpling Soondubu
-recipeId: dh-korean-dumpling-soondubu
-description: "Dubu House-inspired korean hot pot recreating 韓式餃子嫩豆腐煲 with restaurant-style broth depth and plating."
+description: A two-serving Korean soft-tofu stew with kimchi and dumplings; the egg is cooked until fully set.
 coverImage: /images/recipes/dh-korean-dumpling-soondubu.webp
 servings: 2
 prepTime: 20
-cookTime: 18
-totalTime: 38
+cookTime: 25
+totalTime: 45
 difficulty: Medium
-calories: 520
-protein: 28
-fat: 24
-carbs: 42
 category: "Korean hot pot"
 scenarios:
-- Cooking for one
+  - Late-night meals
 equipment:
-- Korean stew pot
-- Saucepan
+  - Heavy-bottomed soup pot
+  - Food thermometer
+  - Ladle
 tags:
-- Restaurant replica
-- Korean hot pot
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 韓式餃子嫩豆腐煲
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+  - Korean main dish
+intro: Cook Korean dumplings in a kimchi broth, add soft tofu gently, and finish by cooking the egg
+  until fully set.
 steps:
-- "Prep: Cut half an onion into strips and 1 scallion into sections; set out 8 Korean dumplings (no need to thaw if frozen). Portion 1 tbsp minced garlic, 1.5 tbsp Korean chili paste (gochujang), 1 tbsp soy sauce, and 1 tbsp toasted sesame oil into small dishes. Crack 1 egg into a small bowl."
-- Heat a Korean stew pot or heavy-bottomed saucepan over medium heat. Add 1 tbsp toasted sesame oil, then sauté 1 tbsp minced garlic and the onion strips until the onion is translucent and fragrant, about 2 minutes.
-- Add 1.5 tbsp Korean chili paste (gochujang). Lower the heat and stir constantly with a spatula for about 1 minute until the chili oil aroma comes through—do not let it scorch.
-- Pour in 400 ml kelp broth and 1 tbsp soy sauce. Bring to a boil over high heat, then reduce to medium-low.
-- Add the 8 Korean dumplings, cover, and cook 5–7 minutes until they float and the filling is cooked through—push gently to prevent sticking, but do not stir vigorously.
-- Reduce to low heat. Scoop large spoonfuls of soft tofu into the center of the pot and gently push the broth along the sides so it flows through the tofu—avoid vigorous stirring. Simmer 2 more minutes until piping hot.
-- Turn off the heat. Crack 1 egg into the center of the broth, cover, and let stand 1–2 minutes until the white is set and the yolk is still soft—the residual heat finishes the egg without breaking the tofu.
-- Scatter scallion sections and a pinch of sesame seeds over the top. Serve directly in the hot pot while the broth is bubbling for the best Dubu House-style finish.
+  - Cut the kimchi into roughly 3 cm pieces, slice the onion, and cut the scallion into sections.
+    Portion the garlic and seasonings. Keep frozen dumplings frozen and follow their package
+    directions.
+  - Heat the sesame oil in a heavy-bottomed pot over medium heat. Add garlic and onion and sauté for
+    about 2 minutes until the onion is translucent.
+  - Add gochujang and stir over low heat for about 1 minute, keeping it moving so it does not scorch.
+  - Add broth and soy sauce and bring to a boil. Add kimchi and dumplings, cover, and cook according
+    to the dumpling package directions; frozen dumplings may take longer. Do not rely on floating
+    alone to judge doneness.
+  - Use a food thermometer to confirm the center of the largest dumpling reaches 74°C (165°F).
+    Continue cooking and recheck if needed.
+  - Lower the heat. Scoop large pieces of soft tofu into the broth and gently move the broth around
+    them; heat about 2 minutes until the stew is piping hot.
+  - Crack the egg into the center, cover, and simmer gently. Use a food thermometer to confirm the
+    center reaches 71°C (160°F) and both the white and yolk are fully set.
+  - Scatter the scallion over the stew. Optionally garnish with a pinch of sesame seeds and serve
+    hot.
 tips:
-- Soft tofu breaks easily. Scoop in large chunks only after the broth is boiling.
-- Add cheese slices and egg in the last minute. The residual heat will melt them beautifully.
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
+  - Frozen dumplings do not need thawing, but follow the package cooking directions and check the
+    center of the largest dumpling reaches 74°C.
+  - Move the broth gently around the soft tofu instead of stirring it vigorously.
+storage: Refrigerate leftovers within 2 hours and reheat to 74°C (165°F).
 substitutions:
-- soft tofu
-- Korean chili paste (gochujang)
+  - soft tofu
+  - gochujang
 relatedIngredients:
-- 嫩豆腐
-- 餃子
-- 豬肉片
-- 洋蔥
+  - soft tofu
+  - Korean dumplings
+  - kimchi
+  - onion
 customAdditions:
-- chopped scallions
-- sesame seeds
+  - sesame seeds
 faqs:
-- question: How do I make this 韓式餃子嫩豆腐煲 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+  - question: Do frozen dumplings need to be thawed?
+    answer: No. Add them frozen and follow the package cooking directions; confirm the center of the
+      largest dumpling reaches 74°C (165°F).
+  - question: How should I cook the egg?
+    answer: Use a food thermometer to confirm the center reaches 71°C (160°F) and both the white and
+      yolk are fully set.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-03
+updatedAt: 2026-09-29
 ingredients:
-- name: Korean dumplings
-  amount: "8"
-  unit: pcs
-  isCore: true
-- name: soft tofu
-  amount: "1"
-  unit: pack
-  isCore: true
-- name: onion
-  amount: "0.5"
-  unit: pc
-  isCore: true
-- name: scallion
-  amount: "1"
-  unit: stalk
-  isCore: true
-- name: kelp broth
-  amount: "400"
-  unit: ml
-  isCore: true
-- name: egg
-  amount: "1"
-  unit: pc
-  isCore: false
+  - name: soft tofu
+    amount: "1"
+    unit: pack
+    isCore: true
+  - name: Korean dumplings
+    amount: "8"
+    unit: pcs
+    isCore: true
+  - name: kimchi
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: onion
+    amount: "0.5"
+    unit: pc
+    isCore: true
+  - name: scallion
+    amount: "1"
+    unit: stalk
+    isCore: true
+  - name: broth
+    amount: "400"
+    unit: ml
+    isCore: true
+  - name: egg
+    amount: "1"
+    unit: pc
+    isCore: false
 seasonings:
-- name: Korean chili paste (gochujang)
-  amount: "1.5"
-  unit: tbsp
-- name: soy sauce
-  amount: "1"
-  unit: tbsp
-- name: minced garlic
-  amount: "1"
-  unit: tbsp
-- name: toasted sesame oil
-  amount: "1"
-  unit: tbsp
+  - name: gochujang
+    amount: "1.5"
+    unit: tbsp
+  - name: soy sauce
+    amount: "1"
+    unit: tbsp
+  - name: minced garlic
+    amount: "1"
+    unit: tbsp
+  - name: toasted sesame oil
+    amount: "1"
+    unit: tbsp
+recipeId: dh-korean-dumpling-soondubu
 ---
-
-This home version recreates the layered broth and generous plating associated with Dubu House korean hot pot.
-

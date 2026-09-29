@@ -1,8 +1,27 @@
 {
   "slug": "dh-truffle-cheese-egg-roll",
   "title": "松露韓式起司烘蛋捲",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.8,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "The localized recipe content and ingredient-to-step consistency have been reviewed, but the yield, elapsed time, texture, and existing cover image still need a kitchen trial and image verification. No kitchen trial is claimed.",
+      "suggested_fix": "Cook the recipe using the listed quantities and equipment, record actual yield and elapsed time, compare the finished dish with the current cover image, and review the localized result before changing index eligibility.",
+      "source": "agent"
+    }
+  ],
+  "locales": [
+    "zh-TW",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "repair_summary": "Removed unverified restaurant attribution and nutrition figures; corrected portions, elapsed times, equipment, ingredient coverage, locale-specific scenario labels, cooking guidance, storage, and generic copy.",
+  "mechanical_review": {
+    "issues": [],
+    "disposition": "Reviewed for localized schema, ingredient and seasoning coverage, scenario labels, and recipe-specific method. Kitchen trial and cover-image verification remain pending."
+  }
 }

@@ -1,96 +1,73 @@
 ---
-title: 主廚脆皮豬腳 스타일 레시피
+title: 바삭하게 데운 돼지 족발 플레이트
 recipeId: sf-chef-crispy-pork-knuckle
-description: Second Floor Cafe 스타일로 德式豬腳、烤玉米、酸菜、芥末、薯條 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
+description: 완전히 익힌 돼지 족발을 오븐에 데워 껍질을 바삭하게 하고 사우어크라우트와 감자, 옥수수를 곁들입니다.
 coverImage: /images/recipes/sf-chef-crispy-pork-knuckle.webp
 servings: 2
-prepTime: 25
-cookTime: 35
+prepTime: 10
+cookTime: 50
 totalTime: 60
 difficulty: 어려움
-calories: 1160
-protein: 56
-fat: 62
-carbs: 56
-category: "플레이트 메인"
+category: "메인 플레이트"
 scenarios:
-- 고단백 요리
-- 1인 요리
+  - 함께 먹는 요리
 equipment:
-- 오븐
-- 무쇠 팬
+  - 오븐
+  - 베이킹 팬
+  - 식품용 온도계
 tags:
-- 맛집 재현
-- 플레이트 메인
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 主廚脆皮豬腳
-  region: 全台連鎖
-intro: Second Floor Cafe에서 자주 보이는 조리 흐름을 참고해 한 접시 전체의 완성도를 살리는 방식으로 만듭니다.
+  - 집밥
+intro: 포장에 완전히 익힌 제품이라고 표시된 돼지 족발을 사용해 데우고 껍질을 바삭하게 합니다. 생족발에는 이 시간을 적용하지 말고 별도의
+  장시간 조리법을 사용하세요.
 steps:
-- 독일식 족발 900g을 씻어 닦고 껍질에 칼집을 냅니다; 안팎에 올리브 오일 2큰술, 바다소금 1작은술, 후추 1/2작은술을 문질러 20분 재웁니다; 오븐을 200°C로 예열합니다.
-- 무쇠팬을 강불로 달군 뒤 껍질 아래로 5분 노릇하게 굽습니다; 뒤집어 2분 더 굽어 육즙을 가둡니다.
-- 로스팅 팬에 옮겨 190°C에서 약 35분, 껍질이 바삭하게 부풀고 속이 부드러워질 때까지 굽습니다.
-- 마지막 5분에 구운 옥수수 100g과 감자튀김 250g을 오븐에서 함께 데웁니다; 필요하면 올리브 오일을 조금 더 발라 색을 냅니다.
-- 오븐에서 꺼내 5분 쉽니다.
-- 관절을 따라 썰어 족발, 옥수수, 감자튀김, 사우어크라우트 50g을 큰 접시에 나눠 담습니다.
-- 머스타드 適量을 곁들여 찍어 먹으며, 貳樓主廚脆皮豬腳의 푸짐한 플레이팅을 재현합니다.
+  - 족발 포장에 완전히 익힌 제품이라고 표시되어 있는지 확인합니다. 냉동 제품은 포장 안내대로 완전히 해동합니다. 오븐을 220°C로
+    예열합니다.
+  - 감자를 반으로 잘라 기름을 조금 묻혀 15분 굽습니다. 족발을 껍질이 위로 가게 팬에 올리고 포장 안내에 따라 데웁니다.
+  - 옥수수를 넣고 돼지고기 가장 두꺼운 부분이 74°C에 도달할 때까지 데웁니다. 제품 크기와 안내에 맞춰 조절합니다. 필요하면 타지 않도록
+    지켜보며 짧게 윗불로 껍질을 바삭하게 합니다.
+  - 사우어크라우트를 작은 냄비에 데웁니다. 족발이 기준 온도에 도달하면 잠시 둔 뒤 감자, 옥수수, 사우어크라우트, 머스터드와 함께 냅니다.
 tips:
-- 주재료와 소스를 따로 완성한 뒤 마지막에 합치면 질감 차이가 더 살아납니다.
-- 차가운 가니시와 뜨거운 단백질은 마지막에 합쳐야 매장 같은 결과가 납니다.
-- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
-storage: 가급적 당일 섭취를 권장합니다. 보관할 때는 재료와 소스를 나누어 냉장하고 먹기 직전에 부드럽게 다시 데우세요.
-substitutions:
-- 玉米筍
-- 馬鈴薯塊
+  - 완전히 익힌 제품을 구입하세요. 무게와 포장 지침에 따라 데우는 시간이 다르므로 중심이 74°C인지 확인하세요.
+storage: 남은 음식은 2시간 안에 냉장하고 3일 안에 먹습니다. 다시 데울 때 중심이 74°C가 되게 합니다.
+substitutions: []
 relatedIngredients:
-- 德式豬腳
-- 烤玉米
-- 酸菜
-- 芥末
+  - 완전히 익힌 돼지 족발
+  - 사우어크라우트
 customAdditions: []
 faqs:
-- question: 主廚脆皮豬腳 를 매장 스타일에 가깝게 만드는 핵심은 무엇인가요?
-  answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
-- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
-  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
+  - question: 생족발도 이 방법으로 구울 수 있나요?
+    answer: 아니요. 이 방법은 이미 익힌 제품에만 해당합니다. 생족발은 별도의 장시간 조리법이 필요합니다.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 德式豬腳
-  amount: "900"
-  unit: 公克
-  isCore: true
-- name: 烤玉米
-  amount: "100"
-  unit: 公克
-  isCore: true
-- name: 酸菜
-  amount: "50"
-  unit: 公克
-  isCore: true
-- name: 芥末
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 薯條
-  amount: "250"
-  unit: 公克
-  isCore: false
+  - name: 완전히 익힌 돼지 족발
+    amount: "700"
+    unit: g
+    isCore: true
+  - name: 사우어크라우트
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: 옥수수
+    amount: "1"
+    unit: 개
+    isCore: false
+  - name: 알감자
+    amount: "250"
+    unit: g
+    isCore: false
+  - name: 머스터드
+    amount: "1"
+    unit: 큰술
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "2"
-  unit: 大匙
-- name: 海鹽
-  amount: "1"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/2"
-  unit: 小匙
+  - name: 식용유
+    amount: "1"
+    unit: 작은술
+  - name: 후추
+    amount: 약간
+    unit: ""
 ---
 
-이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.
-
-주재료 준비, 소스 완성, 마지막 플레이팅 순서를 지키면 매장 스타일에 더 가깝게 만들 수 있습니다.
-
+족발이 완전히 익힌 제품인지 확인한 뒤 오븐에서 속까지 데우고 껍질을 바삭하게 합니다. 제품마다 크기와 포장 지침이 다르므로 중심 온도를 기준으로 확인하세요.

@@ -1,101 +1,100 @@
 ---
-title: "Plant-Based Fried Chicken with Mushroom Soondubu"
+title: Plant-Based Chicken and Mushroom Soondubu
 recipeId: dh-plant-based-fried-chicken-with-mushroom-soondubu
-description: "Dubu House-inspired korean hot pot recreating 植感炸雞鮮菇嫩豆腐煲 with restaurant-style broth depth and plating."
+description: A single-serving Korean spicy stew with plant-based chicken nuggets, shiitake mushrooms, soft tofu, and a fully set egg.
 coverImage: /images/recipes/dh-plant-based-fried-chicken-with-mushroom-soondubu.webp
-servings: 2
-prepTime: 20
-cookTime: 18
-totalTime: 38
+servings: 1
+prepTime: 15
+cookTime: 20
+totalTime: 35
 difficulty: Medium
-calories: 520
-protein: 28
-fat: 24
-carbs: 42
 category: "Korean hot pot"
 scenarios:
 - Cooking for one
 equipment:
-- Korean stew pot
-- Saucepan
+- Small pot
+- Knife
+- Cutting board
+- Spoon
 tags:
-- Restaurant replica
-- Korean hot pot
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 植感炸雞鮮菇嫩豆腐煲
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- Korean tofu stews
+intro: This one-serving spicy tofu stew follows the plant-based nugget package directions and cooks the egg until fully set.
 steps:
-- "Prep: bring plant-based chicken nuggets 150 g to room temperature; remove stems from 3 shiitake mushrooms and cut into thick slices; slice ½ onion into strips and cut 1 scallion into sections; portion 1 tbsp minced garlic, 1.5 tbsp gochujang, 1 tbsp soy sauce, and 1 tbsp Korean sesame oil separately."
-- Preheat a Korean spicy stew pot or thick-bottomed small pot over medium heat for 1 minute. Add 1 tbsp Korean sesame oil, sauté 1 tbsp minced garlic and onion strips until translucent, then add 1.5 tbsp gochujang and stir until fragrant and the oil turns red (about 1 minute; do not scorch).
-- Add plant-based chicken nuggets 150 g and pan-fry over medium heat until golden and lightly crisp on the surface (about 3 minutes) to release aroma.
-- Pour in 400 ml broth and 1 tbsp soy sauce. Bring to a boil over high heat, then reduce to medium-low. Add 3 shiitake mushrooms, cover, and simmer 5–8 minutes until mushrooms are tender and the broth is flavorful.
-- Lower the heat. Scoop 1 pack soft tofu in large chunks into the center of the pot. Gently push along the edge so broth flows over the tofu without vigorous stirring (simmer 2 more minutes until piping hot).
-- Before turning off the heat, crack in 1 egg and wait until the white sets and the yolk is soft-set. Top with scallions and sesame seeds and serve boiling hot in the pot.
+- Slice the mushrooms, onion, and scallion. Keep tofu and plant-based nuggets chilled until ready, following package thawing directions.
+- Warm the sesame oil in a small pot over medium heat. Add garlic and onion and cook 2 minutes until fragrant; stir in gochujang for about 30
+  seconds.
+- Add the plant-based nuggets and heat according to the package directions. If the product requires full cooking, follow its stated time and temperature.
+- Pour in broth and soy sauce and bring to a boil. Add mushrooms, cover, and simmer over medium-low heat 5–7 minutes until tender.
+- Spoon in the tofu gently and simmer 2–3 minutes until the pot is steaming throughout. Crack in the egg, cover, and cook 4–5 minutes until both
+  white and yolk are set. Finish with scallion and sesame seeds.
 tips:
-- Soft tofu breaks easily. Scoop in large chunks only after the broth is boiling.
-- Add cheese slices and egg in the last minute. The residual heat will melt them beautifully.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
+- If using seasoned broth, taste it before adding soy sauce. Add tofu near the end and move it gently.
+storage: Refrigerate leftovers within 2 hours and use within 1 day. Reheat until the whole stew is steaming; do not leave egg dishes at room temperature.
 substitutions:
 - soft tofu
 - Korean chili paste (gochujang)
 relatedIngredients:
-- 嫩豆腐
-- 植物肉雞塊
-- 鮮香菇
-- 洋蔥
-customAdditions:
-- chopped scallions
-- sesame seeds
+- soft tofu
+- plant-based chicken nuggets
+- shiitake mushrooms
+- onion
+- scallion
+- broth
+- egg
+customAdditions: []
 faqs:
-- question: How do I make this 植感炸雞鮮菇嫩豆腐煲 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: Can I use regular tofu?
+  answer: Yes, though soft tofu gives a silkier stew. Add it gently so it does not break apart.
+- question: Do I need to deep-fry the plant-based nuggets first?
+  answer: No. Heat them in the pot according to the package directions; briefly pan-searing first adds browning.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: '2026-09-29'
 ingredients:
 - name: soft tofu
-  amount: "1"
+  amount: '1'
   unit: pack
   isCore: true
 - name: plant-based chicken nuggets
-  amount: "150"
+  amount: '150'
   unit: g
   isCore: true
 - name: shiitake mushrooms
-  amount: "3"
+  amount: '3'
   unit: pcs
   isCore: true
 - name: onion
-  amount: "0.5"
+  amount: '0.5'
   unit: pc
   isCore: true
 - name: scallion
-  amount: "1"
+  amount: '1'
   unit: stalk
   isCore: true
 - name: broth
-  amount: "400"
+  amount: '400'
   unit: ml
   isCore: true
+- name: egg
+  amount: '1'
+  unit: large
+  isCore: true
 seasonings:
-- name: Korean chili paste (gochujang)
-  amount: "1.5"
+- name: gochujang
+  amount: '1'
   unit: tbsp
 - name: soy sauce
-  amount: "1"
+  amount: '1'
   unit: tbsp
 - name: minced garlic
-  amount: "1"
-  unit: tbsp
+  amount: '1'
+  unit: tsp
 - name: Korean sesame oil
-  amount: "1"
-  unit: tbsp
+  amount: '1'
+  unit: tsp
+- name: sesame seeds
+  amount: '1'
+  unit: tsp
 ---
 
-This home version recreates the layered broth and generous plating associated with Dubu House korean hot pot.
-
+This one-serving spicy tofu stew follows the plant-based nugget package directions and cooks the egg until fully set.

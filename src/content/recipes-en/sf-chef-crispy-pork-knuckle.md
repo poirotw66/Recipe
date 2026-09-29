@@ -1,96 +1,83 @@
 ---
-title: Chef Crispy Pork Knuckle
+title: Crispy Reheated Pork Knuckle Plate
 recipeId: sf-chef-crispy-pork-knuckle
-description: "Second Floor Cafe-inspired big plates with restaurant-style portions and 德式豬腳、烤玉米、酸菜、芥末、薯條."
+description: Crisp a fully cooked pork knuckle in the oven and serve it with
+  sauerkraut, corn, and potatoes.
 coverImage: /images/recipes/sf-chef-crispy-pork-knuckle.webp
 servings: 2
-prepTime: 25
-cookTime: 35
+prepTime: 10
+cookTime: 50
 totalTime: 60
 difficulty: Advanced
-calories: 1160
-protein: 56
-fat: 62
-carbs: 56
-category: "Big plates"
+category: "Main plates"
 scenarios:
-- High-protein meals
-- Cooking for one
+  - Food to share
 equipment:
-- Oven
-- "Cast-iron pan"
+  - Oven
+  - Baking tray
+  - Food thermometer
 tags:
-- Restaurant replica
-- Big plates
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 主廚脆皮豬腳
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Home cooking
+intro: This recipe is for a pork knuckle labeled fully cooked; the oven step
+  reheats it and crisps the skin. Do not use this timing for raw pork knuckle,
+  which needs a separate long-cooking method.
 steps:
-- Clean and dry German pork knuckle 900 g; score the skin; rub inside and out with olive oil 2 tbsp, sea salt 1 tsp, and black pepper 1/2 tsp; marinate 20 minutes; preheat oven to 200°C.
-- Sear skin-side down in a cast-iron pan over high heat until golden (about 5 minutes); flip and sear 2 minutes more to lock juices.
-- Transfer to a roasting pan; bake at 190°C about 35 minutes until skin blisters crisp and meat is tender.
-- During the last 5 minutes, add roasted corn 100 g and fries 250 g to the oven; brush a little more olive oil if needed for color.
-- Rest out of the oven 5 minutes.
-- Carve along the joints; arrange pork knuckle, corn, fries, and sauerkraut 50 g on a large platter.
-- Serve with mustard 適量 for dipping to match Second Floor Cafe chef crispy pork knuckle.
+  - Check that the pork knuckle is labeled fully cooked. If frozen, thaw it
+    completely as directed on the package. Heat the oven to 220°C / 425°F.
+  - Halve the potatoes, toss with a little oil, and roast for 15 minutes. Place
+    the pork knuckle skin-side up on the tray and follow its package reheating
+    directions.
+  - Add the corn and continue heating until the thickest part of the pork
+    reaches 74°C / 165°F. Adjust for the product size and package directions.
+    Briefly use the broiler to crisp the skin if needed, watching closely.
+  - Warm the sauerkraut in a small pan. Rest the pork briefly after it reaches
+    temperature, then serve with potatoes, corn, sauerkraut, and mustard.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 玉米筍
-- 馬鈴薯塊
+  - Buy a product labeled fully cooked. Reheating time varies by weight and
+    package; check for 74°C / 165°F at the center before serving.
+storage: Refrigerate leftovers within 2 hours and use within 3 days. Reheat the
+  center to 74°C / 165°F.
+substitutions: []
 relatedIngredients:
-- 德式豬腳
-- 烤玉米
-- 酸菜
-- 芥末
+  - Fully cooked pork knuckle
+  - Sauerkraut
 customAdditions: []
 faqs:
-- question: What makes this 主廚脆皮豬腳 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: Can I roast a raw pork knuckle this way?
+    answer: No. This method is only for a fully cooked product. Raw pork knuckle
+      needs a separate long-cooking recipe and cannot be safely reheated with
+      this short method.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 德式豬腳
-  amount: "900"
-  unit: 公克
-  isCore: true
-- name: 烤玉米
-  amount: "100"
-  unit: 公克
-  isCore: true
-- name: 酸菜
-  amount: "50"
-  unit: 公克
-  isCore: true
-- name: 芥末
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 薯條
-  amount: "250"
-  unit: 公克
-  isCore: false
+  - name: Fully cooked pork knuckle
+    amount: "700"
+    unit: g
+    isCore: true
+  - name: Sauerkraut
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: Corn
+    amount: "1"
+    unit: ear
+    isCore: false
+  - name: Baby potatoes
+    amount: "250"
+    unit: g
+    isCore: false
+  - name: Mustard
+    amount: "1"
+    unit: tbsp
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "2"
-  unit: 大匙
-- name: 海鹽
-  amount: "1"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/2"
-  unit: 小匙
+  - name: Neutral oil
+    amount: "1"
+    unit: tsp
+  - name: Black pepper
+    amount: to taste
+    unit: ""
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Confirm the pork knuckle is fully cooked before reheating it in the oven to warm the center and crisp the skin. Product weight and package instructions vary, so use the center temperature rather than a fixed time.

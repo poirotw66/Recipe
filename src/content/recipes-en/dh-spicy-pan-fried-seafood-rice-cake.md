@@ -1,98 +1,104 @@
 ---
-title: "Spicy Pan-fried Seafood Rice Cake"
+title: Spicy Seafood Tteokbokki
 recipeId: dh-spicy-pan-fried-seafood-rice-cake
-description: "Dubu House-inspired korean mains recreating 海鮮辣炒年糕 with restaurant-style broth depth and plating."
+description: A practical home recipe for Spicy Seafood Tteokbokki, with measured portions, clear heat cues, and
+  an order that matches the ingredients listed.
 coverImage: /images/recipes/dh-spicy-pan-fried-seafood-rice-cake.webp
 servings: 2
-prepTime: 22
-cookTime: 22
-totalTime: 44
+prepTime: 20
+cookTime: 20
+totalTime: 40
 difficulty: Medium
-calories: 640
-protein: 30
-fat: 26
-carbs: 58
-category: "Korean mains"
+category: "rice cake"
 scenarios:
-- "High-protein meals"
+- Late-night meals
 equipment:
-- Skillet
-- Pot
+- Lidded skillet
+- Small bowl
 tags:
-- Restaurant replica
-- Korean mains
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 海鮮辣炒年糕
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- rice cake
+intro: This two-serving home recipe for Spicy Seafood Tteokbokki uses common ingredients, clear steps, and standard
+  cookware. Adjust the seasoning to taste.
 steps:
-- "Prep: If Korean rice cake sticks 150 g are firm from the fridge, soak in warm water 10 minutes until slightly soft, then drain. Clean squid 150 g, remove innards, and cut into rings; peel shrimp 6, leave tails on; purge and rinse clams 200 g; shred onion ½."
-- In a small bowl, mix gochujang 1.5 Tbsp, gochugaru 1 Tbsp, sugar 1 tsp, and minced garlic 1 Tbsp into a spicy stir-fry sauce; set aside.
-- Preheat a skillet over medium heat with 1 Tbsp oil; stir-fry onion and minced garlic 1 Tbsp 1 minute until translucent and fragrant.
-- Add squid, shrimp, and clams; stir-fry over high heat 2 minutes until shrimp turn pink and clams open (discard any that stay closed).
-- Add drained rice cakes and the prepared spicy sauce; stir-fry over high heat 1 minute until the rice cakes are evenly coated.
-- Pour in broth or water 100 ml, cover, and simmer over medium heat 5 minutes, stirring to prevent sticking so the rice cakes absorb the sauce.
-- Uncover and reduce over high heat 1–2 minutes until the sauce is thick and clings to the rice cakes and seafood. Top with sesame seeds or scallions and serve hot.
+- 'Prep: If Korean rice cake sticks 150 g are firm from the fridge, soak in warm water 10 minutes until slightly
+  soft, then drain. Clean squid 150 g, remove innards, and cut into rings; peel shrimp 6, leave tails on; purge
+  and rinse clams 200 g; shred onion ½.'
+- In a small bowl, mix gochujang 1.5 Tbsp, gochugaru 1 Tbsp, sugar 1 tsp, and minced garlic 1 Tbsp into a spicy
+  stir-fry sauce; set aside.
+- Preheat a skillet over medium heat with 1 Tbsp neutral oil; stir-fry onion and minced garlic 1 Tbsp 1 minute until
+  translucent and fragrant.
+- Add squid, shrimp, and clams; stir-fry over high heat 2 minutes until shrimp turn pink and clams open (discard
+  any that stay closed).
+- Add drained rice cakes and the prepared spicy sauce; stir-fry over high heat 1 minute until the rice cakes are
+  evenly coated.
+- Pour in water 100 ml, cover, and simmer over medium heat 5 minutes, stirring to prevent sticking so the rice cakes
+  absorb the sauce.
+- Uncover and reduce over high heat 1–2 minutes until the sauce is thick and clings to the rice cakes and seafood.
+  Top with 1 tsp sesame seeds or scallions and serve hot.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
-substitutions:
-- Korean rice cakes
-- Korean chili paste (gochujang)
+- Soak firm refrigerated rice cakes until pliable and drain well; stir occasionally while covered to prevent sticking.
+  Follow the package for frozen rice cakes.
+- Remove clams as they open and discard any that stay closed. Add squid near the end and stop once cooked through.
+storage: Serve fresh when possible. Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat until
+  steaming hot throughout (74°C / 165°F).
+substitutions: []
 relatedIngredients:
-- 韓式年糕條
-- 白蝦
-- 蛤蜊
-- 透抽
+- Korean rice cakes
+- shrimp
+- clams
+- squid
 customAdditions:
 - chopped scallions
 - sesame seeds
 faqs:
-- question: How do I make this 海鮮辣炒年糕 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "Can I prepare this ahead of time?"
-  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
+- question: Can I prep the ingredients ahead?
+  answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
+    cook shortly before serving for the best texture.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: '2026-09-29'
 ingredients:
 - name: Korean rice cakes
-  amount: "150"
+  amount: '150'
   unit: g
   isCore: true
 - name: shrimp
-  amount: "6"
+  amount: '6'
   unit: pcs
   isCore: true
 - name: clams
-  amount: "200"
+  amount: '200'
   unit: g
   isCore: true
 - name: squid
-  amount: "150"
+  amount: '150'
   unit: g
   isCore: true
 - name: onion
-  amount: "0.5"
+  amount: '0.5'
   unit: pc
   isCore: true
 seasonings:
 - name: Korean chili paste (gochujang)
-  amount: "1.5"
+  amount: '1.5'
   unit: tbsp
 - name: Korean chili flakes (gochugaru)
-  amount: "1"
+  amount: '1'
   unit: tbsp
 - name: sugar
-  amount: "1"
+  amount: '1'
   unit: tsp
 - name: minced garlic
-  amount: "1"
+  amount: '1'
   unit: tbsp
+- name: neutral oil
+  amount: '1'
+  unit: tbsp
+- name: water
+  amount: '100'
+  unit: ml
+- name: sesame seeds
+  amount: '1'
+  unit: tsp
 ---
-
-This home version recreates the layered broth and generous plating associated with Dubu House korean mains.
-
+Measure the listed ingredients, complete any soaking or sauce mixing first, and cook in the order shown. This recipe has not had a kitchen trial, so its timing and texture still need practical verification.

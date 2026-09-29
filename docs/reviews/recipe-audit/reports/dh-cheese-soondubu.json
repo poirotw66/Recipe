@@ -1,8 +1,21 @@
 {
   "slug": "dh-cheese-soondubu",
-  "title": "起司嫩豆腐煲",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.88,
+  "coverage": [
+    "zh-TW",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "The revised recipe text has not been independently cooked. The listed timing and final texture remain estimates pending home-kitchen verification. Scenario labels now match the canonical taxonomy in all four locales. Unsupported restaurant-style or venue-equivalence wording was removed; no restaurant recipe source is claimed.",
+      "suggested_fix": "Cook this exact four-locale version in a home kitchen and update time or texture guidance only when measured results support the change.",
+      "source": "agent"
+    }
+  ]
 }

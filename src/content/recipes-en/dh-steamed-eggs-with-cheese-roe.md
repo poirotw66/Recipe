@@ -1,85 +1,74 @@
 ---
-title: Steamed Eggs with Cheese & Roe
+title: Steamed Eggs with Cheese and Tobiko
 recipeId: dh-steamed-eggs-with-cheese-roe
-description: "Dubu House-inspired korean appetizers recreating 魚卵起司陶鍋蛋 with restaurant-style broth depth and plating."
+description: A softly steamed two-egg custard with broth, cheese, and ready-to-eat cooked flying fish roe.
 coverImage: /images/recipes/dh-steamed-eggs-with-cheese-roe.webp
 servings: 2
-prepTime: 18
-cookTime: 16
-totalTime: 34
+prepTime: 10
+cookTime: 20
+totalTime: 30
 difficulty: Medium
-calories: 430
-protein: 16
-fat: 22
-carbs: 38
 category: "Korean appetizers"
 scenarios:
 - Cooking for one
-- "Late-night meals"
+- Late-night meals
 equipment:
-- Fryer
-- Skillet
+- Steamer or covered pot
+- Food thermometer
 tags:
-- Restaurant replica
-- Korean appetizers
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 魚卵起司陶鍋蛋
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- Home cooking
+- Steamed eggs
+intro: Steam two eggs with 200 ml stock until the center sets, then add cheese and ready-to-eat cooked roe.
 steps:
-- "Brush the inside of a clay pot or heavy small pot lightly with oil to prevent sticking. Beat 1 egg in a bowl with 400 ml broth, a pinch of salt, and 1 Tbsp toasted sesame oil (egg-to-broth ratio about 1:400 for a silky, soupy texture)."
-- Whisk briskly in one direction until fully smooth; do not whip in lots of foam. Strain through a fine sieve 1–2 times to remove bubbles and egg white lumps (strained custard sets with a smoother surface).
-- Preheat the clay pot over low heat 1 minute, then pour in the egg mixture. Stir gently with chopsticks or a spoon about 2 minutes until about 50% set and semi-flowing (like soft scrambled eggs; do not over-stir into crumbs).
-- Reduce heat. Lay 1 cheddar cheese slice on top, then evenly sprinkle 30 g flying fish roe (cheese underneath, roe on top keeps layers distinct when heated).
-- Cover and steam over very low heat 5–6 minutes until the center still jiggles slightly and the surface is set without large bubbles (too high heat causes a honeycomb texture).
-- Turn off heat and rest covered 2 minutes so cheese melts and roe stays springy.
-- Score gently around the pot edge with a spoon and serve directly in the clay pot to share. Sprinkle with chopped scallions and sesame seeds and serve hot.
+- Beat 2 eggs with 200 ml broth and a small pinch of salt. Strain into a heatproof covered bowl.
+- Set the bowl on a rack over simmering water and steam gently for about 10–15 minutes, until set and the center reaches at least 160°F (71°C) on a food thermometer. Continue steaming and recheck if needed.
+- Turn off the heat, add 1 slice cheddar, cover, and let it melt.
+- Top with 30 g ready-to-eat cooked flying fish roe, a little sesame oil, and scallion; serve hot.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
-substitutions:
-- egg
-- cheddar cheese slice
+- Cool the stock before mixing it with eggs to avoid curdling.
+- Cover the bowl to keep condensed water out, and steam gently to avoid large holes.
+storage: Refrigerate leftovers in shallow containers at 4°C or below within 2 hours, or 1 hour above 32°C. Eat within 3 days and reheat to 74°C throughout.
+substitutions: []
 relatedIngredients:
 - 雞蛋
 - 飛魚卵
-customAdditions:
-- chopped scallions
-- sesame seeds
+customAdditions: []
 faqs:
-- question: How do I make this 魚卵起司陶鍋蛋 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: What is the egg-to-broth ratio?
+  answer: This recipe uses two eggs with 200 ml broth. Steam until set and the center reaches at least 160°F (71°C).
+- question: When should I add the roe?
+  answer: Use ready-to-eat cooked flying fish roe and add it after the custard is cooked.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: "2026-09-29"
 ingredients:
-- name: egg
-  amount: "1"
-  unit: pc
+- name: Eggs
+  amount: '2'
+  unit: large
   isCore: true
-- name: flying fish roe
-  amount: "30"
+- name: Broth
+  amount: '200'
+  unit: ml
+  isCore: true
+- name: Cheddar cheese
+  amount: '1'
+  unit: slice
+  isCore: true
+- name: Ready-to-eat cooked flying fish roe
+  amount: '30'
   unit: g
   isCore: true
+- name: Scallion
+  amount: '1'
+  unit: stalk
+  isCore: false
 seasonings:
-- name: cheddar cheese slice
-  amount: "1"
-  unit: slice
-- name: kelp broth
-  amount: "400"
-  unit: ml
-- name: salt
-  amount: "0.25"
-  unit: pinch
-- name: toasted sesame oil
-  amount: "1"
-  unit: tbsp
+- name: Toasted sesame oil
+  amount: '1'
+  unit: tsp
+- name: Salt
+  amount: a pinch, depending on stock
+  unit: ''
 ---
 
-This home version recreates the layered broth and generous plating associated with Dubu House korean appetizers.
-
+This uses two eggs and 200 ml broth. Heat the center to at least 160°F (71°C), and use ready-to-eat cooked roe added after steaming. Texture and timing still need kitchen validation.

@@ -1,96 +1,84 @@
 ---
-title: Avocado Local Sausage Danish Open
+title: Avocado and Sausage Danish Sandwich
 recipeId: sf-avocado-local-sausage-danish-open
-description: "Second Floor Cafe-inspired open sandwiches with restaurant-style portions and 丹麥麵包、酪梨、香腸、水波蛋、辣椒粉."
+description: Danish pastry, avocado, pork sausage, and fully cooked poached eggs make two portions. Check the sausage temperature before assembling.
 coverImage: /images/recipes/sf-avocado-local-sausage-danish-open.webp
-servings: 1
+servings: 2
 prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: Medium
-calories: 520
-protein: 24
-fat: 26
-carbs: 38
 category: "Open sandwiches"
 scenarios:
 - Cooking for one
-- 10-minute meals
 equipment:
-- Skillet
 - Oven
+- Skillet
+- Saucepan
+- Slotted spoon
+- Food thermometer
 tags:
 - Restaurant replica
 - Open sandwiches
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 酪梨 Local 香腸／丹麥 Open
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+intro: Danish pastry, avocado, pork sausage, and fully cooked poached eggs make two portions. Check the sausage temperature before assembling.
 steps:
-- "Slice 2 Danish pastries crosswise; butter the cut sides and bake at 180°C / 350°F 5–7 minutes until golden and lightly crisp."
-- Score 140 g sausage in a few places; in a skillet over medium-low heat, sear 6–8 minutes, turning often, until golden outside and cooked through; slice on a bias and set aside.
-- Pit and thinly slice 1 avocado; in a small bowl, whisk 1 tbsp olive oil, 1/3 tsp sea salt, 1/4 tsp cracked black pepper, and 1/2 tsp chili powder into a seasoned oil.
-- "Bring a saucepan of water to a boil with a splash of vinegar; reduce to low, stir a whirlpool, crack in 2 eggs, and poach about 3 minutes until whites set and yolks runny."
-- Brush half the seasoned oil on toasted Danish; layer avocado and sausage slices.
-- Top with 2 poached eggs, drizzle remaining seasoned oil, and serve hot.
+- Split the Danish pastries and brush the cut sides with butter. Toast at 180°C for 4–5 minutes until warm and crisp.
+- Cook the raw pork sausages over medium-low heat for about 8–10 minutes, turning. Verify at least 71°C in the thickest center with a thermometer; continue cooking and recheck if needed. Do not rely on color. Slice after cooking.
+- Pit and slice the avocado.
+- Bring water to a boil, add vinegar, then lower the heat. Slide in the eggs one at a time and cook until both whites and yolks are firm. Drain.
+- Layer avocado, sausage, and fully cooked poached eggs on the warm Danish pastries.
+- Drizzle with olive oil and season with salt, pepper, and chili powder. Serve while the pastry is crisp.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 酸種麵包
-- 丹麥麵包
+- Drain the poached eggs well before putting them on the bread.
+- Bacon, sausage, and smoked salmon are already salty; taste before adding the listed salt.
+storage: Eat assembled sandwiches promptly. Store bread and toppings separately. Refrigerate egg, meat, and fish at 4°C or below within 2 hours, or 1 hour above 32°C, and follow package use-by dates. Reheat cooked egg and meat to 74°C the next day; eat cut avocado the same day.
+substitutions: []
 relatedIngredients:
 - 丹麥麵包
 - 酪梨
 - 香腸
 - 水波蛋
-customAdditions:
-- Extra poached egg
-- Balsamic on the side
-faqs:
-- question: What makes this 酪梨 Local 香腸／丹麥 Open feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+customAdditions: []
+faqs: []
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-09'
+updatedAt: "2026-09-29"
 ingredients:
-- name: 丹麥麵包
-  amount: "2"
-  unit: 份
+- name: Danish pastries
+  amount: '2'
+  unit: slices (about 100 g total)
   isCore: true
-- name: 酪梨
-  amount: "1"
-  unit: 顆
+- name: Avocado
+  amount: '1'
+  unit: whole
   isCore: true
-- name: 香腸
-  amount: "140"
-  unit: 公克
+- name: Raw pork sausages
+  amount: '100'
+  unit: g
   isCore: true
-- name: 水波蛋
-  amount: "2"
-  unit: 顆
+- name: Eggs
+  amount: '2'
+  unit: ''
   isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 辣椒粉
-  amount: "1/2"
-  unit: 小匙
+- name: Olive oil
+  amount: '1'
+  unit: tsp
+- name: Unsalted butter
+  amount: '5'
+  unit: g
+- name: White vinegar
+  amount: '1'
+  unit: tsp
+- name: Salt
+  amount: 1/8
+  unit: tsp
+- name: Black pepper
+  amount: 1/8
+  unit: tsp
+- name: Chili powder
+  amount: 1/4
+  unit: tsp
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Danish pastry, avocado, pork sausage, and fully cooked poached eggs make two portions. Check the sausage temperature before assembling.

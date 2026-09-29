@@ -1,108 +1,95 @@
 ---
 title: 石燒拌飯
-description: 參考涓豆腐常見做法還原 石燒拌飯，保留 石鍋飯 系列的湯頭層次、配料比例與上桌份量。
+description: 「石燒拌飯」的家常食材與烹調步驟，份量為 1 人份。
 coverImage: /images/recipes/dh-bibimbap.webp
-servings: 1
-prepTime: 15
-cookTime: 20
-totalTime: 35
+servings: 2
+prepTime: 20
+cookTime: 40
+totalTime: 60
 difficulty: 中等
-calories: 610
-protein: 26
-fat: 18
-carbs: 82
 category: "韓式飯食"
 scenarios:
 - 一人料理
-- 高蛋白料理
 equipment:
-- 石鍋或鑄鐵鍋
-- 平底鍋
+  - 電鍋或湯鍋
+  - 石鍋或鑄鐵鍋
+  - 平底鍋
 tags:
-- 名店還原
-- 石鍋飯
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 石燒拌飯
-  region: 全台連鎖
-intro: 這道 石燒拌飯 還原版，以 白米 為核心，依照餐廳常見的備料、爆香、下鍋與上桌順序撰寫。
+  - 石鍋飯
+intro: 將牛肉、汆燙蔬菜與白飯分別備妥，再放入石鍋加熱並搭配辣醬。
 steps:
-- 將 白米 150 克 洗淨，加清水 360 毫升（或高湯）煮成飯粒分明、口感 Q 彈的白飯，完成後以飯匙輕鬆翻拌散熱氣，保溫備用。
-- 霜降牛肉片 150 克 以 韓式芝麻油 1 大匙 與少許鹽抓醃 10 分鐘；胡蘿蔔 30 克 切細絲，菠菜 50 克 切段，黃豆芽與黑木耳 洗淨備用。
-- 小鍋燒滾水，菠菜汆燙 30 秒撈起擠乾，黃豆芽汆燙 1 分鐘瀝乾；黑木耳切絲後以滾水汆燙 1 分鐘，分裝備用。
-- 平底鍋中火下 韓式芝麻油 1 大匙，將牛肉片炒至熟透起焦香（約 2 分鐘），起鍋；同一鍋依序快炒胡蘿蔔絲（約 1 分鐘）與其他蔬菜，每種以鹽與少許芝麻油調味，分裝備用。
-- 石鍋內壁均勻刷上 韓式芝麻油 1～2 大匙，鋪入熱白飯並輕壓平整，依色碼排列炒好的肉與蔬菜，中央預留空位。
-- 打入 雞蛋 1 顆，中火加熱石鍋 3～5 分鐘，聽到底部滋滋聲、聞到鍋巴（누릉지）焦香即可關火。
-- 上桌前淋上 韓國辣醬 1 大匙 與 芝麻 0.25 少許，用湯匙由外往內拌勻；若無石鍋，亦可直接在碗中拌勻享用。
-tips:
-- 烹調前請將醬料調和均勻，一次下鍋能確保風味分布完美。
-- 熱鍋熱油能快速鎖住食材水分，維持多汁口感。
-- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
-storage: 石鍋飯建議現做現吃；若要帶走，配料與白飯分開保存。
+  - 白米 150 克洗淨，加約 225 毫升清水（或依電鍋內鍋刻度）煮熟；以飯匙翻鬆，保溫備用。
+  - 霜降牛肉片 150 克以韓式芝麻油 1 大匙與少許鹽抓醃 10 分鐘；胡蘿蔔 30 克切細絲，菠菜 50 克切段；黃豆芽洗淨，乾燥黑木耳 5
+    克以清水浸泡 10 分鐘至軟後切絲。
+  - 小鍋燒滾水，菠菜汆燙 30 秒後撈起擠乾，黃豆芽汆燙 1 分鐘瀝乾，泡軟黑木耳汆燙 1 分鐘，分別備用。
+  - 平底鍋以中火加熱韓式芝麻油 1 大匙，牛肉炒至全熟後取出；同鍋依序快炒胡蘿蔔與蔬菜，以少許鹽和醬油調味。另用鍋煎熟雞蛋，蛋白與蛋黃均完全凝固後備用。
+  - 石鍋內壁均勻刷上韓式芝麻油約 1 大匙，鋪入熱白飯，將牛肉、蔬菜與熟雞蛋分區排好。
+  - 石鍋內壁均勻刷上韓式芝麻油約 1 大匙，鋪入熱白飯，將牛肉、蔬菜與熟雞蛋分區排好。
+  - 上桌前淋上韓國辣醬 1 大匙與芝麻 1 小匙，由外往內拌勻；沒有石鍋時可直接在碗中拌食。
+tips: []
+storage: 剩食請在烹調後 2 小時內分裝、冷藏；再次食用前充分加熱至中心 74°C。
 substitutions:
-- 白米
-- 韓式芝麻油
+  - 白米
+  - 韓式芝麻油
 relatedIngredients:
-- 白米
-- 霜降牛肉片
-- 胡蘿蔔
-- 菠菜
+  - 白米
+  - 霜降牛肉片
+  - 胡蘿蔔
+  - 菠菜
 customAdditions:
-- 蔥花
-- 芝麻
-faqs:
-- question: 如何把 石燒拌飯 做得更像涓豆腐？
-  answer: 先把 石鍋飯 的醬料或湯頭煮到正確濃度，最後再下主要配料與嫩豆腐，最能還原門市口感。
-- question: "蔬菜出水時怎麼辦？"
-  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+  - 蔥花
+  - 芝麻
+faqs: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: '2026-09-29'
 ingredients:
-- name: 白米
-  amount: "150"
-  unit: 克
-  isCore: true
-- name: 霜降牛肉片
-  amount: "150"
-  unit: 克
-  isCore: true
-- name: 胡蘿蔔
-  amount: "30"
-  unit: 克
-  isCore: true
-- name: 菠菜
-  amount: "50"
-  unit: 克
-  isCore: true
-- name: 黃豆芽
-  amount: "1"
-  unit: 個
-  isCore: true
-- name: 黑木耳
-  amount: "1"
-  unit: 個
-  isCore: true
-- name: 雞蛋
-  amount: "1"
-  unit: 顆
-  isCore: true
+  - name: 白米
+    amount: '150'
+    unit: 克
+    isCore: true
+  - name: 霜降牛肉片
+    amount: '150'
+    unit: 克
+    isCore: true
+  - name: 胡蘿蔔
+    amount: '30'
+    unit: 克
+    isCore: true
+  - name: 菠菜
+    amount: '50'
+    unit: 克
+    isCore: true
+  - name: 黃豆芽
+    amount: '50'
+    unit: 克
+    isCore: true
+  - name: 乾燥黑木耳
+    amount: '5'
+    unit: 克
+    isCore: true
+  - name: 雞蛋
+    amount: '1'
+    unit: 顆
+    isCore: true
+  - name: 清水
+    amount: '225'
+    unit: 毫升
+    isCore: false
 seasonings:
-- name: 韓式芝麻油
-  amount: "1"
-  unit: 大匙
-- name: 韓國辣醬
-  amount: "1"
-  unit: 大匙
-- name: 芝麻
-  amount: "0.25"
-  unit: 少許
+  - name: 韓式芝麻油
+    amount: '3'
+    unit: 大匙
+  - name: 韓國辣醬
+    amount: '1'
+    unit: 大匙
+  - name: 芝麻
+    amount: '1'
+    unit: 小匙
+  - name: 醬油
+    amount: '1'
+    unit: 大匙
+  - name: 鹽
+    amount: 少許
+    unit: ''
 ---
-
-石燒拌飯 的在家還原版，重點是還原涓豆腐 石鍋飯 的湯頭或醬料層次，以及餐廳常見 of 2 人份鍋物／主菜份量。
-
-依照步驟先完成醬料或湯底，再組合主食材，就能做出接近門市視覺與風味的還原版。
-
-
-
-

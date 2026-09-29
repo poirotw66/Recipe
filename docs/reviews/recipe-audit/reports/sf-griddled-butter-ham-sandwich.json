@@ -1,8 +1,16 @@
 {
   "slug": "sf-griddled-butter-ham-sandwich",
   "title": "厚烤奶油 Ham 三明治",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.87,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "Aligned the two breads and eggs with a two-serving yield, measured the ham, and removed the unexplained cream drizzle. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
+      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "source": "agent"
+    }
+  ]
 }

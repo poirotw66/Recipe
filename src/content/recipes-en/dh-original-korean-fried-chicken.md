@@ -1,89 +1,81 @@
 ---
-title: Korean Fried Chicken
+title: Classic Korean Fried Chicken
 recipeId: dh-original-korean-fried-chicken
-description: "Dubu House-inspired chef specials recreating 原味韓式炸雞 with restaurant-style broth depth and plating."
+description: Salt-and-pepper chicken thigh is lightly coated, fried in batches, and briefly fried again for a crisp finish with onion and scallion.
 coverImage: /images/recipes/dh-original-korean-fried-chicken.webp
 servings: 2
-prepTime: 25
+prepTime: 40
 cookTime: 20
-totalTime: 45
+totalTime: 60
 difficulty: Advanced
-calories: 720
-protein: 34
-fat: 36
-carbs: 52
 category: "Chef specials"
 scenarios:
-- "Late-night meals"
+- Late-night meals
 equipment:
-- Fryer
-- Griddle or skillet
+- 18 cm deep pot
+- Oil thermometer
+- Wire rack
+- Knife
+- Cutting board
 tags:
-- Restaurant replica
-- Chef specials
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 原味韓式炸雞
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- Korean fried chicken
+intro: This plain fried chicken uses small batches to maintain oil temperature and a thermometer to verify safe doneness.
 steps:
-- Cut boneless chicken thigh 250 g into bite-size pieces (about 3–4 cm); pat the surface thoroughly dry with paper towels.
-- Massage with a pinch of salt, a pinch of black pepper powder, and 1 tbsp toasted sesame oil; refrigerate 30 minutes to marinate.
-- Spread 150 g Korean fried chicken mix in a deep plate; coat each piece evenly, press lightly, and shake off excess flour.
-- Fill the fryer with enough oil and use a kitchen thermometer to confirm 170°C; fry chicken in batches over medium heat about 7 minutes until set on the outside and cooked through inside (avoid crowding to keep oil temperature steady).
-- Drain and rest on a wire rack 3–5 minutes so steam escapes from inside.
-- Raise oil temperature to 185°C; return chicken for a second fry 1.5–2 minutes until golden and crispy, then drain on a wire rack.
-- While hot, sprinkle a pinch of sesame seeds and seasoned pepper salt; serve with onion ½ pc julienned and scallion 1 stalk cut into segments plated separately to match the restaurant original fried chicken style.
+- Cut the chicken into about 3 cm pieces and pat dry. Slice the onion and cut the scallion into short pieces. Keep raw chicken separate from vegetables
+  and wash anything that touched it.
+- Season the chicken with salt and black pepper, cover, and refrigerate for 30 minutes. Spread the coating mix in a shallow dish.
+- Measure 800 ml neutral oil into an 18 cm deep pot and heat to 170°C. Lightly coat chicken in batches, shake off excess, and fry for about 6–8
+  minutes until the thickest piece reaches 74°C. Drain on a wire rack.
+- Raise the oil to 185°C and fry each batch again for 45–60 seconds until crisp and golden. Drain.
+- Sprinkle with sesame seeds and serve with onion and scallion. Never reuse a plate or marinade that contacted raw chicken without washing it.
 tips:
-- "Double-frying is essential. The first fry cooks the meat, and the second fry makes it crispy."
-- Turn off the heat before tossing with the sauce, otherwise, the crispy skin will turn soggy.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
+- Use only a light coating and do not crowd the pot. A wire rack helps keep the crust crisp after frying.
+storage: Refrigerate chicken within 2 hours and use within 3–4 days. Reheat to 74°C at the center; an oven or air fryer helps restore crispness.
 substitutions:
 - boneless chicken thigh
 - Korean fried chicken mix
 relatedIngredients:
-- 去骨雞腿肉
-- 洋蔥
-- 青蔥
-customAdditions:
-- chopped scallions
-- sesame seeds
+- boneless chicken thigh
+- onion
+- scallion
+customAdditions: []
 faqs:
-- question: How do I make this 原味韓式炸雞 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: How do I know the chicken is done?
+  answer: Use a food thermometer to check for at least 74°C (165°F) in the thickest piece; color alone is not enough.
+- question: Can I coat the chicken ahead?
+  answer: It is better to fry soon after coating so the coating does not become damp.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: '2026-09-29'
 ingredients:
 - name: boneless chicken thigh
-  amount: "250"
+  amount: '250'
   unit: g
   isCore: true
 - name: onion
-  amount: "0.5"
+  amount: '0.5'
   unit: pc
   isCore: true
 - name: scallion
-  amount: "1"
+  amount: '1'
   unit: stalk
   isCore: true
 seasonings:
-- name: Korean fried chicken mix
-  amount: "150"
+- name: Korean fried chicken coating mix
+  amount: '60'
   unit: g
 - name: salt
-  amount: pinch
-  unit: ""
-- name: black pepper powder
-  amount: pinch
-  unit: ""
-- name: toasted sesame oil
-  amount: "1"
-  unit: tbsp
+  amount: '0.25'
+  unit: tsp
+- name: black pepper
+  amount: '0.125'
+  unit: tsp
+- name: neutral frying oil
+  amount: '800'
+  unit: ml
+- name: sesame seeds
+  amount: '1'
+  unit: tsp
 ---
 
-This home version recreates the layered broth and generous plating associated with Dubu House chef specials.
-
+This plain fried chicken uses small batches to maintain oil temperature and a thermometer to verify safe doneness.

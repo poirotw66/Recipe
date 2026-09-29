@@ -1,86 +1,87 @@
 ---
-title: Greek style 野炊系炭烤雞肉早午餐 再現レシピ
+title: ギリシャ風グリルチキンのブランチ
 recipeId: sf-greek-campfire-grilled-chicken-brunch
-description: Second Floor Cafe 風に 炭烤雞肉、皮塔餅、沙拉 を組み合わせた、店の一皿を意識した再現レシピです。
+description: 「ギリシャ風グリルチキンのブランチ」を家庭で作るレシピです。分量に合わせた下準備と調理手順を紹介します。
 coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.webp
 servings: 1
-prepTime: 20
-cookTime: 18
-totalTime: 38
+prepTime: 15
+cookTime: 20
+totalTime: 35
 difficulty: 普通
-calories: 690
-protein: 38
-fat: 28
-carbs: 48
 category: "林口限定"
 scenarios:
-- 一人分の料理
+  - 平日の時短料理
+  - 一人分の料理
 equipment:
-- フライパン
-- オーブン
+  - フライパン
+  - 小鍋
+  - オーブン
 tags:
-- 名店再現
-- 林口限定
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: Greek style 野炊系炭烤雞肉早午餐
-  region: 全台連鎖
-intro: Second Floor Cafe でよく見られる組み立て方を参考にし、皿全体の流れごと再現するイメージで作ります。
+  - 林口限定
+intro: 主な食材を安全な状態まで加熱してからソースと付け合わせを仕上げます。厚みに応じて加熱時間を調整してください。
 steps:
-- 炭烤雞肉 180gが冷蔵の場合は常温に戻す。皮塔餅 2份とサラダ 適量を洗って水気を切り、用意しておく。
-- フライパンまたは180℃のオーブンで皮塔餅を2～3分加熱し、外側が軽く焦げて中が柔らかい状態にし、切っておく。
-- 予熱したフライパンに炭烤雞肉を入れ、中火で両面各2～3分、表面が香ばしく中心まで熱くなるまで焼き、スライスする。
-- サラダ 適量を大きなボウルに入れ、オリーブオイル 大さじ1/2、海塩 小さじ1/6、黒胡椒 少々を加え、軽く和える。
-- 大きな丸皿に皮塔餅、炭烤雞肉のスライス、和えたサラダを分けて盛る。
-- 残りのオリーブオイル 大さじ1/2を鶏肉にかけ、海塩 小さじ1/3と黒胡椒 小さじ1/4を振る。
-- 各パーツの温度を確認し、熱いうちに提供する。ギリシャ風ブランチの分け盛り感を保つ。
+  - 鶏肉の水気を拭き、塩、こしょう、オレガノをまぶします。きゅうりを切り、ミニトマトを半分にし、ヨーグルトにレモン汁少々を混ぜます。
+  - フライパンまたはグリルパンにオリーブオイルを熱し、中火で鶏肉を片面5～7分ずつ焼きます。最も厚い部分が74°Cになったら取り出し、3分休ませます。
+  - ピタパンを表示どおりに温め、鶏肉を切り分けます。
+  - 鶏肉、野菜、ピタパンを盛り、レモンヨーグルトソースを添えてください。
 tips:
-- 主役の具材とソースは別々に完成させ、最後に盛り付けると食感の差が残せます。
-- 冷たい付け合わせと温かい主菜は最後まで分けておくと、店らしい仕上がりになります。
-- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
-storage: できれば当日中がおすすめ。保存する場合は具材とソースを分けて冷蔵し、食べる前にやさしく温め直します。
+  - 具材を先に準備し、卵は最後に調理します。半熟にする場合は殺菌済み卵を使ってください。
+  - 主な食材を安全な状態まで加熱してからソースと付け合わせを仕上げます。厚みに応じて加熱時間を調整してください。
+storage: できたてがおすすめです。残りは調理後2時間以内に冷蔵し、3～4日以内に食べ切ってください。再加熱する場合は中心まで74°Cに加熱します。生野菜、揚げ物、半熟卵は食感を保つため別々に保存してください。
 substitutions:
-- 皮塔餅
-- 櫛瓜
+  - ピタパン
+  - ズッキーニ
 relatedIngredients:
-- 炭烤雞肉
-- 皮塔餅
-- 沙拉
+  - グリルチキン
+  - ピタパン
+  - サラダ野菜
 customAdditions: []
-faqs:
-- question: Greek style 野炊系炭烤雞肉早午餐 を店っぽく仕上げるコツは？
-  answer: 主役の具材を先に整え、最後にソースをまとわせてから盛り付けると、レストランらしい厚みが出ます。
-- question: "主材料をパサつかせないコツは？"
-  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 炭烤雞肉
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 皮塔餅
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 沙拉
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: 鶏むね肉
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: ピタパン
+    amount: "1"
+    unit: 枚
+    isCore: true
+  - name: きゅうり
+    amount: "60"
+    unit: g
+    isCore: true
+  - name: ミニトマト
+    amount: "80"
+    unit: g
+    isCore: true
+  - name: プレーンヨーグルト
+    amount: "40"
+    unit: g
+    isCore: true
+  - name: レモン
+    amount: 1/2
+    unit: 個
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: オリーブオイル
+    amount: "1"
+    unit: 大さじ
+    isCore: true
+  - name: 乾燥オレガノ
+    amount: 1/2
+    unit: 小さじ
+    isCore: true
+  - name: 塩
+    amount: 1/4
+    unit: 小さじ
+    isCore: true
+  - name: 黒こしょう
+    amount: 1/8
+    unit: 小さじ
+    isCore: true
+faqs:
+  - question: 卵を先に調理できますか？
+    answer: ほかの材料は準備できますが、卵は提供直前に好みの安全な固さに調理してください。
 ---
-
-この再現版は、Second Floor Cafe らしいボリューム感と重ねた食感を意識して組み立てています。
-
-主役の具材、ソース、盛り付けの順で仕上げると、店で出てくるような完成度に近づけます。
-

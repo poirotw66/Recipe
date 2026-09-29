@@ -1,93 +1,71 @@
 ---
 title: Acai Berry Yogurt Bowl
 recipeId: sf-acai-berry-yogurt-bowl
-description: "Second Floor Cafe-inspired light plates with restaurant-style portions and 巴西莓、綜合莓果、香蕉、穀物、堅果."
+description: A chilled bowl of açaí, plain yogurt, berries, and banana, finished with crunchy granola and nuts.
 coverImage: /images/recipes/sf-acai-berry-yogurt-bowl.webp
 servings: 1
-prepTime: 20
-cookTime: 12
-totalTime: 32
+prepTime: 15
+cookTime: 0
+totalTime: 15
 difficulty: Easy
-calories: 350
-protein: 24
-fat: 18
-carbs: 20
 category: "Light plates"
 scenarios:
 - Cooking for one
-- "Light & lean meals"
 equipment:
-- Skillet
+- Blender
 - Salad bowl
 tags:
-- Restaurant replica
-- Light plates
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 巴西莓果優格碗
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+- Breakfast
+- Light meal
+intro: This bowl layers plain yogurt and açaí with fruit, granola, and nuts. It is a home-style combination and does not claim to recreate a specific restaurant recipe.
 steps:
-- Rinse and drain 巴西莓 150 g and 綜合莓果 150 g; peel 香蕉 150 g and slice on the bias—half as rounds, half diced, kept separate.
-- Spread 穀物 80 g on a baking sheet; bake at 160°C 8 minutes until golden and crisp; cool. Chop 堅果 30 g finely.
-- Blend 巴西莓 with banana dice and one-third of the mixed berries until thick and stackable (add 1–2 tbsp cold water if too thick).
-- Pour açaí puree into a deep glass bowl and smooth the base to about 2 cm thick.
-- Top with remaining berries and banana rounds, arranging from the rim toward the center for visual layers.
-- Scatter toasted grains and nuts in separate zones beside the fruit; add grains at the last moment to stay crisp.
-- Drizzle 橄欖油 1.5 tbsp lightly and sprinkle 海鹽 1/3 tsp; serve while grains are still crunchy.
+- Use 100 g ready-to-eat açaí puree; thaw frozen puree according to the package. Slice 60 g banana and rinse and drain 75 g mixed berries.
+- Blend the açaí puree with 120 g plain yogurt and half the banana. Spoon into a bowl.
+- Top with the berries and remaining banana, then add 15 g ready-to-eat granola and 5 g nuts. Serve promptly.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Spread chilled rice or cooked noodles before cooking so they separate instead of clumping and take on sauce evenly.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 綜合生菜
-- 花椰菜飯
+- Partially thaw frozen açaí so it blends more easily.
+- Add granola and nuts just before serving to keep them crunchy.
+storage: Eat the assembled yogurt bowl promptly. You can refrigerate the berry-yogurt base without granola or nuts and assemble it the same day.
+substitutions: []
 relatedIngredients:
 - 巴西莓
 - 綜合莓果
 - 香蕉
 - 穀物
-customAdditions: []
 faqs:
-- question: What makes this 巴西莓果優格碗 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "Can I prepare this ahead of time?"
-  answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
+- question: What kind of yogurt should I use?
+  answer: Plain unsweetened yogurt pairs well with the fruit. Greek yogurt makes a thicker base.
+- question: Can I prepare it ahead?
+  answer: Blend and chill the berry-yogurt base ahead, then add the granola and nuts just before serving.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-09'
+updatedAt: "2026-09-29"
 ingredients:
-- name: 巴西莓
-  amount: "150"
-  unit: 公克
+- name: Ready-to-eat açaí puree
+  amount: '100'
+  unit: g
   isCore: true
-- name: 綜合莓果
-  amount: "150"
-  unit: 公克
+- name: Plain unsweetened yogurt
+  amount: '120'
+  unit: g
   isCore: true
-- name: 香蕉
-  amount: "150"
-  unit: 公克
+- name: Mixed berries
+  amount: '75'
+  unit: g
   isCore: true
-- name: 穀物
-  amount: "80"
-  unit: 公克
+- name: Banana
+  amount: '60'
+  unit: g
   isCore: true
-- name: 堅果
-  amount: "30"
-  unit: 公克
+- name: Ready-to-eat granola
+  amount: '15'
+  unit: g
+  isCore: true
+- name: Nuts
+  amount: '5'
+  unit: g
   isCore: false
-seasonings:
-- name: 橄欖油
-  amount: "1.5"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
+seasonings: []
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+This single serving weighs about 375 g, using ready-to-eat açaí, yogurt, fruit, and modest crunchy toppings. It is not weight-loss or medical nutrition advice and does not represent a restaurant recipe.

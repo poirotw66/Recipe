@@ -1,8 +1,21 @@
 {
   "slug": "dh-creamy-onion-korean-fried-chicken",
-  "title": "洋蔥白醬韓式炸雞",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.88,
+  "coverage": [
+    "zh-TW",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "The revised recipe has not been independently cooked. Timing and final texture remain editorial estimates, and the cross-locale wording has not been validated in a home kitchen.",
+      "suggested_fix": "Cook this exact four-locale recipe in a home kitchen and update time or texture guidance only when observed results support the change.",
+      "source": "agent"
+    }
+  ]
 }

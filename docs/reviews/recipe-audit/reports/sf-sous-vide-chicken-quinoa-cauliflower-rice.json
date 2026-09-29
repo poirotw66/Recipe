@@ -1,8 +1,15 @@
 {
   "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
-  "title": "舒肥雞藜麥花椰飯",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.9,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
+      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "source": "agent"
+    }
+  ]
 }

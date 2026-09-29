@@ -1,95 +1,83 @@
 ---
-title: Ginseng Chicken Soup
+title: Ginseng and Sticky Rice Chicken Soup
 recipeId: dh-ginseng-chicken-clay-pot
-description: "Dubu House-inspired korean mains recreating 人蔘砂鍋雞 with restaurant-style broth depth and plating."
+description: A home-style whole-chicken soup with ginseng, jujubes, and sticky rice. Verify the chicken and filling with a thermometer.
 coverImage: /images/recipes/dh-ginseng-chicken-clay-pot.webp
 servings: 2
-prepTime: 22
-cookTime: 22
-totalTime: 44
+prepTime: 35
+cookTime: 90
+totalTime: 125
 difficulty: Medium
-calories: 640
-protein: 30
-fat: 26
-carbs: 58
 category: "Korean mains"
 scenarios:
-- "High-protein meals"
+- High-protein meals
 equipment:
-- Skillet
-- Pot
+- Soup pot
+- Food thermometer
 tags:
-- Restaurant replica
-- Korean mains
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 人蔘砂鍋雞
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- Home cooking
+- Korean soup
+intro: This is a home-style ginseng chicken soup. Check that both the thickest part of the chicken and the rice filling reach 165°F (74°C).
 steps:
-- Clean 1 whole chicken inside and out and pat dry; trim excess fat. Scrub and slice 1 fresh Korean ginseng root, pit 4 red dates, cut napa cabbage 200 g into sections, and peel 1 garlic bulb into cloves.
-- Soak glutinous rice 50 g in cold water 30 minutes and drain. Stuff into the chicken cavity and seal with toothpicks or kitchen twine to keep rice from leaking.
-- Add about 800 ml water or broth to a clay pot or thick soup pot. Add the chicken, ginseng, red dates, napa cabbage, and garlic. Bring to a boil over high heat and skim foam.
-- Reduce to medium-low, cover, and maintain a gentle simmer 35–40 minutes. Avoid opening the lid often to preserve the broth aroma.
-- Insert a skewer into the thickest part of the thigh; clear juices mean it is done. Season with a pinch of salt and a pinch of black pepper to taste.
-- Serve whole or cut into pieces with the broth; dipping sauce optional. The stuffed glutinous rice is best eaten while hot.
+- Rinse and soak 50 g glutinous rice for 30 minutes, then drain. Do not rinse raw chicken; check the cavity and pat dry. Scrub the ginseng, pit the jujubes, cut the cabbage, and peel the garlic.
+- Loosely fill the chicken cavity with rice; do not pack it tightly. Tie the opening closed. Add 1.5 L water, chicken, ginseng, jujubes, cabbage, and garlic to a soup pot.
+- Allow about 10–15 minutes to bring the pot to a boil. Skim, cover, and simmer gently for about 60–75 minutes. Check the thickest breast, innermost thigh and wing, and center of the rice filling with a food thermometer without touching bone. Every site must reach at least 74°C; cook longer and recheck if needed.
+- Season with salt and pepper. Cut the chicken and serve with the broth and rice. Wash and sanitize surfaces and utensils that contacted raw chicken.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
-substitutions:
-- whole Cornish hen
-- salt
+- Use a deep pot that fits the chicken; add hot water if needed to nearly cover it.
+- Timing assumes an 800–1,000 g small chicken. Larger birds need longer. Do not pack the rice tightly or judge doneness from juice color.
+storage: Cut leftover chicken into smaller portions and divide the rice and soup into shallow containers. Refrigerate at 4°C or below within 2 hours, or 1 hour above 32°C; do not wait for the whole pot to cool completely. Eat within 3 days and reheat to 74°C throughout.
+substitutions: []
 relatedIngredients:
 - 全雞
 - 糯米
-- 新鮮高麗人蔘
+- 新鮮人蔘
 - 紅棗
-customAdditions:
-- chopped scallions
-- sesame seeds
+customAdditions: []
 faqs:
-- question: How do I make this 人蔘砂鍋雞 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: Does the rice filling also need a temperature check?
+  answer: Yes. The rice contacts raw chicken and its center must also reach 74°C. If the chicken is cooked but the filling is not, keep cooking.
+- question: Why does this take longer than a quick soup?
+  answer: The estimate includes 30 minutes of rice soaking, bringing the pot to a boil, and simmering a whole chicken. Larger birds or lower heat may take longer; use the thermometer, not the clock, to judge doneness.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: "2026-09-29"
 ingredients:
-- name: whole chicken
-  amount: "1"
-  unit: whole
+- name: Small whole chicken (giblets removed, 800–1,000 g)
+  amount: '1'
+  unit: bird
   isCore: true
-- name: glutinous rice
-  amount: "50"
+- name: Glutinous rice
+  amount: '50'
   unit: g
   isCore: true
-- name: fresh Korean ginseng
-  amount: "1"
+- name: Fresh ginseng
+  amount: '1'
   unit: root
   isCore: true
-- name: red dates
-  amount: "4"
-  unit: pcs
+- name: Jujubes
+  amount: '4'
+  unit: pieces
   isCore: true
-- name: napa cabbage
-  amount: "200"
+- name: Napa cabbage
+  amount: '200'
   unit: g
   isCore: true
-- name: garlic bulb
-  amount: "1"
-  unit: bulb
+- name: Garlic
+  amount: '1'
+  unit: clove
+  isCore: true
+- name: Water
+  amount: '1.5'
+  unit: L
   isCore: true
 seasonings:
 - name: salt
-  amount: "0.25"
-  unit: pinch
+  amount: to taste
+  unit: ''
 - name: black pepper
-  amount: "0.25"
-  unit: pinch
+  amount: to taste
+  unit: ''
 ---
 
-This home version recreates the layered broth and generous plating associated with Dubu House korean mains.
-
+This home-style soup uses a small whole chicken and is not a restaurant-supplied recipe. The estimate includes preparation, rice soaking, heating, and simmering; the rice-cake version also allows time for cooking the rice cakes at the end. Kitchen testing is still pending. Check chicken and rice doneness with a thermometer.

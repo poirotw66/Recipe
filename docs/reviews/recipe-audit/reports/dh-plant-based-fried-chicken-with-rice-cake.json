@@ -1,8 +1,16 @@
 {
   "slug": "dh-plant-based-fried-chicken-with-rice-cake",
-  "title": "植感炸雞年糕",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "title": "植物肉炸雞辣炒年糕",
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 88,
+  "issues": [
+    {
+      "type": "Safety_Risk",
+      "severity": "Warning",
+      "description": "補列炒油與實際用水範圍，依包裝指示處理植物肉與年糕，提供防黏順序及回熱方法，移除來源不明店家仿作描述。 四語內容已校準配料數量與數字份量；廚房試煮及成品影像核對仍待完成，因此維持 Warning、不標記 Pass。",
+      "suggested_fix": "安排實際試煮，記錄熟度、時間、口感與份量；另核對成品影像符合本配方後再重新審查。",
+      "source": "agent"
+    }
+  ]
 }

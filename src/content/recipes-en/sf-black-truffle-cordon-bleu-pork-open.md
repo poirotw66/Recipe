@@ -1,94 +1,108 @@
 ---
-title: Black Truffle Cordon Bleu Pork Open
+title: Black Truffle Cordon Bleu Pork Toast
 recipeId: sf-black-truffle-cordon-bleu-pork-open
-description: "Second Floor Cafe-inspired open sandwiches with restaurant-style portions and 歐包、藍帶豬排、黑松露醬、水波蛋."
+description: A ham-and-cheese stuffed pork cutlet served on toasted baguette
+  with a thin layer of truffle mayonnaise; both meat and filling must reach 74°C
+  / 165°F.
 coverImage: /images/recipes/sf-black-truffle-cordon-bleu-pork-open.webp
 servings: 1
-prepTime: 18
-cookTime: 14
-totalTime: 32
+prepTime: 15
+cookTime: 30
+totalTime: 45
 difficulty: Medium
-calories: 590
-protein: 32
-fat: 26
-carbs: 38
-category: "Open sandwiches"
+category: "Brunch"
 scenarios:
-- Cooking for one
-- 10-minute meals
+  - Cooking for one
 equipment:
-- Skillet
-- Oven
+  - Skillet
+  - Oven
+  - Food thermometer
 tags:
-- Restaurant replica
-- Open sandwiches
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 黑松露厚切藍帶豬／歐包 Open
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Home cooking
+intro: For this open sandwich, wrap ham and cheese in pork loin, bread and brown
+  it, then bake until both the pork and the center of the filling reach 74°C /
+  165°F. Use the truffle mayonnaise sparingly.
 steps:
-- "Slice 2 baguette rolls crosswise; butter the cut sides and bake at 180°C / 350°F 5–7 minutes until golden and lightly crisp."
-- "Rest 220 g cordon bleu pork at room temperature 10 minutes; season both sides with a pinch of sea salt and black pepper; skillet over medium heat with olive oil, sear 4–5 minutes per side until golden and cooked through; rest 2 minutes, then slice on a bias."
-- In a small bowl, whisk 3 tbsp black truffle paste, 3 tbsp truffle sauce, 1 tbsp olive oil, 1/3 tsp sea salt, and 1/4 tsp cracked black pepper into a truffle sauce.
-- "Bring a saucepan of water to a boil with a splash of vinegar; reduce to low, stir a whirlpool, crack in 2 eggs, and poach about 3 minutes until yolks stay runny."
-- Spread one-third of the truffle sauce on toasted baguette; layer cordon bleu pork slices.
-- Top with 2 poached eggs, drizzle remaining truffle sauce, and serve hot.
+  - Heat the oven to 200°C / 400°F. Cover the pork with plastic wrap and gently
+    pound to about 1 cm thick. Season both sides, place the ham and cheese in
+    the center, fold the pork over, and press the edges closed.
+  - Coat the pork in flour, beaten egg, and breadcrumbs. Heat the oil in a
+    skillet over medium heat and brown both sides, about 2 minutes per side.
+  - Transfer to a tray and bake about 10–15 minutes. Insert a thermometer from
+    the side into the thickest pork section and the center of the ham-and-cheese
+    filling. Remove only when both reach 74°C / 165°F; continue baking and
+    recheck if either is lower.
+  - Toast the baguette slices until lightly crisp. Mix the mayonnaise with the
+    truffle paste, spread a thin layer on the bread, and top with sliced pork to
+    serve.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 酸種麵包
-- 丹麥麵包
+  - "This is stuffed pork: both the thickest pork section and the center of the
+    filling must reach 74°C / 165°F. The 63°C / 145°F plus rest guidance for
+    intact, unstuffed pork does not apply."
+storage: Refrigerate the cooked pork and bread separately within 2 hours and use
+  within 3 days. Reheat until both the pork and filling centers reach 74°C /
+  165°F.
+substitutions: []
 relatedIngredients:
-- 歐包
-- 藍帶豬排
-- 水波蛋
-customAdditions:
-- Extra poached egg
-- Balsamic on the side
+  - Thin pork loin cutlet
+  - Ham
+  - Cheese slice
+  - Baguette
+customAdditions: []
 faqs:
-- question: What makes this 黑松露厚切藍帶豬／歐包 Open feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: Can I use a frozen cordon bleu cutlet?
+    answer: Yes. Follow its package directions and confirm that both the pork and
+      filling center reach 74°C / 165°F. This recipe’s timing does not apply.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 歐包
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 藍帶豬排
-  amount: "220"
-  unit: 公克
-  isCore: true
-- name: 水波蛋
-  amount: "2"
-  unit: 顆
-  isCore: true
+  - name: Thin pork loin cutlet
+    amount: "180"
+    unit: g
+    isCore: true
+  - name: Ham
+    amount: "1"
+    unit: slice
+    isCore: true
+  - name: Cheese slice
+    amount: "1"
+    unit: slice
+    isCore: true
+  - name: Baguette
+    amount: "2"
+    unit: slices
+    isCore: true
+  - name: Egg
+    amount: "1"
+    unit: ""
+    isCore: false
+  - name: Flour
+    amount: "2"
+    unit: tbsp
+    isCore: false
+  - name: Breadcrumbs
+    amount: "30"
+    unit: g
+    isCore: false
+  - name: Mayonnaise
+    amount: "1"
+    unit: tbsp
+    isCore: false
+  - name: Black truffle paste
+    amount: "1"
+    unit: tsp
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 黑松露醬
-  amount: "3"
-  unit: 大匙
-- name: 松露醬
-  amount: "3"
-  unit: 大匙
+  - name: Olive oil
+    amount: "1"
+    unit: tbsp
+  - name: Salt
+    amount: 1/4
+    unit: tsp
+  - name: Black pepper
+    amount: to taste
+    unit: ""
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Ham and cheese are folded into thin pork loin, breaded, browned, and finished in the oven. Check the thickest pork section and the center of the filling; both must reach 74°C / 165°F before serving on toast.

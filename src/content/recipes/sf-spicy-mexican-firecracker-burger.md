@@ -1,104 +1,79 @@
 ---
-title: 老墨辣鞭炮漢堡
-description: 參考貳樓 Second Floor Cafe 常見做法，以 牛肉排、起司、炸墨西哥辣椒、BBQ 醬、薯塊 還原 老墨辣鞭炮漢堡 的餐廳份量與風味層次。
+title: 墨西哥辣椒起司牛肉堡
+description: 牛絞肉肉餅搭配起司、墨西哥辣椒與生菜；肉餅中心需達 71°C。
 coverImage: /images/recipes/sf-spicy-mexican-firecracker-burger.webp
 servings: 1
-prepTime: 18
+prepTime: 15
 cookTime: 15
-totalTime: 33
+totalTime: 30
 difficulty: 中等
-calories: 850
-protein: 32
-fat: 46
-carbs: 58
 category: "漢堡三明治"
 scenarios:
-- 一人料理
-- 便當菜
+  - 一人料理
 equipment:
-- 平底鍋
-- 烤箱
+  - 平底鍋
+  - 食物溫度計
 tags:
-- 名店還原
-- 手抓主餐
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 老墨辣鞭炮漢堡
-  region: 全台連鎖
-intro: 這道 老墨辣鞭炮漢堡 參考貳樓 Second Floor Cafe 常見做法，會先把 牛肉排、起司、炸墨西哥辣椒 分段處理，再依 手抓主餐 的出餐邏輯完成整盤。
+  - 家常料理
+intro: 以牛絞肉肉餅、起司、墨西哥辣椒和新鮮蔬菜製作辛香漢堡。牛絞肉中心達 71°C 才能起鍋，不以顏色判斷。
 steps:
-- 將 牛肉排 180公克、起司 40公克、炸墨西哥辣椒 適量、薯塊 250公克、漢堡麵包 2份 分區備妥；生菜、番茄洗切好。
-- 平底鍋中火倒入 橄欖油 1大匙 預熱至微冒煙；牛肉排兩面撒 海鹽 1/3小匙、黑胡椒碎 1/4小匙、辣椒碎 1/2小匙。
-- 牛肉下鍋靜置 3 分鐘至底部焦香，翻面續煎 2～3 分鐘至熟透；起鍋前鋪上 起司 40公克，蓋鍋悶 30 秒至微融。
-- 漢堡麵包切面朝下同鍋乾煎 1～2 分鐘至焦黃微脆；薯塊氣炸或油炸至金黃備用。
-- 下層麵包內側抹上 橄欖油 少許 與 BBQ 醬 2大匙，依序疊生菜、番茄片與熱牛肉排。
-- 放上 炸墨西哥辣椒 適量，再蓋上層麵包並輕壓固定。
-- 漢堡對切，附上熱薯塊盛盤，趁熱享用老墨辣鞭炮漢堡的辣勁層次。
+  - 牛絞肉輕壓成略大於麵包的肉餅，中央按出淺凹；兩面撒鹽、黑胡椒和辣椒粉。
+  - 平底鍋中火加油，放入肉餅煎約 3～4 分鐘後翻面。用溫度計從側面測量中心，達 71°C 後放上起司；未達時續煎並再測。
+  - 肉餅起鍋後靜置 1～2 分鐘。麵包切面乾煎至微脆，下層依序放生菜、番茄、肉餅、起司和墨西哥辣椒。
+  - 蓋上麵包趁熱食用；可按喜好增減辣椒片。
 tips:
-- 手抓主餐要先把主肉排煎好，再讓麵包吸收少量奶油或肉汁，整體更像店裡現做版本。
-- 醬料別一次下太多，維持可手拿的結構會更接近 Big Bite 系列。
-- 蔬菜下鍋前盡量瀝乾，避免鍋內水分過多而變成燜煮，口感會更清脆。
-storage: 建議現做現吃；麵包與熱主料分開保存，可避免回溫後濕軟。
-substitutions:
-- 漢堡麵包
-- 布里歐麵包
+  - 牛絞肉安全熟度需用溫度計確認中心 71°C；肉餅顏色、肉汁或表面焦化都不能取代測溫。
+storage: 熟肉餅與蔬菜分開密封冷藏，2 小時內冷藏並於 3 天內食用；回熱時中心達 74°C。
+substitutions: []
 relatedIngredients:
-- 牛肉排
-- 起司
-- 炸墨西哥辣椒
-- 薯塊
-customAdditions:
-- 辣椒碎加量
-- 自製辣醬
+  - 牛絞肉
+  - 漢堡麵包
+  - 起司片
+customAdditions: []
 faqs:
-- question: 想把 老墨辣鞭炮漢堡 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 牛肉排與起司 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "蔬菜出水時怎麼辦？"
-  answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+  - question: 可以做成不辣的版本嗎？
+    answer: 可以，省略辣椒粉與墨西哥辣椒；肉餅仍需煎至中心 71°C。
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 牛肉排
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 起司
-  amount: "40"
-  unit: 公克
-  isCore: true
-- name: 炸墨西哥辣椒
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 薯塊
-  amount: "250"
-  unit: 公克
-  isCore: true
-- name: 漢堡麵包
-  amount: "2"
-  unit: 份
-  isCore: false
+  - name: 牛絞肉
+    amount: "160"
+    unit: 公克
+    isCore: true
+  - name: 漢堡麵包
+    amount: "1"
+    unit: 個
+    isCore: true
+  - name: 起司片
+    amount: "1"
+    unit: 片
+    isCore: true
+  - name: 墨西哥辣椒
+    amount: "2"
+    unit: 片
+    isCore: false
+  - name: 生菜
+    amount: "2"
+    unit: 片
+    isCore: false
+  - name: 番茄
+    amount: "2"
+    unit: 片
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: BBQ 醬
-  amount: "2"
-  unit: 大匙
-- name: 辣椒碎
-  amount: "1/2"
-  unit: 小匙
+  - name: 食用油
+    amount: "1"
+    unit: 小匙
+  - name: 鹽
+    amount: 1/4
+    unit: 小匙
+  - name: 辣椒粉
+    amount: 1/4
+    unit: 小匙
+  - name: 黑胡椒
+    amount: 少許
+    unit: ""
 ---
 
-老墨辣鞭炮漢堡 的在家還原版，重點是把 牛肉排、起司、炸墨西哥辣椒 做出分層口感，並保留貳樓常見的 手抓主餐 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-
+牛絞肉肉餅先煎至中心71°C，再和起司、墨西哥辣椒及蔬菜組成漢堡。辣椒可依個人耐受度調整。

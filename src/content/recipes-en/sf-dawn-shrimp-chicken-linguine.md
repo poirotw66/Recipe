@@ -1,100 +1,107 @@
 ---
-title: Dawn Shrimp Chicken Linguine
+title: Chicken and Shrimp Tomato Cream Pasta
 recipeId: sf-dawn-shrimp-chicken-linguine
-description: "Second Floor Cafe-inspired rice & pasta with restaurant-style portions and 曙光奶油醬、雞肉、蝦、炙燒紅椒、起司絲."
+description: "A measured home recipe for Chicken and Shrimp Tomato Cream Pasta,
+  with clear preparation and cooking steps."
 coverImage: /images/recipes/sf-dawn-shrimp-chicken-linguine.webp
 servings: 1
-prepTime: 18
-cookTime: 18
-totalTime: 36
+prepTime: 15
+cookTime: 15
+totalTime: 30
 difficulty: Medium
-calories: 760
-protein: 38
-fat: 26
-carbs: 84
 category: "Rice & pasta"
 scenarios:
-- High-protein meals
-- Cooking for one
+  - Cooking for one
+  - High-protein meals
 equipment:
-- Skillet
-- Pot
+  - Skillet
+  - Pot
 tags:
-- Restaurant replica
-- Rice & pasta
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 曙光汁鮮蝦雞肉麵
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Rice & pasta
+intro: "Boil the pasta just shy of tender and reserve some pasta water, then
+  finish the sauce in the pan. Return seafood or meat only at the end to avoid
+  overcooking."
 steps:
-- "Prep: cut chicken 180 g into about 2 cm cubes and pat dry; peel and devein shrimp as needed and pat dry. Slice roasted red pepper as needed; shred cheese 40 g; mince garlic 2 cloves."
-- Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook linguine 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water.
-- Heat 1 Tbsp olive oil in a skillet over medium heat; season the chicken with 1/4 tsp cracked black pepper, lay it in a single layer, and sear about 3 minutes until golden. Flip and cook 2 minutes more until cooked through; set aside.
-- Add a little more oil to the same pan; stir-fry shrimp over medium-high heat until pink and curled, about 1.5 minutes; combine with chicken and keep warm.
-- Sauté minced garlic and roasted red pepper strips over medium heat for 1 minute to release sweet pepper aroma.
-- Add Dawn cream sauce 3 Tbsp and 3–4 Tbsp pasta water; stir over low heat until sauce simmers and turns smooth; fold in half the shredded cheese until melted.
-- Raise heat to high; add pasta, chicken, and shrimp; toss vigorously 1–2 minutes until Dawn sauce coats the noodles.
-- Off heat, sprinkle remaining cheese; plate in a deep dish and serve hot to match Second Floor Cafe Dawn shrimp chicken linguine.
+  - Cut the chicken breast into 2 cm pieces and pat dry. Devein and pat dry the
+    shrimp; slice the bell pepper and mince the garlic.
+  - Boil a pot of water and cook the pasta until just shy of al dente, following
+    the package timing. Reserve about 120 ml pasta water, then drain.
+  - Heat the olive oil in a skillet over medium heat. Cook the chicken, turning
+    once, until the thickest piece reaches 165°F (74°C); transfer to a clean
+    plate.
+  - Cook the shrimp in the same skillet until opaque and at least 63°C in the
+    center; transfer to the plate with the chicken. Do not reuse a plate that
+    held raw chicken.
+  - Add the garlic and bell pepper to the skillet and cook for about 2 minutes.
+    Stir in the tomato paste, cream, smoked paprika, and 60 ml pasta water;
+    simmer gently until smooth.
+  - Add the pasta and cheese and toss. Thin the sauce with reserved pasta water
+    a little at a time if needed. Return the cooked chicken and shrimp, heat
+    through, and season with salt and pepper.
+  - Plate and serve warm.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 義大利麵
-- 香米
+  - Pat the chicken dry before searing and check that its center reaches 165°F
+    (74°C). Use pasta water a little at a time to loosen the sauce.
+  - Boil the pasta just shy of tender and reserve some pasta water, then finish
+    the sauce in the pan. Return seafood or meat only at the end to avoid
+    overcooking.
+storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
+  toppings, greens, or soft-cooked eggs separately to protect texture.
 relatedIngredients:
-- 雞肉
-- 蝦
-- 炙燒紅椒
-- 起司絲
-customAdditions: []
-faqs:
-- question: What makes this 曙光汁鮮蝦雞肉麵 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - Chicken breast
+  - Shrimp
+  - Red bell pepper
+  - Linguine
+  - Shredded cheese
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 雞肉
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 蝦
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 炙燒紅椒
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 起司絲
-  amount: "40"
-  unit: 公克
-  isCore: true
-- name: 義大利麵
-  amount: "180"
-  unit: 公克
-  isCore: false
+  - name: Chicken breast
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: Shrimp
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: Red bell pepper
+    amount: "50"
+    unit: g
+    isCore: true
+  - name: Linguine
+    amount: "100"
+    unit: g
+    isCore: true
+  - name: Shredded cheese
+    amount: "20"
+    unit: g
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 曙光奶油醬
-  amount: "3"
-  unit: 大匙
+  - name: Olive oil
+    amount: "1"
+    unit: tbsp
+  - name: Garlic
+    amount: "2"
+    unit: cloves
+  - name: Tomato paste
+    amount: "1"
+    unit: tbsp
+  - name: Heavy cream
+    amount: "60"
+    unit: ml
+  - name: Smoked paprika
+    amount: 1/4
+    unit: tsp
+  - name: Salt
+    amount: 1/4
+    unit: tsp
+  - name: Black pepper
+    amount: 1/8
+    unit: tsp
+faqs:
+  - question: Can I prep this ahead?
+    answer: You can slice the pepper ahead and refrigerate it. Cook the pasta and
+      seafood close to serving so the pasta does not absorb all the sauce.
 ---
-
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-

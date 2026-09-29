@@ -1,8 +1,21 @@
 {
   "slug": "dh-kimchi-mushroom-soondubu",
-  "title": "泡菜鮮菇嫩豆腐煲",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.88,
+  "coverage": [
+    "zh-TW",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "The revised four-locale recipe has not been independently cooked. Timing and final texture remain estimates pending home-kitchen verification. Scenario labels now match the canonical taxonomy in all four locales. Unsupported protein, fat, and carbohydrate estimates were removed; nutrition is not presented as calculated.",
+      "suggested_fix": "Cook this exact recipe in a home kitchen and revise timing or texture guidance only when measured results support the change.",
+      "source": "agent"
+    }
+  ]
 }

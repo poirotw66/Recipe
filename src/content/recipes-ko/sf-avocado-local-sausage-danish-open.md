@@ -1,96 +1,84 @@
 ---
-title: 酪梨 Local 香腸／丹麥 Open 스타일 레시피
+title: 아보카도 소시지 데니시 샌드위치
 recipeId: sf-avocado-local-sausage-danish-open
-description: Second Floor Cafe 스타일로 丹麥麵包、酪梨、香腸、水波蛋、辣椒粉 구성을 살린, 매장 분량 기준의 재현 레시피입니다.
+description: 데니시, 아보카도, 돼지고기 소시지, 완전히 익힌 수란으로 만드는 2인분입니다. 소시지 중심 온도를 확인한 뒤 조립하세요.
 coverImage: /images/recipes/sf-avocado-local-sausage-danish-open.webp
-servings: 1
+servings: 2
 prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: 보통
-calories: 520
-protein: 24
-fat: 26
-carbs: 38
 category: "오픈 샌드위치"
 scenarios:
 - 1인 요리
-- 10분 요리
 equipment:
-- 프라이팬
 - 오븐
+- 프라이팬
+- 작은 냄비
+- 구멍 국자
+- 식품 온도계
 tags:
 - 맛집 재현
 - 오픈 샌드위치
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 酪梨 Local 香腸／丹麥 Open
-  region: 全台連鎖
-intro: Second Floor Cafe에서 자주 보이는 조리 흐름을 참고해 한 접시 전체의 완성도를 살리는 방식으로 만듭니다.
+intro: 데니시, 아보카도, 돼지고기 소시지, 완전히 익힌 수란으로 만드는 2인분입니다. 소시지 중심 온도를 확인한 뒤 조립하세요.
 steps:
-- 丹麥麵包 2份를 가로로 잘라 단면에 버터를 살짝 바르고, 180℃ 오븐에서 5~7분 굽혀 표면이 금색으로 바삭하게 만듭니다.
-- 香腸 140g에 칼집을 내고 팬에 중약불로 6~8분 굽습니다. 자주 뒤집으며 겉은 금색, 속은 익을 때까지 구운 뒤 사선으로 썰어 둡니다.
-- 아보카도 1개의 씨를 제거하고 얇게 썹니다. 작은 그릇에 올리브 오일 1큰술, 바다소금 1/3작은술, 후추 1/4작은술, 고춧가루 1/2작은술을 섞어 시즈닝 오일을 만듭니다.
-- 냄비에 물을 끓이고 식초를 조금 넣은 뒤 약불로 줄이고 소용돌이를 만든 다음 달걀 2개를 넣어 약 3분 수란합니다(흰자가 굳고 노른자가 흐르게).
-- 구운 丹麥麵包에 시즈닝 오일의 절반을 바르고 아보카도와 香腸를 순서대로 올립니다.
-- 수란 2개를 얹고 남은 시즈닝 오일을 뿌려 따뜻할 때 낸다.
+- 데니시 페이스트리를 갈라 단면에 버터를 바르고 180°C 오븐에서 4~5분 따뜻하고 바삭해질 때까지 굽습니다.
+- 생 돼지고기 소시지를 중약불에서 뒤집으며 약 8~10분 굽습니다. 온도계로 가장 두꺼운 중심이 71°C 이상인지 확인하고 부족하면 더 익혀 다시 잽니다. 색으로만 판단하지 말고 익힌 뒤 썹니다.
+- 아보카도 씨를 제거하고 얇게 썹니다.
+- 물을 끓이고 식초를 넣은 뒤 약불로 줄입니다. 달걀을 하나씩 넣고 흰자와 노른자가 모두 단단해질 때까지 익힌 후 물기를 뺍니다.
+- 따뜻한 페이스트리에 아보카도, 소시지, 완전히 익힌 수란을 올립니다.
+- 올리브 오일을 뿌리고 소금, 후추, 고춧가루로 간해 페이스트리가 바삭할 때 냅니다.
 tips:
-- 주재료와 소스를 따로 완성한 뒤 마지막에 합치면 질감 차이가 더 살아납니다.
-- 차가운 가니시와 뜨거운 단백질은 마지막에 합쳐야 매장 같은 결과가 납니다.
-- 채소의 물기를 충분히 빼고 볶아야 수분이 많이 생기지 않고 식감이 살아납니다.
-storage: 가급적 당일 섭취를 권장합니다. 보관할 때는 재료와 소스를 나누어 냉장하고 먹기 직전에 부드럽게 다시 데우세요.
-substitutions:
-- 酸種麵包
-- 丹麥麵包
+- 수란의 물기를 잘 뺀 뒤 빵에 올리세요.
+- 베이컨, 소시지, 훈제 연어는 짠맛이 있으므로 소금은 맛을 본 뒤 넣으세요.
+storage: 조립 후 바로 먹습니다. 빵과 토핑은 따로 보관하고 달걀, 고기, 생선은 제품 기한을 지키며 2시간 이내 (실내 32°C 초과 시 1시간 이내)에 4°C 이하로 냉장하세요. 익힌 달걀과 고기는 다음 날 74°C까지 재가열하고 자른 아보카도는 당일 먹습니다.
+substitutions: []
 relatedIngredients:
 - 丹麥麵包
 - 酪梨
 - 香腸
 - 水波蛋
-customAdditions:
-- 수란 추가
-- 발사믹 별도 제공
-faqs:
-- question: 酪梨 Local 香腸／丹麥 Open 를 매장 스타일에 가깝게 만드는 핵심은 무엇인가요?
-  answer: 주재료의 익힘을 먼저 맞추고 마지막에 소스를 입혀 마무리하면 매장 같은 두께감과 볼륨이 살아납니다.
-- question: "채소에서 물이 많이 나오면 어떻게 하나요?"
-  answer: "물기를 빼고 나누어 볶아 팬의 온도를 유지하면 물이 생기고 흐물해지는 것을 줄일 수 있습니다."
+customAdditions: []
+faqs: []
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-09'
+updatedAt: "2026-09-29"
 ingredients:
-- name: 丹麥麵包
-  amount: "2"
-  unit: 份
+- name: 데니시 페이스트리
+  amount: '2'
+  unit: 조각 (총 약 100g)
   isCore: true
-- name: 酪梨
-  amount: "1"
-  unit: 顆
+- name: 아보카도
+  amount: '1'
+  unit: 개
   isCore: true
-- name: 香腸
-  amount: "140"
-  unit: 公克
+- name: 생 돼지고기 소시지
+  amount: '100'
+  unit: g
   isCore: true
-- name: 水波蛋
-  amount: "2"
-  unit: 顆
+- name: 달걀
+  amount: '2'
+  unit: 개
   isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 辣椒粉
-  amount: "1/2"
-  unit: 小匙
+- name: 올리브 오일
+  amount: '1'
+  unit: 작은술
+- name: 무염 버터
+  amount: '5'
+  unit: g
+- name: 화이트 식초
+  amount: '1'
+  unit: 작은술
+- name: 소금
+  amount: 1/8
+  unit: 작은술
+- name: 후추
+  amount: 1/8
+  unit: 작은술
+- name: 고춧가루
+  amount: 1/4
+  unit: 작은술
 ---
 
-이 재현 버전은 Second Floor Cafe 특유의 넉넉한 한 접시 구성과 층이 살아 있는 식감을 목표로 했습니다.
-
-주재료 준비, 소스 완성, 마지막 플레이팅 순서를 지키면 매장 스타일에 더 가깝게 만들 수 있습니다.
-
+데니시, 아보카도, 돼지고기 소시지, 완전히 익힌 수란으로 만드는 2인분입니다. 소시지 중심 온도를 확인한 뒤 조립하세요.

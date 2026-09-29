@@ -1,91 +1,76 @@
 ---
-title: 牛蛋小堡堡套餐
-description: 參考貳樓 Second Floor Cafe 常見做法，以 小漢堡、牛肉排、煎蛋、薯條 還原 牛蛋小堡堡套餐 的餐廳份量與風味層次。
+title: 迷你牛肉蛋堡
+description: 兩個迷你牛肉堡搭配全熟煎蛋；牛絞肉中心需達 71°C。
 coverImage: /images/recipes/sf-mini-beef-egg-burger-set.webp
 servings: 1
-prepTime: 15
-cookTime: 14
-totalTime: 29
+prepTime: 10
+cookTime: 20
+totalTime: 30
 difficulty: 簡單
-calories: 590
-protein: 30
-fat: 20
-carbs: 58
 category: "兒童餐"
 scenarios:
-- 一人料理
-- 便當菜
+  - 一人料理
 equipment:
-- 平底鍋
+  - 平底鍋
+  - 食物溫度計
 tags:
-- 名店還原
-- 兒童餐
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 牛蛋小堡堡套餐
-  region: 全台連鎖
-intro: 這道 牛蛋小堡堡套餐 參考貳樓 Second Floor Cafe 常見做法，會先把 小漢堡、牛肉排、煎蛋 分段處理，再依 兒童餐 的出餐邏輯完成整盤。
+  - 家常料理
+intro: 小份量漢堡以牛絞肉、全熟蛋和起司組成。牛絞肉需以溫度計確認中心達 71°C，不用肉色判斷熟度。
 steps:
-- 將 小漢堡 適量 橫切開、牛肉排 180公克 回溫，準備 煎蛋 適量 與 薯條 250公克；生菜、番茄切好備用。
-- 平底鍋中火倒入 橄欖油 1大匙；牛肉排兩面撒 海鹽 1/3小匙、黑胡椒碎 1/4小匙，下鍋靜置 3 分鐘。
-- 翻面續煎 2～3 分鐘至熟透，起鍋放在一旁保溫。
-- 同鍋打入雞蛋，以中小火煎成太陽蛋或全熟蛋（蛋白凝固、蛋黃流心或全熟依喜好，約 2～3 分鐘）。
-- 小漢堡切面朝下乾煎 1 分鐘至微焦脆。
-- 薯條依包裝說明氣炸或油炸至金黃，起鍋撒少許海鹽。
-- 下層小麵包疊生菜、牛肉排與煎蛋，蓋上層麵包；與薯條一同擺成兒童套餐盤，趁熱上桌。
+  - 牛絞肉分成兩份，輕壓成略大於麵包的肉餅，中間按出淺凹；兩面撒鹽和黑胡椒。
+  - 平底鍋以中火加熱食用油，放入肉餅煎約 3～4 分鐘，翻面續煎。從側面量最厚處中心，達 71°C 後起鍋；未達則續煎再測。
+  - 同鍋煎蛋，蛋白和蛋黃都凝固後取出。麵包切面朝下略烤，依序放生菜、番茄、肉餅、起司和煎蛋。
+  - 分成兩份上桌；若起司未融，可在熱肉餅上加蓋短暫悶熱。
 tips:
-- 兒童餐版本以口感溫和、醬汁不過重為主，重點是把蛋白質和主食做得好入口。
-- 配色可保留玉米、番茄或生菜，視覺會更像門市套餐。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
-storage: 兒童餐建議當天吃完；若要帶便當，蛋與醬汁請煮到稍微收乾。
-substitutions:
-- 白飯
-- 玉米粒
+  - 牛絞肉不能以表面焦色或切面顏色判斷安全熟度；肉餅中心需達 71°C。蛋也應煎至蛋白和蛋黃凝固。
+storage: 熟肉餅與配料分開冷藏，2 小時內放冰箱並於 3 天內食用；牛肉餅回熱至中心 74°C。
+substitutions: []
 relatedIngredients:
-- 小漢堡
-- 牛肉排
-- 煎蛋
-- 薯條
+  - 牛絞肉
+  - 迷你漢堡麵包
+  - 雞蛋
 customAdditions: []
 faqs:
-- question: 想把 牛蛋小堡堡套餐 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 小漢堡與牛肉排 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+  - question: 可以把蛋煎成半熟嗎？
+    answer: 若供孕婦、幼兒、長者或免疫力較弱者食用，應將蛋白和蛋黃都煎至凝固；此食譜使用全熟蛋。
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 小漢堡
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 牛肉排
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 煎蛋
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 薯條
-  amount: "250"
-  unit: 公克
-  isCore: true
+  - name: 牛絞肉
+    amount: "150"
+    unit: 公克
+    isCore: true
+  - name: 迷你漢堡麵包
+    amount: "2"
+    unit: 個
+    isCore: true
+  - name: 雞蛋
+    amount: "1"
+    unit: 顆
+    isCore: true
+  - name: 起司片
+    amount: "2"
+    unit: 片
+    isCore: false
+  - name: 生菜
+    amount: "2"
+    unit: 片
+    isCore: false
+  - name: 番茄
+    amount: "2"
+    unit: 片
+    isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: 食用油
+    amount: "1"
+    unit: 小匙
+  - name: 鹽
+    amount: 1/4
+    unit: 小匙
+  - name: 黑胡椒
+    amount: 少許
+    unit: ""
 ---
 
-牛蛋小堡堡套餐 的在家還原版，重點是把 小漢堡、牛肉排、煎蛋 做出分層口感，並保留貳樓常見的 兒童餐 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-
+小漢堡使用牛絞肉，因此肉餅中心須達71°C。用溫度計從肉餅側邊測量，較容易將探針放到中心。

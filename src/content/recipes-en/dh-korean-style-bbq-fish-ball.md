@@ -1,90 +1,85 @@
 ---
-title: "Korean-style BBQ Fish Ball"
+title: Korean Spicy Fish Cake Balls
 recipeId: dh-korean-style-bbq-fish-ball
-description: "Dubu House-inspired korean appetizers recreating 韓風辣味魚丸燒 with restaurant-style broth depth and plating."
+description: A quick home-style skillet dish of fish cake balls, onion, and a sweet-spicy sauce, served with rice or as a late-night snack.
 coverImage: /images/recipes/dh-korean-style-bbq-fish-ball.webp
 servings: 2
-prepTime: 18
-cookTime: 16
-totalTime: 34
+prepTime: 12
+cookTime: 12
+totalTime: 24
 difficulty: Medium
-calories: 430
-protein: 16
-fat: 22
-carbs: 38
 category: "Korean appetizers"
 scenarios:
-- Cooking for one
-- "Late-night meals"
+- Late-night meals
 equipment:
-- Fryer
 - Skillet
+- Small bowl
+- Knife
+- Cutting board
 tags:
-- Restaurant replica
-- Korean appetizers
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 韓風辣味魚丸燒
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- Korean side dishes
+intro: This fish-ball side dish softens onion first, then heats the fish balls through in a sweet-spicy sauce. Since fish balls vary in saltiness,
+  taste the sauce before serving.
 steps:
-- If 150 g Korean fish cake balls are frozen, thaw at room temperature 10 minutes. Slice 0.5 onion into strips and cut 1 scallion into sections.
-- Pour 1 Tbsp toasted sesame oil into a skillet and heat over low heat. Add 1.5 Tbsp Korean chili paste and stir-fry until fragrant red oil appears (about 30 seconds; do not scorch).
-- Add 1 Tbsp minced garlic and 1 tsp sugar; stir quickly for a sweet-spicy base. Drizzle in 1 Tbsp soy sauce and stir-fry evenly.
-- Add fish balls and stir-fry over medium heat 2 minutes, turning often, until lightly charred on the surface (centers should stay tender).
-- Add onion strips and stir-fry 1 minute until translucent and sweet.
-- Add 3 Tbsp water, cover, and simmer over medium-low heat 2 minutes until sauce clings to the fish balls with a light gloss.
-- Transfer to a plate, sprinkle with chopped scallions and sesame seeds, and serve hot.
+- Thaw frozen fish balls in the refrigerator according to the package; do not leave them at room temperature. Slice the onion, cut the scallion
+  into short pieces, and pat the fish balls dry.
+- Stir the gochujang, soy sauce, sugar, garlic, and water together in a small bowl.
+- Warm the sesame oil in a skillet over medium-low heat. Add the onion and cook about 2 minutes until slightly softened.
+- Add the fish balls and stir-fry for 2 minutes. Pour in the sauce, then simmer over medium heat for 3–4 minutes, turning often, until piping
+  hot at the center in line with package directions and the sauce coats them.
+- Top with scallion and divide into two portions while hot.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
+- Follow the package heating instructions even if the fish balls are precooked; taste before the sauce reduces so it does not become too salty.
+storage: Refrigerate leftovers within 2 hours, use within 1–2 days, and reheat until piping hot throughout.
 substitutions:
 - Korean fish balls
 - Korean chili paste (gochujang)
 relatedIngredients:
-- 韓式魚板丸
-- 洋蔥
-- 青蔥
+- Korean fish cake balls
+- onion
+- scallion
 customAdditions:
-- chopped scallions
-- sesame seeds
+- scallion
 faqs:
-- question: How do I make this 韓風辣味魚丸燒 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: How hot should the fish balls get?
+  answer: Heat them until piping hot at the center, following the package directions; cover and cook a little longer if the center is still cool.
+- question: What if the sauce gets too thick?
+  answer: Stir in 1 tablespoon of water and warm briefly.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: '2026-09-29'
 ingredients:
-- name: Korean fish balls
-  amount: "150"
+- name: Korean fish cake balls
+  amount: '150'
   unit: g
   isCore: true
 - name: onion
-  amount: "0.5"
+  amount: '0.5'
   unit: pc
   isCore: true
 - name: scallion
-  amount: "1"
+  amount: '1'
   unit: stalk
   isCore: true
 seasonings:
-- name: Korean chili paste (gochujang)
-  amount: "1.5"
+- name: gochujang
+  amount: '1.5'
   unit: tbsp
 - name: soy sauce
-  amount: "1"
+  amount: '1'
   unit: tbsp
 - name: sugar
-  amount: "1"
+  amount: '1'
   unit: tsp
 - name: minced garlic
-  amount: "1"
+  amount: '1'
+  unit: tsp
+- name: toasted sesame oil
+  amount: '1'
+  unit: tbsp
+- name: water
+  amount: '3'
   unit: tbsp
 ---
 
-This home version recreates the layered broth and generous plating associated with Dubu House korean appetizers.
-
+This fish-ball side dish softens onion first, then heats the fish balls through in a sweet-spicy sauce. Since fish balls vary in saltiness, taste the sauce before serving.

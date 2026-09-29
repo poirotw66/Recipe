@@ -1,87 +1,64 @@
 ---
-title: 野炊系義式檸香櫛瓜魚菲力
-description: 參考貳樓 Second Floor Cafe 常見做法，以 魚菲力、櫛瓜、檸香醬汁 還原 野炊系義式檸香櫛瓜魚菲力 的餐廳份量與風味層次。
+title: 檸香櫛瓜煎魚菲力
+description: 在家製作「檸香櫛瓜煎魚菲力」，依照份量處理食材並按步驟完成烹調。
 coverImage: /images/recipes/sf-campfire-lemon-zucchini-fish-fillet.webp
 servings: 1
-prepTime: 20
-cookTime: 18
-totalTime: 38
+prepTime: 10
+cookTime: 15
+totalTime: 25
 difficulty: 中等
-calories: 690
-protein: 38
-fat: 28
-carbs: 48
 category: "限定主餐"
 scenarios:
-- 一人料理
-- 早午餐
+  - 一人料理
 equipment:
-- 平底鍋
-- 烤箱
+  - 平底鍋
 tags:
-- 名店還原
-- 林口限定
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 野炊系義式檸香櫛瓜魚菲力
-  region: 全台連鎖
-intro: 這道 野炊系義式檸香櫛瓜魚菲力 參考貳樓 Second Floor Cafe 常見做法，會先把 魚菲力、櫛瓜、檸香醬汁 分段處理，再依 林口限定 的出餐邏輯完成整盤。
+  - 林口限定
+intro: 先將主食材煮至安全熟度，再完成醬汁與配菜；依食材厚度調整加熱時間。
 steps:
-- 將 魚菲力 180公克 以廚房紙巾吸乾；櫛瓜 適量 切 0.5 公分薄片，檸香醬汁 適量 備用。
-- 魚片兩面撒 海鹽 1/3小匙、黑胡椒碎 1/4小匙，靜置 5 分鐘入味。
-- 平底鍋中火倒入 橄欖油 1大匙，預熱至油面微紋；魚片皮面朝下（若有皮）單面煎 3 分鐘至底部金黃。
-- 翻面續煎 2～3 分鐘，魚肉不透明、以叉子可輕鬆撥開即熟透；起鍋保溫。
-- 同鍋下櫛瓜片，中火翻炒 2 分鐘至邊緣微焦、仍保持脆嫩。
-- 關火後擠入少許檸檬汁，拌入 檸香醬汁 適量 成溫熱醬汁。
-- 魚菲力與櫛瓜分區擺盤，淋上檸香醬汁，趁熱享用林口限定野炊風味。
+  - 魚片用廚房紙巾擦乾；櫛瓜切約 0.5 公分片，檸檬擠汁。
+  - 平底鍋加橄欖油，中火煎魚片每面約 3～4 分鐘，依厚度調整，直到中心達 63°C；盛起靜置。
+  - 同鍋煎櫛瓜至兩面略金黃、中心軟而不爛。
+  - 轉小火加入奶油與檸檬汁，攪拌至奶油融化；以鹽和黑胡椒調味，淋在魚片上即可。
 tips:
-- 限定版本通常靠香料與搭配飲品做出識別度，主蛋白先調味靜置會更有層次。
-- 擺盤時保留沙拉、麵包與主菜的分區感，視覺會更接近門市。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
-storage: 限定餐點建議現做現吃；魚排與雞肉分開保存，回熱時較能保留口感。
-substitutions:
-- 皮塔餅
-- 櫛瓜
+  - 魚片厚薄不同，時間會不同；以最厚處中心達 63°C 作為熟度標準。
+  - 先將主食材煮至安全熟度，再完成醬汁與配菜；依食材厚度調整加熱時間。
+storage: 建議現做現吃；剩食請於烹調後 2 小時內冷藏，並在 3～4 天內食用。冷藏剩食回熱時應加熱至中心
+  74°C。含生菜、酥炸食材或半熟蛋的組合，請分開保存以維持口感。
 relatedIngredients:
-- 魚菲力
-- 櫛瓜
-- 檸香醬汁
-customAdditions: []
-faqs:
-- question: 想把 野炊系義式檸香櫛瓜魚菲力 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 魚菲力與櫛瓜 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+  - 白肉魚菲力
+  - 櫛瓜
+  - 檸檬
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 魚菲力
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 櫛瓜
-  amount: "適量"
-  unit: ""
-  isCore: true
-- name: 檸香醬汁
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: 白肉魚菲力
+    amount: "180"
+    unit: 公克
+    isCore: true
+  - name: 櫛瓜
+    amount: "100"
+    unit: 公克
+    isCore: true
+  - name: 檸檬
+    amount: 1/2
+    unit: 顆
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: 橄欖油
+    amount: "1"
+    unit: 大匙
+  - name: 無鹽奶油
+    amount: "10"
+    unit: 公克
+  - name: 海鹽
+    amount: 1/4
+    unit: 小匙
+  - name: 黑胡椒
+    amount: 1/8
+    unit: 小匙
+faqs:
+  - question: 可以用其他魚嗎？
+    answer: 可以，選用厚度相近的白肉魚菲力，並以中心溫度確認熟度。
 ---
-
-野炊系義式檸香櫛瓜魚菲力 的在家還原版，重點是把 魚菲力、櫛瓜、檸香醬汁 做出分層口感，並保留貳樓常見的 林口限定 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-

@@ -1,78 +1,70 @@
 ---
-title: Tofu Ice Cream with Tapioca
+title: Brown Sugar Tapioca Tofu Ice Cream
 recipeId: dh-tofu-ice-cream-with-tapioca
-description: "Dubu House-inspired desserts recreating 珍珠豆腐冰淇淋 with restaurant-style broth depth and plating."
+description: Blend silken tofu, cream, and brown sugar, then freeze with periodic stirring. Serve with quick-cooking tapioca pearls; allow at least four hours of freezing.
 coverImage: /images/recipes/dh-tofu-ice-cream-with-tapioca.webp
 servings: 2
-prepTime: 15
-cookTime: 12
-totalTime: 27
+prepTime: 20
+cookTime: 20
+totalTime: 280
 difficulty: Easy
-calories: 380
-protein: 6
-fat: 14
-carbs: 56
 category: "Desserts"
 scenarios:
 - Cooking for one
 equipment:
-- Skillet
-- Mixing bowl
+- Blender
+- Freezer-safe container
+- Small saucepan
 tags:
-- Restaurant replica
-- Desserts
-restaurantSource:
-  restaurant: 涓豆腐 Dubu House
-  dishName: 珍珠豆腐冰淇淋
-  region: 全台連鎖
-intro: "This version follows the common Dubu House prep and finishing order for a closer restaurant-style result."
+- Home dessert
+- Frozen dessert
+intro: Blend silken tofu, cream, and brown sugar, then freeze with periodic stirring. Serve with quick-cooking tapioca pearls; allow at least four hours of freezing.
 steps:
-- Rinse 150 g non-GMO soybeans and soak in cold water at least 4 hours (or 2 hours in warm water) until plump. Drain and blend with 300 ml water in a blender until silky smooth.
-- Pour soy milk into a pot, heat over low heat while stirring constantly. After boiling, simmer on lower heat 3 minutes to remove beany taste; cool to room temperature. Stir in 30 g brown sugar and a pinch of salt (adjust sweetness to taste).
-- Pour cooled soy milk into a sealed container, cover, and freeze. Every 30 minutes remove and scrape with a fork; repeat 3–4 times (about 2 hours) until texture is creamy like ice cream (if short on time, chill 4 hours for a softer tofu slush texture).
-- Cook 50 g brown sugar tapioca pearls per package directions. Simmer until centers are clear and pearls are chewy (usually 15–20 minutes). Rinse in cold water, toss with a little syrup to prevent sticking, and drain.
-- In a small pot, simmer remaining 20 g brown sugar with 30 ml water over low heat, stirring until thick enough to coat a spoon with caramel aroma; set aside.
-- Scoop 2 balls of tofu ice cream into a bowl or glass (ice cream should be creamy, not runny).
-- Layer tapioca pearls on top, then drizzle warm brown sugar syrup (warm sauce over cold ice cream gives the best contrast). Serve immediately while cold.
+- Drain and chill the tofu. Blend it with 100 ml cream and 30 g brown sugar until smooth, then transfer to a shallow freezer-safe container.
+- Freeze. For the first 2 hours, remove and stir thoroughly every 30 minutes. Continue freezing for at least 4 hours total, until firm in the center; a home freezer may take longer.
+- Cook 50 g tapioca pearls according to the package. In a small pan, warm the remaining 20 g brown sugar with 30 ml water until dissolved; cool to make syrup.
+- Scoop the ice cream with a clean utensil, drizzle with a little syrup, and top with the pearls just before serving.
 tips:
-- Mix the seasonings completely before cooking to ensure even flavor distribution.
-- A hot pan with hot oil is key to locking in juices and flavor.
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible.
-substitutions:
-- "non-GMO soybeans"
-- brown sugar
+- Choose refrigerated tofu labeled ready to eat; keep chilled and follow the use-by date.
+- A shallow container freezes more evenly. Scrape the frozen edges into the center each time you stir.
+storage: Keep sealed in the freezer and use within about one week for best texture. Soften at room temperature for a few minutes before scooping. Refrigerate cooked pearls separately and follow the package storage directions.
+substitutions: []
 relatedIngredients:
-- 非基改黃豆
+- 嫩豆腐
+- 鮮奶油
+- 黑糖
 - 黑糖珍珠
-customAdditions:
-- chopped scallions
-- sesame seeds
+customAdditions: []
 faqs:
-- question: How do I make this 珍珠豆腐冰淇淋 closer to Dubu House?
-  answer: Finish the signature broth or sauce first, then add delicate ingredients at the end.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: How long does it need to freeze?
+  answer: At least 4 hours, until firm in the center. A deeper container or a warmer freezer may take longer.
+- question: Can I freeze the pearls with the ice cream?
+  answer: No. Tapioca pearls become hard when frozen; cook them separately and add them just before serving.
 featured: false
-publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-03'
+updatedAt: "2026-09-29"
 ingredients:
-- name: "non-GMO soybeans"
-  amount: "150"
+- name: Ready-to-eat silken tofu
+  amount: '300'
   unit: g
   isCore: true
-- name: tapioca pearls in brown sugar
-  amount: "50"
+- name: Heavy cream
+  amount: '100'
+  unit: ml
+  isCore: true
+- name: Brown sugar
+  amount: '50'
   unit: g
   isCore: true
-seasonings:
-- name: brown sugar
-  amount: "50"
+- name: Quick-cooking brown-sugar tapioca pearls (dry, package cooking time at most 20 minutes)
+  amount: '50'
   unit: g
-- name: salt
-  amount: "0.25"
-  unit: pinch
+  isCore: true
+- name: Water
+  amount: '30'
+  unit: ml
+  isCore: false
+seasonings: []
 ---
 
-This home version recreates the layered broth and generous plating associated with Dubu House desserts.
-
+Blend silken tofu, cream, and brown sugar, then freeze with periodic stirring. Serve with quick-cooking tapioca pearls; allow at least four hours of freezing.

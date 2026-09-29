@@ -1,85 +1,80 @@
 ---
 title: Buffalo Chicken Wings
 recipeId: sf-buffalo-chicken-wings
-description: "Second Floor Cafe-inspired appetizers with restaurant-style portions and 炸雞翅、水牛城醬、藍紋起司醬."
+description: Oven-roasted wings tossed in a simple butter and hot-sauce coating;
+  check the chicken temperature.
 coverImage: /images/recipes/sf-buffalo-chicken-wings.webp
 servings: 2
-prepTime: 18
-cookTime: 18
-totalTime: 36
+prepTime: 10
+cookTime: 40
+totalTime: 50
 difficulty: Medium
-calories: 630
-protein: 30
-fat: 28
-carbs: 48
 category: "Appetizers"
 scenarios:
-- Late-night meals
-- Cooking for one
+  - Food to share
 equipment:
-- Fryer
-- Oven
+  - Oven
+  - Baking tray
+  - Food thermometer
 tags:
-- Restaurant replica
-- Appetizers
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 水牛城辣雞翅
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Home cooking
+intro: Roast the wings until safely cooked, then toss them with butter and hot
+  sauce. This oven method avoids rinsing raw poultry and deep-frying.
 steps:
-- Rinse chicken wings 8 pc; pat thoroughly dry; massage with sea salt 1/2 tsp and a pinch of black pepper; rest 10 minutes.
-- Coat wings evenly in a thin layer of crispy fry mix (or all-purpose flour); press lightly and shake off excess.
-- Fill fryer with oil 600 ml; heat to 170°C; fry wings in batches over medium heat 6 minutes until set and cooked through.
-- Drain on a wire rack and rest 3 minutes to release steam.
-- Raise oil to 185°C; second fry 1.5–2 minutes until golden crisp; drain.
-- Warm buffalo sauce 適量 in a small pan over low heat (do not boil); turn off heat and toss wings quickly to coat.
-- Line a plate with paper towels; arrange wings with blue cheese sauce 2 tbsp and chili flakes 1/2 tsp for dipping; serve hot to share.
+  - Heat the oven to 220°C / 425°F. Do not rinse the wings; pat them dry with
+    paper towels. Toss with oil, salt, and pepper, then arrange in one layer on
+    a lined tray.
+  - Roast for 20 minutes, turn, then roast another 15–20 minutes. Insert a
+    thermometer into the thickest meaty part from the side; it must reach 74°C /
+    165°F. Continue roasting and recheck if needed.
+  - Melt the butter in a small pan over low heat. Stir in the minced garlic and
+    hot sauce; do not boil.
+  - Once the wings reach temperature, toss them in a bowl with the sauce and
+    serve hot.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 冷凍薯條
-- 蘿蔓心
+  - Do not rinse raw chicken; splashes can spread germs around the sink and
+    counter. Check that the thickest part reaches 74°C / 165°F.
+storage: Refrigerate leftovers within 2 hours and use within 3 days. Reheat
+  wings to 74°C / 165°F.
+substitutions: []
 relatedIngredients:
-- 炸雞翅
-customAdditions:
-- Extra chili flakes
-- House chili sauce
+  - Chicken wings
+  - Hot sauce
+customAdditions: []
 faqs:
-- question: What makes this 水牛城辣雞翅 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: Can I use an air fryer?
+    answer: Yes. Cook in batches according to the appliance directions and check the
+      thickest piece; serve only when it reaches 74°C / 165°F.
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: 2026-06-09
+updatedAt: 2026-09-29
 ingredients:
-- name: 炸雞翅
-  amount: "8"
-  unit: 隻
-  isCore: true
+  - name: Chicken wings
+    amount: "500"
+    unit: g
+    isCore: true
+  - name: Unsalted butter
+    amount: "20"
+    unit: g
+    isCore: false
+  - name: Hot sauce
+    amount: "2"
+    unit: tbsp
+    isCore: true
+  - name: Garlic
+    amount: "1"
+    unit: clove
+    isCore: false
 seasonings:
-- name: 炸油
-  amount: "600"
-  unit: 毫升
-- name: 海鹽
-  amount: "1/2"
-  unit: 小匙
-- name: 水牛城醬
-  amount: "適量"
-  unit: ""
-- name: 藍紋起司醬
-  amount: "2"
-  unit: 大匙
-- name: 辣椒碎
-  amount: "1/2"
-  unit: 小匙
+  - name: Salt
+    amount: 1/2
+    unit: tsp
+  - name: Black pepper
+    amount: to taste
+    unit: ""
+  - name: Neutral oil
+    amount: "1"
+    unit: tsp
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Roast the wings through, then coat them with melted butter, garlic, and hot sauce. Wing size affects cooking time, so use internal temperature to check doneness.

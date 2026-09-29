@@ -1,96 +1,87 @@
 ---
-title: Avocado Bacon Open Toast
+title: Avocado and Bacon Open Sandwich
 recipeId: sf-avocado-bacon-open-toast
-description: "Second Floor Cafe-inspired open sandwiches with restaurant-style portions and 歐包、酪梨、培根、水波蛋、巴薩米克."
+description: Toasted bread, avocado, crisp bacon, and fully cooked poached eggs make two light portions. Assemble just before serving to keep the bread crisp.
 coverImage: /images/recipes/sf-avocado-bacon-open-toast.webp
-servings: 1
+servings: 2
 prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: Medium
-calories: 520
-protein: 24
-fat: 26
-carbs: 38
 category: "Open sandwiches"
 scenarios:
 - Cooking for one
-- 10-minute meals
 equipment:
-- Skillet
 - Oven
+- Skillet
+- Saucepan
+- Slotted spoon
 tags:
 - Restaurant replica
 - Open sandwiches
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 酪梨慢煎培根／歐包 Open
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+intro: Toasted bread, avocado, crisp bacon, and fully cooked poached eggs make two light portions. Assemble just before serving to keep the bread crisp.
 steps:
-- "Slice 2 baguette rolls crosswise; butter the cut sides and bake at 180°C / 350°F 5–7 minutes until golden and lightly crisp (or toast both sides in a dry skillet over low heat)."
-- Cut 80 g bacon into small pieces; in a dry skillet over medium-low heat, render 3–4 minutes until fat releases and edges are crisp; blot excess fat with paper towels.
-- Halve and pit 1 avocado, slice the flesh thinly; drizzle a little lemon juice to prevent browning if you like.
-- "Bring a saucepan of water to a boil with 1 tbsp vinegar; reduce to low and stir a gentle whirlpool with a spoon; crack in 2 eggs and poach about 3 minutes until whites set and yolks runny; drain well."
-- On toasted baguette, layer avocado slices and bacon; place 2 poached eggs on top.
-- Drizzle 1 tbsp olive oil, sprinkle 1/3 tsp sea salt and 1/4 tsp cracked black pepper, add balsamic to taste, and serve hot.
+- Brush the cut sides of the baguette with the butter and toast at 180°C for 5–7 minutes.
+- Cut the bacon into 1 cm pieces. Cook in a dry skillet over medium-low heat for 3–4 minutes until crisp; drain on paper towels.
+- Halve, pit, and thinly slice the avocado. Cut the lemon into wedges.
+- Bring a saucepan of water to a boil, add the vinegar, then lower the heat. Crack each egg into a cup, slide it into the water, and cook until both the white and yolk are firm. Lift out and drain.
+- Layer avocado and bacon on the toasted baguette and top with the fully cooked poached eggs.
+- Drizzle with olive oil and balsamic vinegar; season with salt and pepper and serve with lemon.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
-substitutions:
-- 酸種麵包
-- 丹麥麵包
+- Drain the poached eggs well before putting them on the bread.
+- Bacon, sausage, and smoked salmon are already salty; taste before adding the listed salt.
+storage: Eat assembled sandwiches promptly. Store bread and toppings separately. Refrigerate egg, meat, and fish at 4°C or below within 2 hours, or 1 hour above 32°C, and follow package use-by dates. Reheat cooked egg and meat to 74°C the next day; eat cut avocado the same day.
+substitutions: []
 relatedIngredients:
 - 歐包
 - 酪梨
 - 培根
 - 水波蛋
-customAdditions:
-- Extra poached egg
-- Balsamic on the side
-faqs:
-- question: What makes this 酪梨慢煎培根／歐包 Open feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+customAdditions: []
+faqs: []
 featured: false
-publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+publishedAt: '2026-06-09'
+updatedAt: "2026-09-29"
 ingredients:
-- name: 歐包
-  amount: "2"
-  unit: 份
+- name: Baguette
+  amount: '2'
+  unit: slices (about 100 g total)
   isCore: true
-- name: 酪梨
-  amount: "1"
-  unit: 顆
+- name: Avocado
+  amount: '1'
+  unit: whole
   isCore: true
-- name: 培根
-  amount: "80"
-  unit: 公克
+- name: Bacon
+  amount: '60'
+  unit: g
   isCore: true
-- name: 水波蛋
-  amount: "2"
-  unit: 顆
+- name: Eggs
+  amount: '2'
+  unit: ''
   isCore: true
+- name: Lemon
+  amount: 1/2
+  unit: ''
+  isCore: false
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
-- name: 巴薩米克
-  amount: "適量"
-  unit: ""
+- name: Olive oil
+  amount: '1'
+  unit: tsp
+- name: Unsalted butter
+  amount: '5'
+  unit: g
+- name: White vinegar
+  amount: '1'
+  unit: tsp
+- name: Salt
+  amount: 1/8
+  unit: tsp
+- name: Black pepper
+  amount: 1/8
+  unit: tsp
+- name: Balsamic vinegar
+  amount: '1'
+  unit: tsp
 ---
 
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-
+Toasted bread, avocado, crisp bacon, and fully cooked poached eggs make two light portions. Assemble just before serving to keep the bread crisp.

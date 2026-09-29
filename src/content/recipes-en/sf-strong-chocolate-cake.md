@@ -1,81 +1,77 @@
 ---
-title: Strong Chocolate Cake
+title: Rich Chocolate Cake
 recipeId: sf-strong-chocolate-cake
-description: "Second Floor Cafe-inspired desserts with restaurant-style portions and 4 吋巧克力蛋糕 + 奶油起司."
+description: "A measured home recipe for Rich Chocolate Cake, with clear
+  preparation and cooking steps."
 coverImage: /images/recipes/sf-strong-chocolate-cake.webp
 servings: 2
 prepTime: 20
 cookTime: 28
 totalTime: 48
 difficulty: Medium
-calories: 420
-protein: 7
-fat: 30
-carbs: 64
 category: "Desserts"
 scenarios:
-- Cooking for one
+  - Late-night meals
 equipment:
-- Oven
-- Mixing bowl
+  - Skillet
+  - Pot
 tags:
-- Restaurant replica
-- Desserts
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: 強的
-  region: 全台連鎖
-intro: "This version references common Second Floor Cafe techniques and builds the plate in the same restaurant-style order."
+  - Desserts
+intro: "Soften chilled cream cheese before mixing, chill the assembled dessert
+  to set, and cut it with a warm, dry knife."
 steps:
-- Bring 1 portion 4-inch chocolate cake from the fridge to room temperature 15 minutes; soften 80 g cream cheese until it yields to a light press; cut 30 g unsalted butter into small pieces.
-- Beat 80 g cream cheese with 2 Tbsp granulated sugar on low with a spatula or mixer until smooth with no lumps—do not over-whip.
-- Slice the cake horizontally into two layers with a long knife (skip if already single-layer); place the bottom on a plate, spread half the cream cheese frosting, and set the top layer on lightly.
-- Frost the top and sides evenly with the remaining cream cheese frosting, spinning the cake stand to smooth with an offset spatula; dust lightly with cocoa powder or chocolate shavings if desired.
-- Chill 30 minutes so the cream cheese layer sets and flavors meld.
-- Dip a knife in hot water, wipe dry, and cut into 2 equal pieces or wedges; wipe the blade between cuts for clean edges.
-- Plate with small pieces of 30 g unsalted butter and 2 Tbsp granulated sugar on the side for guests to add as they like.
-- "Serve while the cake is slightly cool and the cream cheese layer is creamy—the rich chocolate and cheese contrast matches Second Floor \"strong\" dessert style."
+  - Bring 1 portion 4-inch chocolate cake from the fridge to room temperature 15
+    minutes; soften 80 g cream cheese until it yields to a light press; cut 30 g
+    unsalted butter into small pieces.
+  - Beat 80 g cream cheese with 2 Tbsp granulated sugar on low with a spatula or
+    mixer until smooth with no lumps—do not over-whip.
+  - Slice the cake horizontally into two layers with a long knife (skip if
+    already single-layer); place the bottom on a plate, spread half the cream
+    cheese frosting, and set the top layer on lightly.
+  - Frost the top and sides evenly with the remaining cream cheese frosting,
+    spinning the cake stand to smooth with an offset spatula; dust lightly with
+    cocoa powder or chocolate shavings if desired.
+  - Chill 30 minutes so the cream cheese layer sets and flavors meld.
+  - Dip a knife in hot water, wipe dry, and cut into 2 equal pieces or wedges;
+    wipe the blade between cuts for clean edges.
+  - Plate with small pieces of 30 g unsalted butter and 2 Tbsp granulated sugar
+    on the side for guests to add as they like.
+  - Plate and serve while warm.
 tips:
-- Finish the main component and sauce separately before plating so the textures stay layered.
-- "Keep cold garnish and hot proteins apart until the final minute for a more restaurant-like result."
-- Drain vegetables well before cooking; excess water steams them and softens the texture.
-storage: Best enjoyed on the day it is made; refrigerate components separately when possible and reheat gently.
+  - Adjust the cooking time for ingredient size and check that the thickest
+    pieces are cooked through.
+  - Soften chilled cream cheese before mixing, chill the assembled dessert to
+    set, and cut it with a warm, dry knife.
+storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
+  toppings, greens, or soft-cooked eggs separately to protect texture.
 substitutions:
-- 鮮奶油
-- 香草冰淇淋
+  - cream
+  - vanilla ice cream
 relatedIngredients:
-- 4 吋巧克力蛋糕
-- 奶油起司
+  - 4-inch chocolate cake
+  - cream cheese
 customAdditions:
-- Vanilla ice cream
-- Whipped cream
-faqs:
-- question: What makes this 強的 feel closer to the restaurant version?
-  answer: Build the signature sauce separately, then finish the plate at the last minute so the texture stays layered and generous.
-- question: "What should I do if the vegetables release water?"
-  answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+  - Vanilla ice cream
+  - Whipped cream
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 4 吋巧克力蛋糕
-  amount: "1"
-  unit: 份
-  isCore: true
-- name: 奶油起司
-  amount: "80"
-  unit: 公克
-  isCore: true
+  - name: 4-inch chocolate cake
+    amount: "1"
+    unit: " servings"
+    isCore: true
+  - name: cream cheese
+    amount: "80"
+    unit: g
+    isCore: true
 seasonings:
-- name: 無鹽奶油
-  amount: "30"
-  unit: 公克
-- name: 細砂糖
-  amount: "2"
-  unit: 大匙
+  - name: caster sugar
+    amount: "2"
+    unit: tbsp
+faqs:
+  - question: Can I prep this ahead?
+    answer: Wash and cut the ingredients ahead and refrigerate them. Add delicate
+      toppings and sauce just before serving.
 ---
-
-This home version keeps the layered plating and full-portion feeling associated with Second Floor Cafe.
-
-Follow the same order of preparing the main components first, finishing the sauce second, and plating at the end for the closest restaurant-style result.
-

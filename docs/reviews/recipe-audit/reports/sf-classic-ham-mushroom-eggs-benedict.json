@@ -1,8 +1,16 @@
 {
   "slug": "sf-classic-ham-mushroom-eggs-benedict",
   "title": "經典火腿奶油炒菇班尼蛋",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.88,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "Changed prepared mushrooms and poached eggs to raw ingredients because the steps cook them from scratch; corrected the yield for two plated portions. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe-specific cook time, yield, and sensory results still need an actual kitchen check; no kitchen trial or restaurant provenance is claimed.",
+      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "source": "agent"
+    }
+  ]
 }

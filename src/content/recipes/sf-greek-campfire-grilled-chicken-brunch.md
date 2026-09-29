@@ -1,87 +1,87 @@
 ---
 title: Greek style 野炊系炭烤雞肉早午餐
-description: 參考貳樓 Second Floor Cafe 常見做法，以 炭烤雞肉、皮塔餅、沙拉 還原 Greek style 野炊系炭烤雞肉早午餐 的餐廳份量與風味層次。
+description: 在家製作「Greek style 野炊系炭烤雞肉早午餐」，依照份量處理食材並按步驟完成烹調。
 coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.webp
 servings: 1
-prepTime: 20
-cookTime: 18
-totalTime: 38
+prepTime: 15
+cookTime: 20
+totalTime: 35
 difficulty: 中等
-calories: 690
-protein: 38
-fat: 28
-carbs: 48
 category: "限定主餐"
 scenarios:
-- 一人料理
-- 早午餐
+  - 平日快速料理
+  - 一人份料理
 equipment:
-- 平底鍋
-- 烤箱
+  - 平底鍋
+  - 小湯鍋
+  - 烤箱
 tags:
-- 名店還原
-- 林口限定
-restaurantSource:
-  restaurant: 貳樓 Second Floor Cafe
-  dishName: Greek style 野炊系炭烤雞肉早午餐
-  region: 全台連鎖
-intro: 這道 Greek style 野炊系炭烤雞肉早午餐 參考貳樓 Second Floor Cafe 常見做法，會先把 炭烤雞肉、皮塔餅、沙拉 分段處理，再依 林口限定 的出餐邏輯完成整盤。
+  - 林口限定
+intro: 先將主食材煮至安全熟度，再完成醬汁與配菜；依食材厚度調整加熱時間。
 steps:
-- 炭烤雞肉 180 公克 若為冷藏品先回溫；皮塔餅 2 份、沙拉 適量 洗淨瀝乾備用。
-- 平底鍋或烤箱以 180°C 將皮塔餅加熱 2～3 分鐘至外層微焦、內部仍柔軟，切開備用。
-- 炭烤雞肉放入預熱平底鍋，中火兩面各煎 2～3 分鐘至表面焦香、中心熱透，起鍋切片。
-- 沙拉 適量 放入大碗中，淋 橄欖油 1/2 大匙，撒 海鹽 1/6 小匙、黑胡椒碎少許，輕拌均勻。
-- 大圓盤分區擺放皮塔餅、炭烤雞肉片與拌好的沙拉。
-- 剩餘 橄欖油 1/2 大匙 淋在雞肉上，再撒 海鹽 1/3 小匙、黑胡椒碎 1/4 小匙。
-- 確認各區溫度適中後趁熱上桌，保留希臘早午餐的分區擺盤感。
+  - 雞胸肉擦乾，以鹽、胡椒和奧勒岡調味；小黃瓜切片，番茄對半切，優格擠入少許檸檬汁拌勻。
+  - 烤盤或平底鍋加橄欖油，中火煎雞胸肉，每面約 5～7 分鐘；以溫度計確認最厚處達 74°C，取出靜置 3 分鐘。
+  - 皮塔餅依包裝加熱；雞肉切片。
+  - 將雞肉、蔬菜和皮塔餅分盤，附上檸檬優格醬，趁熱食用。
 tips:
-- 限定版本通常靠香料與搭配飲品做出識別度，主蛋白先調味靜置會更有層次。
-- 擺盤時保留沙拉、麵包與主菜的分區感，視覺會更接近門市。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
-storage: 限定餐點建議現做現吃；魚排與雞肉分開保存，回熱時較能保留口感。
+  - 先備好配料，再料理雞蛋；蛋料理建議煮至全熟，若保留流心請使用巴氏殺菌蛋。
+  - 先將主食材煮至安全熟度，再完成醬汁與配菜；依食材厚度調整加熱時間。
+storage: 建議現做現吃；剩食請於烹調後 2 小時內冷藏，並在 3～4 天內食用。冷藏剩食回熱時應加熱至中心
+  74°C。含生菜、酥炸食材或半熟蛋的組合，請分開保存以維持口感。
 substitutions:
-- 皮塔餅
-- 櫛瓜
+  - 皮塔餅
+  - 櫛瓜
 relatedIngredients:
-- 炭烤雞肉
-- 皮塔餅
-- 沙拉
+  - 炭烤雞肉
+  - 皮塔餅
+  - 沙拉
 customAdditions: []
-faqs:
-- question: 想把 Greek style 野炊系炭烤雞肉早午餐 做得更像貳樓版本，最重要的是什麼？
-  answer: 先把 炭烤雞肉與皮塔餅 的火候抓對，再讓醬汁在最後階段包住主體，整體會更接近 Second Floor Cafe 的厚度與份量感。
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-29"
 ingredients:
-- name: 炭烤雞肉
-  amount: "180"
-  unit: 公克
-  isCore: true
-- name: 皮塔餅
-  amount: "2"
-  unit: 份
-  isCore: true
-- name: 沙拉
-  amount: "適量"
-  unit: ""
-  isCore: true
+  - name: 雞胸肉
+    amount: "180"
+    unit: 公克
+    isCore: true
+  - name: 皮塔餅
+    amount: "1"
+    unit: 個
+    isCore: true
+  - name: 小黃瓜
+    amount: "60"
+    unit: 公克
+    isCore: true
+  - name: 小番茄
+    amount: "80"
+    unit: 公克
+    isCore: true
+  - name: 原味優格
+    amount: "40"
+    unit: 公克
+    isCore: true
+  - name: 檸檬
+    amount: 1/2
+    unit: 顆
+    isCore: true
 seasonings:
-- name: 橄欖油
-  amount: "1"
-  unit: 大匙
-- name: 海鹽
-  amount: "1/3"
-  unit: 小匙
-- name: 黑胡椒碎
-  amount: "1/4"
-  unit: 小匙
+  - name: 橄欖油
+    amount: "1"
+    unit: 大匙
+    isCore: true
+  - name: 乾燥奧勒岡
+    amount: 1/2
+    unit: 小匙
+    isCore: true
+  - name: 海鹽
+    amount: 1/4
+    unit: 小匙
+    isCore: true
+  - name: 黑胡椒
+    amount: 1/8
+    unit: 小匙
+    isCore: true
+faqs:
+  - question: 可以提前料理雞蛋嗎？
+    answer: 可以先備料；雞蛋建議接近上桌時烹調，並依需要的熟度處理。
 ---
-
-Greek style 野炊系炭烤雞肉早午餐 的在家還原版，重點是把 炭烤雞肉、皮塔餅、沙拉 做出分層口感，並保留貳樓常見的 林口限定 大份量出餐感。
-
-只要依照先處理主料、再完成醬汁、最後整盤組裝的順序，就能做出接近 Second Floor Cafe 門市視覺與口味的還原版。
-
-

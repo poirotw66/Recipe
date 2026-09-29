@@ -1,8 +1,28 @@
 {
   "slug": "dh-korean-vermicelli-tofu-roll",
-  "title": "韓式金絲豆腐捲",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.88,
+  "coverage": [
+    "zh-TW",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "The revised recipe has not been independently cooked. Tofu-skin handling, filling quantity, cooking time, and final crispness remain unverified in a home kitchen. Unsupported protein, fat, and carbohydrate estimates were removed; nutrition is not presented as calculated.",
+      "suggested_fix": "Cook this exact four-locale version once and adjust the handling or timing only from observed results.",
+      "source": "agent"
+    }
+  ],
+  "references": [
+    {
+      "title": "FDA: Cooking (Food Safety for Moms-to-Be)",
+      "url": "https://www.fda.gov/food/people-risk-foodborne-illness/cooking-food-safety-moms-be",
+      "use": "Storage reheating guidance for leftovers; recipe itself is vegetarian."
+    }
+  ]
 }

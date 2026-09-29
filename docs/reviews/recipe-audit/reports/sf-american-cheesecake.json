@@ -1,8 +1,26 @@
 {
   "slug": "sf-american-cheesecake",
-  "title": "全美起司蛋糕",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-09-29",
+  "status": "Warning",
+  "confidence_score": 0.8,
+  "locales": [
+    "zh-TW",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "repair_summary": "Replaced finished cake ingredient with full filling/crust list, removed duplicate sugar/butter, specified pan and cooling/chilling time and corrected unrelated text.",
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "Recipe text has been corrected and cross-locale structure checked, but cooking time, yield, texture and retained cover-image consistency still need practical verification. No kitchen trial is claimed.",
+      "suggested_fix": "Run and record a kitchen trial with the listed ingredients and equipment, check the existing image against the resulting dish, and review all translations before changing index eligibility.",
+      "source": "agent"
+    }
+  ],
+  "mechanical_review": {
+    "issues": [],
+    "disposition": "Reviewed against the complete ingredient list and steps. Qualified names (small whole chicken, ready-to-eat products), shortened ingredient names, and black-pepper/salt aliases account for these string-matching warnings; no missing required ingredient was identified in this parent review."
+  }
 }
