@@ -2,7 +2,7 @@
 
 | Phase | 內容 | 狀態 | 備註 |
 | --- | --- | --- | --- |
-| 0 | 冰箱 query noindex + 食材 programmatic intro | done | commit `01b45fa` |
+| 0 | 冰箱 query noindex + 食材 programmatic intro | done | query 使用可檢索的 HTTP response header；robots Disallow 已於 2026-08-27 移除 |
 | 1 | Deploy + GSC sitemap | done | push `c40575b` 2026-08-22；GSC 提交待手動 |
 | 2 | 15 食材人工 intro | done | 3 subagents；zh/en/ja/ko 全完成 |
 | 3 | 12 情境 hubIntro + 內链 | done | 3 subagents；zh/en/ja/ko 全完成 |
@@ -12,9 +12,9 @@
 ## Phase 1 檢查清單（2026-08-22）
 
 - [x] Cloudflare Pages deploy 成功（線上 commit `c40575b`）
-- [x] `/robots.txt` 含 query Disallow
+- 歷史檢查：2026-08-22 `/robots.txt` 曾含 query Disallow；此規則已於 2026-08-27 移除
 - [x] `/ingredients/cabbage/` intro 與內文連結正常
-- [~] `/tools/fridge-recipe/?ingredients=雞蛋` — robots Disallow 有效；query 時 `noindex` meta 因靜態 prerender 可能未出現（見 phase5-review.md）
+- [x] `/tools/fridge-recipe/?ingredients=雞蛋` — 2026-09-29 線上回 200 與 `X-Robots-Tag: noindex, follow`；robots.txt 未封鎖 query
 - [ ] GSC 提交 `sitemap-index.xml`（**需手動**）
 - [ ] 手動提交：`/ingredients/egg/`、`/ingredients/cabbage/`、`/ingredients/tofu/`（**需手動**）
 
@@ -86,8 +86,10 @@
 
 詳細時程與 +7 / +28 日清單：`docs/specs/020-indexing-content-depth/phase5-review.md`
 
-| 日期 | 已索引（估） | 已檢索未索引 | 曝光 | 點擊 | 備註 |
-| --- | --- | --- | --- | --- | --- |
-| 2026-08-22 baseline | — | ~1000 | — | — | push `c40575b`；live smoke pass |
-| 2026-08-29 (+7d) | | | | | 待填 |
-| 2026-09-19 (+28d) | | | | | 待填 |
+| 日期 | 已建立索引 | 未建立索引總數 | 已檢索未索引原因數 | 曝光 | 點擊 | 備註 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-22 baseline | 88 | 1,643 | ~1000（原匯出約數） | 1 | 0 | 2026-09-29 匯出回看趨勢；舊基線約 1,000 指原因數 |
+| 2026-08-29 (+7d) | 87 | 1,535 | 未匯出 | 0 | 0 | 2026-09-29 匯出回看趨勢 |
+| 2026-09-19 (+28d) | 83 | 1,425 | 未匯出 | 0 | 0 | 2026-09-29 匯出回看趨勢 |
+
+目前完整快照與查詢列見 `phase5-review.md`；搜尋成效資料只到 2026-09-26，不能代表 2026-09-29 推送內容的成效。

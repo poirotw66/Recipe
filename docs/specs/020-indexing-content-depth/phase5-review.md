@@ -24,7 +24,7 @@
 ### 已完成（自動 / CLI）
 
 - [x] `git push origin master` → `2181ff1..c40575b`
-- [x] 線上 `robots.txt` 含 `Disallow: /*?ingredients=`、`Disallow: /*?preferences=`
+- [x] 2026-08-22 當日曾驗證 query Disallow（歷史狀態；2026-08-27 已移除，現況見下方複核）
 - [x] 線上 `sitemap-index.xml` 回 200，含 4 个子 sitemap
 - [x] `/ingredients/cabbage/` — 人工 intro + 6 道內文 `<a>` 連結
 - [x] `/scenarios/ten-minute-meals/` — hubIntro + popular 內文連結
@@ -53,10 +53,57 @@ node scripts/verify-live-seo.mjs
    - `https://recipe.bloss0m.com/scenarios/ten-minute-meals/`
    - `https://recipe.bloss0m.com/scenarios/one-person-meal/`
 
-### 已知限制
+### 已知限制與目前實作
 
-- **冰箱工具 query URL 的 `noindex` meta：** 靜態 prerender 頁在請求時不帶 query，線上 HTML 可能不含 `noindex` meta。  
-  **主要防線：** `robots.txt` 的 `Disallow: /*?ingredients=`（已驗證）。若 GSC 仍見 query URL，以 Disallow + 不手動提交為準。
+- 冰箱工具頁為靜態 prerender。query response 由 Worker 加上 `X-Robots-Tag: noindex, follow`；2026-09-29 線上檢查 query URL 回 200 並含此 header。
+- 目前 robots.txt 允許檢索，沒有封鎖 ingredients/preferences query。不要重新加入 Disallow，否則 Googlebot 可能看不到 noindex。
+- query URL 不列入 sitemap。若 GSC 顯示「遭到 noindex 標記排除」，這是預期狀態；網址檢查應確認可檢索並讀到 header。依 [Google 官方 noindex 說明](https://developers.google.com/search/docs/crawling-indexing/block-indexing?hl=zh-tw)，被 robots.txt 封鎖的網址可能無法讓 Google 發現 noindex。
+
+---
+
+## Search Console 快照（2026-09-29）
+
+### 來源與資料邊界
+
+- 資源：URL-prefix property `https://recipe.bloss0m.com/`。
+- 匯出日期：2026-09-29。索引涵蓋報表最新資料日為 2026-09-21；搜尋成效最新資料日為 2026-09-26（報表顯示約 6 小時前更新）。
+- 2026-09-29 的食譜修正剛推送；以下搜尋成效最多只到 9 月 26 日，**不能用來判定這次修正的效果**。
+- 索引匯出是 2026-09-29 下載的歷史趨勢，不是沿用 8 月舊匯出。歷史趨勢只提供已索引／未索引總數，沒有每一天的原因明細。
+
+### 網頁索引狀態
+
+| 資料日 | 已建立索引 | 未建立索引總數 | 已檢索－目前尚未建立索引（原因明細） |
+| --- | ---: | ---: | ---: |
+| 2026-08-22 | 88 | 1,643 | 不適用；當時舊基線約 1,000 是此原因的約數，不是未索引總數 |
+| 2026-08-29（+7 日） | 87 | 1,535 | 歷史原因明細未匯出 |
+| 2026-09-19（+28 日） | 83 | 1,425 | 歷史原因明細未匯出 |
+| 2026-09-21（報表最新資料日） | 83 | 1,425 | 1,093 |
+
+2026-09-21 的索引原因匯出：已檢索未索引 1,093；404 為 114；重新導向 102；noindex 排除 8；轉址式 404 為 2；替代頁（有適當 canonical）106；已找到未索引 0。原因列合計 1,425。報表卡片顯示 1,420，與匯出趨勢及原因列總和相差 5，保留為 GSC 報表差異，不自行調整。
+
+### 搜尋成效
+
+| 區間 | 點擊 | 曝光 | CTR | 平均排序 | 查詢列 |
+| --- | ---: | ---: | ---: | ---: | --- |
+| 最近 28 天（2026-08-30～2026-09-26） | 0 | 3 | 0% | 2.0 | 無列可匯出 |
+| 最近 3 個月（2026-06-27～2026-09-26） | 0 | 30 | 0% | 8.1 | 6 列 |
+
+最近 28 天的 3 次曝光都沒有點擊；報表頁面列出兩個韓文食譜網址，曝光分別為 2 與 1。查詢表無列，不代表查詢曝光為零，可能是低量查詢未列出。
+
+最近 3 個月的查詢匯出如下；所有列均為 0 點擊，查詢曝光合計 7，低於全站 30 次曝光：
+
+| 查詢 | 曝光 | 平均排序 |
+| --- | ---: | ---: |
+| 에어프라이어 고기 | 2 | 5.5 |
+| 버섯 비빔밥 | 1 | 3.0 |
+| 돼지고기 에어프라이어 | 1 | 4.0 |
+| 두부비빔밥 | 1 | 4.0 |
+| 에어프라이어 마늘 굽기 | 1 | 4.0 |
+| 덮밥 종류 | 1 | 8.0 |
+
+原 Critical 清單中，3 個月「熱門網頁」匯出僅列出韓文版 `sf-moon-view-bitter-melon-cream-rice`（2 曝光、0 點擊、平均排序 8.0）。其餘 Critical slug 不在這份 Top pages 匯出中；這不等於已證明曝光為零。另 Top pages 明細列合計 38 次曝光，高於圖表總計 30，故頁面列只作弱訊號，不拿來計算全站總量或宣稱精準流量排名。
+
+這批 GSC 數據顯示目前搜尋使用量很低，沒有足夠點擊或繁中 Critical 頁面曝光可用來降低食安驗收優先級。試作先按食安風險排序，`sf-moon-view-bitter-melon-cream-rice` 的 2 次韓文曝光僅作同級次序的弱訊號。逐篇順序與量測欄位見 [Critical 試作驗收計畫](../../reviews/recipe-audit/critical-kitchen-validation-2026-09-29.md)。
 
 ---
 
@@ -65,7 +112,7 @@ node scripts/verify-live-seo.mjs
 ### GSC
 
 - [ ] 「已檢索 - 目前尚未建立索引」總數 vs baseline（~1000）
-- [ ] 篩選 `?ingredients=` / `?preferences=` — 是否仍**新增**（預期：減少或穩定）
+- [ ] 檢查 query URL 是否可檢索並讀到 `X-Robots-Tag: noindex, follow`；若列於「遭到 noindex 標記排除」屬預期
 - [ ] 網頁索引編制 → 主要原因 Top 3 是否仍為「已檢索未索引」
 
 ### `site:` 抽查（繁中食材）
@@ -82,7 +129,7 @@ site:recipe.bloss0m.com/ingredients/tofu/
 
 ### 成功標準（+7 日，務實）
 
-- query URL 在 GSC 未索引清單中**不再成長**
+- Googlebot 可檢索 query URL 並讀到 noindex；不要求 noindex 排除清單歸零
 - 至少 1/3 手動提交的食材 URL 在 `site:` 可見
 - **不**以「1000 → 0」為 KPI
 
@@ -97,11 +144,12 @@ site:recipe.bloss0m.com/ingredients/tofu/
 
 | 指標 | Baseline (2026-08-22) | +28 日 |
 | --- | ---: | ---: |
-| GSC 已檢索未索引（估） | ~1000 | |
-| GSC 已建立索引（全站） | | |
-| 曝光（28 天） | | |
-| 點擊（28 天） | | |
-| zh 食材 / 情境 indexed（估） | | |
+| GSC 已檢索未索引 | ~1000（2026-08-22 舊基線） | 1,093（最新原因明細 2026-09-21） |
+| GSC 已建立索引（全站） | 88（2026-08-22 新匯出趨勢） | 83（2026-09-21） |
+| GSC 未建立索引總數 | 1,643（2026-08-22 新匯出趨勢） | 1,425（2026-09-21 新匯出趨勢） |
+| 曝光（28 天） | — | 3（2026-08-30～2026-09-26） |
+| 點擊（28 天） | — | 0（2026-08-30～2026-09-26） |
+| zh 食材 / 情境 indexed（估） | 未分段 | 本次 GSC 匯出只有全站總數，未按路徑類型分段 |
 
 ### 預期與決策
 
@@ -110,14 +158,16 @@ site:recipe.bloss0m.com/ingredients/tofu/
 | ja/ko 食譜仍大量「已檢索未索引」 | **接受**，不啟動全量 ja/ko 加厚 |
 | zh hub / 食材索引上升、食譜仍慢 | 正常；延續內容批次，不灌水 |
 | 曝光升、CTR 仍低 | 用 monthly-traffic-review「優化候選」改 title/description |
-| query URL 仍出現 | 確認 robots.txt；不提交 sitemap 含 query |
+| query URL 仍出現在 GSC | 確認 robots.txt 沒有封鎖、response 有 X-Robots-Tag noindex、sitemap 不含 query；不手動提交 query URL |
 
 ---
 
 ## 複盤紀錄表
 
-| 日期 | 已索引（估） | 已檢索未索引 | 曝光 | 點擊 | 備註 |
-| --- | --- | --- | --- | --- | --- |
-| 2026-08-22 baseline | — | ~1000 | — | — | push `c40575b`；GSC 匯出基線 |
-| 2026-08-29 (+7d) | | | | | |
-| 2026-09-19 (+28d) | | | | | |
+| 日期 | 已建立索引 | 未建立索引總數 | 已檢索未索引原因數 | 曝光 | 點擊 | 查詢 | 備註 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-22 baseline | 88 | 1,643 | ~1000（舊基線，原因數） | 1 | 0 | — | 當日新匯出趨勢；原始基線約 1,000 僅指 Crawled - currently not indexed |
+| 2026-08-29 (+7d) | 87 | 1,535 | 未匯出 | 0 | 0 | — | 取自 2026-09-29 下載的索引／3 個月成效趨勢 |
+| 2026-09-19 (+28d) | 83 | 1,425 | 未匯出 | 0 | 0 | — | 取自 2026-09-29 下載的索引／3 個月成效趨勢 |
+| 2026-09-21（索引報表最新日） | 83 | 1,425 | 1,093 | — | — | — | 索引原因明細最新資料日 |
+| 2026-09-26（成效報表最新日） | — | — | — | 0 | 0 | 無列 | 最近 28 天含 3 次曝光；成效摘要另見上表 |

@@ -7,6 +7,7 @@
 - PRD：`docs/prds/prd-004.md`（成長批次延伸）
 - 依賴：`spec-004`、`spec-009`、`spec-017`、`spec-014-growth-analytics`
 - 建立：2026-08-22
+- 複核：2026-09-29（query URL 改以可檢索的 HTTP noindex response header 控制）
 - 觸發：GSC「已檢索 - 目前尚未建立索引」約 1000 URL（`recipe.bloss0m.com` 為主）
 
 ## 1. 背景與問題定義
@@ -47,14 +48,16 @@
 
 | 項目 | 路徑 / 行為 |
 | --- | --- |
-| 冰箱工具 query → `noindex` | `src/components/FridgeToolPage.astro` |
-| robots Disallow query | `src/pages/robots.txt.ts`：`/*?ingredients=`、`/*?preferences=` |
+| 冰箱工具 query → `noindex` | `src/lib/fridge-indexing.ts` 依 request URL 加上 `X-Robots-Tag: noindex, follow`；元件的 meta 只作補充 |
+| robots.txt | 允許檢索 query URL；不得用 Disallow 遮住 noindex response header；query URL 不加入 sitemap |
 | 無結果快速連結改 button | `FridgeToolPage.astro` + `public/scripts/fridge-tool.js` |
 | 食材 programmatic intro | `src/lib/taxonomy.ts` → `buildIngredientIntro()` |
 | 食材頁 6 篇卡片 + 內文 `<a>` | `src/pages/ingredients/[slug].astro`、`[locale]/ingredients/[slug].astro` |
 | 驗證 marker | `scripts/verify-site.mjs` |
 
-**Phase 0 待營運：** push → Cloudflare Pages deploy → GSC 重新提交 sitemap（見 Phase 1）。
+**歷史差異：** 2026-08-22 的檢查曾確認 robots.txt 封鎖 query URL。2026-08-27 commit `6143f79` 已移除該規則，並由 Worker 對 query request 回傳 `X-Robots-Tag: noindex, follow`。目前不要把舊 Disallow 當成驗收條件。
+
+**Phase 0 待營運：** push → Cloudflare Pages deploy → GSC 檢查（見 Phase 1）。提交 sitemap 不代表保證收錄。
 
 ## 5. 實作計畫
 
@@ -63,9 +66,9 @@
 | 步驟 | 動作 | 驗收 |
 | --- | --- | --- |
 | 1.1 | `git push origin master`，確認 Pages build 成功 | 線上 commit ≥ `01b45fa` |
-| 1.2 | 檢查 `https://recipe.bloss0m.com/robots.txt` | 含 `Disallow: /*?ingredients=` |
+| 1.2 | 檢查 `https://recipe.bloss0m.com/robots.txt` | 可檢索 query URL；不含 ingredients/preferences 的 Disallow |
 | 1.3 | 檢查 `https://recipe.bloss0m.com/ingredients/cabbage/` | hero intro ≥ 120 字；有內文食譜連結 |
-| 1.4 | 檢查 `.../tools/fridge-recipe/?ingredients=雞蛋` | `<meta name="robots" content="noindex, follow">` |
+| 1.4 | 檢查 `.../tools/fridge-recipe/?ingredients=雞蛋` | HTTP 回應含 `X-Robots-Tag: noindex, follow`；不要只檢查 prerender HTML 的 meta |
 | 1.5 | GSC → 索引 → Sitemap → 提交 `https://recipe.bloss0m.com/sitemap-index.xml` | 狀態「成功」 |
 | 1.6 | 網址檢查手動提交 3 篇 zh 食材（見 §6.1） | 請求已送出 |
 
@@ -117,7 +120,7 @@
 ### Phase 5 — 監測與複盤（營運）
 
 - 基準日：deploy + sitemap 提交日
-- **+7 日：** GSC 檢查 query URL 是否仍新增；食材 3 URL `site:` 抽查
+- **+7 日：** GSC 檢查 query URL 是否可檢索並讀到 noindex、且未進 sitemap；食材 3 URL `site:` 抽查
 - **+14～28 日：** 比較「已建立索引」總數、曝光、點擊（`docs/ops/monthly-traffic-review.md` 模板）
 - 若 ja/ko 食譜仍大量未索引：**接受**，不啟動 Phase 6 全量翻譯加厚
 
@@ -142,7 +145,8 @@
 ### 6.3 SEO 技術不變量
 
 - canonical、hreflang、sitemap 分段維持 `spec-004` / `spec-017`
-- 404、`?ingredients=`、`?preferences=` 維持 noindex / Disallow
+- 404 維持 noindex；`?ingredients=`、`?preferences=` 維持可檢索並以 HTTP `X-Robots-Tag: noindex, follow` 排除
+- robots.txt 不封鎖冰箱工具 query；sitemap 不含 query URL
 - 不在 sitemap 加入 query URL 或 404
 
 ## 7. 驗收標準
@@ -153,7 +157,7 @@
 - [ ] `node scripts/verify-site.mjs` 通過
 - [ ] 15 食材 slug 在 zh 頁可見人工 intro（或 documented fallback）
 - [ ] 12 情境 slug 在 zh 頁可見 `hubIntro` + 6 內文食譜連結
-- [ ] robots.txt 含 query Disallow；fridge query 頁含 noindex
+- [ ] robots.txt 允許 query 檢索；fridge query response 含 `X-Robots-Tag: noindex, follow`；sitemap 不含 query
 
 ### 營運（Phase 1、5）
 
