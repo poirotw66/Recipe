@@ -82,6 +82,19 @@ node scripts/verify-live-seo.mjs
 
 2026-09-21 的索引原因匯出：已檢索未索引 1,093；404 為 114；重新導向 102；noindex 排除 8；轉址式 404 為 2；替代頁（有適當 canonical）106；已找到未索引 0。原因列合計 1,425。報表卡片顯示 1,420，與匯出趨勢及原因列總和相差 5，保留為 GSC 報表差異，不自行調整。
 
+GSC「遭到 `noindex` 標記排除」明細上次更新日為 2026-09-21，首次偵測日為 2026-09-05；當時列出的 8 個網址如下，分屬原 Critical 清單中的 6 個 slug。此清單是 GSC 該原因的全部 8 個列項，不代表其餘 92 個多語頁都已被 Google 檢索或判定：
+
+| 網址 | 上次檢索 |
+| --- | --- |
+| `/recipes/sf-asahi-cordon-bleu-pork-burger/` | 2026-09-04 |
+| `/recipes/sf-bbq-roasted-half-chicken/` | 2026-09-04 |
+| `/ko/recipes/sf-acai-berry-yogurt-bowl/` | 2026-09-04 |
+| `/en/recipes/sf-bbq-roasted-half-chicken/` | 2026-09-04 |
+| `/ko/recipes/sf-chef-crispy-pork-knuckle/` | 2026-09-03 |
+| `/recipes/sf-country-cinnamon-peach-pie/` | 2026-09-02 |
+| `/en/recipes/sf-acai-berry-yogurt-bowl/` | 2026-09-02 |
+| `/en/recipes/sf-green-superhero-quinoa-buddha-bowl/` | 2026-09-01 |
+
 ### 搜尋成效
 
 | 區間 | 點擊 | 曝光 | CTR | 平均排序 | 查詢列 |
