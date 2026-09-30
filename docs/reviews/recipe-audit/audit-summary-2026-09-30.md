@@ -171,6 +171,7 @@
 
 - 2026-09-30 已以 Cloudflare Worker 版本 `e734e6ef-f9a6-4db8-93ef-c3cb0214add1` 部署；`npm run deploy` 成功，上傳 599 個檔案。部署後 `npm test` 通過，首頁、sitemap-index 與 robots.txt 回應 200。
 - 重新提交 `/sitemap-index.xml` 後，Search Console 顯示提交成功、上次讀取時間為 2026-09-30、狀態成功、發現 732 個網址。部署端 sitemap 抽查含 731 個頁面網址；報表統計口徑可能包含 sitemap 索引或處理延遲。
+- 以本次 112 份逐篇報告對照部署端 sitemap：112/112 繁中與 112/112 英文頁都有列入；日文、韓文各 6/112。其餘日韓頁仍可索引但不在主動提交範圍，遵循 `spec-020` 不追求日韓食譜全量索引的決策；本次依重新檢索要求另為日文豬排頁提出單頁申請。
 - Search Console 首頁當時顯示 83 個已編入索引、1,425 個未編入索引。逐篇抽查 `air-fryer-garlic-pork-chop`（zh-TW、ja）、`garlic-mushroom-tofu-rice-bowl`（zh-TW）、`sf-classic-ham-mushroom-eggs-benedict`（zh-TW）、`fish-and-chips`（zh-TW）：五個網址皆為「已檢索－目前尚未建立索引」，允許檢索與索引、擷取成功、使用者 canonical 指向自身；五個網址均已成功送入優先檢索佇列。
 - 個別網址檢查的 sitemap 發現欄仍出現「未偵測到」或「暫時性處理錯誤」；這與 sitemap 報表剛顯示成功讀取的時間不同，可能尚未更新。應於 Search Console 後續刷新索引狀態與 sitemap 發現資料；目前不能宣稱頁面已被收錄。
 
