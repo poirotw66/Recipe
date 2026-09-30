@@ -167,6 +167,13 @@
 - 本批 112 篇四語 YAML、逐篇 JSON、steps/tips/faqs 區塊數和更新日期對齊檢查通過；Google sitemap `lastmod` 所依據的 `updatedAt` 已更新至 2026-09-30。
 - 食譜內容仍需實際下廚確認火候、口感、時間與份量；Google 是否收錄由 Search Console 後續狀態決定，提交重新檢索不保證索引。
 
+## 部署與 Search Console 後續檢查
+
+- 2026-09-30 已以 Cloudflare Worker 版本 `e734e6ef-f9a6-4db8-93ef-c3cb0214add1` 部署；`npm run deploy` 成功，上傳 599 個檔案。部署後 `npm test` 通過，首頁、sitemap-index 與 robots.txt 回應 200。
+- 重新提交 `/sitemap-index.xml` 後，Search Console 顯示提交成功、上次讀取時間為 2026-09-30、狀態成功、發現 732 個網址。部署端 sitemap 抽查含 731 個頁面網址；報表統計口徑可能包含 sitemap 索引或處理延遲。
+- Search Console 首頁當時顯示 83 個已編入索引、1,425 個未編入索引。逐篇抽查 `air-fryer-garlic-pork-chop`（zh-TW、ja）、`garlic-mushroom-tofu-rice-bowl`（zh-TW）、`sf-classic-ham-mushroom-eggs-benedict`（zh-TW）、`fish-and-chips`（zh-TW）：五個網址皆為「已檢索－目前尚未建立索引」，允許檢索與索引、擷取成功、使用者 canonical 指向自身；五個網址均已成功送入優先檢索佇列。
+- 個別網址檢查的 sitemap 發現欄仍出現「未偵測到」或「暫時性處理錯誤」；這與 sitemap 報表剛顯示成功讀取的時間不同，可能尚未更新。應於 Search Console 後續刷新索引狀態與 sitemap 發現資料；目前不能宣稱頁面已被收錄。
+
 ## 參考
 
 - [Google Search Central：Creating helpful, reliable, people-first content](https://developers.google.cn/search/docs/fundamentals/creating-helpful-content?hl=en)：提醒不要為假定的字數門檻填充內容，應以讀者是否得到完整、有用的答案評估。
