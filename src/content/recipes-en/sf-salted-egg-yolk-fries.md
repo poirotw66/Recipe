@@ -1,8 +1,7 @@
 ---
 title: Salted Egg Yolk Fries
 recipeId: sf-salted-egg-yolk-fries
-description: "A measured home recipe for Salted Egg Yolk Fries, with clear
-  preparation and cooking steps."
+description: "Cook fries as directed on the package, then toss with salted egg sauces, chili flakes, and Thai basil."
 coverImage: /images/recipes/sf-salted-egg-yolk-fries.webp
 servings: 2
 prepTime: 18
@@ -13,36 +12,21 @@ category: "Appetizers"
 scenarios:
   - Late-night meals
 equipment:
-  - Deep fryer or heavy pot
-  - Rack
+  - "Equipment specified by the fries package"
+  - "Large bowl"
+  - "Small saucepan"
 tags:
   - Appetizers
-intro: "Pat the ingredients dry, cook in batches while keeping the oil
-  temperature steady, and toss with sauce after frying to preserve crispness."
+intro: "Cook the fries according to the package. If using frozen fries, keep them frozen and follow the package method; do not thaw or blot them first. Warm the two sauces gently, then toss with the fries while hot."
 steps:
-  - Pat fries 250 g thoroughly dry; finely chop Thai basil 10 g; have prepared
-    salted egg sauce 1 tbsp, salted egg yolk sauce 1 tbsp, and chili flakes 1/2
-    tsp ready.
-  - Heat neutral frying oil 600 ml to 160°C; blanch-fry fries in batches 3
-    minutes; drain and rest.
-  - Raise oil to 175°C; refry 3–4 minutes until golden and crisp; drain on a
-    wire rack.
-  - While fries are hot, toss in a large bowl with sea salt 1/2 tsp.
-  - In a small pan over very low heat, stir salted egg yolk sauce 1 tbsp with
-    prepared salted egg sauce 1 tbsp until flowing (add 1 tsp warm water if too
-    thick).
-  - Pour golden sauce over fries and toss quickly to coat evenly; mix in chili
-    flakes 1/2 tsp and chopped basil.
-  - Mound high in a basket; sprinkle a little more basil on top; serve while
-    sauce is still flowing and fries are crisp.
+  - "Cook fries 250 g according to package directions. If using frozen fries, keep them frozen and follow the package method; do not thaw or blot them first. Chop Thai basil 10 g, reserve a little, and set aside 1 tbsp each of the two sauces and ½ tsp chili flakes."
+  - "While fries are hot, toss in a large bowl with sea salt 1/2 tsp."
+  - "In a small pan over very low heat, stir salted egg yolk sauce 1 tbsp with prepared salted egg sauce 1 tbsp until flowing (add 1 tsp warm water if too thick)."
+  - "Pour golden sauce over fries and toss quickly to coat evenly; mix in chili flakes 1/2 tsp and chopped basil."
+  - "Mound high in a basket; sprinkle a little more basil on top; serve while sauce is still flowing and fries are crisp."
 tips:
-  - Fry in batches and drain on a rack so the oil temperature does not drop
-    sharply.
-  - Pat the ingredients dry, cook in batches while keeping the oil temperature
-    steady, and toss with sauce after frying to preserve crispness.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - "Do not thaw or blot frozen fries; follow the package cooking method. Use 1 tablespoon of each sauce and warm them together over low heat as directed."
+storage: "Serve these fries fresh. Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
 substitutions:
   - frozen fries
   - romaine hearts
@@ -55,38 +39,28 @@ customAdditions:
   - House chili sauce
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: fries
     amount: "250"
     unit: g
-    isCore: true
-  - name: chili pepper
-    amount: "1"
-    unit: ""
     isCore: true
   - name: Thai basil
     amount: "10"
     unit: g
     isCore: true
 seasonings:
-  - name: neutral frying oil
-    amount: "600"
-    unit: ml
-  - name: sea salt
-    amount: 1/2
-    unit: tsp
-  - name: prepared salted egg sauce
+  - name: "sea salt"
+    amount: "1/2"
+    unit: "tsp"
+  - name: "prepared salted egg sauce"
     amount: "1"
-    unit: tbsp
-  - name: salted egg yolk sauce
+    unit: "tbsp"
+  - name: "salted egg yolk sauce"
     amount: "1"
-    unit: tbsp
-  - name: chili flakes
-    amount: 1/2
-    unit: tsp
-faqs:
-  - question: Can I reheat leftovers?
-    answer: Fried food is best fresh. Refrigerate leftovers and reheat in an oven or
-      air fryer until hot throughout.
+    unit: "tbsp"
+  - name: "chili flakes"
+    amount: "1/2"
+    unit: "tsp"
+faqs: []
 ---

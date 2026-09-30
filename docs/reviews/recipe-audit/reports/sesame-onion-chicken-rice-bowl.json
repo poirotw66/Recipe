@@ -1,8 +1,17 @@
 {
   "slug": "sesame-onion-chicken-rice-bowl",
   "title": "麻油洋蔥雞胸拌飯",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "四語原有完全重複的肉類靜置提示及「如何避免主食材變乾」FAQ 與本篇料理不符或缺少操作價值；已移除重複提示，並以依本篇材料與步驟撰寫的菜色專屬問答取代。四語語意同步，未更動材料份量；此次內容尚未經廚房試作。",
+      "suggested_fix": "請料理者實際製作並確認提示與問答能對應操作結果，再依試作紀錄更新內容與審查狀態。",
+      "source": "agent"
+    }
+  ],
+  "repair_summary": "已移除四語重複且不適用各菜色的「肉類起鍋後靜置」提示，並將通用防乾 FAQ 改為依本篇配方步驟可直接操作的專屬問答；未改動材料份量，內容未經廚房試作，仍需料理者實作確認。"
 }

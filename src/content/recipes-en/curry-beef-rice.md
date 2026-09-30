@@ -64,17 +64,15 @@ steps:
 - Pour in 200 ml water; bring to a boil over high heat, then cover and simmer on low 10–12 minutes until beef is tender and the sauce slightly thickens.
 - Season with a pinch of salt to taste; ladle curry beef and sauce over rice and serve.
 tips:
-- For thicker gravy, finish with 1 tsp cornstarch slurry.
-- Start with 1 tbsp curry powder if you are unsure of heat or salt level.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "For thicker gravy, finish with 1 tsp cornstarch slurry."
+  - "Start with 1 tbsp curry powder if you are unsure of heat or salt level."
+  - "Toast the curry powder for only about 30 seconds until fragrant, then add the water; a dry pan or excessive heat can make it bitter."
 storage: Eat within 1 day refrigerated; add 2 tbsp water when reheating for lunch.
 substitutions:
 - Potato
 faqs:
-- question: Will curry powder be very spicy?
-  answer: Brands vary—start with half and adjust.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "Will curry powder be very spicy?"
+    answer: "Brands vary—start with half and adjust."
 relatedIngredients:
 - 牛肉
 - 洋蔥
@@ -82,7 +80,7 @@ relatedIngredients:
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Scallions
 - Chili

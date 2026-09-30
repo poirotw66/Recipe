@@ -1,8 +1,7 @@
 ---
-title: Saltwater Chicken Salad with Bitter Melon and Corn
+title: Saltwater-Poached Chicken Salad with Bitter Melon and Corn
 recipeId: sf-second-floor-saltwater-chicken-salad
-description: "A measured home recipe for Saltwater Chicken Salad with Bitter
-  Melon and Corn, with clear preparation and cooking steps."
+description: "Poach chicken breast gently in salted water, then serve it with blanched bitter melon, browned corn, greens, and a rice-vinegar dressing; serves two."
 coverImage: /images/recipes/sf-second-floor-saltwater-chicken-salad.webp
 servings: 2
 prepTime: 15
@@ -18,31 +17,17 @@ equipment:
   - Salad bowl
 tags:
   - Appetizers
-intro: "Wash and thoroughly dry the greens, then dress them just before serving.
-  Add crisp toppings at the end."
+intro: "Gently poach the chicken in salted water to 165°F (74°C), then cool and slice it. Blanch the bitter melon, brown the corn, and add the rice-vinegar dressing just before serving to keep the greens dry."
 steps:
-  - Place the chicken breast in a small saucepan and add enough water to cover,
-    plus the salt. Bring just to a simmer, cover, and cook until the thickest
-    part reaches 165°F (74°C). Turn off the heat, rest 5 minutes, then cool and
-    slice.
-  - Seed and thinly slice the bitter melon. Blanch for 1 minute and drain; rinse
-    with cool water if you want to soften its bitterness. Wash and thoroughly
-    dry the greens.
-  - Heat a little olive oil in a skillet and cook the corn until lightly
-    browned; set aside.
-  - Whisk together the rice vinegar, soy sauce, olive oil, sugar, and chili
-    flakes. Taste and adjust the chili to your preference.
-  - Arrange the greens, bitter melon, corn, and sliced chicken on plates.
-    Drizzle with the dressing just before serving.
+  - Place the chicken breast in a small saucepan and add enough water to cover, plus the salt. Bring just to a simmer, cover, and cook until the thickest part reaches 165°F (74°C). Turn off the heat, rest for 5 minutes, then cool and slice.
+  - Seed and thinly slice the bitter melon. Blanch for 1 minute and drain; rinse with cool water if you want to soften its bitterness. Wash and thoroughly dry the greens.
+  - Heat 1 tsp olive oil in a skillet and cook the corn until lightly browned; set aside.
+  - Whisk together the rice vinegar, soy sauce, remaining 2 tsp olive oil, sugar, and chili flakes. Taste and adjust the chili to your preference.
+  - Arrange the greens, bitter melon, corn, and sliced chicken on plates. Drizzle with the dressing just before serving.
 tips:
-  - Rest the cooked chicken before slicing and verify that its center reached
-    165°F (74°C). Add dressing gradually so the salad does not become too salty
-    or watery.
-  - Wash and thoroughly dry the greens, then dress them just before serving. Add
-    crisp toppings at the end.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - Rest the cooked chicken before slicing and verify its center reached 165°F (74°C) with a thermometer.
+  - Drain the blanched bitter melon well. Keep the greens and dressing separate until serving so the salad is less likely to become watery.
+storage: "This salad is best assembled just before serving. Refrigerate the cooked chicken and corn separately within 2 hours and use within 3 to 4 days. Store the greens, bitter melon, and dressing separately; assemble just before serving."
 relatedIngredients:
   - Chicken breast
   - Mixed greens
@@ -50,7 +35,7 @@ relatedIngredients:
   - Corn kernels
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: Chicken breast
     amount: "300"
@@ -88,7 +73,8 @@ seasonings:
     amount: 1/4
     unit: tsp
 faqs:
+  - question: How can I reduce the bitterness of the bitter melon?
+    answer: Seed it, slice it thinly, and blanch it for 1 minute. Rinse with cool water afterward if you want to soften the bitterness further, then drain well.
   - question: Can I prepare the chicken and dressing ahead?
-    answer: Refrigerate the cooked chicken within 2 hours and use it within 3 to 4
-      days. Keep the dressing separate and add it just before serving.
+    answer: Refrigerate the cooked chicken within 2 hours and use it within 3 to 4 days. Refrigerate the dressing separately, and assemble the salad just before serving.
 ---

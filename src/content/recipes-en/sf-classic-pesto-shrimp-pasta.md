@@ -1,8 +1,7 @@
 ---
 title: Classic Pesto Shrimp Pasta
 recipeId: sf-classic-pesto-shrimp-pasta
-description: "A measured home recipe for Classic Pesto Shrimp Pasta, with clear
-  preparation and cooking steps."
+description: "Sear shrimp, toss with pesto and pasta water, then finish the pasta with cheese and pine nuts."
 coverImage: /images/recipes/sf-classic-pesto-shrimp-pasta.webp
 servings: 2
 prepTime: 18
@@ -17,34 +16,18 @@ equipment:
   - Small saucepan
 tags:
   - Rice & pasta
-intro: "Boil the pasta just shy of tender and reserve some pasta water, then
-  finish the sauce in the pan. Return seafood or meat only at the end to avoid
-  overcooking."
+intro: "Sear the shrimp in a single layer and set aside. Loosen the garlic pesto with pasta water, toss briefly with pasta and shrimp, then fold in cheese and pine nuts off the heat."
 steps:
-  - "Prep: peel and devein shrimp 180 g; pat thoroughly dry with paper towels.
-    Shred cheese 40 g; mince garlic 2 cloves; toast pine nuts ½ tsp in a dry pan
-    over low heat and set aside."
-  - Bring a large pot of water to a rolling boil over high heat; add sea salt
-    1/3 tsp. Cook spaghetti 180 g 1 minute less than package time until al
-    dente; drain and reserve about ½ cup pasta cooking water.
-  - Heat olive oil 1 Tbsp in a skillet over medium-high heat; lay shrimp in a
-    single layer and sear about 1 minute per side until pink, curled, and
-    springy. Season lightly with sea salt and black pepper; set aside.
-  - Lower heat; sauté minced garlic until fragrant, about 20 seconds.
-  - Add pesto 3 Tbsp and 2–3 Tbsp pasta water; stir until oil and water emulsify
-    into a glossy sauce.
-  - Raise heat to high; add pasta and shrimp; toss vigorously 1–2 minutes. Off
-    heat, fold in half the shredded cheese and toasted pine nuts.
-  - Plate in a deep dish
+  - "Prep: peel and devein shrimp 180 g; pat thoroughly dry with paper towels. Shred cheese 40 g; mince garlic 2 cloves; toast pine nuts ½ tsp in a dry pan over low heat and set aside."
+  - "Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook spaghetti 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water."
+  - "Heat olive oil 1 Tbsp in a skillet over medium-high heat; lay shrimp in a single layer and sear about 1 minute per side until a food thermometer inserted in the thickest part reads 63°C (145°F) and the flesh is opaque and curled. If not done, keep cooking and check again. Season with cracked black pepper ¼ tsp; set aside."
+  - "Lower heat; sauté minced garlic until fragrant, about 20 seconds."
+  - "Add pesto 3 Tbsp and 2–3 Tbsp pasta water; stir until oil and water emulsify into a glossy sauce."
+  - "Raise heat to high; add pasta and shrimp; toss vigorously 1–2 minutes. Off heat, fold in half the shredded cheese and toasted pine nuts."
+  - "Plate in a deep dish and sprinkle with the remaining shredded cheese."
 tips:
-  - Wash hands and tools after handling raw meat. Cook poultry to 165°F (74°C)
-    and fish to 145°F (63°C).
-  - Boil the pasta just shy of tender and reserve some pasta water, then finish
-    the sauce in the pan. Return seafood or meat only at the end to avoid
-    overcooking.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - "Pat the shrimp dry and sear in a single layer. Reserve pasta water and add the stated 2–3 tablespoons to loosen the pesto."
+storage: "Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
 substitutions:
   - pasta
   - jasmine rice
@@ -55,7 +38,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: shrimp
     amount: "180"
@@ -90,7 +73,6 @@ seasonings:
     amount: 1/2
     unit: tsp
 faqs:
-  - question: How can I check doneness?
-    answer: "Use a food thermometer at the thickest point: 165°F (74°C) for poultry
-      and 145°F (63°C) for fish."
+  - question: "How should I divide the cheese?"
+    answer: "Fold half into the pasta off the heat, then sprinkle the remaining half over the plated pasta."
 ---

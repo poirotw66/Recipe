@@ -1,8 +1,7 @@
 ---
 title: Brownie with Ice Cream
 recipeId: sf-brownie-ice-cream
-description: "A measured home recipe for Brownie with Ice Cream, with clear
-  preparation and cooking steps."
+description: "Brownies are warmed at 320°F (160°C), then served with vanilla ice cream and chocolate sauce, assembled just before serving."
 coverImage: /images/recipes/sf-brownie-ice-cream.webp
 servings: 2
 prepTime: 5
@@ -18,8 +17,7 @@ equipment:
   - Dessert plates
 tags:
   - Desserts
-intro: "Soften chilled cream cheese before mixing, chill the assembled dessert
-  to set, and cut it with a warm, dry knife."
+intro: "Warm the two brownies for 4–5 minutes, rest them for 1 minute, then add the ice cream and chocolate sauce."
 steps:
   - Preheat the oven to 320°F (160°C). Place the brownies on a baking sheet and
     warm for 4–5 minutes until the centers are warm.
@@ -27,19 +25,14 @@ steps:
   - Add one scoop of vanilla ice cream to each plate, drizzle with chocolate
     sauce, and serve immediately.
 tips:
-  - Take the ice cream out last and let the brownies cool briefly before plating
-    so the ice cream melts more slowly.
-  - Soften chilled cream cheese before mixing, chill the assembled dessert to
-    set, and cut it with a warm, dry knife.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - "Wait to take out the ice cream until the brownies have been warmed, rested, and plated; serve once assembled."
+storage: "Assemble just before serving. Store brownies and ice cream separately according to their package directions; do not refreeze melted ice cream mixed with brownie."
 relatedIngredients:
   - Brownie pieces
   - Vanilla ice cream
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: Brownie pieces
     amount: "2"
@@ -54,7 +47,9 @@ seasonings:
     amount: "1.5"
     unit: tbsp
 faqs:
-  - question: Can I prepare this ahead?
-    answer: You can cut the brownies ahead. Warm them and add the ice cream just
-      before serving.
+  - question: "How far ahead can I prepare this?"
+    answer: >-
+      You can cut the brownies ahead. Before serving, warm them at 320°F (160°C) for 4–5
+      minutes until the centers are warm, rest for 1 minute, then add the ice cream and
+      chocolate sauce.
 ---

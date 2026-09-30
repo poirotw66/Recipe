@@ -30,14 +30,13 @@ steps:
 - Season with salt (1/2 tsp), taste and adjust, and serve piping hot.
 tips:
 - Do not overcook greens—crisp is best.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Same day; reheating softens greens.
 substitutions:
 - Bok choy
 - Cabbage
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: "In what order should I add the pork and water lily stems?"
+  answer: "Separate the pork slices in the boiling broth and cook until no longer pink, then add the water lily stems for 1–2 minutes so they remain crisp."
 relatedIngredients:
 - 水蓮
 - 豬肉
@@ -45,7 +44,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ingredients:
 - name: Water dropwort
   amount: "150"

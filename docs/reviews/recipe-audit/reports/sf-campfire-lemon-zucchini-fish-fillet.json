@@ -1,16 +1,28 @@
 {
   "slug": "sf-campfire-lemon-zucchini-fish-fillet",
   "title": "檸香櫛瓜煎魚菲力",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Defined the lemon-butter pan sauce and zucchini quantity, and added a 63°C fish endpoint consistent with the listed ingredients. Text review covered all four locale bodies. Recipe timing, yield, and sensory outcome remain unverified because no kitchen trial was performed; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語步驟保留擦乾、同鍋順序與魚片最厚處中心63°C的熟度確認，保存文字聚焦魚肉與櫛瓜分開及魚肉回熱。尚未試作；魚片厚度、鍋具火力下的時間及櫛瓜口感待確認。",
+      "suggested_fix": "依本文試作，確認食材與商品狀態，記錄實際時間和產量並檢查魚肉熟度，再依紀錄修訂文章與索引評估。",
       "source": "agent"
+    }
+  ],
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "支持魚類最厚處以食品溫度計確認中心至少達145°F（約63°C）。"
+    },
+    {
+      "title": "Keep Food Safe! Food Safety Basics — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe",
+      "supports": "支持易腐熟食於室溫放置不超過2小時、熟食剩餘冷藏3至4天及回熱至165°F。"
     }
   ]
 }

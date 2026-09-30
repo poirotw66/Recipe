@@ -1,16 +1,41 @@
 {
   "slug": "sf-worcester-meat-sauce-omelette",
   "title": "烏斯特肉醬歐姆蕾",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Changed the finished omelet ingredient to raw eggs and specified a fully cooked prepared beef-tomato filling. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "新增四語專屬 FAQ，說明已熟肉醬先收汁保溫，蛋液半凝固時將肉醬與起司置中對折；若醬汁仍有游離液體先續收，再按原步驟加蓋並檢查摺合處。依本篇步驟、Food Network Kitchen 歐姆蕾方法及 USDA FSIS 蛋品安全指引核對；未進行廚房試作，實際時間、比例與口感仍待確認。",
+      "suggested_fix": "請料理者依配方試作，確認醬汁收汁程度是否足以包餡、對折與折口熟度，記錄實際時間與產量後更新文章與索引評估。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢未將步驟中的「胡椒」對應到配料「黑胡椒碎」；人工核對確認為同一調味料，屬名稱詞形比對誤報。",
+      "suggested_fix": "配料與步驟已人工核對一致，無需更改食譜；此項為名稱詞形比對誤報，必要時再調整預檢的同義詞規則。",
+      "source": "precheck"
+    }
+  ],
+  "repair_summary": "新增四語專屬 FAQ，說明已熟肉醬先收汁保溫，蛋液半凝固時將肉醬與起司置中對折；若醬汁仍有游離液體先續收，再按原步驟加蓋並檢查摺合處。依本篇步驟、Food Network Kitchen 歐姆蕾方法及 USDA FSIS 蛋品安全指引核對；未進行廚房試作，實際時間、比例與口感仍待確認。",
+  "references": [
+    {
+      "title": "本篇配方步驟（肉醬略收汁、置中包起司、加蓋檢查折口）",
+      "path": "src/content/recipes/sf-worcester-meat-sauce-omelette.md",
+      "supports": "FAQ 中收汁、置中及加蓋熟成的操作順序。"
+    },
+    {
+      "title": "Western Omelette Recipe — Food Network Kitchen",
+      "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/western-omelette-recipe-2011477",
+      "supports": "先準備內餡，再將餡料與起司放入蛋中並對折，加蓋可讓蛋體進一步熟成。"
+    },
+    {
+      "title": "Shell Eggs from Farm to Table — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/eggs/shell-eggs-farm-table",
+      "supports": "一般雞蛋應煮至蛋白與蛋黃凝固；未全熟食譜可使用巴氏殺菌蛋。"
     }
   ]
 }

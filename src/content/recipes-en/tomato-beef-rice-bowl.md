@@ -57,20 +57,19 @@ steps:
 - Taste (add a pinch more sugar if tomato is tart); ladle tomato beef and sauce over rice.
 tips:
 - If tomato is sharp, add a pinch more sugar.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Best eaten right away.
 substitutions:
 - Canned tomatoes
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: "How thick should the tomato-beef sauce be?"
+  answer: "Cook the tomato until softened and juicy, then add ketchup and sugar and reduce until slightly thick. Finish with the remaining soy sauce and spoon the sauce over the rice."
 relatedIngredients:
 - 牛肉
 - 番茄
 - 白飯
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Scallions
 - Chili

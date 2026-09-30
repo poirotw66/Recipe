@@ -1,16 +1,24 @@
 {
   "slug": "sf-smoked-salmon-caesar-salad",
   "title": "經典燻鮭魚凱薩沙拉",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Replaced the undefined premade Caesar-salad ingredient with an identical six-item ingredient list in all locales and changed the egg to hard-boiled. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語描述與介紹已聚焦燻鮭魚、全熟水煮蛋及凱薩醬蘿蔓；組裝步驟補上食材表已有的切半雞蛋，移除未使用的海鹽，提示與問答改為水煮蛋處理。本次依既有配料與步驟修訂文字，未宣稱實際試煮、風味結果或餐廳來源；時間、產量與成品仍待廚房試作確認。",
+      "suggested_fix": "請下廚依文試作，記錄備料與烹調時間、實際產量並確認成品，再依結果更新文章與審查狀態。",
+      "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "原食材表列出海鹽但步驟未使用；本次已移除該項，並把原本漏在組裝步驟之外的水煮蛋補入。",
+      "suggested_fix": "試作時確認燻鮭魚與凱薩醬的整體調味；若需額外鹽分，再記錄經試作確認的份量。",
       "source": "agent"
     }
-  ]
+  ],
+  "repair_summary": "四語描述與介紹已聚焦燻鮭魚、全熟水煮蛋及凱薩醬蘿蔓；組裝步驟補上食材表已有的切半雞蛋，移除未使用的海鹽，提示與問答改為水煮蛋處理。"
 }

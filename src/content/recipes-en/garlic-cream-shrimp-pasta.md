@@ -23,13 +23,13 @@ tags:
 - Pasta
 - Seafood
 tips:
-- Keep the cream sauce on low heat to avoid splitting.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Keep the cream sauce on low heat to avoid splitting."
+  - "Remove the shrimp once they turn opaque and curl. Return them after the cream sauce and pasta are combined, then toss briefly so they do not become rubbery."
 substitutions:
 - Salmon cubes
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "What should I do if the cream sauce is too thick?"
+    answer: "After adding the pasta, mix in the reserved pasta water a little at a time. Stop once the sauce lightly coats the noodles; you may not need all of it."
 relatedIngredients:
 - 義大利麵
 - 蝦仁
@@ -69,16 +69,16 @@ seasonings:
   unit: tsp
 intro: Sear shrimp separately, then build cream sauce with pasta water for the right cling.
 steps:
-- Peel and devein shrimp 120 g; pat dry with paper towels. Mince 3 garlic cloves.
-- Bring a pot of salted water to a boil; cook spaghetti 80 g 7–9 minutes per package until al dente, drain, and reserve 1 cup pasta water.
-- Heat a skillet over medium heat with 1 tbsp olive oil and minced garlic; cook over low heat about 30 seconds until fragrant (do not burn).
-- Raise heat to high; add shrimp and stir-fry 1–2 minutes until pink and curled; remove promptly.
-- Lower heat; add 20 g butter and 100 ml milk; stir gently until simmering; add 3–4 tbsp pasta water to reach a creamy sauce consistency.
-- Add pasta and shrimp; toss over high heat 1 minute until sauce coats the noodles. Season with a pinch of salt, black pepper, and 1 tsp lemon juice; serve hot.
+  - "Peel and devein shrimp 120 g; pat dry with paper towels. Mince 3 garlic cloves."
+  - "Bring a pot of salted water to a boil; cook spaghetti 80 g 7–9 minutes per package until al dente, drain, and reserve 1 cup pasta water."
+  - "Heat a skillet over medium heat with 1 tbsp olive oil and minced garlic; cook over low heat about 30 seconds until fragrant (do not burn)."
+  - "Raise the heat to high and stir-fry the shrimp for 1–2 minutes. Use a food thermometer to check the center of the largest shrimp reaches 145°F (63°C), then transfer them out of the pan."
+  - "Lower heat; add 20 g butter and 100 ml milk; stir gently until simmering; add 3–4 tbsp pasta water to reach a creamy sauce consistency."
+  - "Add pasta and shrimp; toss over high heat 1 minute until sauce coats the noodles. Season with a pinch of salt, black pepper, and 1 tsp lemon juice; serve hot."
 storage: Best fresh; reheat with a little milk if needed.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ---
 
 Garlic cream shrimp pasta is the crowd favorite among richer pasta bowls on the site.

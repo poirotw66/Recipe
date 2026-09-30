@@ -1,8 +1,7 @@
 ---
 title: Mushroom Cheese Omelette
 recipeId: sf-mushroom-cheese-omelette
-description: "A measured home recipe for Mushroom Cheese Omelette, with clear
-  preparation and cooking steps."
+description: "A three-egg omelette with sautéed mushrooms and mixed cheese, served with toasted baguette."
 coverImage: /images/recipes/sf-mushroom-cheese-omelette.webp
 servings: 2
 prepTime: 20
@@ -18,8 +17,7 @@ equipment:
   - Oven
 tags:
   - Brunch
-intro: "Cook the fillings first and prepare the eggs last. Use pasteurized eggs
-  for a runny or soft center; cook ordinary eggs until set."
+intro: "Season three eggs with sea salt, black pepper, and a little cream; fold sautéed mushrooms and mixed cheese inside once the omelette is partly set, then serve with baguette."
 steps:
   - Beat 3 eggs for the omelette with 1/3 tsp sea salt, 1/4 tsp cracked black
     pepper, and a little cream; prep 120 g sautéed mushrooms, 40 g mixed cheese,
@@ -36,14 +34,8 @@ steps:
     center stays moist; check the fold is cooked through.
   - Plate the omelette and toasted baguette separately; serve hot.
 tips:
-  - Prepare the fillings first and cook the eggs last. Cook eggs through, or use
-    pasteurized eggs if serving them runny.
-  - Use pasteurized eggs for a soft or runny center; cook ordinary eggs until
-    fully set.
-  - Use pasteurized eggs for runny or soft-cooked eggs; cook ordinary eggs until
-    both white and yolk are set.
-  - Cook the fillings first and prepare the eggs last. Use pasteurized eggs for
-    a runny or soft center; cook ordinary eggs until set.
+  - "Cook the mushrooms until their released moisture has evaporated before using them as filling; add the cheese at the center and cover the folded omelette over low heat for 30 seconds."
+  - "Use pasteurized eggs if keeping a soft, partly set center; cook ordinary eggs until fully set."
 storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
   and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
   toppings, greens, or soft-cooked eggs separately to protect texture.
@@ -60,7 +52,7 @@ customAdditions:
   - Balsamic on the side
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: eggs
     amount: "3"
@@ -93,7 +85,6 @@ seasonings:
     unit: g
     isCore: true
 faqs:
-  - question: Can I cook the eggs ahead?
-    answer: You can prep the other ingredients ahead. Cook the eggs close to serving
-      and to your preferred safe doneness.
+  - question: "How dry should the mushrooms be before they go into the omelette?"
+    answer: "After the mushrooms release moisture, reduce the heat and cook until the liquid in the pan has evaporated; keep them warm. Add the mushrooms and cheese down the center once the eggs are partly set and the bottom has begun to firm. If liquid remains, reduce it before filling the omelette."
 ---

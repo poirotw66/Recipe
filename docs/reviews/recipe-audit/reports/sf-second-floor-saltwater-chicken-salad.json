@@ -1,15 +1,15 @@
 {
   "slug": "sf-second-floor-saltwater-chicken-salad",
-  "title": "鹽水雞苦瓜玉米沙拉",
-  "reviewed_at": "2026-09-29",
+  "title": "鹽水煮雞胸苦瓜玉米沙拉",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
-  "confidence_score": 0.9,
+  "confidence_score": 0.92,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Replaced an undefined dressing and fryer method with measured rice-vinegar dressing and stovetop poaching to 74°C; yield and 300 g chicken now match two portions. Text review covered all four locale bodies. Recipe timing, yield, and sensory outcome remain unverified because no kitchen trial was performed; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語已對齊材料與做法：雞肉鹽水低溫煮至中心 74°C、汆燙苦瓜、煎香玉米、量取米醋油醬；也釐清用油分配、組裝與分開保存。沒有聲稱還原 Second Floor 餐廳配方或醬汁來源，且尚未試作。",
+      "suggested_fix": "若要主張餐廳還原，請提供可歸屬的原始鹽水與醬汁比例來源；另依本文試作家常版本，記錄時間、份量與平衡度後再評估索引。",
       "source": "agent"
     }
   ]

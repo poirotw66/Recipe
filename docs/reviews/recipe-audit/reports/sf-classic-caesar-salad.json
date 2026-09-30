@@ -1,16 +1,17 @@
 {
   "slug": "sf-classic-caesar-salad",
   "title": "經典凱薩沙拉",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Removed the unrelated salsa item and aligned listed greens, bacon, croutons, Caesar dressing, and Parmesan with the assembly steps. Text review covered all four locale bodies. Recipe timing, yield, and sensory outcome remain unverified because no kitchen trial was performed; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語描述與介紹已聚焦培根、麵包丁、帕瑪森和凱薩醬的組裝順序；步驟明列橄欖油、海鹽與黑胡椒份量，提示與問答已改為培根和麵包丁的預備方式。本次依既有配料與步驟修訂文字，未宣稱實際試煮、風味結果或餐廳來源；時間、產量與成品仍待廚房試作確認。",
+      "suggested_fix": "請下廚依文試作，記錄備料與烹調時間、實際產量並確認成品，再依結果更新文章與審查狀態。",
       "source": "agent"
     }
-  ]
+  ],
+  "repair_summary": "四語描述與介紹已聚焦培根、麵包丁、帕瑪森和凱薩醬的組裝順序；步驟明列橄欖油、海鹽與黑胡椒份量，提示與問答已改為培根和麵包丁的預備方式。"
 }

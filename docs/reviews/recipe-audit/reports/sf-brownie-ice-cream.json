@@ -1,15 +1,15 @@
 {
   "slug": "sf-brownie-ice-cream",
   "title": "布朗尼冰淇淋",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Removed unused butter and sugar, and aligned the warm-brownie assembly, two portions, and short reheating steps. Text review covered all four locale bodies. Recipe timing, yield, and sensory outcome remain unverified because no kitchen trial was performed; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "已保留回烤與短暫靜置後現組現吃，並將保存說明限定為布朗尼、冰淇淋分開且依各自包裝處理，避免把不相干的熟食回熱說明套用到甜點。四語核對完成；尚未試作，回烤時間及布朗尼、冰淇淋的實際產品狀態待確認。",
+      "suggested_fix": "請由實際下廚者依文操作，記錄備料及回烤時間、份量與成品狀態，再依試作證據修訂內容及評估索引狀態。",
       "source": "agent"
     }
   ]

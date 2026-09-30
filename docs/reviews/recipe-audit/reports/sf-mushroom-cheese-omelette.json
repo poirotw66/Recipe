@@ -1,16 +1,46 @@
 {
   "slug": "sf-mushroom-cheese-omelette",
   "title": "蕈菇奶起司歐姆蕾",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Changed finished omelet and sautéed-mushroom components to raw eggs and mushrooms, listed cooking butter, and added safe egg-doneness guidance. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "新增四語專屬 FAQ，說明蘑菇出水後轉小火至鍋中液體蒸發，再與起司置中包入半凝固蛋皮；若仍有液體則先收乾。依本篇步驟、Food Network 蘑菇料理方法及 USDA FSIS 蛋品安全指引核對；未進行廚房試作，實際時間、份量與口感仍待確認。",
+      "suggested_fix": "請料理者依配方試作，確認蘑菇收乾程度、包餡操作、實際用時與產量，並確認蛋熟度及中心質地後再更新文章與索引評估。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將配料「蘑菇」與步驟中的「奶油炒菇」判為不符；步驟確實使用該蘑菇，屬名稱詞形比對誤報。預檢亦未將步驟中的「胡椒」對應到配料「黑胡椒碎」；人工核對確認為同一調味料。",
+      "suggested_fix": "配料與步驟已人工核對一致，無需更改食譜；此項為名稱詞形比對誤報，必要時再調整預檢的同義詞規則。",
+      "source": "precheck"
+    }
+  ],
+  "repair_summary": "新增四語專屬 FAQ，說明蘑菇出水後轉小火至鍋中液體蒸發，再與起司置中包入半凝固蛋皮；若仍有液體則先收乾。依本篇步驟、Food Network 蘑菇料理方法及 USDA FSIS 蛋品安全指引核對；未進行廚房試作，實際時間、份量與口感仍待確認。",
+  "references": [
+    {
+      "title": "本篇配方步驟（蘑菇出水後轉小火收乾，再置中包入蛋皮）",
+      "path": "src/content/recipes/sf-mushroom-cheese-omelette.md",
+      "supports": "FAQ 中的收乾判斷與包餡順序。"
+    },
+    {
+      "title": "Sautéed Mushrooms — Food Network",
+      "url": "https://www.foodnetwork.com/recipes/sauteed-mushrooms-recipe-2129535",
+      "supports": "蘑菇持續烹煮至液體蒸發，再起鍋。"
+    },
+    {
+      "title": "How to Sauté Mushrooms — Food Network",
+      "url": "https://www.foodnetwork.com/how-to/packages/food-network-essentials/how-to-saute-mushrooms",
+      "supports": "蘑菇持續加熱至停止出水；潮濕表面會妨礙上色。"
+    },
+    {
+      "title": "Shell Eggs from Farm to Table — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/eggs/shell-eggs-farm-table",
+      "supports": "一般雞蛋應煮至蛋白與蛋黃凝固；未全熟食譜可使用巴氏殺菌蛋。"
     }
   ]
 }

@@ -53,21 +53,21 @@ steps:
 - Return beef; drizzle in the soy sauce and salt mixture; toss over high heat about 1 minute until evenly seasoned.
 - When beef is cooked through and cabbage still has some crunch, serve.
 tips:
-- Do not overcook cabbage—some crunch is the point.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Do not overcook cabbage—some crunch is the point."
+  - "Set the beef aside while the cabbage cooks over high heat until just softened. Return the beef for only the final minute so the cabbage stays crisp and the beef does not overcook."
 storage: Eat within 1 day refrigerated; reheat briefly.
 substitutions:
 - Bok choy
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "How do I keep the cabbage crisp?"
+    answer: "Set the beef aside. Stir-fry the cabbage over high heat until just softened at the edges, then return the beef and toss for about 1 minute."
 relatedIngredients:
 - 牛肉
 - 高麗菜
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Scallions
 - Chili

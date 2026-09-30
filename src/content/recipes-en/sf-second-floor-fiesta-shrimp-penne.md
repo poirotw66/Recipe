@@ -1,8 +1,7 @@
 ---
 title: Second Floor Fiesta Shrimp Penne
 recipeId: sf-second-floor-fiesta-shrimp-penne
-description: "A measured home recipe for Second Floor Fiesta Shrimp Penne, with
-  clear preparation and cooking steps."
+description: "Season shrimp with taco seasoning and chili flakes, then toss with penne and cream sauce."
 coverImage: /images/recipes/sf-second-floor-fiesta-shrimp-penne.webp
 servings: 2
 prepTime: 18
@@ -17,34 +16,18 @@ equipment:
   - Small saucepan
 tags:
   - Rice & pasta
-intro: "Boil the pasta just shy of tender and reserve some pasta water, then
-  finish the sauce in the pan. Return seafood or meat only at the end to avoid
-  overcooking."
+intro: "Season the shrimp with the measured taco seasoning, chili flakes, and black pepper. Thin the cream sauce with pasta water before tossing with the penne."
 steps:
-  - "Prep: peel and devein shrimp 180 g and pat dry; mix taco seasoning as
-    needed with chili flakes ½ tsp into a Mexican spice blend. Mince garlic 2
-    cloves."
-  - Bring a large pot of water to a rolling boil over high heat; add sea salt
-    1/3 tsp. Cook penne 180 g 1 minute less than package time until al dente;
-    drain and reserve about ½ cup pasta cooking water.
-  - Heat olive oil 1 Tbsp in a skillet over medium-high heat; lay shrimp in a
-    single layer, sprinkle taco spice blend, and sear about 1 minute per side
-    until pink, curled, and lightly charred with spice aroma; set aside.
-  - Lower heat; sauté minced garlic until fragrant, about 20 seconds.
-  - Add cream sauce as needed and 3–4 Tbsp pasta water; stir over low heat until
-    lightly simmering and smooth with a creamy aroma.
-  - Raise heat to high; add penne and seared shrimp; toss vigorously 1–2 minutes
-    until cream sauce coats the tube centers.
-  - Plate in a deep dish
+  - "Prep: peel and devein shrimp 180 g and pat dry; mix 1 tsp taco seasoning, chili flakes ½ tsp, and cracked black pepper ¼ tsp into a Mexican spice blend. Mince garlic 2 cloves."
+  - "Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp. Cook penne 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water."
+  - "Heat olive oil 1 Tbsp in a skillet over medium-high heat; lay shrimp in a single layer, sprinkle taco spice blend, and sear about 1 minute per side until a food thermometer inserted in the thickest part reads 63°C (145°F) and the flesh is opaque and curled with a light spice crust. If not done, keep cooking and check again; set aside once done."
+  - "Lower heat; sauté minced garlic until fragrant, about 20 seconds."
+  - "Add cream sauce 2 Tbsp and 3–4 Tbsp pasta water; stir over low heat until lightly simmering and smooth with a creamy aroma."
+  - "Raise heat to high; add penne and seared shrimp; toss vigorously 1–2 minutes until cream sauce coats the tube centers."
+  - "Plate in a deep dish"
 tips:
-  - Wash hands and tools after handling raw meat. Cook poultry to 165°F (74°C)
-    and fish to 145°F (63°C).
-  - Boil the pasta just shy of tender and reserve some pasta water, then finish
-    the sauce in the pan. Return seafood or meat only at the end to avoid
-    overcooking.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - "Pat the shrimp dry before searing. Use the listed 1 teaspoon taco seasoning, ½ teaspoon chili flakes, ¼ teaspoon black pepper, and 2 tablespoons cream sauce."
+storage: "Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
 substitutions:
   - pasta
   - jasmine rice
@@ -57,7 +40,7 @@ customAdditions:
   - House chili sauce
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: taco seasoning
     amount: "1"
@@ -92,7 +75,6 @@ seasonings:
     amount: 1/2
     unit: tsp
 faqs:
-  - question: How can I check doneness?
-    answer: "Use a food thermometer at the thickest point: 165°F (74°C) for poultry
-      and 145°F (63°C) for fish."
+  - question: "How can I tell when the shrimp are cooked?"
+    answer: "Check that the thickest part reaches 63°C (145°F). If you do not have a thermometer, look for firm, pearly, opaque flesh. Remove the shrimp once done to avoid overcooking."
 ---

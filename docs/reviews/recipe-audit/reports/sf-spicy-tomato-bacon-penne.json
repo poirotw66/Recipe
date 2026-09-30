@@ -1,16 +1,24 @@
 {
   "slug": "sf-spicy-tomato-bacon-penne",
   "title": "辣茄汁香煸培根長管麵",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Set a measured tomato amount and chili-sauce quantity for a reproducible bacon tomato sauce. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語步驟保留培根不加油煸出油脂的順序，清單已移除未使用的橄欖油；並將步驟明列的蒜頭 2 瓣補回食材表。實際時間、產量與麵醬濃稠度仍待試作確認。",
+      "suggested_fix": "請依本篇配方試作並確認培根出油量、番茄出汁量與煮麵水調整是否足以裹住麵條，再據此校準時間與文字。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將步驟中已明列的「黑胡椒碎」誤判為未列食材；食材表有相同項目，此訊號屬複合詞比對的誤報。",
+      "suggested_fix": "保留食材表與步驟中的黑胡椒用量；若後續調整預檢器，補上「黑胡椒碎」的詞彙對應。",
+      "source": "precheck"
     }
-  ]
+  ],
+  "repair_summary": "四語步驟中的蒜頭 2 瓣已補入食材表；移除與培根不加油煸炒順序相矛盾的橄欖油項目。培根出油、醬汁濃度與實際份量仍待廚房試作確認。"
 }

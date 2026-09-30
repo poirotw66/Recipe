@@ -33,14 +33,13 @@ steps:
 - 味を見て調整し、炒めた水蓮と鶏むねをたれごとご飯の上にのせて召し上がる。
 tips:
 - 鶏むねは炒めすぎないと柔らかくなります。
-- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
 storage: できたてがおすすめ。お弁当は冷蔵し十分に冷やす。
 substitutions:
 - 鶏もも肉
 - 豚肉
 faqs:
-- question: "主材料をパサつかせないコツは？"
-  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
+- question: "水蓮の歯ごたえを残すには、いつ加えますか？"
+  answer: "鶏肉の表面に火が通ったら取り出し、水蓮を強火で約1分炒めます。鶏肉を戻してたれを絡め、仕上げます。"
 relatedIngredients:
 - 水蓮
 - 鶏むね肉
@@ -48,7 +47,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ingredients:
 - name: 水蓮
   amount: '150'

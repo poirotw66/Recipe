@@ -1,8 +1,7 @@
 ---
 title: Classic Caesar Salad
 recipeId: sf-classic-caesar-salad
-description: "A measured home recipe for Classic Caesar Salad, with clear
-  preparation and cooking steps."
+description: "Toss greens with Caesar dressing, crisp bacon, baked croutons, and Parmesan."
 coverImage: /images/recipes/sf-classic-caesar-salad.webp
 servings: 2
 prepTime: 15
@@ -18,21 +17,14 @@ equipment:
   - Oven
 tags:
   - Appetizers
-intro: "Wash and thoroughly dry the greens, then dress them just before serving.
-  Add crisp toppings at the end."
+intro: "Bake and cool the croutons, then cook and drain the bacon. Dress the well-drained greens just before serving and finish with bacon, croutons, and Parmesan."
 steps:
-  - Wash and thoroughly dry the greens. Slice the bacon and grate the Parmesan.
-  - Preheat the oven to 350°F (180°C). Toss the croutons with a little olive oil
-    and bake 6–8 minutes until golden; cool to crisp.
-  - Cook the bacon in a skillet over medium heat until cooked through and crisp
-    at the edges; drain.
-  - Toss the greens with the Caesar dressing. Add the bacon and croutons, then
-    finish with Parmesan, salt, and pepper. Serve immediately.
+  - "Wash and thoroughly dry the greens. Slice the bacon and grate the Parmesan."
+  - "Preheat the oven to 350°F (180°C). Toss the croutons with a little olive oil and bake 6–8 minutes until golden; cool to crisp."
+  - "Cook the bacon in a skillet over medium heat until cooked through and crisp at the edges; drain."
+  - "Toss the greens with the Caesar dressing. Add the bacon and croutons, then finish with Parmesan, salt 1/4 tsp, and black pepper 1/4 tsp. Serve immediately."
 tips:
-  - Dry the greens so the dressing clings. Add the croutons just before serving
-    to keep them crisp.
-  - Wash and thoroughly dry the greens, then dress them just before serving. Add
-    crisp toppings at the end.
+  - "Toss the croutons with the listed 1 teaspoon olive oil before baking. Let them cool before adding them to the salad."
 storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
   and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
   toppings, greens, or soft-cooked eggs separately to protect texture.
@@ -43,7 +35,7 @@ relatedIngredients:
   - Parmesan cheese
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: Mixed greens
     amount: "120"
@@ -75,7 +67,6 @@ seasonings:
     amount: 1/4
     unit: tsp
 faqs:
-  - question: Can I prep this ahead?
-    answer: Cook the bacon and croutons ahead and store them separately. Toss the
-      greens with dressing just before serving.
+  - question: "What can I prepare before assembling the salad?"
+    answer: "Bake and cool the croutons and cook and drain the bacon ahead. Keep them separate; dress the greens just before serving."
 ---

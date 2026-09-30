@@ -23,8 +23,8 @@ tags:
 - Quick
 - Pantry meals
 tips:
-- Water-packed tuna cuts fat; add a little olive oil for flavor if needed.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Water-packed tuna cuts fat; add a little olive oil for flavor if needed."
+  - "Drain only the excess oil from the tuna, mix it with the mayonnaise and soy sauce, then place it on hot rice. Fry the egg just before serving if using one."
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -65,13 +65,11 @@ steps:
 - Toss while rice is still hot for the best blend; best served fresh.
 storage: Best fresh; filling keeps 1 day refrigerated—reheat before serving.
 faqs:
-- question: No mayonnaise?
-  answer: Yogurt or a little olive oil works for a lighter taste.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "No mayonnaise?"
+    answer: "Yogurt or a little olive oil works for a lighter taste."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ---
 
 A fast, pantry-friendly solo dinner for small kitchens.

@@ -1,8 +1,7 @@
 ---
-title: Oat Crusted Fish And Fries
+title: "Oat-Crusted Baked Fish with Oven Fries"
 recipeId: sf-oat-crusted-fish-and-fries
-description: "A measured home recipe for Oat Crusted Fish And Fries, with clear
-  preparation and cooking steps."
+description: "Coat fish fillets in oats, flour, and egg, then roast them alongside thick-cut potatoes and serve with lemon."
 coverImage: /images/recipes/sf-oat-crusted-fish-and-fries.webp
 servings: 2
 prepTime: 15
@@ -18,12 +17,11 @@ equipment:
   - Rack
 tags:
   - Appetizers
-intro: "Pat the ingredients dry, cook in batches while keeping the oil
-  temperature steady, and toss with sauce after frying to preserve crispness."
+intro: "Roast the potato fries at 425°F (220°C) for 15 minutes, then turn them and add the coated fish on a separate tray for 10–12 minutes, until the fish reaches 145°F (63°C)."
 steps:
   - Preheat the oven to 425°F (220°C). Cut the potatoes into thick fries, toss
-    with half the oil and a pinch of salt, and roast for 15 minutes.
-  - Pulse or crush the oats lightly and mix with the flour and pepper. Pat the
+    with half the oil and sea salt 1/2 tsp, and roast for 15 minutes.
+  - Pulse or crush the oats lightly and mix with the flour and black pepper 1/4 tsp. Pat the
     fish dry, dip it in beaten egg, then coat it with the oat mixture.
   - Turn the fries. Place the fish on a separate tray and brush with the
     remaining oil. Roast for 10–12 minutes, until the fish reaches 145°F (63°C)
@@ -31,13 +29,8 @@ steps:
   - Serve hot with lemon. Wash any plate or utensil that touched raw fish before
     reusing it.
 tips:
-  - Fry in batches and drain on a rack so the oil temperature does not drop
-    sharply.
-  - Pat the ingredients dry, cook in batches while keeping the oil temperature
-    steady, and toss with sauce after frying to preserve crispness.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - "Pat the fish dry before dipping it in egg, then press on the oat coating. Check the thickest part of the fish for 145°F (63°C)."
+storage: "Serve the fish and fries fresh. Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
 substitutions:
   - frozen fries
   - romaine hearts
@@ -47,7 +40,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: white fish fillets
     amount: "300"
@@ -63,7 +56,7 @@ ingredients:
     isCore: true
   - name: egg
     amount: "1"
-    unit: ""
+    unit: egg
     isCore: true
   - name: all-purpose flour
     amount: "25"
@@ -84,10 +77,7 @@ seasonings:
     isCore: true
   - name: lemon
     amount: 1/2
-    unit: ""
+    unit: lemon
     isCore: true
-faqs:
-  - question: Can I reheat leftovers?
-    answer: Fried food is best fresh. Refrigerate leftovers and reheat in an oven or
-      air fryer until hot throughout.
+faqs: []
 ---

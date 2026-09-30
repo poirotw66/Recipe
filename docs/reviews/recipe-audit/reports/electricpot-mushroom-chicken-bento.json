@@ -1,8 +1,23 @@
 {
   "slug": "electricpot-mushroom-chicken-bento",
   "title": "電鍋菇菇雞胸便當菜",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Safety_Risk",
+      "severity": "Warning",
+      "description": "四語已移除共用靜置提示及乾柴問答，改為洋蔥、菇、雞肉的分層與雞片留縫提示；雞肉熟度改以最厚處中心74°C量測。尚未試作，電鍋功率與菇類出水量待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ],
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "禽肉中心至少165°F（74°C）；本篇改以溫度計確認最厚處，不依賴肉汁顏色。"
+    }
+  ]
 }

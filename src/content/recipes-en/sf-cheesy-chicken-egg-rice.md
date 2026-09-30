@@ -1,8 +1,7 @@
 ---
 title: Cheesy Chicken Egg Rice
 recipeId: sf-cheesy-chicken-egg-rice
-description: "A measured home recipe for Cheesy Chicken Egg Rice, with clear
-  preparation and cooking steps."
+description: "Cooked rice stir-fried with chicken breast, broccoli, egg, and cheddar; cook the chicken to 165°F (74°C)."
 coverImage: /images/recipes/sf-cheesy-chicken-egg-rice.webp
 servings: 1
 prepTime: 12
@@ -18,8 +17,7 @@ equipment:
   - Small saucepan
 tags:
   - Kids plates
-intro: "Use cooked, loosened rice and add it after the other ingredients are
-  cooked so the grains can absorb the seasoning before serving."
+intro: "Cook the chicken to 165°F (74°C) first. Stir-fry the broccoli in the same pan, then add the cooked rice and soy sauce; scramble the egg until set before returning the chicken and melting in the cheddar."
 steps:
   - Cut the chicken into 1.5 cm pieces, chop the broccoli into small florets,
     beat the egg, and loosen the cooked rice.
@@ -30,16 +28,13 @@ steps:
     sauce.
   - Push the rice aside, add the egg, and scramble until fully set; fold it
     through the rice.
-  - Return the chicken, add the cheese, and stir until melted. Season with salt
+  - Return the chicken, add the cheddar cheese, and stir until melted. Season with salt
     and pepper and serve hot.
 tips:
-  - Wash hands and tools after handling raw meat. Cook poultry to 165°F (74°C)
-    and fish to 145°F (63°C).
-  - Use cooked, loosened rice and add it after the other ingredients are cooked
-    so the grains can absorb the seasoning before serving.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - "Cut the chicken into the listed 1.5 cm pieces and check the thickest piece for 165°F (74°C). Wash hands and tools after handling raw chicken."
+  - "Loosen the cooked rice before adding it, and cook the egg until fully set before folding it through the rice."
+  - "Transfer the cooked chicken to a clean plate while the broccoli and rice cook in the same pan; return it only at the step shown."
+storage: "Serve soon after cooking. Refrigerate leftovers within 2 hours and reheat to 165°F (74°C) before eating."
 substitutions:
   - cooked rice
   - corn kernels
@@ -51,7 +46,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: chicken breast
     amount: "150"
@@ -91,7 +86,8 @@ seasonings:
     unit: tsp
     isCore: true
 faqs:
-  - question: How can I check doneness?
-    answer: "Use a food thermometer at the thickest point: 165°F (74°C) for poultry
-      and 145°F (63°C) for fish."
+  - question: "Can I use chilled cooked rice?"
+    answer: "Yes. Loosen the clumps before adding it to the pan. This recipe uses cooked rice, not uncooked rice."
+  - question: "Why move the cooked chicken to a clean plate?"
+    answer: "The method removes it while the broccoli and rice cook, then returns it at the end. Keep the plate used for cooked chicken clean."
 ---

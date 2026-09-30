@@ -51,20 +51,20 @@ steps:
 - Return mushrooms; drizzle in the soy sauce and pepper mixture; toss over high heat about 30 seconds until evenly coated.
 - When beef is cooked through and mushrooms still have some chew, serve.
 tips:
-- Let mushroom liquid cook off patiently for better flavor.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Let mushroom liquid cook off patiently for better flavor."
+  - "Cook the mushrooms until their released moisture evaporates, then set them aside. Return them with the beef and soy sauce at the end so the sauce stays concentrated."
 storage: Best eaten right after cooking.
 substitutions:
 - King oyster mushroom
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "How do I keep the mushrooms from turning watery?"
+    answer: "Cook the mushrooms over medium heat until they release moisture, then continue for 2–3 minutes until the pan dries and they smell lightly toasted. Set them aside before cooking the beef."
 relatedIngredients:
 - Beef
 - Mushrooms
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Scallions
 - Chili

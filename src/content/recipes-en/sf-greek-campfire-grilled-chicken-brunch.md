@@ -1,8 +1,7 @@
 ---
-title: Greek Campfire Grilled Chicken Brunch
+title: Greek-Style Herb Chicken Pita Brunch
 recipeId: sf-greek-campfire-grilled-chicken-brunch
-description: "A measured home recipe for Greek Campfire Grilled Chicken Brunch,
-  with clear preparation and cooking steps."
+description: "Pan-seared oregano chicken with pita, cucumber, cherry tomatoes, and lemon yogurt sauce; a one-serving brunch recipe."
 coverImage: /images/recipes/sf-greek-campfire-grilled-chicken-brunch.webp
 servings: 1
 prepTime: 15
@@ -19,8 +18,7 @@ equipment:
   - Oven
 tags:
   - Linkou specials
-intro: "Cook the main ingredient to a safe doneness before finishing the sauce
-  and sides; adjust time for its thickness."
+intro: "Season the chicken with oregano, salt, and pepper, then cook it until the thickest part reaches 165°F (74°C) and rest it. Warm the pita as directed on its package and serve with the vegetables and lemon yogurt sauce."
 steps:
   - Pat the chicken dry and season with salt, pepper, and oregano. Slice the
     cucumber, halve the tomatoes, and stir a little lemon juice into the yogurt.
@@ -30,16 +28,9 @@ steps:
   - Warm the pita according to its package directions and slice the chicken.
   - Serve the chicken with the vegetables, pita, and lemon yogurt sauce.
 tips:
-  - Prepare the fillings first and cook the eggs last. Cook eggs through, or use
-    pasteurized eggs if serving them runny.
-  - Cook the main ingredient to a safe doneness before finishing the sauce and
-    sides; adjust time for its thickness.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
-substitutions:
-  - pita bread
-  - zucchini
+  - Chicken thickness affects cooking time. Check the thickest part for 165°F (74°C), then rest it for 3 minutes.
+  - Warm the pita according to its package directions. Stir a little lemon juice into the yogurt first and add more to taste.
+storage: "Serve freshly made when possible. Refrigerate leftovers within 2 hours and use within 3 to 4 days. Store the chicken separately from the pita, vegetables, and lemon yogurt sauce; reheat chicken to 165°F (74°C)."
 relatedIngredients:
   - grilled chicken
   - pita bread
@@ -47,7 +38,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: chicken breast
     amount: "180"
@@ -91,7 +82,6 @@ seasonings:
     unit: tsp
     isCore: true
 faqs:
-  - question: Can I cook the eggs ahead?
-    answer: You can prep the other ingredients ahead. Cook the eggs close to serving
-      and to your preferred safe doneness.
+  - question: Which ingredients can I prepare ahead?
+    answer: Slice the cucumber and tomatoes ahead and refrigerate them. Cook the chicken and warm the pita close to serving, then serve with the lemon yogurt sauce.
 ---

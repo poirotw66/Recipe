@@ -1,15 +1,15 @@
 {
   "slug": "sf-chicken-quesadilla",
   "title": "雞肉起司酥餅",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Aligned the recipe with stovetop quesadilla cooking and measured chicken, tortilla, filling, and serving quantities; chicken reaches 74°C. Text review covered all four locale bodies. Recipe timing, yield, and sensory outcome remain unverified because no kitchen trial was performed; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "將四語描述與前言改為雞胸、玉米薄餅、起司、莎莎醬及搭配醬料的實際順序；以餅色、起司融化和中小火提供翻面判斷，移除重複前言提示。保留 Warning：未經廚房試作，實際用時、份量、口感仍待確認；未宣稱試煮或餐廳來源。",
+      "suggested_fix": "請廚師依文稿試作，確認材料實際用量、時間、產量、火候與口感，再依試作結果修訂；完成廚房驗證前維持 Warning。",
       "source": "agent"
     }
   ]

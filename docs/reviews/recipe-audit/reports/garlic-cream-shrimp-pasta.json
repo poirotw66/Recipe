@@ -1,8 +1,23 @@
 {
   "slug": "garlic-cream-shrimp-pasta",
   "title": "蒜香奶油鮮蝦麵",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Safety_Risk",
+      "severity": "Warning",
+      "description": "四語已移除不適用於蝦仁的靜置提示與共用乾柴問答，補奶醬濃度可用煮麵水分次調整的 FAQ；蝦仁最厚處補63°C確認並避免久煮。尚未試作，蝦仁大小與奶醬稠度待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ],
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "魚貝海鮮中心至少145°F（約63°C）；本篇蝦仁以最大顆中心確認。"
+    }
+  ]
 }

@@ -1,16 +1,23 @@
 {
   "slug": "sf-truffle-mushroom-cream-pasta",
   "title": "松露蕈菇奶油麵",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Reduced the duplicated truffle sauce and measured the cream so the sauce proportions match the ingredient list. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語版的鮮奶油與松露醬份量已依食材表校正，以 Bon Appétit 的蕈菇煎色與煮麵水技法作為明確標示的參考，並移除不適用的海鮮／肉類套句、補完整盤步驟。實際時間、份量與口感仍待廚房試作；目前沒有宣稱已試煮或還原餐廳配方。",
+      "suggested_fix": "依食譜實際製作並記錄準備時間、烹調時間、產量及口感，再依結果修訂。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將步驟中的「胡椒」判成未列調味料；人工核對確認調味表已有相同的黑胡椒項目，屬複合詞比對誤報。",
+      "suggested_fix": "保留目前已人工核對的食材用法；機械預檢若要降低此類誤報，需支援複合詞、料理名稱與一般調味名稱的同義比對。",
+      "source": "precheck"
     }
   ]
 }

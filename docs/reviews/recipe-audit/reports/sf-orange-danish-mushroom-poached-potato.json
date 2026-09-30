@@ -1,16 +1,30 @@
 {
   "slug": "sf-orange-danish-mushroom-poached-potato",
-  "title": "丹麥酥皮蕈菇水波蛋馬鈴薯盤",
-  "reviewed_at": "2026-09-29",
+  "title": "丹麥酥皮蕈菇水波蛋馬鈴薯早午餐盤",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
-  "confidence_score": 0.9,
+  "confidence_score": 0.92,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Aligned the one-serving yield, ingredient amounts, single-plate assembly, time metadata, and egg-doneness guidance; runny eggs now require pasteurized eggs. Text review covered all four locale bodies. Recipe timing, yield, and sensory outcome remain unverified because no kitchen trial was performed; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語保留馬鈴薯先加蓋煮軟再開蓋煎色、蘑菇收乾與水波蛋輕滾下鍋等可執行細節，並移除不相關的通用保存句。起司醬、丹麥酥皮狀態與實際火力時間待確認，尚未試作。",
+      "suggested_fix": "請配方提供者確認丹麥酥皮商品與烘烤狀態、起司醬來源及橙味是否為預期特色；試作確認單人份量與時間後再評估收錄。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢把食材「原味丹麥酥皮」與步驟中的「丹麥酥皮」視為不同名稱，也把調味表的「海鹽」與步驟中的「鹽」判為未使用；人工核對確認食材與調味均已使用。",
+      "suggested_fix": "保留目前已人工核對的食材用法；機械預檢若要降低此類誤報，需支援複合詞、料理名稱與一般調味名稱的同義比對。",
+      "source": "precheck"
+    }
+  ],
+  "references": [
+    {
+      "title": "Keep Food Safe! Food Safety Basics — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe",
+      "supports": "支持熟食剩餘於室溫2小時內冷藏、3至4天內食用及回熱至165°F。"
     }
   ]
 }

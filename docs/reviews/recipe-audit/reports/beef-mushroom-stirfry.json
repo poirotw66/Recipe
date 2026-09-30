@@ -1,8 +1,16 @@
 {
   "slug": "beef-mushroom-stirfry",
   "title": "牛肉炒香菇",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "四語已將共用提示與問答改為菇類炒至收乾、再與牛肉回鍋的順序與熟度提示。尚未試作，實際出水量及鍋具火力待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ]
 }

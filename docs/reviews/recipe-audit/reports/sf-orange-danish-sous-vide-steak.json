@@ -1,16 +1,35 @@
 {
   "slug": "sf-orange-danish-sous-vide-steak",
-  "title": "橙香法式丹麥 舒肥牛排",
-  "reviewed_at": "2026-09-29",
+  "title": "橙香丹麥舒肥牛排荷包蛋早午餐盤",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.88,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Specified fully cooked, ready-to-eat sous-vide steak and aligned the two pastry-and-egg plates with a two-serving yield. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe-specific cook time, yield, and sensory results still need an actual kitchen check; no kitchen trial or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "新增熟食舒肥牛排上色步驟：依包裝處理，若允許平底鍋 finishing，先擦乾並用熱鍋快速煎至兩面上色，避免長煎令中心過熟；引用 Anova Culinary 上色指南。開封保存仍依包裝。產品規格及實作上色效果待確認，尚未試作。",
+      "suggested_fix": "確認牛排與配菜商品的包裝加熱方式，依本文試作並記錄時間、產量和熟度後再評估索引。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將步驟的「胡椒」判成未列調味料；人工核對確認調味表已有黑胡椒項目，屬複合詞比對誤報。",
+      "suggested_fix": "保留目前已人工核對的食材用法；機械預檢若要降低此類誤報，需支援複合詞、料理名稱與一般調味名稱的同義比對。",
+      "source": "precheck"
+    }
+  ],
+  "references": [
+    {
+      "title": "Sous Vide Searing Guide: Part 1 - Indoor — Anova Culinary",
+      "url": "https://anovaculinary.com/en-nz/blogs/blog/anova-searing-guide-part-1",
+      "supports": "支持舒肥牛排上色前擦乾表面、預熱鍋具並快速煎至所需色澤；本篇未採用其示例煎製時間。"
+    },
+    {
+      "title": "Keep Food Safe! Food Safety Basics — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe",
+      "supports": "支持熟食剩餘冷藏與回熱指引。"
     }
   ]
 }

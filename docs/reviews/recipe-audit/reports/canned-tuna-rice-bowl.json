@@ -1,8 +1,16 @@
 {
   "slug": "canned-tuna-rice-bowl",
   "title": "鮪魚罐頭飯",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "四語已移除與罐頭鮪魚、熟飯不符的肉類靜置提示及共用乾柴問答，補充鮪魚瀝汁、拌醬與熱飯組合的順序；保留替代美乃滋 FAQ。尚未試作，罐頭油水狀態待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ]
 }

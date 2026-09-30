@@ -1,8 +1,16 @@
 {
   "slug": "beef-tomato-noodles",
   "title": "番茄牛肉麵",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "四語已移除與薄牛肉片不符的靜置提示及共用乾柴問答，改為麵與湯分開盛裝、牛肉最後下鍋等本菜操作提示；保留番茄替換及肉片替代 FAQ。尚未試作，麵條品牌時間待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ]
 }

@@ -1,8 +1,7 @@
 ---
 title: White Wine Garlic Clam Squid Ink Pasta
 recipeId: sf-white-wine-garlic-clam-squid-ink-pasta
-description: "A measured home recipe for White Wine Garlic Clam Squid Ink Pasta,
-  with clear preparation and cooking steps."
+description: "Steam clams with white wine, then toss the broth with garlic, pasta water, basil, and squid ink pasta."
 coverImage: /images/recipes/sf-white-wine-garlic-clam-squid-ink-pasta.webp
 servings: 2
 prepTime: 18
@@ -17,9 +16,7 @@ equipment:
   - Small saucepan
 tags:
   - Rice & pasta
-intro: "Boil the pasta just shy of tender and reserve some pasta water, then
-  finish the sauce in the pan. Return seafood or meat only at the end to avoid
-  overcooking."
+intro: "Purge and drain the clams first. Toast the garlic, steam the clams under a lid with white wine, then add pasta water and squid ink pasta; fold in the basil off the heat."
 steps:
   - "Prep: soak clams 400 g in water 1 hour to purge sand, then rinse and drain;
     slice 2 garlic cloves thinly; wash basil 10 g and set aside."
@@ -38,14 +35,8 @@ steps:
   - Turn off heat; fold in basil leaves for aroma.
   - Plate and serve while warm.
 tips:
-  - Wash hands and tools after handling raw meat. Cook poultry to 165°F (74°C)
-    and fish to 145°F (63°C).
-  - Boil the pasta just shy of tender and reserve some pasta water, then finish
-    the sauce in the pan. Return seafood or meat only at the end to avoid
-    overcooking.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - "Steam the clams covered until they open and discard any that remain closed. Reserve about 1 cup pasta water; add the stated 5–6 tablespoons to the broth."
+storage: "Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
 substitutions:
   - pasta
   - jasmine rice
@@ -57,7 +48,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: clams
     amount: "400"
@@ -88,8 +79,5 @@ seasonings:
   - name: white wine
     amount: "2"
     unit: tbsp
-faqs:
-  - question: How can I check doneness?
-    answer: "Use a food thermometer at the thickest point: 165°F (74°C) for poultry
-      and 145°F (63°C) for fish."
+faqs: []
 ---

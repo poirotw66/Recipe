@@ -1,16 +1,40 @@
 {
   "slug": "sf-supreme-cheese-omelette",
   "title": "總匯奶起司歐姆蕾",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Changed the finished omelet ingredient to raw eggs, aligned two plated portions with the yield, and added safe egg-doneness guidance. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "新增四語專屬問答，說明火腿玉米預先炒好、蛋液半凝固時將餡料置中、對折並加蓋檢查摺合處的操作理由；熟度安全注意事項依 USDA 指引。引用本篇定稿步驟、Food Network Kitchen 歐姆蕾食譜及 USDA FSIS 蛋品安全資料；仍未在廚房試作，實際時間、份量、口感及鮮奶油、奶油等未列用量待確認。",
+      "suggested_fix": "請料理者依定稿試作，記錄實際備料與烹調時間、成品份量及熟度；並由配方提供者確認未列出的鮮奶油、奶油用量，再依結果更新文章與索引評估。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢把材料「馬鈴薯」與步驟中的「炒薯」視為不同名稱；人工核對確認步驟已煎炒該配菜。步驟的「黑胡椒碎」也已列在調味表，胡椒訊號為複合詞誤報。",
+      "suggested_fix": "保留目前已人工核對的食材用法；機械預檢若要降低此類誤報，需支援複合詞、料理名稱與一般調味名稱的同義比對。",
+      "source": "precheck"
+    }
+  ],
+  "references": [
+    {
+      "title": "本篇配方步驟（餡料置中、對折、加蓋 30 秒）",
+      "path": "src/content/recipes/sf-supreme-cheese-omelette.md",
+      "supports": "FAQ 的配料順序、對折及熟度檢查。"
+    },
+    {
+      "title": "Western Omelette Recipe — Food Network Kitchen",
+      "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/western-omelette-recipe-2011477",
+      "supports": "先料理餡料，蛋煎好後將餡料置中再對折；加蓋能讓歐姆蕾更完整熟成。"
+    },
+    {
+      "title": "Shell Eggs from Farm to Table — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/eggs/shell-eggs-farm-table",
+      "supports": "一般雞蛋應煮至蛋白與蛋黃凝固；未全熟食譜可使用巴氏殺菌蛋。"
     }
   ]
 }

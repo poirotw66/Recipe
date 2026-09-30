@@ -1,15 +1,15 @@
 {
   "slug": "sf-cheesy-chicken-egg-rice",
   "title": "吃光光起司蛋雞肉飯",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Replaced undefined Dawn sauce, butter rice, and unlisted stock with a measured chicken-and-egg fried rice using cooked rice and listed seasonings. Text review covered all four locale bodies. Recipe timing, yield, and sensory outcome remain unverified because no kitchen trial was performed; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "將描述、前言、提示與 FAQ 聚焦於雞胸、花椰菜、熟飯、雞蛋和切達起司，移除無關魚肉安全資訊，保留雞肉中心74°C指引。四語內容已檢視；實際時間、份量與口感仍須廚房試作確認，未宣稱親自試作或餐廳來源。",
+      "suggested_fix": "請廚師依文稿實際試作，確認用水量、時間、產量及食材熟度與口感，再依試作結果修訂本文；完成廚房驗證前維持 Warning。",
       "source": "agent"
     }
   ]

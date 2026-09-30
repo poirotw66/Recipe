@@ -24,7 +24,6 @@ tags:
 - Rice bowl
 tips:
 - Split breast halves lengthwise before slicing strips for even thickness.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions: []
 relatedIngredients:
 - 白飯
@@ -71,11 +70,11 @@ storage: Refrigerate 1 day; microwave covered with a damp paper towel about 1 mi
 faqs:
 - question: Can I use chicken thigh?
   answer: Yes—juicier, slightly higher calories.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: "When should I add the sesame seeds so they do not turn bitter?"
+  answer: "Turn off the heat after reducing the sauce, then stir in the sesame seeds; do not keep frying them in the hot pan."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ---
 
 A gym-friendly rice bowl that still tastes like home cooking.

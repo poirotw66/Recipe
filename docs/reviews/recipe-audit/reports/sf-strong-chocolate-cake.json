@@ -1,16 +1,23 @@
 {
   "slug": "sf-strong-chocolate-cake",
   "title": "濃厚巧克力蛋糕",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Removed butter that was only listed as a side garnish and kept the sugar used in the cream-cheese frosting. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語已補齊奶油起司抹面後冷藏30分鐘、熱刀擦乾後切片等操作，修正器具並移除不適用的熟菜回熱及其他配菜保存文字；日本語糖名亦已校正。奶油起司抹面商品與分層蛋糕狀態、定型效果仍待實作確認。",
+      "suggested_fix": "請由實際下廚者依文操作，確認蛋糕分層、抹醬定型、切片及上桌安排，記錄實際時間與份量，再依試作證據修訂內容及評估索引狀態。",
       "source": "agent"
+    }
+  ],
+  "references": [
+    {
+      "title": "Keep Food Safe! Food Safety Basics — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe",
+      "supports": "支持易腐熟食於室溫2小時內冷藏及熟食剩餘3至4天內使用；奶油起司抹面另依冷藏保存需求處理。"
     }
   ]
 }

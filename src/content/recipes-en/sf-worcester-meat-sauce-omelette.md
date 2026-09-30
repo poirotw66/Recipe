@@ -1,8 +1,7 @@
 ---
 title: Worcester Meat Sauce Omelette
 recipeId: sf-worcester-meat-sauce-omelette
-description: "A measured home recipe for Worcester Meat Sauce Omelette, with
-  clear preparation and cooking steps."
+description: "An omelette filled with Worcestershire beef-tomato sauce and mixed cheese, served with pan-fried potatoes and baguette rolls."
 coverImage: /images/recipes/sf-worcester-meat-sauce-omelette.webp
 servings: 1
 prepTime: 20
@@ -18,16 +17,15 @@ equipment:
   - Oven
 tags:
   - Brunch
-intro: "Cook the fillings first and prepare the eggs last. Use pasteurized eggs
-  for a runny or soft center; cook ordinary eggs until set."
+intro: "Reduce the Worcestershire meat sauce slightly, then fold it with mixed cheese inside the omelette; serve with separately fried potatoes and toasted baguette."
 steps:
-  - Beat 3 eggs for the omelette with 1/3 tsp sea salt, 1/4 tsp cracked black
-    pepper, and a little cream; prep Worcestershire meat sauce to taste, 40 g
-    mixed cheese, 250 g fried potatoes, and 2 baguette rolls.
-  - Heat a skillet over medium with 1/2 tbsp olive oil; add Worcestershire meat
-    sauce to taste; cook until slightly reduced and fragrant; keep warm.
-  - In another skillet, fry 250 g potatoes over medium until golden and crisp;
-    season lightly with salt and pepper. Split and butter baguette rolls; bake
+  - Beat 3 eggs with 1/3 tsp sea salt, 1/4 tsp cracked black pepper, and a little
+    cream. Set out 120 g prepared fully cooked beef-tomato sauce, 40 g mixed
+    cheese, 250 g fried potatoes, and 2 baguette rolls.
+  - Heat a skillet over medium with 1/2 tbsp olive oil; add 120 g prepared fully
+    cooked beef-tomato sauce; reduce slightly until fragrant and keep warm.
+  - In another skillet, heat the remaining 1/2 tbsp olive oil and fry 250 g potatoes over medium until golden and crisp;
+    season lightly with sea salt and cracked black pepper. Split and butter baguette rolls; bake
     until lightly golden.
   - Reheat the skillet to medium; melt butter; pour in the eggs; stir in circles
     with a spatula until half-set.
@@ -38,12 +36,8 @@ steps:
   - On a large round plate, arrange the omelette, fried potatoes, and baguette;
     serve hot.
 tips:
-  - Prepare the fillings first and cook the eggs last. Cook eggs through, or use
-    pasteurized eggs if serving them runny.
-  - Use pasteurized eggs for runny or soft-cooked eggs; cook ordinary eggs until
-    both white and yolk are set.
-  - Cook the fillings first and prepare the eggs last. Use pasteurized eggs for
-    a runny or soft center; cook ordinary eggs until set.
+  - "Reduce the meat sauce slightly and keep it warm; fry and season the potatoes in a separate pan before cooking the omelette."
+  - "Use pasteurized eggs if keeping a soft, partly set center; cook ordinary eggs until fully set."
 storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
   and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
   toppings, greens, or soft-cooked eggs separately to protect texture.
@@ -60,7 +54,7 @@ customAdditions:
   - Balsamic on the side
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: eggs
     amount: "3"
@@ -76,7 +70,7 @@ ingredients:
     isCore: true
   - name: bread roll
     amount: "2"
-    unit: " servings"
+    unit: rolls
     isCore: true
 seasonings:
   - name: olive oil
@@ -91,8 +85,13 @@ seasonings:
   - name: prepared fully cooked beef-tomato sauce
     amount: "120"
     unit: g
+  - name: cream
+    amount: "a little"
+    unit: ""
+  - name: butter
+    amount: "as needed"
+    unit: ""
 faqs:
-  - question: Can I cook the eggs ahead?
-    answer: You can prep the other ingredients ahead. Cook the eggs close to serving
-      and to your preferred safe doneness.
+  - question: "When should I add the Worcestershire meat sauce so the omelette folds cleanly?"
+    answer: "Reduce the fully cooked sauce slightly and keep it warm first. When the eggs are partly set, place the sauce and 40 g mixed cheese down the center, then fold. If free liquid remains in the sauce, reduce it further before filling. Cover over low heat for 30 seconds and check that the fold is cooked through."
 ---

@@ -47,32 +47,30 @@ tags:
 - High-protein soup
 intro: Sliced breast cooks faster than whole pieces; onion adds natural sweetness with minimal seasoning.
 steps:
-- Slice 180 g chicken breast thin against the grain; peel 1/2 onion and cut into fine strips; cut 120 g broccoli into small florets; slice 1 garlic clove.
-- "Pour 700 ml water into the pot; add onion and garlic. Bring to a boil over high heat."
-- Cover, lower to low, and simmer about 5 minutes until onion turns translucent and sweet.
-- Add chicken slices; cook 3–4 minutes until opaque with no pink in the center (do not boil hard or the meat turns dry).
-- Add broccoli; cook 3–4 minutes more until stems are slightly tender and color stays bright green.
-- Season with a pinch of salt to taste and serve.
+  - "Slice 180 g chicken breast thin against the grain; peel 1/2 onion and cut into fine strips; cut 120 g broccoli into small florets; slice 1 garlic clove."
+  - "Pour 700 ml water into the pot; add onion and garlic. Bring to a boil over high heat."
+  - "Cover, lower to low, and simmer about 5 minutes until onion turns translucent and sweet."
+  - "Add the chicken slices and simmer gently for 3–4 minutes. Use a food thermometer to check the thickest slice reaches 165°F (74°C); continue simmering if needed, without letting the soup boil hard."
+  - "Add broccoli; cook 3–4 minutes more until stems are slightly tender and color stays bright green."
+  - "Season with a pinch of salt to taste and serve."
 tips:
-- Add broccoli last for color and bite.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Add broccoli last for color and bite."
+  - "Add the chicken after the onion turns translucent and keep the soup at a gentle simmer. Add broccoli last and stop once the stems are just tender to preserve its color."
 storage: Refrigerate up to 1 day; reheat gently.
 substitutions:
 - Chicken breast can be swapped for chicken tenderloin.
 faqs:
-- question: Will the broth taste flat?
-  answer: A splash of soy sauce or white pepper adds depth.
-- question: Can I add tofu?
-  answer: Yes—it makes the bowl more filling.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "Will the broth taste flat?"
+    answer: "A splash of soy sauce or white pepper adds depth."
+  - question: "Can I add tofu?"
+    answer: "Yes—it makes the bowl more filling."
 relatedIngredients:
 - 雞胸肉
 - 洋蔥
 - 青花菜
 featured: false
 publishedAt: '2026-06-21'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Fish balls
 - Tofu

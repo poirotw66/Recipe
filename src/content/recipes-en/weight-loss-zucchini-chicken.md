@@ -24,7 +24,6 @@ tags:
 - Chicken
 tips:
 - Bell pepper adds color and vitamins.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions: []
 relatedIngredients:
 - 雞胸肉
@@ -65,11 +64,11 @@ storage: Refrigerate 1 day; microwave about 1 minute to reheat.
 faqs:
 - question: No zucchini?
   answer: Cucumber, bell pepper, or broccoli florets substitute.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: "When should I take the zucchini off the heat?"
+  answer: "Stir-fry it over high heat for about 2 minutes, until the edges soften but it is still crisp, then return the chicken. A little released moisture is expected; do not cook it until fully soft."
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ---
 
 One of the cleaner mains when you are keeping portions light.

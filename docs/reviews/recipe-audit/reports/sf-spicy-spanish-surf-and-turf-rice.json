@@ -1,16 +1,36 @@
 {
   "slug": "sf-spicy-spanish-surf-and-turf-rice",
   "title": "西班牙辣炒海陸飯",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.88,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Set a measured shrimp portion and aligned the rice plate with two servings. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe-specific cook time, yield, and sensory results still need an actual kitchen check; no kitchen trial or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語步驟新增蝦仁最厚處 63°C 熟度檢查，並明確要求蛤蜊未開殼者丟棄；海鮮先取出、分次加熱高湯後才回鍋，減少持續久煮。實際吸收高湯量與成品仍待試作。",
+      "suggested_fix": "請試作確認蝦仁和蛤蜊在各自安全熟度時點的先後、米飯吸收 200 毫升高湯的程度及成品鹹度，再依結果修訂時間和份量。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將步驟中的「胡椒」判成未列調味料；人工核對確認調味表已有相同的黑胡椒項目，屬複合詞比對誤報。",
+      "suggested_fix": "保留目前已人工核對的食材用法；機械預檢若要降低此類誤報，需支援複合詞、料理名稱與一般調味名稱的同義比對。",
+      "source": "precheck"
+    }
+  ],
+  "repair_summary": "四語步驟補上蝦仁 63°C、蛤蜊開殼後棄除未開者的判斷，並保留海鮮先取出、最後短暫回鍋的順序；高湯吸收量、鹹度、時間與產量待試作確認。",
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "支持魚類及貝類應加熱至 62.8°C（以 63°C 表示）。"
+    },
+    {
+      "title": "Selecting and Serving Fresh and Frozen Seafood Safely — FDA",
+      "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
+      "supports": "支持蝦肉不透明熟度線索，並要求烹煮後丟棄未開殼的蛤蜊。"
     }
   ]
 }

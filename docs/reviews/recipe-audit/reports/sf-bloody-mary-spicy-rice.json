@@ -1,16 +1,23 @@
 {
   "slug": "sf-bloody-mary-spicy-rice",
   "title": "血腥瑪麗辣味飯",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.88,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Changed the ingredient to cooked rice to match the pre-cooking method, and replaced the undefined cream sauce with a measured cream quantity. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe-specific cook time, yield, and sensory results still need an actual kitchen check; no kitchen trial or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "將步驟對齊清單：薑使用5公克、白飯先煮熟、鮮奶油30毫升與辣醬1大匙按表加入，並補明熱水總量尚未驗證。四語內容已檢視；實際用水、時間、份量與口感仍須廚房試作確認，未宣稱親自試作或餐廳來源。",
+      "suggested_fix": "請廚師依文稿實際試作，確認用水量、時間、產量及食材熟度與口感，再依試作結果修訂本文；完成廚房驗證前維持 Warning。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將步驟中的「胡椒」判成未列調味料；人工核對確認調味表已有相同的黑胡椒項目，屬複合詞比對誤報。",
+      "suggested_fix": "保留目前已人工核對的食材用法；機械預檢若要降低此類誤報，需支援複合詞、料理名稱與一般調味名稱的同義比對。",
+      "source": "precheck"
     }
   ]
 }

@@ -30,14 +30,13 @@ steps:
 - 以鹽 1/2 小匙調味，試喝後依口味增減，熱騰騰盛碗即可享用。
 tips:
 - 水蓮不要煮太久，保持爽脆較好吃。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 現做現吃；隔夜再加熱水蓮會變軟。
 substitutions:
 - 青江菜
 - 高麗菜
 faqs:
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+- question: "豬肉片和水蓮的下鍋順序是什麼？"
+  answer: "先把肉片撥散放入滾湯，煮到肉色不再泛紅，再下水蓮煮 1～2 分鐘，保留梗葉脆度。"
 relatedIngredients:
 - 水蓮
 - 豬肉
@@ -45,7 +44,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ingredients:
 - name: 水蓮
   amount: "150"

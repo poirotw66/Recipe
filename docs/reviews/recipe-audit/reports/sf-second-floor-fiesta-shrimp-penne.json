@@ -1,16 +1,36 @@
 {
   "slug": "sf-second-floor-fiesta-shrimp-penne",
   "title": "費氏鮮蝦長管麵",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.88,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Added the minced garlic already used in the pasta steps to the ingredient list. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe-specific cook time, yield, and sensory results still need an actual kitchen check; no kitchen trial or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語步驟新增蝦仁最厚處中心 63°C，FAQ 同步說明溫度計與不透明、珍珠色線索；短煎後才拌入奶油醬，避免久煮。蝦尺寸、時間及醬汁濃度仍待試作。",
+      "suggested_fix": "請試作不同尺寸蝦仁，確認每面約 1 分鐘的估時可達安全熟度，並按結果調整時間與麵水量。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將步驟中已明列的「黑胡椒碎」誤判為未列食材；食材表有相同項目，此訊號屬複合詞比對的誤報。",
+      "suggested_fix": "保留食材表與步驟中的黑胡椒用量；若後續調整預檢器，補上「黑胡椒碎」的詞彙對應。",
+      "source": "precheck"
+    }
+  ],
+  "repair_summary": "以 63°C 及不透明、彎曲的線索補強四語蝦仁熟度步驟與 FAQ，短煎蝦後才拌入奶油醬；蝦尺寸、時間、份量與口感待試作確認。",
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "支持魚類及貝類應加熱至 62.8°C（以 63°C 表示）。"
+    },
+    {
+      "title": "Selecting and Serving Fresh and Frozen Seafood Safely — FDA",
+      "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
+      "supports": "支持蝦肉煮至珍珠色、不透明且緊實的可觀察熟度線索。"
     }
   ]
 }

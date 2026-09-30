@@ -1,8 +1,7 @@
 ---
 title: South Sea Spiced Chicken Rice
 recipeId: sf-south-sea-spiced-chicken-rice
-description: "A measured home recipe for South Sea Spiced Chicken Rice, with
-  clear preparation and cooking steps."
+description: "Boneless chicken thighs and cooked rice stir-fried with red bell pepper and onion, seasoned with curry, cumin, and turmeric."
 coverImage: /images/recipes/sf-south-sea-spiced-chicken-rice.webp
 servings: 2
 prepTime: 15
@@ -18,8 +17,7 @@ equipment:
   - Small saucepan
 tags:
   - Seasonal specials
-intro: "Use cooked, loosened rice and add it after the other ingredients are
-  cooked so the grains can absorb the seasoning before serving."
+intro: "Mix the curry, cumin, turmeric, salt, and pepper before cooking. Cook the chicken to 165°F (74°C), then sauté the onion and pepper; add the cooked rice with half the spice mix and return the chicken with the rest."
 steps:
   - Cut the chicken into bite-size pieces; dice the pepper and onion. Mix the
     curry powder, cumin, turmeric, salt, and pepper.
@@ -30,13 +28,10 @@ steps:
   - Return the chicken and remaining spices, toss to combine, and adjust
     seasoning. Serve in two portions.
 tips:
-  - Wash hands and tools after handling raw meat. Cook poultry to 165°F (74°C)
-    and fish to 145°F (63°C).
-  - Use cooked, loosened rice and add it after the other ingredients are cooked
-    so the grains can absorb the seasoning before serving.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - "Mix the spices together first, then divide them between the rice and the chicken as the method directs; use the measured amounts in the ingredient list."
+  - "Cut the chicken into bite-size pieces and check the thickest piece for 165°F (74°C). Loosen the cooked rice before adding it."
+  - "Cook the onion and pepper for the listed 3 minutes, then add the rice and half the spices; return the chicken with the remainder at the end."
+storage: "Serve soon after cooking. Refrigerate leftovers within 2 hours and reheat to 165°F (74°C) before eating."
 substitutions:
   - seasonal vegetables
   - cooked rice
@@ -47,7 +42,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: boneless chicken thighs
     amount: "300"
@@ -91,7 +86,8 @@ seasonings:
     unit: tsp
     isCore: true
 faqs:
-  - question: How can I check doneness?
-    answer: "Use a food thermometer at the thickest point: 165°F (74°C) for poultry
-      and 145°F (63°C) for fish."
+  - question: "Why add the spice mix in two stages?"
+    answer: "The method adds half with the rice, then the rest when the chicken returns. Mix the spices before cooking so you can divide them as directed."
+  - question: "Can I use chilled cooked rice?"
+    answer: "Yes. This recipe uses cooked rice; loosen it before adding it with half of the spice mix as directed."
 ---

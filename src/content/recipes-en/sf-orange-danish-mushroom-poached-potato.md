@@ -1,8 +1,7 @@
 ---
-title: Danish Pastry with Mushrooms, Poached Eggs, and Potatoes
+title: Danish Pastry with Mushrooms, Poached Egg, and Potatoes
 recipeId: sf-orange-danish-mushroom-poached-potato
-description: "A measured home recipe for Danish Pastry with Mushrooms, Poached
-  Eggs, and Potatoes, with clear preparation and cooking steps."
+description: "Warm plain Danish pastry and serve it with browned potatoes, mushrooms, and a poached egg; includes a one-serving ingredient list and cooking order."
 coverImage: /images/recipes/sf-orange-danish-mushroom-poached-potato.webp
 servings: 1
 prepTime: 15
@@ -18,31 +17,18 @@ equipment:
   - Small saucepan
 tags:
   - Brunch
-intro: "Cook the main ingredient to a safe doneness before finishing the sauce
-  and sides; adjust time for its thickness."
+intro: "Cover the potatoes with a little water to soften them, then uncover and brown them. Cook the mushrooms until their moisture evaporates, and finish with the poached egg and warmed pastry just before serving."
 steps:
-  - Preheat the oven to 350°F (180°C). Dice the potatoes into 1 cm pieces and
-    slice the mushrooms. Warm the pastries on a baking sheet for 5 minutes.
-  - Heat half the olive oil in a skillet over medium heat. Add the potatoes and
-    2 tbsp water, cover, and cook for 8 minutes. Uncover and cook until tender
-    and golden; season with half the salt and pepper and transfer to a plate.
-  - Add the remaining oil to the skillet and cook the mushrooms until their
-    moisture evaporates and the edges brown. Season with the remaining salt and
-    pepper.
-  - Bring water to a gentle simmer in a small saucepan and add the vinegar.
-    Crack each egg into a small cup and slide it into the water; cook until both
-    white and yolk are set, then lift out and drain. Use pasteurized eggs if you
-    prefer a runny yolk.
-  - Arrange the warm pastry, potatoes, mushrooms, and egg on a plate. Spoon over
-    the cheese sauce and serve warm.
+  - Preheat the oven to 350°F (180°C). Dice the potatoes into 1 cm pieces and slice the mushrooms.
+  - Heat half the olive oil in a skillet over medium heat. Add the potatoes and 2 tbsp water, cover, and cook for 8 minutes. Uncover and cook until tender and golden; season with half the salt and pepper and transfer to a plate.
+  - Add the remaining oil to the skillet and cook the mushrooms until their moisture evaporates and the edges brown. Season with the remaining salt and pepper.
+  - Place the Danish pastry on a baking sheet and warm it in the oven for 5 minutes. Follow the package directions if they specify a different heating method.
+  - Bring water to a gentle simmer in a small saucepan and add the vinegar. Crack the egg into a small cup and slide it into the water; cook until the white and yolk are set, then lift it out and drain. Use a pasteurized egg if you prefer a runny yolk.
+  - Arrange the pastry, potatoes, mushrooms, and poached egg on one plate. Spoon over the cheese sauce and serve warm.
 tips:
-  - Cut the potatoes into evenly sized pieces so they cook at the same rate.
-    Crack each egg into a small cup before poaching for easier handling.
-  - Cook the main ingredient to a safe doneness before finishing the sauce and
-    sides; adjust time for its thickness.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - Cut the potatoes into evenly sized pieces so they cook at the same rate. Crack the egg into a small cup before poaching for easier handling.
+  - Uncover the potatoes before browning them. Assemble soon after warming the pastry so moisture from the toppings is less likely to soften it.
+storage: "Serve freshly made when possible. Refrigerate cooked leftovers within 2 hours, use within 3 to 4 days, and reheat to 165°F (74°C). Store the Danish separately from moist toppings and warm it again before serving; refrigerate the poached egg separately and use it promptly."
 relatedIngredients:
   - Plain Danish pastry
   - Potatoes
@@ -50,7 +36,7 @@ relatedIngredients:
   - Egg
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: Plain Danish pastry
     amount: "1"
@@ -86,6 +72,7 @@ seasonings:
     unit: tsp
 faqs:
   - question: What can I prepare ahead?
-    answer: You can cut the potatoes and mushrooms ahead and refrigerate them. Warm
-      the pastry and poach the eggs close to serving.
+    answer: You can cut the potatoes and mushrooms ahead and refrigerate them. Warm the pastry and poach the egg close to serving.
+  - question: How can I keep the poached egg together?
+    answer: Crack it into a small cup first, then slide it gently into gently simmering water rather than a rolling boil.
 ---

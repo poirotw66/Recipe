@@ -1,8 +1,16 @@
 {
   "slug": "classic-caesar-chicken-salad",
   "title": "經典凱薩嫩雞沙拉",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "四語已移除共用靜置提示與乾柴問答，補充生菜瀝乾、先拌約三分之二醬汁並將其餘另附的做法，讓葉菜保持爽脆。雞胸熟度步驟原已列74°C。尚未試作，醬汁與生菜比例及口感待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ]
 }

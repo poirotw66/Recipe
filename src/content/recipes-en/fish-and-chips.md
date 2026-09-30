@@ -22,13 +22,13 @@ tags:
 - Snack
 - Fried fish
 tips:
-- Fry in small batches so oil temperature does not crash.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Fry in small batches so oil temperature does not crash."
+  - "Drain the first fry on a wire rack before raising the oil temperature for the second fry. Salt the chips while hot and do not pile them up, so they stay crisp."
 substitutions:
 - Salmon
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "Why are the chips fried twice?"
+    answer: "The first, lower-temperature fry cooks the centers. After draining, the hotter second fry browns and crisps the outside. Rest each batch on a rack without stacking."
 relatedIngredients:
 - 雞蛋
 customAdditions: []
@@ -62,16 +62,16 @@ seasonings:
   unit: ''
 intro: Fish and chips can share one fryer—dry fish well and drain both on a rack.
 steps:
-- Cut potatoes 2 into about 1 cm sticks; soak in cold water 15 minutes to remove starch, drain, and pat completely dry. Pat cod fillet 1 dry; season both sides with a pinch of salt and black pepper.
-- Spread 4 tbsp flour on a shallow plate; beat egg 1; set up a flour–egg–flour dredging station.
-- "Pour olive oil into a deep pot or high-sided skillet to about 3 cm depth; heat over medium to 170°C (small bubbles around a chopstick tip)."
-- Fry potato sticks in batches 4 minutes until lightly golden; drain. Raise oil to 190°C and fry 2 minutes more until crisp outside and tender inside; drain on a rack.
-- Dredge fish in flour, egg, then flour again; shake off excess; fry at 170°C until golden, about 3 minutes per side, until opaque and flakes easily with a chopstick.
-- Drain fish and chips on a rack; sprinkle with a pinch of salt and serve with 1 tbsp lemon juice on the side.
+  - "Cut potatoes 2 into about 1 cm sticks; soak in cold water 15 minutes to remove starch, drain, and pat completely dry. Pat cod fillet 1 dry; season both sides with a pinch of salt and black pepper."
+  - "Spread 4 tbsp flour on a shallow plate; beat egg 1; set up a flour–egg–flour dredging station."
+  - "Pour olive oil into a deep pot or high-sided skillet to about 3 cm depth; heat over medium to 170°C (small bubbles around a chopstick tip)."
+  - "Fry potato sticks in batches 4 minutes until lightly golden; drain. Raise oil to 190°C and fry 2 minutes more until crisp outside and tender inside; drain on a rack."
+  - "Dredge the fish in flour, egg, then flour again; shake off excess and fry at 170°C until golden, about 3 minutes per side. Use a food thermometer to check the thickest part of the cod reaches 145°F (63°C), then drain it on the rack."
+  - "Drain fish and chips on a rack; sprinkle with a pinch of salt and serve with 1 tbsp lemon juice on the side."
 storage: Best eaten immediately.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ---
 
 Fish and chips is a generous weekend plate when you want something indulgent.

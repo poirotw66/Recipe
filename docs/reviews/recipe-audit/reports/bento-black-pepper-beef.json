@@ -1,8 +1,16 @@
 {
   "slug": "bento-black-pepper-beef",
   "title": "便當黑椒牛肉",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "四語已移除不適用的切肉靜置提示及共用乾柴問答，改為便當回熱時以微濕紙巾覆蓋並將肉與醬汁同盒保存。尚未試作，便當盒與微波爐實際加熱時間待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ]
 }

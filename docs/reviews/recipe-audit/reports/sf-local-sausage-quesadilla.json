@@ -1,16 +1,24 @@
 {
   "slug": "sf-local-sausage-quesadilla",
   "title": "墨西哥香腸酥餅",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Measured the tortillas, sausage, salsa, and BBQ sauce and listed the onion used in the filling. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "將香腸步驟用量統一為材料表100公克，補明兩張薄餅、莎莎醬與上桌醬料的列明用量，並將原步驟已使用的少量食用油列入材料。四語提示與FAQ聚焦薄餅填餡、翻面、起司融化和醬料用途。保留 Warning：未經廚房試作，實際用時、份量、口感仍待確認；未宣稱試煮或餐廳來源。本次另補上依包裝方式將香腸加熱至中心 74°C 的熟度檢查，參照 FoodSafety.gov 安全溫度表；仍未經廚房試作，時間、產量與口感待確認。",
+      "suggested_fix": "請料理者依包裝方式試作，確認香腸中心達 74°C、起司融化與薄餅兩面煎色所需時間，再記錄實際產量與口感後更新文章。",
       "source": "agent"
+    }
+  ],
+  "repair_summary": "將香腸步驟用量統一為材料表100公克，補明兩張薄餅、莎莎醬與上桌醬料的列明用量，並將原步驟已使用的少量食用油列入材料。四語提示與FAQ聚焦薄餅填餡、翻面、起司融化和醬料用途。保留 Warning：未經廚房試作，實際用時、份量、口感仍待確認；未宣稱試煮或餐廳來源。本次另補上依包裝方式將香腸加熱至中心 74°C 的熟度檢查，參照 FoodSafety.gov 安全溫度表；仍未經廚房試作，時間、產量與口感待確認。",
+  "references": [
+    {
+      "title": "Cook to a Safe Minimum Internal Temperature — FoodSafety.gov",
+      "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+      "supports": "絞肉類香腸需依肉類種類達到安全中心溫度；本篇採用 74°C 作為較高的通用檢查值。"
     }
   ]
 }

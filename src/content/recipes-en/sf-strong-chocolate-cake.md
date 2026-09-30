@@ -1,8 +1,7 @@
 ---
 title: Rich Chocolate Cake
 recipeId: sf-strong-chocolate-cake
-description: "A measured home recipe for Rich Chocolate Cake, with clear
-  preparation and cooking steps."
+description: "A 4-inch chocolate cake is filled and frosted with sweetened cream cheese, chilled for 30 minutes, then sliced."
 coverImage: /images/recipes/sf-strong-chocolate-cake.webp
 servings: 2
 prepTime: 20
@@ -13,38 +12,24 @@ category: "Desserts"
 scenarios:
   - Late-night meals
 equipment:
-  - Skillet
-  - Pot
+  - Mixing bowl
+  - Spatula or mixer
+  - Cake knife
 tags:
   - Desserts
-intro: "Soften chilled cream cheese before mixing, chill the assembled dessert
-  to set, and cut it with a warm, dry knife."
+intro: "Soften the cream cheese and mix it with sugar on low; if the cake has two layers, fill between them, frost, and chill for 30 minutes before slicing."
 steps:
-  - Bring 1 portion 4-inch chocolate cake from the fridge to room temperature 15
-    minutes; soften 80 g cream cheese until it yields to a light press; cut 30 g
-    unsalted butter into small pieces.
-  - Beat 80 g cream cheese with 2 Tbsp granulated sugar on low with a spatula or
-    mixer until smooth with no lumps—do not over-whip.
-  - Slice the cake horizontally into two layers with a long knife (skip if
-    already single-layer); place the bottom on a plate, spread half the cream
-    cheese frosting, and set the top layer on lightly.
-  - Frost the top and sides evenly with the remaining cream cheese frosting,
-    spinning the cake stand to smooth with an offset spatula; dust lightly with
-    cocoa powder or chocolate shavings if desired.
-  - Chill 30 minutes so the cream cheese layer sets and flavors meld.
-  - Dip a knife in hot water, wipe dry, and cut into 2 equal pieces or wedges;
-    wipe the blade between cuts for clean edges.
-  - Plate with small pieces of 30 g unsalted butter and 2 Tbsp granulated sugar
-    on the side for guests to add as they like.
-  - Plate and serve while warm.
+  - "Bring 1 portion of 4-inch chocolate cake from the fridge to room temperature for 15 minutes; soften 80 g cream cheese until it yields to a light press."
+  - "Beat the cream cheese with 2 Tbsp granulated sugar on low with a spatula or mixer until smooth with no lumps; do not over-whip."
+  - "If the cake has two layers, slice it horizontally with a long knife; skip this step if it is already single-layer. Place the bottom layer on a plate, spread on half the frosting, and set the top layer on lightly."
+  - "Spread the remaining frosting evenly over the top and sides of the cake."
+  - "Chill the frosted cake for 30 minutes so the cream-cheese layer can set."
+  - "Dip a knife in hot water and wipe it dry; cut the cake into two equal pieces or wedges, wiping the blade after each cut."
+  - "Plate the slices and refrigerate any remaining cake."
+  - "Serve slightly chilled, while the cream-cheese layer is soft."
 tips:
-  - Adjust the cooking time for ingredient size and check that the thickest
-    pieces are cooked through.
-  - Soften chilled cream cheese before mixing, chill the assembled dessert to
-    set, and cut it with a warm, dry knife.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - "Stop mixing once the cream cheese and sugar are smooth and lump-free; the recipe cautions against over-whipping."
+storage: "Cover and refrigerate the cream-cheese-frosted cake within 2 hours; use within 3 to 4 days. Keep sliced leftovers refrigerated. This dessert does not need reheating."
 substitutions:
   - cream
   - vanilla ice cream
@@ -56,7 +41,7 @@ customAdditions:
   - Whipped cream
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: 4-inch chocolate cake
     amount: "1"
@@ -71,7 +56,8 @@ seasonings:
     amount: "2"
     unit: tbsp
 faqs:
-  - question: Can I prep this ahead?
-    answer: Wash and cut the ingredients ahead and refrigerate them. Add delicate
-      toppings and sauce just before serving.
+  - question: "When should I slice the cake?"
+    answer: >-
+      Frost the cake and chill it for 30 minutes so the cream-cheese layer can set. Then
+      use a hot-water-warmed, dry knife and wipe the blade after each cut.
 ---

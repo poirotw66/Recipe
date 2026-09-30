@@ -1,8 +1,24 @@
 {
   "slug": "high-protein-shrimp-tofu-bowl",
   "title": "高蛋白蝦豆腐碗",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "蝦仁與豆腐炒合後整塊上桌，沒有肉類靜置切片的操作；保留青江菜加纖維提示與雞胸替換問答。 四語共用的靜置提示及「避免主食材變乾」問答已刪除；其餘本菜專屬內容保留。未經廚房試作，試作蝦仁與豆腐同鍋回熱後的熟度、上色和口感仍待確認。",
+      "suggested_fix": "試作蝦仁與豆腐同鍋回熱後的熟度、上色和口感後再按實際結果調整時間與說明；試作完成前維持 Warning。",
+      "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將步驟中的「胡椒」判成未列調味料；人工核對確認調味表已有「白胡椒」，屬詞彙拆分誤報。",
+      "suggested_fix": "保留步驟與調味表目前的白胡椒用量；預檢器若要降低誤報，需支援「白胡椒」複合詞比對。",
+      "source": "precheck"
+    }
+  ],
+  "repair_summary": "蝦仁與豆腐炒合後整塊上桌，沒有肉類靜置切片的操作；保留青江菜加纖維提示與雞胸替換問答。 已在繁中、英文、日文與韓文同步移除不適用的共用提示及問答，保留本篇特有資訊。試作蝦仁與豆腐同鍋回熱後的熟度、上色和口感仍待廚房試作確認，未宣稱已試作。"
 }

@@ -33,14 +33,13 @@ steps:
 - Off heat, scatter scallion; ladle into a bowl and serve.
 tips:
 - Ginger slices or a little soy deepens the broth.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Eat fresh; noodles swell overnight.
 substitutions:
 - Udon
 - Rice vermicelli
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: "How do I keep the noodles and water lily stems from getting soft?"
+  answer: "Cook the noodles only for their package time until springy, add the water lily stems for the final minute, then turn off the heat and add scallions."
 relatedIngredients:
 - 水蓮
 - 貢丸
@@ -50,7 +49,7 @@ customAdditions:
 - Soy sauce
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ingredients:
 - name: Water dropwort
   amount: "120"

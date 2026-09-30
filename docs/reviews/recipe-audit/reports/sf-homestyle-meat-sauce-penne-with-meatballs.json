@@ -1,16 +1,31 @@
 {
   "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
   "title": "家鄉肉醬長管麵佐老媽肉丸",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Listed the garlic and onion already used in the meatball pasta method and set yield to two portions for 180 g pasta. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語步驟補上生牛肉丸中心達 71°C 的熟度確認，已熟肉丸則依包裝加熱；裝盤步驟也明確用完材料表剩餘的一半起司。肉丸原料是否生製仍需配方來源確認，時間、產量與口感尚待試作。",
+      "suggested_fix": "請確認原配方預期使用生製或已熟牛肉丸，並依試作檢查最厚處溫度、醬汁濃度及剩餘起司的裝盤用量。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將步驟中已明列的「黑胡椒碎」誤判為未列食材；食材表有相同項目，此訊號屬複合詞比對的誤報。",
+      "suggested_fix": "保留食材表與步驟中的黑胡椒用量；若後續調整預檢器，補上「黑胡椒碎」的詞彙對應。",
+      "source": "precheck"
+    }
+  ],
+  "repair_summary": "四語步驟補明生牛肉丸中心 71°C 的熟度條件，並將剩餘起司納入上桌步驟；肉丸原料狀態及實際時間、份量、口感仍待廚房試作確認。",
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "支持生絞牛肉應以溫度計確認中心達 71.1°C。"
     }
   ]
 }

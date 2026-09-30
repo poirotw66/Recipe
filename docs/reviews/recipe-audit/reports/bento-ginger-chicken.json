@@ -1,8 +1,23 @@
 {
   "slug": "bento-ginger-chicken",
   "title": "便當薑炒雞肉",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Safety_Risk",
+      "severity": "Warning",
+      "description": "四語已移除共用靜置提示，補入薑與醬料下鍋時序，並改以最厚處中心74°C確認雞肉熟度。尚未試作，雞肉厚度與炒鍋時間待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ],
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "雞肉應以溫度計確認中心至少達165°F（74°C）。"
+    }
+  ]
 }

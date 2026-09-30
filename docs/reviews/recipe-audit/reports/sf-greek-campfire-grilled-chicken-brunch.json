@@ -1,16 +1,28 @@
 {
   "slug": "sf-greek-campfire-grilled-chicken-brunch",
-  "title": "Greek style 野炊系炭烤雞肉早午餐",
-  "reviewed_at": "2026-09-29",
+  "title": "希臘風香草雞胸皮塔早午餐",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Replaced pre-cooked restaurant-style chicken with raw chicken breast and a home-cookable Greek yogurt, lemon, and oregano plate; poultry reaches 74°C. Text review covered all four locale bodies. Recipe timing, yield, and sensory outcome remain unverified because no kitchen trial was performed; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "保留雞胸最厚處中心74°C、靜置3分鐘及皮塔依包裝加熱的操作，保存指示聚焦雞肉與冷食配料分開。尚未試作；雞胸厚度、實際煎煮時間與醬汁酸度仍待確認。",
+      "suggested_fix": "依本文試作，確認食材與商品狀態，記錄實際時間和產量並檢查雞肉熟度，再依紀錄修訂文章與索引評估。",
       "source": "agent"
+    }
+  ],
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "支持雞胸中心至少達165°F（約74°C）；雞胸厚度不同時以溫度計讀值判斷。"
+    },
+    {
+      "title": "Keep Food Safe! Food Safety Basics — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe",
+      "supports": "支持熟食剩餘冷藏與回熱指引。"
     }
   ]
 }

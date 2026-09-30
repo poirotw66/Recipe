@@ -1,8 +1,8 @@
 ---
 title: Salted Egg, Bitter Melon, and King Oyster Mushroom Pasta
 recipeId: sf-salted-egg-bitter-melon-pasta
-description: "A measured home recipe for Salted Egg, Bitter Melon, and King
-  Oyster Mushroom Pasta, with clear preparation and cooking steps."
+description: "Salted egg yolks and pasta water form a silky sauce for bitter melon,
+  king oyster mushrooms, and spaghetti; chopped egg whites season this two-serving dish."
 coverImage: /images/recipes/sf-salted-egg-bitter-melon-pasta.webp
 servings: 2
 prepTime: 15
@@ -17,9 +17,9 @@ equipment:
   - Pot
 tags:
   - Rice & pasta
-intro: "Boil the pasta just shy of tender and reserve some pasta water, then
-  finish the sauce in the pan. Return seafood or meat only at the end to avoid
-  overcooking."
+intro: "Brown the king oyster mushrooms, then cook the bitter melon until bright
+  green but still crisp. Stir the salted eggs with pasta water over low heat, then
+  toss with the pasta."
 steps:
   - Shell the salted eggs and separate the whites and yolks; chop both. Seed and
     thinly slice the bitter melon, cut the mushrooms into strips, and mince the
@@ -36,12 +36,8 @@ steps:
 tips:
   - Salted eggs are already salty, so taste before adding any salt. Add pasta
     water gradually to keep the sauce from becoming thin.
-  - Boil the pasta just shy of tender and reserve some pasta water, then finish
-    the sauce in the pan. Return seafood or meat only at the end to avoid
-    overcooking.
 storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C).
 relatedIngredients:
   - Salted eggs
   - Bitter melon
@@ -49,11 +45,11 @@ relatedIngredients:
   - Spaghetti
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: Salted eggs
     amount: "2"
-    unit: ""
+    unit: eggs
     isCore: true
   - name: Bitter melon
     amount: "100"

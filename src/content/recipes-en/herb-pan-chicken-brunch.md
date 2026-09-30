@@ -23,12 +23,10 @@ tags:
 - Chicken dishes
 tips:
 - Chicken is done at 74°C internal—overcooking dries it out.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+
 substitutions:
 - Chicken tenderloin
-faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+faqs: []
 relatedIngredients:
 - 雞胸肉
 - 雞蛋
@@ -74,7 +72,7 @@ steps:
 storage: Refrigerate up to 1 day; reheat sliced chicken covered with a damp paper towel, about 1 minute in the microwave.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ---
 
 High-protein and light—especially nice after a workout brunch.

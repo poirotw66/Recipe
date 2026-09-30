@@ -47,31 +47,29 @@ tags:
 - Lean meals
 intro: Mushrooms add moisture so breast meat stays pleasant—and bento mains feel less one-note.
 steps:
-- Slice 2 chicken breasts against the grain into thin 0.5 cm pieces; pat dry. Slice 1 bowl of mushrooms. Mince 2 garlic cloves.
-- Heat a skillet over medium-high with 1 Tbsp oil. When hot, lay the chicken in a single layer and cook until the surface turns white and the meat is about 70% done, 2–3 minutes. Transfer to a plate.
-- In the same pan, sauté the garlic about 20 seconds—watch it does not burn.
-- Add the mushrooms and stir-fry over medium-high 2–3 minutes until they release liquid, cook dry, and the edges lightly brown.
-- Return the chicken, add 1 Tbsp soy sauce and a pinch of black pepper, and toss over high heat 1 minute until the chicken is fully cooked and evenly coated.
-- Taste and adjust seasoning; divide into 2 portions and serve hot, or cool for bento.
+  - "Slice 2 chicken breasts against the grain into thin 0.5 cm pieces; pat dry. Slice 1 bowl of mushrooms. Mince 2 garlic cloves."
+  - "Heat a skillet over medium-high with 1 Tbsp oil. When hot, lay the chicken in a single layer and cook until the surface turns white and the meat is about 70% done, 2–3 minutes. Transfer to a plate."
+  - "In the same pan, sauté the garlic about 20 seconds—watch it does not burn."
+  - "Add the mushrooms and stir-fry over medium-high 2–3 minutes until they release liquid, cook dry, and the edges lightly brown."
+  - "Return the chicken, add 1 Tbsp soy sauce and a pinch of black pepper, and toss over high heat for 1 minute. Check the thickest slice with a food thermometer; continue cooking until it reaches 165°F (74°C), then serve once coated."
+  - "Taste and adjust seasoning; divide into 2 portions and serve hot, or cool for bento."
 tips:
-- Slice the breast thinner—it cooks faster and stays juicier.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Slice the breast thinner—it cooks faster and stays juicier."
+  - "Cut the chicken into even 0.5 cm slices and remove it once the surface turns white. Return it after the mushrooms have released and cooked off their moisture so the chicken is not heating throughout that step."
 storage: Refrigerate up to 2 days; good for next-day bento.
 substitutions:
 - Chicken thigh
 - King oyster mushroom
 faqs:
-- question: Mushrooms release a lot of water—what do I do?
-  answer: Stir-fry over medium-high until the liquid cooks off, then add a little more soy sauce.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "Mushrooms release a lot of water—what do I do?"
+    answer: "Stir-fry over medium-high until the liquid cooks off, then add a little more soy sauce."
 relatedIngredients:
 - 雞胸肉
 - 菇類
 - 蒜頭
 featured: true
 publishedAt: '2026-05-29'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

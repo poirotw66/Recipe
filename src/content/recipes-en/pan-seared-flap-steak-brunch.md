@@ -23,12 +23,10 @@ tags:
 - Steak
 tips:
 - If the pan is not hot enough, the meat steams instead of searing.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+
 substitutions:
 - Pork loin chop
-faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+faqs: []
 relatedIngredients:
 - 牛肉
 - 雞蛋
@@ -71,7 +69,7 @@ steps:
 storage: Best same meal; reheated steak toughens.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ---
 
 A dependable meat-forward brunch anchor on the menu.

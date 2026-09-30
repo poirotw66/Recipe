@@ -24,12 +24,11 @@ tags:
 tips:
 - Smoked salmon is salty—use half the salt in the eggs.
 - No bread? Rice or sweet potato works just as well.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 substitutions:
 - Pan-seared salmon
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: "Should I cook the smoked salmon with the eggs?"
+  answer: "No. Take the eggs off the heat first, then lay the salmon on top so it is not heated unnecessarily."
 relatedIngredients:
 - 鮭魚
 - 雞蛋
@@ -71,7 +70,7 @@ steps:
 storage: Eat the same day; use opened salmon promptly.
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ---
 
 Barely any stove time—ideal for rushed mornings.

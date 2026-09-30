@@ -1,8 +1,7 @@
 ---
 title: Smoked Salmon Caesar Salad
 recipeId: sf-smoked-salmon-caesar-salad
-description: "A measured home recipe for Smoked Salmon Caesar Salad, with clear
-  preparation and cooking steps."
+description: "Romaine Caesar salad topped with smoked salmon, hard-boiled eggs, croutons, and Parmesan."
 coverImage: /images/recipes/sf-smoked-salmon-caesar-salad.webp
 servings: 2
 prepTime: 18
@@ -18,22 +17,13 @@ equipment:
   - Small saucepan
 tags:
   - Appetizers
-intro: "Wash and thoroughly dry the greens, then dress them just before serving.
-  Add crisp toppings at the end."
+intro: "Boil the eggs until the yolks are set, cool, peel, and halve them. Dry and dress the romaine, divide it between plates, and top with smoked salmon, eggs, croutons, and Parmesan."
 steps:
-  - Wash and thoroughly dry the romaine, then tear it into bite-size pieces.
-    Slice the smoked salmon.
-  - Boil the eggs for 9–10 minutes until the yolks are set. Cool in cold water,
-    peel, and halve.
-  - Toss the romaine with the Caesar dressing and divide between two plates. Top
-    with the salmon, croutons, and Parmesan; serve while the croutons are crisp.
+  - "Wash and thoroughly dry the romaine, then tear it into bite-size pieces. Slice the smoked salmon."
+  - "Boil the eggs for 9–10 minutes until the yolks are set. Cool in cold water, peel, and halve."
+  - "Toss the romaine with the Caesar dressing and divide between two plates. Top with the smoked salmon, halved eggs, croutons, and Parmesan; serve while the croutons are crisp."
 tips:
-  - Wash and dry the greens thoroughly; dress the salad just before serving to
-    limit excess moisture.
-  - Cook ordinary eggs until both white and yolk are set. Use pasteurized eggs
-    for a runny yolk and keep the salad refrigerated.
-  - Wash and thoroughly dry the greens, then dress them just before serving. Add
-    crisp toppings at the end.
+  - "Boil the eggs for the listed 9–10 minutes until the yolks are set, cool before peeling and halving, and dry the romaine before dressing."
 storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
   and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
   toppings, greens, or soft-cooked eggs separately to protect texture.
@@ -47,7 +37,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: romaine lettuce
     amount: "120"
@@ -73,12 +63,8 @@ ingredients:
     amount: "15"
     unit: g
     isCore: true
-seasonings:
-  - name: sea salt
-    amount: 1/2
-    unit: tsp
+seasonings: []
 faqs:
-  - question: Can I prepare this ahead?
-    answer: Refrigerate the components and dressing separately. Combine them just
-      before serving.
+  - question: "How do I prepare the eggs for the salad?"
+    answer: "Boil them for 9–10 minutes until the yolks are set, cool in cold water, peel, and halve. Arrange them with the smoked salmon over the dressed romaine."
 ---

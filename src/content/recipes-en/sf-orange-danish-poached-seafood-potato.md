@@ -1,8 +1,7 @@
 ---
-title: Orange Danish Poached Seafood Potato
+title: Orange Danish Seafood and Poached Egg Plate
 recipeId: sf-orange-danish-poached-seafood-potato
-description: "A measured home recipe for Orange Danish Poached Seafood Potato,
-  with clear preparation and cooking steps."
+description: "A two-serving brunch plate with Orange Danish, pan-cooked seafood, mushrooms, potatoes, and freshly poached eggs."
 coverImage: /images/recipes/sf-orange-danish-poached-seafood-potato.webp
 servings: 2
 prepTime: 20
@@ -18,39 +17,19 @@ equipment:
   - Oven
 tags:
   - Brunch
-intro: "Cook the main ingredient to a safe doneness before finishing the sauce
-  and sides; adjust time for its thickness."
+intro: "Warm the Danish and prepare the seafood, mushrooms, and potatoes separately. Poach the eggs last and assemble the plate while the components are warm. The seafood type is unspecified, so check the correct doneness for fish, shrimp, or shellfish."
 steps:
-  - Arrange 2 orange Danish pastries on a baking sheet; bake at 180°C / 350°F
-    3–5 minutes until crisp outside and soft inside.
-  - Pat dry 180 g seafood with paper towels; heat a skillet over medium with 1/2
-    tbsp olive oil; sear until the surface changes color and centers are cooked
-    through; keep warm.
-  - In the same skillet with a little more oil, stir-fry 120 g mushrooms until
-    they release moisture, then reduce heat until dry; sprinkle 1/6 tsp sea salt
-    and a little cracked black pepper; keep warm.
-  - In another skillet, fry 250 g potatoes over medium until golden and crisp;
-    keep warm.
-  - Bring a saucepan of water to a boil with 1 tbsp white vinegar; reduce heat;
-    stir a gentle whirlpool with a spoon; crack in 2 eggs and poach over low
-    heat about 3 minutes until whites set and yolks runny; drain well.
-  - On a large plate, arrange toasted orange Danish, seafood, mushrooms, fried
-    potatoes, and 2 poached eggs.
-  - Drizzle 1 tbsp olive oil; sprinkle 1/3 tsp sea salt and 1/4 tsp cracked
-    black pepper; serve hot.
+  - "Arrange 2 orange Danish pastries on a baking sheet and warm at 180°C / 350°F for 3–5 minutes; follow the package if it gives different directions."
+  - "Pat 180 g seafood dry. Heat 1/2 tbsp olive oil in a skillet over medium heat and cook by type: fish to 145°F (63°C) at the thickest part; shrimp, scallops, crab, or lobster until firm, pearly, and opaque; clams, mussels, or oysters until their shells open, discarding any that stay closed. Keep warm."
+  - "Use the remaining olive oil in the same skillet to heat 120 g sautéed mushrooms until hot and their moisture has evaporated. Set aside."
+  - "In another skillet, heat 250 g pan-fried potatoes over medium heat until hot and golden. Keep warm."
+  - "Bring water to a boil in a saucepan with 1 tbsp white vinegar, then lower to a gentle simmer and stir a slow whirlpool. Slide in 2 eggs one at a time and poach until the whites are set; use pasteurized eggs if serving runny. Drain well."
+  - "Arrange the Danish, seafood, mushrooms, potatoes, and 2 poached eggs in separate sections on a large plate."
+  - "Season with 1/3 tsp sea salt and 1/4 tsp cracked black pepper, then serve hot."
 tips:
-  - Prepare the fillings first and cook the eggs last. Cook eggs through, or use
-    pasteurized eggs if serving them runny.
-  - Use pasteurized eggs for runny or soft-cooked eggs; cook ordinary eggs until
-    both white and yolk are set.
-  - Cook the main ingredient to a safe doneness before finishing the sauce and
-    sides; adjust time for its thickness.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
-substitutions:
-  - bread roll
-  - mixed greens
+  - "Cook fish to 145°F (63°C) at the thickest part. Shrimp, scallops, crab, and lobster should be firm, pearly, and opaque; discard clams, mussels, or oysters whose shells stay closed during cooking."
+  - Crack each egg into a small cup before poaching. Keep the water at a gentle simmer, and follow the pastry package if it gives different warming directions.
+storage: "Serve freshly made when possible. Refrigerate cooked leftovers within 2 hours, use within 3 to 4 days, and reheat to 165°F (74°C). Store the Danish separately from moist components and the poached eggs; re-crisp the pastry before serving and use the eggs promptly."
 relatedIngredients:
   - Danish pastry
   - poached egg
@@ -61,13 +40,13 @@ customAdditions:
   - Balsamic on the side
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: Danish pastry
     amount: "2"
     unit: " servings"
     isCore: true
-  - name: poached egg
+  - name: Egg
     amount: "2"
     unit: ""
     isCore: true
@@ -84,6 +63,9 @@ ingredients:
     unit: g
     isCore: false
 seasonings:
+  - name: White vinegar
+    amount: "1"
+    unit: tbsp
   - name: olive oil
     amount: "1"
     unit: tbsp
@@ -94,7 +76,8 @@ seasonings:
     amount: 1/4
     unit: tsp
 faqs:
-  - question: Can I cook the eggs ahead?
-    answer: You can prep the other ingredients ahead. Cook the eggs close to serving
-      and to your preferred safe doneness.
+  - question: How do I check doneness for different seafood?
+    answer: "The recipe does not identify the seafood: check fish at 145°F (63°C) at its thickest part; cook shrimp, scallops, crab, and lobster until firm, pearly, and opaque; cook clams, mussels, and oysters until their shells open, discarding any that stay closed. Do not rely on time alone."
+  - question: Can I poach the eggs ahead?
+    answer: Prep the other components first and poach the eggs close to serving. Use pasteurized eggs if serving them runny.
 ---

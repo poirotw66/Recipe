@@ -33,14 +33,13 @@ steps:
 - Taste and adjust. Spoon the stir-fry and sauce over the rice and serve.
 tips:
 - Do not overcook chicken for tenderness.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Eat fresh; refrigerate bento properly.
 substitutions:
 - Chicken thigh
 - Pork
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: "When should I add the water lily stems so they stay crisp?"
+  answer: "Cook the chicken until its surface changes color and set it aside. Stir-fry the water lily stems over high heat for about 1 minute, then return the chicken and finish with the sauce."
 relatedIngredients:
 - 水蓮
 - 雞胸肉
@@ -48,7 +47,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ingredients:
 - name: Water dropwort
   amount: "150"

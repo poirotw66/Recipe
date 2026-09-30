@@ -53,12 +53,11 @@ steps:
 - Cut 1/3 head broccoli into small florets and rinse. Break apart ½ package hon-shimeji mushrooms. In a heat-safe dish that fits your rice cooker, layer the broccoli and mushrooms first.
 - Lay the chicken breasts flat on top with space between each piece—do not stack them.
 - Add 1 cup water to the rice cooker outer pot, place the dish inside, cover, and start steaming.
-- After the switch pops up, rest 5 minutes. Pierce the thickest part with a skewer—juices should run clear with no pink.
+- After the switch pops up, rest 5 minutes. Use a food thermometer to check the thickest part; it must reach 165°F (74°C). If it has not, steam longer and check again.
 - Slice into 2 bento portions. The broccoli should stay bright green; if it turns mushy, it was steamed too long.
 tips:
 - Rest chicken at room temperature about 10 minutes before steaming for even texture.
 - For bento color, do not over-steam the broccoli.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Refrigerate up to 2 days; portion before reheating.
 substitutions:
 - Chicken tenderloin
@@ -68,15 +67,15 @@ faqs:
   answer: Do not slice too thin; rest after steaming so juices settle.
 - question: Can I make it a day ahead?
   answer: Yes—chill and reheat in the microwave or rice cooker the next day.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: "How can I tell the steamed chicken breast is safely cooked?"
+  answer: "After the cooker switches off and the chicken rests for 5 minutes, check the thickest part with a food thermometer. It should reach 165°F (74°C); if not, continue steaming and check again."
 relatedIngredients:
 - 雞胸肉
 - 菇類
 - 青花菜
 featured: true
 publishedAt: '2026-05-27'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - King oyster mushrooms
 - Baby corn

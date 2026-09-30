@@ -1,8 +1,7 @@
 ---
 title: Kids Cream Chicken Penne
 recipeId: sf-kids-cream-chicken-penne
-description: "A measured home recipe for Kids Cream Chicken Penne, with clear
-  preparation and cooking steps."
+description: "Cook chicken with corn and peas, then toss the penne with white sauce, cream, and cheese."
 coverImage: /images/recipes/sf-kids-cream-chicken-penne.webp
 servings: 2
 prepTime: 15
@@ -17,38 +16,18 @@ equipment:
   - Small saucepan
 tags:
   - Kids plates
-intro: "Boil the pasta just shy of tender and reserve some pasta water, then
-  finish the sauce in the pan. Return seafood or meat only at the end to avoid
-  overcooking."
+intro: "Cook the chicken through and set it aside. Warm the corn and peas in the same pan, then combine the white sauce, cream, and pasta water before tossing with the penne and chicken."
 steps:
-  - "Prep: dice chicken 180 g into about 1.5 cm cubes; wash corn 100 g and peas
-    as needed and drain. Dice cheese 40 g."
-  - Bring a large pot of water to a rolling boil over high heat; add sea salt
-    1/3 tsp (slightly less salty than the adult version). Cook penne 180 g 1
-    minute less than package time until al dente; drain and reserve about ½ cup
-    pasta cooking water.
-  - Heat olive oil 1 Tbsp in a skillet over medium heat; spread chicken cubes in
-    a single layer and cook until fully done and lightly golden, about 5–6
-    minutes; set aside.
-  - In the same pan, stir-fry corn and peas 2 minutes until slightly tender but
-    still sweet and crisp.
-  - Add white sauce as needed, cream as needed, and 3–4 Tbsp pasta water; stir
-    over low heat until lightly simmering and smooth, not too salty; fold in
-    half the diced cheese until melted.
-  - Raise heat to high; add penne and chicken; toss gently 1–2 minutes until
-    white sauce coats evenly (keep heat moderate to avoid splitting the cream).
-  - Off heat
+  - "Prep: dice chicken 180 g into about 1.5 cm cubes; wash corn 100 g and peas 50 g and drain. Dice cheese 40 g."
+  - "Bring a large pot of water to a rolling boil over high heat; add sea salt 1/3 tsp (slightly less salty than the adult version). Cook penne 180 g 1 minute less than package time until al dente; drain and reserve about ½ cup pasta cooking water."
+  - "Heat olive oil 1 Tbsp in a skillet over medium heat; spread chicken cubes in a single layer and cook over medium heat until lightly golden, about 5–6 minutes. Use a food thermometer to check the center of the largest piece reaches 74°C (165°F), If it has not reached the target, keep cooking and check again; once done, set aside on a clean plate."
+  - "In the same pan, stir-fry corn and peas 2 minutes until slightly tender but still sweet and crisp."
+  - "Add prepared white sauce 2 Tbsp, cream 60 ml, and 3–4 Tbsp pasta water; stir over low heat until lightly simmering and smooth, not too salty; fold in half the diced cheese until melted."
+  - "Raise heat to high; add penne and chicken; toss gently 1–2 minutes until white sauce coats evenly (keep heat moderate to avoid splitting the cream)."
+  - "Off heat"
 tips:
-  - Wash hands and tools after handling raw meat. Cook poultry to 165°F (74°C)
-    and fish to 145°F (63°C).
-  - Cook the chicken to 165°F (74°C). If using prepared white sauce, follow its
-    package storage directions.
-  - Boil the pasta just shy of tender and reserve some pasta water, then finish
-    the sauce in the pan. Return seafood or meat only at the end to avoid
-    overcooking.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - "Cook the chicken to an internal temperature of 165°F (74°C). Measure the listed 2 tablespoons white sauce, 60 ml cream, and 50 g peas."
+storage: "Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
 substitutions:
   - cooked rice
   - corn kernels
@@ -60,7 +39,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: chicken
     amount: "180"
@@ -96,7 +75,6 @@ seasonings:
     amount: "60"
     unit: ml
 faqs:
-  - question: How can I check doneness?
-    answer: "Use a food thermometer at the thickest point: 165°F (74°C) for poultry
-      and 145°F (63°C) for fish."
+  - question: "How do I keep the cream sauce from splitting?"
+    answer: "Warm the white sauce, cream, and pasta water over low heat until just simmering. After adding the penne and chicken, follow the recipe and keep the heat moderate rather than boiling it hard."
 ---

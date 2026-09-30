@@ -1,8 +1,7 @@
 ---
 title: Lemon Fish with Zucchini
 recipeId: sf-campfire-lemon-zucchini-fish-fillet
-description: "A measured home recipe for Lemon Fish with Zucchini, with clear
-  preparation and cooking steps."
+description: "Pan-seared white fish with zucchini and lemon-butter sauce, with a thermometer target and one-serving quantities."
 coverImage: /images/recipes/sf-campfire-lemon-zucchini-fish-fillet.webp
 servings: 1
 prepTime: 10
@@ -16,8 +15,7 @@ equipment:
   - Skillet
 tags:
   - Linkou specials
-intro: "Cook the main ingredient to a safe doneness before finishing the sauce
-  and sides; adjust time for its thickness."
+intro: "Pat the fish dry and cook it until the thickest part reaches 145°F (63°C). Use the same pan for the zucchini, then melt the butter with lemon juice over low heat and spoon it over the fish."
 steps:
   - Pat the fish dry. Cut the zucchini into 5 mm slices and squeeze the lemon.
   - Heat the olive oil over medium heat. Cook the fish about 3–4 minutes per
@@ -27,20 +25,16 @@ steps:
   - Lower the heat. Add the butter and lemon juice and stir until the butter
     melts; season with salt and pepper, then spoon over the fish.
 tips:
-  - Fish thickness changes the cooking time. Use a thermometer and check the
-    thickest part for 145°F (63°C).
-  - Cook the main ingredient to a safe doneness before finishing the sauce and
-    sides; adjust time for its thickness.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  - Pat the fish dry before searing and check the center of its thickest part; cooking time depends on thickness.
+  - Melt the butter and lemon juice over low heat so the butter does not brown in the pan.
+storage: "Serve freshly made when possible. Refrigerate leftovers within 2 hours and use within 3 to 4 days. Store the fish and zucchini separately; reheat fish leftovers to 165°F (74°C)."
 relatedIngredients:
   - White fish fillet
   - Zucchini
   - Lemon
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: White fish fillet
     amount: "180"
@@ -69,6 +63,5 @@ seasonings:
     unit: tsp
 faqs:
   - question: Can I use another fish?
-    answer: Yes. Choose a white fish fillet of similar thickness and check its
-      center temperature.
+    answer: Yes. Choose a white fish fillet of similar thickness and check that the thickest part reaches 145°F (63°C).
 ---

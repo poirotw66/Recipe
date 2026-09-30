@@ -1,8 +1,7 @@
 ---
-title: Orange Danish Sous Vide Steak
+title: Orange Danish, Sous-Vide Steak, and Egg Brunch Plate
 recipeId: sf-orange-danish-sous-vide-steak
-description: "A measured home recipe for Orange Danish Sous Vide Steak, with
-  clear preparation and cooking steps."
+description: "A two-serving plate of Orange Danish, ready-to-eat sous-vide steak, potatoes, eggs, and honey mustard; reheat the steak as directed on its package."
 coverImage: /images/recipes/sf-orange-danish-sous-vide-steak.webp
 servings: 2
 prepTime: 20
@@ -18,38 +17,18 @@ equipment:
   - Oven
 tags:
   - Brunch
-intro: "Cook the main ingredient to a safe doneness before finishing the sauce
-  and sides; adjust time for its thickness."
+intro: "This plate uses fully cooked, ready-to-eat sous-vide steak; follow the package for storage and reheating. Reheat the steak according to its package; cook the eggs close to serving, then plate with the warmed Danish and potatoes."
 steps:
-  - Arrange 2 orange Danish pastries on a baking sheet; bake at 180°C / 350°F
-    3–5 minutes until crisp outside and soft inside; portion 2 tbsp honey
-    mustard into a small bowl.
-  - Pat dry 220 g sous-vide steak with paper towels; sprinkle 1/6 tsp sea salt
-    and a little cracked black pepper; heat a skillet over high with 1/2 tbsp
-    olive oil; sear 1–1.5 minutes per side until charred outside; rest 3 minutes
-    and slice.
-  - In another skillet, fry 250 g potatoes over medium until golden and crisp;
-    keep warm.
-  - Heat a skillet over medium with a little butter; crack in 2 eggs; cover and
-    fry 2–3 minutes until whites set and yolks runny (sunny-side up); keep warm.
-  - On a large plate, arrange toasted orange Danish, sliced steak, fried
-    potatoes, and 2 sunny-side-up eggs.
-  - Drizzle 2 tbsp honey mustard over the steak and eggs, then 1 tbsp olive oil;
-    sprinkle 1/3 tsp sea salt and 1/4 tsp cracked black pepper.
-  - Check the sauce is evenly distributed; serve hot.
+  - "Arrange 2 orange Danish pastries on a baking sheet and warm at 350°F (180°C) for 3–5 minutes; follow the package if it gives different directions. Put 2 tbsp honey mustard in a small bowl."
+  - "Heat the 220 g fully cooked, ready-to-eat sous-vide steak according to its package. If the package permits pan finishing, pat the surface dry and briefly sear in a hot skillet with 1/2 tbsp olive oil until browned on both sides; slice and keep warm."
+  - "In another skillet, heat 250 g pan-fried potatoes over medium heat until hot and golden. Keep warm."
+  - "Use the remaining olive oil in a skillet to fry 2 eggs, covered, until both whites and yolks are set. For runny yolks, use pasteurized eggs."
+  - "Arrange the Danish, steak, potatoes, and fried eggs in separate sections on a large plate."
+  - "Season the eggs with 1/3 tsp sea salt and 1/4 tsp black pepper. Spoon the honey mustard over the steak and eggs, then serve."
 tips:
-  - Prepare the fillings first and cook the eggs last. Cook eggs through, or use
-    pasteurized eggs if serving them runny.
-  - Use pasteurized eggs for runny or soft-cooked eggs; cook ordinary eggs until
-    both white and yolk are set.
-  - Cook the main ingredient to a safe doneness before finishing the sauce and
-    sides; adjust time for its thickness.
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
-substitutions:
-  - bread roll
-  - mixed greens
+  - The sous-vide steak is already cooked; browning is only a finishing step. For a better sear, pat the surface dry and use a hot pan briefly so the center does not overcook. Follow the package for storage and heating.
+  - Cook ordinary eggs until both white and yolk are firm. Use pasteurized eggs if serving them runny, and keep the pastry separate until assembly.
+storage: "Serve freshly made when possible. Refrigerate cooked leftovers within 2 hours, use within 3 to 4 days, and reheat to 165°F (74°C). Store opened sous-vide steak as directed on its package. Keep the Danish separate from moist components and warm it again before serving."
 relatedIngredients:
   - Danish pastry
   - fully cooked sous-vide steak
@@ -60,17 +39,17 @@ customAdditions:
   - Balsamic on the side
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: Danish pastry
     amount: "2"
     unit: " servings"
     isCore: true
-  - name: fully cooked fully cooked, ready-to-eat sous-vide steak
+  - name: fully cooked, ready-to-eat sous-vide steak
     amount: "220"
     unit: g
     isCore: true
-  - name: fried eggs
+  - name: Egg
     amount: "2"
     unit: ""
     isCore: true
@@ -92,7 +71,8 @@ seasonings:
     amount: "2"
     unit: tbsp
 faqs:
-  - question: Can I cook the eggs ahead?
-    answer: You can prep the other ingredients ahead. Cook the eggs close to serving
-      and to your preferred safe doneness.
+  - question: Can I use raw steak for this recipe?
+    answer: This recipe uses fully cooked, ready-to-eat sous-vide steak and does not give a time and temperature for sous-vide cooking raw steak. Do not use these steps as a raw-steak cooking method.
+  - question: Can I leave the egg yolks runny?
+    answer: Use pasteurized eggs for runny yolks. Cook ordinary eggs until both the white and yolk are firm.
 ---

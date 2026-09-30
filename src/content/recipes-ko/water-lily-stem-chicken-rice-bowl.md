@@ -33,14 +33,13 @@ steps:
 - 간을 맞춘 뒤 볶은 미나리와 닭고기를 국물과 함께 밥 위에 올려 낸다.
 tips:
 - 닭가슴을 너무 오래 볶지 않으면 더 부드럽습니다.
-- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드세요. 도시락은 냉장 보관을 철저히 하세요.
 substitutions:
 - 닭다리살
 - 돼지고기
 faqs:
-- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
-  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
+- question: "미나리 줄기의 아삭함을 살리려면 언제 넣나요?"
+  answer: "닭고기 겉면이 익으면 먼저 덜어 두세요. 미나리를 센 불에서 약 1분 볶고 닭고기를 다시 넣어 소스와 함께 마무리합니다. "
 relatedIngredients:
 - 미나리
 - 닭가슴살
@@ -48,7 +47,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ingredients:
 - name: 미나리
   amount: "150"

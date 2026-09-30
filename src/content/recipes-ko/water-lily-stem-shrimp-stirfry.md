@@ -32,14 +32,13 @@ steps:
 - 새우를 다시 넣고 소금과 흰후추를 뿌린 뒤 센 불로 약 30초 빠르게 버무려 간이 고르게 배면 낸다.
 tips:
 - 새우는 맛술로 비린내를 잡을 수 있습니다.
-- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드세요. 새우는 하룻밤 지나면 질겨집니다.
 substitutions:
 - 오징어
 - 닭가슴살
 faqs:
-- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
-  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
+- question: "새우를 먼저 덜었다가 마지막에 다시 넣는 이유는?"
+  answer: "양면이 분홍색으로 변하면 덜어 두세요. 미나리를 볶은 뒤 새우를 다시 넣고 30초만 재빨리 섞어 오래 익히지 않습니다. "
 relatedIngredients:
 - 미나리
 - 새우
@@ -47,7 +46,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ingredients:
 - name: 미나리
   amount: "180"

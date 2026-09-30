@@ -1,8 +1,8 @@
 ---
 title: Chicken and Shrimp Tomato Cream Pasta
 recipeId: sf-dawn-shrimp-chicken-linguine
-description: "A measured home recipe for Chicken and Shrimp Tomato Cream Pasta,
-  with clear preparation and cooking steps."
+description: "Sear chicken and shrimp separately, then toss them with red bell
+  pepper, tomato cream sauce, and linguine for a one-serving pasta meal."
 coverImage: /images/recipes/sf-dawn-shrimp-chicken-linguine.webp
 servings: 1
 prepTime: 15
@@ -18,9 +18,9 @@ equipment:
   - Pot
 tags:
   - Rice & pasta
-intro: "Boil the pasta just shy of tender and reserve some pasta water, then
-  finish the sauce in the pan. Return seafood or meat only at the end to avoid
-  overcooking."
+intro: "Sear the chicken and shrimp separately and set them aside. In the same
+  pan, cook the garlic and bell pepper, make the tomato cream sauce, then toss
+  everything with the pasta."
 steps:
   - Cut the chicken breast into 2 cm pieces and pat dry. Devein and pat dry the
     shrimp; slice the bell pepper and mince the garlic.
@@ -40,14 +40,12 @@ steps:
     through, and season with salt and pepper.
   - Plate and serve warm.
 tips:
-  - Pat the chicken dry before searing and check that its center reaches 165°F
-    (74°C). Use pasta water a little at a time to loosen the sauce.
-  - Boil the pasta just shy of tender and reserve some pasta water, then finish
-    the sauce in the pan. Return seafood or meat only at the end to avoid
-    overcooking.
+  - Cook the chicken to 165°F (74°C) and the shrimp to 145°F (63°C). Keep cooked
+    portions separate from the plate used for raw chicken.
+  - Keep the tomato paste and cream at a gentle simmer. Add reserved pasta water
+    gradually to adjust the sauce consistency.
 storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C).
 relatedIngredients:
   - Chicken breast
   - Shrimp
@@ -56,7 +54,7 @@ relatedIngredients:
   - Shredded cheese
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: Chicken breast
     amount: "100"
@@ -102,6 +100,7 @@ seasonings:
     unit: tsp
 faqs:
   - question: Can I prep this ahead?
-    answer: You can slice the pepper ahead and refrigerate it. Cook the pasta and
-      seafood close to serving so the pasta does not absorb all the sauce.
+    answer: You can slice the pepper ahead and refrigerate it. Cook the pasta,
+      chicken, and shrimp close to serving so the pasta does not absorb the sauce
+      or the shrimp overcook.
 ---

@@ -33,14 +33,13 @@ steps:
 - 試味調整後，將炒好的水蓮雞肉連汁蓋在白飯上即可享用。
 tips:
 - 雞胸肉不要炒太久，口感會比較嫩。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 現做現吃；便當隔天需確實冷藏。
 substitutions:
 - 雞腿肉
 - 豬肉
 faqs:
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+- question: "水蓮什麼時候下鍋，才能保持脆口？"
+  answer: "先將雞肉炒至表面變色後盛起；水蓮用大火快炒約 1 分鐘，再讓雞肉回鍋裹醬至熟。"
 relatedIngredients:
 - 水蓮
 - 雞胸肉
@@ -48,7 +47,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ingredients:
 - name: 水蓮
   amount: "150"

@@ -58,28 +58,26 @@ steps:
 - Raise heat to high; add beef slices and separate with chopsticks; cook 1–2 minutes until just colored; turn off heat (do not overcook).
 - Ladle hot broth and beef over the noodles; top with scallions or black pepper if desired; serve hot.
 tips:
-- Add beef last—within about 2 minutes of a rolling boil—for the best texture.
-- For a richer broth, simmer 2 minutes longer or add another 1/2 tsp tomato paste.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Add beef last—within about 2 minutes of a rolling boil—for the best texture."
+  - "For a richer broth, simmer 2 minutes longer or add another 1/2 tsp tomato paste."
+  - "Drain and portion the noodles first. Add the beef to the simmering broth last, then ladle it over the noodles so they do not sit in the soup and soften."
 storage: Best fresh; store broth and noodles separately if you must, but avoid overnight bento.
 substitutions:
 - Udon
 - Spaghetti
 - Canned tomatoes
 faqs:
-- question: Can I use canned tomatoes?
-  answer: Yes—about half a can replaces one fresh tomato; reduce water slightly.
-- question: No hot-pot beef slices?
-  answer: Use thinly sliced sirloin and shorten the cooking time.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "Can I use canned tomatoes?"
+    answer: "Yes—about half a can replaces one fresh tomato; reduce water slightly."
+  - question: "No hot-pot beef slices?"
+    answer: "Use thinly sliced sirloin and shorten the cooking time."
 relatedIngredients:
 - 牛肉
 - 番茄
 - 麵條
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Scallions
 - Chili

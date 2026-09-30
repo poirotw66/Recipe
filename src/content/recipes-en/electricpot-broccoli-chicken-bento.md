@@ -46,33 +46,31 @@ tags:
 - Bento main
 intro: Brief marinade keeps breast moist; steaming vegetables with the chicken saves prep time.
 steps:
-- "Pat dry 260g chicken breast; cut 180g broccoli into small florets and rinse; peel 80g carrot and slice into thin half-moons; mince 2 cloves garlic."
-- "Slice chicken crosswise against the grain into thick pieces (about 1 cm); toss with 1.5 tsp soy sauce, minced garlic, and a pinch of salt; rest 10 minutes to marinate."
-- "In a heatproof dish that fits the rice cooker, layer carrot slices on the bottom, broccoli florets next, then lay chicken slices flat on top (leave space between pieces—do not stack)."
-- "Add 1 cup water to the outer pot, place the dish in the inner pot, cover, and start steaming."
-- "When the switch pops up, rest 5 minutes so residual heat keeps the breast tender."
-- "Open the lid and pierce the thickest part of the chicken with a skewer—the juices should run clear with no pink; broccoli should still look bright green."
-- "Cut into pieces or keep as slices and divide into 2 bento portions; let cool before closing the lids."
+  - "Pat dry 260g chicken breast; cut 180g broccoli into small florets and rinse; peel 80g carrot and slice into thin half-moons; mince 2 cloves garlic."
+  - "Slice chicken crosswise against the grain into thick pieces (about 1 cm); toss with 1.5 tsp soy sauce, minced garlic, and a pinch of salt; rest 10 minutes to marinate."
+  - "In a heatproof dish that fits the rice cooker, layer carrot slices on the bottom, broccoli florets next, then lay chicken slices flat on top (leave space between pieces—do not stack)."
+  - "Add 1 cup water to the outer pot, place the dish in the inner pot, cover, and start steaming."
+  - "When the switch pops up, rest 5 minutes so residual heat keeps the breast tender."
+  - "Open the lid and use a food thermometer to check the thickest part of the chicken reaches 165°F (74°C); if not, continue steaming until it does. The broccoli should remain bright green."
+  - "Cut into pieces or keep as slices and divide into 2 bento portions; let cool before closing the lids."
 tips:
-- Avoid slicing breast too thin or it dries out—keep some thickness.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Avoid slicing breast too thin or it dries out—keep some thickness."
+  - "Arrange the chicken slices in one layer with small gaps so steam can circulate. Let the cooker rest for 5 minutes after it switches off before checking doneness."
 storage: Refrigerate portions up to 2 days; splash water before microwaving.
 substitutions:
 - Carrot can be onion or mushrooms.
 faqs:
-- question: Make the night before?
-  answer: Yes—chill in boxes and take straight to work.
-- question: No rice cooker?
-  answer: Pan-sear chicken and blanch vegetables separately.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "Make the night before?"
+    answer: "Yes—chill in boxes and take straight to work."
+  - question: "No rice cooker?"
+    answer: "Pan-sear chicken and blanch vegetables separately."
 relatedIngredients:
 - 雞胸肉
 - 青花菜
 - 紅蘿蔔
 featured: false
 publishedAt: '2026-06-12'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - King oyster mushroom
 - Baby corn

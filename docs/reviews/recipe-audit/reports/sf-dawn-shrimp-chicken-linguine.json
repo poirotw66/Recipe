@@ -1,16 +1,24 @@
 {
   "slug": "sf-dawn-shrimp-chicken-linguine",
   "title": "番茄奶油雞蝦義大利麵",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.9,
+  "repair_summary": "已將四語內文改為雞肉與蝦仁分開烹調、番茄奶油醬及煮麵水調整方式；繁中步驟補上其他語言原有的蝦仁 63°C 熟度，並刪除無關的剩菜口感說明。食材份量未變更，尚未進行下廚試作，也未宣稱餐廳來源。",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Defined a complete one-serving tomato-cream sauce and aligned chicken and shrimp amounts with separate doneness endpoints (74°C poultry; 63°C shrimp). Text review covered all four locale bodies. Recipe timing, yield, and sensory outcome remain unverified because no kitchen trial was performed; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語內文已改為本食譜專屬的介紹與提示，繁中步驟也補入其他語言原有的蝦仁 63°C 熟度。本次僅完成文字審查；備料時間、產量與口感仍未經實際試作確認，亦未宣稱餐廳來源。",
+      "suggested_fix": "請下廚依文試作，記錄備料與烹調時間、實際份量，確認口感及適用的食安熟度，再評估是否調整索引狀態。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將調味表「海鹽」與步驟中的「鹽」判為未使用；人工核對確認步驟已調味，屬一般名稱寫法差異。",
+      "suggested_fix": "保留目前已人工核對的食材用法；機械預檢若要降低此類誤報，需支援複合詞、料理名稱與一般調味名稱的同義比對。",
+      "source": "precheck"
     }
   ]
 }

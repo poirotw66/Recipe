@@ -1,15 +1,16 @@
 {
   "slug": "sf-salted-egg-bitter-melon-pasta",
   "title": "鹹蛋苦瓜杏鮑菇義大利麵",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.9,
+  "repair_summary": "已將四語內容改為鹹蛋、山苦瓜與杏鮑菇專屬的烹調提示，並刪除不適用的剩菜口感說明；英文鹹蛋數量補上顆數單位。食材份量與步驟未變更，尚未進行下廚試作，也未宣稱餐廳來源。",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Replaced undefined prepared salted-egg sauce with a measured two-egg sauce and aligned pasta, bitter melon, yield, and steps across locales. Text review covered all four locale bodies. Recipe timing, yield, and sensory outcome remain unverified because no kitchen trial was performed; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語內文已改為本食譜專屬的介紹與提示，並移除無關的海鮮／肉類及剩菜口感模板。本次僅完成文字審查；備料時間、產量與口感仍未經實際試作確認，亦未宣稱餐廳來源。",
+      "suggested_fix": "請下廚依文試作，記錄備料與烹調時間、實際份量，確認口感及適用的食安熟度，再評估是否調整索引狀態。",
       "source": "agent"
     }
   ]

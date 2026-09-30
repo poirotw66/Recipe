@@ -1,8 +1,17 @@
 {
   "slug": "high-protein-chicken-broccoli-bowl",
   "title": "高蛋白雞肉青花碗",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "雞胸拍至約 1 公分並在步驟中靜置後切片，重複提示沒有新增判斷資訊；保留氣炸鍋版本和無飯搭配問答。 四語共用的靜置提示及「避免主食材變乾」問答已刪除；其餘本菜專屬內容保留。未經廚房試作，試作不同鍋具下約 1 公分雞胸的熟度與標示時間仍待確認。",
+      "suggested_fix": "試作不同鍋具下約 1 公分雞胸的熟度與標示時間後再按實際結果調整時間與說明；試作完成前維持 Warning。",
+      "source": "agent"
+    }
+  ],
+  "repair_summary": "雞胸拍至約 1 公分並在步驟中靜置後切片，重複提示沒有新增判斷資訊；保留氣炸鍋版本和無飯搭配問答。 已在繁中、英文、日文與韓文同步移除不適用的共用提示及問答，保留本篇特有資訊。試作不同鍋具下約 1 公分雞胸的熟度與標示時間仍待廚房試作確認，未宣稱已試作。"
 }

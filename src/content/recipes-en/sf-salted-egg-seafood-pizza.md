@@ -1,8 +1,7 @@
 ---
 title: Salted Egg Seafood Pizza
 recipeId: sf-salted-egg-seafood-pizza
-description: "A measured home recipe for Salted Egg Seafood Pizza, with clear
-  preparation and cooking steps."
+description: "Pizza crusts are topped with prepared salted egg sauce, seafood, and Thai basil, then baked with salt and black pepper."
 coverImage: /images/recipes/sf-salted-egg-seafood-pizza.webp
 servings: 2
 prepTime: 20
@@ -17,27 +16,17 @@ equipment:
   - Small saucepan
 tags:
   - Seasonal specials
-intro: "Cook the fillings first and prepare the eggs last. Use pasteurized eggs
-  for a runny or soft center; cook ordinary eggs until set."
+intro: "Dry and sear the seafood in a single layer until about 70% cooked. Spread the salted egg sauce on the crusts, add seafood and basil, and bake at 220°C."
 steps:
-  - Clean and dry the seafood, cut it into bite-size pieces, wash the basil, and
-    measure 2 tbsp prepared salted egg sauce.
-  - Preheat oven to 220°C; brush pizza crusts 2 pc lightly with olive oil 1 tbsp.
-  - Heat a little oil in a skillet over medium; spread seafood in a single layer
-    and sear until 70% cooked with light char (shrimp pink, squid curled, about
-    2 minutes); set aside to avoid overcooking in the oven.
-  - Spread the golden sauce evenly on crusts, leaving about 1 cm bare at the
-    edge.
-  - Top with seared seafood and basil; season with sea salt 1/3 tsp and black
-    pepper 1/4 tsp.
-  - Bake at 220°C for 8–10 minutes until the crust is golden crisp and the sauce
-    bubbles lightly.
-  - Rest 2 minutes
+  - "Clean and dry the seafood, cut it into bite-size pieces, wash the basil, and measure 2 tbsp prepared salted egg sauce."
+  - "Preheat oven to 220°C; brush pizza crusts 2 pc lightly with 1/2 tbsp olive oil."
+  - "Heat the remaining 1/2 tbsp olive oil in a skillet over medium; spread seafood in a single layer and sear until 70% cooked with light char (shrimp pink, squid curled, about 2 minutes); set aside to avoid overcooking in the oven."
+  - "Spread the measured 2 tbsp prepared salted egg sauce evenly on crusts, leaving about 1 cm bare at the edge."
+  - "Top with seared seafood and basil; season with sea salt 1/3 tsp and black pepper 1/4 tsp."
+  - "Bake at 220°C for 8–10 minutes until the crust is golden crisp and the sauce bubbles lightly."
+  - "Rest 2 minutes"
 tips:
-  - Wash hands and tools after handling raw meat. Cook poultry to 165°F (74°C)
-    and fish to 145°F (63°C).
-  - Cook the fillings first and prepare the eggs last. Use pasteurized eggs for
-    a runny or soft center; cook ordinary eggs until set.
+  - "Dry the seafood and sear it in a single layer to the step’s stated 70% doneness before returning it to the crusts for baking."
 storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
   and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
   toppings, greens, or soft-cooked eggs separately to protect texture.
@@ -51,7 +40,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: seafood
     amount: "180"
@@ -79,7 +68,6 @@ seasonings:
     amount: "2"
     unit: tbsp
 faqs:
-  - question: How can I check doneness?
-    answer: "Use a food thermometer at the thickest point: 165°F (74°C) for poultry
-      and 145°F (63°C) for fish."
+  - question: "The recipe sears seafood to about 70% first; how do I know it is fully cooked after baking?"
+    answer: "Treat 70% as this recipe’s intermediate sear cue, not the final safety check. After baking, use a food thermometer to confirm the thickest seafood piece reaches 145°F (63°C). If it has not, continue baking and check again."
 ---

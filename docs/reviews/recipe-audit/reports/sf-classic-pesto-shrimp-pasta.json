@@ -1,16 +1,36 @@
 {
   "slug": "sf-classic-pesto-shrimp-pasta",
   "title": "經典青醬鮮蝦麵",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.88,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Added the minced garlic called for by the method to the ingredient list. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe-specific cook time, yield, and sensory results still need an actual kitchen check; no kitchen trial or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語步驟新增蝦仁最厚處中心 63°C 的檢查，並保留不透明、彎曲的可觀察熟度線索；起鍋後再以煮麵水乳化青醬，離火分次拌起司。蝦的尺寸、時間與醬汁口感仍待試作確認。",
+      "suggested_fix": "請試作不同尺寸蝦仁，確認每面約 1 分鐘的估時與 63°C 終點相符，並記錄麵條及青醬濃度。",
       "source": "agent"
+    },
+    {
+      "type": "Ingredient_Mismatch",
+      "severity": "Warning",
+      "description": "機械預檢將步驟中已明列的「黑胡椒碎」誤判為未列食材；食材表有相同項目，此訊號屬複合詞比對的誤報。",
+      "suggested_fix": "保留食材表與步驟中的黑胡椒用量；若後續調整預檢器，補上「黑胡椒碎」的詞彙對應。",
+      "source": "precheck"
+    }
+  ],
+  "repair_summary": "四語步驟以 63°C 和不透明、彎曲的線索確認蝦仁熟度，並維持青醬乳化及離火拌起司順序；蝦仁尺寸、時間、醬汁與口感待試作。",
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "支持魚類及貝類應加熱至 62.8°C（以 63°C 表示）。"
+    },
+    {
+      "title": "Selecting and Serving Fresh and Frozen Seafood Safely — FDA",
+      "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
+      "supports": "支持蝦肉煮至珍珠色、不透明且緊實的可觀察熟度線索。"
     }
   ]
 }

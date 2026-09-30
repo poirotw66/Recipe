@@ -1,8 +1,23 @@
 {
   "slug": "broccoli-mushroom-chicken-rice-bowl",
   "title": "青花菜菇菇雞胸飯",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Safety_Risk",
+      "severity": "Warning",
+      "description": "四語已移除共用靜置提示與乾柴問答，改補雞丁單層煎色與青花菜瀝乾提示；雞丁中心熟度補至74°C，另刪除缺乏營養數據支持的減脂 FAQ。尚未試作，雞丁切塊與鍋具火力待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ],
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "禽肉中心至少165°F（74°C）；本篇雞丁以最大片中心確認。"
+    }
+  ]
 }

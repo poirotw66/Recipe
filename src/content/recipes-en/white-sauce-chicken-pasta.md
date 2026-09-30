@@ -62,21 +62,20 @@ steps:
 - Plate while hot. Sprinkle Parmesan or add bacon if you like.
 tips:
 - Keep heat low throughout so milk doesn’t split.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
 storage: Eat within 1 day refrigerated; add a splash of milk when reheating.
 substitutions:
 - Heavy cream
 faqs:
 - question: Sauce too thin?
   answer: Toss longer to evaporate moisture, or add a little more grated cheese.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+- question: "What does the reserved pasta water do in the white sauce?"
+  answer: "Start with the directed 2–3 tablespoons when tossing the pasta so the sauce coats it evenly. Add a little more reserved water if the sauce is too thick."
 relatedIngredients:
 - 義大利麵
 - 雞胸肉
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Bacon
 - Heavy cream

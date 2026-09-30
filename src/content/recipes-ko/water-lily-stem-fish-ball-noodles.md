@@ -33,14 +33,13 @@ steps:
 - 불을 끄고 쪽파를 뿌려 그릇에 담아 낸다.
 tips:
 - 생강 몇 장이나 간장 1작은술을 넣으면 국물이 더 깊어집니다.
-- 고기는 조리 후 2~3분 쉬었다가 자르고, 두께가 다르면 가장 두꺼운 부분의 익힘을 확인하세요.
 storage: 바로 드세요. 면은 하룻밤 지나면 불어납니다.
 substitutions:
 - 우동면
 - 쌀국수
 faqs:
-- question: "주재료가 퍽퍽해지지 않게 하는 법은?"
-  answer: "두께에 맞춰 불을 조절하고 조리 후 잠시 쉬었다가 자르세요. 남은 음식은 낮은 온도로 부드럽게 데웁니다."
+- question: "미나리와 면이 너무 무르지 않게 하려면?"
+  answer: "면은 포장지 시간에 맞춰 쫄깃하게 익히고 미나리는 마지막 약 1분만 넣으세요. 불을 끈 뒤 파를 뿌립니다. "
 relatedIngredients:
 - 미나리
 - 어묵
@@ -50,7 +49,7 @@ customAdditions:
 - 간장
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ingredients:
 - name: 미나리
   amount: "120"

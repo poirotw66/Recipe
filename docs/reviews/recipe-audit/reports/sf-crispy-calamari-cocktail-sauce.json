@@ -1,16 +1,24 @@
 {
   "slug": "sf-crispy-calamari-cocktail-sauce",
   "title": "酥炸鮮魷佐雞尾酒醬",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Added the seasoned flour coating and black pepper called for by the calamari method. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "四語主要步驟補上魷魚最厚處 63°C 熟度檢查、未達時短暫續炸再測，以及每批之間讓油溫回到 175°C；提示同步說明熟度與避免過炸。實際切塊尺寸與油炸時間仍待試作確認。",
+      "suggested_fix": "請以本篇實際魷魚切塊與炸鍋試作，確認最厚處可量測並達 63°C，同時記錄恢復油溫所需時間及避免魷魚變韌的窗口。",
       "source": "agent"
+    }
+  ],
+  "repair_summary": "四語步驟新增魷魚 63°C 終點、未達時短暫續炸及批次間恢復油溫的操作，提示同步說明；切塊尺寸、炸製時間與口感仍待廚房試作確認。",
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "支持魚類及貝類應加熱至 62.8°C（以 63°C 表示）。"
     }
   ]
 }

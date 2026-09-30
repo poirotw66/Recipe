@@ -1,16 +1,24 @@
 {
   "slug": "sf-griddled-butter-ham-sandwich",
   "title": "厚烤奶油 Ham 三明治",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-09-30",
   "status": "Warning",
   "confidence_score": 0.87,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Aligned the two breads and eggs with a two-serving yield, measured the ham, and removed the unexplained cream drizzle. Text review covered the final zh-TW, en, ja, and ko article bodies. Recipe time, yield, and sensory results still require kitchen verification; no trial evidence or restaurant provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm texture and applicable safe internal temperatures, then update the article before reconsidering indexing.",
+      "description": "將奶油列入原步驟已使用的材料，統一火腿 100 公克並將荷包蛋更正為烹調前雞蛋；以原列橄欖油、鹽、胡椒處理薯塊，修正楓糖漿配料順序。本次補上起司未融時回鍋加蓋、小火加熱至融化的操作判斷。依 FoodSafety.gov 蛋品熟度指引補上一般蛋與巴氏殺菌蛋注意事項；未進行廚房試作，奶油實際用量、時間、產量與口感仍待確認。",
+      "suggested_fix": "請料理者試作，確認麵包煎色、火腿與蛋的上桌溫度、起司融化所需時間及薯塊熟度，並記錄奶油實際用量、產量與成品狀態後更新文章。",
       "source": "agent"
+    }
+  ],
+  "repair_summary": "將奶油列入原步驟已使用的材料，統一火腿 100 公克並將荷包蛋更正為烹調前雞蛋；以原列橄欖油、鹽、胡椒處理薯塊，修正楓糖漿配料順序。本次補上起司未融時回鍋加蓋、小火加熱至融化的操作判斷。依 FoodSafety.gov 蛋品熟度指引補上一般蛋與巴氏殺菌蛋注意事項；未進行廚房試作，奶油實際用量、時間、產量與口感仍待確認。",
+  "references": [
+    {
+      "title": "Cook to a Safe Minimum Internal Temperature — FoodSafety.gov",
+      "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+      "supports": "一般雞蛋應煮至蛋黃與蛋白凝固；食譜若使用未全熟蛋，應考慮巴氏殺菌蛋。"
     }
   ]
 }

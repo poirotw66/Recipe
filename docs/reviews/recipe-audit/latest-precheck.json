@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-27",
+  "generated_at": "2026-09-30",
   "recipe_count": 289,
-  "pass": 146,
-  "warning": 143,
+  "pass": 225,
+  "warning": 64,
   "critical": 0,
   "recipes": [
     {
@@ -15,15 +15,8 @@
       "ingredient_count": 1,
       "seasoning_count": 3,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-crispy-chicken-bites",
@@ -35,15 +28,8 @@
       "ingredient_count": 2,
       "seasoning_count": 5,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-crispy-tofu-cubes",
@@ -68,15 +54,8 @@
       "ingredient_count": 1,
       "seasoning_count": 5,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-garlic-okra",
@@ -88,35 +67,21 @@
       "ingredient_count": 1,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-garlic-pork-chop",
-      "title": "氣炸蒜香豬排",
+      "title": "氣炸蒜香豬里肌排",
       "servings": 1,
       "prepTime": 10,
-      "cookTime": 16,
-      "totalTime": 26,
+      "cookTime": 17,
+      "totalTime": 27,
       "ingredient_count": 2,
       "seasoning_count": 6,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-garlic-shrimp",
@@ -128,15 +93,8 @@
       "ingredient_count": 1,
       "seasoning_count": 6,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-honey-sweet-potato",
@@ -161,15 +119,8 @@
       "ingredient_count": 2,
       "seasoning_count": 5,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "air-fryer-salmon-broccoli",
@@ -201,15 +152,8 @@
       "ingredient_count": 1,
       "seasoning_count": 6,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "airfryer-garlic-chicken-broccoli",
@@ -286,15 +230,8 @@
       "ingredient_count": 2,
       "seasoning_count": 4,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "beef-tofu-braise",
@@ -339,15 +276,8 @@
       "ingredient_count": 2,
       "seasoning_count": 5,
       "step_count": 5,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "bento-braised-tofu-egg",
@@ -424,15 +354,8 @@
       "ingredient_count": 3,
       "seasoning_count": 3,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "broccoli-onion-chicken-soup",
@@ -530,15 +453,8 @@
       "ingredient_count": 2,
       "seasoning_count": 4,
       "step_count": 5,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "cabbage-carrot-chicken-rice-bowl",
@@ -635,15 +551,8 @@
       "ingredient_count": 1,
       "seasoning_count": 6,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "canned-tuna-rice-bowl",
@@ -694,15 +603,8 @@
       "ingredient_count": 4,
       "seasoning_count": 4,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "chicken-broccoli-pasta",
@@ -714,15 +616,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "classic-caesar-chicken-salad",
@@ -734,15 +629,8 @@
       "ingredient_count": 2,
       "seasoning_count": 6,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "clearout-tofu-veggie-soup",
@@ -794,15 +682,8 @@
       "ingredient_count": 2,
       "seasoning_count": 4,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "crispy-cod-brunch",
@@ -814,15 +695,8 @@
       "ingredient_count": 3,
       "seasoning_count": 6,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "curry-beef-rice",
@@ -841,10 +715,10 @@
       "slug": "dh-bbq-korean-fried-chicken",
       "title": "醬味韓式炸雞",
       "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
+      "prepTime": 35,
+      "cookTime": 25,
+      "totalTime": 60,
+      "ingredient_count": 4,
       "seasoning_count": 7,
       "step_count": 8,
       "status": "Pass",
@@ -852,26 +726,33 @@
     },
     {
       "slug": "dh-bbq-wrap",
-      "title": "醬燒青蔥牛五花/豬梅花",
+      "title": "韓式牛肉年糕高麗菜捲",
       "servings": 2,
       "prepTime": 25,
       "cookTime": 20,
       "totalTime": 45,
-      "ingredient_count": 4,
-      "seasoning_count": 3,
+      "ingredient_count": 5,
+      "seasoning_count": 4,
       "step_count": 7,
-      "status": "Pass",
-      "mechanical_issues": []
+      "status": "Warning",
+      "mechanical_issues": [
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "Listed item \"白糖\" not found in steps text (heuristic)."
+        }
+      ]
     },
     {
       "slug": "dh-bibimbap",
       "title": "石燒拌飯",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 20,
-      "totalTime": 35,
-      "ingredient_count": 7,
-      "seasoning_count": 3,
+      "servings": 2,
+      "prepTime": 20,
+      "cookTime": 40,
+      "totalTime": 60,
+      "ingredient_count": 8,
+      "seasoning_count": 5,
       "step_count": 7,
       "status": "Pass",
       "mechanical_issues": []
@@ -880,10 +761,10 @@
       "slug": "dh-brown-sugar-pancake",
       "title": "韓式爆漿黑糖餅",
       "servings": 2,
-      "prepTime": 15,
+      "prepTime": 30,
       "cookTime": 12,
-      "totalTime": 27,
-      "ingredient_count": 4,
+      "totalTime": 42,
+      "ingredient_count": 5,
       "seasoning_count": 2,
       "step_count": 7,
       "status": "Pass",
@@ -893,10 +774,10 @@
       "slug": "dh-cajun-korean-fried-chicken",
       "title": "肯瓊醬韓式炸雞",
       "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
+      "prepTime": 35,
+      "cookTime": 25,
+      "totalTime": 60,
+      "ingredient_count": 4,
       "seasoning_count": 6,
       "step_count": 8,
       "status": "Pass",
@@ -907,8 +788,8 @@
       "title": "起司泡菜鮮菇嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "cookTime": 20,
+      "totalTime": 40,
       "ingredient_count": 7,
       "seasoning_count": 6,
       "step_count": 7,
@@ -922,7 +803,7 @@
       "prepTime": 22,
       "cookTime": 22,
       "totalTime": 44,
-      "ingredient_count": 3,
+      "ingredient_count": 5,
       "seasoning_count": 3,
       "step_count": 7,
       "status": "Warning",
@@ -937,11 +818,11 @@
     },
     {
       "slug": "dh-cheese-soondubu",
-      "title": "起司嫩豆腐煲",
+      "title": "起司牛肉嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "cookTime": 20,
+      "totalTime": 40,
       "ingredient_count": 6,
       "seasoning_count": 6,
       "step_count": 8,
@@ -950,12 +831,12 @@
     },
     {
       "slug": "dh-cheese-stuffed-rice-cake-soondubu",
-      "title": "打爆起司年糕嫩豆腐煲",
+      "title": "起司年糕嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 5,
+      "cookTime": 20,
+      "totalTime": 40,
+      "ingredient_count": 6,
       "seasoning_count": 6,
       "step_count": 6,
       "status": "Pass",
@@ -966,9 +847,9 @@
       "title": "海菜起司年糕鮮魚嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 7,
+      "cookTime": 20,
+      "totalTime": 40,
+      "ingredient_count": 8,
       "seasoning_count": 5,
       "step_count": 6,
       "status": "Pass",
@@ -979,8 +860,8 @@
       "title": "起司野菜鮮菇嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "cookTime": 20,
+      "totalTime": 40,
       "ingredient_count": 7,
       "seasoning_count": 6,
       "step_count": 7,
@@ -992,9 +873,9 @@
       "title": "蛤蜊鮮蝦嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
+      "cookTime": 20,
+      "totalTime": 40,
+      "ingredient_count": 7,
       "seasoning_count": 4,
       "step_count": 6,
       "status": "Pass",
@@ -1002,11 +883,11 @@
     },
     {
       "slug": "dh-classic-soondubu",
-      "title": "嫩豆腐煲",
+      "title": "經典嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "cookTime": 20,
+      "totalTime": 40,
       "ingredient_count": 5,
       "seasoning_count": 4,
       "step_count": 7,
@@ -1017,10 +898,10 @@
       "slug": "dh-classic-stone-pot-rice",
       "title": "韓式石鍋飯",
       "servings": 1,
-      "prepTime": 15,
-      "cookTime": 20,
-      "totalTime": 35,
-      "ingredient_count": 4,
+      "prepTime": 20,
+      "cookTime": 30,
+      "totalTime": 50,
+      "ingredient_count": 5,
       "seasoning_count": 3,
       "step_count": 7,
       "status": "Pass",
@@ -1031,9 +912,9 @@
       "title": "海陸綜合嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 7,
+      "cookTime": 20,
+      "totalTime": 40,
+      "ingredient_count": 8,
       "seasoning_count": 4,
       "step_count": 6,
       "status": "Pass",
@@ -1043,10 +924,10 @@
       "slug": "dh-creamy-onion-korean-fried-chicken",
       "title": "洋蔥白醬韓式炸雞",
       "servings": 2,
-      "prepTime": 25,
+      "prepTime": 35,
       "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
+      "totalTime": 55,
+      "ingredient_count": 4,
       "seasoning_count": 6,
       "step_count": 8,
       "status": "Pass",
@@ -1054,11 +935,11 @@
     },
     {
       "slug": "dh-curry-soondubu",
-      "title": "咖哩嫩豆腐煲",
+      "title": "咖哩豬肉嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "cookTime": 20,
+      "totalTime": 40,
       "ingredient_count": 6,
       "seasoning_count": 4,
       "step_count": 8,
@@ -1067,13 +948,13 @@
     },
     {
       "slug": "dh-deep-fried-tofu",
-      "title": "黃金酥炸嫩豆腐",
+      "title": "酥炸嫩豆腐",
       "servings": 2,
       "prepTime": 18,
       "cookTime": 16,
       "totalTime": 34,
-      "ingredient_count": 1,
-      "seasoning_count": 3,
+      "ingredient_count": 3,
+      "seasoning_count": 5,
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
@@ -1095,10 +976,10 @@
       "slug": "dh-duck-jerky-stone-pot-rice",
       "title": "鴨賞石鍋飯",
       "servings": 1,
-      "prepTime": 15,
-      "cookTime": 20,
-      "totalTime": 35,
-      "ingredient_count": 4,
+      "prepTime": 20,
+      "cookTime": 30,
+      "totalTime": 50,
+      "ingredient_count": 5,
       "seasoning_count": 3,
       "step_count": 6,
       "status": "Pass",
@@ -1109,8 +990,8 @@
       "title": "鮮魚嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "cookTime": 20,
+      "totalTime": 40,
       "ingredient_count": 6,
       "seasoning_count": 4,
       "step_count": 8,
@@ -1119,12 +1000,12 @@
     },
     {
       "slug": "dh-french-fries-with-korean-flavored-sauce",
-      "title": "韓式酥炸脆薯",
+      "title": "韓式辣蜜醬脆薯條",
       "servings": 2,
       "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
-      "ingredient_count": 1,
+      "cookTime": 30,
+      "totalTime": 48,
+      "ingredient_count": 2,
       "seasoning_count": 3,
       "step_count": 7,
       "status": "Warning",
@@ -1139,77 +1020,64 @@
     },
     {
       "slug": "dh-fried-glass-noodle",
-      "title": "韓式炒冬粉",
+      "title": "蔬菜韓式炒冬粉",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
+      "prepTime": 45,
+      "cookTime": 20,
+      "totalTime": 65,
       "ingredient_count": 5,
       "seasoning_count": 4,
-      "step_count": 7,
+      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-fried-oysters",
-      "title": "巨濟島炸牡蠣",
+      "title": "酥炸牡蠣",
       "servings": 2,
       "prepTime": 25,
       "cookTime": 20,
       "totalTime": 45,
-      "ingredient_count": 1,
-      "seasoning_count": 3,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"檸檬\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
-    },
-    {
-      "slug": "dh-ginseng-chicken-clay-pot",
-      "title": "人蔘砂鍋雞",
-      "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 6,
+      "ingredient_count": 5,
       "seasoning_count": 2,
       "step_count": 6,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
-      "slug": "dh-ginseng-chicken-hot-pot",
-      "title": "韓國人蔘雞火鍋",
+      "slug": "dh-ginseng-chicken-clay-pot",
+      "title": "人蔘糯米燉雞",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 8,
+      "prepTime": 35,
+      "cookTime": 90,
+      "totalTime": 125,
+      "ingredient_count": 7,
       "seasoning_count": 2,
-      "step_count": 6,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
+    },
+    {
+      "slug": "dh-ginseng-chicken-hot-pot",
+      "title": "人蔘雞年糕火鍋",
+      "servings": 2,
+      "prepTime": 35,
+      "cookTime": 100,
+      "totalTime": 135,
+      "ingredient_count": 9,
+      "seasoning_count": 2,
+      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-golden-chicken-stone-pot-rice",
       "title": "黃金雞石鍋飯",
-      "servings": 1,
-      "prepTime": 15,
-      "cookTime": 20,
-      "totalTime": 35,
-      "ingredient_count": 4,
+      "servings": 2,
+      "prepTime": 20,
+      "cookTime": 30,
+      "totalTime": 50,
+      "ingredient_count": 5,
       "seasoning_count": 3,
       "step_count": 7,
       "status": "Pass",
@@ -1217,12 +1085,12 @@
     },
     {
       "slug": "dh-honey-garlic-korean-fried-chicken",
-      "title": "蜂蜜蒜味韓式炸雞",
+      "title": "蜂蜜蒜香韓式炸雞",
       "servings": 2,
-      "prepTime": 25,
+      "prepTime": 30,
       "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
+      "totalTime": 50,
+      "ingredient_count": 4,
       "seasoning_count": 6,
       "step_count": 8,
       "status": "Pass",
@@ -1230,11 +1098,11 @@
     },
     {
       "slug": "dh-kimchi-mushroom-soondubu",
-      "title": "泡菜鮮菇嫩豆腐煲",
+      "title": "泡菜香菇嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "cookTime": 20,
+      "totalTime": 40,
       "ingredient_count": 7,
       "seasoning_count": 4,
       "step_count": 7,
@@ -1246,8 +1114,8 @@
       "title": "泡菜海鮮嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "cookTime": 20,
+      "totalTime": 40,
       "ingredient_count": 9,
       "seasoning_count": 4,
       "step_count": 8,
@@ -1256,53 +1124,53 @@
     },
     {
       "slug": "dh-kimchi-soondubu",
-      "title": "泡菜嫩豆腐煲",
+      "title": "泡菜豬肉嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "cookTime": 20,
+      "totalTime": 40,
       "ingredient_count": 7,
       "seasoning_count": 4,
-      "step_count": 8,
+      "step_count": 7,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-kimchi-tofu-pancake",
-      "title": "泡菜豆腐煎餅",
+      "title": "泡菜嫩豆腐煎餅",
       "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
+      "prepTime": 20,
+      "cookTime": 18,
+      "totalTime": 38,
+      "ingredient_count": 6,
       "seasoning_count": 4,
-      "step_count": 7,
+      "step_count": 6,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-korean-bbq-beef-short-ribs",
-      "title": "韓式BBQ鐵板翼板牛",
+      "title": "韓式BBQ翼板牛快煎",
       "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
+      "prepTime": 30,
+      "cookTime": 15,
       "totalTime": 45,
       "ingredient_count": 3,
       "seasoning_count": 3,
-      "step_count": 7,
+      "step_count": 6,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-korean-cheese-egg-roll",
-      "title": "韓式起司烘蛋捲",
+      "title": "韓式起司飛魚卵蛋捲",
       "servings": 2,
-      "prepTime": 25,
+      "prepTime": 15,
       "cookTime": 20,
-      "totalTime": 45,
+      "totalTime": 35,
       "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 7,
+      "seasoning_count": 5,
+      "step_count": 8,
       "status": "Pass",
       "mechanical_issues": []
     },
@@ -1311,9 +1179,9 @@
       "title": "韓式餃子嫩豆腐煲",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
+      "cookTime": 25,
+      "totalTime": 45,
+      "ingredient_count": 7,
       "seasoning_count": 4,
       "step_count": 8,
       "status": "Pass",
@@ -1321,119 +1189,119 @@
     },
     {
       "slug": "dh-korean-fried-chicken-combo",
-      "title": "Combo雙享韓式炸雞",
+      "title": "雙醬韓式炸雞",
       "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 1,
-      "seasoning_count": 7,
+      "prepTime": 35,
+      "cookTime": 35,
+      "totalTime": 70,
+      "ingredient_count": 4,
+      "seasoning_count": 9,
       "step_count": 8,
-      "status": "Pass",
-      "mechanical_issues": []
+      "status": "Warning",
+      "mechanical_issues": [
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "Listed item \"清水\" not found in steps text (heuristic)."
+        }
+      ]
     },
     {
       "slug": "dh-korean-style-bbq-fish-ball",
       "title": "韓風辣味魚丸燒",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
+      "prepTime": 12,
+      "cookTime": 12,
+      "totalTime": 24,
       "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "seasoning_count": 6,
+      "step_count": 5,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-korean-sweet-and-sour-pork",
-      "title": "韓國糖醋肉",
+      "title": "韓式糖醋肉",
       "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
+      "prepTime": 20,
+      "cookTime": 25,
       "totalTime": 45,
       "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 7,
+      "seasoning_count": 6,
+      "step_count": 6,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-korean-vermicelli-tofu-roll",
-      "title": "韓式金絲豆腐捲",
+      "title": "韓式冬粉豆腐皮捲",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
-      "ingredient_count": 6,
+      "prepTime": 25,
+      "cookTime": 15,
+      "totalTime": 40,
+      "ingredient_count": 7,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Pass",
-      "mechanical_issues": []
+      "status": "Warning",
+      "mechanical_issues": [
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "Listed item \"新鮮豆腐皮\" not found in steps text (heuristic)."
+        }
+      ]
     },
     {
       "slug": "dh-original-korean-fried-chicken",
       "title": "原味韓式炸雞",
       "servings": 2,
-      "prepTime": 25,
+      "prepTime": 40,
       "cookTime": 20,
-      "totalTime": 45,
+      "totalTime": 60,
       "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 7,
+      "seasoning_count": 5,
+      "step_count": 5,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-ox-bone-soup",
-      "title": "神仙霜降雪濃湯",
-      "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
-      "ingredient_count": 3,
+      "title": "韓式雪濃湯（牛骨湯）",
+      "servings": 6,
+      "prepTime": 30,
+      "cookTime": 490,
+      "totalTime": 520,
+      "ingredient_count": 6,
       "seasoning_count": 2,
-      "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "step_count": 5,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-plant-based-fried-chicken-with-mushroom-soondubu",
-      "title": "植感炸雞鮮菇嫩豆腐煲",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 6,
-      "seasoning_count": 4,
-      "step_count": 6,
+      "title": "植物肉炸雞鮮菇嫩豆腐煲",
+      "servings": 1,
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "ingredient_count": 7,
+      "seasoning_count": 5,
+      "step_count": 5,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-plant-based-fried-chicken-with-rice-cake",
-      "title": "植感炸雞年糕",
+      "title": "植物肉炸雞辣炒年糕",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
       "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 7,
+      "seasoning_count": 6,
+      "step_count": 5,
       "status": "Pass",
       "mechanical_issues": []
     },
@@ -1441,12 +1309,12 @@
       "slug": "dh-potato-pancake-with-cheese",
       "title": "起司馬鈴薯煎餅",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
+      "prepTime": 18,
+      "cookTime": 18,
+      "totalTime": 36,
       "ingredient_count": 5,
-      "seasoning_count": 5,
-      "step_count": 7,
+      "seasoning_count": 6,
+      "step_count": 5,
       "status": "Pass",
       "mechanical_issues": []
     },
@@ -1454,12 +1322,12 @@
       "slug": "dh-royal-stir-fried-rice-cake",
       "title": "韓式宮廷炒年糕",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
-      "ingredient_count": 5,
-      "seasoning_count": 4,
-      "step_count": 7,
+      "prepTime": 18,
+      "cookTime": 20,
+      "totalTime": 38,
+      "ingredient_count": 6,
+      "seasoning_count": 6,
+      "step_count": 6,
       "status": "Pass",
       "mechanical_issues": []
     },
@@ -1467,11 +1335,11 @@
       "slug": "dh-seafood-pancake",
       "title": "綜合海鮮煎餅",
       "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
+      "prepTime": 15,
+      "cookTime": 15,
+      "totalTime": 30,
       "ingredient_count": 3,
-      "seasoning_count": 4,
+      "seasoning_count": 5,
       "step_count": 7,
       "status": "Pass",
       "mechanical_issues": []
@@ -1480,11 +1348,11 @@
       "slug": "dh-seafood-soondubu",
       "title": "海鮮嫩豆腐煲",
       "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 7,
-      "seasoning_count": 4,
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "ingredient_count": 8,
+      "seasoning_count": 5,
       "step_count": 6,
       "status": "Pass",
       "mechanical_issues": []
@@ -1493,11 +1361,11 @@
       "slug": "dh-seaweed-oyster-soondubu",
       "title": "海菜鮮蚵嫩豆腐煲",
       "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
       "ingredient_count": 7,
-      "seasoning_count": 5,
+      "seasoning_count": 6,
       "step_count": 8,
       "status": "Pass",
       "mechanical_issues": []
@@ -1506,11 +1374,11 @@
       "slug": "dh-spicy-korean-fried-chicken",
       "title": "辣味韓式炸雞",
       "servings": 2,
-      "prepTime": 25,
-      "cookTime": 20,
-      "totalTime": 45,
+      "prepTime": 40,
+      "cookTime": 25,
+      "totalTime": 65,
       "ingredient_count": 3,
-      "seasoning_count": 7,
+      "seasoning_count": 8,
       "step_count": 8,
       "status": "Pass",
       "mechanical_issues": []
@@ -1519,65 +1387,51 @@
       "slug": "dh-spicy-pan-fried-seafood-rice-cake",
       "title": "海鮮辣炒年糕",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
+      "prepTime": 20,
+      "cookTime": 20,
+      "totalTime": 40,
       "ingredient_count": 5,
-      "seasoning_count": 4,
+      "seasoning_count": 7,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-spicy-pan-fried-squid",
       "title": "辣炒中卷",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
+      "prepTime": 15,
+      "cookTime": 15,
+      "totalTime": 30,
       "ingredient_count": 3,
-      "seasoning_count": 4,
+      "seasoning_count": 7,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-spicy-stired-fried-chicken",
       "title": "春川辣炒雞",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
+      "prepTime": 30,
+      "cookTime": 15,
+      "totalTime": 45,
       "ingredient_count": 3,
-      "seasoning_count": 3,
+      "seasoning_count": 5,
       "step_count": 6,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "dh-steamed-eggs-with-cheese-roe",
-      "title": "魚卵起司陶鍋蛋",
+      "title": "飛魚卵起司蒸蛋",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 16,
-      "totalTime": 34,
-      "ingredient_count": 2,
-      "seasoning_count": 4,
-      "step_count": 7,
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "ingredient_count": 5,
+      "seasoning_count": 2,
+      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
@@ -1585,32 +1439,25 @@
       "slug": "dh-stired-fried-fish-fillet-with-vegetables",
       "title": "田園醬燒飛虎魚",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
+      "prepTime": 20,
+      "cookTime": 15,
+      "totalTime": 35,
       "ingredient_count": 3,
-      "seasoning_count": 3,
+      "seasoning_count": 5,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-tofu-ice-cream-with-tapioca",
-      "title": "珍珠豆腐冰淇淋",
+      "title": "黑糖珍珠豆腐冰淇淋",
       "servings": 2,
-      "prepTime": 15,
-      "cookTime": 12,
-      "totalTime": 27,
-      "ingredient_count": 2,
-      "seasoning_count": 2,
-      "step_count": 7,
+      "prepTime": 20,
+      "cookTime": 20,
+      "totalTime": 280,
+      "ingredient_count": 5,
+      "seasoning_count": 0,
+      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
@@ -1618,11 +1465,11 @@
       "slug": "dh-truffle-cheese-egg-roll",
       "title": "松露韓式起司烘蛋捲",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 20,
-      "totalTime": 42,
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
       "ingredient_count": 1,
-      "seasoning_count": 4,
+      "seasoning_count": 6,
       "step_count": 7,
       "status": "Pass",
       "mechanical_issues": []
@@ -1631,31 +1478,24 @@
       "slug": "dh-truffle-jjajang-cheese-rice-cake",
       "title": "黑松露炸醬起司年糕",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
       "ingredient_count": 2,
-      "seasoning_count": 4,
+      "seasoning_count": 7,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "dh-vegetable-pancake",
       "title": "絲瓜鮮蔬煎餅",
       "servings": 2,
-      "prepTime": 22,
-      "cookTime": 22,
-      "totalTime": 44,
+      "prepTime": 20,
+      "cookTime": 15,
+      "totalTime": 35,
       "ingredient_count": 3,
-      "seasoning_count": 4,
+      "seasoning_count": 6,
       "step_count": 7,
       "status": "Pass",
       "mechanical_issues": []
@@ -1664,11 +1504,11 @@
       "slug": "dh-vegetable-soondubu",
       "title": "野菜鮮菇嫩豆腐煲",
       "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
       "ingredient_count": 7,
-      "seasoning_count": 5,
+      "seasoning_count": 6,
       "step_count": 7,
       "status": "Pass",
       "mechanical_issues": []
@@ -1735,15 +1575,8 @@
       "ingredient_count": 2,
       "seasoning_count": 6,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "fridge-bottom-soup-noodles",
@@ -1775,15 +1608,8 @@
       "ingredient_count": 3,
       "seasoning_count": 5,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garden-vegetable-pasta",
@@ -1795,15 +1621,8 @@
       "ingredient_count": 4,
       "seasoning_count": 5,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-beef-cabbage-stirfry",
@@ -1841,15 +1660,8 @@
       "ingredient_count": 3,
       "seasoning_count": 6,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-egg-cabbage-bento-side",
@@ -1874,15 +1686,8 @@
       "ingredient_count": 3,
       "seasoning_count": 3,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-mushroom-tofu-rice-bowl",
@@ -1907,15 +1712,8 @@
       "ingredient_count": 2,
       "seasoning_count": 3,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "garlic-tofu-chicken-pan-main",
@@ -1966,15 +1764,8 @@
       "ingredient_count": 3,
       "seasoning_count": 5,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "high-protein-chicken-broccoli-bowl",
@@ -1986,19 +1777,12 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "high-protein-egg-white-stirfry",
-      "title": "高蛋白蛋白炒",
+      "title": "小黃瓜炒蛋白｜低脂高蛋白料理",
       "servings": 1,
       "prepTime": 8,
       "cookTime": 6,
@@ -2066,15 +1850,8 @@
       "ingredient_count": 1,
       "seasoning_count": 7,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "instant-miso-egg-soup",
@@ -2217,15 +1994,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 5,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-bacon-style-egg-pasta",
@@ -2237,15 +2007,8 @@
       "ingredient_count": 3,
       "seasoning_count": 3,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "onion-beef-rice-bowl",
@@ -2368,15 +2131,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-chicken-broccoli-pasta",
@@ -2401,15 +2157,8 @@
       "ingredient_count": 5,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-chicken-pasta",
@@ -2421,15 +2170,8 @@
       "ingredient_count": 4,
       "seasoning_count": 4,
       "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-salmon-broccoli-pasta",
@@ -2454,15 +2196,8 @@
       "ingredient_count": 4,
       "seasoning_count": 5,
       "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-shrimp-pasta",
@@ -2474,15 +2209,8 @@
       "ingredient_count": 4,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "pesto-style-scallion-pasta",
@@ -2494,15 +2222,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "quick-kimchi-fried-rice",
@@ -2574,15 +2295,8 @@
       "ingredient_count": 3,
       "seasoning_count": 5,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "salmon-broccoli-garlic-main",
@@ -2607,15 +2321,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "scallion-beef-fried-rice",
@@ -2718,15 +2425,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 5,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sesame-cold-noodles-solo",
@@ -2758,213 +2458,184 @@
       "slug": "sf-acai-berry-yogurt-bowl",
       "title": "巴西莓果優格碗",
       "servings": 1,
-      "prepTime": 20,
-      "cookTime": 12,
-      "totalTime": 32,
-      "ingredient_count": 5,
-      "seasoning_count": 2,
-      "step_count": 7,
+      "prepTime": 15,
+      "cookTime": 0,
+      "totalTime": 15,
+      "ingredient_count": 6,
+      "seasoning_count": 0,
+      "step_count": 3,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-american-cheesecake",
-      "title": "全美起司蛋糕",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 28,
-      "totalTime": 48,
-      "ingredient_count": 1,
-      "seasoning_count": 2,
-      "step_count": 8,
+      "title": "美式起司蛋糕",
+      "servings": 8,
+      "prepTime": 30,
+      "cookTime": 55,
+      "totalTime": 375,
+      "ingredient_count": 6,
+      "seasoning_count": 0,
+      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-asahi-cordon-bleu-pork-burger",
-      "title": "朝日藍帶豬排堡",
+      "title": "藍帶豬排起司堡",
       "servings": 1,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 3,
+      "cookTime": 25,
+      "totalTime": 45,
+      "ingredient_count": 9,
       "seasoning_count": 3,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-avocado-bacon-open-toast",
-      "title": "酪梨慢煎培根／歐包 Open",
-      "servings": 1,
+      "title": "酪梨培根開放三明治",
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 14,
       "totalTime": 32,
-      "ingredient_count": 4,
-      "seasoning_count": 4,
+      "ingredient_count": 5,
+      "seasoning_count": 6,
       "step_count": 6,
       "status": "Warning",
       "mechanical_issues": [
         {
           "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
+          "code": "unused_ingredient",
           "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"檸檬\" but it is not in ingredients/seasonings/customAdditions/substitutions."
+          "description": "Listed item \"海鹽\" not found in steps text (heuristic)."
         }
       ]
     },
     {
       "slug": "sf-avocado-local-sausage-danish-open",
-      "title": "酪梨 Local 香腸／丹麥 Open",
-      "servings": 1,
+      "title": "酪梨香腸丹麥三明治",
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 14,
       "totalTime": 32,
       "ingredient_count": 4,
-      "seasoning_count": 4,
+      "seasoning_count": 6,
       "step_count": 6,
       "status": "Warning",
       "mechanical_issues": [
         {
           "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
+          "code": "unused_ingredient",
           "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
+          "description": "Listed item \"海鹽\" not found in steps text (heuristic)."
         }
       ]
     },
     {
       "slug": "sf-avocado-smoked-salmon-open-toast",
-      "title": "酪梨燻鮭魚／歐包 Open",
-      "servings": 1,
+      "title": "酪梨燻鮭魚開放三明治",
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 14,
       "totalTime": 32,
       "ingredient_count": 6,
-      "seasoning_count": 3,
+      "seasoning_count": 5,
       "step_count": 5,
       "status": "Warning",
       "mechanical_issues": [
         {
           "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
+          "code": "unused_ingredient",
           "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
+          "description": "Listed item \"即食熱燻鮭魚\" not found in steps text (heuristic)."
+        },
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "Listed item \"海鹽\" not found in steps text (heuristic)."
         }
       ]
     },
     {
       "slug": "sf-baked-thick-cut-pork-cream-rice",
-      "title": "焗厚切豬排奶油飯",
+      "title": "焗豬排奶油飯",
       "servings": 1,
       "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 5,
-      "seasoning_count": 5,
-      "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
-    },
-    {
-      "slug": "sf-balsamic-mushroom-pasta",
-      "title": "巴薩米克蕈菇麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 3,
-      "seasoning_count": 5,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
-    },
-    {
-      "slug": "sf-bbq-roasted-half-chicken",
-      "title": "BBQ 溫烤半雞",
-      "servings": 2,
-      "prepTime": 25,
       "cookTime": 35,
-      "totalTime": 60,
-      "ingredient_count": 3,
-      "seasoning_count": 4,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
-    },
-    {
-      "slug": "sf-black-pepper-hamburg-rice",
-      "title": "老闆黑胡椒漢堡排飯",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 4,
-      "seasoning_count": 5,
-      "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
-    },
-    {
-      "slug": "sf-black-truffle-cordon-bleu-pork-open",
-      "title": "黑松露厚切藍帶豬／歐包 Open",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 14,
-      "totalTime": 32,
-      "ingredient_count": 3,
-      "seasoning_count": 5,
+      "totalTime": 53,
+      "ingredient_count": 6,
+      "seasoning_count": 6,
       "step_count": 6,
       "status": "Warning",
       "mechanical_issues": [
         {
           "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
+          "code": "unused_ingredient",
           "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
+          "description": "Listed item \"厚切豬排\" not found in steps text (heuristic)."
+        },
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "Listed item \"海鹽\" not found in steps text (heuristic)."
         }
       ]
+    },
+    {
+      "slug": "sf-balsamic-mushroom-pasta",
+      "title": "巴薩米克蕈菇義大利麵",
+      "servings": 1,
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "ingredient_count": 4,
+      "seasoning_count": 4,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
+    },
+    {
+      "slug": "sf-bbq-roasted-half-chicken",
+      "title": "BBQ 香辣烤半雞拼盤",
+      "servings": 2,
+      "prepTime": 15,
+      "cookTime": 40,
+      "totalTime": 60,
+      "ingredient_count": 5,
+      "seasoning_count": 4,
+      "step_count": 5,
+      "status": "Pass",
+      "mechanical_issues": []
+    },
+    {
+      "slug": "sf-black-pepper-hamburg-rice",
+      "title": "黑胡椒漢堡排飯",
+      "servings": 1,
+      "prepTime": 12,
+      "cookTime": 15,
+      "totalTime": 27,
+      "ingredient_count": 4,
+      "seasoning_count": 5,
+      "step_count": 5,
+      "status": "Pass",
+      "mechanical_issues": []
+    },
+    {
+      "slug": "sf-black-truffle-cordon-bleu-pork-open",
+      "title": "黑松露藍帶豬排歐包",
+      "servings": 1,
+      "prepTime": 15,
+      "cookTime": 30,
+      "totalTime": 45,
+      "ingredient_count": 9,
+      "seasoning_count": 3,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-bloody-mary-spicy-rice",
@@ -2990,90 +2661,63 @@
       "slug": "sf-brownie-ice-cream",
       "title": "布朗尼冰淇淋",
       "servings": 2,
-      "prepTime": 20,
-      "cookTime": 28,
-      "totalTime": 48,
+      "prepTime": 5,
+      "cookTime": 5,
+      "totalTime": 10,
       "ingredient_count": 2,
-      "seasoning_count": 3,
-      "step_count": 8,
+      "seasoning_count": 1,
+      "step_count": 3,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-buffalo-chicken-wings",
-      "title": "水牛城辣雞翅",
+      "title": "水牛城辣烤雞翅",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 1,
-      "seasoning_count": 5,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "prepTime": 10,
+      "cookTime": 40,
+      "totalTime": 50,
+      "ingredient_count": 4,
+      "seasoning_count": 3,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-campfire-lemon-zucchini-fish-fillet",
-      "title": "野炊系義式檸香櫛瓜魚菲力",
+      "title": "檸香櫛瓜煎魚菲力",
       "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
       "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"檸檬\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "seasoning_count": 4,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-cheesy-chicken-egg-rice",
       "title": "吃光光起司蛋雞肉飯",
       "servings": 1,
-      "prepTime": 15,
-      "cookTime": 14,
-      "totalTime": 29,
+      "prepTime": 12,
+      "cookTime": 15,
+      "totalTime": 27,
       "ingredient_count": 5,
       "seasoning_count": 4,
-      "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "step_count": 5,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-cheesy-local-sausage-cream-pasta",
-      "title": "起司 Local 香腸奶白麵",
-      "servings": 1,
+      "title": "起司香腸奶油麵",
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 4,
-      "seasoning_count": 5,
+      "ingredient_count": 5,
+      "seasoning_count": 4,
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
@@ -3087,53 +2731,39 @@
     },
     {
       "slug": "sf-chef-crispy-pork-knuckle",
-      "title": "主廚脆皮豬腳",
+      "title": "脆皮熟豬腳拼盤",
       "servings": 2,
-      "prepTime": 25,
-      "cookTime": 35,
+      "prepTime": 10,
+      "cookTime": 50,
       "totalTime": 60,
       "ingredient_count": 5,
-      "seasoning_count": 3,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "seasoning_count": 2,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-chicken-quesadilla",
-      "title": "墨西哥雞肉酥餅",
+      "title": "雞肉起司酥餅",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 4,
-      "seasoning_count": 5,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "ingredient_count": 5,
+      "seasoning_count": 4,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-classic-beef-mushroom-eggs-benedict",
       "title": "經典牛肉奶油炒菇班尼蛋",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
-      "ingredient_count": 4,
-      "seasoning_count": 3,
+      "ingredient_count": 8,
+      "seasoning_count": 5,
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
@@ -3149,26 +2779,19 @@
       "slug": "sf-classic-caesar-salad",
       "title": "經典凱薩沙拉",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "prepTime": 15,
+      "cookTime": 15,
+      "totalTime": 30,
+      "ingredient_count": 4,
+      "seasoning_count": 4,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-classic-ham-mushroom-eggs-benedict",
       "title": "經典火腿奶油炒菇班尼蛋",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
@@ -3177,6 +2800,12 @@
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "Listed item \"蘑菇\" not found in steps text (heuristic)."
+        },
         {
           "type": "Ingredient_Mismatch",
           "code": "step_mentions_unknown",
@@ -3188,11 +2817,11 @@
     {
       "slug": "sf-classic-pesto-shrimp-pasta",
       "title": "經典青醬鮮蝦麵",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 3,
+      "ingredient_count": 4,
       "seasoning_count": 5,
       "step_count": 7,
       "status": "Warning",
@@ -3207,14 +2836,14 @@
     },
     {
       "slug": "sf-country-cinnamon-peach-pie",
-      "title": "鄉村肉桂蜜桃派",
-      "servings": 2,
-      "prepTime": 20,
-      "cookTime": 28,
-      "totalTime": 48,
-      "ingredient_count": 3,
-      "seasoning_count": 2,
-      "step_count": 8,
+      "title": "肉桂蜜桃派",
+      "servings": 6,
+      "prepTime": 25,
+      "cookTime": 55,
+      "totalTime": 140,
+      "ingredient_count": 7,
+      "seasoning_count": 0,
+      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
@@ -3225,76 +2854,62 @@
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
+      "ingredient_count": 4,
+      "seasoning_count": 4,
+      "step_count": 7,
+      "status": "Pass",
+      "mechanical_issues": []
+    },
+    {
+      "slug": "sf-dawn-shrimp-chicken-linguine",
+      "title": "番茄奶油雞蝦義大利麵",
+      "servings": 1,
+      "prepTime": 15,
+      "cookTime": 15,
+      "totalTime": 30,
+      "ingredient_count": 5,
+      "seasoning_count": 7,
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
         {
           "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
+          "code": "unused_ingredient",
           "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
-    },
-    {
-      "slug": "sf-dawn-shrimp-chicken-linguine",
-      "title": "曙光汁鮮蝦雞肉麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 5,
-      "seasoning_count": 4,
-      "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
+          "description": "Listed item \"海鹽\" not found in steps text (heuristic)."
         }
       ]
     },
     {
       "slug": "sf-greek-campfire-grilled-chicken-brunch",
-      "title": "Greek style 野炊系炭烤雞肉早午餐",
+      "title": "希臘風香草雞胸皮塔早午餐",
       "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "ingredient_count": 6,
+      "seasoning_count": 4,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-green-superhero-quinoa-buddha-bowl",
-      "title": "綠超人藜麥佛陀碗",
+      "title": "綠蔬藜麥蔬食碗",
       "servings": 1,
-      "prepTime": 20,
-      "cookTime": 12,
-      "totalTime": 32,
-      "ingredient_count": 5,
-      "seasoning_count": 2,
-      "step_count": 7,
+      "prepTime": 10,
+      "cookTime": 40,
+      "totalTime": 50,
+      "ingredient_count": 6,
+      "seasoning_count": 3,
+      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-griddled-butter-ham-sandwich",
       "title": "厚烤奶油 Ham 三明治",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 15,
       "totalTime": 33,
@@ -3314,11 +2929,11 @@
     {
       "slug": "sf-homestyle-meat-sauce-penne-with-meatballs",
       "title": "家鄉肉醬長管麵佐老媽肉丸",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 4,
+      "ingredient_count": 6,
       "seasoning_count": 4,
       "step_count": 8,
       "status": "Warning",
@@ -3333,7 +2948,7 @@
     },
     {
       "slug": "sf-keto-surf-and-turf-platter",
-      "title": "生酮總匯海陸拼盤",
+      "title": "海陸沙拉拼盤",
       "servings": 1,
       "prepTime": 20,
       "cookTime": 12,
@@ -3341,20 +2956,13 @@
       "ingredient_count": 5,
       "seasoning_count": 2,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-kids-cream-chicken-penne",
       "title": "北鼻奶油雞肉長管麵",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 15,
       "cookTime": 14,
       "totalTime": 29,
@@ -3366,69 +2974,61 @@
     },
     {
       "slug": "sf-local-sausage-quesadilla",
-      "title": "墨西哥 Local 香腸酥餅",
+      "title": "墨西哥香腸酥餅",
       "servings": 2,
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 4,
-      "seasoning_count": 4,
+      "ingredient_count": 5,
+      "seasoning_count": 5,
       "step_count": 7,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-mini-beef-egg-burger-set",
-      "title": "牛蛋小堡堡套餐",
+      "title": "迷你牛肉蛋堡",
       "servings": 1,
-      "prepTime": 15,
-      "cookTime": 14,
-      "totalTime": 29,
-      "ingredient_count": 4,
+      "prepTime": 10,
+      "cookTime": 22,
+      "totalTime": 32,
+      "ingredient_count": 8,
       "seasoning_count": 3,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-moon-view-bitter-melon-cream-rice",
-      "title": "月見苦瓜奶油飯",
+      "title": "苦瓜奶油蛋炒飯",
       "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 6,
-      "seasoning_count": 5,
-      "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
+      "ingredient_count": 5,
+      "seasoning_count": 3,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-mushroom-cheese-omelette",
       "title": "蕈菇奶起司歐姆蕾",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
       "ingredient_count": 4,
-      "seasoning_count": 3,
+      "seasoning_count": 4,
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "Listed item \"蘑菇\" not found in steps text (heuristic)."
+        },
         {
           "type": "Ingredient_Mismatch",
           "code": "step_mentions_unknown",
@@ -3439,46 +3039,52 @@
     },
     {
       "slug": "sf-oat-crusted-fish-and-fries",
-      "title": "燕麥脆脆炸魚薯條",
+      "title": "燕麥脆皮烤魚佐烤薯條",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 2,
-      "seasoning_count": 3,
-      "step_count": 7,
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "ingredient_count": 5,
+      "seasoning_count": 4,
+      "step_count": 4,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-orange-danish-mushroom-poached-potato",
-      "title": "橙香法式丹麥 蕈菇水波洋芋",
+      "title": "丹麥酥皮蕈菇水波蛋馬鈴薯早午餐盤",
       "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
       "ingredient_count": 4,
-      "seasoning_count": 4,
-      "step_count": 7,
+      "seasoning_count": 5,
+      "step_count": 6,
       "status": "Warning",
       "mechanical_issues": [
         {
           "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
+          "code": "unused_ingredient",
           "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
+          "description": "Listed item \"原味丹麥酥皮\" not found in steps text (heuristic)."
+        },
+        {
+          "type": "Ingredient_Mismatch",
+          "code": "unused_ingredient",
+          "severity": "Warning",
+          "description": "Listed item \"海鹽\" not found in steps text (heuristic)."
         }
       ]
     },
     {
       "slug": "sf-orange-danish-poached-seafood-potato",
-      "title": "橙香法式丹麥 水波海鮮洋芋",
-      "servings": 1,
+      "title": "橙香丹麥海鮮水波蛋薯盤",
+      "servings": 2,
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
       "ingredient_count": 5,
-      "seasoning_count": 3,
+      "seasoning_count": 4,
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
@@ -3492,14 +3098,14 @@
     },
     {
       "slug": "sf-orange-danish-sous-vide-steak",
-      "title": "橙香法式丹麥 舒肥牛排",
-      "servings": 1,
+      "title": "橙香丹麥舒肥牛排荷包蛋早午餐盤",
+      "servings": 2,
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
       "ingredient_count": 4,
       "seasoning_count": 4,
-      "step_count": 7,
+      "step_count": 6,
       "status": "Warning",
       "mechanical_issues": [
         {
@@ -3512,14 +3118,14 @@
     },
     {
       "slug": "sf-orange-danish-sunny-sous-vide-chicken",
-      "title": "橙香法式丹麥 Sunny 舒肥雞",
-      "servings": 1,
+      "title": "橙香丹麥舒肥雞荷包蛋早午餐盤",
+      "servings": 2,
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
       "ingredient_count": 4,
       "seasoning_count": 4,
-      "step_count": 7,
+      "step_count": 6,
       "status": "Warning",
       "mechanical_issues": [
         {
@@ -3533,7 +3139,7 @@
     {
       "slug": "sf-poached-egg-smoked-beef-danish-open",
       "title": "水波燻牛肉／丹麥 Open",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 14,
       "totalTime": 32,
@@ -3557,81 +3163,60 @@
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 1,
-      "seasoning_count": 4,
-      "step_count": 7,
+      "ingredient_count": 2,
+      "seasoning_count": 3,
+      "step_count": 5,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-roasted-sesame-chicken-salad",
-      "title": "焙煎胡麻雞沙拉",
-      "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 4,
-      "seasoning_count": 4,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"芝麻\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "title": "焙煎芝麻雞肉沙拉",
+      "servings": 1,
+      "prepTime": 15,
+      "cookTime": 15,
+      "totalTime": 30,
+      "ingredient_count": 5,
+      "seasoning_count": 3,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-salsa-black-curry-fried-chicken",
-      "title": "莎莎黑咖哩炸雞",
+      "title": "黑咖哩莎莎烤雞塊",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 1,
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
+      "ingredient_count": 5,
       "seasoning_count": 5,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-salted-egg-bitter-melon-pasta",
-      "title": "台式熱炒鹹蛋苦瓜麵",
-      "servings": 1,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 5,
-      "seasoning_count": 5,
-      "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "title": "鹹蛋苦瓜杏鮑菇義大利麵",
+      "servings": 2,
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "ingredient_count": 4,
+      "seasoning_count": 4,
+      "step_count": 5,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-salted-egg-seafood-pizza",
       "title": "金黃流沙海鮮披薩",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
       "ingredient_count": 3,
-      "seasoning_count": 5,
+      "seasoning_count": 4,
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
@@ -3650,33 +3235,33 @@
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 3,
-      "seasoning_count": 5,
-      "step_count": 7,
+      "ingredient_count": 2,
+      "seasoning_count": 4,
+      "step_count": 5,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-san-francisco-garlic-fries",
-      "title": "舊金山蒜香薯條",
+      "title": "蒜香薯條",
       "servings": 2,
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
       "ingredient_count": 1,
-      "seasoning_count": 3,
-      "step_count": 7,
+      "seasoning_count": 2,
+      "step_count": 5,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-second-floor-fiesta-shrimp-penne",
-      "title": "貳樓費氏鮮蝦長管麵",
-      "servings": 1,
+      "title": "費氏鮮蝦長管麵",
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 3,
+      "ingredient_count": 4,
       "seasoning_count": 5,
       "step_count": 7,
       "status": "Warning",
@@ -3691,26 +3276,26 @@
     },
     {
       "slug": "sf-second-floor-saltwater-chicken-salad",
-      "title": "貳樓金牌鹽水雞沙拉",
+      "title": "鹽水煮雞胸苦瓜玉米沙拉",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
       "ingredient_count": 4,
-      "seasoning_count": 4,
-      "step_count": 7,
+      "seasoning_count": 6,
+      "step_count": 5,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-sichuan-chicken-mushroom-eggs-benedict",
       "title": "台胃口水雞奶油炒菇班尼蛋",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
-      "ingredient_count": 4,
-      "seasoning_count": 4,
+      "ingredient_count": 8,
+      "seasoning_count": 6,
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
@@ -3724,23 +3309,16 @@
     },
     {
       "slug": "sf-signature-double-stack-burger",
-      "title": "實打實招牌漢堡",
+      "title": "雙層起司牛肉堡",
       "servings": 1,
-      "prepTime": 18,
+      "prepTime": 15,
       "cookTime": 15,
-      "totalTime": 33,
-      "ingredient_count": 5,
-      "seasoning_count": 4,
-      "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "totalTime": 30,
+      "ingredient_count": 6,
+      "seasoning_count": 3,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-smoked-salmon-caesar-salad",
@@ -3749,28 +3327,21 @@
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 3,
-      "seasoning_count": 1,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "ingredient_count": 6,
+      "seasoning_count": 0,
+      "step_count": 3,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-smoked-salmon-mushroom-eggs-benedict",
       "title": "燻鮭魚奶油炒菇班尼蛋",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
-      "ingredient_count": 5,
-      "seasoning_count": 3,
+      "ingredient_count": 9,
+      "seasoning_count": 5,
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
@@ -3786,74 +3357,53 @@
       "slug": "sf-sous-vide-chicken-caesar-salad",
       "title": "經典舒肥雞凱薩沙拉",
       "servings": 2,
-      "prepTime": 18,
-      "cookTime": 18,
-      "totalTime": 36,
-      "ingredient_count": 2,
-      "seasoning_count": 2,
-      "step_count": 7,
+      "prepTime": 15,
+      "cookTime": 10,
+      "totalTime": 25,
+      "ingredient_count": 5,
+      "seasoning_count": 0,
+      "step_count": 3,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-sous-vide-chicken-quinoa-cauliflower-rice",
-      "title": "舒肥雞藜麥花椰飯",
+      "title": "舒肥雞藜麥花椰米碗",
       "servings": 1,
-      "prepTime": 20,
-      "cookTime": 12,
-      "totalTime": 32,
-      "ingredient_count": 4,
+      "prepTime": 10,
+      "cookTime": 25,
+      "totalTime": 35,
+      "ingredient_count": 6,
       "seasoning_count": 3,
-      "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-south-sea-spiced-chicken-rice",
       "title": "南洋辛香雞肉飯",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "servings": 2,
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
+      "ingredient_count": 4,
+      "seasoning_count": 6,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-spicy-mexican-firecracker-burger",
-      "title": "老墨辣鞭炮漢堡",
+      "title": "墨西哥辣椒起司牛肉堡",
       "servings": 1,
-      "prepTime": 18,
+      "prepTime": 10,
       "cookTime": 15,
-      "totalTime": 33,
-      "ingredient_count": 5,
-      "seasoning_count": 5,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "totalTime": 25,
+      "ingredient_count": 7,
+      "seasoning_count": 4,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-spicy-pepper-karaage-pasta",
@@ -3862,7 +3412,7 @@
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 5,
+      "ingredient_count": 6,
       "seasoning_count": 5,
       "step_count": 8,
       "status": "Warning",
@@ -3882,7 +3432,7 @@
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 5,
+      "ingredient_count": 6,
       "seasoning_count": 4,
       "step_count": 8,
       "status": "Warning",
@@ -3902,8 +3452,8 @@
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
-      "ingredient_count": 4,
-      "seasoning_count": 5,
+      "ingredient_count": 5,
+      "seasoning_count": 4,
       "step_count": 8,
       "status": "Warning",
       "mechanical_issues": [
@@ -3917,13 +3467,13 @@
     },
     {
       "slug": "sf-strong-chocolate-cake",
-      "title": "強的",
+      "title": "濃厚巧克力蛋糕",
       "servings": 2,
       "prepTime": 20,
       "cookTime": 28,
       "totalTime": 48,
       "ingredient_count": 2,
-      "seasoning_count": 2,
+      "seasoning_count": 1,
       "step_count": 8,
       "status": "Pass",
       "mechanical_issues": []
@@ -3931,7 +3481,7 @@
     {
       "slug": "sf-supreme-cheese-omelette",
       "title": "總匯奶起司歐姆蕾",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 20,
       "cookTime": 18,
       "totalTime": 38,
@@ -3942,24 +3492,10 @@
       "mechanical_issues": [
         {
           "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
+          "code": "unused_ingredient",
           "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
-    },
-    {
-      "slug": "sf-sweet-savory-rice",
-      "title": "甘味飯",
-      "servings": 1,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 3,
-      "seasoning_count": 3,
-      "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
+          "description": "Listed item \"馬鈴薯\" not found in steps text (heuristic)."
+        },
         {
           "type": "Ingredient_Mismatch",
           "code": "step_mentions_unknown",
@@ -3969,15 +3505,28 @@
       ]
     },
     {
+      "slug": "sf-sweet-savory-rice",
+      "title": "杏桃豬肉甜鹹飯",
+      "servings": 1,
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "ingredient_count": 6,
+      "seasoning_count": 4,
+      "step_count": 4,
+      "status": "Pass",
+      "mechanical_issues": []
+    },
+    {
       "slug": "sf-tropical-yogurt-bowl",
       "title": "熱帶水果優格碗",
       "servings": 1,
-      "prepTime": 20,
-      "cookTime": 12,
-      "totalTime": 32,
-      "ingredient_count": 5,
-      "seasoning_count": 2,
-      "step_count": 7,
+      "prepTime": 10,
+      "cookTime": 0,
+      "totalTime": 10,
+      "ingredient_count": 6,
+      "seasoning_count": 0,
+      "step_count": 3,
       "status": "Pass",
       "mechanical_issues": []
     },
@@ -3989,15 +3538,15 @@
       "cookTime": 18,
       "totalTime": 36,
       "ingredient_count": 2,
-      "seasoning_count": 3,
-      "step_count": 7,
+      "seasoning_count": 2,
+      "step_count": 5,
       "status": "Pass",
       "mechanical_issues": []
     },
     {
       "slug": "sf-truffle-mushroom-cream-pasta",
       "title": "松露蕈菇奶油麵",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
@@ -4017,7 +3566,7 @@
     {
       "slug": "sf-white-wine-garlic-clam-squid-ink-pasta",
       "title": "酒香蒜味蛤蜊墨魚麵",
-      "servings": 1,
+      "servings": 2,
       "prepTime": 18,
       "cookTime": 18,
       "totalTime": 36,
@@ -4042,7 +3591,7 @@
       "cookTime": 18,
       "totalTime": 38,
       "ingredient_count": 4,
-      "seasoning_count": 4,
+      "seasoning_count": 6,
       "step_count": 7,
       "status": "Warning",
       "mechanical_issues": [
@@ -4064,15 +3613,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 5,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "smoked-salmon-caesar-salad",
@@ -4084,15 +3626,8 @@
       "ingredient_count": 2,
       "seasoning_count": 6,
       "step_count": 5,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "solo-ginger-pork-rice",
@@ -4156,15 +3691,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "solo-sesame-chicken-rice",
@@ -4209,15 +3737,8 @@
       "ingredient_count": 2,
       "seasoning_count": 4,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "soy-garlic-chicken-breast-pan",
@@ -4242,15 +3763,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 5,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "spicy-seafood-tomato-pasta",
@@ -4262,15 +3776,8 @@
       "ingredient_count": 3,
       "seasoning_count": 6,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "steamed-chicken-bento",
@@ -4282,15 +3789,8 @@
       "ingredient_count": 3,
       "seasoning_count": 3,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "surf-turf-brunch",
@@ -4302,15 +3802,8 @@
       "ingredient_count": 4,
       "seasoning_count": 5,
       "step_count": 6,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "ten-minute-udon-soup",
@@ -4524,15 +4017,8 @@
       "ingredient_count": 3,
       "seasoning_count": 6,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "water-lily-stem-chicken-rice-bowl",
@@ -4749,15 +4235,8 @@
       "ingredient_count": 3,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "weight-loss-zucchini-chicken",
@@ -4769,15 +4248,8 @@
       "ingredient_count": 2,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "white-sauce-chicken-pasta",
@@ -4789,15 +4261,8 @@
       "ingredient_count": 2,
       "seasoning_count": 6,
       "step_count": 8,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     }
   ]
 }

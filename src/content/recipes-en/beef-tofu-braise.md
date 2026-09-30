@@ -58,22 +58,22 @@ steps:
 - Return tofu; add 2 tbsp soy sauce, 1 tsp sugar, and 150 ml water. Cover and braise on low 12–15 minutes.
 - "Uncover when sauce looks slightly thick and beef pierces easily with a chopstick; if sauce tastes salty enough, skip extra salt. Nudge tofu gently and serve."
 tips:
-- Keep the heat low and nudge tofu from the edge of the pan so it does not break.
-- Taste before adding salt—soy sauce may be enough.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Keep the heat low and nudge tofu from the edge of the pan so it does not break."
+  - "Taste before adding salt—soy sauce may be enough."
+  - "Pat the tofu dry and brown it in a single layer before braising; gently nudge it from the edge of the pan to keep the pieces intact."
 storage: Refrigerate and eat within 1 day; reheat gently and splash in a little water.
 substitutions:
 - Firm tofu
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "How can I keep the tofu from breaking during braising?"
+    answer: "Pat the tofu dry and brown it on both sides in a single layer before returning it to the pan. Keep the braise at a low simmer and nudge the tofu from the edge instead of stirring it."
 relatedIngredients:
 - Beef
 - Tofu
 - Onion
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Scallions
 - Chili

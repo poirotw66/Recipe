@@ -52,25 +52,23 @@ steps:
 - Add carrot and onion; cover and simmer 15–18 minutes more until carrot is tender and beef pierces easily with a chopstick.
 - Season with a pinch of salt to taste; finish with cracked black pepper or cilantro if you like, then serve.
 tips:
-- Cut the carrot smaller to finish in about 20 minutes total simmer after adding.
-- Made the night before and reheated, flavors meld—refrigerate until then.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Cut the carrot smaller to finish in about 20 minutes total simmer after adding."
+  - "Made the night before and reheated, flavors meld—refrigerate until then."
+  - "Simmer the beef and ginger first, then add the carrot and onion; stop once the beef is easy to pierce and the carrot is tender so the vegetables do not fall apart."
 storage: Refrigerate and finish within 1–2 days; reheat to a full boil before serving.
 substitutions:
 - Daikon radish
 faqs:
-- question: Will the beef turn tough?
-  answer: Chuck or small cubes with a gentle simmer usually stay tender.
-- question: Can I skip the onion?
-  answer: Yes, but the broth will be less sweet—you can add 1 tsp sugar to balance.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "Will the beef turn tough?"
+    answer: "Chuck or small cubes with a gentle simmer usually stay tender."
+  - question: "Can I skip the onion?"
+    answer: "Yes, but the broth will be less sweet—you can add 1 tsp sugar to balance."
 relatedIngredients:
 - 牛肉
 - 紅蘿蔔
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Scallions
 - Chili

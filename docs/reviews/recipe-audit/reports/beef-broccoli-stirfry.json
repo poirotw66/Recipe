@@ -1,8 +1,16 @@
 {
   "slug": "beef-broccoli-stirfry",
   "title": "牛肉青花快炒",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "四語已移除通用肉類靜置提示，改為牛肉回鍋後快速裹醬；共用乾柴問答已換成青花菜汆燙是否必要的做法。尚未試作，實際火力與炒製時間待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ]
 }

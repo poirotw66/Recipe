@@ -23,8 +23,8 @@ tags:
 - Single serving
 - Beef
 tips:
-- Add bell pepper strips for color and crunch.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Add bell pepper strips for color and crunch."
+  - "For the bento, cover the food with a lightly damp paper towel and microwave briefly; keeping the beef with its sauce helps the slices stay moist."
 substitutions: []
 relatedIngredients:
 - 牛肉
@@ -64,13 +64,11 @@ steps:
 - Taste and adjust; cool completely before packing in bento boxes (microwave about 1 minute to reheat—cover with a damp paper towel to prevent drying).
 storage: Refrigerate up to 2 days; microwave about 1 minute to reheat.
 faqs:
-- question: Can I use pork instead?
-  answer: Yes. Use thin pork loin slices and cook them completely before cooling and packing the lunch box.
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "Can I use pork instead?"
+    answer: "Yes. Use thin pork loin slices and cook them completely before cooling and packing the lunch box."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ---
 
 Black pepper beef is one of the most popular bento mains for good reason.

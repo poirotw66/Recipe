@@ -1,8 +1,16 @@
 {
   "slug": "curry-beef-rice",
   "title": "咖哩牛肉飯",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
+  "reviewed_at": "2026-09-30",
+  "status": "Warning",
   "confidence_score": 92,
-  "issues": []
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "四語已移除不適用的牛肉靜置提示與共用乾柴問答，補充咖哩粉只炒至出香即加水、避免焦苦；保留品牌辣度 FAQ。尚未試作，咖哩粉品牌與辣度待確認。",
+      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "source": "agent"
+    }
+  ]
 }

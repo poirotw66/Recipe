@@ -53,20 +53,20 @@ steps:
 - Add the blanched broccoli and beef back to the pan. Pour in the sauce.
 - Toss over high heat 30 seconds until evenly coated and the beef is fully cooked. Taste and adjust seasoning, then serve.
 tips:
-- Do not overcook the beef—it stays more tender.
-- Rest meat for 2–3 minutes before slicing; when pieces vary in thickness, check the thickest center for doneness.
+  - "Do not overcook the beef—it stays more tender."
+  - "Return the beef only for the final 30-second high-heat toss so it gets coated without prolonged cooking."
 storage: Keeps 1 day refrigerated; reheat with a little oil in a hot pan.
 substitutions:
 - Cauliflower
 faqs:
-- question: "How do I keep the main ingredient from drying out?"
-  answer: "Adjust the heat for thickness, rest before slicing, and reheat chilled portions gently after cooling them completely."
+  - question: "Do I need to blanch the broccoli first?"
+    answer: "You can blanch it for 1 minute, drain it well, then toss it with the beef and sauce for about 30 seconds. This shortens the stir-fry and helps keep its bright color."
 relatedIngredients:
 - 牛肉
 - 青花菜
 featured: true
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - Scallions
 - Chili

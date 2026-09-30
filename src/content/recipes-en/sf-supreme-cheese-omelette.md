@@ -1,8 +1,7 @@
 ---
 title: Supreme Cheese Omelette
 recipeId: sf-supreme-cheese-omelette
-description: "A measured home recipe for Supreme Cheese Omelette, with clear
-  preparation and cooking steps."
+description: "A three-egg omelette folds around ham, corn, and mixed cheese, served with pan-fried potatoes and toasted rolls."
 coverImage: /images/recipes/sf-supreme-cheese-omelette.webp
 servings: 2
 prepTime: 20
@@ -18,34 +17,17 @@ equipment:
   - Oven
 tags:
   - Brunch
-intro: "Cook the fillings first and prepare the eggs last. Use pasteurized eggs
-  for a runny or soft center; cook ordinary eggs until set."
+intro: "Cook the ham and corn, potatoes, and rolls first. Add the filling and cheese when the eggs are partly set, fold, and cover briefly."
 steps:
-  - Beat 3 eggs for the omelette with 1/3 tsp sea salt, 1/4 tsp cracked black
-    pepper, and a little cream; prep ham to taste, 100 g corn, 40 g mixed
-    cheese, 250 g fried potatoes, and 2 baguette rolls.
-  - Heat a skillet over medium with 1/2 tbsp olive oil; stir-fry ham and corn 2
-    minutes until fragrant; keep warm.
-  - In another skillet, fry 250 g potatoes over medium until golden and crisp;
-    season lightly with salt and pepper; keep warm. Split and butter baguette
-    rolls; bake until lightly golden.
-  - Reheat the skillet to medium; melt butter; pour in the eggs; stir in circles
-    with a spatula until half-set.
-  - Spread ham-corn mixture and 40 g mixed cheese in the center; fold into a
-    half-moon with the spatula.
-  - Cover and cook over low heat 30 seconds until cheese melts and the center
-    stays moist; check the fold is cooked through.
-  - On a large round plate, arrange the omelette, fried potatoes, and baguette;
-    serve hot.
+  - "Beat 3 eggs for the omelette with 1/6 tsp sea salt and 1/8 tsp cracked black pepper, and a little cream; prep 80 g ham, 100 g corn, 40 g mixed cheese, 250 g fried potatoes, and 2 baguette rolls."
+  - "Heat a skillet over medium with 1/2 tbsp olive oil; stir-fry ham and corn 2 minutes until fragrant; keep warm."
+  - "In another skillet, heat the remaining 1/2 tbsp olive oil and fry 250 g potatoes over medium until golden and crisp; season with 1/6 tsp sea salt and 1/8 tsp cracked black pepper; keep warm. Split and butter baguette rolls; bake until lightly golden."
+  - "Reheat the skillet to medium; melt butter; pour in the eggs; stir in circles with a spatula until half-set."
+  - "Spread ham-corn mixture and 40 g mixed cheese in the center; fold into a half-moon with the spatula."
+  - "Cover and cook over low heat 30 seconds until cheese melts and the center stays moist; check the fold is cooked through."
+  - "On a large round plate, arrange the omelette, fried potatoes, and baguette; serve hot."
 tips:
-  - Prepare the fillings first and cook the eggs last. Cook eggs through, or use
-    pasteurized eggs if serving them runny.
-  - Use pasteurized eggs for a soft or runny center; cook ordinary eggs until
-    fully set.
-  - Use pasteurized eggs for runny or soft-cooked eggs; cook ordinary eggs until
-    both white and yolk are set.
-  - Cook the fillings first and prepare the eggs last. Use pasteurized eggs for
-    a runny or soft center; cook ordinary eggs until set.
+  - "Cook the ham and corn before starting the eggs; place the filling and cheese down the center so the omelette can fold over them."
 storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
   and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
   toppings, greens, or soft-cooked eggs separately to protect texture.
@@ -62,7 +44,7 @@ customAdditions:
   - Balsamic on the side
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: eggs
     amount: "3"
@@ -80,7 +62,7 @@ ingredients:
     amount: "40"
     unit: g
     isCore: true
-  - name: pan-fried potatoes
+  - name: potatoes
     amount: "250"
     unit: g
     isCore: false
@@ -99,7 +81,6 @@ seasonings:
     amount: 1/4
     unit: tsp
 faqs:
-  - question: Can I cook the eggs ahead?
-    answer: You can prep the other ingredients ahead. Cook the eggs close to serving
-      and to your preferred safe doneness.
+  - question: "When should I add the ham, corn, and cheese so the omelette folds cleanly?"
+    answer: "Cook the ham and corn first. Once the eggs are partly set, place the filling and cheese down the center, fold, then cover over low heat for 30 seconds and check that the fold is cooked through. Cook ordinary eggs until both white and yolk are firm; use pasteurized eggs for a softer center."
 ---

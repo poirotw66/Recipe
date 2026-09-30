@@ -54,19 +54,18 @@ steps:
 - 倒回牛肉大火翻拌 30 秒裹勻醬汁，全熟但仍嫩即可起鍋。
 tips:
 - 牛肉片越薄，煎炒時間越短，口感越嫩。
-- 肉類起鍋後先靜置 2～3 分鐘再切，肉汁較不易流失；厚度不同時以最厚處熟度為準。
 storage: 冷藏便當 1 天內食用，加熱時間宜短。
 substitutions:
 - 牛排肉
 faqs:
-- question: "如何避免主食材變乾？"
-  answer: "依厚度調整火候，起鍋後靜置再切；若要保存，完全放涼後密封冷藏並用較低溫回熱。"
+- question: "蒜香醬為什麼分兩次使用？"
+  answer: "一半先抓醃牛肉，另一半在原鍋煮至微稠，再讓牛肉回鍋裹醬，蒜香較能附著在肉片上。"
 relatedIngredients:
 - 牛肉
 - 蒜頭
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 customAdditions:
 - 青蔥
 - 辣椒

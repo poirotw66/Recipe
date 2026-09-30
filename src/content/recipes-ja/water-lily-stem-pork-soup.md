@@ -30,14 +30,13 @@ steps:
 - 塩小さじ1/2で味を整え、試飲して足し引きし、熱々をどうぞ。
 tips:
 - 水蓮は煮すぎないとシャキッと食べられます。
-- 肉は焼き上がってから2～3分休ませて切ります。厚みが違う場合は最も厚い部分で火通りを確認します。
 storage: できたてに。再加熱すると水蓮は柔らかくなります。
 substitutions:
 - 小松菜
 - キャベツ
 faqs:
-- question: "主材料をパサつかせないコツは？"
-  answer: "厚みに合わせて火加減を調整し、焼き上がりを休ませてから切ります。保存分は低めの温度で温め直します。"
+- question: "豚肉と水蓮はどの順番で鍋に入れますか？"
+  answer: "沸いたスープに豚肉をほぐし入れ、赤みがなくなるまで煮てから水蓮を加え、歯ごたえが残るよう1〜2分煮ます。"
 relatedIngredients:
 - 水蓮
 - 豚肉
@@ -45,7 +44,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-30"
 ingredients:
 - name: 水蓮
   amount: '150'

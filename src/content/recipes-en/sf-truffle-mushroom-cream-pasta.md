@@ -1,8 +1,8 @@
 ---
 title: Truffle Mushroom Cream Pasta
 recipeId: sf-truffle-mushroom-cream-pasta
-description: "A measured home recipe for Truffle Mushroom Cream Pasta, with
-  clear preparation and cooking steps."
+description: "Brown mixed mushrooms first, coat the pasta in cream sauce with
+  reserved pasta water, then fold in truffle sauce off heat."
 coverImage: /images/recipes/sf-truffle-mushroom-cream-pasta.webp
 servings: 2
 prepTime: 18
@@ -17,9 +17,14 @@ equipment:
   - Pot
 tags:
   - Rice & pasta
-intro: "Boil the pasta just shy of tender and reserve some pasta water, then
-  finish the sauce in the pan. Return seafood or meat only at the end to avoid
-  overcooking."
+references:
+  - label: Technique reference
+    name: Bon Appétit — Creamy Mushroom Pasta
+    url: https://www.bonappetit.com/recipe/creamy-pasta-with-crispy-mushrooms
+    note: Reference for browning mushrooms in a single layer or batches and using pasta water to bring the sauce together; this home adaptation uses a separate truffle sauce.
+intro: "Cook the mushrooms in a single layer until their moisture cooks off and
+  the edges brown; make the cream sauce separately, then fold the mushrooms and
+  pasta back in. Add the truffle sauce off heat."
 steps:
   - "Prep: slice mixed mushrooms 120 g and pat dry with paper towels; shred
     cheese 40 g; mince garlic 2 cloves."
@@ -31,26 +36,23 @@ steps:
     raise heat to high and cook until edges are lightly charred, about 5–6
     minutes; set aside.
   - Lower heat; sauté minced garlic until fragrant, about 20 seconds.
-  - Add truffle cream sauce 1 tbsp, cream as needed, and 3–4 Tbsp pasta water;
+  - Add truffle cream sauce 1 tbsp, cream 60 ml, and 3–4 Tbsp pasta water;
     stir over low heat until lightly simmering and smooth; fold in half the
     shredded cheese until melted.
   - Raise heat to high; add pasta and seared mushrooms; toss vigorously 1–2
     minutes until cream sauce coats the noodles.
-  - Off heat, fold in truffle sauce 1Tbsp and remaining cheese (add truffle
-    sauce off heat to preserve aroma).
-  - Plate in a deep dish
+  - Off heat, fold in truffle sauce 1 tsp and the remaining cheese.
+  - Plate in a deep dish, finish with cracked black pepper, and serve hot.
 tips:
-  - Reserve pasta water after cooking the noodles and add it a little at a time
-    to adjust the sauce.
-  - Boil the pasta just shy of tender and reserve some pasta water, then finish
-    the sauce in the pan. Return seafood or meat only at the end to avoid
-    overcooking.
+  - Reserve the pasta water and add it a little at a time until the sauce coats
+    the noodles without pooling in the pan.
+  - Pat the mushrooms dry and leave space between slices; if the pan is crowded,
+    brown them in batches so they do not steam.
 storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). If the cream
+  sauce has thickened, stir in a splash of water or milk while reheating.
 substitutions:
-  - pasta
-  - jasmine rice
+  - penne
 relatedIngredients:
   - 綜合蕈菇
   - cheese
@@ -58,7 +60,7 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-29"
+updatedAt: "2026-09-30"
 ingredients:
   - name: mixed mushrooms
     amount: "120"
