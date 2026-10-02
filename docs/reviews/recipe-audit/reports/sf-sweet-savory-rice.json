@@ -1,14 +1,14 @@
 {
   "slug": "sf-sweet-savory-rice",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "description": "已補充冷藏熟飯處理、香辛料下鍋順序、豬肉測溫與避免生熟交叉污染等步驟，並同步四語保存說明；但單人份實際操作、15 分鐘備料／20 分鐘烹調、成品份量與口感仍未經真人試作確認。外部來源僅支撐食材搭配、炒飯技法與食安基準，不代表本店試作或原始餐廳配方。",
+      "suggested_fix": "請真人依四語一致流程試作，記錄實際備料及烹調時間、成品份量、飯粒與豬肉口感，並確認溫度計可測得最厚肉片中心達 63°C 後靜置至少 3 分鐘；依試作結果修訂內容，再另行評估索引資格。",
       "source": "agent"
     }
   ]

@@ -22,6 +22,10 @@ references:
     url: https://www.bonappetit.com/recipe/balsamic-mushroom-and-sausage-pasta
     note: Adapted from its browned mushrooms, balsamic deglazing, and pasta-water method as
       a meatless single serving with revised quantities.
+  - label: Technique reference
+    name: Bon Appétit — Use the Saucy Glossy Technique for the Best Pasta
+    url: https://www.bonappetit.com/story/saucy-glossy-pasta
+    note: Reference for tossing pasta water with the pan fat so the sauce emulsifies and coats the noodles.
   - label: Food safety guidance
     name: Bacteria and Viruses
     url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
@@ -31,19 +35,30 @@ intro: This single-serving pasta gets its flavor from mushrooms and balsamic
   vinegar. It contains no raw egg; reserved pasta water helps the sauce cling to
   the noodles.
 steps:
-  - Slice the mushrooms and mince the garlic. Boil the pasta according to the
-    package directions. Before draining, reserve about 1/2 cup of pasta water.
-  - Heat the oil in a skillet over medium heat. Spread out the mushrooms and
-    cook until their moisture evaporates and the edges brown, 6–8 minutes. Add
-    the garlic and cook for about 30 seconds.
-  - Add the balsamic vinegar and 2 tablespoons pasta water. Scrape the pan and
-    simmer for about 1 minute. Toss in the pasta; add a little more pasta water
-    if the pan looks dry.
+  - Slice the mushrooms to a similar thickness and mince the garlic. Boil the
+    pasta according to the package directions, stirring occasionally. Before
+    draining, reserve about 1/2 cup of pasta water; the noodles should still
+    have a little bite because they will be tossed in the sauce.
+  - Heat the oil in a skillet over medium heat. Spread the mushrooms in one
+    layer and let them sit for about 1 minute before turning occasionally. They
+    release moisture first; wait until the liquid has evaporated, the pan shifts
+    from wet bubbling to a frying sizzle, and the edges turn golden, 6–8 minutes.
+    Add the garlic and cook for about 30 seconds, just until fragrant, so it
+    does not burn.
+  - Add the balsamic vinegar and 2 tablespoons pasta water. While it bubbles,
+    scrape up the browned bits from the pan and simmer for 30 seconds to 1
+    minute, until the sharp vinegar aroma softens. Add the pasta and keep
+    tossing. Add reserved pasta water 1 tablespoon at a time until the sauce
+    looks lightly glossy and clings to the noodles, with no pool of thin liquid.
   - Turn off the heat. Stir in Parmesan, salt, and pepper, taste, and serve hot.
+    If the cheese makes the pasta seem dry, loosen it with a little more reserved
+    pasta water.
 tips:
-  - Let the mushrooms sit in a single layer while their moisture cooks off
-    before stirring. Add pasta water gradually so the sauce does not become
-    thin.
+  - Let the mushrooms release and cook off their moisture before browning; if
+    you stir constantly while liquid remains in the pan, they soften instead of
+    sear. Pasta water contains starch released by the noodles; tossing it with
+    the pan oil helps form a cohesive coating. Add it gradually and stop once it
+    coats the pasta so the sauce does not become watery.
 storage: Refrigerate leftovers within 2 hours and use within 3 days. Reheat with a splash
   of water until steaming throughout.
 substitutions: []
@@ -57,7 +72,7 @@ faqs:
       their released moisture.
 featured: false
 publishedAt: 2026-06-09
-updatedAt: 2026-09-29
+updatedAt: 2026-10-02
 ingredients:
   - name: Pasta
     amount: "100"

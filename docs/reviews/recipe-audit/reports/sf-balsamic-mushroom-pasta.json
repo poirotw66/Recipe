@@ -1,14 +1,14 @@
 {
   "slug": "sf-balsamic-mushroom-pasta",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "description": "四語稿已補上蕈菇出水至上色的判斷、巴薩米克醋刮取鍋底焦香，以及以煮麵水拌至醬汁裹麵的操作提示；一人份配方的實際總時間、成品份量與口感仍未經真人試作確認。",
+      "suggested_fix": "請真人依四語一致的一人份配方試作，記錄實際備料與烹煮時間、成品份量，並確認蕈菇上色程度、麵條硬度及醬汁是否能均勻裹麵；確認前維持 Warning 與現有索引資格。",
       "source": "agent"
     }
   ]
