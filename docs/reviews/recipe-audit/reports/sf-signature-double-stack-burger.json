@@ -1,14 +1,14 @@
 {
   "slug": "sf-signature-double-stack-burger",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
-  "confidence_score": 0.9,
+  "confidence_score": 0.95,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "description": "四語頁面已補上依公開食譜整理的家常薄肉餅做法、個別測溫方法與來源界線；本版本仍未經實際試作，30 分鐘、單份產量及雙層組裝口感尚未驗證，也不宣稱是餐廳原始配方。",
+      "suggested_fix": "由真人依配方試作，記錄實際備料與烹調時間、產量、兩片肉餅各自中心溫度及麵包是否濕軟，再同步複核四語；試作完成後另查當期 GSC 與頁面索引證據，才評估是否解除 noindex。",
       "source": "agent"
     }
   ]

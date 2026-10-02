@@ -1,14 +1,14 @@
 {
   "slug": "sf-black-truffle-cordon-bleu-pork-open",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "description": "四語版本已說明家常改編定位、封口與麵衣處理，並補上從側面分別量測豬肉和火腿起司夾層。USDA FSIS 的填餡肉指引確實涵蓋填餡豬排並建議中心達 165°F；一般溫度表則列未填餡豬排為 145°F 加 3 分鐘靜置。本文將 74°C 說明為此夾餡配方採用的保守目標，不概括成所有豬肉料理的規則。烹調時間、產量、口感及夾層能否實際量測仍未經廚房試作確認。",
+      "suggested_fix": "安排實際試作並記錄備料與烹調時間、產量、肉片厚度、溫度計位置與兩處讀值，以及成品口感；再依紀錄同步更新四語內容。完成試作與逐頁複核後，才重新評估索引狀態。",
       "source": "agent"
     }
   ]

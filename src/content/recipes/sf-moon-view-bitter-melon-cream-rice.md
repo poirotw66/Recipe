@@ -14,16 +14,17 @@ equipment:
   - 平底鍋
   - 鍋鏟
   - 小湯鍋
+  - 食物溫度計
 tags:
   - 家常料理
 intro: 這道單人份炒飯用少量鮮奶油增加圓潤口感，雞蛋會炒至完全凝固且中心達 71°C，不使用生蛋或只靠米飯餘溫熟成。
 steps:
   - "苦瓜縱切去籽與白色內膜，再切薄片；青蔥切花。小鍋加水煮滾，放入少許鹽，苦瓜汆燙 30 秒後瀝乾。雞蛋與鮮奶油打勻。"
   - "平底鍋中火加油，放入苦瓜快炒約 1～2 分鐘，讓表面水氣散去；若鍋面太乾，可加一小匙水。"
-  - "加入白飯炒散並加鹽、黑胡椒，先把飯推到鍋邊。倒入蛋液，炒成較大的軟蛋塊；用溫度計測最厚處中心，達 71°C 且完全凝固後，再切散與米飯拌勻。持續加熱至整盤冒熱氣。"
+  - "加入白飯炒散並加鹽、黑胡椒，先把飯推到鍋邊。倒入蛋液，炒成幾塊較大的軟蛋塊；用食物溫度計量測幾塊蛋塊的中心，各處達 71°C 且完全凝固後，再切散與米飯拌勻。持續加熱至整盤冒熱氣。"
   - "撒上青蔥，趁熱盛盤。"
 tips:
-  - 先把苦瓜炒軟再加入米飯；蛋液中心需達 71°C 並完全凝固。若使用冷藏剩飯，先打散再下鍋並炒至全盤冒熱氣。
+  - 刮除白色內膜（這部分可能較苦），苦瓜汆燙 30 秒後瀝乾；再炒軟後加入米飯。蛋塊中心需多處量測至 71°C 並完全凝固。若使用冷藏剩飯，先打散再下鍋並炒至全盤冒熱氣。
 storage: 剩飯應於 2 小時內冷藏並於 1 天內食用；回熱時翻炒至全盤冒熱氣，雞蛋料理中心達 74°C。
 substitutions: []
 relatedIngredients:
@@ -36,7 +37,7 @@ faqs:
     answer: 可以，改用同量牛奶或省略；蛋仍需炒至中心達 71°C 並完全凝固。
 featured: false
 publishedAt: 2026-06-09
-updatedAt: 2026-09-29
+updatedAt: 2026-10-02
 references:
   - label: 配方參考
     name: "Bitter Melon with Eggs — The Woks of Life"
@@ -46,6 +47,10 @@ references:
     name: "What Is a Safe Internal Temperature for Food Made with Eggs? — USDA FSIS"
     url: https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs
     note: 蛋料理中心至少達 71°C；本食譜另要求蛋完全凝固。
+  - label: 食物溫度計指引
+    name: "Food Thermometers — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers
+    note: 含蛋料理應在多處量測中心溫度；本食譜據此檢查幾塊較大蛋塊。
 ingredients:
   - name: 熟白飯
     amount: "200"

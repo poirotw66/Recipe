@@ -1,14 +1,14 @@
 {
   "slug": "sf-mini-beef-egg-burger-set",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "description": "The four-language instructions now make raw and cooked food separation explicit, but recipe-specific timing, children's portion size, yield, and sensory results remain unverified in a kitchen. No kitchen trial or Second Floor original formula is claimed.",
+      "suggested_fix": "Have a cook prepare the recipe as written, confirm whether two mini burgers make the intended children's meal, record actual prep and cook time and yield, and check patty temperature and texture. Update the recipe from those observations before reconsidering indexing.",
       "source": "agent"
     }
   ]

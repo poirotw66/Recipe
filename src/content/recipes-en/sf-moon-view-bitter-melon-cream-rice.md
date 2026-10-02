@@ -16,6 +16,7 @@ equipment:
   - Skillet
   - Spatula
   - Small saucepan
+  - Food thermometer
 tags:
   - Home cooking
 intro: This single-serving fried rice uses a little cream for a rounder texture.
@@ -24,12 +25,14 @@ intro: This single-serving fried rice uses a little cream for a rounder texture.
 steps:
   - "Halve the bitter melon lengthwise, remove the seeds and white pith, then slice thinly. Slice the scallion. Bring a small pot of lightly salted water to a boil; blanch the melon for 30 seconds and drain. Beat the egg with the cream."
   - "Heat the oil in a skillet over medium heat. Stir-fry the melon for 1–2 minutes to drive off surface moisture; add a teaspoon of water if the pan gets dry."
-  - "Add the rice, salt, and pepper and break up clumps. Push the rice to one side and pour the egg mixture into the open space. Scramble into soft, larger curds; measure the thickest center and cook to 71°C / 160°F until fully set. Break up the egg, fold it through the rice, and heat until the whole dish is steaming."
+  - "Add the rice, salt, and pepper and break up clumps. Push the rice to one side and pour the egg mixture into the open space. Scramble into a few larger, soft curds; use a food thermometer to check the centers of several curds and cook until each reaches 71°C / 160°F and is fully set. Break up the egg, fold it through the rice, and heat until the whole dish is steaming."
   - "Top with scallion and serve hot."
 tips:
-  - Soften the bitter melon before adding the rice. Cook the egg until its
-    center reaches 71°C / 160°F and it is fully set. If using chilled leftover
-    rice, break it up first and heat the whole dish until steaming.
+  - Scrape out the white pith, which can be particularly bitter, then blanch
+    the bitter melon for 30 seconds and drain before stir-frying. Check several
+    egg-curd centers with a thermometer; each must reach 71°C / 160°F and be
+    fully set. If using chilled leftover rice, break it up first and heat the
+    whole dish until steaming.
 storage: Refrigerate leftovers within 2 hours and use within 1 day. Reheat while
   stirring until steaming throughout; egg dishes should reach 74°C / 165°F.
 substitutions: []
@@ -44,7 +47,7 @@ faqs:
       egg until its center reaches 71°C / 160°F and it is fully set.
 featured: false
 publishedAt: 2026-06-09
-updatedAt: 2026-09-29
+updatedAt: 2026-10-02
 references:
   - label: Recipe adaptation
     name: "Bitter Melon with Eggs — The Woks of Life"
@@ -54,6 +57,10 @@ references:
     name: "What Is a Safe Internal Temperature for Food Made with Eggs? — USDA FSIS"
     url: https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs
     note: Cook egg dishes to at least 71°C / 160°F; this recipe also requires fully set egg.
+  - label: Thermometer guidance
+    name: "Food Thermometers — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers
+    note: Check egg dishes in several places; this recipe applies that advice to several larger egg curds.
 ingredients:
   - name: Cooked white rice
     amount: "200"

@@ -1,15 +1,50 @@
 {
   "slug": "sf-moon-view-bitter-melon-cream-rice",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
-  "confidence_score": 0.9,
+  "confidence_score": 0.94,
+  "locales": [
+    "zh-TW",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "repair_summary": "四語補上食物溫度計設備，將蛋塊熟度確認改為多處中心均達 71°C 且完全凝固，並補充白色內膜可能較苦及苦瓜汆燙 30 秒的來源說明。保留未試作、家常改編與四語 noindex 狀態。",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "description": "公開來源支持刮除可能較苦的白色內膜、汆燙 30 秒，以及使用食物溫度計在多處確認含蛋料理中心達 71°C；這些來源校正已納入四語頁面。本站版本的實際備料與烹調時間、產量、口感及現有封面是否符合成品仍未經廚房試作核對，未宣稱親身烹調或餐廳原配方。",
+      "suggested_fix": "安排一次實際試作，記錄實際食材量、產量、備料與烹調時間、蛋料理多點溫度和成品口感，並保存本次成品照片；確認四語內容後再依最新 Search Console 頁面資料逐頁評估索引。",
       "source": "agent"
     }
-  ]
+  ],
+  "references": [
+    {
+      "name": "Bitter Melon with Eggs — The Woks of Life",
+      "url": "https://thewoksoflife.com/bitter-melon-with-eggs/",
+      "supports": "白色內膜可能較苦，以及苦瓜汆燙 30 秒的家常技法；不支持本站炒飯的份量、時間或成品結果。"
+    },
+    {
+      "name": "What Is a Safe Internal Temperature for Food Made with Eggs? — USDA FSIS",
+      "url": "https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs",
+      "supports": "含蛋料理至少達 160°F / 71°C。"
+    },
+    {
+      "name": "Food Thermometers — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers",
+      "supports": "含蛋料理應在多處量測中心溫度。"
+    }
+  ],
+  "indexing": {
+    "policy": "noindex",
+    "locales": [
+      "zh-TW",
+      "en",
+      "ja",
+      "ko"
+    ],
+    "changed": false,
+    "reason": "The slug remains in the temporary noindex cohort; no reindex submission was made."
+  }
 }

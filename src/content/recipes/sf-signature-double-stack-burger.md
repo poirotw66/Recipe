@@ -14,17 +14,16 @@ equipment:
   - 平底鍋
   - 食物溫度計
   - 寬鍋鏟
-  - 烘焙紙
 tags:
   - 家常料理
-intro: 以兩片牛絞肉肉餅、起司和新鮮蔬菜組成雙層漢堡。牛絞肉需以溫度計確認中心達 71°C，不能只看切面顏色。
+intro: 這是一份以兩片薄煎牛絞肉肉餅、起司和新鮮蔬菜組成的家常雙層漢堡，不是餐廳原始配方的確認版本；本食譜尚未實際試作。牛絞肉需以溫度計確認每片中心達 71°C，不能只看切面顏色。
 steps:
-  - "牛絞肉分成兩份，各自輕捏成鬆散肉球，不要搓揉壓實。平底鍋中大火加少量油至油面發亮，放入肉球；用寬鍋鏟隔烘焙紙壓成薄肉餅，兩面撒鹽和黑胡椒。"
-  - "肉餅煎至底面焦香後翻面，每片放一片起司。從側邊量每片中心，均達 71°C 才起鍋；未達時續煎。起司融化後把兩片疊起。"
-  - "用同鍋乾煎麵包切面至微脆。底層依序放生菜、番茄、雙層起司肉餅和酸黃瓜，蓋上麵包。"
-  - "趁熱上桌；若要融化起司，可在肉餅翻面後短暫加蓋。"
+  - "先洗淨並擦乾生菜、番茄，切好後與酸黃瓜、起司備妥。漢堡麵包剖面朝下，以乾鍋中火烘至微脆，取出備用。"
+  - "牛絞肉分成兩份（每份約 90 公克），保持鬆散，不要揉捏成緊實肉餅。平底鍋以大火預熱，加入食用油至油面發亮但尚未冒煙；放入肉球，用寬鍋鏟各壓成薄圓肉餅，只壓一次。趁表面仍生時撒上鹽和黑胡椒，煎至底面焦香、邊緣開始變色；在此之前不要移動。若鍋面不足以留出間隔，分批煎。"
+  - "肉餅底面焦香後翻面，每片放一片起司；需要時短暫加蓋幫助起司融化。將肉餅移到乾淨鍋鏟或盤子上，從側邊把適合薄肉餅的即讀溫度計探針插到中心，兩片都須達 71°C；未達時放回鍋中續煎再測。"
+  - "洗手並以乾淨鍋鏟組裝：底層麵包放生菜、番茄、兩片起司肉餅和酸黃瓜，再蓋上另一半麵包，趁熱上桌。"
 tips:
-  - 薄肉餅熟得快，請逐片測中心溫度；牛絞肉中心需達 71°C，不要以表面上色或切面無粉紅判斷。
+  - 薄肉餅熟得快，底面上色後不要再壓；以適合薄肉餅的溫度計從側邊量中心，每片牛絞肉都需達 71°C，不要以表面上色或切面顏色判斷。探針每次使用前後以熱肥皂水清洗。
 storage: 肉餅和漢堡配料分開密封冷藏，2 小時內冷藏並於 3 天內食用；回熱肉餅時中心達 74°C。
 substitutions: []
 relatedIngredients:
@@ -36,16 +35,20 @@ faqs:
     answer: 可以，生肉餅需加蓋冷藏並於 1～2 天內烹煮；與即食食材分開放置，烹煮時中心仍需達 71°C。
 featured: false
 publishedAt: 2026-06-09
-updatedAt: 2026-09-29
+updatedAt: 2026-10-02
 references:
   - label: 配方參考
-    name: "Double-Stack Smash Burger Alfresco — Epicurious"
-    url: https://www.epicurious.com/recipes/food/views/double-stack-smash-burger-alfresco-with-cheese
-    note: 參考薄肉餅壓煎後雙層堆疊的作法，改成室內平底鍋與一人份；高溫煎香仍須以溫度計確認熟度。
+    name: "Smash Burger Alfresco — Bon Appétit"
+    url: https://www.bonappetit.com/bon-appetit/recipe/smash-burger-alfresco
+    note: 參考薄肉餅壓煎、煎至底面焦香後翻面加起司，再將兩片疊入麵包的技巧；本頁是家常改寫，不代表餐廳原始配方或試作結果。
   - label: 食安基準
-    name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
-    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
-    note: 兩片牛絞肉肉餅都要分別測量中心，至少達 71°C。
+    name: "Safe Minimum Internal Temperatures — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: 牛絞肉最低安全中心溫度為 71°C；每片肉餅均須個別確認。
+  - label: 溫度計量測方法
+    name: "Food Thermometers — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers
+    note: 薄漢堡肉餅應從側邊插入探針至中心，並依器具指示量測。
 ingredients:
   - name: 牛絞肉
     amount: "180"
@@ -83,4 +86,4 @@ seasonings:
     unit: ""
 ---
 
-兩片薄牛肉餅分別煎熟，再與起司、蔬菜和酸黃瓜組成漢堡。每片肉餅都是牛絞肉料理，中心需達71°C。
+這是尚未實際試作的家常雙層起司漢堡，並非已確認的餐廳原始配方。兩片薄牛肉餅分別煎熟，再與起司、蔬菜和酸黃瓜組成漢堡；每片肉餅中心都需達 71°C。

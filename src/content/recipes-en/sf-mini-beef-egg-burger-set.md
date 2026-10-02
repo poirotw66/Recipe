@@ -21,9 +21,9 @@ intro: These small burgers use ground beef, a fully cooked egg, and cheese.
   Check that the center of each beef patty reaches 71°C / 160°F; color is not a
   reliable doneness test.
 steps:
-  - "Finely mince the onion. Beat one egg and use half of it; mix that portion with the beef, dry breadcrumbs, onion, salt, and pepper just until combined. Do not pack the mixture tightly. Divide it in two, shape patties slightly wider than the buns, and press a shallow dimple in each center."
+  - "Finely mince the onion. Wash and slice the lettuce and tomato, and set out the buns and a clean plate before handling raw beef. Beat one egg and use half of it; mix that portion with the beef, dry breadcrumbs, onion, salt, and pepper just until combined. Do not pack the mixture tightly. Divide it in two, shape patties slightly wider than the buns, and press a shallow dimple in each center. After handling raw beef, wash your hands with soap and water, and wash any board, knife, or counter that touched it with hot, soapy water."
   - "Heat the oil in a skillet over medium heat. Cook the patties in one layer for about 3–4 minutes, turn, and continue. Insert a thermometer from the side into each thickest center; remove each patty only at 71°C / 160°F. Continue cooking and recheck if needed."
-  - "Fry the remaining egg in the same pan until both white and yolk are firm. Lightly toast the cut sides of the buns. Build two burgers with lettuce, tomato, a patty, cheese, and fried egg."
+  - "Fry the remaining egg in the same pan until both white and yolk are firm. Put the cooked patties on a clean plate; do not return them to a plate that held raw beef. Lightly toast the cut sides of the buns. Build two burgers with lettuce, tomato, a patty, cheese, and fried egg."
   - "If needed, cover the hot patties briefly to soften the cheese. Serve hot."
 tips:
   - Do not judge ground beef by its browned exterior or cut color. Each patty
@@ -54,6 +54,10 @@ references:
     name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
     url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
     note: Each ground-beef patty must reach 71°C / 160°F at the center; color is not a substitute for a thermometer.
+  - label: Food-handling guidance
+    name: "Keep Food Safe! Food Safety Basics — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe
+    note: Wash hands, tools, and counters after handling raw beef, and keep cooked patties off plates that held raw meat.
 ingredients:
   - name: "Ground beef"
     amount: "150"

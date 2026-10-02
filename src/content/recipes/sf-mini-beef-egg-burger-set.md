@@ -17,9 +17,9 @@ tags:
   - 家常料理
 intro: 小份量漢堡以牛絞肉、全熟蛋和起司組成。牛絞肉需以溫度計確認中心達 71°C，不用肉色判斷熟度。
 steps:
-  - "洋蔥切細末。取半顆蛋打散，和牛絞肉、乾燥麵包粉、洋蔥、鹽及黑胡椒拌至剛好均勻，不要揉緊；分成兩份，輕壓成略大於麵包的肉餅，中央按出淺凹。"
+  - "洋蔥切細末；先洗切生菜、番茄並備好麵包與乾淨盤子，再處理生牛肉。取半顆蛋打散，和牛絞肉、乾燥麵包粉、洋蔥、鹽及黑胡椒拌至剛好均勻，不要揉緊；分成兩份，輕壓成略大於麵包的肉餅，中央按出淺凹。處理生肉後以肥皂和流動水洗手，並用熱肥皂水清洗接觸過的砧板、刀具及檯面。"
   - "平底鍋中火加油，肉餅單層煎約 3～4 分鐘後翻面續煎。從側面量每片最厚處中心；各自達 71°C 才起鍋，未達則續煎並重測。"
-  - "用剩下的蛋在同鍋煎至蛋白、蛋黃都凝固。麵包切面略烤，依序放生菜、番茄、肉餅、起司和煎蛋；兩份分開組裝。"
+  - "用剩下的蛋在同鍋煎至蛋白、蛋黃都凝固。將熟肉餅盛在乾淨盤子上，不要放回裝過生肉的盤子。麵包切面略烤，依序放生菜、番茄、肉餅、起司和煎蛋；兩份分開組裝。"
   - "若起司未融，可在熱肉餅上加蓋短暫悶熱；趁熱上桌。"
 tips:
   - 牛絞肉不能以表面焦色或切面顏色判斷安全熟度；肉餅中心需達 71°C。用剩餘蛋液煎的蛋也要完全凝固。
@@ -45,6 +45,10 @@ references:
     name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
     url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
     note: 每一片牛絞肉肉餅中心需達 71°C；顏色不能代替測溫。
+  - label: 食品處理指引
+    name: "Keep Food Safe! Food Safety Basics — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe
+    note: 處理生牛肉後清洗雙手、器具與檯面，並讓熟肉和生肉使用過的盤子分開。
 ingredients:
   - name: "牛絞肉"
     amount: "150"

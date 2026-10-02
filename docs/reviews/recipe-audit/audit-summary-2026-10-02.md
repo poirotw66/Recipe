@@ -2,7 +2,7 @@
 
 ## 範圍與狀態
 
-本批覆核 7 個 slug 的繁中配方及四語一致性，修正可從現有食材、步驟與來源直接核對的問題。需要實作確認的食譜都標明未試作與家常改編，不宣稱餐廳原配方或作者親身經驗。
+本表彙整 11 個 slug 的繁中配方及四語一致性修正：前 7 篇已由 `e2a26b5` 提交，本輪新增 4 篇待提交。只修正可由配方和可查證來源支持的內容；需要實作確認的項目都標明未試作，不宣稱餐廳原配方或作者親身經驗。
 
 上一小批六個語系文字修正已先提交為 `c172493`；以下列的是該 commit 之後的修正。
 
@@ -15,8 +15,12 @@
 | [`air-fryer-lemon-fish-fillet`](./reports/air-fryer-lemon-fish-fillet.json) | Warning | 四語保存說明對齊：剩食兩小時內冷藏、三至四天內食用，回熱至至少 75°C；頁面連結到台灣食藥署與 USDA 來源。實際烹調時間與回熱後質地尚未試作。 |
 | [`sf-classic-ham-mushroom-eggs-benedict`](./reports/sf-classic-ham-mushroom-eggs-benedict.json) | Warning | 四語改為明確的家常版本、兩人份 4 顆蛋，逐顆水波並對齊油、鹽、胡椒總量；參考 Washington Post 份量，不宣稱貳樓原配方。奶油精確量與耗時仍待試作。 |
 | [`sf-orange-danish-poached-seafood-potato`](./reports/sf-orange-danish-poached-seafood-potato.json) | Warning | 四語從生馬鈴薯、鮮菇與去殼去腸泥生蝦開始，補上可操作流程並標明未試作家常改編；官方菜單未公開實際海鮮與半成品規格。 |
+| [`sf-black-truffle-cordon-bleu-pork-open`](./reports/sf-black-truffle-cordon-bleu-pork-open.json) | Warning | 四語補上填餡封口、麵衣覆蓋、薄肉側面量溫與時間變因；區分填餡肉指引與一般豬排基準，74°C 僅標明為本配方保守目標。夾層量測、耗時與成品仍待試作。 |
+| [`sf-moon-view-bitter-melon-cream-rice`](./reports/sf-moon-view-bitter-melon-cream-rice.json) | Warning | 四語補上蛋塊多點量至 71°C、刮除可能較苦的白色內膜及汆燙 30 秒的來源依據；本站份量、時間、口感與封面成品一致性仍待試作。 |
+| [`sf-mini-beef-egg-burger-set`](./reports/sf-mini-beef-egg-burger-set.json) | Warning | 四語補上先備料、生牛肉處理後清潔雙手與接觸面，以及熟肉不放回生肉盤；兒童餐份量、產量、耗時與口感仍待試作。 |
+| [`sf-signature-double-stack-burger`](./reports/sf-signature-double-stack-burger.json) | Warning | 四語補上薄肉餅操作順序、逐片側面測溫與家常改編來源界線；每份 30 分鐘、產量和雙層組裝結果仍待試作。 |
 
-本批 7 篇人工狀態均保留 Warning，因為份量、實際時間與成品表現沒有真人試作證據；兩篇新修食譜的機械預檢均為 Pass。全站機械預檢共 289 篇：Pass 227、Warning 62、Critical 0。`npm test`、`npm run build` 與 `git diff --check` 通過；建置仍顯示既有的重複 recipe ID 及 Cloudflare Sharp 警告。這些修正改善配方一致性與可操作性，不等於已證明 Google 會收錄或已補足全站原創內容深度。
+11 篇人工狀態均保留 Warning，因為份量、實際時間與成品表現沒有真人試作證據；本輪四篇也未變更 noindex。全站機械預檢共 289 篇：Pass 227、Warning 62、Critical 0。`npm test`、`npm run build` 與 `git diff --check` 通過；建置仍輸出跨語系重複 recipe ID 與 Cloudflare Sharp 警告，但完成建置。這些修正改善配方一致性與可操作性，不等於已證明 Google 會收錄或已補足全站原創內容深度。
 
 ## 官方保存參考
 
@@ -30,4 +34,6 @@
 
 ## 下一步
 
-下一批聚焦 `sf-moon-view-bitter-melon-cream-rice`：既有安全修正已對齊，但產量、時程、苦瓜口感與成品照片都需要真人試作才能補上，公開來源無法證明本站實際成品。Search Console 選頁應使用最新「網頁」完整匯出；既有流量樣本偏小且時間較早，不足以替目前這批頁面排序。
+下一批依優先清單處理 `sf-spicy-mexican-firecracker-burger`：核對辣椒、起司與醬汁份量，並確保牛絞肉餅以溫度計逐片確認中心達 71°C。份量與實際時間等仍需真人試作；Search Console 選頁要使用最新「網頁」完整匯出，不能用較早且樣本偏小的流量資料替目前頁面排序。
+
+苦瓜家常技法：[The Woks of Life：Bitter Melon with Eggs](https://thewoksoflife.com/bitter-melon-with-eggs/)；含蛋料理溫度與多點測量：[USDA FSIS：Egg safety](https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs)、[Food Thermometers](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers)。
