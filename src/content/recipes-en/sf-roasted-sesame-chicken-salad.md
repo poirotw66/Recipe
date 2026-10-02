@@ -24,7 +24,8 @@ steps:
   - Do not rinse the chicken breast; pat dry. If uneven, butterfly or gently
     pound to an even thickness. Season both sides with salt and black pepper.
     Keep the board and knife used for raw chicken away from the salad
-    vegetables.
+    vegetables; if reusing them, wash them with hot, soapy water first, or use
+    clean produce-only tools.
   - Heat the oil in a skillet over medium heat. Cook the chicken for 5–7
     minutes, turn, and continue until the thickest center reaches 74°C / 165°F.
     Measure from the side; cook longer and recheck if needed.
@@ -94,6 +95,10 @@ references:
     url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
     note: Cook the chicken center to 74°C / 165°F and separate raw chicken from
       ready-to-eat food.
+  - label: Raw-to-ready food separation
+    name: "Keep Food Safe! Food Safety Basics — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe
+    note: Wash boards, knives, and counters that touched raw chicken with hot, soapy water before using them for ready-to-eat vegetables; separate produce-only tools are also suitable.
 ---
 
 This one-serving home adaptation draws on the cooked-chicken, greens, and sesame-dressing combination in the cited salad; it is not a restaurant recipe. Times are estimates and it has not been kitchen-tested.

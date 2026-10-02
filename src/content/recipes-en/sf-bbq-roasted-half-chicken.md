@@ -22,8 +22,8 @@ tags:
   - Oven cooking
 intro: Inspired by HelloFresh's half-chicken, potato-wedge, and corn pairing, this version uses a home oven and frying pan. Sear the chicken before roasting, then serve it with BBQ sauce mixed with a little hot sauce.
 steps:
-  - If frozen, thaw the half chicken completely in the refrigerator. Heat the oven to 240°C / 465°F. Cut the potatoes into wedges and toss with a little olive oil and salt; set aside. Do not rinse raw chicken.
-  - Pat the chicken dry and rub with olive oil, salt, black pepper, and paprika. Heat a frying pan over medium-high heat. Sear the chicken skin-side down for about 4–5 minutes until browned, turn, and sear the other side for about 4–5 minutes. Transfer it to a lined baking tray, skin-side up.
+  - If frozen, thaw the half chicken completely in the refrigerator. Heat the oven to 240°C / 465°F. Cut the potatoes into wedges and toss with about 1 tbsp olive oil and 1/4 tsp salt; set aside. Do not rinse raw chicken.
+  - Pat the chicken dry and rub with the remaining 1 tbsp olive oil, 1/4 tsp salt, black pepper, and paprika. Heat a frying pan over medium-high heat. Sear the chicken skin-side down for about 4–5 minutes until browned, turn, and sear the other side for about 4–5 minutes. Transfer it to a lined baking tray, skin-side up.
   - Spread the potato wedges in a single layer on a second tray. Roast the chicken and potatoes together. Roast the potatoes for about 20–25 minutes, until a fork pierces them easily. After 25 minutes, insert a thermometer into the thickest breast and thigh areas, avoiding bone; both must reach 74°C / 165°F. If either is below temperature, continue roasting and check again every 5 minutes.
   - While the chicken roasts, cut the corn into sections and boil for about 5 minutes, until tender. Drain and set aside. If it is ready early, warm it while the chicken rests.
   - Mix the BBQ sauce and hot sauce in a clean bowl. Once both chicken areas reach 74°C / 165°F, transfer the chicken to a clean plate, brush lightly with the sauce, and rest for 5 minutes. Serve with the potato wedges, corn, and remaining sauce. Do not reuse a brush or bowl that touched raw chicken.

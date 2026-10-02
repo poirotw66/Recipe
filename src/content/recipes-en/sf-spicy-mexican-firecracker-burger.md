@@ -23,7 +23,7 @@ intro: This one-serving skillet adaptation borrows the pepper Jack and pickled
   than judging by color.
 steps:
   - "Wash and dry the lettuce, slice the tomato, drain excess brine from the pickles and jalapeños, and set out the bun and cheese."
-  - "Gently shape the ground beef into a patty about 2 cm thick and slightly wider than the bun; press a shallow dimple in the center. Season both sides with salt, pepper, and chili powder just before cooking."
+  - "Gently shape the ground beef into a patty about 2 cm thick and slightly wider than the bun; press a shallow dimple in the center. Season both sides with salt, pepper, and chili powder just before cooking. After handling raw beef, wash your hands with soap and water before touching the bun or other ready-to-eat ingredients."
   - "Heat the oil in a skillet over medium-high until it shimmers, then add the patty. Cook for about 3–4 minutes before turning. Use a clear spot in the pan to toast the bun cut-side down for 2–3 minutes, then remove it."
   - "After turning the patty, add the pepper Jack and cover briefly until melted. Insert the thermometer from the side so its sensing area reaches the center; remove the patty only at 71°C / 160°F. If it is below that temperature, keep cooking and check again; do not judge by meat color or juices."
   - "Layer lettuce, tomato, pickle, the patty, and pickled jalapeño on the bun. Serve hot."
@@ -62,6 +62,10 @@ references:
     name: "How to Make Perfect Burger Patties — Food Network"
     url: https://www.foodnetwork.com/recipes/articles/how-to-make-perfect-burger-patties
     note: The guide shows forming beef portions and flattening them into thin patties; the approximately 2 cm thickness and shallow center dimple here are untested choices for this home adaptation.
+  - label: Hand-washing guidance
+    name: "Keep Food Safe! Food Safety Basics — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe
+    note: Wash hands with soap and warm water after handling raw meat and before touching ready-to-eat food.
 ingredients:
   - name: "Ground beef"
     amount: "160"

@@ -7,9 +7,17 @@
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "四語步驟已補上蔬菜處理、肉餅厚度、鍋面火候提示、麵包煎烤、起司融化與溫度計量測方式。標示的 25 分鐘、一人份實際產量、肉餅成形、口感及操作順序仍未經廚房試作確認；未宣稱已試作。",
+      "description": "四語已補上生牛肉處理後洗手再碰麵包或即食食材的食安步驟，並保留牛絞肉中心達 71°C 的測溫方式；時間、單人份產量、肉餅成形與口感仍未經廚房試作確認，未宣稱已試作。",
       "suggested_fix": "安排真人依配方試作，記錄實際備料與烹調時間、產量、肉餅厚度和口感，並確認中心達 71°C；取得試作紀錄並完成四語複核後，再評估索引狀態。",
       "source": "agent"
+    }
+  ],
+  "repair_summary": "四語在生牛肉成形後補上肥皂洗手提醒，避免接觸麵包或其他即食食材前發生交叉污染，並新增 USDA FSIS 來源。時間、份量與口感仍待試作確認。",
+  "references": [
+    {
+      "name": "Keep Food Safe! Food Safety Basics — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe",
+      "supports": "處理生肉後、接觸即食食物前以肥皂和溫水洗手。"
     }
   ]
 }

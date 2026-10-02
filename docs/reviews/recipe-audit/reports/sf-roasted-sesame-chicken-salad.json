@@ -1,15 +1,23 @@
 {
   "slug": "sf-roasted-sesame-chicken-salad",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "description": "四語已明確要求生雞接觸過的砧板與刀具清洗或改用蔬果專用工具，並保留雞肉中心達 74°C 的測溫步驟；食安說明依 USDA FSIS 補強。本站實際備料與烹調時間、產量及口感仍未經廚房試作，未宣稱已試作。",
+      "suggested_fix": "安排真人依配方試作，記錄實際備料與烹調時間、產量及口感，再同步複核四語；完成試作前維持四語 noindex。",
       "source": "agent"
+    }
+  ],
+  "repair_summary": "四語補充生雞接觸過的砧板與刀具須先以熱肥皂水清洗，或改用乾淨蔬果專用工具，避免交叉污染；新增 USDA FSIS 來源。備料與烹調時間、產量及口感仍待試作確認。",
+  "references": [
+    {
+      "name": "Keep Food Safe! Food Safety Basics — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe",
+      "supports": "處理生雞後，以熱肥皂水清洗砧板、刀具與檯面；可將蔬果與生肉使用不同砧板。"
     }
   ]
 }

@@ -19,7 +19,7 @@ tags:
 intro: 페퍼 잭 치즈와 절인 할라피뇨의 조합을 참고해 토마토와 양상추를 더한 1인분 팬 요리로 바꿨습니다. 레스토랑의 원래 레시피는 아닙니다. 다진 소고기 중심은 색이 아니라 온도로 확인해 71°C(160°F)까지 익히세요.
 steps:
   - "양상추를 씻어 물기를 잘 닦고 토마토를 썹니다. 피클과 절인 할라페뇨의 국물을 빼고 번과 치즈를 준비합니다."
-  - "다진 소고기를 세게 치대지 말고 번보다 약간 넓고 두께 약 2cm인 패티로 빚은 뒤 가운데를 얕게 눌러 줍니다. 굽기 직전에 양면에 소금, 후추, 고춧가루를 뿌립니다."
+  - "다진 소고기를 세게 치대지 말고 번보다 약간 넓고 두께 약 2cm인 패티로 빚은 뒤 가운데를 얕게 눌러 줍니다. 굽기 직전에 양면에 소금, 후추, 고춧가루를 뿌립니다. 생고기를 만진 뒤에는 비누와 물로 손을 씻고 번이나 바로 먹는 재료를 만지세요."
   - "팬에 기름을 두르고 중강불에서 기름이 반짝일 때까지 달군 다음 패티를 올립니다. 약 3~4분 익힌 뒤 뒤집습니다. 팬의 빈 공간에서 번의 자른 면도 2~3분 굽고 꺼냅니다."
   - "뒤집은 패티 위에 페퍼 잭 치즈를 올리고 잠시 뚜껑을 덮어 녹입니다. 온도계의 감지부가 중심에 닿도록 패티 옆면에서 꽂습니다. 중심이 71°C(160°F)에 도달하면 꺼내고, 미달이면 더 익혀 다시 확인합니다. 고기 색이나 육즙으로 판단하지 마세요."
   - "번에 양상추, 토마토, 피클, 패티, 절인 할라페뇨를 올리고 따뜻할 때 냅니다."
@@ -55,6 +55,10 @@ references:
     name: "How to Make Perfect Burger Patties — Food Network"
     url: https://www.foodnetwork.com/recipes/articles/how-to-make-perfect-burger-patties
     note: 이 가이드는 고기를 나누어 얇은 패티로 누르는 방법을 보여 줍니다. 약 2cm 두께와 가운데 홈은 이 가정식 변형에서 채택한 미검증 방법입니다.
+  - label: 손 씻기 안내
+    name: "Keep Food Safe! Food Safety Basics — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe
+    note: 생고기를 만진 뒤 바로 먹는 음식을 만지기 전에 비누와 따뜻한 물로 손을 씻습니다.
 ingredients:
   - name: "다진 소고기"
     amount: "160"

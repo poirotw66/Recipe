@@ -18,7 +18,7 @@ tags:
   - 家常料理
 intro: 參考芝麻雞肉沙拉以熟雞肉搭配爽脆蔬菜和芝麻風味醬汁的做法，改為一人份平底鍋版本。
 steps:
-  - 雞胸不水洗，以紙巾擦乾；厚薄不均時從側面片開或輕拍至厚度一致，兩面撒鹽和黑胡椒。生雞用過的砧板與刀不要用來切蔬菜。
+  - 雞胸不水洗，以紙巾擦乾；厚薄不均時從側面片開或輕拍至厚度一致，兩面撒鹽和黑胡椒。生雞用過的砧板與刀不要用來切蔬菜；若要再用，先以熱肥皂水洗淨，或改用乾淨的蔬果專用工具。
   - 平底鍋加油以中火加熱，放入雞胸煎約 5～7 分鐘後翻面，續煎至最厚中心至少 74°C。由側面量測，未達就續煎並重測。
   - 雞肉移至乾淨砧板靜置數分鐘後切片。洗淨並瀝乾生菜、小黃瓜切片、小番茄對半切。
   - 將蔬菜與芝麻醬拌勻後盛盤，放上雞肉趁鮮食用。
@@ -77,6 +77,10 @@ references:
     name: Safe Minimum Internal Temperatures — FoodSafety.gov
     url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
     note: 雞肉中心須達 74°C，生熟食材分開處理。
+  - label: 生熟食分流
+    name: "Keep Food Safe! Food Safety Basics — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe
+    note: 生雞接觸過的砧板、刀具與檯面應以熱肥皂水清洗，再用於即食蔬菜；也可使用分開的蔬果專用工具。
 ---
 
 本篇為一人份家常改編，參考公開芝麻雞沙拉的熟雞肉、蔬菜與芝麻醬搭配，並非餐廳配方；時間是估算且尚未實際試做。

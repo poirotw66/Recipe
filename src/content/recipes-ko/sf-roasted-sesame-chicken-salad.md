@@ -20,7 +20,7 @@ tags:
 intro: 익힌 닭고기를 아삭한 채소와 참깨 드레싱에 곁들이는 샐러드를 참고해 1인분 팬 조리로 구성했습니다.
 steps:
   - 닭가슴살은 씻지 말고 키친타월로 닦습니다. 두께가 고르지 않으면 옆으로 갈라 펴거나 가볍게 두드려 맞추고 양면에 소금과 후추를 뿌립니다.
-    생닭에 쓴 도마와 칼을 샐러드 채소에 사용하지 마세요.
+    생닭에 쓴 도마와 칼을 샐러드 채소에 사용하지 마세요. 다시 쓸 때는 먼저 뜨거운 비눗물로 씻거나 채소 전용 깨끗한 도구를 사용하세요.
   - 팬에 기름을 두르고 중불로 달굽니다. 닭을 5~7분 익혀 뒤집고 가장 두꺼운 중심이 74°C가 될 때까지 더 익힙니다. 옆에서 온도계를
     넣고 낮으면 더 익혀 다시 잽니다.
   - 깨끗한 도마로 옮겨 몇 분 두었다가 썹니다. 채소를 씻어 물기를 빼고 오이를 썰며 방울토마토를 반으로 자릅니다.
@@ -80,6 +80,10 @@ references:
     name: Safe Minimum Internal Temperatures — FoodSafety.gov
     url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
     note: 닭고기 중심을 74°C까지 익히고 생닭과 바로 먹는 식품을 분리합니다.
+  - label: 생고기와 채소 분리
+    name: "Keep Food Safe! Food Safety Basics — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe
+    note: 생닭이 닿은 도마, 칼, 조리대는 바로 먹는 채소에 쓰기 전에 뜨거운 비눗물로 씻습니다. 채소 전용 깨끗한 도구를 써도 됩니다.
 ---
 
 공개된 참깨 치킨 샐러드의 익힌 닭고기, 채소, 참깨 드레싱 조합을 참고한 1인 가정식이며 식당 레시피가 아닙니다. 시간은 예상치이고 실제 조리는 검증되지 않았습니다.
