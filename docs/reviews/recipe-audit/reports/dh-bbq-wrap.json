@@ -1,21 +1,33 @@
 {
   "slug": "dh-bbq-wrap",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
-  "confidence_score": 0.88,
+  "confidence_score": 0.9,
   "coverage": [
     "zh-TW",
     "en",
     "ja",
     "ko"
   ],
+  "repair_summary": "複核確認白糖未漏用：繁中步驟寫「少許糖」，英文為「a little sugar」，日文為「砂糖少々」，韓文為「설탕 조금」；latest-precheck 的白糖警示是繁中精確名稱比對誤報，因此沒有為消除警示改寫食譜。尚未真人試作，份量、時間與成品仍待實作確認。",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The revised recipe text has not been independently cooked. The listed timing and final texture remain estimates pending home-kitchen verification.",
-      "suggested_fix": "Cook this exact four-locale version in a home kitchen and update time or texture guidance only when measured results support the change.",
+      "description": "四語配方尚未真人下廚試作，備料與烹調時間、實際份量及成品口感仍是估計，不能視為已驗證。最新機械預檢另將材料表的「白糖」標成未使用，但四語步驟分別寫有「少許糖」、「a little sugar」、「砂糖少々」及「설탕 조금」，屬名稱比對誤報。",
+      "suggested_fix": "請真人依四語配方試作，記錄實際時間、產量和成品狀態，再按紀錄更新內容及索引評估；完成試作前維持 Warning。本篇不在目前的暫時 noindex 名單內，索引狀態依現行政策處理。",
       "source": "agent"
     }
-  ]
+  ],
+  "mechanical_review": {
+    "issues": [
+      {
+        "type": "Ingredient_Mismatch",
+        "severity": "Warning",
+        "source": "precheck",
+        "disposition": "誤報：latest-precheck 以「白糖」精確字串搜尋步驟，未辨識繁中「少許糖」；英文、日文、韓文也以各自語言的糖名表達且均有使用。故白糖沒有漏用，不需修改四語步驟或份量。"
+      }
+    ],
+    "disposition": "菜單轉錄只描述生菜包入牛五花或豬梅花，搭配年糕片、蒜片與韓式辣醬，沒有提供糖的用量或原始配方（docs/content/dubu-house-menu-replication.md:139）。本站四語配方中的白糖用量以本站材料表為準，不宣稱是餐廳原配方。逐篇複核只確認文字對應，沒有真人試作。"
+  }
 }
