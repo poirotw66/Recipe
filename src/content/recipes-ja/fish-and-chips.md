@@ -70,7 +70,12 @@ relatedIngredients:
 - 卵
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "食品安全の参考"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.govは魚の最低中心温度を63°C（145°F）としています。最も厚い部分で確認してください。"
 customAdditions: []
 ---
 

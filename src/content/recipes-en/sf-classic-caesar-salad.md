@@ -25,9 +25,7 @@ steps:
   - "Toss the greens with the Caesar dressing. Add the bacon and croutons, then finish with Parmesan, salt 1/4 tsp, and black pepper 1/4 tsp. Serve immediately."
 tips:
   - "Toss the croutons with the listed 1 teaspoon olive oil before baking. Let them cool before adding them to the salad."
-storage: Serve freshly made when possible. Refrigerate leftovers within 2 hours
-  and use within 3 to 4 days. Reheat leftovers to 165°F (74°C). Store crisp
-  toppings, greens, or soft-cooked eggs separately to protect texture.
+storage: "Serve freshly assembled. Refrigerate cooked bacon leftovers within 2 hours and use within 3 to 4 days. If reheating, reheat only the bacon to 165°F (74°C). Keep the greens, dressing, and croutons separate; assemble just before serving."
 relatedIngredients:
   - Mixed greens
   - Bacon
@@ -35,7 +33,12 @@ relatedIngredients:
   - Parmesan cheese
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "Food safety reference"
+    name: "Leftovers and Food Safety — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+    note: "USDA FSIS advises refrigerating perishable foods within 2 hours, using leftovers within 3–4 days, and reheating to 165°F (74°C). Keep salad components separate."
 ingredients:
   - name: Mixed greens
     amount: "120"

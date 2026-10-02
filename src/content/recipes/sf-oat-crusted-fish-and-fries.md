@@ -4,8 +4,8 @@ description: "燕麥、麵粉和蛋液裹魚片，與烤馬鈴薯條同爐完成
 coverImage: /images/recipes/sf-oat-crusted-fish-and-fries.webp
 servings: 2
 prepTime: 15
-cookTime: 20
-totalTime: 35
+cookTime: 27
+totalTime: 42
 difficulty: 中等
 category: "開胃菜"
 scenarios:
@@ -34,7 +34,12 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "食安熟度參考"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.gov 將魚類中心最低安全熟度列為 63°C（145°F）；從魚片最厚處量測。"
 ingredients:
   - name: 白肉魚片
     amount: "300"

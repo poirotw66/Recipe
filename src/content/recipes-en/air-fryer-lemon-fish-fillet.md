@@ -66,7 +66,7 @@ steps:
 - Flake the thickest part with a fork—it should be opaque and separate easily. Remove fish and keep warm.
 - Spread broccoli in the basket; air-fry at 180°C for 3–4 minutes until stems are slightly tender but still crisp (or blanch 1 minute in boiling water).
 - Plate fish with broccoli; drizzle a little more lemon juice if desired and serve hot.
-storage: Best eaten fresh. If refrigerated, finish within 1 day and reheat gently to keep the fish from drying out.
+storage: For leftovers, refrigerate in a covered container within 2 hours, use within 3–4 days, and reheat to an internal temperature of at least 75°C (167°F).
 faqs:
 - question: Will fish stick to the basket?
   answer: Parchment or a light oil coat helps; flip gently.
@@ -74,7 +74,20 @@ faqs:
   answer: "Start with the stated time and check the thickest piece. Add 2–3 minutes at a time rather than extending the cook in one large jump."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "Food safety"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.gov lists 145°F (63°C) as the minimum internal temperature for finfish; check the thickest part."
+  - label: "Leftover storage and reheating"
+    name: "Leftovers and Food Safety — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+    note: "Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
+  - label: "Leftover chilling guidance"
+    name: "Food Safety Guidance — Taiwan Food and Drug Administration"
+    url: https://www.fda.gov.tw/TC/newsContent.aspx?cid=4&id=31422
+    note: "Refrigerate or freeze uneaten food within 2 hours; the guidance recommends reheating to at least 70°C."
 ---
 
 Bright lemon fish you can finish at home without ordering out.

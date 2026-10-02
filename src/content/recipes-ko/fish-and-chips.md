@@ -71,7 +71,12 @@ steps:
 storage: 바로 드세요.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "식품 안전 참고"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.gov는 생선의 최소 중심 온도를 63°C(145°F)로 안내합니다. 가장 두꺼운 부분을 확인하세요."
 ---
 
 피시 앤 칩스는 양이 넉넉해 주말에 가끔 즐기기 좋은 메뉴입니다.

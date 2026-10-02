@@ -5,8 +5,8 @@ description: "魚にオートミール、薄力粉、卵の衣をつけ、太切
 coverImage: /images/recipes/sf-oat-crusted-fish-and-fries.webp
 servings: 2
 prepTime: 15
-cookTime: 20
-totalTime: 35
+cookTime: 27
+totalTime: 42
 difficulty: 普通
 category: "前菜"
 scenarios:
@@ -35,7 +35,12 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "食品安全の参考"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.govは魚の最低中心温度を63°C（145°F）としています。最も厚い部分で確認してください。"
 ingredients:
   - name: 白身魚の切り身
     amount: "300"

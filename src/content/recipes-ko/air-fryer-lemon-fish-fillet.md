@@ -66,7 +66,7 @@ steps:
 - 포크로 가장 두꺼운 부분을 살짝 갈라 불투명하고 쉽게 갈라지면 완성. 생선을 꺼내 보온한다.
 - 바스켓에 브로콜리를 펼쳐 180°C에서 3~4분 굽아 줄기가 약간 부드럽고 아삭함이 남을 때까지(또는 끓는 물에 1분 데친다).
 - 생선과 브로콜리를 담고 취향에 따라 레몬즙을 더 뿌려 뜨겁게 낸다.
-storage: 바로 드세요. 생선은 냉장 후 재가열 시 쉽게 마를 수 있어 당일 완성을 권합니다.
+storage: 남은 음식은 뚜껑 있는 용기에 담아 2시간 이내에 냉장하고 3~4일 안에 드세요. 다시 데울 때는 중심 온도를 75°C 이상으로 맞추세요.
 faqs:
 - question: 바스켓에 붙나요?
   answer: 유산지를 깔거나 기름을 바르면 덜 붙고, 뒤집을 때 부드럽게 하면 됩니다.
@@ -74,7 +74,20 @@ faqs:
   answer: "표시된 시간에 먼저 확인하고 가장 두꺼운 부분의 익힘을 봅니다. 필요하면 2~3분씩 추가하세요."
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "식품 안전 참고"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.gov는 생선의 최소 중심 온도를 63°C(145°F)로 안내합니다. 가장 두꺼운 부분을 확인하세요."
+  - label: "남은 음식 보관 및 재가열"
+    name: "Leftovers and Food Safety — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+    note: "남은 음식은 2시간 이내에 냉장하고 3~4일 안에 먹으며, 다시 데울 때는 74°C(165°F)까지 가열하세요."
+  - label: "남은 음식 냉장 지침"
+    name: "Food Safety Guidance — Taiwan Food and Drug Administration"
+    url: https://www.fda.gov.tw/TC/newsContent.aspx?cid=4&id=31422
+    note: "Refrigerate or freeze uneaten food within 2 hours; the guidance recommends reheating to at least 70°C."
 ---
 
 에어프라이어 레몬 생선 필레는 상큼하고 가벼워 집에서도 빠르게 끝내는 생선 요리입니다.

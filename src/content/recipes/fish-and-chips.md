@@ -70,7 +70,12 @@ steps:
 storage: "現做現吃。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "食安熟度參考"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.gov 將魚類中心最低安全熟度列為 63°C（145°F）；從魚片最厚處量測。"
 ---
 ---
 

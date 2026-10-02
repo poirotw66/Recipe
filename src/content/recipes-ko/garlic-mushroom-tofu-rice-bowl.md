@@ -74,7 +74,7 @@ relatedIngredients:
 - 밥
 featured: false
 publishedAt: '2026-06-15'
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
 customAdditions:
 - 고기 채
 - 새우

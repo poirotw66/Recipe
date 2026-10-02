@@ -5,8 +5,8 @@ description: "생선 필레에 오트밀, 밀가루, 달걀옷을 입혀 굵게 
 coverImage: /images/recipes/sf-oat-crusted-fish-and-fries.webp
 servings: 2
 prepTime: 15
-cookTime: 20
-totalTime: 35
+cookTime: 27
+totalTime: 42
 difficulty: 보통
 category: "애피타이저"
 scenarios:
@@ -36,7 +36,12 @@ relatedIngredients:
 customAdditions: []
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "식품 안전 참고"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.gov는 생선의 최소 중심 온도를 63°C(145°F)로 안내합니다. 가장 두꺼운 부분을 확인하세요."
 ingredients:
   - name: 흰살생선 필레
     amount: "300"

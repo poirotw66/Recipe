@@ -25,8 +25,7 @@ steps:
   - "채소에 시저 드레싱을 버무리고 베이컨과 크루통을 넣습니다. 파르메산, 소금 1/4작은술, 후추 1/4작은술을 뿌려 바로 냅니다."
 tips:
   - "크루통은 재료표의 올리브오일 1작은술을 묻혀 구우세요. 샐러드에 넣기 전에 식힙니다."
-storage: 갓 만들어 먹는 것을 권합니다. 남은 음식은 조리 후 2시간 안에 냉장하고 3~4일 안에 드세요. 다시 데울 때는 중심 온도가
-  74°C가 되도록 가열하세요. 생채소, 튀김, 반숙 달걀은 식감을 위해 따로 보관하세요.
+storage: "갓 버무려 바로 먹는 것을 권합니다. 익힌 베이컨이 남으면 조리 후 2시간 안에 냉장하고 3~4일 안에 드세요. 다시 데울 때는 베이컨만 중심 온도 74°C까지 가열하세요. 채소, 드레싱, 크루통은 따로 보관하고 먹기 직전에 담아 내세요."
 relatedIngredients:
   - 믹스 샐러드 채소
   - 베이컨
@@ -34,7 +33,12 @@ relatedIngredients:
   - 파르메산 치즈
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "식품 안전 참고"
+    name: "Leftovers and Food Safety — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+    note: "USDA FSIS는 상하기 쉬운 음식을 2시간 이내에 냉장하고 남은 음식은 3~4일 안에 먹으며, 74°C(165°F)까지 재가열하도록 안내합니다. 샐러드 재료는 따로 보관하세요."
 ingredients:
   - name: 믹스 샐러드 채소
     amount: "120"

@@ -24,8 +24,7 @@ steps:
   - "將生菜與凱薩醬拌勻，加入培根和麵包丁，撒上帕瑪森、海鹽 1/4小匙與黑胡椒 1/4小匙，立即享用。"
 tips:
   - "麵包丁拌入食材表列出的橄欖油 1 小匙後再烤；放涼後才加入沙拉，避免熱氣使配料變軟。"
-storage: 建議現做現吃；剩食請於烹調後 2 小時內冷藏，並在 3～4 天內食用。冷藏剩食回熱時應加熱至中心
-  74°C。含生菜、酥炸食材或半熟蛋的組合，請分開保存以維持口感。
+storage: "建議現拌現吃。熟培根剩料請於烹調後 2 小時內冷藏，並在 3～4 天內食用；若要回熱，只回熱培根至中心 74°C。生菜、凱薩醬與麵包丁分開保存，食用前再組合。"
 relatedIngredients:
   - 綜合生菜
   - 培根
@@ -33,7 +32,12 @@ relatedIngredients:
   - 帕瑪森起司
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "食安保存參考"
+    name: "Leftovers and Food Safety — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+    note: "USDA FSIS 建議易腐食物於 2 小時內冷藏，剩食 3～4 天內食用；回熱中心達 74°C（165°F）。沙拉組件仍應分開保存。"
 ingredients:
   - name: 綜合生菜
     amount: "120"

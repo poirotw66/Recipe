@@ -66,7 +66,7 @@ steps:
 - フォークで最も厚い部分をほぐすと不透明で簡単に分離すればOK。魚を取り出して保温する。
 - バスケットにブロッコリーを入れ180°Cで3〜4分、茎がやや柔らかくまだパリッとするまで（または湯通し1分）。
 - 魚とブロッコリーを盛り、お好みでレモン汁を足して熱いうちに。
-storage: できたてがおすすめ。魚は冷蔵再加熱で乾きやすいので、できればその日のうちに。
+storage: 残った場合は、ふた付き容器に入れて2時間以内に冷蔵し、3〜4日以内に食べてください。再加熱時は中心温度を75°C以上にしてください。
 faqs:
 - question: バスケットにくっつきますか？
   answer: クッキングシートを敷くか油を刷ればくっつきにくくなります。ひっくり返すときは優しく。
@@ -74,7 +74,20 @@ faqs:
   answer: "表示時間で一度確認し、最も厚い部分の火通りを見ます。必要なら2～3分ずつ追加してください。"
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-07-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "食品安全の参考"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.govは魚の最低中心温度を63°C（145°F）としています。最も厚い部分で確認してください。"
+  - label: "残り物の保存と再加熱"
+    name: "Leftovers and Food Safety — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+    note: "残り物は2時間以内に冷蔵し、3～4日以内に食べ、再加熱時は74°C（165°F）にしてください。"
+  - label: "残り物の冷蔵指針"
+    name: "Food Safety Guidance — Taiwan Food and Drug Administration"
+    url: https://www.fda.gov.tw/TC/newsContent.aspx?cid=4&id=31422
+    note: "Refrigerate or freeze uneaten food within 2 hours; the guidance recommends reheating to at least 70°C."
 ---
 
 レモンの酸味が爽やかで、外食が多い方でも家で手早く作れる魚のメインです。

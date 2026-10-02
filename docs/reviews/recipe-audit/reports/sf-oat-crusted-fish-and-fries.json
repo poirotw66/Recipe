@@ -1,17 +1,24 @@
 {
   "slug": "sf-oat-crusted-fish-and-fries",
   "title": "燕麥脆皮烤魚佐烤薯條",
-  "reviewed_at": "2026-09-30",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
-  "confidence_score": 0.9,
+  "confidence_score": 0.92,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "四語標題已與魚片及薯條均採烘烤的步驟一致；鹽、黑胡椒與英文雞蛋、檸檬單位已對齊食材表，未使用解凍後擦乾再油炸的指示。實際烤製時間、產量與口感仍待試作確認，未宣稱餐廳來源。 未另加 FAQ：步驟與提示已列出擦乾魚片、沾蛋裹燕麥外衣及中心溫度 63°C 的判斷方式。 備料時間、實際產量與成品仍待廚房試作確認；未宣稱試作或餐廳來源。",
-      "suggested_fix": "請下廚依文試作，確認備料與烹調時間、實際產量及成品，再依結果更新文章與審查狀態。",
+      "description": "依步驟時間將四語 cookTime 調為 27 分鐘（薯條 15 分鐘加魚片烘烤 10～12 分鐘取上限），totalTime 調為 42 分鐘。此為文字計算，尚未經烤箱試作。",
+      "suggested_fix": "依指定烤箱溫度實作並記錄預熱、備料、薯條與魚片完成時間；若實際時間不同，再同步修正四語 metadata。",
       "source": "agent"
     }
   ],
-  "repair_summary": "已將四語標題統一為燕麥裹魚片搭配烤薯條，對齊食譜實際烘烤方法；介紹與步驟已核對烤箱溫度、魚片中心溫度及食材用量。烤製時間、實際產量與口感仍待廚房試作確認。 未另加 FAQ：步驟與提示已列出擦乾魚片、沾蛋裹燕麥外衣及中心溫度 63°C 的判斷方式。"
+  "repair_summary": "四語 cookTime 由 20 改為 27 分鐘、totalTime 由 35 改為 42 分鐘，以明列的 15 分鐘薯條烘烤加 10～12 分鐘魚片時間取上限計算；實際時間待試作。",
+  "references": [
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "魚片中心熟度參考；本篇以白肉魚最厚處達 63°C 為判斷。"
+    }
+  ]
 }

@@ -65,7 +65,7 @@ steps:
 - 用叉子輕撥魚肉最厚處，應不透明且能輕鬆分離；魚片取出保溫。
 - 炸籃鋪入青花菜，180°C 氣炸 3～4 分鐘至莖部稍軟仍帶脆（或另滾水燙 1 分鐘）。
 - 魚片擺盤，搭配青花菜；可依喜好再淋少許檸檬汁提味，趁熱上桌。
-storage: "現做現吃；魚類冷藏再加熱易變乾，建議當餐完成。"
+storage: "若有剩食，請於 2 小時內裝入有蓋容器冷藏，並於 3～4 天內食用；再次食用前加熱至中心至少 75°C。"
 faqs:
 - question: "魚片會黏在炸籃嗎？"
   answer: "鋪烘焙紙或刷油可減少沾黏，翻面時動作輕柔即可。"
@@ -73,7 +73,20 @@ faqs:
   answer: "先以食譜時間完成，再從最厚處確認熟度；較厚的部位可每次增加 2～3 分鐘，避免一次加太久。"
 featured: false
 publishedAt: "2026-06-03"
-updatedAt: "2026-07-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "食安熟度參考"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.gov 將魚類中心最低安全熟度列為 63°C（145°F）；從魚片最厚處量測。"
+  - label: "剩食保存與回熱"
+    name: "Leftovers and Food Safety — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+    note: "一般剩食應於 2 小時內冷藏、3～4 天內食用，回熱至 74°C（165°F）。"
+  - label: "剩食冷藏原則"
+    name: "春節食安掌握352口訣，健康平安過好年！— 台灣食品藥物管理署"
+    url: https://www.fda.gov.tw/TC/newsContent.aspx?cid=4&id=31422
+    note: "食物未食用完畢時應於 2 小時內冷藏或冷凍；復熱中心應達 70°C 以上。"
 ---
 
 氣炸檸檬魚排酸香清爽，是外食族在家也能快速完成的魚料理。

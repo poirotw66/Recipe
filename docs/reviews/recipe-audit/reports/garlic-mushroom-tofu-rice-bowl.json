@@ -1,8 +1,17 @@
 {
   "slug": "garlic-mushroom-tofu-rice-bowl",
   "title": "蒜香菇豆腐拌飯",
-  "reviewed_at": "2026-09-30",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-10-02",
+  "status": "Warning",
+  "confidence_score": 0.92,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "日文與韓文第二則提示已移除與本菜無關的冷飯／麵條內容，改為上桌前再拌以保留豆腐煎面。中英文已有相同建議。豆腐包裝重量、實際烹調時間與口感未經試作。",
+      "suggested_fix": "以明確豆腐重量試作，記錄菇類收水、蒜末下鍋時序、完成時間與產量，再更新四語配方。",
+      "source": "agent"
+    }
+  ],
+  "repair_summary": "日文與韓文第二則提示已改成與中英文一致的豆腐飯碗建議；豆腐半盒的實際重量、菇類收水與蒜末火候仍待試作確認。"
 }

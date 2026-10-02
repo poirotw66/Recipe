@@ -71,7 +71,12 @@ steps:
 storage: Best eaten immediately.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "Food safety"
+    name: "Safe Minimum Internal Temperature Chart — FoodSafety.gov"
+    url: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+    note: "FoodSafety.gov lists 145°F (63°C) as the minimum internal temperature for finfish; check the thickest part."
 ---
 
 Fish and chips is a generous weekend plate when you want something indulgent.

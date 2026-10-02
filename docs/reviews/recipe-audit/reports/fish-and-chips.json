@@ -1,15 +1,15 @@
 {
   "slug": "fish-and-chips",
   "title": "英式炸魚薯條",
-  "reviewed_at": "2026-09-30",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
-  "confidence_score": 92,
+  "confidence_score": 0.92,
   "issues": [
     {
-      "type": "Safety_Risk",
+      "type": "Logic_Error",
       "severity": "Warning",
-      "description": "四語已移除與魚肉不符的靜置提示與共用乾柴問答，補上薯條兩次油炸的操作問答；鱈魚最厚處熟度補至63°C。日文原先漏譯分批油炸提示，已補齊。尚未試作，魚片厚度與油鍋溫度穩定性待確認。",
-      "suggested_fix": "請依四語定稿試作，記錄實際切塊、鍋具火力與烹調時間，並確認蛋白質熟度及蔬菜、醬汁狀態；再依試作結果修訂食譜。",
+      "description": "四語描述已對齊實際麵粉、蛋液、麵粉沾裹步驟與薯條雙重油炸；未新增未列食材。油鍋降溫與回溫、炸物等待及實際時間仍未經家庭鍋具試作。",
+      "suggested_fix": "真人試作時記錄魚片厚度、各批油溫、炸製順序與上桌前脆度，再依結果修訂時間。",
       "source": "agent"
     }
   ],
@@ -17,7 +17,8 @@
     {
       "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
       "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
-      "supports": "魚肉中心至少145°F（約63°C）；本篇以鱈魚最厚處確認。"
+      "supports": "魚片中心溫度的通用熟度參考；本篇指定鱈魚最厚處達 63°C。"
     }
-  ]
+  ],
+  "repair_summary": "四語描述已改為符合食材表與步驟的麵粉、蛋液沾裹及雙重炸薯條，不再宣稱啤酒麵糊。魚片厚度、油溫恢復、薯條與魚的出餐順序仍待真人試作。"
 }

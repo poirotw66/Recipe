@@ -25,7 +25,7 @@ steps:
   - "葉野菜にドレッシングを和え、ベーコンとクルトンを加えます。パルメザン、塩 小さじ1/4、黒こしょう 小さじ1/4を振ってすぐに提供します。"
 tips:
   - "クルトンは食材表のオリーブオイル小さじ1を絡めて焼きます。サラダに加える前に冷ましてください。"
-storage: できたてがおすすめです。残りは調理後2時間以内に冷蔵し、3～4日以内に食べ切ってください。再加熱する場合は中心まで74°Cに加熱します。生野菜、揚げ物、半熟卵は食感を保つため別々に保存してください。
+storage: "作りたてをおすすめします。加熱したベーコンの残りは調理後2時間以内に冷蔵し、3～4日以内に食べ切ってください。再加熱する場合はベーコンだけを中心まで74°Cに加熱します。葉野菜、ドレッシング、クルトンは別々に保存し、食べる直前に盛り付けます。"
 relatedIngredients:
   - ミックスリーフ
   - ベーコン
@@ -33,7 +33,12 @@ relatedIngredients:
   - パルメザンチーズ
 featured: false
 publishedAt: "2026-06-09"
-updatedAt: "2026-09-30"
+updatedAt: "2026-10-02"
+references:
+  - label: "食品安全の参考"
+    name: "Leftovers and Food Safety — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+    note: "USDA FSISは傷みやすい食品を2時間以内に冷蔵し、残り物は3～4日以内に食べ、74°C（165°F）まで再加熱するよう案内しています。サラダの材料は別々に保存してください。"
 ingredients:
   - name: ミックスリーフ
     amount: "120"

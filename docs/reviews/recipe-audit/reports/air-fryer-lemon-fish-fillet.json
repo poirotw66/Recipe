@@ -1,8 +1,29 @@
 {
   "slug": "air-fryer-lemon-fish-fillet",
   "title": "氣炸檸檬魚排",
-  "reviewed_at": "2026-07-29",
-  "status": "Pass",
-  "confidence_score": 92,
-  "issues": []
+  "reviewed_at": "2026-10-02",
+  "status": "Warning",
+  "confidence_score": 0.92,
+  "issues": [
+    {
+      "type": "Logic_Error",
+      "severity": "Warning",
+      "description": "四語保存說明已統一並移除互相矛盾的「只建議當餐吃完」與未驗證口感承諾。回熱溫度參照台灣食藥署與 USDA FSIS；魚排的烹調時間與回熱後質地尚未實測。",
+      "suggested_fix": "真人試作記錄魚排厚度、氣炸設備與時間，另行確認回熱後品質；安全冷藏與回熱指引應和口感建議分開表達。",
+      "source": "agent"
+    }
+  ],
+  "repair_summary": "四語保存欄位已統一剩食冷藏兩小時內、三至四天內食用，回熱至至少 75°C；口感、回熱表現與實際烹調時間仍待試作。",
+  "references": [
+    {
+      "title": "春節食安掌握352口訣，健康平安過好年！— 台灣食品藥物管理署",
+      "url": "https://www.fda.gov.tw/TC/newsContent.aspx?cid=4&id=31422",
+      "supports": "未食用完畢的食物應於 2 小時內冷藏或冷凍，復熱至中心 70°C 以上。"
+    },
+    {
+      "title": "Leftovers and Food Safety — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety",
+      "supports": "剩食回熱至 165°F（約 74°C）；四語頁採至少 75°C 的較保守表述。"
+    }
+  ]
 }
