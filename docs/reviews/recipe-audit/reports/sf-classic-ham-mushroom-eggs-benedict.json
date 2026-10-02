@@ -1,26 +1,26 @@
 {
   "slug": "sf-classic-ham-mushroom-eggs-benedict",
   "title": "經典火腿奶油炒菇班尼蛋",
-  "reviewed_at": "2026-09-30",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.88,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "新增四語專屬問答，說明荷蘭醬低溫回溫、水波蛋最後製作與蛋熟度；並將步驟的火腿、荷蘭醬用量對齊材料表既有 80 公克與 2 大匙，補上火腿熱透的判斷。仍未試作，烤麵包用奶油及水波蛋白醋用量未列，需由配方提供者確認。",
-      "suggested_fix": "請料理者試作，確認荷蘭醬回溫、蘑菇與火腿保溫及水波蛋熟度的時間配合；並確認烤麵包用奶油與白醋用量，再記錄時間、產量與成品狀態更新文章。",
+      "description": "四語已統一為兩人份 4 顆水波蛋、每顆逐一製作，並將烹調時間調整為 27 分鐘（總時間 47 分鐘），按原估時增加其餘兩顆蛋的參考時間；這些時間與成品仍未經廚房試作。奶油與白醋的精確用量也尚未確認。",
+      "suggested_fix": "請料理者試作，確認水波蛋批次與實際耗時、荷蘭醬回溫和配料保溫順序，並決定奶油及白醋用量，再記錄產量、時間與成品狀態。",
       "source": "agent"
     },
     {
-      "type": "Ingredient_Mismatch",
+      "type": "Recipe_Quantity_Ambiguity",
       "severity": "Warning",
-      "description": "機械預檢將配料「蘑菇」與步驟中的「奶油炒菇」判為不符；步驟確實使用該蘑菇，屬名稱詞形比對誤報。預檢亦未將步驟中的「胡椒」對應到配料「黑胡椒碎」；人工核對確認為同一調味料。",
-      "suggested_fix": "配料與步驟已人工核對一致，無需更改食譜；此項為名稱詞形比對誤報，必要時再調整預檢的同義詞規則。",
-      "source": "precheck"
+      "description": "四語配方已統一為兩人份、4 顆水波蛋：初始 Git 版本原為 1 人份、2 顆蛋，後續 commit cba67c9 將 servings 改為 2，卻未調整配料。Washington Post 的 Mushroom Benedict 明列 2 人份、4 顆蛋，支持本篇家常份量配置，但不證明貳樓原始配方。步驟中的橄欖油已合計為 1.5 大匙、海鹽合計 1/2 小匙、黑胡椒合計 1/4 小匙。奶油已列為適量；其精確克數及實際成品仍待作者決定或試作。",
+      "suggested_fix": "若要標示精確奶油量，請配方作者決定烤麵包與炒菇合計使用的奶油克數；若堅持還原貳樓配方，也需提供能支持原店蛋數、油量與奶油量的來源。",
+      "source": "agent"
     }
   ],
-  "repair_summary": "新增四語專屬問答，說明荷蘭醬低溫回溫、水波蛋最後製作與蛋熟度；並將步驟的火腿、荷蘭醬用量對齊材料表既有 80 公克與 2 大匙，補上火腿熱透的判斷。仍未試作，烤麵包用奶油及水波蛋白醋用量未列，需由配方提供者確認。",
+  "repair_summary": "四語統一為兩人份 4 顆蛋與每片麵包 1 顆，依 Washington Post 的兩人份 Mushroom Benedict 份量作為家常配置參考，並明確說明不代表貳樓原始配方。水波蛋改為逐顆製作，時間按增加的參考烹調時間調整為 cookTime 27、totalTime 47；油、鹽、胡椒總量與步驟相符。修正胡椒品名後，機械預檢不再標出食材比對問題。麵包與炒菇用奶油已列為適量，但確切克數待作者決定。未進行廚房試作，維持 Warning。",
   "references": [
     {
       "title": "本篇配方步驟（荷蘭醬低溫回溫、水波蛋最後製作）",
@@ -36,6 +36,16 @@
       "title": "Shell Eggs from Farm to Table — USDA FSIS",
       "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/eggs/shell-eggs-farm-table",
       "supports": "一般雞蛋應煮至蛋白與蛋黃凝固；未全熟食譜可使用巴氏殺菌蛋。"
+    },
+    {
+      "title": "Mushroom Benedict — Regina Schrambling, The Washington Post",
+      "url": "https://www.washingtonpost.com/recipes/mushroom-benedict/",
+      "supports": "來源標示 2 人份、4 顆大雞蛋；組裝時在 4 片英式鬆餅上各放 1 顆蛋。用於支持本篇家常版份量配置，不代表貳樓原始配方，也不能確認本篇的油或奶油用量。"
+    },
+    {
+      "title": "本篇初始版本與 servings 變更（Git history）",
+      "path": "src/content/recipes/sf-classic-ham-mushroom-eggs-benedict.md",
+      "supports": "初始提交 59c0c14 記錄 servings: 1、雞蛋 2 顆，並保留 Second Floor Cafe 為風格來源；commit cba67c9 將 servings 改為 2，但原有蛋數與油量未變，且移除了 restaurantSource 欄位。此歷史可說明版本差異，不能證明餐廳實際配方。"
     }
   ]
 }

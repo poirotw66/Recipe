@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30",
+  "generated_at": "2026-10-02",
   "recipe_count": 289,
-  "pass": 225,
-  "warning": 64,
+  "pass": 227,
+  "warning": 62,
   "critical": 0,
   "recipes": [
     {
@@ -2793,26 +2793,13 @@
       "title": "經典火腿奶油炒菇班尼蛋",
       "servings": 2,
       "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
-      "ingredient_count": 4,
+      "cookTime": 27,
+      "totalTime": 47,
+      "ingredient_count": 5,
       "seasoning_count": 4,
       "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "unused_ingredient",
-          "severity": "Warning",
-          "description": "Listed item \"蘑菇\" not found in steps text (heuristic)."
-        },
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-classic-pesto-shrimp-pasta",
@@ -3042,8 +3029,8 @@
       "title": "燕麥脆皮烤魚佐烤薯條",
       "servings": 2,
       "prepTime": 15,
-      "cookTime": 20,
-      "totalTime": 35,
+      "cookTime": 27,
+      "totalTime": 42,
       "ingredient_count": 5,
       "seasoning_count": 4,
       "step_count": 4,
@@ -3080,21 +3067,14 @@
       "slug": "sf-orange-danish-poached-seafood-potato",
       "title": "橙香丹麥海鮮水波蛋薯盤",
       "servings": 2,
-      "prepTime": 20,
-      "cookTime": 18,
-      "totalTime": 38,
+      "prepTime": 15,
+      "cookTime": 40,
+      "totalTime": 55,
       "ingredient_count": 5,
       "seasoning_count": 4,
-      "step_count": 7,
-      "status": "Warning",
-      "mechanical_issues": [
-        {
-          "type": "Ingredient_Mismatch",
-          "code": "step_mentions_unknown",
-          "severity": "Warning",
-          "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-        }
-      ]
+      "step_count": 8,
+      "status": "Pass",
+      "mechanical_issues": []
     },
     {
       "slug": "sf-orange-danish-sous-vide-steak",

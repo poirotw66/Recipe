@@ -1,41 +1,54 @@
 {
   "slug": "sf-orange-danish-poached-seafood-potato",
   "title": "橙香丹麥海鮮水波蛋薯盤",
-  "reviewed_at": "2026-09-30",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.88,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "已依 USDA FSIS 與 FDA 指引，按海鮮種類補上判熟方式：魚片中心 63°C；蝦、干貝、蟹與龍蝦看肉質結實且珍珠白不透明；蛤蜊、淡菜與牡蠣看開殼並丟棄未開者。蛋與預製丹麥品規格及本篇實際試作仍待確認。",
-      "suggested_fix": "確認實際使用的海鮮與預製丹麥品規格後試作，記錄備料時間、烹調時間與成品狀態，再依結果更新文章與審查狀態。",
-      "source": "agent"
-    },
-    {
-      "type": "Ingredient_Mismatch",
-      "severity": "Warning",
-      "description": "機械預檢將步驟的「胡椒」判成未列調味料；人工核對確認調味表已有黑胡椒項目，屬複合詞比對誤報。",
-      "suggested_fix": "保留目前已人工核對的食材用法；機械預檢若要降低此類誤報，需支援複合詞、料理名稱與一般調味名稱的同義比對。",
-      "source": "precheck"
+      "description": "四語已改為明確標示的未試作家常改編：固定使用去殼去腸泥生蝦，並從生蘑菇、生馬鈴薯開始烹調。公開菜單只列海鮮、炒菇、炒薯等組成，未說明餐廳實際海鮮種類、克數或預製品規格；本站改編不能視為餐廳原配方。丹麥酥點數量已明列為 2 個；份量、耗時與口味仍未經實作確認。",
+      "suggested_fix": "實際試作並記錄各配料規格、耗時與成品狀態；若要還原餐廳版本，另須取得餐廳實際海鮮種類及炒菇、炒薯規格。",
+      "source": "editorial_review"
     }
   ],
   "references": [
     {
-      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
-      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
-      "supports": "支持魚類與貝類的最低內部溫度為145°F（約63°C）；食譜新增魚類中心溫度判準。"
+      "title": "Second Floor Cafe — Menu",
+      "url": "https://www.secondfloorcafe.com/qa/menu",
+      "supports": "官方菜單入口與餐廳來源背景；公開頁面未提供此品項的配方、海鮮種類、克數或家用烹調步驟。本站可查到的菜單組成紀錄只列橙香丹麥、水波蛋、海鮮、炒菇與炒薯。"
     },
     {
-      "title": "Keep Food Safe! Food Safety Basics — USDA FSIS",
-      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe",
-      "supports": "支持魚類與貝類的最低內部溫度為145°F（約63°C）；食譜新增魚類中心溫度判準。"
+      "title": "Sautéed Shrimp — Food Network, Tyler Florence",
+      "url": "https://www.foodnetwork.com/recipes/tyler-florence/sauteed-shrimp-recipe-1914181",
+      "supports": "支持去殼去腸泥生蝦以中火快煎、依大小調整時間並以肉質結實、不透明確認熟度；本站也用粉紅及鬆弛C形作為視覺提示。"
+    },
+    {
+      "title": "How to Sauté Mushrooms — Food Network Kitchen",
+      "url": "https://www.foodnetwork.com/how-to/packages/food-network-essentials/how-to-saute-mushrooms",
+      "supports": "支持擦拭鮮菇、避免擠滿鍋面、炒至水分蒸發且上色的做法。"
+    },
+    {
+      "title": "Breakfast Potatoes — Food Network, Anne Burrell",
+      "url": "https://www.foodnetwork.com/recipes/anne-burrell/breakfast-potatoes-8647228",
+      "supports": "支持馬鈴薯先以水煮至叉子可穿透，再瀝乾並用平底鍋煎至酥脆的流程。本站採用相似流程並調整為兩人份。"
+    },
+    {
+      "title": "Poached Eggs — Food Network, Alex Guarnaschelli",
+      "url": "https://www.foodnetwork.com/fnk/recipes/poached-eggs-7825723",
+      "supports": "支持白醋水微滾、雞蛋逐顆從小碗滑入、煮約3至4分鐘至蛋白凝固後瀝乾的水波蛋方法。"
     },
     {
       "title": "Selecting and Serving Fresh and Frozen Seafood Safely — FDA",
       "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
-      "supports": "支持海鮮依種類判熟：蝦、干貝、蟹與龍蝦肉質結實、珍珠白且不透明；蛤蜊、淡菜與牡蠣開殼，未開者丟棄。"
+      "supports": "支持蝦等甲殼類煮至肉質結實且珍珠白、不透明的熟度判斷。"
+    },
+    {
+      "title": "Safe Minimum Internal Temperature Chart — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart",
+      "supports": "支持食物安全溫度與冷藏、回熱相關說明；不支持餐廳原配方推論。"
     }
   ],
-  "repair_summary": "四語依海鮮種類補上可操作的熟度判斷：魚類以溫度計確認最厚處中心達63°C；蝦、干貝、蟹與龍蝦看肉質結實且珍珠白不透明；蛤蜊、淡菜與牡蠣煮至開殼並丟棄未開者。來源為 USDA FSIS 與 FDA，尚未實際試作，食材規格與成品狀態仍待確認。"
+  "repair_summary": "四語將預製「炒菇／炒薯」改成從鮮蘑菇、生馬鈴薯開始處理，海鮮固定為 180 公克去殼去腸泥生蝦，並補上煮薯、分別煎菇蝦薯及最後水波蛋的順序；市售橙香丹麥明列為 2 個。改編參照 Food Network 的家常烹調方法與 FDA 熟度資訊，清楚標示未試作且非貳樓原配方。官方菜單沒有提供餐廳實際海鮮品種或預製規格，故仍保留 Warning。"
 }
