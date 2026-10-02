@@ -8,6 +8,10 @@ prepTime: 35
 cookTime: 25
 totalTime: 60
 difficulty: 어려움
+calories: 530
+protein: 31
+fat: 29
+carbs: 36
 category: "한식 메인 요리"
 scenarios:
 - 야식

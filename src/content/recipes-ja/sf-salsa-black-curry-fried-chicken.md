@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 25
 totalTime: 40
 difficulty: 普通
+calories: 510
+protein: 32
+fat: 26
+carbs: 37
 category: "前菜"
 scenarios:
   - 高タンパク料理

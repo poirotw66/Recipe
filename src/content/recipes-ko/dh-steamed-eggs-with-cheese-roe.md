@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 20
 totalTime: 30
 difficulty: 보통
+calories: 260
+protein: 18
+fat: 18
+carbs: 6
 category: "한국식 전채"
 scenarios:
 - 야식

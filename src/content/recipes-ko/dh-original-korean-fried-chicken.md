@@ -8,6 +8,10 @@ prepTime: 40
 cookTime: 20
 totalTime: 60
 difficulty: 어려움
+calories: 510
+protein: 32
+fat: 28
+carbs: 32
 category: "셰프 추천"
 scenarios:
 - 야식

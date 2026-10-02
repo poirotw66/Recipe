@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 18
 totalTime: 36
 difficulty: 普通
+calories: 510
+protein: 23
+fat: 28
+carbs: 41
 category: "前菜"
 scenarios:
   - 夜食

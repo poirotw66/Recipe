@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: 普通
+calories: 820
+protein: 50
+fat: 48
+carbs: 47
 category: "バーガー・サンド"
 scenarios:
   - 一人分の料理

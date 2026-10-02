@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 27
 totalTime: 42
 difficulty: 普通
+calories: 520
+protein: 31
+fat: 22
+carbs: 49
 category: "前菜"
 scenarios:
   - 平日の時短料理

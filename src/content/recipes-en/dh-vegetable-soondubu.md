@@ -9,6 +9,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: Medium
+calories: 210
+protein: 14
+fat: 12
+carbs: 12
 category: "Korean stew"
 scenarios:
 - Meatless meals

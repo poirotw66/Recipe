@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: 普通
+calories: 340
+protein: 22
+fat: 16
+carbs: 27
 category: "韓国鍋料理"
 scenarios:
 - 一人分の料理

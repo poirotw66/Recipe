@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 18
 totalTime: 38
 difficulty: Medium
+calories: 620
+protein: 31
+fat: 26
+carbs: 65
 category: "Seasonal specials"
 scenarios:
   - Bento-friendly dishes

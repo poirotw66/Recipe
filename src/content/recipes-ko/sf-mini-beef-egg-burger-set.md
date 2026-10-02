@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 22
 totalTime: 32
 difficulty: 쉬움
+calories: 480
+protein: 26
+fat: 22
+carbs: 44
 category: "어린이 메뉴"
 scenarios:
   - 1인 요리

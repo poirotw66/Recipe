@@ -7,6 +7,10 @@ prepTime: 15
 cookTime: 40
 totalTime: 60
 difficulty: 中等
+calories: 680
+protein: 56
+fat: 38
+carbs: 29
 category: "排餐盤"
 scenarios:
   - 高蛋白料理

@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 25
 totalTime: 40
 difficulty: 보통
+calories: 590
+protein: 18
+fat: 34
+carbs: 53
 category: "브런치"
 scenarios:
   - 1인 요리

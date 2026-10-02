@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 14
 totalTime: 29
 difficulty: 쉬움
+calories: 460
+protein: 24
+fat: 18
+carbs: 51
 category: "키즈 플레이트"
 scenarios:
   - 도시락 반찬

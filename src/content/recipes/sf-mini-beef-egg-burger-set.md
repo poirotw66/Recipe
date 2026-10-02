@@ -7,6 +7,10 @@ prepTime: 10
 cookTime: 22
 totalTime: 32
 difficulty: 簡單
+calories: 480
+protein: 26
+fat: 22
+carbs: 44
 category: "兒童餐"
 scenarios:
   - 一人料理

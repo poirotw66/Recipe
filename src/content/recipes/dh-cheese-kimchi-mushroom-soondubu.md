@@ -7,6 +7,10 @@ prepTime: 20
 cookTime: 20
 totalTime: 40
 difficulty: 中等
+calories: 330
+protein: 19
+fat: 21
+carbs: 16
 category: "韓式鍋物"
 scenarios:
   - 無肉料理

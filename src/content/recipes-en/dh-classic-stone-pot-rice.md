@@ -9,6 +9,10 @@ prepTime: 20
 cookTime: 30
 totalTime: 50
 difficulty: Medium
+calories: 480
+protein: 16
+fat: 12
+carbs: 77
 category: "Korean rice dishes"
 scenarios:
   - Cooking for one

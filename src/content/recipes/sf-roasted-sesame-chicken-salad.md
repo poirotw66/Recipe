@@ -7,6 +7,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: 中等
+calories: 410
+protein: 32
+fat: 22
+carbs: 21
 category: "沙拉"
 scenarios:
   - 一人料理

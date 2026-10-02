@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 15
 totalTime: 35
 difficulty: 보통
+calories: 350
+protein: 29
+fat: 15
+carbs: 25
 category: "생선 요리"
 scenarios:
 - 도시락 반찬

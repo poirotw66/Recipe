@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 18
 totalTime: 38
 difficulty: 普通
+calories: 680
+protein: 42
+fat: 36
+carbs: 47
 category: "ブランチ"
 scenarios:
   - お弁当向けのおかず

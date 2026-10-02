@@ -9,6 +9,10 @@ prepTime: 20
 cookTime: 20
 totalTime: 40
 difficulty: Medium
+calories: 250
+protein: 16
+fat: 14
+carbs: 15
 category: "Korean hot pot"
 scenarios:
   - Late-night meals

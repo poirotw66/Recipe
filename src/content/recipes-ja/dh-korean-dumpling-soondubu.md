@@ -7,6 +7,10 @@ prepTime: 20
 cookTime: 25
 totalTime: 45
 difficulty: 普通
+calories: 330
+protein: 20
+fat: 16
+carbs: 26
 category: "韓国鍋料理"
 scenarios:
   - 夜食

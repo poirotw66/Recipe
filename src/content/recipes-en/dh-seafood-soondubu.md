@@ -9,6 +9,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: Medium
+calories: 260
+protein: 22
+fat: 13
+carbs: 14
 category: "Korean stew"
 scenarios:
 - High-protein meals

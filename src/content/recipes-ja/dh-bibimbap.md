@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 40
 totalTime: 60
 difficulty: 普通
+calories: 540
+protein: 22
+fat: 16
+carbs: 77
 category: "石焼ご飯"
 scenarios:
 - 一人分の料理

@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 15
 totalTime: 33
 difficulty: 보통
+calories: 540
+protein: 24
+fat: 28
+carbs: 48
 category: "버거와 샌드위치"
 scenarios:
   - 도시락 반찬

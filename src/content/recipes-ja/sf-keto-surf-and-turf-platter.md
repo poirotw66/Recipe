@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 12
 totalTime: 32
 difficulty: かんたん
+calories: 460
+protein: 42
+fat: 28
+carbs: 10
 category: "ライトプレート"
 scenarios:
   - 一人分の料理

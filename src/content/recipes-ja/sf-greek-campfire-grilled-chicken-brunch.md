@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: 普通
+calories: 560
+protein: 44
+fat: 20
+carbs: 51
 category: "林口限定"
 scenarios:
   - 平日の時短料理

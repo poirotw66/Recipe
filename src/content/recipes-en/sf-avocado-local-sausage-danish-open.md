@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: Medium
+calories: 580
+protein: 21
+fat: 36
+carbs: 43
 category: "Open sandwiches"
 scenarios:
 - Cooking for one

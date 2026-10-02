@@ -8,6 +8,10 @@ prepTime: 40
 cookTime: 20
 totalTime: 60
 difficulty: Advanced
+calories: 510
+protein: 32
+fat: 28
+carbs: 32
 category: "Chef specials"
 scenarios:
 - Late-night meals

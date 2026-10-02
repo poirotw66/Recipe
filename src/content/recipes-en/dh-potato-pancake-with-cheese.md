@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 18
 totalTime: 36
 difficulty: Medium
+calories: 420
+protein: 14
+fat: 22
+carbs: 42
 category: "Korean mains"
 scenarios:
 - Late-night meals

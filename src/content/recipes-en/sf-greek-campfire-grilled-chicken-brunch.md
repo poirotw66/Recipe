@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: Medium
+calories: 560
+protein: 44
+fat: 20
+carbs: 51
 category: "Linkou specials"
 scenarios:
   - Weeknight quick meals

@@ -7,6 +7,10 @@ prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: 中等
+calories: 480
+protein: 24
+fat: 26
+carbs: 38
 category: "早午餐"
 scenarios:
 - 一人料理

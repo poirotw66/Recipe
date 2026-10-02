@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: 보통
+calories: 230
+protein: 18
+fat: 12
+carbs: 13
 category: "한국식 찌개"
 scenarios:
 - 고단백 요리

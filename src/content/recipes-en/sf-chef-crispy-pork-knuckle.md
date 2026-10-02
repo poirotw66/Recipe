@@ -9,6 +9,10 @@ prepTime: 10
 cookTime: 50
 totalTime: 60
 difficulty: Advanced
+calories: 780
+protein: 52
+fat: 48
+carbs: 35
 category: "Main plates"
 scenarios:
   - High-protein meals

@@ -9,6 +9,10 @@ prepTime: 10
 cookTime: 40
 totalTime: 50
 difficulty: Easy
+calories: 390
+protein: 14
+fat: 18
+carbs: 43
 category: "Light meals"
 scenarios:
   - Cooking for one

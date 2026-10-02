@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: 普通
+calories: 260
+protein: 22
+fat: 13
+carbs: 14
 category: "韓国鍋"
 scenarios:
 - 高タンパク料理

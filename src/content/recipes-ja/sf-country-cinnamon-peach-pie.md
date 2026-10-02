@@ -8,6 +8,10 @@ prepTime: 25
 cookTime: 55
 totalTime: 200
 difficulty: 普通
+calories: 380
+protein: 5
+fat: 18
+carbs: 49
 category: "デザート"
 scenarios:
 - 一人分の料理

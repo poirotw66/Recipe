@@ -9,6 +9,10 @@ prepTime: 30
 cookTime: 490
 totalTime: 520
 difficulty: Advanced
+calories: 380
+protein: 32
+fat: 22
+carbs: 13
 category: Soup
 scenarios:
   - High-protein meals

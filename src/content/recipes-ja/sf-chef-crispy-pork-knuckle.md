@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 50
 totalTime: 60
 difficulty: むずかしい
+calories: 780
+protein: 52
+fat: 48
+carbs: 35
 category: "メインプレート"
 scenarios:
   - 高タンパク料理

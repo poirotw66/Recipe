@@ -7,6 +7,10 @@ prepTime: 30
 cookTime: 55
 totalTime: 375
 difficulty: 中等
+calories: 410
+protein: 8
+fat: 27
+carbs: 34
 category: "甜點"
 scenarios:
 - 一人料理

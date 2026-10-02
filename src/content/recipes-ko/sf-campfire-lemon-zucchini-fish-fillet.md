@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 15
 totalTime: 25
 difficulty: 보통
+calories: 460
+protein: 39
+fat: 19
+carbs: 33
 category: "린커우 한정"
 scenarios:
   - 1인 요리

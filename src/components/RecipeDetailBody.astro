@@ -45,6 +45,13 @@ const homePath = localePath(locale, "/");
           <span class="chip note">
             {recipe.data.servings} {t(locale, "recipe.servings")}
           </span>
+          {
+            recipe.data.calories && (
+              <span class="chip note">
+                {recipe.data.calories} kcal
+              </span>
+            )
+          }
         </div>
 
         <div class="chip-row recipe-detail-tags">

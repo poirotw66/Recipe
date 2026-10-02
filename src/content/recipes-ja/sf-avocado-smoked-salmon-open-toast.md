@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: 普通
+calories: 480
+protein: 24
+fat: 26
+carbs: 38
 category: "オープンサンド"
 scenarios:
 - 一人分の料理

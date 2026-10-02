@@ -7,6 +7,10 @@ prepTime: 30
 cookTime: 12
 totalTime: 42
 difficulty: 簡單
+calories: 360
+protein: 6
+fat: 12
+carbs: 57
 category: "甜點"
 scenarios:
   - 宵夜料理

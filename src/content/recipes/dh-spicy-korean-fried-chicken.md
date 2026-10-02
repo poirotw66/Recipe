@@ -7,6 +7,10 @@ prepTime: 40
 cookTime: 25
 totalTime: 65
 difficulty: 進階
+calories: 540
+protein: 31
+fat: 29
+carbs: 38
 category: "炸雞"
 scenarios:
 - 宵夜料理

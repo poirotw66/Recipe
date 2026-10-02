@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 15
 totalTime: 25
 difficulty: 어려움
+calories: 310
+protein: 19
+fat: 22
+carbs: 9
 category: "달걀 요리"
 scenarios:
 - 도시락 반찬

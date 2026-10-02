@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 12
 totalTime: 32
 difficulty: Easy
+calories: 460
+protein: 42
+fat: 28
+carbs: 10
 category: "Light plates"
 scenarios:
   - Cooking for one

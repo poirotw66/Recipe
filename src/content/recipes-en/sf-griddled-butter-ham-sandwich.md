@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 15
 totalTime: 33
 difficulty: Medium
+calories: 540
+protein: 24
+fat: 28
+carbs: 48
 category: "Handheld mains"
 scenarios:
   - Bento-friendly dishes

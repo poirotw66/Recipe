@@ -9,6 +9,10 @@ prepTime: 10
 cookTime: 15
 totalTime: 25
 difficulty: Advanced
+calories: 310
+protein: 19
+fat: 22
+carbs: 9
 category: "egg dish"
 scenarios:
 - Bento-friendly dishes

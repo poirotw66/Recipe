@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 30
 totalTime: 50
 difficulty: 普通
+calories: 530
+protein: 28
+fat: 14
+carbs: 73
 category: "韓国のご飯料理"
 scenarios:
   - 高タンパク料理

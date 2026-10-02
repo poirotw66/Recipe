@@ -9,6 +9,10 @@ prepTime: 20
 cookTime: 25
 totalTime: 45
 difficulty: Medium
+calories: 760
+protein: 41
+fat: 38
+carbs: 63
 category: "Burgers & sandwiches"
 scenarios:
   - Cooking for one

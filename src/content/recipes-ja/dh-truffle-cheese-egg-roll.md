@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 15
 totalTime: 25
 difficulty: むずかしい
+calories: 310
+protein: 19
+fat: 22
+carbs: 9
 category: "卵料理"
 scenarios:
 - お弁当向けのおかず

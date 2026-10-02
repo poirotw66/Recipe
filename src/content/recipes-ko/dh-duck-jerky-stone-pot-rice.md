@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 30
 totalTime: 50
 difficulty: 보통
+calories: 510
+protein: 22
+fat: 14
+carbs: 74
 category: "한식 밥 요리"
 scenarios:
   - 1인 요리

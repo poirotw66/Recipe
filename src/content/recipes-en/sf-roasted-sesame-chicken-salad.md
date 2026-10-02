@@ -9,6 +9,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: Medium
+calories: 410
+protein: 32
+fat: 22
+carbs: 21
 category: "Salads"
 scenarios:
   - Cooking for one

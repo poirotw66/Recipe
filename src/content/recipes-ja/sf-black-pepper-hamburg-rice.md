@@ -8,6 +8,10 @@ prepTime: 12
 cookTime: 15
 totalTime: 27
 difficulty: 普通
+calories: 710
+protein: 36
+fat: 29
+carbs: 76
 category: "ご飯とパスタ"
 scenarios:
 - 一人分の料理

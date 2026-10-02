@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 20
 totalTime: 40
 difficulty: 普通
+calories: 470
+protein: 22
+fat: 15
+carbs: 62
 category: "トッポッキ"
 scenarios:
 - 夜食

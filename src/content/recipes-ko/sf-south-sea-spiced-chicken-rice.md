@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 25
 totalTime: 40
 difficulty: 보통
+calories: 620
+protein: 36
+fat: 20
+carbs: 74
 category: "시즌 한정"
 scenarios:
   - 평일 간단 요리

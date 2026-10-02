@@ -7,6 +7,10 @@ prepTime: 10
 cookTime: 15
 totalTime: 25
 difficulty: 中等
+calories: 460
+protein: 39
+fat: 19
+carbs: 33
 category: "限定主餐"
 scenarios:
   - 一人料理

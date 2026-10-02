@@ -7,6 +7,10 @@ prepTime: 18
 cookTime: 18
 totalTime: 36
 difficulty: 中等
+calories: 620
+protein: 32
+fat: 24
+carbs: 69
 category: "飯麵"
 scenarios:
   - 便當菜

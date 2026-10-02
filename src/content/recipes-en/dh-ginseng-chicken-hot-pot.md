@@ -9,6 +9,10 @@ prepTime: 35
 cookTime: 100
 totalTime: 135
 difficulty: Medium
+calories: 440
+protein: 39
+fat: 19
+carbs: 28
 category: "Korean mains"
 scenarios:
 - High-protein meals

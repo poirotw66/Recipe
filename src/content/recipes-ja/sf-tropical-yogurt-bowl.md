@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 0
 totalTime: 10
 difficulty: かんたん
+calories: 310
+protein: 9
+fat: 6
+carbs: 55
 category: "軽食"
 scenarios:
   - 一人分の料理

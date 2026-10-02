@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 25
 totalTime: 45
 difficulty: 어려움
+calories: 520
+protein: 28
+fat: 24
+carbs: 48
 category: "셰프 추천"
 scenarios:
 - 고단백 요리

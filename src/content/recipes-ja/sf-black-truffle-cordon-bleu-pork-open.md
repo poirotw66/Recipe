@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 difficulty: 普通
+calories: 690
+protein: 38
+fat: 35
+carbs: 56
 category: "ブランチ"
 scenarios:
   - 一人分の料理

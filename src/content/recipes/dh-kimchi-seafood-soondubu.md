@@ -7,6 +7,10 @@ prepTime: 20
 cookTime: 20
 totalTime: 40
 difficulty: 中等
+calories: 260
+protein: 22
+fat: 13
+carbs: 14
 category: "韓式鍋物"
 scenarios:
   - 宵夜料理

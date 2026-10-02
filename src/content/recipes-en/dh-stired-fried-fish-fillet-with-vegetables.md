@@ -9,6 +9,10 @@ prepTime: 20
 cookTime: 15
 totalTime: 35
 difficulty: Medium
+calories: 350
+protein: 29
+fat: 15
+carbs: 25
 category: "fish main"
 scenarios:
 - Bento-friendly dishes

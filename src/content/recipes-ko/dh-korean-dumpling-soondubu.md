@@ -7,6 +7,10 @@ prepTime: 20
 cookTime: 25
 totalTime: 45
 difficulty: 보통
+calories: 330
+protein: 20
+fat: 16
+carbs: 26
 category: "한국식 전골"
 scenarios:
   - 야식

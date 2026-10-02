@@ -9,6 +9,10 @@ prepTime: 10
 cookTime: 40
 totalTime: 50
 difficulty: Medium
+calories: 490
+protein: 34
+fat: 31
+carbs: 19
 category: "Appetizers"
 scenarios:
   - Late-night meals

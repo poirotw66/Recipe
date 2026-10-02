@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 15
 totalTime: 25
 difficulty: Medium
+calories: 460
+protein: 39
+fat: 19
+carbs: 33
 category: "Linkou specials"
 scenarios:
   - Cooking for one

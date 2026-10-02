@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 10
 totalTime: 25
 difficulty: 보통
+calories: 420
+protein: 38
+fat: 24
+carbs: 13
 category: "애피타이저"
 scenarios:
   - 야식

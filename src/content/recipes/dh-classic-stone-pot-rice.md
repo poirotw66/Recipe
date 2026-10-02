@@ -7,6 +7,10 @@ prepTime: 20
 cookTime: 30
 totalTime: 50
 difficulty: 中等
+calories: 480
+protein: 16
+fat: 12
+carbs: 77
 category: "韓式米飯"
 scenarios:
   - 一人料理

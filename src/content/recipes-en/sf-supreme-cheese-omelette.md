@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 18
 totalTime: 38
 difficulty: Medium
+calories: 510
+protein: 28
+fat: 37
+carbs: 16
 category: "Brunch"
 scenarios:
   - Bento-friendly dishes

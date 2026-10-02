@@ -7,6 +7,10 @@ prepTime: 10
 cookTime: 40
 totalTime: 50
 difficulty: 中等
+calories: 490
+protein: 34
+fat: 31
+carbs: 19
 category: "開胃菜"
 scenarios:
   - 宵夜料理

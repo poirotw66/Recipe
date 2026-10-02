@@ -8,6 +8,10 @@ prepTime: 30
 cookTime: 15
 totalTime: 45
 difficulty: 普通
+calories: 480
+protein: 36
+fat: 22
+carbs: 34
 category: "鶏肉料理"
 scenarios:
 - 夜食

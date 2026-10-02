@@ -8,6 +8,10 @@ prepTime: 12
 cookTime: 15
 totalTime: 27
 difficulty: Easy
+calories: 490
+protein: 28
+fat: 16
+carbs: 58
 category: "Kids plates"
 scenarios:
   - Weeknight quick meals

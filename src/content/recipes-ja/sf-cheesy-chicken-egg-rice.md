@@ -8,6 +8,10 @@ prepTime: 12
 cookTime: 15
 totalTime: 27
 difficulty: かんたん
+calories: 490
+protein: 28
+fat: 16
+carbs: 58
 category: "キッズプレート"
 scenarios:
   - 平日の時短料理

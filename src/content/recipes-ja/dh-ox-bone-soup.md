@@ -8,6 +8,10 @@ prepTime: 30
 cookTime: 490
 totalTime: 520
 difficulty: むずかしい
+calories: 380
+protein: 32
+fat: 22
+carbs: 13
 category: スープ
 scenarios:
   - 高タンパク料理

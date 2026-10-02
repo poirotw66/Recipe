@@ -8,6 +8,10 @@ prepTime: 12
 cookTime: 15
 totalTime: 27
 difficulty: Medium
+calories: 710
+protein: 36
+fat: 29
+carbs: 76
 category: "Rice & pasta"
 scenarios:
 - Cooking for one

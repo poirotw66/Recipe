@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 14
 totalTime: 29
 difficulty: Easy
+calories: 460
+protein: 24
+fat: 18
+carbs: 51
 category: "Kids plates"
 scenarios:
   - Bento-friendly dishes

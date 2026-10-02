@@ -7,6 +7,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: 中等
+calories: 360
+protein: 33
+fat: 16
+carbs: 21
 category: "開胃菜"
 scenarios:
   - 高蛋白料理

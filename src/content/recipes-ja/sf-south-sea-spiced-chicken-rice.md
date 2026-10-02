@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 25
 totalTime: 40
 difficulty: 普通
+calories: 620
+protein: 36
+fat: 20
+carbs: 74
 category: "季節限定"
 scenarios:
   - 平日の時短料理

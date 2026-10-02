@@ -8,6 +8,10 @@ prepTime: 5
 cookTime: 5
 totalTime: 10
 difficulty: 普通
+calories: 490
+protein: 7
+fat: 25
+carbs: 59
 category: "デザート"
 scenarios:
   - 夜食

@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 15
 totalTime: 35
 difficulty: 普通
+calories: 350
+protein: 29
+fat: 15
+carbs: 25
 category: "魚料理"
 scenarios:
 - お弁当向けのおかず

@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: 보통
+calories: 340
+protein: 28
+fat: 14
+carbs: 25
 category: "해산물 요리"
 scenarios:
 - 야식

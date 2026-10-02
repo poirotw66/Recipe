@@ -7,6 +7,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: 中等
+calories: 580
+protein: 21
+fat: 22
+carbs: 74
 category: "飯麵"
 scenarios:
   - 無肉料理

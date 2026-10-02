@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: 보통
+calories: 480
+protein: 24
+fat: 26
+carbs: 38
 category: "오픈 샌드위치"
 scenarios:
 - 1인 요리

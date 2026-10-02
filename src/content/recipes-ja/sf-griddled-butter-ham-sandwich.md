@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 15
 totalTime: 33
 difficulty: 普通
+calories: 540
+protein: 24
+fat: 28
+carbs: 48
 category: "ハンバーガーとサンド"
 scenarios:
   - お弁当向けのおかず

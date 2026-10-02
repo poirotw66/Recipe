@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 15
 totalTime: 35
 difficulty: 普通
+calories: 340
+protein: 9
+fat: 15
+carbs: 42
 category: "チヂミ"
 scenarios:
 - 夜食

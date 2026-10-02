@@ -8,6 +8,10 @@ prepTime: 40
 cookTime: 25
 totalTime: 65
 difficulty: むずかしい
+calories: 540
+protein: 31
+fat: 29
+carbs: 38
 category: "フライドチキン"
 scenarios:
 - 夜食

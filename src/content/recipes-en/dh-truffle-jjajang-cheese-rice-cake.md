@@ -9,6 +9,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: Medium
+calories: 490
+protein: 18
+fat: 18
+carbs: 64
 category: "rice cake"
 scenarios:
 - Late-night meals

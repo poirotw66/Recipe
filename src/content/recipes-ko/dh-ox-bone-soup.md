@@ -8,6 +8,10 @@ prepTime: 30
 cookTime: 490
 totalTime: 520
 difficulty: 어려움
+calories: 380
+protein: 32
+fat: 22
+carbs: 13
 category: 국·탕
 scenarios:
   - 고단백 요리

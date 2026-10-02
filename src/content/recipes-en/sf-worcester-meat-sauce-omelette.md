@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 18
 totalTime: 38
 difficulty: Medium
+calories: 530
+protein: 29
+fat: 36
+carbs: 22
 category: "Brunch"
 scenarios:
   - Cooking for one

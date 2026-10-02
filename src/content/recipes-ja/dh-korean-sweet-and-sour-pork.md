@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 25
 totalTime: 45
 difficulty: むずかしい
+calories: 520
+protein: 28
+fat: 24
+carbs: 48
 category: "シェフおすすめ"
 scenarios:
 - 高タンパク料理

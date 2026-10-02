@@ -7,6 +7,10 @@ prepTime: 15
 cookTime: 14
 totalTime: 29
 difficulty: 簡單
+calories: 460
+protein: 24
+fat: 18
+carbs: 51
 category: "兒童餐"
 scenarios:
   - 便當菜

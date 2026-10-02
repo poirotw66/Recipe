@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 40
 totalTime: 60
 difficulty: Medium
+calories: 680
+protein: 56
+fat: 38
+carbs: 29
 category: "Main plates"
 scenarios:
   - High-protein meals

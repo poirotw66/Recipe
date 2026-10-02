@@ -8,6 +8,10 @@ prepTime: 35
 cookTime: 90
 totalTime: 125
 difficulty: 普通
+calories: 420
+protein: 38
+fat: 18
+carbs: 26
 category: "韓国主菜"
 scenarios:
 - 高タンパク料理

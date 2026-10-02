@@ -7,6 +7,10 @@ prepTime: 10
 cookTime: 15
 totalTime: 25
 difficulty: 進階
+calories: 310
+protein: 19
+fat: 22
+carbs: 9
 category: "蛋料理"
 scenarios:
 - 便當菜

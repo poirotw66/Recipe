@@ -7,6 +7,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: 中等
+calories: 490
+protein: 18
+fat: 18
+carbs: 64
 category: "炒年糕"
 scenarios:
 - 宵夜料理

@@ -7,6 +7,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: 進階
+calories: 450
+protein: 21
+fat: 19
+carbs: 49
 category: "煎餅"
 scenarios:
 - 宵夜料理

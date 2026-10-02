@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 40
 totalTime: 60
 difficulty: Medium
+calories: 540
+protein: 22
+fat: 16
+carbs: 77
 category: "Stone pot rice"
 scenarios:
 - Cooking for one

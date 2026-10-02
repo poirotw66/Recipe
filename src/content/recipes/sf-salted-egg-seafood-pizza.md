@@ -7,6 +7,10 @@ prepTime: 20
 cookTime: 18
 totalTime: 38
 difficulty: 中等
+calories: 620
+protein: 31
+fat: 26
+carbs: 65
 category: "限定主餐"
 scenarios:
   - 便當菜

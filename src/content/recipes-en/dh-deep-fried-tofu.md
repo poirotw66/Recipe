@@ -9,6 +9,10 @@ prepTime: 18
 cookTime: 16
 totalTime: 34
 difficulty: Medium
+calories: 310
+protein: 16
+fat: 21
+carbs: 14
 category: "Korean appetizers"
 scenarios:
   - Late-night meals

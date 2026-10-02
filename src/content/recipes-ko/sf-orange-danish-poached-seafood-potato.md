@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 40
 totalTime: 55
 difficulty: 보통
+calories: 610
+protein: 31
+fat: 31
+carbs: 52
 category: "브런치"
 scenarios:
   - 도시락 반찬

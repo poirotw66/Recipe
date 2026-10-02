@@ -7,6 +7,10 @@ prepTime: 20
 cookTime: 18
 totalTime: 38
 difficulty: 中等
+calories: 460
+protein: 22
+fat: 34
+carbs: 16
 category: "早午餐"
 scenarios:
   - 便當菜

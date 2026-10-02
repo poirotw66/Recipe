@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 40
 totalTime: 50
 difficulty: 쉬움
+calories: 390
+protein: 14
+fat: 18
+carbs: 43
 category: "가벼운 식사"
 scenarios:
   - 1인 요리

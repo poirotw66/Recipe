@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 27
 totalTime: 42
 difficulty: Medium
+calories: 520
+protein: 31
+fat: 22
+carbs: 49
 category: "Appetizers"
 scenarios:
   - Weeknight quick meals

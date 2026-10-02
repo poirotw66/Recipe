@@ -8,6 +8,10 @@ prepTime: 22
 cookTime: 22
 totalTime: 44
 difficulty: 보통
+calories: 580
+protein: 28
+fat: 24
+carbs: 63
 category: "한국식 메인"
 scenarios:
   - 야식

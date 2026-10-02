@@ -9,6 +9,10 @@ prepTime: 15
 cookTime: 25
 totalTime: 40
 difficulty: Medium
+calories: 510
+protein: 32
+fat: 26
+carbs: 37
 category: "Appetizers"
 scenarios:
   - High-protein meals

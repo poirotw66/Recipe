@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 28
 totalTime: 48
 difficulty: 보통
+calories: 450
+protein: 7
+fat: 26
+carbs: 47
 category: "디저트"
 scenarios:
   - 야식

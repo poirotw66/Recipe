@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: 普通
+calories: 340
+protein: 28
+fat: 14
+carbs: 25
 category: "魚介の主菜"
 scenarios:
 - 夜食

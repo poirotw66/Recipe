@@ -9,6 +9,10 @@ prepTime: 20
 cookTime: 20
 totalTime: 40
 difficulty: Medium
+calories: 370
+protein: 24
+fat: 18
+carbs: 28
 category: "Korean hot pot"
 scenarios:
   - High-protein meals

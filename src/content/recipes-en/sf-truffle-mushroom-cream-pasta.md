@@ -9,6 +9,10 @@ prepTime: 18
 cookTime: 18
 totalTime: 36
 difficulty: Medium
+calories: 630
+protein: 19
+fat: 29
+carbs: 73
 category: "Rice & pasta"
 scenarios:
   - Bento-friendly dishes

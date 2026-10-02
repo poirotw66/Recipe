@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 15
 totalTime: 25
 difficulty: 보통
+calories: 540
+protein: 17
+fat: 22
+carbs: 68
 category: "밥·파스타"
 scenarios:
   - 1인 요리

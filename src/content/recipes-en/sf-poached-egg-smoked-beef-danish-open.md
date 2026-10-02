@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 14
 totalTime: 32
 difficulty: Medium
+calories: 570
+protein: 32
+fat: 31
+carbs: 41
 category: "Open sandwiches"
 scenarios:
   - Bento-friendly dishes

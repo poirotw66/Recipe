@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: 보통
+calories: 490
+protein: 18
+fat: 18
+carbs: 64
 category: "떡볶이"
 scenarios:
 - 야식

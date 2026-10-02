@@ -8,6 +8,10 @@ prepTime: 12
 cookTime: 15
 totalTime: 27
 difficulty: 쉬움
+calories: 490
+protein: 28
+fat: 16
+carbs: 58
 category: "키즈 플레이트"
 scenarios:
   - 평일 간단 요리

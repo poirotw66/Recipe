@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: 보통
+calories: 410
+protein: 32
+fat: 22
+carbs: 21
 category: "샐러드"
 scenarios:
   - 1인 요리

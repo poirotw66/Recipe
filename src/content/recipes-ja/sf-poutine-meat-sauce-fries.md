@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 18
 totalTime: 36
 difficulty: 普通
+calories: 560
+protein: 18
+fat: 32
+carbs: 50
 category: "前菜"
 scenarios:
   - お弁当向けのおかず

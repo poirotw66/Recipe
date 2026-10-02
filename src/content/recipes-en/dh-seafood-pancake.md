@@ -9,6 +9,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: Advanced
+calories: 450
+protein: 21
+fat: 19
+carbs: 49
 category: "pancake"
 scenarios:
 - Late-night meals

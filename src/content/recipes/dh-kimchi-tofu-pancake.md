@@ -7,6 +7,10 @@ prepTime: 20
 cookTime: 18
 totalTime: 38
 difficulty: 中等
+calories: 360
+protein: 14
+fat: 18
+carbs: 35
 category: "韓式前菜"
 scenarios:
   - 宵夜料理

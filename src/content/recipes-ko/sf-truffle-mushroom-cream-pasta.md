@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 18
 totalTime: 36
 difficulty: 보통
+calories: 630
+protein: 19
+fat: 29
+carbs: 73
 category: "밥과 파스타"
 scenarios:
   - 도시락 반찬

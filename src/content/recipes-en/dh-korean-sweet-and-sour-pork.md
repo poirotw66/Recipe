@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 25
 totalTime: 45
 difficulty: Advanced
+calories: 520
+protein: 28
+fat: 24
+carbs: 48
 category: "Chef specials"
 scenarios:
 - High-protein meals

@@ -7,6 +7,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: 中等
+calories: 820
+protein: 50
+fat: 48
+carbs: 47
 category: "漢堡三明治"
 scenarios:
   - 一人料理

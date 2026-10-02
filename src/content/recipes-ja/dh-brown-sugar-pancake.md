@@ -8,6 +8,10 @@ prepTime: 30
 cookTime: 12
 totalTime: 42
 difficulty: かんたん
+calories: 360
+protein: 6
+fat: 12
+carbs: 57
 category: "デザート"
 scenarios:
   - 夜食

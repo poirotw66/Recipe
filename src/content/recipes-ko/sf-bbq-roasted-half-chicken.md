@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 40
 totalTime: 60
 difficulty: 보통
+calories: 680
+protein: 56
+fat: 38
+carbs: 29
 category: "메인 플레이트"
 scenarios:
   - 고단백 요리

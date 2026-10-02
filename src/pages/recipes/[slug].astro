@@ -90,6 +90,7 @@ const introTailLink = getRecipeIntroTailLink(
             <span class="chip chip-tool">{recipe.data.equipment[0] ?? recipe.data.category}</span>
             <span class="chip">{recipe.data.difficulty}</span>
             <span class="chip note">{recipe.data.servings} 人份</span>
+            {recipe.data.calories && <span class="chip note">{recipe.data.calories} kcal</span>}
           </div>
 
           <div class="chip-row recipe-detail-tags">

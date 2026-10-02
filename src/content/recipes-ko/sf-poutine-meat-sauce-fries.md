@@ -8,6 +8,10 @@ prepTime: 18
 cookTime: 18
 totalTime: 36
 difficulty: 보통
+calories: 560
+protein: 18
+fat: 32
+carbs: 50
 category: "애피타이저"
 scenarios:
   - 도시락 반찬

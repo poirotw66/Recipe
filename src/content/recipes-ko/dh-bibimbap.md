@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 40
 totalTime: 60
 difficulty: 보통
+calories: 540
+protein: 22
+fat: 16
+carbs: 77
 category: "돌솥밥"
 scenarios:
 - 1인 요리

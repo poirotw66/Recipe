@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 15
 totalTime: 25
 difficulty: 普通
+calories: 460
+protein: 39
+fat: 19
+carbs: 33
 category: "林口限定"
 scenarios:
   - 一人分の料理

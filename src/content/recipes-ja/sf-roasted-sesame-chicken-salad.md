@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: 普通
+calories: 410
+protein: 32
+fat: 22
+carbs: 21
 category: "サラダ"
 scenarios:
   - 一人分の料理

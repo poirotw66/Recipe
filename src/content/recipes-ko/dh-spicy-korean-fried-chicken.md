@@ -8,6 +8,10 @@ prepTime: 40
 cookTime: 25
 totalTime: 65
 difficulty: 어려움
+calories: 540
+protein: 31
+fat: 29
+carbs: 38
 category: "치킨"
 scenarios:
 - 야식

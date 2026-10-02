@@ -9,6 +9,10 @@ prepTime: 30
 cookTime: 15
 totalTime: 45
 difficulty: Medium
+calories: 480
+protein: 36
+fat: 22
+carbs: 34
 category: "chicken main"
 scenarios:
 - Late-night meals

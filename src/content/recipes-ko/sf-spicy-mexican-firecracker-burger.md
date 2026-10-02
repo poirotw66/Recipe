@@ -8,6 +8,10 @@ prepTime: 10
 cookTime: 15
 totalTime: 25
 difficulty: 보통
+calories: 780
+protein: 46
+fat: 44
+carbs: 50
 category: "버거·샌드위치"
 scenarios:
   - 1인 요리

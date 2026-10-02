@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 25
 totalTime: 40
 difficulty: Medium
+calories: 620
+protein: 36
+fat: 20
+carbs: 74
 category: "Seasonal specials"
 scenarios:
   - Weeknight quick meals

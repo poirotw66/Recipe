@@ -8,6 +8,10 @@ prepTime: 30
 cookTime: 55
 totalTime: 375
 difficulty: Medium
+calories: 410
+protein: 8
+fat: 27
+carbs: 34
 category: "Desserts"
 scenarios:
 - Cooking for one

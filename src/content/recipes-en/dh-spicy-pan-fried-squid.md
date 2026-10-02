@@ -9,6 +9,10 @@ prepTime: 15
 cookTime: 15
 totalTime: 30
 difficulty: Medium
+calories: 340
+protein: 28
+fat: 14
+carbs: 25
 category: "seafood main"
 scenarios:
 - Late-night meals

@@ -8,6 +8,10 @@ prepTime: 35
 cookTime: 20
 totalTime: 55
 difficulty: むずかしい
+calories: 580
+protein: 30
+fat: 34
+carbs: 38
 category: "韓国料理"
 scenarios:
   - 夜食

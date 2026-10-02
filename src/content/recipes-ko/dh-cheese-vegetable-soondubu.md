@@ -8,6 +8,10 @@ prepTime: 20
 cookTime: 20
 totalTime: 40
 difficulty: 보통
+calories: 290
+protein: 16
+fat: 19
+carbs: 14
 category: "한국 전골"
 scenarios:
   - 무고기 요리

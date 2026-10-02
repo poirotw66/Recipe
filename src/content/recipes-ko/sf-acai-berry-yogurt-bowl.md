@@ -8,6 +8,10 @@ prepTime: 15
 cookTime: 0
 totalTime: 15
 difficulty: 쉬움
+calories: 320
+protein: 9
+fat: 8
+carbs: 53
 category: "라이트 플레이트"
 scenarios:
 - 1인 요리

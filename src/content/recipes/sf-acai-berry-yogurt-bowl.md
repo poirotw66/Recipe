@@ -7,6 +7,10 @@ prepTime: 15
 cookTime: 0
 totalTime: 15
 difficulty: 簡單
+calories: 320
+protein: 9
+fat: 8
+carbs: 53
 category: "輕食沙拉"
 scenarios:
 - 一人料理

@@ -7,6 +7,10 @@ prepTime: 15
 cookTime: 20
 totalTime: 35
 difficulty: 中等
+calories: 560
+protein: 44
+fat: 20
+carbs: 51
 category: "限定主餐"
 scenarios:
   - 平日快速料理
