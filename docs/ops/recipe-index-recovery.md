@@ -27,7 +27,8 @@
 - `RESTAURANT_AUDIT_REVIEWED_SLUGS` 中的 25 篇食譜，zh-TW、en、ja、ko 四語頁均恢復 `indexable`；noindex 已不再作為真人試作前的阻擋條件。
 - zh-TW 與 en 頁依一般 `other` sitemap 分組提交；ja／ko 頁除原 15 篇 spec-018 pilot 外仍不主動列入 sitemap，沿用既有多語過渡政策。它們沒有 noindex，仍可經由內部連結與 hreflang 被發現。
 - 食譜尚未真人試作的事實、未驗證份量／時間／口感及相關 Warning 必須保留；解除索引限制不等於 Google 會收錄。
-- 程式變更部署後，先以 HTTP 抽查四語 robots meta、canonical 與 sitemap，再用 Search Console 重新檢查代表性網址；索引報表可能延遲更新。
+- 2026-10-02 已部署 Cloudflare Worker version `43616767-e197-4358-addc-f67b5c0f5451`；正式站 100 個語系 URL 均回 200、無 robots `noindex`、canonical 指向自身；繁中與英文 sitemap 均包含 25 個 slug。
+- Search Console 已對繁中 BBQ 半雞執行即時測試並要求建立索引，頁面可索引且已進入優先檢索佇列。其餘網址的舊索引資料仍待 Google 更新；不要把單頁即時測試當成全批已索引。
 
 ## 變更門檻
 

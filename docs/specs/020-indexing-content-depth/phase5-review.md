@@ -203,5 +203,6 @@ site:recipe.bloss0m.com/ingredients/tofu/
 ## 2026-10-02 索引政策更新
 
 - 站主決定跳過真人試作，解除原 Critical 25 個 slug × zh-TW／en／ja／ko 共 100 個頁面的 `noindex`；這是政策變更，不代表試作完成或 Google 已收錄。
-- 程式規則已移除該批次的 noindex override。部署後需 HTTP 抽查四語 robots meta、canonical 與 sitemap，再對代表性頁面執行 GSC 即時網址測試；報表資料可能延遲。
+- commit `b1f9a16` 已於 2026-10-02 部署至 Cloudflare Worker，Version ID `43616767-e197-4358-addc-f67b5c0f5451`。正式站逐一檢查 100 個語系網址，均回 HTTP 200、無 robots `noindex`，且 canonical 指向自身；25 個繁中與 25 個英文網址均在相應 sitemap。這是 HTTP / sitemap 驗證，不代表 Google 已重新檢索全部頁面。
+- GSC 於 2026-10-02 21:29 對 `/recipes/sf-bbq-roasted-half-chicken/` 執行即時測試，結果為「Google 可為網址建立索引」；Breadcrumb 與 Recipe 各偵測到 1 個有效項目，Recipe 有非重大問題。已為此繁中網址提出索引要求，GSC 確認加入優先檢索佇列。該 URL 的舊索引記錄仍是 9 月 4 日 noindex 狀態，其餘網址的 GSC 即時狀態尚未逐頁確認。
 - 繁中與英文頁面依既有 sitemap 分組列入 sitemap；日文與韓文頁除原 15 篇 pilot 外仍依既有政策不主動提交 sitemap。所有 25 篇食譜的未試作 Warning 繼續保留。

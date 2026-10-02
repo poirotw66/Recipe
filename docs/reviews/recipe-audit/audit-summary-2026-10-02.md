@@ -70,6 +70,6 @@
 
 ## 下一步
 
-原 Critical 清單 25 篇均已完成文字層複核，其中有操作缺口者依可查證來源修正，巴西莓優格碗則保留既有稿件。站主已決定不以真人試作作為解除 noindex 的前置條件；內容 Warning 與尚未驗證欄位仍照實保留。程式上線後需確認 100 個語系頁已移除 robots noindex，並檢查 sitemap 與 Search Console 的最新狀態；若提交重新檢索，Google 是否收錄仍由 Google 判定。若要擴大到其他未索引頁面，先取得最新 Search Console「網頁」完整匯出作為排序依據；機械預檢或本文修訂本身不能代替 Google 收錄結果。
+原 Critical 清單 25 篇均已完成文字層複核，其中有操作缺口者依可查證來源修正，巴西莓優格碗則保留既有稿件。站主已決定不以真人試作作為解除 noindex 的前置條件；內容 Warning 與尚未驗證欄位仍照實保留。commit `b1f9a16` 已部署；正式站檢查 100 個語系頁均為 HTTP 200、無 robots noindex、自我 canonical，且繁中與英文 sitemap 包含這 25 篇。Search Console 即時測試 BBQ 半雞繁中頁可索引，並已將該頁加入優先檢索佇列；其餘頁面未逐頁提交，Google 是否收錄仍由 Google 判定。若要擴大到其他未索引頁面，先取得最新 Search Console「網頁」完整匯出作為排序依據；機械預檢或本文修訂本身不能代替 Google 收錄結果。
 
 苦瓜家常技法：[The Woks of Life：Bitter Melon with Eggs](https://thewoksoflife.com/bitter-melon-with-eggs/)；含蛋料理溫度與多點測量：[USDA FSIS：Egg safety](https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs)、[Food Thermometers](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers)。
