@@ -46,6 +46,9 @@ faqs:
     answer: No. Only chicken labeled fully cooked and ready to eat can be served
       directly. Cook raw or partially cooked products using the complete package
       instructions.
+  - question: "How do I cook cauliflower rice so it has a fluffy, dry rice texture?"
+    answer: "Sauté cauliflower rice in a dry skillet over medium heat for 3-4 minutes to steam off moisture. Fold in cooked quinoa and season for separate, chewy grains."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

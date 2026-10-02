@@ -42,6 +42,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I stir-fry garlic water lily stems with restaurant-style crunch?"
+  answer: "Cut stems into 5 cm lengths. Sauté plenty of minced garlic in sizzling oil, toss in stems with a splash of rice wine, and stir-fry over high flame for 25 seconds."
+
 relatedIngredients:
 - 水蓮
 - 蒜頭

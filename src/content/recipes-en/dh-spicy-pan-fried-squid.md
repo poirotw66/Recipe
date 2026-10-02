@@ -50,6 +50,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How do I keep squid tender and springy without releasing water in the pan?"
+  answer: "Flash-blanch squid rings in boiling water for 10 seconds, then shock in cold water and pat dry. Stir-fry over smoking-high heat with spicy paste for just 30 seconds."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

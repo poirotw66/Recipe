@@ -107,4 +107,7 @@ seasonings:
 faqs:
   - question: "When should I poach the eggs, and how do I keep extra water off the rolls?"
     answer: "About 3 minutes is a starting point: water temperature and the number of eggs affect timing. Lift the egg when the white is set and the yolk still flows, drain it, then place it on the warm beef. Reduce the mushrooms first. Cook ordinary eggs until the yolk is firm, or use pasteurized eggs for a runny yolk."
+  - question: "How do I whisk hollandaise sauce smoothly without breaking the emulsion?"
+    answer: "Whisk egg yolks over gentle steam (around 60°C/140°F) until pale and thickened. Stream in warm clarified butter drop by drop while whisking constantly, then add lemon."
+
 ---

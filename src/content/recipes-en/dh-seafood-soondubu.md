@@ -52,6 +52,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How do I make aromatic red broth for seafood soondubu without fishiness?"
+  answer: "Bloom gochugaru in sesame oil with minced garlic until aromatic, then pour in anchovy-kelp stock. Simmer soft tofu for 3 minutes, adding clams and shrimp at the very end until just opened."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

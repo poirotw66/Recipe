@@ -66,6 +66,8 @@ substitutions:
 faqs:
 - question: 沒有檸檬汁可以嗎？
   answer: 可以，改加少許白醋或省略，但香氣會稍微單薄。
+- question: "蒜香清炒鮭魚麵如何炒出香氣且油而不膩？"
+  answer: "蒜片先以初榨橄欖油小火慢煸至金黃撈起裝飾；利用香濃蒜油煎香鮭魚肉塊，加煮麵水大火翻炒乳化，麵條吸飽海味蒜香且口感清爽。"
 
 relatedIngredients:
 - 義大利麵

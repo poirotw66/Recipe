@@ -31,6 +31,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I keep cod fillets intact without breaking while frying?"
+  answer: "Thoroughly pat thawed cod fillets dry with paper towels and coat with a light layer of flour or sweet potato starch. Do not move the fish during the first 2 minutes in the pan."
+
 relatedIngredients:
 - 雞蛋
 - 番茄

@@ -55,6 +55,9 @@ faqs:
   answer: Yes, but the listed 30 g is the fresh weight. Rehydrate dried mushrooms
     in the refrigerator according to their package, then weigh them. Allow
     additional soaking time.
+- question: "How do I keep Korean glass noodles (japchae) springy and un-clumped?"
+  answer: "Boil Korean sweet potato noodles for 6-7 minutes, rinse in cold water, and drain well. Toss immediately with toasted sesame oil and soy sauce before combining with sautéed toppings."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-29"

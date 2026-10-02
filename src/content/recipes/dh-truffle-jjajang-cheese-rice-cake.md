@@ -38,6 +38,9 @@ customAdditions:
 faqs:
 - question: 可以先備料嗎？
   answer: 可先量好調味料並切配食材；易腐食材請及時冷藏，接近上桌再烹調，口感較佳。
+- question: "煮韓式炒年糕時如何避免年糕黏底或過硬？"
+  answer: "年糕先泡溫水 10 分鐘軟化。黑松露炸醬煮滾後放入年糕並保持中小火，用耐熱刮刀持續沿鍋底畫圈攪拌，煨煮至軟糯透心後再撒起司。"
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

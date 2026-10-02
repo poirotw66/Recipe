@@ -69,6 +69,9 @@ faqs:
   answer: Use cooled or chilled rice, high heat, and avoid too much sauce at once.
 - question: "Can I prepare this ahead of time?"
   answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
+- question: "How do I prevent mixed fridge-clearout veggies from making the fried rice soggy?"
+  answer: "Dice watery vegetables small and quick-sear them first to evaporate excess moisture. Toss chilled rice with beaten egg before hitting the hot pan to ensure fluffy, separated grains."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-07-30"

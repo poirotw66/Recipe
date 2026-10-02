@@ -62,4 +62,7 @@ seasonings: []
 faqs:
   - question: "Does the sous-vide chicken need to be cooked again?"
     answer: "This recipe uses chicken labeled fully cooked and ready to eat. Reheat it only if the package recommends it, following those directions; do not add chicken whose cooked status is unknown."
+  - question: "How do I give sous-vide chicken breast appetizing aroma before slicing?"
+    answer: "Pat the sous-vide chicken dry and sear in hot oil for 30 seconds per side until lightly browned. Rest 1 minute before slicing to keep interior succulent."
+
 ---

@@ -73,6 +73,8 @@ substitutions:
 faqs:
 - question: Can I use store-bought pesto?
   answer: Yes—about 2 Tbsp replaces the homemade paste.
+- question: "How should chicken breast be sliced and cooked for pesto pasta?"
+  answer: "Slice chicken breast diagonally into 0.8 cm cutlets and season with olive oil, salt, and black pepper. Sear over medium heat for 3 minutes until tender and juicy."
 
 relatedIngredients:
 - 義大利麵

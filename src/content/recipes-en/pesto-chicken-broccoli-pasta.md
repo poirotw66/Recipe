@@ -74,6 +74,8 @@ substitutions:
 faqs:
 - question: Must broccoli be blanched?
   answer: Optional, but blanching shortens the final stir time.
+- question: "How do I stop basil pesto from darkening or turning bitter when heated?"
+  answer: "Remove the pan from heat before adding pesto. The residual heat of freshly drained pasta and vegetables is plenty to warm the sauce while keeping it bright green and fragrant."
 
 relatedIngredients:
 - 義大利麵

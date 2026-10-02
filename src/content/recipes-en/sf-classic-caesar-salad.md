@@ -72,4 +72,7 @@ seasonings:
 faqs:
   - question: "What can I prepare before assembling the salad?"
     answer: "Bake and cool the croutons and cook and drain the bacon ahead. Keep them separate; dress the greens just before serving."
+  - question: "How do I make golden, crunchy croutons that don't burn?"
+    answer: "Toss bread cubes with olive oil, garlic powder, and parmesan. Toast in a dry skillet over low heat for 3-4 minutes until golden and crisp, cooling before tossing."
+
 ---

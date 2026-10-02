@@ -5,7 +5,8 @@ import RecipeCard from "../../components/RecipeCard.astro";
 import TopicHubInlineLinks from "../../components/TopicHubInlineLinks.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
-import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildThingJsonLd } from "../../lib/seo";
+import { buildBreadcrumbJsonLd, buildCollectionPageJsonLd, buildFaqJsonLd, buildThingJsonLd } from "../../lib/seo";
+import { getTopicHubFaqs } from "../../lib/topic-hub-faqs";
 import {
   filterIngredientsWithRecipes,
   getIngredientBySlug,
@@ -39,12 +40,15 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: hub.name, path: "/quick-meals/" }
 ]);
 const hubJsonLd = buildThingJsonLd(hub, "/quick-meals/");
+const topicHubFaqs = getTopicHubFaqs("quick-meals", "zh-TW");
+const faqJsonLd = topicHubFaqs.length > 0 ? buildFaqJsonLd(topicHubFaqs) : null;
 ---
 
 <BaseLayout title={hub.seoTitle} description={hub.seoDescription} canonicalPath="/quick-meals">
   <JsonLd data={collectionJsonLd} />
   <JsonLd data={breadcrumbJsonLd} />
   <JsonLd data={hubJsonLd} />
+  {faqJsonLd && <JsonLd data={faqJsonLd} />}
   <section class="section">
     <div class="container">
       <nav class="breadcrumb" aria-label="Breadcrumb">
@@ -99,6 +103,25 @@ const hubJsonLd = buildThingJsonLd(hub, "/quick-meals/");
             </section>
           )}
         </>
+      )}
+
+      {topicHubFaqs.length > 0 && (
+        <section class="section section-compact">
+          <div class="article">
+            <p class="eyebrow">常見問題</p>
+            <h2>{hub.name} 挑選、料理與搭配常見問答</h2>
+            <div class="faq-list">
+              {topicHubFaqs.map((faq) => (
+                <article class="card">
+                  <div class="card-body">
+                    <h3>{faq.question}</h3>
+                    <p>{faq.answer}</p>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </div>
+        </section>
       )}
 
       <section class="section section-compact">

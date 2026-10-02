@@ -41,6 +41,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I prevent mushrooms from releasing too much water into the water lily stems?"
+  answer: "Dry-sauté mushrooms first until moisture evaporates and edges brown. Add oil, garlic, and water lily stems, flash-frying over high heat for 25 seconds."
+
 relatedIngredients:
 - 水蓮
 - 菇類

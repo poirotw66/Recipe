@@ -71,4 +71,7 @@ seasonings:
 faqs:
   - question: "How can I keep the poached egg from wetting the Danish pastry?"
     answer: "Toast and oil the cut side first, layer the smoked beef, and poach the egg last. About 3 minutes is a guide: keep the water at a gentle simmer, then lift and drain the egg when the white is set and the yolk reaches the desired doneness. Cook ordinary eggs until the yolk is firm, or use pasteurized eggs for a runny yolk."
+  - question: "How do I poach an egg into a neat oval shape without trailing whites?"
+    answer: "Add a splash of vinegar to barely simmering water and swirl into a whirlpool. Slide the cracked egg into the vortex center and poach gently for 3 minutes."
+
 ---

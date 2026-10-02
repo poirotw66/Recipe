@@ -62,6 +62,9 @@ storage: Refrigerate up to 2 days; microwave about 1 minute with a damp paper to
 faqs:
   - question: "Can I use chicken thigh?"
     answer: "Yes—it stays juicier but carries a bit more fat in the bento."
+  - question: "How do I keep chicken breast tender when reheated in a bento?"
+    answer: "Marinate chicken with grated ginger juice, a splash of cooking wine, and a touch of egg white. When reheating in a lunchbox, sprinkle a few drops of water before microwaving."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-30"

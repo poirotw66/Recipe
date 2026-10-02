@@ -34,6 +34,9 @@ customAdditions: []
 faqs:
   - question: 可以做成不辣的版本嗎？
     answer: 可以，省略辣椒粉與墨西哥辣椒；肉餅仍需煎至中心 71°C。
+  - question: "墨西哥辣味牛肉堡如何調和辛辣感與濃郁肉汁？"
+    answer: "牛肉餅中加入少許孜然粉與黑胡椒，煎熟後放上墨西哥辣椒片（Jalapeño）與辣味傑克起司；底層抹上酪梨醬或酸奶醬，解辣提味極順口。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

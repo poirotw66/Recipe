@@ -67,6 +67,8 @@ storage: Best fresh; shrimp texture drops overnight.
 faqs:
 - question: Can I use chicken instead of shrimp?
   answer: Yes—cut into strips and cook 2 minutes longer.
+- question: "How do I cook shrimp and tofu together without mashing the tofu?"
+  answer: "Sear firm tofu cubes until crisp on the outside, and quick-sear devined shrimp separately. Combine gently with a light dashi glaze right before assembling."
 
 featured: false
 publishedAt: '2026-06-03'

@@ -41,6 +41,9 @@ customAdditions:
 faqs:
   - question: 高麗菜葉較硬時怎麼包？
     answer: 高麗菜葉若較硬，可用熱水快速燙軟後瀝乾，包起來較不易裂。
+  - question: "生菜包肉的五花肉片如何煎出焦香且去油膩？"
+    answer: "厚切五花肉片不放油直接下熱鍋中火乾煎，逼出多餘油脂並用紙巾吸除；煎至兩面微焦脆金黃，搭配生蒜片、韓式包飯醬與瀝乾生菜葉一同包食，肥而不膩。"
+
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: '2026-09-29'

@@ -39,6 +39,9 @@ customAdditions:
 faqs:
 - question: 可以先備料嗎？
   answer: 可先量好調味料並切配食材；易腐食材請及時冷藏，接近上桌再烹調，口感較佳。
+- question: "辣炒中卷如何炒得鮮脆彈牙不出水？"
+  answer: "中卷洗淨切圈後務必滾水快速汆燙 10 秒即撈出冰鎮並吸乾；大火熱鍋爆香醬料後下中卷快炒 30 秒即起鍋，肉質極致爽脆鮮甜。"
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

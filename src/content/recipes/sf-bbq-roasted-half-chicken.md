@@ -38,6 +38,9 @@ customAdditions: []
 faqs:
   - question: 可以使用冷凍半雞直接烤嗎？
     answer: 不建議套用本食譜時間。先在冷藏室完全解凍，再依步驟烹調，並確認雞胸與雞腿中心都達 74°C。
+  - question: "烤半雞如何做到外皮焦香酥脆、雞胸肉軟嫩多汁？"
+    answer: "烤前以鹽水浸泡（Brining）2 小時鎖水，雞皮表面徹底擦乾並抹上橄欖油；先以 180°C 烤熟內部，最後 5 分鐘刷上 BBQ 醬轉 210°C 快速上色焦化。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

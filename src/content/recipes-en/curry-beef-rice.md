@@ -73,6 +73,9 @@ substitutions:
 faqs:
   - question: "Will curry powder be very spicy?"
     answer: "Brands vary—start with half and adjust."
+  - question: "How do I prevent beef slices from getting tough in Japanese curry?"
+    answer: "Flash-sear beef slices until partially cooked and remove. Once vegetables are fork-tender and curry roux is thickened, return beef for just 2 minutes to warm through tenderly."
+
 relatedIngredients:
 - 牛肉
 - 洋蔥

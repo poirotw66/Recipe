@@ -94,4 +94,7 @@ seasonings:
 faqs:
   - question: "When should I add the Worcestershire meat sauce so the omelette folds cleanly?"
     answer: "Reduce the fully cooked sauce slightly and keep it warm first. When the eggs are partly set, place the sauce and 40 g mixed cheese down the center, then fold. If free liquid remains in the sauce, reduce it further before filling. Cover over low heat for 30 seconds and check that the fold is cooked through."
+  - question: "How do I simmer Worcestershire meat sauce for a rich, tangy topping?"
+    answer: "Brown minced meat with onions, then simmer with Worcestershire sauce, tomato puree, and a splash of red wine for 5 minutes into a glossy, tangy ragu."
+
 ---

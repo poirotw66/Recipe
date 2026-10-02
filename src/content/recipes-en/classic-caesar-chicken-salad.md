@@ -31,6 +31,9 @@ substitutions:
 faqs:
   - question: "Can I dress the lettuce ahead of time?"
     answer: "Dress it just before serving. Dry the lettuce thoroughly, toss it with about two-thirds of the dressing, and serve the rest on the side to keep the leaves crisp."
+  - question: "How do I cook juicy, tender chicken breast for Caesar salad?"
+    answer: "Season chicken with olive oil, salt, and Italian herbs. Pan-sear for 3 minutes per side until golden, then rest 5 minutes before slicing to lock in flavorful juices."
+
 relatedIngredients:
 - 雞胸肉
 - 雞蛋

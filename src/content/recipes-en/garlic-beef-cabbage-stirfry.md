@@ -61,6 +61,9 @@ substitutions:
 faqs:
   - question: "How do I keep the cabbage crisp?"
     answer: "Set the beef aside. Stir-fry the cabbage over high heat until just softened at the edges, then return the beef and toss for about 1 minute."
+  - question: "How do I get authentic wok hei in this beef and cabbage stir-fry?"
+    answer: "Tear cabbage by hand and ensure it is dry. Get the skillet smoking hot with garlic oil, blister the cabbage for 40 seconds, then toss with beef and sauce for 15 seconds."
+
 relatedIngredients:
 - 牛肉
 - 高麗菜

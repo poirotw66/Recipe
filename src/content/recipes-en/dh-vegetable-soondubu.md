@@ -55,6 +55,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How do I make a flavorful, deeply savory broth for vegetable soondubu without meat?"
+  answer: "Sauté dried shiitake mushrooms and kelp in sesame oil, then simmer with soybean sprouts and onions for 10 minutes to create an umami-packed vegetarian dashi base."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

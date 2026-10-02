@@ -49,6 +49,9 @@ faqs:
   - question: Can I use ready-cooked chicken?
     answer: Yes. Store or reheat it according to its package directions, then slice
       it. If reheating, bring the center to 74°C / 165°F.
+  - question: "How do I make a well-balanced roasted sesame salad dressing?"
+    answer: "Whisk 2 tbsp roasted white sesame paste with 1 tbsp soy sauce, 1 tbsp mirin, 1 tsp rice vinegar, and a few drops of sesame oil for rich, nutty dressing."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

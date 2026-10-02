@@ -28,6 +28,9 @@ substitutions:
 faqs:
 - question: "How can I keep the Caesar dressing from separating?"
   answer: "Mix the yolk, garlic, lemon juice, and cheese first, then whisk in the olive oil gradually. If it is too thick, add lemon juice as directed."
+- question: "Which salad greens complement smoked salmon best?"
+  answer: "Crisp romaine hearts provide refreshing crunch, while a handful of peppery arugula adds contrasting bite that cuts through rich smoked salmon oil."
+
 relatedIngredients:
 - 鮭魚
 - 雞蛋

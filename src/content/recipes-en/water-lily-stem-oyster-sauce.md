@@ -39,6 +39,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I coat water lily stems evenly with oyster sauce without making it overly salty?"
+  answer: "Thin oyster sauce with a tablespoon of water and cooking wine before cooking. Pour over flash-fried stems during the final 15 seconds for a glossy, balanced glaze."
+
 relatedIngredients:
 - 水蓮
 - 蒜頭

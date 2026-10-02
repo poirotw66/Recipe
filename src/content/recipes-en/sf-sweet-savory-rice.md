@@ -49,6 +49,9 @@ faqs:
     answer: Yes. Use rice that was cooled quickly, refrigerated within 1 hour,
       and stored for no more than 24 hours. Break it up before adding it and
       heat the whole dish until steaming. Check the pork with a thermometer.
+  - question: "How do I balance sweet dried apricot with savory pork in this rice bowl?"
+    answer: "Soak diced dried apricots in white wine or warm water until plump. Sauté with browned pork and rice, seasoning with soy sauce for savory-sweet balance."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

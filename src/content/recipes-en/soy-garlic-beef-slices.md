@@ -60,6 +60,9 @@ substitutions:
 faqs:
 - question: "Why use the garlic sauce in two additions?"
   answer: "Use half to season the beef, then simmer the rest in the pan until slightly thick before returning the beef to coat it."
+- question: "How do I stir-fry soy garlic beef without scorching the garlic?"
+  answer: "Sauté minced garlic gently over medium-low heat until fragrant, not brown. Crank heat, add beef slices, and drizzle pre-mixed sauce around rim for instant wok aroma."
+
 relatedIngredients:
 - 牛肉
 - 蒜頭

@@ -39,6 +39,9 @@ customAdditions:
 faqs:
 - question: 可以先備料嗎？
   answer: 可先量好調味料並切配食材；易腐食材請及時冷藏，接近上桌再烹調，口感較佳。
+- question: "鮮蔬煎餅如何煎出外皮像餅乾一樣酥脆？"
+  answer: "粉漿加入少許冰水或氣泡水調拌，蔬菜絲比例高於粉漿（蔬菜裹薄漿即可）；油溫需夠高，下鍋後薄平鋪開，煎至邊緣金黃再翻面壓平乾煎。"
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

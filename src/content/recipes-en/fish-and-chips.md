@@ -29,6 +29,9 @@ substitutions:
 faqs:
   - question: "Why are the chips fried twice?"
     answer: "The first, lower-temperature fry cooks the centers. After draining, the hotter second fry browns and crisps the outside. Rest each batch on a rack without stacking."
+  - question: "How does beer batter produce that airy, crisp British fish crust?"
+    answer: "Use ice-cold beer and stir minimally to avoid gluten development. Drop battered fish into 180°C (350°F) oil so bubbles expand rapidly into a featherlight, non-greasy crust."
+
 relatedIngredients:
 - 雞蛋
 customAdditions: []

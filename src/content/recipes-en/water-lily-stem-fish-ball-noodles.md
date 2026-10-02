@@ -40,6 +40,9 @@ substitutions:
 faqs:
 - question: "How do I keep the noodles and water lily stems from getting soft?"
   answer: "Cook the noodles only for their package time until springy, add the water lily stems for the final minute, then turn off the heat and add scallions."
+- question: "What is the best assembly sequence for water lily fish ball noodle soup?"
+  answer: "Simmer fish balls in broth until floating. Cook noodles separately and place in bowls. Blanch water lily stems in hot broth for 15 seconds, then ladle over noodles."
+
 relatedIngredients:
 - 水蓮
 - 貢丸

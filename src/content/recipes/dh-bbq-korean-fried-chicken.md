@@ -43,6 +43,9 @@ customAdditions:
 faqs:
   - question: 雞肉要加熱到什麼程度？
     answer: 用食物溫度計確認最厚雞塊中心達 74°C；未達時繼續炸並再次測量。
+  - question: "韓式 BBQ 甜辣醬汁如何熬煮才能黏稠光亮包覆炸雞？"
+    answer: "將韓式辣醬、番茄醬、蜂蜜、少許醬油與蒜泥以小火慢熬 2 分鐘至濃稠起泡；趁熱快速將雙炸酥脆的炸雞放入鍋中翻裹，醬汁均勻吸附且表皮依然酥脆。"
+
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: '2026-09-29'

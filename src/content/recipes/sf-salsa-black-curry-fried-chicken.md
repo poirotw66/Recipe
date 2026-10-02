@@ -33,6 +33,9 @@ customAdditions: []
 faqs:
   - question: 可以用雞胸肉嗎？
     answer: 可以，切成相近大小並留意較瘦的雞胸容易乾；仍須確認最大塊中心達 74°C。
+  - question: "黑咖哩炸雞搭配莎莎醬，如何保持炸雞皮脆度？"
+    answer: "番茄莎莎醬切好後先濾掉多餘番茄汁水；炸雞出鍋後將莎莎醬單獨盛在沾碟或點綴在雞塊頂端，避免大面積鋪蓋導致炸粉回軟。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

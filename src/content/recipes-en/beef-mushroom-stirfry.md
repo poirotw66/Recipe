@@ -59,6 +59,9 @@ substitutions:
 faqs:
   - question: "How do I keep the mushrooms from turning watery?"
     answer: "Cook the mushrooms over medium heat until they release moisture, then continue for 2–3 minutes until the pan dries and they smell lightly toasted. Set them aside before cooking the beef."
+  - question: "Which cut of beef works best for this mushroom stir-fry?"
+    answer: "Flank steak, sirloin, or thinly sliced tenderloin are ideal; their balanced marbling stays tender and sears quickly over high heat."
+
 relatedIngredients:
 - Beef
 - Mushrooms

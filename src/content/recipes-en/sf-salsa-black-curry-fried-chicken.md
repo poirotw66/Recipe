@@ -46,6 +46,9 @@ faqs:
   - question: Can I use chicken breast?
     answer: Yes. Cut evenly and watch it closely because lean breast can dry out;
       the largest piece must still reach 74°C / 165°F.
+  - question: "How do I serve fresh salsa with black curry fried chicken without softening the crust?"
+    answer: "Drain excess liquid from diced tomato salsa before serving. Place salsa on the side as a condiment or spoon a small dollop on top right at the table."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

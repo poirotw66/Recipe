@@ -52,4 +52,7 @@ faqs:
       You can cut the brownies ahead. Before serving, warm them at 320°F (160°C) for 4–5
       minutes until the centers are warm, rest for 1 minute, then add the ice cream and
       chocolate sauce.
+  - question: "What is the best way to reheat brownies before topping with ice cream?"
+    answer: "Warm brownie squares in a 160°C (320°F) oven for 3 minutes or microwave for 15 seconds until warm and fudgy, then crown with cold vanilla ice cream immediately."
+
 ---

@@ -31,6 +31,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I infuse seafood essence into spicy tomato pasta sauce?"
+  answer: "Steam clams and shrimp with white wine first and set aside. Simmer canned peeled tomatoes and chili in the reserved seafood juices before tossing with pasta."
+
 relatedIngredients:
 - 義大利麵
 - 蝦仁

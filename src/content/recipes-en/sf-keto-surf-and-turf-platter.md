@@ -69,4 +69,7 @@ seasonings:
 faqs:
   - question: Can I prep the surf-and-turf components ahead?
     answer: Wash, dry, and refrigerate the greens ahead. Store the sous-vide beef as directed on its package; cook the fish and finish the cheese-topped mushrooms close to serving, then plate them over the greens.
+  - question: "How do I make a zero-sugar keto dressing for this surf and turf plate?"
+    answer: "Whisk unsweetened full-fat Greek yogurt, extra virgin olive oil, fresh lemon juice, Dijon mustard, and sea salt for a rich, tangy keto-friendly dressing."
+
 ---

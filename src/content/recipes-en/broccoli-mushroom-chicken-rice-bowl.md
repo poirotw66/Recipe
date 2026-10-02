@@ -62,6 +62,9 @@ substitutions:
 faqs:
   - question: "Can I skip mushrooms?"
     answer: "Yes—use more broccoli instead."
+  - question: "What is the ideal sauce ratio for this chicken and broccoli rice bowl?"
+    answer: "Combine soy sauce, mirin, and dashi or water in a 2:1:2 ratio. Simmer the chicken and vegetables in the sauce, leaving enough liquid to ladle over steamed rice."
+
 relatedIngredients:
 - 雞胸肉
 - 青花菜

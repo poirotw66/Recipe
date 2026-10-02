@@ -42,6 +42,9 @@ customAdditions:
 faqs:
 - question: 可以先備料嗎？
   answer: 可先量好調味料並切配食材；易腐食材請及時冷藏，接近上桌再烹調，口感較佳。
+- question: "鮮蚵下鍋煮豆腐煲如何保持飽滿不縮水變硬？"
+  answer: "鮮蚵洗淨後瀝乾水分，在豆腐煲湯頭完全調好煮滾、豆腐入味後的最後 45 秒下鍋，微滾即關火利用砂鍋蓄熱燜熟，鮮蚵飽滿爆漿鮮甜。"
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

@@ -42,6 +42,9 @@ faqs:
   - question: Can I make it mild?
     answer: Yes. Leave out the chili powder and jalapeño; the patty still needs to
       reach 71°C / 160°F.
+  - question: "How do I balance fiery jalapeno heat with rich beef in this burger?"
+    answer: "Season the patty with cumin and black pepper, topping with jalapenos and pepper jack cheese. Spread guacamole or sour cream on the bun to mellow the spice."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

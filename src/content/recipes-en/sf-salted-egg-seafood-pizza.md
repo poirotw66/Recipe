@@ -70,4 +70,7 @@ seasonings:
 faqs:
   - question: "The recipe sears seafood to about 70% first; how do I know it is fully cooked after baking?"
     answer: "Treat 70% as this recipe’s intermediate sear cue, not the final safety check. After baking, use a food thermometer to confirm the thickest seafood piece reaches 145°F (63°C). If it has not, continue baking and check again."
+  - question: "How do I prevent the pizza base from getting soggy under seafood toppings?"
+    answer: "Preheat baking sheet in oven at 220°C (430°F). Pat seafood completely dry before arranging on the crust with cheese so hot metal crisps bottom immediately."
+
 ---

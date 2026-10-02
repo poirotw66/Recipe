@@ -33,6 +33,9 @@ customAdditions: []
 faqs:
   - question: 可以用剩飯嗎？
     answer: 可以。使用快速冷卻後冷藏不超過 24 小時的米飯，先撥散再下鍋，炒到全盤冒熱氣；肉片熟度仍用溫度計確認。
+  - question: "杏桃豬肉甜鹹飯如何平衡果香酸甜與肉香？"
+    answer: "杏桃乾切小丁先以少許白酒浸泡軟化；豬肉炒香逼出油脂後加入杏桃與白飯快炒，淋少許薄鹽醬油提味，果香開胃甘鹹適口。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

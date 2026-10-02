@@ -40,6 +40,9 @@ substitutions:
 faqs:
 - question: "When should I add the water lily stems so they stay crisp?"
   answer: "Cook the chicken until its surface changes color and set it aside. Stir-fry the water lily stems over high heat for about 1 minute, then return the chicken and finish with the sauce."
+- question: "How do I keep water lily stems crunchy and vibrant green in this rice bowl?"
+  answer: "Cook chicken to 90% doneness first. Crank heat to maximum, toss in water lily stems with a dash of cooking wine, and stir-fry for just 30 seconds before plating."
+
 relatedIngredients:
 - 水蓮
 - 雞胸肉

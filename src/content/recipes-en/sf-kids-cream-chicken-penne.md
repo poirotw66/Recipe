@@ -77,4 +77,7 @@ seasonings:
 faqs:
   - question: "How do I keep the cream sauce from splitting?"
     answer: "Warm the white sauce, cream, and pasta water over low heat until just simmering. After adding the penne and chicken, follow the recipe and keep the heat moderate rather than boiling it hard."
+  - question: "How do I adapt penne pasta to make it easier for young children to eat?"
+    answer: "Cook penne 1-2 minutes past the recommended al dente time until tender throughout. Cut into bite-sized tubes and coat in a gentle, creamy milk sauce."
+
 ---

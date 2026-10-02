@@ -57,6 +57,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How do I cook fresh oysters in soondubu so they stay plump and juicy?"
+  answer: "Rinse and drain oysters thoroughly. Drop them into the boiling soondubu during the final 45 seconds of cooking; turn off heat so residual clay-pot heat cooks them tenderly."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

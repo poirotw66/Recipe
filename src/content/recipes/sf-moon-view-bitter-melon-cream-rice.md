@@ -35,6 +35,9 @@ customAdditions: []
 faqs:
   - question: 可以不加鮮奶油嗎？
     answer: 可以，改用同量牛奶或省略；蛋仍需炒至中心達 71°C 並完全凝固。
+  - question: "苦瓜如何處理才能保留脆感且去除苦澀味？"
+    answer: "苦瓜切薄片後，徹底刮除內部白色海綿囊膜（最苦來源），用少許鹽抓勻醃漬 10 分鐘擠乾苦水，再下鍋與鮮奶油及炒飯同烹，清甜爽口。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

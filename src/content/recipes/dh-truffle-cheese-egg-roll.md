@@ -37,6 +37,9 @@ customAdditions:
 faqs:
 - question: 可以先備料嗎？
   answer: 可先量好調味料並切配食材；易腐食材請及時冷藏，接近上桌再烹調，口感較佳。
+- question: "韓式起司烘蛋捲如何捲得層次分明且起司會拉絲？"
+  answer: "蛋液過篩後分三次倒入平底鍋，每次半熟時鋪上起司絲並撒入少許松露醬，利用抹刀從前端緊實捲起推至鍋邊，重複澆入蛋液捲起定型。"
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

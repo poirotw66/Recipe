@@ -54,6 +54,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How do I coordinate cooking seafood and rice cakes so seafood stays tender?"
+  answer: "Boil rice cakes until soft and simmer in spicy gochujang broth to absorb flavor and thicken. Add shrimp and squid during the final minute so seafood cooks through quickly."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

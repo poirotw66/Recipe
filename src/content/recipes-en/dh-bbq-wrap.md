@@ -58,6 +58,9 @@ faqs:
   - question: What if the cabbage leaves are too stiff to wrap?
     answer: If a cabbage leaf is stiff, briefly blanch it and drain well before
       wrapping.
+  - question: "How do I render pork belly crisp and non-greasy for Korean BBQ wraps?"
+    answer: "Sear pork belly slices in a dry skillet over medium heat, draining rendered fat onto paper towels. Cook until crisp and browned, serving with ssamjang, raw garlic, and crisp lettuce."
+
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: '2026-09-29'

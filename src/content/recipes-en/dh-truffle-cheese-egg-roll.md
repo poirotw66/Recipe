@@ -51,6 +51,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How do I roll the egg evenly while keeping the cheese molten in the center?"
+  answer: "Strain beaten eggs and pour in three thin layers. Scatter cheese and truffle paste when the layer is half-set, roll tightly using spatulas, and repeat for beautiful defined spirals."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

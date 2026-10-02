@@ -39,6 +39,9 @@ customAdditions:
 faqs:
 - question: 可以先備料嗎？
   answer: 可先量好調味料並切配食材；易腐食材請及時冷藏，接近上桌再烹調，口感較佳。
+- question: "醬燒魚菲力如何入味且翻面不碎裂？"
+  answer: "魚片先均勻沾附一層薄太白粉，煎至兩面金黃硬挺後先盛起；將醬油、味醂與蔬菜炒出香氣後下魚片輕輕晃鍋裹汁，切勿用鍋鏟大力翻動。"
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

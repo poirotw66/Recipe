@@ -51,6 +51,9 @@ faqs:
   - question: Can I use a frozen cordon bleu cutlet?
     answer: Yes. Follow its package directions and confirm that both the pork and
       filling center reach 74°C / 165°F. This recipe’s timing does not apply.
+  - question: "How do I prevent cheese from oozing out prematurely when frying cordon bleu?"
+    answer: "Pinch pork seams firmly around the ham and cheese, then double-dredge with flour, egg, and panko to create an impenetrable seal before frying at 170°C (340°F)."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

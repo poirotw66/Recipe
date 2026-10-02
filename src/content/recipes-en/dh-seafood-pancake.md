@@ -52,6 +52,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How do I get crisp edges on Korean seafood pancakes without overcooking seafood?"
+  answer: "Dry diced squid and shrimp thoroughly before mixing into cold batter. Use generous oil in a hot pan, spread thinly, and drizzle a spoon of oil along pan edges after flipping."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

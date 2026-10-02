@@ -60,6 +60,9 @@ faqs:
   - question: How do I know the chicken is cooked safely?
     answer: Use a food thermometer to confirm the thickest piece reaches 74°C
       (165°F); continue frying and recheck if needed.
+  - question: "How do I cook Korean BBQ sauce so it clings glossy to fried chicken?"
+    answer: "Simmer gochujang, ketchup, honey, soy sauce, and minced garlic over low heat until bubbly. Toss freshly double-fried chicken quickly in the warm glaze for crisp, sticky coating."
+
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: '2026-09-29'

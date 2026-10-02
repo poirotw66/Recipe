@@ -37,6 +37,9 @@ substitutions:
 faqs:
 - question: "In what order should I add the pork and water lily stems?"
   answer: "Separate the pork slices in the boiling broth and cook until no longer pink, then add the water lily stems for 1–2 minutes so they remain crisp."
+- question: "How do I cook tender pork slices in water lily soup with clear broth?"
+  answer: "Coat pork slices lightly in cornstarch and rice wine. Simmer in hot broth for 30 seconds, skim any foam, and drop in water lily stems for 15 seconds."
+
 relatedIngredients:
 - 水蓮
 - 豬肉

@@ -97,4 +97,7 @@ faqs:
   - question: Can I prep the components ahead?
     answer: You can cut the ingredients ahead and refrigerate them. Cook the pasta
       close to serving so it does not absorb the sauce.
+  - question: "How do I achieve restaurant-quality aroma in truffle mushroom pasta?"
+    answer: "Caramelize sliced mixed mushrooms in olive oil until golden. Simmer with garlic, heavy cream, and parmesan, folding in black truffle paste just before serving."
+
 ---

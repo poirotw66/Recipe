@@ -70,6 +70,9 @@ faqs:
   - question: Can I use a different mix of mushrooms?
     answer: Yes. Cut them to similar sizes, keep the total near 150 g, and cook off
       their released moisture.
+  - question: "When should balsamic vinegar be added to avoid harsh acidity?"
+    answer: "Add balsamic vinegar after mushrooms have browned and reduce over medium heat for 1 minute. Evaporating harsh vapors leaves a mellow, syrupy fruit sweetness."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

@@ -45,6 +45,9 @@ customAdditions: []
 faqs:
   - question: 可以使用不同種類的蕈菇嗎？
     answer: 可以；切成相近大小，分量維持約150公克，並炒到多餘水分蒸發。
+  - question: "巴薩米克醋何時加入義大利麵才不會酸味刺鼻？"
+    answer: "野菇炒至微焦上色後，淋入巴薩米克醋並轉中火濃縮 1 分鐘，酸嗆味隨蒸氣蒸發轉化為甘醇葡萄果香，再與麵條及起司粉拌勻即可。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

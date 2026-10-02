@@ -74,6 +74,8 @@ substitutions:
 faqs:
 - question: 青花菜一定要燙嗎？
   answer: 不一定，但先燙軟可縮短最後拌炒時間。
+- question: "青醬加熱時如何避免顏色變黑變苦？"
+  answer: "青醬含羅勒與松子，高溫久煮會氧化變黑；煮好麵條與青花菜拌入鍋中後應「先關火」，利用餘溫拌入青醬翻勻，顏色翠綠且堅果香氣濃郁。"
 
 relatedIngredients:
 - 義大利麵

@@ -35,6 +35,9 @@ customAdditions: []
 faqs:
   - question: 可以改用冷凍藍帶豬排嗎？
     answer: 可以，但依包裝說明烹調，並確認豬肉及內餡中心都達 74°C；本食譜時間不適用。
+  - question: "歐包底如何烤得酥脆且不易被肉汁浸濕？"
+    answer: "歐式麵包厚切後，雙面抹上少許奶油或蒜油，在平底鍋或烤箱烤至表面形成酥脆硬殼；底層先鋪一片吸水生菜葉，再放上熱騰騰的松露豬排。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

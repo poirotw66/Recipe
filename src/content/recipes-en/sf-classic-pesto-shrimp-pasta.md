@@ -75,4 +75,7 @@ seasonings:
 faqs:
   - question: "How should I divide the cheese?"
     answer: "Fold half into the pasta off the heat, then sprinkle the remaining half over the plated pasta."
+  - question: "How do I infuse seafood flavor into the pesto pasta glaze?"
+    answer: "Deglaze the pan drippings from seared shrimp with two tablespoons of pasta water. Turn off heat before stirring in pesto so seafood essence enriches the sauce."
+
 ---

@@ -42,6 +42,9 @@ faqs:
     answer: No. This method is only for a fully cooked product. Raw pork knuckle
       needs a separate long-cooking recipe and cannot be safely reheated with
       this short method.
+  - question: "How do I get that blistered, crackling pork knuckle skin?"
+    answer: "Prick pork skin with skewers, wipe dry, and brush with a thin layer of white vinegar and coarse salt. Finish at 220°C (430°F) to puff skin into crispy cracklings."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

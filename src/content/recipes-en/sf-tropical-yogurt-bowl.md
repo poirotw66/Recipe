@@ -61,6 +61,9 @@ faqs:
   - question: Can I use frozen fruit?
     answer: Yes. Thaw it in the refrigerator and drain excess liquid before adding
       it to the yogurt. Add the oat clusters just before serving.
+  - question: "How do I layer a vibrant tropical yogurt bowl for great visual appeal?"
+    answer: "Spread thick Greek yogurt as a flat base. Fan sliced mango, kiwi, and banana radially along the bowl rim, filling the center with granola, chia seeds, and honey."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

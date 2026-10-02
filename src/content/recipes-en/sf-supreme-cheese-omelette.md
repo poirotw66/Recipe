@@ -83,4 +83,7 @@ seasonings:
 faqs:
   - question: "When should I add the ham, corn, and cheese so the omelette folds cleanly?"
     answer: "Cook the ham and corn first. Once the eggs are partly set, place the filling and cheese down the center, fold, then cover over low heat for 30 seconds and check that the fold is cooked through. Cook ordinary eggs until both white and yolk are firm; use pasteurized eggs for a softer center."
+  - question: "How do I prevent the loaded omelette from splitting under generous fillings?"
+    answer: "Dry ham cubes and corn kernels thoroughly. Use 2-3 eggs for a sturdy skin and sprinkle cheese first so melted cheese binds toppings safely inside."
+
 ---

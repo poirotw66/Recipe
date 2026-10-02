@@ -71,6 +71,8 @@ substitutions:
 faqs:
 - question: 蝦仁可以不去腸嗎？
   answer: 建議去腸，口感與賣相都會比較好。
+- question: "青醬鮮蝦麵如何煎出蝦仁外脆內嫩的口感？"
+  answer: "鮮蝦吸乾水分後抹少許鹽與白胡椒，大火熱油鍋快煎 45 秒變紅捲曲即撈出；最後關火拌青醬麵時再放入拌勻，蝦肉緊實彈脆不老縮。"
 
 relatedIngredients:
 - 義大利麵

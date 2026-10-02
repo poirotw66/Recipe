@@ -75,6 +75,8 @@ substitutions:
 faqs:
 - question: No cheese powder?
   answer: Skip it and use extra pasta water to loosen the sauce.
+- question: "How do I integrate pesto with chicken and mushrooms without excess oil pooling?"
+  answer: "Sauté chicken and mushrooms separately. Emulsify the cooked pasta with two tablespoons of starchy pasta water, kill the heat, and fold in pesto and toppings."
 
 relatedIngredients:
 - 義大利麵

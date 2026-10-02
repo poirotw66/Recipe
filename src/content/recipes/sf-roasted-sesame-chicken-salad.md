@@ -34,6 +34,9 @@ customAdditions: []
 faqs:
   - question: 可以用現成熟雞肉嗎？
     answer: 可以，依產品包裝方式冷藏或回熱後切片；若回熱，雞肉中心達 74°C。
+  - question: "焙煎胡麻醬如何調配才能濃香爽口不死鹹？"
+    answer: "以日式熟白芝麻醬 2 大匙、醬油 1 大匙、味醂 1 大匙、烏醋 1 小匙與香油少許調勻，淋在手撕溫熱雞肉與清脆生菜上，風味醇厚開胃。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

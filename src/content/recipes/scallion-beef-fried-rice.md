@@ -62,6 +62,8 @@ substitutions:
 faqs:
 - question: 沒有放涼的白飯可以嗎？
   answer: 可以，新飯先鋪平放涼再炒，水分較少。
+- question: "蔥花牛肉炒飯如何炒出蔥香撲鼻且牛肉不老？"
+  answer: "青蔥分兩次下：蔥白先下鍋爆香炒飯，蔥綠留在起鍋前最後 10 秒與炒好的牛肉片一同下鍋翻炒，蔥綠翠綠辛香且牛肉保持鮮嫩多汁。"
 
 relatedIngredients:
 - 牛肉

@@ -63,6 +63,9 @@ substitutions:
 faqs:
   - question: "Mushrooms release a lot of water—what do I do?"
     answer: "Stir-fry over medium-high until the liquid cooks off, then add a little more soy sauce."
+  - question: "How do I keep stir-fried chicken breast tender and moist?"
+    answer: "Velvet the sliced chicken breast with a pinch of salt, egg white, white pepper, and cornstarch. Flash-sear in hot oil just until white, then combine with garlic mushrooms."
+
 relatedIngredients:
 - 雞胸肉
 - 菇類

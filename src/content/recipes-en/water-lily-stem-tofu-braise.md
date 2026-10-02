@@ -40,6 +40,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "When should water lily stems be added to braised tofu to prevent sogginess?"
+  answer: "Simmer seared tofu in savory broth for 5 minutes until tender and flavorful. Fold in water lily stems during the last 30 seconds so they absorb sauce while staying crisp."
+
 relatedIngredients:
 - 水蓮
 - 豆腐

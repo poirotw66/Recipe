@@ -39,6 +39,9 @@ customAdditions: []
 faqs:
   - question: Can I roast it from frozen?
     answer: Do not use this recipe's timing for frozen poultry. Thaw it completely in the refrigerator first, then cook and check that both the breast and thigh centers reach 74°C / 165°F.
+  - question: "How do I achieve crisp skin while keeping breast meat juicy on roast half-chicken?"
+    answer: "Brine chicken in salted water for 2 hours, pat skin bone-dry, and roast at 180°C (350°F). Brush on BBQ sauce during the final 5 minutes at 210°C (410°F) to glaze."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

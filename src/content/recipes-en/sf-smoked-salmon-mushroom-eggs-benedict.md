@@ -101,4 +101,7 @@ seasonings:
 faqs:
   - question: "When do the smoked salmon and capers go onto the Benedict?"
     answer: "Drain the listed tablespoon of capers first; reduce the mushrooms and hold them warm, and set the salmon aside as directed. About 3 minutes is a guide for poaching: judge by a set white and the yolk doneness you want, then drain before assembly. Cook ordinary eggs until the yolk is firm, or use pasteurized eggs for a runny yolk."
+  - question: "What is the proper stacking sequence for smoked salmon mushroom benedict?"
+    answer: "Start with toasted English muffin, layer warm buttered mushrooms, place room-temperature smoked salmon, crown with poached egg, and coat with warm hollandaise."
+
 ---

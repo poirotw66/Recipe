@@ -43,6 +43,9 @@ faqs:
   - question: Can I shape the patties ahead?
     answer: Yes. Cover and refrigerate raw patties separately from ready-to-eat
       foods and cook within 1–2 days. Each patty must still reach 71°C / 160°F.
+  - question: "How do I get crusty burger patties with perfectly draped melted cheese?"
+    answer: "Sear patties over high heat for 2 minutes, flip, and immediately top each with cheddar. Splash a spoonful of water into pan and lid for 30 seconds to steam-melt cheese."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

@@ -51,6 +51,9 @@ customAdditions: []
 faqs:
   - question: 可以用冷凍水果嗎？
     answer: 可以，先在冰箱解凍並瀝掉多餘水分，再放到優格上；燕麥脆片仍在食用前加入。
+  - question: "熱帶水果優格碗如何擺出層次分明的網美賣相？"
+    answer: "希臘優格作為厚實基底，水果（芒果、奇異果、香蕉）切均勻薄片沿碗緣放射狀排列；中間灑上燕麥脆片、奇亞籽與少許蜂蜜點綴。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

@@ -31,6 +31,9 @@ substitutions:
 faqs:
 - question: "Can I prepare this ahead of time?"
   answer: "Yes. Refrigerate the cooked starch and toppings separately, then reheat and combine just before serving for better texture."
+- question: "What is the golden ratio for homemade salad vinaigrette?"
+  answer: "Whisk 3 parts extra virgin olive oil to 1 part lemon juice or vinegar, seasoned with a dab of Dijon mustard, salt, and black pepper until creamy and emulsified."
+
 relatedIngredients:
 - 番茄
 - 紅蘿蔔

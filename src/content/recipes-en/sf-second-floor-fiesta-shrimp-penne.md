@@ -77,4 +77,7 @@ seasonings:
 faqs:
   - question: "How can I tell when the shrimp are cooked?"
     answer: "Check that the thickest part reaches 63°C (145°F). If you do not have a thermometer, look for firm, pearly, opaque flesh. Remove the shrimp once done to avoid overcooking."
+  - question: "How do I ensure penne absorbs the fiesta shrimp sauce thoroughly?"
+    answer: "Transfer boiled penne straight into bubbling sauce with three tablespoons of starchy cooking water. Toss over high heat so sauce floods the hollow tubular centers."
+
 ---

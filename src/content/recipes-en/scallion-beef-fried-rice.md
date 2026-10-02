@@ -62,6 +62,8 @@ substitutions:
 faqs:
 - question: No cooled rice?
   answer: Spread fresh rice to cool first—less moisture, less sticking.
+- question: "When is the best time to add scallions to beef fried rice?"
+  answer: "Add scallion whites early to sauté and build the aromatic base. Add vibrant green scallion rings during the final 10 seconds with seared beef for fresh fragrance."
 
 relatedIngredients:
 - 牛肉

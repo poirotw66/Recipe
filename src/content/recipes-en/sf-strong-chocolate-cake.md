@@ -60,4 +60,7 @@ faqs:
     answer: >-
       Frost the cake and chill it for 30 minutes so the cream-cheese layer can set. Then
       use a hot-water-warmed, dry knife and wipe the blade after each cut.
+  - question: "How do I bake this chocolate cake so it stays fudgy like ganache?"
+    answer: "Melt 70% dark chocolate with unsalted butter over gentle steam. Bake just until a skewer comes out with moist crumbs attached; chill to set into dense fudge."
+
 ---

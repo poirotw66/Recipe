@@ -28,6 +28,9 @@ substitutions:
 faqs:
   - question: "薯條為什麼要炸兩次？"
     answer: "第一次較低油溫先把薯條內部炸熟；瀝油後提高油溫再炸，讓外層上色酥脆。每批炸完先放網架，不要疊放。"
+  - question: "啤酒麵糊炸魚排如何保持蓬鬆香脆不吸油？"
+    answer: "麵糊使用冰鎮啤酒調配，避免過度攪拌起筋；油溫穩定在 180°C，魚排裹糊後輕輕下鍋，麵糊遇熱迅速膨脹形成輕盈脆殼。"
+
 relatedIngredients:
 - 雞蛋
 customAdditions: []

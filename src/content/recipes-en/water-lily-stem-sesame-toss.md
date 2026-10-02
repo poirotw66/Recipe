@@ -40,6 +40,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I make a refreshing chilled sesame water lily salad?"
+  answer: "Blanch water lily stems in boiling water for 20 seconds, plunge into ice water, and drain dry. Toss with toasted sesame oil, grated garlic, sesame seeds, and salt."
+
 relatedIngredients:
 - 水蓮
 - 蒜頭

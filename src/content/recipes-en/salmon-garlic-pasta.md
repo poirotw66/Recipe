@@ -66,6 +66,8 @@ substitutions:
 faqs:
 - question: No lemon?
   answer: A few drops of vinegar or skip—aroma will be flatter.
+- question: "How do I make garlic salmon pasta savory without feeling oily?"
+  answer: "Fry garlic chips gently in extra virgin olive oil until pale gold and set aside. Sear salmon in the infused oil and emulsify with pasta water for a light, glossy glaze."
 
 relatedIngredients:
 - 義大利麵

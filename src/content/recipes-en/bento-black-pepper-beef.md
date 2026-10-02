@@ -66,6 +66,9 @@ storage: Refrigerate up to 2 days; microwave about 1 minute to reheat.
 faqs:
   - question: "Can I use pork instead?"
     answer: "Yes. Use thin pork loin slices and cook them completely before cooling and packing the lunch box."
+  - question: "How do I balance the black pepper sauce so it is rich rather than overpowering?"
+    answer: "Combine coarse black pepper with minced onions, oyster sauce, butter, and a pinch of sugar, then thicken with a light slurry for a silky, savory glaze."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-30"

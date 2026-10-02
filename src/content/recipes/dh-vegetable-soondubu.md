@@ -40,6 +40,9 @@ customAdditions:
 faqs:
 - question: 可以先備料嗎？
   answer: 可先量好調味料並切配食材；易腐食材請及時冷藏，接近上桌再烹調，口感較佳。
+- question: "野菜鮮菇嫩豆腐煲如何煮出鮮甜無肉的高湯底？"
+  answer: "先以少許香油煸炒乾香菇絲與昆布丁釋放天然鮮味，再加入黃豆芽與洋蔥熬煮 10 分鐘作為素高湯，下嫩豆腐煮滾後湯頭濃醇甘美。"
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

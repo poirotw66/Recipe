@@ -65,6 +65,8 @@ storage: Refrigerate up to 2 days; re-crisp in a skillet 1 minute.
 faqs:
 - question: Can I add eggs?
   answer: Keep tofu as the star; a fried egg on the side adds protein.
+- question: "How do I make a crispy tofu steak that does not absorb excess oil?"
+  answer: "Press firm tofu with a heavy plate for 20 minutes to expel moisture. Dust with cornstarch and sear over medium heat until all sides are golden and crusty."
 
 featured: false
 publishedAt: '2026-06-03'

@@ -80,4 +80,7 @@ faqs:
   - question: Does this need extra salt?
     answer: Usually not; the salted eggs season the sauce. Taste the finished dish
       first and adjust only if needed.
+  - question: "How do I get salted egg yolk to foam into a velvety golden sand sauce?"
+    answer: "Mash steamed salted egg yolks fine with a fork. Sauté gently in butter or oil over low heat for 1-2 minutes until bubbly and frothy before adding pasta."
+
 ---

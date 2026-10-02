@@ -34,6 +34,9 @@ customAdditions: []
 faqs:
   - question: 可以改用氣炸鍋嗎？
     answer: 可以，依機型分批烹調並在最厚處測溫；中心達 74°C 才可食用。
+  - question: "水牛城辣雞翅如何裹醬均勻且維持外皮酥脆？"
+    answer: "雞翅烤熟或氣炸出爐後需趁熱立刻放入大不鏽鋼調理盆，倒入預熱融化的水牛城辣醬與無鹽奶油，快速拋鍋搖晃均勻裹醬，隨即上桌享用。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

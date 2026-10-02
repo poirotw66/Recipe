@@ -36,6 +36,9 @@ customAdditions: []
 faqs:
   - question: 可以用冷凍藍帶豬排嗎？
     answer: 可以，但依包裝說明烹調，並確認豬肉和內餡中心都達 74°C；本食譜時間不適用。
+  - question: "炸藍帶豬排漢堡如何避免起司過早流出？"
+    answer: "豬排包入火腿與起司後，邊緣務必沾蛋液壓緊，並以「麵粉→蛋液→麵包粉」雙重過三關封口；油溫 170°C 炸熟定型，起司濃郁爆漿不外漏。"
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

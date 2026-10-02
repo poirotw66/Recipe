@@ -68,6 +68,8 @@ substitutions:
 faqs:
 - question: 可以改用牛排肉嗎？
   answer: 可以，切薄片並縮短炒製時間即可。
+- question: "洋蔥牛肉蓋飯的洋蔥如何炒出焦糖甘甜香氣？"
+  answer: "洋蔥切細絲後先以少許油和微鹽中小火慢炒 5 分鐘至半透明金黃，天然糖分焦糖化後再加入牛肉片與和風醬汁燉煮，湯頭格外甜潤。"
 
 relatedIngredients:
 - 牛肉

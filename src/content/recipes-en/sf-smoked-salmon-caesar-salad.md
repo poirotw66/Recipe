@@ -67,4 +67,7 @@ seasonings: []
 faqs:
   - question: "How do I prepare the eggs for the salad?"
     answer: "Boil them for 9–10 minutes until the yolks are set, cool in cold water, peel, and halve. Arrange them with the smoked salmon over the dressed romaine."
+  - question: "How do I handle delicate smoked salmon ribbons in a Caesar salad?"
+    answer: "Toss romaine lettuce with Caesar dressing first and arrange on plates. Drape cold smoked salmon ribbons gently on top so delicate fish stays intact."
+
 ---

@@ -29,6 +29,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "What is the best frying order when cooking a multi-item platter?"
+  answer: "Fry in order of cleanest flavor: vegetables first, followed by starch (fries), and finish with seasoned proteins to keep oil clean and flavors distinct."
+
 relatedIngredients:
 - 雞蛋
 customAdditions: []

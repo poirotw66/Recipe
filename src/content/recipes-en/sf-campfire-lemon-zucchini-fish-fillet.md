@@ -64,4 +64,7 @@ seasonings:
 faqs:
   - question: Can I use another fish?
     answer: Yes. Choose a white fish fillet of similar thickness and check that the thickest part reaches 145°F (63°C).
+  - question: "How do I cook zucchini alongside fish fillets without making the fish skin soggy?"
+    answer: "Sear the fish skin-side down until crisp and push to one side. Sear thick zucchini coins in the rendered oil on the other side until caramelized before lemon spritzing."
+
 ---

@@ -65,6 +65,9 @@ substitutions:
 faqs:
   - question: "可以不用菇類嗎？"
     answer: "可以，多加青花菜也可以。"
+  - question: "雞肉與蔬菜放在蓋飯上，醬汁比例該如何拿捏？"
+    answer: "醬汁以日式柴魚醬油、味醂與水以 2:1:2 比例調配，炒熟雞肉與蔬菜後淋入煮滾，留少許湯汁澆在熱白飯上，每口飯都能均勻沾附美味。"
+
 relatedIngredients:
 - 雞胸肉
 - 青花菜

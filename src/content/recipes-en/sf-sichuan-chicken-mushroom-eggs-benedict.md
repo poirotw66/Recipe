@@ -110,4 +110,7 @@ seasonings:
 faqs:
   - question: "When should I return the Sichuan chicken to the pan?"
     answer: "Reduce the mushrooms and keep them warm first. Reheat the cooked chicken in the same skillet with the listed 1/2 tsp chili flakes, then keep it warm; poach the eggs separately at the end and drain before assembly. If reheating refrigerated leftovers, bring the center to 165°F (74°C), per USDA FSIS."
+  - question: "How do I balance spicy Sichuan chicken sauce with rich hollandaise?"
+    answer: "Mix chili oil and Sichuan pepper oil with light soy sauce, black vinegar, and crushed peanuts. Drizzle sparingly over shredded chicken to contrast hollandaise."
+
 ---

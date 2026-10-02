@@ -42,6 +42,9 @@ faqs:
     answer: For pregnant people, young children, older adults, and people with
       weakened immune systems, cook both white and yolk until firm. This recipe
       uses a fully cooked egg.
+  - question: "How do I prevent mini beef patties from shrinking into dry balls while cooking?"
+    answer: "Indent the center of each mini patty with your thumb before cooking. Sear over medium-high heat for 2 minutes, flip, and rest 2 minutes before assembling."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

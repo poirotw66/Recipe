@@ -46,6 +46,9 @@ faqs:
   - question: Can I use an air fryer?
     answer: Yes. Cook in batches according to the appliance directions and check the
       thickest piece; serve only when it reaches 74°C / 165°F.
+  - question: "How do I toss Buffalo wings so sauce coats evenly without making them soggy?"
+    answer: "Transfer piping-hot wings into a large metal bowl, pour warm Buffalo sauce whisked with butter over top, toss vigorously for 5 seconds, and serve immediately."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-09-29

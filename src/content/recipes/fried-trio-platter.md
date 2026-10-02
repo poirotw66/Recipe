@@ -28,6 +28,9 @@ substitutions:
 faqs:
 - question: "蔬菜出水時怎麼辦？"
   answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+- question: "同時油炸多種食材時，下鍋順序該如何安排？"
+  answer: "按照「蔬菜類（如四季豆、洋蔥圈）→ 澱粉類（薯條）→ 海鮮或肉類」順序油炸，油質清澈不串味，且炸好的食材都能保持最佳酥脆熱度。"
+
 relatedIngredients:
 - 雞蛋
 customAdditions: []

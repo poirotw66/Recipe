@@ -63,6 +63,9 @@ storage: Refrigerate up to 3 days; reheat and spoon over rice.
 faqs:
   - question: "Can I freeze it?"
     answer: "Yes—in small containers up to 2 weeks; thaw and microwave."
+  - question: "How do I prevent honey soy pork from burning in the pan?"
+    answer: "Honey burns quickly over direct heat; cook pork slices over medium heat until almost done, then pour in the honey-soy glaze and toss rapidly for 15 seconds to coat and caramelize."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-30"

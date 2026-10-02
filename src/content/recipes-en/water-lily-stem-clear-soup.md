@@ -41,6 +41,9 @@ substitutions:
 faqs:
 - question: "Can I keep the soup overnight?"
   answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
+- question: "How do I prevent water lily stems from turning soft and yellow in soup?"
+  answer: "Season the hot broth completely first. Drop in cut water lily stems 15 seconds before turning off heat; residual heat wilts them to bright green crunchiness."
+
 relatedIngredients:
 - 水蓮
 - 豆腐

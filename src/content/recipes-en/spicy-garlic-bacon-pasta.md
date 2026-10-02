@@ -31,6 +31,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I extract maximum aroma from garlic and chili in bacon pasta?"
+  answer: "Render diced bacon in a cold pan over low heat. Fry garlic slices and crushed red pepper gently in the bacon fat until golden, emulsifying with pasta water."
+
 relatedIngredients:
 - 義大利麵
 - 蒜頭

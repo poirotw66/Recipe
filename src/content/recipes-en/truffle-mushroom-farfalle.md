@@ -30,6 +30,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I cook bowtie farfalle evenly since the center pinch is thicker?"
+  answer: "Boil farfalle in plenty of well-salted water, tasting for doneness 1 minute before package time. Simmer directly in the truffle sauce for 60 seconds so the center absorbs flavor."
+
 relatedIngredients:
 - 義大利麵
 - 菇類

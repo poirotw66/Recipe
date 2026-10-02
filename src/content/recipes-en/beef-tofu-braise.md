@@ -67,6 +67,9 @@ substitutions:
 faqs:
   - question: "How can I keep the tofu from breaking during braising?"
     answer: "Pat the tofu dry and brown it on both sides in a single layer before returning it to the pan. Keep the braise at a low simmer and nudge the tofu from the edge instead of stirring it."
+  - question: "How do I get deep flavor into the beef without overcooking it?"
+    answer: "Sear the beef lightly and set aside. Simmer the tofu in the savory sauce until fully infused, then return the beef during the final minute to warm through."
+
 relatedIngredients:
 - Beef
 - Tofu

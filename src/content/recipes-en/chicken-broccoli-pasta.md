@@ -67,6 +67,9 @@ substitutions:
 faqs:
   - question: "Blanch broccoli first?"
     answer: "Yes—1 minute blanch then stir-fry speeds things up."
+  - question: "How do I keep chicken tender and broccoli bright green in this pasta?"
+    answer: "Blanch broccoli florets for 1 minute and sear sliced chicken quickly. Toss both into the emulsified pasta during the final 15 seconds so meat stays succulent and vegetables stay crisp."
+
 relatedIngredients:
 - 義大利麵
 - 雞胸肉

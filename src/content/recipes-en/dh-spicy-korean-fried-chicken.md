@@ -56,6 +56,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How can I tone down the heat in Korean spicy fried chicken sauce?"
+  answer: "Increase the ratio of ketchup and honey, or stir in a tablespoon of grated apple or plain yogurt to mellow the gochujang heat while keeping authentic tangy aroma."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

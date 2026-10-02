@@ -41,6 +41,9 @@ customAdditions:
 faqs:
 - question: 可以先備料嗎？
   answer: 可先量好調味料並切配食材；易腐食材請及時冷藏，接近上桌再烹調，口感較佳。
+- question: "韓式辣醬炸雞如何調整適合不嗜辣者的辣度？"
+  answer: "可提高番茄醬與蜂蜜的比例，或加入 1 大匙蘋果泥或無糖優格調和辣醬；既能保留韓式甘辛辣香的招牌風味，又能溫和順口不易嗆辣。"
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

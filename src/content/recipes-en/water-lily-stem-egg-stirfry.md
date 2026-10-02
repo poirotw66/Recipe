@@ -42,6 +42,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I get soft scrambled eggs and crisp water lily stems in one pan?"
+  answer: "Scramble eggs lightly and set aside. Blister water lily stems in hot oil for 20 seconds, return soft curds, season, and toss rapidly for 10 seconds."
+
 relatedIngredients:
 - 水蓮
 - 雞蛋

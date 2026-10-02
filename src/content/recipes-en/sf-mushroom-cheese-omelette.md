@@ -87,4 +87,7 @@ seasonings:
 faqs:
   - question: "How dry should the mushrooms be before they go into the omelette?"
     answer: "After the mushrooms release moisture, reduce the heat and cook until the liquid in the pan has evaporated; keep them warm. Add the mushrooms and cheese down the center once the eggs are partly set and the bottom has begun to firm. If liquid remains, reduce it before filling the omelette."
+  - question: "How do I fold an omelette cleanly without cracking the surface?"
+    answer: "Spread butter evenly across the pan. Place fillings on one side when eggs are half-set, tilt the skillet, and use spatula and gravity to flip the top half over."
+
 ---

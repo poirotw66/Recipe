@@ -29,6 +29,9 @@ substitutions:
 faqs:
 - question: "Can I keep the soup overnight?"
   answer: "Yes. Cool it promptly, refrigerate it sealed, and reheat thoroughly the next day; add leafy greens just before serving."
+- question: "How do I make a velvety soup without flour lumps?"
+  answer: "Cook butter and flour into a pale roux over low heat. Whisk in warm broth gradually off the heat before returning to a simmer for a silky, lump-free base."
+
 relatedIngredients:
 - 紅蘿蔔
 - 洋蔥

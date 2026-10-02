@@ -52,6 +52,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How do I achieve an extra-crispy exterior on Korean vegetable pancakes?"
+  answer: "Mix pancake batter with ice-cold water or sparkling water and coat veggies lightly. Pour into sizzling oil, spread thinly, and press down with a spatula after flipping."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

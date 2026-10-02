@@ -73,6 +73,8 @@ substitutions:
 faqs:
 - question: 可以用現成青醬嗎？
   answer: 可以，約 2 大匙現成青醬取代自製泥即可。
+- question: "雞胸肉如何切與煎才能與義大利麵最搭？"
+  answer: "雞胸肉斜切成 0.8 公分適口薄片，以黑胡椒、橄欖油與鹽抓醃；平底鍋中火煎至兩面金黃（約 3 分鐘），肉質軟嫩多汁且與青醬極為合拍。"
 
 relatedIngredients:
 - 義大利麵

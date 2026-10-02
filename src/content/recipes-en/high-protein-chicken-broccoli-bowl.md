@@ -70,6 +70,8 @@ storage: Refrigerate up to 1 day; microwave reheat with a damp paper towel.
 faqs:
 - question: Can I skip the rice?
   answer: Yes—more broccoli or salad makes a lower-carb plate.
+- question: "What are the best low-calorie seasonings for this high-protein bowl?"
+  answer: "Season with fresh lemon juice, minced garlic, coarse black pepper, Italian herbs, and light soy sauce. These deliver vibrant flavor without added sugars or fats."
 
 featured: false
 publishedAt: '2026-06-03'

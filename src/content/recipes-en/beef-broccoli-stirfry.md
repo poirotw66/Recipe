@@ -61,6 +61,9 @@ substitutions:
 faqs:
   - question: "Do I need to blanch the broccoli first?"
     answer: "You can blanch it for 1 minute, drain it well, then toss it with the beef and sauce for about 30 seconds. This shortens the stir-fry and helps keep its bright color."
+  - question: "How do I ensure the beef stays tender and juicy during stir-frying?"
+    answer: "Marinate sliced beef with a splash of soy sauce, cooking wine, and cornstarch for 10 minutes. Flash-fry in a hot skillet until 80% done, remove, and return to the pan at the very end with the broccoli."
+
 relatedIngredients:
 - 牛肉
 - 青花菜

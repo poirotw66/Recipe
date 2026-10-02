@@ -65,6 +65,9 @@ substitutions:
 faqs:
   - question: "可以用電鍋加熱便當嗎？"
     answer: "可以，外鍋加半杯水蒸熱即可。"
+  - question: "胡蘿蔔如何煮出自然甜味並去生澀味？"
+    answer: "胡蘿蔔切細絲後先以少許油中小火煸炒 2～3 分鐘，胡蘿蔔素遇油釋放後甜味大增且口感軟化，再與雞肉一同燜煮更入味。"
+
 relatedIngredients:
 - 雞胸肉
 - 紅蘿蔔

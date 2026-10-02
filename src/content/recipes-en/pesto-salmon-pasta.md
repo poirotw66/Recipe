@@ -75,6 +75,8 @@ substitutions:
 faqs:
 - question: Will pesto overpower the salmon?
   answer: Lemon brightens the fish; don’t overdo the cheese and it stays balanced.
+- question: "How do I eliminate fishiness and highlight salmon flavor in pasta?"
+  answer: "Pat salmon dry thoroughly and season with sea salt and black pepper. Finish with a squeeze of fresh lemon juice right after searing to balance richness."
 
 relatedIngredients:
 - 義大利麵

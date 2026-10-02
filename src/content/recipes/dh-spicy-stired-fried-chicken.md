@@ -38,6 +38,9 @@ customAdditions:
 faqs:
 - question: 可以先備料嗎？
   answer: 可先量好調味料並切配食材；易腐食材請及時冷藏，接近上桌再烹調，口感較佳。
+- question: "春川辣炒雞的地瓜和高麗菜熟度如何與雞肉同步？"
+  answer: "地瓜切薄片先下鍋煎至半透，再下醃製雞肉與高麗菜翻炒，蓋上鍋蓋利用高麗菜釋出的天然水分中火燜蒸 3 分鐘，雞肉軟嫩地瓜香甜。"
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

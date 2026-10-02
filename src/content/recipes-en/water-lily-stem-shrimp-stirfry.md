@@ -39,6 +39,9 @@ substitutions:
 faqs:
 - question: "Why remove the shrimp first and return it at the end?"
   answer: "Take it out once both sides turn pink. After stir-frying the water lily stems, return the shrimp for a quick 30-second toss instead of cooking it continuously."
+- question: "How do I clean water lily stems and stir-fry them perfectly with shrimp?"
+  answer: "Trim the bottom 1 cm of stems to remove any grit. Sear devined shrimp first and set aside; stir-fry water lily stems for 20 seconds, then toss shrimp back in for 10 seconds."
+
 relatedIngredients:
 - 水蓮
 - 蝦仁

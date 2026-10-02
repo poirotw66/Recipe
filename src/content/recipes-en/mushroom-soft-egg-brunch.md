@@ -29,6 +29,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I make silky, velvety soft-scrambled eggs for brunch?"
+  answer: "Whisk eggs with a splash of milk or cream. Cook in melted butter over gentle low heat, slowly pushing curds from edge to center with a spatula, removing while still glossy."
+
 relatedIngredients:
 - 菇類
 - 雞蛋

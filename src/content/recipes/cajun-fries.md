@@ -28,6 +28,9 @@ substitutions:
 faqs:
 - question: "蔬菜出水時怎麼辦？"
   answer: "先把食材表面水分瀝乾，並分批下鍋保留鍋面溫度，就能減少出水與軟爛。"
+- question: "氣炸或油炸薯條如何長時間保持外酥內綿？"
+  answer: "馬鈴薯切條後務必泡冷水 15 分鐘去除多餘表面澱粉，徹底擦乾水分後裹上一層薄薄的玉米澱粉與植物油再炸，外皮格外酥脆持久。"
+
 relatedIngredients: []
 customAdditions: []
 ingredients:

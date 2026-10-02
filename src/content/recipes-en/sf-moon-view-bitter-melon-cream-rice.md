@@ -45,6 +45,9 @@ faqs:
   - question: Can I leave out the cream?
     answer: Yes. Replace it with the same amount of milk or omit it; still cook the
       egg until its center reaches 71°C / 160°F and it is fully set.
+  - question: "How do I remove the harsh bitterness of melon while preserving crunch?"
+    answer: "Scrape away the white inner pith thoroughly with a spoon. Toss thin slices with salt for 10 minutes, squeeze out bitter juices, and sauté with cream and rice."
+
 featured: false
 publishedAt: 2026-06-09
 updatedAt: 2026-10-02

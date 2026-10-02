@@ -69,6 +69,8 @@ substitutions:
 faqs:
 - question: Can I use steak cuts?
   answer: Yes—slice thin and shorten stir-fry time.
+- question: "How do I caramelize the onions to make the beef bowl sauce naturally sweet?"
+  answer: "Sauté thinly sliced onions with a pinch of salt over medium-low heat for 5 minutes until soft and translucent before introducing beef and soy-mirin broth."
 
 relatedIngredients:
 - 牛肉

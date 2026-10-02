@@ -84,4 +84,7 @@ seasonings:
 faqs:
   - question: Which ingredients can I prepare ahead?
     answer: Slice the cucumber and tomatoes ahead and refrigerate them. Cook the chicken and warm the pita close to serving, then serve with the lemon yogurt sauce.
+  - question: "How do I warm pita bread so it puffs and stays soft for stuffing?"
+    answer: "Toast pita bread in a dry skillet over medium-low heat for 30 seconds per side until puffed and warm. Slice in half and spread with tzatziki sauce before filling."
+
 ---

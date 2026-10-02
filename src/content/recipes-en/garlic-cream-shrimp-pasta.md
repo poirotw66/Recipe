@@ -30,6 +30,9 @@ substitutions:
 faqs:
   - question: "What should I do if the cream sauce is too thick?"
     answer: "After adding the pasta, mix in the reserved pasta water a little at a time. Stop once the sauce lightly coats the noodles; you may not need all of it."
+  - question: "How do I extract rich prawn oil for this garlic cream shrimp pasta?"
+    answer: "Sauté reserved shrimp shells and heads gently in olive oil until the oil turns vivid orange. Discard shells and use this infused oil as the aromatic foundation for your garlic cream sauce."
+
 relatedIngredients:
 - 義大利麵
 - 蝦仁

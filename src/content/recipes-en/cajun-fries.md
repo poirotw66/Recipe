@@ -29,6 +29,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I keep Cajun fries crispy long after cooking?"
+  answer: "Soak sliced potatoes in cold water for 15 minutes to wash off surface starch, pat completely dry, and dust lightly with cornstarch and oil before air-frying."
+
 relatedIngredients: []
 customAdditions: []
 ingredients:

@@ -65,6 +65,9 @@ substitutions:
 faqs:
   - question: "Reheat in a rice cooker?"
     answer: "Yes—steam with half a cup water in the outer pot."
+  - question: "How do I bring out the natural sweetness of carrots in this bowl?"
+    answer: "Sauté thin carrot matchsticks in cooking oil for 2-3 minutes before adding liquids. Fat-soluble carotene unlocks its natural sweetness and softens any raw bitterness."
+
 relatedIngredients:
 - 雞胸肉
 - 紅蘿蔔

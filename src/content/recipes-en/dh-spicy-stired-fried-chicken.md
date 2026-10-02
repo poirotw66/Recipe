@@ -47,6 +47,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How do I synchronize cooking times for sweet potato, cabbage, and chicken?"
+  answer: "Slice sweet potatoes thin and sear them first. Add marinated chicken and cabbage, then cover for 3 minutes so cabbage steam cooks the chicken and potatoes simultaneously."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

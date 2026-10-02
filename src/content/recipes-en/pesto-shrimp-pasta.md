@@ -71,6 +71,8 @@ substitutions:
 faqs:
 - question: Can I skip deveining?
   answer: Deveining improves texture and appearance.
+- question: "How do I get juicy, plump shrimp in pesto pasta?"
+  answer: "Dry peeled shrimp completely and sear over high heat for 45 seconds per side just until pink and curled. Stir into pasta off the heat so they stay tender."
 
 relatedIngredients:
 - 義大利麵

@@ -29,6 +29,9 @@ substitutions:
 faqs:
 - question: "Should I cook the smoked salmon with the eggs?"
   answer: "No. Take the eggs off the heat first, then lay the salmon on top so it is not heated unnecessarily."
+- question: "What is the best bread and spread pairing for smoked salmon brunch?"
+  answer: "Thick-cut sourdough toasted crisp and spread with caper mayonnaise or whipped cream cheese creates the ideal textural canvas for chilled smoked salmon."
+
 relatedIngredients:
 - 鮭魚
 - 雞蛋

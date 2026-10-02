@@ -77,6 +77,8 @@ substitutions:
 faqs:
 - question: Frozen salmon?
   answer: Thaw fully and pat dry before searing to avoid splatter.
+- question: "How do I fold seared salmon into pesto pasta without breaking the flakes?"
+  answer: "Sear thick salmon cubes until crisp and set aside. Plate the tossed pesto pasta first, then top with seared salmon chunks and broccoli for clean presentation."
 
 relatedIngredients:
 - 義大利麵

@@ -77,6 +77,8 @@ substitutions:
 faqs:
 - question: 可以用冷凍鮭魚嗎？
   answer: 可以，需完全解凍並擦乾表面再煎，才不會出水。
+- question: "鮭魚煎好後如何拌入青醬麵而不弄碎魚肉？"
+  answer: "鮭魚切厚塊先煎至外酥內嫩盛起；麵條拌好青醬裝盤後，再將金黃鮭魚塊與青花菜整齊鋪在上方，兼顧誘人賣相與魚肉鮮美口感。"
 
 relatedIngredients:
 - 義大利麵

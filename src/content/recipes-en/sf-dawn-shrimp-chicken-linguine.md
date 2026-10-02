@@ -103,4 +103,7 @@ faqs:
     answer: You can slice the pepper ahead and refrigerate it. Cook the pasta,
       chicken, and shrimp close to serving so the pasta does not absorb the sauce
       or the shrimp overcook.
+  - question: "How do I prevent pink sauce (tomato cream) from curdling?"
+    answer: "Reduce tomato sauce over low heat first. Bring heavy cream to room temperature and whisk it gradually into the tomato base in small additions until velvety."
+
 ---

@@ -63,6 +63,9 @@ substitutions:
 faqs:
 - question: "How thick should the tomato-beef sauce be?"
   answer: "Cook the tomato until softened and juicy, then add ketchup and sugar and reduce until slightly thick. Finish with the remaining soy sauce and spoon the sauce over the rice."
+- question: "How do I achieve that luscious sweet-tart sauce for tomato beef rice?"
+  answer: "Sauté peeled fresh tomatoes until jammy, then balance with a spoon of tomato paste and sugar. Fold in marinated beef slices during the final minute."
+
 relatedIngredients:
 - 牛肉
 - 番茄

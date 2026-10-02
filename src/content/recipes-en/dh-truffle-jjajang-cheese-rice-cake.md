@@ -49,6 +49,9 @@ faqs:
 - question: Can I prep the ingredients ahead?
   answer: You can measure the seasonings and cut the ingredients ahead. Refrigerate perishable items promptly and
     cook shortly before serving for the best texture.
+- question: "How do I prevent Korean rice cakes from sticking to the pan or staying tough?"
+  answer: "Soak rice cakes in warm water for 10 minutes first. Simmer in the jjajang sauce over medium-low heat, stirring constantly in circles until chewy and pliable before adding cheese."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: '2026-09-29'

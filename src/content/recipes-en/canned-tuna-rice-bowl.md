@@ -67,6 +67,9 @@ storage: Best fresh; filling keeps 1 day refrigerated—reheat before serving.
 faqs:
   - question: "No mayonnaise?"
     answer: "Yogurt or a little olive oil works for a lighter taste."
+  - question: "How do I elevate canned tuna for a delicious rice bowl?"
+    answer: "Drain liquid thoroughly, then mix the tuna with Japanese mayonnaise, freshly cracked black pepper, a squeeze of lemon, and minced onions for rich flavor without fishiness."
+
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-30"

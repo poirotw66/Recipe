@@ -30,6 +30,9 @@ substitutions:
 faqs:
 - question: "What should I do if the vegetables release water?"
   answer: "Drain them well and cook in batches so the pan stays hot instead of turning the vegetables soft and watery."
+- question: "How do I retain crisp textures and bright colors in garden vegetable pasta?"
+  answer: "Blanch firmer veggies (like broccoli) in the pasta pot during the last minute. Sauté quick-cooking squash and tomatoes in garlic oil, then toss everything briefly."
+
 relatedIngredients:
 - 義大利麵
 - 番茄
