@@ -1,6 +1,6 @@
 ---
 title: 經典火腿奶油炒菇班尼蛋
-description: "未試作的家常班尼蛋改編：烤歐包疊上炒菇、火腿與水波蛋，最後淋荷蘭醬；非貳樓原配方。"
+description: "未試作的家常班尼蛋改編：烤歐包疊上炒菇、火腿與水波蛋，最後淋荷蘭醬；非連鎖名店原配方。"
 coverImage: /images/recipes/sf-classic-ham-mushroom-eggs-benedict.webp
 servings: 2
 prepTime: 20
@@ -20,7 +20,7 @@ equipment:
   - 烤箱
 tags:
   - 早午餐
-intro: "以下是未試作的家常班尼蛋改編，非貳樓原配方。烤香歐包依序疊上炒菇、火腿與水波蛋，最後淋溫熱荷蘭醬。"
+intro: "以下是未試作的家常班尼蛋改編，非連鎖名店原配方。烤香歐包依序疊上炒菇、火腿與水波蛋，最後淋溫熱荷蘭醬。"
 steps:
   - 歐包 2 份橫切，切面抹少許奶油，以 180°C 烤箱烤 5～7 分鐘至表面金黃微脆。
   - 平底鍋中火加入橄欖油 1/2 大匙與少許奶油，倒入蘑菇 120 公克，拌炒至出水後轉小火收乾，撒海鹽 1/6 小匙與黑胡椒碎 1/8 小匙，起鍋保溫。
@@ -86,5 +86,5 @@ faqs:
   - question: "荷蘭醬和水波蛋怎麼安排，才能接近上桌時完成？"
     answer: "先烤麵包、收乾蘑菇、煎火腿並保溫；荷蘭醬用隔水或小火回溫。水波蛋最後製作，每次一顆、約 3 分鐘僅供參考，觀察蛋白凝固後撈起瀝乾並重複至 4 顆完成，再疊上配料與醬汁。一般雞蛋請煮至蛋黃凝固；要流心請用巴氏殺菌蛋。"
   - question: "兩人份為什麼用 4 顆水波蛋？"
-    answer: "本家常版本把每份歐包切成兩片，每片放 1 顆蛋。兩人份、4 顆蛋的份量配置參考 [Washington Post 的 Mushroom Benedict](https://www.washingtonpost.com/recipes/mushroom-benedict/)；這是家常份量參考，不代表貳樓的原始配方。"
+    answer: "本家常版本把每份歐包切成兩片，每片放 1 顆蛋。兩人份、4 顆蛋的份量配置參考 [Washington Post 的 Mushroom Benedict](https://www.washingtonpost.com/recipes/mushroom-benedict/)；這是家常份量參考，不代表名店的原始配方。"
 ---

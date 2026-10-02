@@ -1,7 +1,7 @@
 ---
 title: Classic Ham Mushroom Eggs Benedict
 recipeId: sf-classic-ham-mushroom-eggs-benedict
-description: "An untested home Benedict adaptation with toasted baguette, mushrooms, ham, and poached eggs under hollandaise; not Second Floor Cafe’s original recipe."
+description: "An untested home Benedict adaptation with toasted baguette, mushrooms, ham, and poached eggs under hollandaise; not a restaurant's original recipe."
 coverImage: /images/recipes/sf-classic-ham-mushroom-eggs-benedict.webp
 servings: 2
 prepTime: 20
@@ -21,7 +21,7 @@ equipment:
   - Oven
 tags:
   - Brunch
-intro: "This is an untested home Benedict adaptation, not Second Floor Cafe’s original recipe. Layer toasted baguette with sautéed mushrooms, seared ham, and poached eggs, then finish with warm hollandaise."
+intro: "This is an untested home Benedict adaptation, not a restaurant's original recipe. Layer toasted baguette with sautéed mushrooms, seared ham, and poached eggs, then finish with warm hollandaise."
 steps:
   - Slice 2 baguette rolls crosswise; butter the cut sides and bake at 180°C /
     350°F 5–7 minutes until golden and lightly crisp.
@@ -100,5 +100,5 @@ faqs:
   - question: "How do I time the hollandaise and poached eggs for serving?"
     answer: "Toast the rolls, reduce the mushrooms, and sear the ham first; keep them warm and gently warm the hollandaise over a water bath or very low heat. Poach the eggs last, one at a time; about 3 minutes per egg is a guide. Lift and drain each when the white is set, then repeat for all 4. Cook ordinary eggs until the yolk is firm, or use pasteurized eggs for a runny yolk."
   - question: "Why does this two-serving recipe use 4 poached eggs?"
-    answer: "This home version cuts each baguette roll into two pieces and tops each piece with one egg. Its two-serving, four-egg portion format is informed by the [Washington Post Mushroom Benedict](https://www.washingtonpost.com/recipes/mushroom-benedict/); it does not claim to reproduce Second Floor's original formula."
+    answer: "This home version cuts each baguette roll into two pieces and tops each piece with one egg. Its two-serving, four-egg portion format is informed by the [Washington Post Mushroom Benedict](https://www.washingtonpost.com/recipes/mushroom-benedict/); it does not claim to reproduce any restaurant's original formula."
 ---

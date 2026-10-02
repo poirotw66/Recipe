@@ -131,12 +131,17 @@ const tierLabels: Record<string, string> = {
                       <span class="chip success">{t(locale, "taxonomy.brandSpecialCompletion")}: {hubRecipes.filter(r => r.slug.startsWith('sf-')).length}/70</span>
                       <span class="chip note">100%</span>
                     </div>
-                    <h3>貳樓 Second Floor Cafe</h3>
+                    <h3>
+                      {locale === "zh-TW" ? "美式早午餐與洋食料理系列" :
+                       locale === "en" ? "American Brunch & Western Plates Series" :
+                       locale === "ja" ? "アメリカンブランチ・洋食シリーズ" :
+                       "아메리칸 브런치 & 양식 시리즈"}
+                    </h3>
                     <p class="brand-meta">
-                      {locale === "zh-TW" ? "全台連鎖早午餐品牌。包含熱門班尼迪克蛋、燉飯麵食與主廚甜點全系列還原。" :
-                       locale === "en" ? "Famous Taiwanese brunch chain. Fully replicated Benedicts, pastas, risottos, and chef desserts." :
-                       locale === "ja" ? "台湾で大人気のブランチチェーン。エッグベネディクト、パスタ、リゾット、特製デザートの完全再現。" :
-                       "대만 인기 브런치 체인. 에그 베네딕트, 파스타, 리조토, 셰프 디저트 전 메뉴 완전 재현."}
+                      {locale === "zh-TW" ? "全天候美式早午餐風味。包含經典班尼迪克蛋、燉飯麵食與主廚甜點全系列家庭還原。" :
+                       locale === "en" ? "Popular all-day brunch style. Fully adapted Benedicts, pastas, risottos, and chef desserts." :
+                       locale === "ja" ? "人気ブランチ店の味わい。エッグベネディクト、パスタ、リゾット、特製デザートの家庭向け再現。" :
+                       "인기 브런치 메뉴 재현. 에그 베네딕트, 파스타, 리조토, 셰프 디저트 가정식 레시피."}
                     </p>
                   </div>
                   <a href={localePath(locale, "/restaurant-replicas/second-floor-cafe")} class="button small">{t(locale, "taxonomy.brandSpecialView")}</a>
@@ -148,12 +153,17 @@ const tierLabels: Record<string, string> = {
                       <span class="chip success">{t(locale, "taxonomy.brandSpecialCompletion")}: {hubRecipes.filter(r => r.slug.startsWith('dh-')).length}/58</span>
                       <span class="chip note">100%</span>
                     </div>
-                    <h3>涓豆腐 Dubu House</h3>
+                    <h3>
+                      {locale === "zh-TW" ? "韓式嫩豆腐煲與道地小吃系列" :
+                       locale === "en" ? "Korean Soondubu & Classic Dishes Series" :
+                       locale === "ja" ? "韓国スンドゥブチゲ・人気料理シリーズ" :
+                       "한국 순두부찌개 & 인기 메뉴 시리즈"}
+                    </h3>
                     <p class="brand-meta">
-                      {locale === "zh-TW" ? "韓式第一連鎖品牌。包含經典豆腐煲系列、石鍋飯與蜂蜜蒜味炸雞全系列還原。" :
-                       locale === "en" ? "Top Korean soft tofu stew chain. Fully replicated soondubu, stone pot rice, and fried chicken." :
-                       locale === "ja" ? "韓国の純豆腐チゲ専門店。定番の純豆腐チゲ、石釜ご飯、韓国風フライドチキンの完全再現。" :
-                       "대한민국 대표 순두부찌개 전문점. 대표 순두부찌개, 돌솥밥, 한국식 치킨 전 메뉴 완전 재현."}
+                      {locale === "zh-TW" ? "正統韓式料理風味。包含經典豆腐煲系列、石鍋飯與香脆炸雞全系列家庭還原。" :
+                       locale === "en" ? "Comforting Korean style. Fully adapted soondubu, stone pot rice, and crispy fried chicken." :
+                       locale === "ja" ? "定番スンドゥブの味わい。純豆腐チゲ、石釜ご飯、韓国風フライドチキンの家庭向け再現。" :
+                       "정통 순두부의 풍미. 대표 순두부찌개, 돌솥밥, 한국식 치킨 가정식 레시피."}
                     </p>
                   </div>
                   <a href={localePath(locale, "/restaurant-replicas/dubu-house")} class="button small">{t(locale, "taxonomy.brandSpecialView")}</a>
@@ -175,8 +185,8 @@ const tierLabels: Record<string, string> = {
               <div class="filter-tabs-wrapper" style="margin-bottom: var(--space-6);">
                 <div class="filter-tabs" style="display: flex; gap: var(--space-2); flex-wrap: wrap;">
                   <button class="button filter-tab active" data-filter="all">{t(locale, "restaurantFilterAll")}</button>
-                  <button class="button note filter-tab" data-filter="second-floor-cafe">{t(locale, "restaurantFilterSecondFloor").replace(" Second Floor Cafe", "")} ({hubRecipes.filter(r => r.slug.startsWith('sf-')).length})</button>
-                  <button class="button note filter-tab" data-filter="dubu-house">{t(locale, "restaurantFilterDubuHouse").replace(" Dubu House", "")} ({hubRecipes.filter(r => r.slug.startsWith('dh-')).length})</button>
+                  <button class="button note filter-tab" data-filter="second-floor-cafe">{t(locale, "restaurantFilterSecondFloor")} ({hubRecipes.filter(r => r.slug.startsWith('sf-')).length})</button>
+                  <button class="button note filter-tab" data-filter="dubu-house">{t(locale, "restaurantFilterDubuHouse")} ({hubRecipes.filter(r => r.slug.startsWith('dh-')).length})</button>
                 </div>
               </div>
 

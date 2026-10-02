@@ -117,7 +117,7 @@ const zhTW: HomePageContent = {
       slug: "restaurant-replicas",
       label: "Replica",
       title: "名店還原專區",
-      description: "還原富錦樹、欣葉、明福、鼎泰豐等名店代表菜，完整工序與上桌份量。",
+      description: "還原經典台菜、美式早午餐與韓式經典料理，完整工序與上桌份量。",
       cover: topicCovers["restaurant-replicas"]
     }
   ],

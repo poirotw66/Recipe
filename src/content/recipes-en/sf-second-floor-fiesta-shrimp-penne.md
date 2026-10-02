@@ -1,5 +1,5 @@
 ---
-title: Second Floor Fiesta Shrimp Penne
+title: Fiesta Shrimp Penne
 recipeId: sf-second-floor-fiesta-shrimp-penne
 description: "Season shrimp with taco seasoning and chili flakes, then toss with penne and cream sauce."
 coverImage: /images/recipes/sf-second-floor-fiesta-shrimp-penne.webp

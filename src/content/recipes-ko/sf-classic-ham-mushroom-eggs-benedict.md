@@ -1,7 +1,7 @@
 ---
 title: 햄 버섯 에그 베네딕트
 recipeId: sf-classic-ham-mushroom-eggs-benedict
-description: "미검증 가정식 베네딕트 응용으로, 롤빵에 버섯, 햄, 수란을 올립니다. Second Floor Cafe의 원래 레시피가 아닙니다."
+description: "미검증 가정식 베네딕트 응용으로, 롤빵에 버섯, 햄, 수란을 올립니다. 음식점의 공식 레시피가 아닙니다."
 coverImage: /images/recipes/sf-classic-ham-mushroom-eggs-benedict.webp
 servings: 2
 prepTime: 20
@@ -21,7 +21,7 @@ equipment:
   - 오븐
 tags:
   - 브런치
-intro: "이 요리는 아직 조리 검증을 하지 않은 가정식 베네딕트 응용이며 Second Floor Cafe의 원래 레시피가 아닙니다. 구운 롤빵에 볶은 버섯, 햄, 수란을 올리고 따뜻한 홀랜다이즈 소스를 뿌립니다."
+intro: "이 요리는 아직 조리 검증을 하지 않은 가정식 베네딕트 응용이며 음식점의 공식 레시피가 아닙니다. 구운 롤빵에 볶은 버섯, 햄, 수란을 올리고 따뜻한 홀랜다이즈 소스를 뿌립니다."
 steps:
   - 롤빵 2인분을 가로로 잘라 단면에 버터를 살짝 바르고, 180°C 오븐에서 5~7분 굽혀 표면이 금색으로 바삭하게 만듭니다.
   - 팬을 중불로 달군 뒤 올리브 오일 1/2큰술과 버터를 조금 넣고 볶은 버섯 120g을 볶아 물기가 나오면 약불로 졸인 다음 바다소금
@@ -88,5 +88,5 @@ faqs:
   - question: "홀랜다이즈 소스와 수란은 어떤 순서로 준비해야 하나요?"
     answer: "롤빵을 굽고 버섯의 수분을 졸인 뒤 햄을 구워 따뜻하게 둡니다. 홀랜다이즈 소스는 중탕이나 아주 약한 불로 데우세요. 수란은 마지막에 한 개씩 만듭니다. 약 3분은 달걀 한 개당 참고 시간이며 흰자가 익으면 건져 물기를 빼고, 4개 모두 반복합니다. 일반 달걀은 노른자까지 익히고, 반숙은 살균란을 사용하세요."
   - question: "2인분에 수란 4개를 사용하는 이유는 무엇인가요?"
-    answer: "이 가정용 레시피는 롤빵 2개를 각각 2조각으로 잘라 한 조각마다 달걀 1개를 올립니다. 2인분에 달걀 4개를 사용하는 분량은 [Washington Post의 Mushroom Benedict](https://www.washingtonpost.com/recipes/mushroom-benedict/)를 참고했습니다. Second Floor의 원래 배합을 재현한 것은 아닙니다."
+    answer: "이 가정용 레시피는 롤빵 2개를 각각 2조각으로 잘라 한 조각마다 달걀 1개를 올립니다. 2인분에 달걀 4개를 사용하는 분량은 [Washington Post의 Mushroom Benedict](https://www.washingtonpost.com/recipes/mushroom-benedict/)를 참고했습니다. 음식점의 원래 배합을 재현한 것은 아닙니다."
 ---

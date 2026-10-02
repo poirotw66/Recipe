@@ -31,15 +31,15 @@ const brandRecipes = allRecipes.filter(r => r.slug.startsWith(prefix));
 // 3. Define brand specific visual metadata
 const brandConfig = {
   "second-floor-cafe": {
-    zhName: "貳樓 Second Floor Cafe",
-    enName: "Second Floor Cafe",
+    zhName: "美式早午餐與洋食料理系列",
+    enName: "American Brunch & Western Plates Series",
     cover: "/images/recipes/sf-dawn-shrimp-chicken-linguine.webp",
     totalPlanned: 70,
     accentColor: "var(--egg-yolk)"
   },
   "dubu-house": {
-    zhName: "涓豆腐 Dubu House",
-    enName: "Dubu House",
+    zhName: "韓式豆腐煲與道地小吃系列",
+    enName: "Korean Soondubu & Classic Dishes Series",
     cover: "/images/recipes/dh-classic-soondubu.webp",
     totalPlanned: 58,
     accentColor: "var(--tomato)"
@@ -47,10 +47,10 @@ const brandConfig = {
 }[brandSlug];
 
 const brandName = locale === "zh-TW" ? brandConfig.zhName : brandConfig.enName;
-const brandDesc = locale === "zh-TW" ? categoryData.description :
-                 locale === "en" ? (brandSlug === "second-floor-cafe" ? "Unofficial home-kitchen interpretations inspired by the public menu of this Taiwanese brunch chain." : "Unofficial home-kitchen interpretations inspired by the public menu of this Korean soft tofu stew chain.") :
-                 locale === "ja" ? (brandSlug === "second-floor-cafe" ? "台湾で大人気のブランチチェーン。エッグベネディクト、パスタ、リゾット、特製デザートの完全再現。" : "韓国の純豆腐チゲ専門店。定番の純豆腐チゲ、石釜ご飯、韓国風フライドチキンの完全再現。") :
-                 (brandSlug === "second-floor-cafe" ? "대만 인기 브런치 체인. 에그 베네딕트, 파스타, 리조토, 셰프 디저트 전 메뉴 완전 재현." : "대한민국 대표 순두부찌개 전문점. 대표 순두부찌개, 돌솥밥, 한국식 치킨 전 메뉴 완전 재현.");
+const brandDesc = locale === "zh-TW" ? (brandSlug === "second-floor-cafe" ? "以全天候美式早午餐與西式洋食為靈感，設計曙光醬、班尼蛋、椒麻唐揚雞麵與橙香丹麥等家常版本，口感與知名連鎖美式餐廳相似。" : "以正統韓式嫩豆腐煲為靈感，設計嫩豆腐煲、石鍋飯、韓式炸雞與道地小吃的家常版本，口感與知名豆腐煲名店相似。") :
+                 locale === "en" ? (brandSlug === "second-floor-cafe" ? "Home-kitchen interpretations inspired by popular American-style all-day brunch favorites, from eggs benedict to creamy pasta and artisanal toast." : "Home-kitchen interpretations inspired by Korean soft tofu stew houses, covering comforting stews, stone pot rice, and crispy fried chicken.") :
+                 locale === "ja" ? (brandSlug === "second-floor-cafe" ? "アメリカ風オールデイブランチや洋食メニューを家庭向けにアレンジ。エッグベネディクトやパスタなど、人気店の味わいを手軽に再現。" : "韓国スンドゥブチゲや石釜ご飯、フライドチキンを家庭向けにアレンジした人気メニュー特集です。") :
+                 (brandSlug === "second-floor-cafe" ? "올데이 아메리칸 브런치와 양식 메뉴를 가정에서 만들기 쉽게 정리한 시리즈입니다." : "한국식 순두부찌개와 돌솥밥, 치킨 메뉴를 가정에서 맛있게 즐길 수 있도록 정리한 레시피 시리즈입니다.");
 
 // 4. Calculate stats
 const totalPlanned = brandConfig.totalPlanned;

@@ -306,13 +306,13 @@
   {
     "name": "名店還原專區",
     "slug": "restaurant-replicas",
-    "description": "盡力還原台灣知名餐廳與米其林名店的代表菜，收錄完整工序、醬料比例與上桌份量，不刻意簡化成快手版。",
-    "seoTitle": "名店還原食譜專區｜台灣米其林與知名餐廳代表菜還原",
-    "seoDescription": "名店還原專區收錄富錦樹、欣葉、明福、鼎泰豐、元紀等名店代表菜的還原食譜，含樹子水蓮、菜脯蛋、鳳梨苦瓜雞湯與擔仔麵。",
+    "description": "收錄經典台菜、美式早午餐與韓式經典料理的家用還原食譜，以大廚火候與醬料比例為靈感，在家重現餐廳級美味。",
+    "seoTitle": "經典名菜還原食譜專區｜台菜名饌、美式早午餐與韓式料理家常版",
+    "seoDescription": "名菜還原專區收錄經典台菜、美式早午餐與韓式名菜的家常還原食譜，含樹子水蓮、菜脯蛋、鳳梨苦瓜雞湯與排骨酥，在家重現大廚風味。",
     "tags": [
-      "名店還原",
+      "名菜還原",
       "台菜",
-      "米其林"
+      "主廚風味"
     ],
     "recipeTags": [
       "名店還原"
@@ -341,33 +341,33 @@
     "relatedScenarios": [],
     "localeCopy": {
       "en": {
-        "description": "A collection that recreates signature dishes from famous Taiwanese restaurants with full steps, sauce ratios, and serving style instead of shortcut versions.",
-        "seoTitle": "Restaurant Replica Recipe Hub | Recreating Signature Taiwanese Dishes",
-        "seoDescription": "The restaurant replica hub covers signature dishes inspired by well-known Taiwanese restaurants, with full process notes and home-kitchen adaptations.",
+        "description": "Explore home-cooked recreations of classic Taiwanese banquet dishes, American-style all-day brunch, and Korean specialty favorites.",
+        "seoTitle": "Classic Dishes Replica Hub | Home Adaptations of Signature Favorites",
+        "seoDescription": "The replica hub covers home-kitchen interpretations of classic Taiwanese banquet dishes, American brunch, and Korean comforting stews.",
         "tags": [
-          "Restaurant replica",
+          "Classic replica",
           "Taiwanese cuisine",
-          "Michelin-inspired"
+          "Chef style"
         ]
       },
       "ja": {
-        "description": "台湾の有名店やミシュラン掲載店の看板料理を、工程やたれの比率、盛り付け量まで含めて再現する特集です。",
-        "seoTitle": "名店再現レシピ特集 | 台湾の人気店と代表料理を家庭で再現",
-        "seoDescription": "台湾の有名店をイメージした代表料理を、工程を省かずに家庭向けへ落とし込んだ再現レシピです。",
+        "description": "台湾の伝統料理やアメリカ風ブランチ、韓国の人気料理を、家庭で再現しやすいよう工夫した本格レシピ特集です。",
+        "seoTitle": "名菜再現レシピ特集 | 伝統の味と人気料理を家庭で再現",
+        "seoDescription": "名菜再現特集では、台湾の伝統的な台菜やアメリカ風ブランチ、韓国の人気料理を、家庭で再現しやすいよう工夫した本格レシピをお届けします。",
         "tags": [
-          "名店再現",
+          "名菜再現",
           "台湾料理",
-          "ミシュラン風"
+          "本格風味"
         ]
       },
       "ko": {
-        "description": "대만의 유명 식당과 미슐랭 식당 대표 메뉴를 공정, 소스 비율, 담음새까지 살려 재현하는 레시피 모음입니다.",
-        "seoTitle": "맛집 재현 레시피 허브 | 대만 대표 요리를 집에서 재현",
-        "seoDescription": "대만 유명 식당의 대표 메뉴를 집에서도 재현할 수 있도록 공정과 비율을 자세히 담은 레시피 허브입니다.",
+        "description": "대만 전통 요리와 아메리칸 브런치, 한국의 인기 메뉴를 집에서 맛있게 재현할 수 있는 레시피 모음입니다.",
+        "seoTitle": "인기 명메뉴 재현 허브 | 전통 요리와 브런치 가정식 재현",
+        "seoDescription": "인기 요리 재현 허브에서는 대만 전통 요리와 아메리칸 브런치, 한국의 인기 요리를 집에서도 쉽게 재현할 수 있는 레시피를 소개합니다.",
         "tags": [
-          "맛집 재현",
+          "명메뉴 재현",
           "대만 요리",
-          "미슐랭 감성"
+          "셰프 감성"
         ]
       }
     }

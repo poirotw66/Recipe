@@ -1,7 +1,7 @@
 ---
 title: Orange Danish Seafood and Poached Egg Plate
 recipeId: sf-orange-danish-poached-seafood-potato
-description: "An untested two-serving home adaptation with an orange Danish, pan-seared shrimp, fresh mushrooms, potatoes, and poached eggs; not Second Floor Cafe’s original recipe."
+description: "An untested two-serving home adaptation with an orange Danish, pan-seared shrimp, fresh mushrooms, potatoes, and poached eggs; not a restaurant's original recipe."
 coverImage: /images/recipes/sf-orange-danish-poached-seafood-potato.webp
 servings: 2
 prepTime: 15
@@ -21,7 +21,7 @@ equipment:
   - Oven
 tags:
   - Brunch
-intro: "This untested home adaptation uses the components listed on the public menu and standard home-cooking methods; it is not Second Floor Cafe’s original recipe. The seafood is specified as peeled, deveined raw shrimp. Boil the potatoes first, then cook the mushrooms, shrimp, and potatoes, and poach the eggs just before serving."
+intro: "This untested home adaptation uses the components listed on the public menu and standard home-cooking methods; it is not a restaurant's original recipe. The seafood is specified as peeled, deveined raw shrimp. Boil the potatoes first, then cook the mushrooms, shrimp, and potatoes, and poach the eggs just before serving."
 steps:
   - "Cut 250 g potatoes into 1/2-inch (about 1.5 cm) cubes. Put them in water, bring to a boil, then simmer for about 8 minutes, until a fork pierces them but the cubes still hold their shape. Drain and spread out to dry."
   - "While the potatoes cook, wipe the mushrooms clean and slice them. If frozen, thaw the 180 g peeled, deveined raw shrimp in the refrigerator first, then pat dry with paper towels. Warm 2 orange Danish pastries according to the package directions."
