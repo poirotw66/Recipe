@@ -1,6 +1,6 @@
 {
   "slug": "sf-american-cheesecake",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.8,
   "locales": [
@@ -9,18 +9,18 @@
     "ja",
     "ko"
   ],
-  "repair_summary": "Replaced finished cake ingredient with full filling/crust list, removed duplicate sugar/butter, specified pan and cooling/chilling time and corrected unrelated text.",
+  "repair_summary": "Added low-speed mixing guidance from King Arthur Baking, clarified FDA-backed 71°C center safety target and cooling limits, and synchronized the four locale notes.",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Recipe text has been corrected and cross-locale structure checked, but cooking time, yield, texture and retained cover-image consistency still need practical verification. No kitchen trial is claimed.",
-      "suggested_fix": "Run and record a kitchen trial with the listed ingredients and equipment, check the existing image against the resulting dish, and review all translations before changing index eligibility.",
+      "description": "四語稿已同步補充中低速拌合、逐顆加入雞蛋及達溫即停烤的操作。中心 71°C 保留為 FDA 蛋料理 160°F 指引的食安檢查點；King Arthur Baking 的 165–170°F 讀值量在距蛋糕邊緣約 2.5 公分處，配方、模具與測量位置不同，不能直接代換本稿中心讀值。此 6 吋水浴配方的實際烘烤時間、冷卻後凝固程度、切片份量與封面圖一致性尚待真人試作核實，未宣稱已試作。",
+      "suggested_fix": "請依四語流程以列出器具試作，記錄實際烘烤與冷卻時間、冷藏後凝固與切片表現，確認中心溫度計讀值及封面圖和成品是否相符，再修訂未能重現的細節。",
       "source": "agent"
     }
   ],
   "mechanical_review": {
     "issues": [],
-    "disposition": "Reviewed against the complete ingredient list and steps. Qualified names (small whole chicken, ready-to-eat products), shortened ingredient names, and black-pepper/salt aliases account for these string-matching warnings; no missing required ingredient was identified in this parent review."
+    "disposition": "Reviewed against the complete ingredient list and steps. All listed crust and filling ingredients are represented in the steps; the 71°C endpoint follows FDA consumer guidance for egg dishes, while recipe-specific bake and chilled-set behavior remain unverified."
   }
 }

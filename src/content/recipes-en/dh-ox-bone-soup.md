@@ -15,6 +15,7 @@ scenarios:
 equipment:
   - Large heavy-bottomed soup pot
   - Fine-mesh strainer
+  - Food thermometer
   - Soup bowls
 tags:
   - Korean cooking
@@ -30,6 +31,10 @@ references:
     url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
     note: 'Official FoodSafety.gov guidance: refrigerate perishable foods within 2 hours;
       the recipe adds item-specific storage or reheating cues.'
+  - label: Food safety guidance
+    name: USDA FSIS — Leftovers and Food Safety
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+    note: Official guidance to cool large pots of soup in shallow containers, bring soups to a boil when reheating, and heat leftovers to 74°C / 165°F.
 intro: This small home batch slowly simmers ox leg bones with brisket and daikon. Remove the
   tender beef and radish first while the bones continue cooking until the broth turns milky;
   season each bowl at the table.
@@ -40,15 +45,22 @@ steps:
     that blanching water, rinse the bones under cold water, and wash the pot to remove bone fragments and scum.
   - Return the rinsed ox leg bones to the pot with 4 L initial water, brisket, daikon, and onion. Bring
     to a boil, skim the surface, then lower the heat to a steady gentle simmer.
-  - Simmer for about 2–2½ hours, then remove the tender brisket and daikon. Slice and refrigerate
-    them. Continue simmering the bones until about 8 hours total; add hot water as needed
-    to keep them submerged.
-  - Strain the broth. Divide it while hot among shallow containers to cool quickly and refrigerate
-    within 2 hours. To serve, bring only the needed broth to a boil, add portions of beef
-    and radish until hot, and finish with scallion, salt, and black pepper at the table.
+  - From the point the pot settles into a simmer, cook for about 2–2½ hours, or until a fork
+    slides through the brisket but the meat still holds together for slicing, and the daikon
+    looks slightly translucent and is easily pierced without falling apart. Remove the beef
+    and radish. Portion the sliced meat and radish into shallow containers and refrigerate
+    within 2 hours; do not wait for the whole pot to cool. Count about 8 hours of total bone
+    cooking from the start of the simmer, including the first 2–2½ hours with the brisket and
+    daikon. If the water drops below the bones, add hot water in stages just to cover them again.
+  - Strain the broth into several shallow containers while hot so it cools quickly; refrigerate
+    within 2 hours rather than waiting for it to reach room temperature. To serve, bring only
+    the needed broth to a rolling boil, add portions of beef and radish, and use a food
+    thermometer to confirm the toppings reach 74°C / 165°F. Finish with scallion, salt, and
+    black pepper at the table.
 tips:
-  - Keep the broth at a gentle simmer; a hard boil evaporates water too quickly. Add hot water
-    when topping up.
+  - Keep the broth at a steady gentle simmer; a hard boil evaporates water too quickly. If the
+    bones become exposed, add only enough hot water to cover them again instead of restoring
+    the pot to its initial 4 L mark. Final broth volume varies with the pot and evaporation.
   - For a large batch, refrigerate the broth, beef, and radish in separate shallow containers;
     do not leave the stockpot to cool on the counter.
 storage: Divide broth, beef, and radish into shallow containers and refrigerate at 4°C / 40°F
@@ -67,10 +79,11 @@ faqs:
       fragments before the long simmer.
   - question: Does it need the full 8 hours?
     answer: A long, gentle simmer helps create the characteristic milky broth. Pots and burners
-      vary, so allow longer if needed and use the broth appearance and bones as cues.
+      vary, so allow longer if needed and use the broth appearance and bones as cues. The final
+      amount of stock also varies with evaporation and has not been measured for this batch.
 featured: false
 publishedAt: '2026-06-03'
-updatedAt: '2026-09-29'
+updatedAt: '2026-10-02'
 ingredients:
   - name: Ox leg bones
     amount: '1500'

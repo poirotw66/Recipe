@@ -1,26 +1,48 @@
 {
   "slug": "sf-country-cinnamon-peach-pie",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
-  "confidence_score": 0.8,
+  "confidence_score": 0.87,
   "locales": [
     "zh-TW",
     "en",
     "ja",
     "ko"
   ],
-  "repair_summary": "Provided peach/crust/egg/thickener ingredient list, removed duplicate sugar/cinnamon, specified pan, steam vents and cooling time and removed unrelated claims.",
+  "repair_summary": "依烘焙來源修正雙層水果派的底皮處理、餡料拌合、封邊排氣、分段烘烤熟度與完整冷卻說明；保留食材重量及約55分鐘烘烤估算，因完全冷卻至少兩小時而將總時間更新為200分鐘。",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Recipe text has been corrected and cross-locale structure checked, but cooking time, yield, texture and retained cover-image consistency still need practical verification. No kitchen trial is claimed.",
-      "suggested_fix": "Run and record a kitchen trial with the listed ingredients and equipment, check the existing image against the resulting dish, and review all translations before changing index eligibility.",
+      "description": "四語稿已依烘焙來源補足雙層水果派的組裝、烘烤及冷卻步驟，但20公分派盤實際適配、約50至60分鐘烘烤時間、500克蜜桃搭配20克玉米澱粉的定型程度、成品份量與口感及封面圖一致性都尚未真人試作確認；本次未宣稱已試作。",
+      "suggested_fix": "依列出的食材與20公分派盤實際製作，記錄派皮上色、內餡冒泡至少5分鐘後的烘烤時間、冷卻至少2小時後的餡料定型與切片結果，並比對封面圖及覆核四語稿。實作審核前維持四語 noindex。",
       "source": "agent"
     }
   ],
   "mechanical_review": {
     "issues": [],
-    "disposition": "Reviewed against the complete ingredient list and steps. Qualified names (small whole chicken, ready-to-eat products), shortened ingredient names, and black-pepper/salt aliases account for these string-matching warnings; no missing required ingredient was identified in this parent review."
-  }
+    "disposition": "人工對照四語份量、時間、食材與步驟；雞蛋用於刷面並丟棄剩液，冰淇淋為可選配料，其餘列出的食材均有使用步驟。"
+  },
+  "references": [
+    {
+      "name": "Pie Baking Guide — King Arthur Baking",
+      "url": "https://www.kingarthurbaking.com/learn/guides/pie-baking",
+      "supports": "雙層派組裝與捏合封邊、切排氣口、先高溫後降溫烘烤、以金黃派皮和餡料冒泡判斷熟度、冒泡至少5分鐘，以及完全冷卻至少數小時後再整齊切片。"
+    },
+    {
+      "name": "How to prebake pie crust — and why you should — King Arthur Baking",
+      "url": "https://www.kingarthurbaking.com/blog/2021/05/24/prebake-pie-crust",
+      "supports": "雙層水果派不適合預烤底皮，因為熟底皮與生上皮較難密封，果汁可能從邊緣漏出。"
+    },
+    {
+      "name": "Baking trials: What’s the best way to thicken fruit pie filling? — King Arthur Baking",
+      "url": "https://www.kingarthurbaking.com/blog/2024/07/08/pie-filling-thickener",
+      "supports": "玉米澱粉加熱後可使水果釋出的果汁變稠；雙層派留住較多液體，所需用量會依水果和派型而變，本來源未驗證本改編所用的20克。"
+    },
+    {
+      "name": "Leftovers and Food Safety — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety",
+      "supports": "易腐剩食應在兩小時內冷藏；環境高於32°C時應在一小時內冷藏。"
+    }
+  ]
 }

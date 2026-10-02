@@ -25,9 +25,17 @@ references:
     name: Bacteria and Viruses
     url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
     note: FoodSafety.gov 官方指引：易腐食物應在 2 小時內冷藏；本文另依品項補充保存或加熱提醒。
+  - label: 生鮮水果處理
+    name: Selecting and Serving Produce Safely — FDA
+    url: https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely
+    note: FDA 建議水果在削皮或切開前以流動清水洗淨並擦乾；不建議用肥皂或清潔劑洗水果。
+  - label: 切好水果冷藏
+    name: Washing Food — USDA FSIS
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/washing-food-does-it-promote-food
+    note: USDA FSIS 建議為品質與食安，立即冷藏切好的水果等食材。
 intro: 這款冷食水果碗以原味優格為主體，水果與燕麥脆片增加口感；不加入橄欖油或鹽。
 steps:
-  - 芒果和鳳梨切成一口大小，香蕉切片。水果切好後儘快冷藏或組碗。
+  - 先以流動清水洗淨芒果、香蕉和鳳梨表面，再用乾淨紙巾擦乾；用乾淨的刀和砧板將芒果、鳳梨切成一口大小，香蕉切片。切好的水果儘快冷藏，或直接組碗並立即食用。
   - 將原味優格舀入碗中，鋪上芒果、香蕉和鳳梨。
   - 食用前撒燕麥脆片並淋少量蜂蜜，立即享用以保持脆片口感。
 tips:
@@ -45,7 +53,7 @@ faqs:
     answer: 可以，先在冰箱解凍並瀝掉多餘水分，再放到優格上；燕麥脆片仍在食用前加入。
 featured: false
 publishedAt: 2026-06-09
-updatedAt: 2026-09-29
+updatedAt: 2026-10-02
 ingredients:
   - name: 無糖原味優格
     amount: "180"

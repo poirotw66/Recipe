@@ -1,6 +1,6 @@
 {
   "slug": "dh-tofu-ice-cream-with-tapioca",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.8,
   "locales": [
@@ -9,31 +9,18 @@
     "ja",
     "ko"
   ],
-  "repair_summary": "Replaced raw soybean recipe with ready-to-eat tofu, removed duplicate sugar/unlisted salt and contradictory no-stir claim, budgeted freezing and quick-cooking pearls.",
+  "repair_summary": "Clarified ready-to-eat refrigerated tofu and package-directed pearl use across locales; documented supported freeze-and-stir technique and cold handling; removed unverified pearl-freezing texture and one-week storage claims.",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Recipe text has been corrected and cross-locale structure checked, but cooking time, yield, texture and retained cover-image consistency still need practical verification. No kitchen trial is claimed.",
-      "suggested_fix": "Run and record a kitchen trial with the listed ingredients and equipment, check the existing image against the resulting dish, and review all translations before changing index eligibility.",
+      "description": "四語步驟已明確使用 300 g 冷藏即食嫩豆腐與 50 g 即煮珍珠，原有兩項未使用食材警示是名稱比對未辨識簡稱的機械誤判；外部來源只支持一般的冷凍攪拌技巧、食材標示與保存處理，並未驗證本配方。實際凍結／定型時間、質地、成品份量與封面圖相符性仍待真人試作確認。",
+      "suggested_fix": "以四語列出的份量和器具完成真人試作，記錄實際凍結及定型時間、質地與成品份量，並核對封面圖；試作前維持 Warning 與現行索引資格。",
       "source": "agent"
     }
   ],
   "mechanical_review": {
-    "issues": [
-      {
-        "type": "Ingredient_Mismatch",
-        "code": "unused_ingredient",
-        "severity": "Warning",
-        "description": "Listed item \"可直接食用的嫩豆腐\" not found in steps text (heuristic)."
-      },
-      {
-        "type": "Ingredient_Mismatch",
-        "code": "unused_ingredient",
-        "severity": "Warning",
-        "description": "Listed item \"即煮黑糖珍珠（乾，包裝煮時不超過 20 分鐘）\" not found in steps text (heuristic)."
-      }
-    ],
-    "disposition": "Reviewed against the complete ingredient list and steps. Qualified names (small whole chicken, ready-to-eat products), shortened ingredient names, and black-pepper/salt aliases account for these string-matching warnings; no missing required ingredient was identified in this parent review."
+    "issues": [],
+    "disposition": "The two prior unused_ingredient warnings were heuristic false positives: all four locale step lists explicitly use 300 g ready-to-eat silken tofu in the base and cook the listed 50 g tapioca pearls according to the package. No listed ingredient is unaccounted for."
   }
 }

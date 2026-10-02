@@ -1,6 +1,6 @@
 {
   "slug": "sf-acai-berry-yogurt-bowl",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.8,
   "locales": [
@@ -9,18 +9,18 @@
     "ja",
     "ko"
   ],
-  "repair_summary": "Added yogurt; specified ready-to-eat puree/granola, reduced serving size, removed oil/salt, diet scenario and unrelated cooking guidance.",
+  "repair_summary": "本輪複核確認現有冷食流程已涵蓋即食巴西莓泥、冷凍產品依包裝退冰、優格底冷藏及穀物堅果上桌前加入；不為增加字數改寫正文，時間、份量、解凍後質地與封面相符性仍待試作。",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Recipe text has been corrected and cross-locale structure checked, but cooking time, yield, texture and retained cover-image consistency still need practical verification. No kitchen trial is claimed.",
-      "suggested_fix": "Run and record a kitchen trial with the listed ingredients and equipment, check the existing image against the resulting dish, and review all translations before changing index eligibility.",
+      "description": "現有四語流程已交代即食巴西莓泥、冷凍產品依包裝退冰、先打莓果優格底並冷藏，以及穀物和堅果上桌前才加入；本輪沒有發現足以支持新增步驟的明確缺口，因此未為增加字數改寫正文。實際備料時間、份量、冷凍莓果解凍後質地與封面圖相符性仍待真人試作確認，未宣稱已試作。",
+      "suggested_fix": "依目前配方試作並記錄備料時間、實際產量、冷凍莓果解凍後質地及成品照片，再核對四語核心用量和封面圖；完成實作與索引證據檢查前維持 Warning 及現行 noindex。",
       "source": "agent"
     }
   ],
   "mechanical_review": {
     "issues": [],
-    "disposition": "Reviewed against the complete ingredient list and steps. Qualified names (small whole chicken, ready-to-eat products), shortened ingredient names, and black-pepper/salt aliases account for these string-matching warnings; no missing required ingredient was identified in this parent review."
+    "disposition": "逐項核對六項食材：巴西莓泥、優格、莓果、香蕉、穀麥片與堅果均在步驟或組裝中使用。現有正文已說明即食、依包裝退冰、冷藏底料及最後加入脆料；本輪未發現需要補入的來源支持型操作資訊。"
   }
 }

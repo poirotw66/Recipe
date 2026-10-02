@@ -29,11 +29,18 @@ references:
     url: https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses
     note: 'Official FoodSafety.gov guidance: refrigerate perishable foods within 2 hours;
       the recipe adds item-specific storage or reheating cues.'
+  - label: Fresh-produce handling
+    name: Selecting and Serving Produce Safely — FDA
+    url: https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely
+    note: Wash produce under running water and dry it before peeling or cutting; do not use soap or detergent.
+  - label: Refrigerating cut fruit
+    name: Washing Food — USDA FSIS
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/washing-food-does-it-promote-food
+    note: USDA FSIS recommends immediately refrigerating cut fruit for best quality and food safety.
 intro: This chilled fruit bowl is built on plain yogurt, with fruit and oat
   clusters for texture. It contains no olive oil or salt.
 steps:
-  - Cut the mango and pineapple into bite-size pieces and slice the banana.
-    Refrigerate the cut fruit promptly or assemble the bowl.
+  - Rinse the mango, banana, and pineapple under running water and dry with a clean paper towel. Using a clean knife and cutting board, cut the mango and pineapple into bite-size pieces and slice the banana. Refrigerate the cut fruit promptly, or assemble the bowl and eat it right away.
   - Spoon the plain yogurt into a bowl and arrange the mango, banana, and
     pineapple on top.
   - Add the oat clusters and a little honey just before serving so the oats stay
@@ -56,7 +63,7 @@ faqs:
       it to the yogurt. Add the oat clusters just before serving.
 featured: false
 publishedAt: 2026-06-09
-updatedAt: 2026-09-29
+updatedAt: 2026-10-02
 ingredients:
   - name: Plain unsweetened yogurt
     amount: "180"

@@ -1,14 +1,14 @@
 {
   "slug": "sf-green-superhero-quinoa-buddha-bowl",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "description": "四語稿已補上藜麥水分吸收與胚芽捲曲的熟度訊號、花椰菜上色與叉子測試，以及碗中溫熱配料和新鮮配料的組裝方式；一人份配方的實際總時間、成品份量與口感仍未經真人試作確認。",
+      "suggested_fix": "請真人依四語一致的一人份配方試作，記錄實際備料與烹煮時間、成品份量，並確認藜麥濕潤度、花椰菜熟度與焦香程度、鷹嘴豆溫度及整碗口感；在真人確認前維持 Warning 與目前的 noindex 設定。",
       "source": "agent"
     }
   ]

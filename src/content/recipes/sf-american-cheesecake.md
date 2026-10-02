@@ -21,16 +21,16 @@ references:
   - label: 食譜來源
     name: King Arthur Baking — Easy Cheesecake
     url: https://www.kingarthurbaking.com/recipes/easy-cheesecake-recipe
-    note: 參考奶油乳酪、糖與蛋的烤起司蛋糕做法；本站改用 6 吋模、夾心餅乾底與水浴，份量另行縮配。
+    note: 參考奶油乳酪與糖以中低速拌勻、避免打入過多空氣的技巧；原配方使用 9 吋派盤且測量距邊緣約 2.5 公分處的溫度，本稿 6 吋水浴配方與測量位置不同，並非直接等比例縮小或試作結果。
   - label: 食品安全參考
-    name: Safe Minimum Internal Temperature Chart
-    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
-    note: USDA 指引：含蛋料理中心至少 71°C；易腐食物烹調後 2 小時內冷藏。
-intro: 6 吋烤起司蛋糕，以夾心餅乾做底，奶油乳酪、蛋與鮮奶油做內餡。完成烘烤後需冷卻及冷藏定型，約可切八小片。
+    name: What You Need to Know About Egg Safety — FDA
+    url: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety
+    note: FDA 建議蛋料理達 160°F（約 71°C）；含蛋易腐食物在室溫不可超過 2 小時，並應冷藏於 4°C 以下。
+intro: 6 吋烤起司蛋糕，以夾心餅乾做底，奶油乳酪、蛋與鮮奶油做內餡。完成烘烤後需冷卻及冷藏定型，約可切八小片；中心 71°C 是蛋料理食安檢查點，成品質地仍待試作確認。
 steps:
 - 烤箱預熱至 160°C。6 吋模具底部鋪烘焙紙；Oreo 餅乾壓碎，與融化無鹽奶油 50 克拌勻後壓入模底，冷藏備用。
-- 奶油乳酪放至柔軟，與細砂糖 60 克拌至滑順；逐顆加入雞蛋，再拌入鮮奶油 80 毫升。
-- 將乳酪糊倒入模具，放入烤盤並加熱水作水浴。烘烤約 45～55 分鐘，以食物溫度計確認中心至少達 71°C；未達時續烤並重測。
+- 奶油乳酪放至柔軟，與細砂糖 60 克以中低速拌至滑順，避免打入過多空氣；逐顆加入雞蛋，每次拌勻再加下一顆，最後拌入鮮奶油 80 毫升。
+- 將乳酪糊倒入模具並抹平，放入烤盤加熱水作水浴。烘烤約 45～55 分鐘後，將溫度計插入內餡中心確認至少達 71°C；未達時續烤並重測，達標即停止烘烤。實際時間與冷卻後凝固程度尚待試作確認。
 - 關火後留在烤箱中 20 分鐘，再取出散熱約 30 分鐘；從停止加熱起 2 小時內移入 4°C 以下冰箱，冷藏至少 4 小時後切片。
 tips:
 - 奶油乳酪只需軟化至容易拌勻，不要長時間置於室溫。
@@ -46,7 +46,7 @@ customAdditions: []
 faqs: []
 featured: false
 publishedAt: '2026-06-09'
-updatedAt: "2026-09-29"
+updatedAt: "2026-10-02"
 ingredients:
 - name: Oreo 餅乾
   amount: '150'
@@ -75,4 +75,4 @@ ingredients:
 seasonings: []
 ---
 
-參考奶油乳酪、糖與蛋的烤起司蛋糕做法；本站改用 6 吋模、夾心餅乾底與水浴，份量另行縮配。
+參考 King Arthur Baking 以中低速拌合奶油乳酪與糖的技巧；本稿另採 6 吋模、夾心餅乾底與水浴，並依 FDA 蛋料理指引以中心 71°C 作為食安檢查點。此配方尚未試作，烘烤時間與冷藏後凝固程度待真人確認。

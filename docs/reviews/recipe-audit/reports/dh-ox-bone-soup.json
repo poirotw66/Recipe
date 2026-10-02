@@ -1,6 +1,6 @@
 {
   "slug": "dh-ox-bone-soup",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.8,
   "locales": [
@@ -9,25 +9,18 @@
     "ja",
     "ko"
   ],
-  "repair_summary": "Reframed as prepared-stock beef soup rather than bone broth; corrected equipment, doneness/rest and leftover reheating.",
+  "repair_summary": "內容已按四語稿改為牛骨與牛腩長時間熬煮的雪濃湯；已補上牛骨水位、牛肉與蘿蔔取出熟度、分裝冷卻及回熱提示。",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Recipe text has been corrected and cross-locale structure checked, but cooking time, yield, texture and retained cover-image consistency still need practical verification. No kitchen trial is claimed.",
-      "suggested_fix": "Run and record a kitchen trial with the listed ingredients and equipment, check the existing image against the resulting dish, and review all translations before changing index eligibility.",
+      "description": "四語稿已補充長時間熬湯的水位管理、牛腩與白蘿蔔的取出熟度線索，以及分裝冷卻和回熱方式；實際熬煮時間、收湯量、口感與現有封面是否符合成品仍待真人核對，尚未進行廚房試作。",
+      "suggested_fix": "請依清單第 22 項以四語一致配方試作，記錄牛肉熟度、鹹度、成品湯量及實際總時間，並將成品與封面核對；真人驗證前維持 Warning 和目前的 noindex 設定。",
       "source": "agent"
     }
   ],
   "mechanical_review": {
-    "issues": [
-      {
-        "type": "Ingredient_Mismatch",
-        "code": "step_mentions_unknown",
-        "severity": "Warning",
-        "description": "Steps mention \"胡椒\" but it is not in ingredients/seasonings/customAdditions/substitutions."
-      }
-    ],
-    "disposition": "Reviewed against the complete ingredient list and steps. Qualified names (small whole chicken, ready-to-eat products), shortened ingredient names, and black-pepper/salt aliases account for these string-matching warnings; no missing required ingredient was identified in this parent review."
+    "issues": [],
+    "disposition": "已逐語核對用詞：繁中步驟的「黑胡椒」對應調味料；英文 black pepper、日文 黒こしょう、韓文 후추 均列在調味料並出現在上桌步驟。原機械警告是詞語比對誤報，已移除，沒有缺少胡椒食材。"
   }
 }

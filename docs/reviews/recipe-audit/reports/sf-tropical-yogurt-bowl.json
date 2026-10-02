@@ -1,15 +1,44 @@
 {
   "slug": "sf-tropical-yogurt-bowl",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
-  "confidence_score": 0.9,
+  "confidence_score": 0.94,
+  "locales": [
+    "zh-TW",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "repair_summary": "四語步驟補上依 FDA 指引在削皮、切果前以流動清水清洗水果並擦乾，並使用乾淨刀具與砧板；保留原份量、10分鐘冷食流程、切果冷藏與燕麥脆片最後加入的順序。",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "description": "四語份量、10分鐘冷食流程、優格與切果冷藏、燕麥脆片食用前加入的口感順序一致；已補充切果前清洗與乾燥提醒。實際備料時間、成品份量與口感、封面圖一致性仍待真人試作確認，本次未宣稱已試作。",
+      "suggested_fix": "實際備料一次並記錄時間、份量與口感，確認燕麥脆片是否能維持酥脆及成品是否符合封面圖；完成試作前維持四語 noindex。",
       "source": "agent"
+    }
+  ],
+  "references": [
+    {
+      "name": "Selecting and Serving Produce Safely — FDA",
+      "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely",
+      "supports": "生鮮水果在削皮或切開前以流動清水洗淨；洗後以乾淨布或紙巾擦乾，不使用肥皂或清潔劑。"
+    },
+    {
+      "name": "Washing Food — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/washing-food-does-it-promote-food",
+      "supports": "為品質與食安，立即冷藏切好的水果等食材。"
+    },
+    {
+      "name": "Bacteria and Viruses — FoodSafety.gov",
+      "url": "https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses",
+      "supports": "易腐食物應在兩小時內冷藏；冷藏溫度維持在4°C以下。"
+    },
+    {
+      "name": "Tropical Yoghurt Bowl — Yakult UK",
+      "url": "https://www.yakult.co.uk/recipe/tropical-yoghurt-bowl/",
+      "supports": "優格入碗後加芒果、鳳梨與穀物的組合順序；本站改編添加香蕉與蜂蜜。"
     }
   ]
 }
