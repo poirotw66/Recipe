@@ -15,6 +15,7 @@ carbs: 22
 category: "Home cooking"
 scenarios:
 - Budget-friendly meals
+- Use up the fridge
 - 10-minute meals
 equipment:
 - Skillet

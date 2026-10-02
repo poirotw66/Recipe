@@ -15,6 +15,7 @@ carbs: 22
 category: "家庭料理"
 scenarios:
 - 節約料理
+- 冷蔵庫使い切り
 - 10分でできる料理
 equipment:
 - フライパン

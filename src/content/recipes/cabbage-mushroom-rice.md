@@ -17,6 +17,7 @@ scenarios:
 - 省錢料理
 - 便當菜
 - 10 分鐘料理
+- 電鍋料理
 equipment:
 - 電鍋
 ingredients:

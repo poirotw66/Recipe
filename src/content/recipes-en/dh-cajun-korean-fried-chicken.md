@@ -41,8 +41,7 @@ steps:
     quickly toss fried chicken to coat (turning off heat keeps the crust
     crispy), sprinkle a pinch of sesame seeds, and serve.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours. Reheat to
-  74°C (165°F) before serving.
+storage: "Store chicken and sauce in the fridge for up to 2 days. Reheat in an air fryer at 180°C (350°F) for 5 minutes to restore crunch before coating with sauce."
 substitutions:
   - boneless chicken thigh
   - Korean fried chicken mix
@@ -53,7 +52,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "How do I keep the fried chicken crunchy for longer?"
+    answer: "Use a double-fry technique: first at 160°C (320°F) to cook the chicken through, rest for 3 minutes, then flash-fry at 180°C (350°F) for 1 minute to crisp the crust."
+  - question: "How can I tone down the spice level of Cajun sauce?"
+    answer: "Mix in a spoonful of honey, mayonnaise, or plain yogurt to mellow the heat and add a velvety finish."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: '2026-09-29'

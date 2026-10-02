@@ -28,7 +28,11 @@ tips:
 
 substitutions:
 - Cod fillet
-faqs: []
+faqs:
+  - question: "How do I keep roasted salmon succulent while crisping the skin?"
+    answer: "Score the dry skin lightly, season, and roast at 200°C (400°F) for 10-12 minutes. Finish with fresh lemon juice."
+  - question: "Should lemon slices be roasted underneath the salmon?"
+    answer: "Yes, placing lemon wheels under the salmon keeps the fish from sticking to the pan while infusing citrus vapor into the fillet."
 relatedIngredients:
 - 鮭魚
 - 青花菜
@@ -72,7 +76,7 @@ steps:
 - Roast 8–10 minutes more until edges color and fish flakes easily but the center stays moist—overcooking dries it out.
 - Rest 2 minutes so juices settle, then plate.
 - Squeeze a little more lemon over the top before serving if you like.
-storage: Eat within 1 day; reheat covered with foil to avoid drying.
+storage: "Refrigerate for 1 day. Warm gently in an oven at 150°C (300°F) for 5 minutes."
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-30"

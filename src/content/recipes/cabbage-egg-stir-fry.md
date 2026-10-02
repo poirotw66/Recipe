@@ -17,6 +17,7 @@ scenarios:
 - 10 分鐘料理
 - 省錢料理
 - 便當菜
+- 冰箱清庫存
 equipment:
 - 平底鍋
 ingredients:

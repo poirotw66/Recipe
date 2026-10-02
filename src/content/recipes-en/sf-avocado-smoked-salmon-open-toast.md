@@ -29,7 +29,7 @@ steps:
 tips:
 - Drain the poached eggs well before putting them on the bread.
 - Bacon, sausage, and smoked salmon are already salty; taste before adding the listed salt.
-storage: Eat assembled sandwiches promptly. Store bread and toppings separately. Refrigerate egg, meat, and fish at 4°C or below within 2 hours, or 1 hour above 32°C, and follow package use-by dates. Reheat cooked egg and meat to 74°C the next day; eat cut avocado the same day.
+storage: "Serve immediately. Keep smoked salmon cold (0-4°C) and consume within 1-2 days of opening."
 substitutions: []
 relatedIngredients:
 - 歐包
@@ -37,7 +37,11 @@ relatedIngredients:
 - 酪梨
 - 水波蛋
 customAdditions: []
-faqs: []
+faqs:
+  - question: "How should mashed avocado be seasoned to match smoked salmon?"
+    answer: "Mash with fresh lemon juice, sea salt, and cracked black pepper. The acidity cuts salmon richness while preserving bright green color."
+  - question: "What bread works best for this open-faced sandwich?"
+    answer: "Sourdough, rye bread, or toasted Danish slices offer sturdy crumb and pleasant crust that support the toppings without bending."
 featured: false
 publishedAt: '2026-06-09'
 updatedAt: "2026-09-29"

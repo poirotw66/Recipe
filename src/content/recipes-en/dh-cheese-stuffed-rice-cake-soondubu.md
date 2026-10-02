@@ -41,8 +41,7 @@ steps:
     white and yolk are fully set and the center reaches 71°C (160°F). Turn off
     the heat, then scatter scallions and sesame seeds over the stew.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to
-  74°C (165°F) before serving.
+storage: "Refrigerate for 1 day. Reheat over low heat with a splash of water if the broth has reduced."
 substitutions:
   - soft tofu
   - cheddar cheese slice
@@ -54,7 +53,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "Do cheese-stuffed rice cakes need to be pre-cooked before adding?"
+    answer: "No, but soaking frozen rice cakes in warm water for 5 minutes helps them cook through evenly alongside the soft tofu."
+  - question: "How do I prevent cheese filling from bursting out into the broth?"
+    answer: "Keep the heat at a gentle simmer rather than a violent rolling boil, cooking just until the rice cakes float."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-09-29"

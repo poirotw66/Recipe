@@ -52,10 +52,14 @@ steps:
 tips:
 - Do not stir-fry beef too long or it toughens.
 
-storage: Best fresh.
+storage: "Best served immediately. Store leftovers in an airtight container in the fridge for up to 1 day and reheat quickly over high heat."
 substitutions:
 - Scallions
-faqs: []
+faqs:
+  - question: "How do I keep thinly sliced beef tender when stir-frying?"
+    answer: "Slice the beef against the grain, pat dry, and sear in a hot pan in a single layer. Add the sauce once the meat changes color and remove immediately."
+  - question: "What meat can substitute for beef in this quick stir-fry?"
+    answer: "Thinly sliced pork loin, pork collar, or boneless chicken thighs work wonderfully with the caramelized onions and savory glaze."
 relatedIngredients:
 - 牛肉
 - 洋蔥

@@ -27,7 +27,7 @@ steps:
   - "Off heat"
 tips:
   - "Render the sausage over low heat without adding oil. Use 3 tablespoons cream sauce and add the listed ¼ teaspoon black pepper."
-storage: "Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
+storage: "Refrigerate for 1 day. Cream sauce thickens when chilled; loosen with 2 tablespoons of milk or water when reheating."
 substitutions:
   - pasta
   - jasmine rice
@@ -76,5 +76,9 @@ seasonings:
   - name: chili flakes
     amount: 1/2
     unit: tsp
-faqs: []
+faqs:
+  - question: "How do I keep cream pasta sauce smooth and prevent breaking?"
+    answer: "Simmer heavy cream gently over medium-low heat. Remove from heat before stirring in grated cheese to melt smoothly."
+  - question: "How do I incorporate Taiwanese sausage into a cream sauce?"
+    answer: "Brown sausage slices first to render aromatic fat, then pour in cream and garlic so the savory-sweet glaze infuses the sauce."
 ---

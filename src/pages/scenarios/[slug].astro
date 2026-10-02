@@ -4,7 +4,8 @@ import JsonLd from "../../components/JsonLd.astro";
 import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
-import { buildBreadcrumbJsonLd, buildItemListJsonLd, buildThingJsonLd, truncateMetaDescription } from "../../lib/seo";
+import { buildBreadcrumbJsonLd, buildFaqJsonLd, buildItemListJsonLd, buildThingJsonLd, truncateMetaDescription } from "../../lib/seo";
+import { getScenarioFaqs } from "../../lib/taxonomy-faqs";
 import {
   filterIngredientsWithRecipes,
   formatScenarioPopularRecipesLead,
@@ -56,6 +57,8 @@ const relatedScenarios = scenario.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((relatedScenario): relatedScenario is NonNullable<typeof relatedScenario> => Boolean(relatedScenario));
 const scenarioHubIntro = getScenarioHubIntro(scenario, "zh-TW");
+const scenarioFaqs = getScenarioFaqs(scenario, "zh-TW");
+const faqJsonLd = buildFaqJsonLd(scenarioFaqs);
 const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: "首頁", path: "/" },
   { name: "情境", path: "/scenarios/" },
@@ -86,6 +89,7 @@ const relatedRecipeListJsonLd =
 >
   <JsonLd data={breadcrumbJsonLd} />
   <JsonLd data={scenarioJsonLd} />
+  <JsonLd data={faqJsonLd} />
   {relatedRecipeListJsonLd && <JsonLd data={relatedRecipeListJsonLd} />}
   <section class="section">
     <div class="container">
@@ -145,6 +149,23 @@ const relatedRecipeListJsonLd =
             </a>
           </div>
         )}
+      </section>
+
+      <section class="section section-compact">
+        <div class="article">
+          <p class="eyebrow">常見問題</p>
+          <h2>{scenario.name} 料理與備餐常見問答</h2>
+          <div class="faq-list">
+            {scenarioFaqs.map((faq) => (
+              <article class="card">
+                <div class="card-body">
+                  <h3>{faq.question}</h3>
+                  <p>{faq.answer}</p>
+                </div>
+              </article>
+            ))}
+          </div>
+        </div>
       </section>
 
       <section class="section section-compact">

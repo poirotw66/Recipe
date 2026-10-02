@@ -38,8 +38,7 @@ steps:
   - Before serving, toss in mozzarella cheese 60 g until melted and stretchy;
     top with sesame seeds or scallions and serve hot.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to
-  74°C (165°F) before serving.
+storage: "Refrigerate for up to 1 day. Reheat gently in a pan with 1 tbsp of milk or water over low heat until cheese melts."
 substitutions:
   - squid
   - "K-Rose sauce"
@@ -50,7 +49,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "What is Korean rosé sauce?"
+    answer: "Korean rosé sauce blends gochujang chili paste with heavy cream or milk, creating a velvety, mild-spicy sauce with rich savory depth."
+  - question: "How do I cook Korean rice cakes so they stay chewy without sticking?"
+    answer: "Soak dry rice cakes in warm water for 10 minutes first. Cook over medium-low heat with regular stirring until soft."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-09-29"

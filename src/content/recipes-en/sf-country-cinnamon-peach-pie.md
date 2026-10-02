@@ -44,8 +44,7 @@ steps:
 tips:
 - A double crust traps more fruit juice, so keep the filling bubbling for at least 5 minutes and let the pie cool completely so it can set before slicing.
 - Peach juiciness, pie-dish material, and oven temperature affect the result. The 20 cm pan, 20 g cornstarch, and bake time in this adaptation have not been kitchen-tested.
-storage: Refrigerate within 2 hours and use within 3 days; refrigerate within 1 hour if above
-  32°C / 90°F. Keep ice cream frozen separately.
+storage: "Store covered in the fridge for 3-4 days. Warm gently in a 160°C (320°F) oven for 5 minutes before serving with ice cream."
 substitutions: []
 relatedIngredients:
   - Peaches
@@ -53,7 +52,11 @@ relatedIngredients:
   - Ground cinnamon
   - Cornstarch
 customAdditions: []
-faqs: []
+faqs:
+  - question: "How do I thicken peach pie filling so the crust doesn't get soggy?"
+    answer: "Toss peach slices with sugar, cinnamon, and cornstarch, letting them macerate before baking so the fruit juices gel properly."
+  - question: "How do I prevent the pie crust from burning before the fruit is cooked?"
+    answer: "Tent the pie loosely with aluminum foil halfway through baking once the crust is golden brown."
 featured: false
 publishedAt: '2026-06-09'
 updatedAt: "2026-10-02"

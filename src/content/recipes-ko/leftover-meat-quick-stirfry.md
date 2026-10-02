@@ -14,6 +14,7 @@ fat: 22
 carbs: 12
 category: "집밥"
 scenarios:
+- 냉장고 정리 요리
 - 1인 요리
 - 10분 요리
 equipment:

@@ -31,7 +31,7 @@ steps:
 tips:
 - Drain the poached eggs well before putting them on the bread.
 - Bacon, sausage, and smoked salmon are already salty; taste before adding the listed salt.
-storage: Eat assembled sandwiches promptly. Store bread and toppings separately. Refrigerate egg, meat, and fish at 4°C or below within 2 hours, or 1 hour above 32°C, and follow package use-by dates. Reheat cooked egg and meat to 74°C the next day; eat cut avocado the same day.
+storage: "Assemble right before eating. Cooked sausage can be stored chilled for 2 days and reheated before assembly."
 substitutions: []
 relatedIngredients:
 - 丹麥麵包
@@ -39,7 +39,11 @@ relatedIngredients:
 - 香腸
 - 水波蛋
 customAdditions: []
-faqs: []
+faqs:
+  - question: "Why do Taiwanese sausage and avocado pair well together?"
+    answer: "The savory-sweet, slightly garlicky sausage balances against the creamy, neutral richness of fresh avocado."
+  - question: "How should Danish bread be toasted to preserve buttery layers?"
+    answer: "Toast gently at 180°C (350°F) for 2-3 minutes to crisp the flaky exterior without burning the rich butter dough."
 featured: false
 publishedAt: '2026-06-09'
 updatedAt: "2026-09-29"

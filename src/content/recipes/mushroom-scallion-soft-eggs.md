@@ -16,6 +16,7 @@ category: "家常菜"
 scenarios:
 - 一人料理
 - 10 分鐘料理
+- 冰箱清庫存
 equipment:
 - 平底鍋
 ingredients:

@@ -36,8 +36,7 @@ steps:
 tips:
 - Soften cream cheese only enough to mix easily; avoid prolonged room-temperature storage.
 - Use a watertight pan for the water bath. Wrap a loose-bottom pan in foil against leaks, and keep water below the rim.
-storage: Refrigerate within 2 hours of baking at 4°C / 40°F or below and use within 3 days.
-  Return slices promptly.
+storage: "Keep tightly sealed and chilled for 4-5 days. Slices can be wrapped and frozen for up to 1 month."
 substitutions: []
 relatedIngredients:
   - Cream cheese
@@ -45,7 +44,11 @@ relatedIngredients:
   - Heavy cream
   - Oreo cookies
 customAdditions: []
-faqs: []
+faqs:
+  - question: "How do I prevent cheesecake from cracking on top during baking?"
+    answer: "Bake in a water bath at moderate temperature, avoid over-beating air into the batter, and let cool inside the turned-off oven with the door propped."
+  - question: "How do I slice cheesecake cleanly like a bakery?"
+    answer: "Dip a chef's knife in hot water, wipe dry, and make a single slice, wiping the blade clean between each cut."
 featured: false
 publishedAt: '2026-06-09'
 updatedAt: "2026-10-02"

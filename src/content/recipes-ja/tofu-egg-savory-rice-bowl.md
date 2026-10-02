@@ -15,6 +15,7 @@ carbs: 60
 category: "ご飯・麺"
 scenarios:
 - 節約料理
+- 残りご飯料理
 - 一人分の料理
 equipment:
 - フライパン

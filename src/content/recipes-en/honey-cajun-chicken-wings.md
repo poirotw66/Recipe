@@ -27,7 +27,11 @@ tips:
 
 substitutions:
 - Chicken thigh chunks
-faqs: []
+faqs:
+  - question: "When should the honey glaze be applied so it doesn't burn?"
+    answer: "Brush the honey glaze on during the final 2-3 minutes of baking. Sugar caramelizes rapidly under high heat."
+  - question: "How do I get chicken wings crispy on the outside while keeping meat juicy?"
+    answer: "Pat wings thoroughly dry and score the thickest parts. Bake at 200°C (400°F) so the skin renders its own fat into a crispy shell."
 relatedIngredients:
 - 雞胸肉
 customAdditions: []
@@ -67,7 +71,7 @@ steps:
 - Remove wings, brush glaze on both sides, and return to the oven.
 - Roast 8–10 minutes more until caramelized and juices tighten—watch the last 2 minutes to avoid burning.
 - Rest 2 minutes before serving.
-storage: Refrigerate up to 2 days; reheat in the oven to restore crisp skin.
+storage: "Refrigerate for up to 2 days. Reheat in an air fryer or oven at 180°C (350°F) for 4-5 minutes."
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-30"

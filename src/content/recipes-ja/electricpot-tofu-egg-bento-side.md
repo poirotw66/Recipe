@@ -15,6 +15,7 @@ carbs: 8
 category: "お弁当向け"
 scenarios:
 - お弁当向けのおかず
+- 電気鍋料理
 - 一人分の料理
 equipment:
 - 電気炊飯器

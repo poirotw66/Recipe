@@ -30,7 +30,7 @@ steps:
     reusing it.
 tips:
   - "Pat the fish dry before dipping it in egg, then press on the oat coating. Check the thickest part of the fish for 145°F (63°C)."
-storage: "Serve the fish and fries fresh. Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
+storage: "Best enjoyed fresh. Reheat leftovers in an air fryer at 180°C for 4 minutes to restore the oat crunch."
 substitutions:
   - frozen fries
   - romaine hearts
@@ -84,5 +84,9 @@ seasonings:
     amount: 1/2
     unit: lemon
     isCore: true
-faqs: []
+faqs:
+  - question: "How do I make the rolled oat crust stick firmly to the fish?"
+    answer: "Pat the fish fillets dry, dredge lightly in flour, dip in beaten egg, and press firmly into coarse rolled oats."
+  - question: "How do I get the oat coating golden and crisp in the oven?"
+    answer: "Mist the oat-crusted fillets with cooking oil spray and bake at 200°C (400°F) for 10-12 minutes until toasty."
 ---

@@ -28,7 +28,7 @@ steps:
   - "Plate in a deep dish and top with the remaining cheese. Serve hot."
 tips:
   - "Heat the meatballs through in the pan. Add the listed 180 g meat sauce and ¼ teaspoon black pepper to the sauce."
-storage: "Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
+storage: "Refrigerate in an airtight container for up to 2 days. Meatballs and sauce freeze well for 1 month."
 substitutions:
   - pasta
   - jasmine rice
@@ -79,5 +79,9 @@ seasonings:
   - name: meat sauce
     amount: "180"
     unit: g
-faqs: []
+faqs:
+  - question: "How do I make meatballs tender and juicy without falling apart?"
+    answer: "Combine ground meat with milk-soaked breadcrumbs, egg, and salt. Mix until tacky and sear all sides before simmering in sauce."
+  - question: "How do I balance acidity in homemade tomato meat sauce?"
+    answer: "Sauté finely diced onions and carrots patiently until deeply golden and sweet before pouring in canned tomatoes."
 ---

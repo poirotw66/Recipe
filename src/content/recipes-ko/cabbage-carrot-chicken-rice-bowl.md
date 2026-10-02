@@ -16,6 +16,7 @@ category: "밥·면"
 scenarios:
 - 도시락 반찬
 - 고단백 요리
+- 남은 밥 요리
 equipment:
 - 프라이팬
 ingredients:

@@ -26,7 +26,7 @@ steps:
   - "Mound in a parchment-lined basket and serve while the gravy is warm."
 tips:
   - "Do not thaw or blot frozen fries; follow the package cooking method and safety directions. Use the listed 150 ml gravy and 100 g cheese curds."
-storage: "Serve fresh when possible. Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
+storage: "Store gravy and fries separately. Reheat fries in an air fryer and heat gravy thoroughly before assembling."
 substitutions:
   - frozen fries
   - romaine hearts
@@ -55,5 +55,9 @@ seasonings:
   - name: "cheese sauce"
     amount: "2"
     unit: "tbsp"
-faqs: []
+faqs:
+  - question: "How do I achieve the proper gravy consistency for poutine?"
+    answer: "Build a roux with butter and flour, then whisk in hot beef stock slowly, simmering until it thickens into a glossy, pourable gravy."
+  - question: "What cheese works best for authentic melted poutine texture?"
+    answer: "Cheese curds are traditional, but cubed low-moisture mozzarella melts smoothly into strings under the piping hot gravy."
 ---

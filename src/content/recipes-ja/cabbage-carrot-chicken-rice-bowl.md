@@ -16,6 +16,7 @@ category: "ご飯・麺"
 scenarios:
 - お弁当向けのおかず
 - 高タンパク料理
+- 残りご飯料理
 equipment:
 - フライパン
 ingredients:

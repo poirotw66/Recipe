@@ -17,6 +17,7 @@ scenarios:
 - 高蛋白料理
 - 便當菜
 - 減脂料理
+- 電鍋料理
 equipment:
 - 平底鍋
 ingredients:

@@ -16,6 +16,7 @@ category: "便當菜"
 scenarios:
 - 便當菜
 - 一人料理
+- 電鍋料理
 equipment:
 - 電鍋
 ingredients:

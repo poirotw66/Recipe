@@ -40,7 +40,7 @@ steps:
     yolk are fully set before turning off the heat.
   - Scatter scallion sections and a pinch of sesame seeds over the top. Serve hot.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to 74°C (165°F) before serving.
+storage: "Refrigerate for 1 day. Reheat to a boil before serving."
 substitutions:
   - soft tofu
   - cheddar cheese slice
@@ -52,7 +52,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "What vegetables hold up best in vegetarian soondubu stew?"
+    answer: "Zucchini slices, shimeji mushrooms, sweet onions, and cabbage provide excellent texture without breaking down into mush."
+  - question: "How do I build rich savory flavor in a meatless tofu stew?"
+    answer: "Use kelp and dried shiitake broth as the base. Sautéing onions and garlic in sesame oil with gochugaru adds rich depth."
 featured: false
 publishedAt: 2026-06-03
 updatedAt: 2026-09-29

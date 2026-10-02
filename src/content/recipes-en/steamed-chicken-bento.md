@@ -15,6 +15,7 @@ carbs: 18
 category: "Bento sides"
 scenarios:
 - Bento-friendly dishes
+- Electric pot meals
 - High-protein meals
 - "Light & lean meals"
 equipment:

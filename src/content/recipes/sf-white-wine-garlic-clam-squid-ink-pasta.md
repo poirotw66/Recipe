@@ -28,7 +28,7 @@ steps:
   - 盛入深盤
 tips:
   - "蛤蜊加蓋蒸至開口；未開口者丟棄。煮麵水預留約 1 杯，依步驟取 5～6 大匙加入湯汁。"
-storage: "剩食於 2 小時內冷藏，3～4 天內食用；回熱至中心 74°C。"
+storage: "建議現煮現吃海鮮最鮮嫩；若有剩餘冷藏 1 天內食用完畢。"
 substitutions:
   - 義大利麵
   - 香米
@@ -71,5 +71,9 @@ seasonings:
   - name: 白酒
     amount: "2"
     unit: 大匙
-faqs: []
+faqs:
+  - question: "墨魚麵條與白酒蛤蜊汁如何乳化出濃郁醬汁？"
+    answer: "蛤蜊開口後先撈起防老，留在鍋中的蛤蜊原汁加入 2 大匙煮麵水與初榨橄欖油，大火快速搖晃翻鍋使其乳化（Emulsification）成濃郁醬汁裹在麵上。"
+  - question: "白酒該挑選哪一種最適合料理海鮮麵？"
+    answer: "選用干白酒（Dry White Wine，如 Sauvignon Blanc 或 Pinot Grigio），酸度明亮且不帶甜味，去腥提鮮效果最佳。"
 ---

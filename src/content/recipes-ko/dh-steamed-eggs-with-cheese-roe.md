@@ -10,8 +10,8 @@ totalTime: 30
 difficulty: 보통
 category: "한국식 전채"
 scenarios:
-- 1인 요리
 - 야식
+- 1인 요리
 equipment:
 - 찜기 또는 뚜껑 있는 냄비
 - 식품 온도계

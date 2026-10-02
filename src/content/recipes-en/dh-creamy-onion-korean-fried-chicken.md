@@ -43,8 +43,7 @@ steps:
     heat, quickly toss fried chicken to coat (turning off heat keeps the crust
     crispy), sprinkle a pinch of sesame seeds, and serve.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to
-  74°C (165°F) before serving.
+storage: "Store the white sauce and fried chicken separately in the fridge. Reheat chicken at 180°C for 5 minutes and top with sauce and fresh onion before serving."
 substitutions:
   - boneless chicken thigh
   - Korean fried chicken mix
@@ -55,7 +54,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "How do I make creamy onion sauce rich yet refreshing?"
+    answer: "Combine mayonnaise with plain yogurt, a squeeze of fresh lemon juice, and minced garlic for a balanced, tangy finish."
+  - question: "How can I remove the harsh bite from raw sliced onions?"
+    answer: "Soak thinly sliced onions in ice water for 10-15 minutes, then drain thoroughly before topping."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-09-29"

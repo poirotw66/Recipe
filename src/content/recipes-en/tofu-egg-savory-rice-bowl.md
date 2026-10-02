@@ -15,6 +15,7 @@ carbs: 60
 category: "Rice & noodles"
 scenarios:
 - Budget-friendly meals
+- Leftover rice meals
 - Cooking for one
 equipment:
 - Skillet

@@ -6,7 +6,8 @@ import { localePath, t } from "../../../lib/i18n";
 import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
 import { listRecipesForLocale, localesWithVisibleIngredient } from "../../../lib/recipe-locale";
 import { sortRecipesByPublishedDate } from "../../../lib/recipes";
-import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd, truncateMetaDescription } from "../../../lib/seo";
+import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildFaqJsonLd, buildItemListJsonLd, truncateMetaDescription } from "../../../lib/seo";
+import { getIngredientFaqs } from "../../../lib/taxonomy-faqs";
 import {
   buildIngredientIntro,
   formatIngredientRecipesLead,
@@ -64,6 +65,8 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: t(locale, "nav.ingredients"), path: localePath(locale, "/ingredients") },
   { name: ingredientName, path: canonical }
 ]);
+const ingredientFaqs = getIngredientFaqs(ingredient, locale);
+const faqJsonLd = buildFaqJsonLd(ingredientFaqs);
 const ingredientJsonLd = buildDefinedTermJsonLd(ingredient, ingredientIntro);
 const relatedRecipeListJsonLd =
   relatedRecipes.length > 0
@@ -88,6 +91,7 @@ const relatedRecipeListJsonLd =
 >
   <JsonLd data={breadcrumbJsonLd} />
   <JsonLd data={ingredientJsonLd} />
+  <JsonLd data={faqJsonLd} />
   {relatedRecipeListJsonLd && <JsonLd data={relatedRecipeListJsonLd} />}
   <section class="section">
     <div class="container">
@@ -162,6 +166,23 @@ const relatedRecipeListJsonLd =
         )}
         <div class="grid">
           {relatedRecipes.map((recipe) => <RecipeCard recipe={recipe} locale={locale} />)}
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <div class="article">
+          <p class="eyebrow">{locale === "en" ? "Frequently Asked Questions" : locale === "ja" ? "よくある質問" : locale === "ko" ? "자주 묻는 질문" : "常見問題"}</p>
+          <h2>{ingredientName} {locale === "en" ? "Tips & FAQs" : locale === "ja" ? "の選び方・保存・調理Q&A" : locale === "ko" ? "손질·보관·요리 Q&A" : "挑選、保存與料理常見問答"}</h2>
+          <div class="faq-list">
+            {ingredientFaqs.map((faq) => (
+              <article class="card">
+                <div class="card-body">
+                  <h3>{faq.question}</h3>
+                  <p>{faq.answer}</p>
+                </div>
+              </article>
+            ))}
+          </div>
         </div>
       </section>
 

@@ -29,7 +29,7 @@ steps:
     lemon wedges and cocktail sauce for dipping.
 tips:
   - "Fry squid in batches at 175°C (347°F) for about 1½–2 minutes. Check the thickest piece reaches 63°C (145°F), and let the oil return to temperature before frying the next batch; longer frying can make it tough."
-storage: "Serve the fried squid and fries fresh. Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
+storage: "Best enjoyed immediately. Air-fry at 190°C for 3 minutes to recrisp leftovers."
 substitutions:
   - frozen fries
   - romaine hearts
@@ -72,5 +72,9 @@ seasonings:
     amount: 1/4
     unit: tsp
     isCore: true
-faqs: []
+faqs:
+  - question: "How do I keep fried calamari tender rather than rubbery?"
+    answer: "Pat squid rings completely dry, coat lightly, and flash-fry in 180°C (350°F) oil for just 60 to 90 seconds."
+  - question: "How do I whip up quick cocktail sauce at home?"
+    answer: "Mix 3 tbsp ketchup with 1 tsp horseradish, 1 tsp fresh lemon juice, and a dash of Worcestershire sauce for a tangy kick."
 ---

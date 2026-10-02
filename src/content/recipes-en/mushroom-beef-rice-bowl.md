@@ -63,10 +63,14 @@ steps:
 tips:
 - Cook mushrooms a little longer after they release water—the sauce tastes deeper.
 
-storage: Best eaten immediately after cooking.
+storage: "Refrigerate for 1 day. Reheat in the microwave until steaming hot before spooning over rice."
 substitutions:
 - King oyster mushrooms
-faqs: []
+faqs:
+  - question: "What is the secret to a rich, savory donburi sauce for beef rice bowls?"
+    answer: "Simmer soy sauce, mirin, sake, and water with sliced onions and shiitake mushrooms first so the sauce absorbs natural mushroom sweetness."
+  - question: "How should fresh mushrooms be prepped for maximum flavor?"
+    answer: "Wipe mushrooms clean with a damp paper towel and sear in a dry pan for 1 minute before adding sauce to concentrate aroma."
 relatedIngredients:
 - 牛肉
 - 菇類

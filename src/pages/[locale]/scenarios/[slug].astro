@@ -6,7 +6,8 @@ import { localePath, t } from "../../../lib/i18n";
 import { localeStaticPaths, requireNonDefaultLocale } from "../../../lib/i18n-routes";
 import { listRecipesForLocale } from "../../../lib/recipe-locale";
 import { sortRecipesByPublishedDate } from "../../../lib/recipes";
-import { buildBreadcrumbJsonLd, buildItemListJsonLd, buildThingJsonLd, truncateMetaDescription } from "../../../lib/seo";
+import { buildBreadcrumbJsonLd, buildFaqJsonLd, buildItemListJsonLd, buildThingJsonLd, truncateMetaDescription } from "../../../lib/seo";
+import { getScenarioFaqs } from "../../../lib/taxonomy-faqs";
 import {
   filterIngredientsWithRecipes,
   formatScenarioPopularRecipesLead,
@@ -72,6 +73,8 @@ const relatedScenarios = scenario.relatedScenarios
   .map((scenarioSlug) => getScenarioBySlug(scenarioSlug))
   .filter((relatedScenario): relatedScenario is NonNullable<typeof relatedScenario> => Boolean(relatedScenario));
 const scenarioHubIntro = getScenarioHubIntro(scenario, locale);
+const scenarioFaqs = getScenarioFaqs(scenario, locale);
+const faqJsonLd = buildFaqJsonLd(scenarioFaqs);
 const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: t(locale, "nav.home"), path: localePath(locale, "/") },
   { name: t(locale, "nav.scenarios"), path: localePath(locale, "/scenarios") },
@@ -106,6 +109,7 @@ const relatedRecipeListJsonLd =
 >
   <JsonLd data={breadcrumbJsonLd} />
   <JsonLd data={scenarioJsonLd} />
+  <JsonLd data={faqJsonLd} />
   {relatedRecipeListJsonLd && <JsonLd data={relatedRecipeListJsonLd} />}
   <section class="section">
     <div class="container">
@@ -165,6 +169,23 @@ const relatedRecipeListJsonLd =
             </a>
           </div>
         )}
+      </section>
+
+      <section class="section section-compact">
+        <div class="article">
+          <p class="eyebrow">{locale === "en" ? "Frequently Asked Questions" : locale === "ja" ? "よくある質問" : locale === "ko" ? "자주 묻는 질문" : "常見問題"}</p>
+          <h2>{scenarioName} {locale === "en" ? "Cooking Tips & FAQs" : locale === "ja" ? "の料理と段取りQ&A" : locale === "ko" ? "조리·준비 Q&A" : "料理與備餐常見問答"}</h2>
+          <div class="faq-list">
+            {scenarioFaqs.map((faq) => (
+              <article class="card">
+                <div class="card-body">
+                  <h3>{faq.question}</h3>
+                  <p>{faq.answer}</p>
+                </div>
+              </article>
+            ))}
+          </div>
+        </div>
       </section>
 
       <section class="section section-compact">

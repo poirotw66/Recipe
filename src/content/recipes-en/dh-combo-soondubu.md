@@ -42,8 +42,7 @@ steps:
     (160°F). Turn off the heat, then scatter scallions and sesame seeds over the
     stew.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to
-  74°C (165°F) before serving.
+storage: "Refrigerate for 1 day. Reheat to a full boil to ensure meat and seafood are safely heated."
 substitutions:
   - soft tofu
   - Korean chili paste (gochujang)
@@ -55,7 +54,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "How do I prevent beef and seafood from overcooking in the stew?"
+    answer: "Add thin beef slices, clams, and shrimp during the last 2 minutes of simmering once the broth base is hot and seasoned."
+  - question: "When should the raw egg be added?"
+    answer: "Crack a raw egg into the bubbling center right before taking the pot off the heat, letting residual heat gently soft-poach it."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-09-29"

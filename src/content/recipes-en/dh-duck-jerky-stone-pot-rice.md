@@ -38,8 +38,7 @@ steps:
   - Before serving, mix rice and toppings together, or enjoy the crispy edge
     crust with duck jerky and vegetables for the best flavor.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to
-  74°C (165°F) before serving.
+storage: "Refrigerate in an airtight container for 1 day. Reheat in the microwave until steaming hot throughout."
 substitutions:
   - uncooked white rice
   - toasted sesame oil
@@ -51,7 +50,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "How do I balance the rich saltiness of duck jerky in stone pot rice?"
+    answer: "Sauté the duck jerky with fresh scallions and ginger to release sweetness, reducing additional soy sauce in the rice seasoning."
+  - question: "What vegetables pair best with duck jerky rice?"
+    answer: "Garlic sprouts, shredded cabbage, and sweet onions complement the smoky duck fat with natural sweetness and crisp texture."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-09-29"

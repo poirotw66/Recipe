@@ -15,6 +15,7 @@ carbs: 18
 category: "お弁当向け"
 scenarios:
 - お弁当向けのおかず
+- 電気鍋料理
 - 高タンパク料理
 - 低脂質の料理
 equipment:

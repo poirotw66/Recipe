@@ -15,6 +15,7 @@ category: "飯麵"
 scenarios:
 - 一人料理
 - 省錢料理
+- 冰箱清庫存
 equipment:
 - 湯鍋
 tags:

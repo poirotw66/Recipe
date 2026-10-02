@@ -26,7 +26,11 @@ tips:
 
 substitutions:
 - Chicken tenderloin
-faqs: []
+faqs:
+  - question: "How do I keep herb-seared chicken breast juicy and tender?"
+    answer: "Butterfly the breast for even thickness, marinate with olive oil and dried herbs, and sear over medium heat for 3-4 minutes per side. Rest for 3 minutes before slicing."
+  - question: "How do I plate this for an appetizing brunch presentation?"
+    answer: "Fan out the sliced chicken breast in the center, flanked by soft eggs, blistered tomatoes, toasted sourdough, and fresh greens."
 relatedIngredients:
 - 雞胸肉
 - 雞蛋
@@ -69,7 +73,7 @@ steps:
 - Flip, reduce to medium, and cook 2–3 minutes more until the center reaches 74°C or shows no pink when cut; rest 2 minutes, then slice against the grain.
 - Add 1 tbsp olive oil to the same pan; stir-fry broccoli over medium heat 2 minutes until deep green and stems still slightly crisp.
 - Fry egg 1 sunny-side up (set whites, runny yolk) or scrambled in a clean spot over low heat; plate chicken, egg, and broccoli separately; drizzle remaining lemon juice.
-storage: Refrigerate up to 1 day; reheat sliced chicken covered with a damp paper towel, about 1 minute in the microwave.
+storage: "Refrigerate for 1-2 days. Reheat gently in a lightly oiled pan over medium-low heat or on medium microwave power."
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-30"

@@ -15,6 +15,7 @@ carbs: 78
 category: "Rice & noodles"
 scenarios:
 - Bento-friendly dishes
+- Electric pot meals
 - High-protein meals
 - "Light & lean meals"
 equipment:

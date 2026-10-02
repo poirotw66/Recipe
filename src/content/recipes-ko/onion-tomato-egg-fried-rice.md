@@ -14,6 +14,7 @@ fat: 14
 carbs: 63
 category: "밥·면"
 scenarios:
+- 남은 밥 요리
 - 1인 요리
 - 10분 요리
 equipment:

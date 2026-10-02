@@ -14,6 +14,7 @@ fat: 9
 carbs: 18
 category: "Soup"
 scenarios:
+- Use up the fridge
 - Cooking for one
 - "Light & lean meals"
 equipment:

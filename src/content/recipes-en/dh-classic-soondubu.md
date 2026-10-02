@@ -37,7 +37,7 @@ steps:
     off the heat.
   - Scatter scallion sections and a pinch of sesame seeds over the top. Serve hot.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to 74°C (165°F) before serving.
+storage: "Refrigerate for 1 day. Reheat to a rolling boil over medium heat for 1 minute before serving."
 substitutions:
   - soft tofu
   - Korean chili paste (gochujang)
@@ -49,7 +49,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "How do I build authentic deep flavor in soondubu stew broth?"
+    answer: "Sauté garlic, onions, and Korean chili flakes (gochugaru) in sesame oil to create an aromatic chili oil base before pouring in broth."
+  - question: "How do I prevent soft tofu from breaking into mush in the stew?"
+    answer: "Add the soft tofu in large spoonfuls after the broth is seasoned and boiling, then simmer gently without stirring vigorously."
 featured: false
 publishedAt: 2026-06-03
 updatedAt: 2026-09-29

@@ -16,6 +16,7 @@ category: "Rice & noodles"
 scenarios:
 - Bento-friendly dishes
 - High-protein meals
+- Leftover rice meals
 equipment:
 - Skillet
 ingredients:

@@ -5,7 +5,8 @@ import RecipeCard from "../../components/RecipeCard.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { sortRecipesByPublishedDate } from "../../lib/recipes";
 import { localesWithVisibleIngredient } from "../../lib/recipe-locale";
-import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildItemListJsonLd, truncateMetaDescription } from "../../lib/seo";
+import { buildBreadcrumbJsonLd, buildDefinedTermJsonLd, buildFaqJsonLd, buildItemListJsonLd, truncateMetaDescription } from "../../lib/seo";
+import { getIngredientFaqs } from "../../lib/taxonomy-faqs";
 import {
   buildIngredientIntro,
   formatIngredientRecipesLead,
@@ -52,6 +53,8 @@ const breadcrumbJsonLd = buildBreadcrumbJsonLd([
   { name: "食材", path: "/ingredients/" },
   { name: ingredient.name, path: `/ingredients/${ingredient.slug}/` }
 ]);
+const ingredientFaqs = getIngredientFaqs(ingredient, "zh-TW");
+const faqJsonLd = buildFaqJsonLd(ingredientFaqs);
 const ingredientJsonLd = buildDefinedTermJsonLd(ingredient, ingredientIntro);
 const relatedRecipeListJsonLd =
   relatedRecipes.length > 0
@@ -75,6 +78,7 @@ const relatedRecipeListJsonLd =
 >
   <JsonLd data={breadcrumbJsonLd} />
   <JsonLd data={ingredientJsonLd} />
+  <JsonLd data={faqJsonLd} />
   {relatedRecipeListJsonLd && <JsonLd data={relatedRecipeListJsonLd} />}
   <section class="section">
     <div class="container">
@@ -149,6 +153,23 @@ const relatedRecipeListJsonLd =
         )}
         <div class="grid">
           {relatedRecipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <div class="article">
+          <p class="eyebrow">常見問題</p>
+          <h2>{ingredient.name} 挑選、保存與料理常見問答</h2>
+          <div class="faq-list">
+            {ingredientFaqs.map((faq) => (
+              <article class="card">
+                <div class="card-body">
+                  <h3>{faq.question}</h3>
+                  <p>{faq.answer}</p>
+                </div>
+              </article>
+            ))}
+          </div>
         </div>
       </section>
 

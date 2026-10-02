@@ -30,7 +30,7 @@ steps:
 tips:
 - Drain the poached eggs well before putting them on the bread.
 - Bacon, sausage, and smoked salmon are already salty; taste before adding the listed salt.
-storage: Eat assembled sandwiches promptly. Store bread and toppings separately. Refrigerate egg, meat, and fish at 4°C or below within 2 hours, or 1 hour above 32°C, and follow package use-by dates. Reheat cooked egg and meat to 74°C the next day; eat cut avocado the same day.
+storage: "Best assembled and eaten fresh. Slice avocado immediately before serving to prevent browning."
 substitutions: []
 relatedIngredients:
 - 歐包
@@ -38,7 +38,11 @@ relatedIngredients:
 - 培根
 - 水波蛋
 customAdditions: []
-faqs: []
+faqs:
+  - question: "How do I tell if an avocado is perfectly ripe for toast?"
+    answer: "Look for dark purplish-black skin that yields gently to thumb pressure without feeling hollow or mushy."
+  - question: "How do I keep open toast from getting soggy under toppings?"
+    answer: "Toast the bread well and spread a thin barrier of butter or mayonnaise before adding sliced avocado and drained greens."
 featured: false
 publishedAt: '2026-06-09'
 updatedAt: "2026-09-29"

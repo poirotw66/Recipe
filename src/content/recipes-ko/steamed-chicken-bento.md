@@ -15,6 +15,7 @@ carbs: 18
 category: "도시락 반찬"
 scenarios:
 - 도시락 반찬
+- 전기밥솥 요리
 - 고단백 요리
 - 다이어트 요리
 equipment:

@@ -25,7 +25,7 @@ steps:
   - "Mound high in a basket; serve while truffle aroma is strong and fries are still crisp."
 tips:
   - "Do not thaw or blot frozen fries; follow the package cooking method and safety directions."
-storage: "These fries are best served fresh. Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat in an oven or air fryer."
+storage: "Best enjoyed fresh. Reheat leftovers in an air fryer at 200°C (400°F) for 3-4 minutes to restore crispness."
 substitutions:
   - frozen fries
   - romaine hearts
@@ -52,5 +52,9 @@ seasonings:
   - name: "truffle sauce"
     amount: "1"
     unit: "tbsp"
-faqs: []
+faqs:
+  - question: "When should truffle oil or paste be tossed with the fries?"
+    answer: "Truffle aroma is heat-sensitive. Toss truffle oil and paste with the fries immediately after draining while they are piping hot."
+  - question: "How do I achieve restaurant-crisp texture with frozen fries?"
+    answer: "Fry directly from frozen in 180°C (350°F) oil in small batches to maintain temperature, finishing with high heat to drain excess oil."
 ---

@@ -15,6 +15,7 @@ carbs: 52
 category: "ご飯・麺"
 scenarios:
 - 節約料理
+- 冷蔵庫使い切り
 - 一人分の料理
 equipment:
 - 鍋

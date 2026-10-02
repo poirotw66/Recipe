@@ -14,6 +14,7 @@ fat: 18
 carbs: 72
 category: "Rice & noodles"
 scenarios:
+- Leftover rice meals
 - Cooking for one
 equipment:
 - Skillet

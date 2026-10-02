@@ -29,7 +29,7 @@ steps:
   - "Plate in a deep dish"
 tips:
   - "Dice 150 g tomatoes. Add the listed 1 tablespoon hot sauce and ½ teaspoon chili flakes to the sauce, then season with ¼ teaspoon black pepper."
-storage: "Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
+storage: "Refrigerate in an airtight container for 1-2 days. Reheat in a skillet with a splash of water over low heat."
 substitutions:
   - pasta
   - jasmine rice
@@ -78,5 +78,9 @@ seasonings:
   - name: chili flakes
     amount: 1/2
     unit: tsp
-faqs: []
+faqs:
+  - question: "How do I cook penne to a true al dente texture?"
+    answer: "Boil penne in well-salted water for 1-2 minutes less than the package instructions, finishing the pasta directly in the simmering sauce."
+  - question: "How should bacon be crisped without burning?"
+    answer: "Start bacon in a cold pan with a teaspoon of oil over medium-low heat to render fat gently before raising the flame."
 ---

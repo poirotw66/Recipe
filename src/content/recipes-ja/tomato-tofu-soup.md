@@ -14,6 +14,7 @@ fat: 9
 carbs: 18
 category: "スープ"
 scenarios:
+- 冷蔵庫使い切り
 - 一人分の料理
 - 低脂質の料理
 equipment:

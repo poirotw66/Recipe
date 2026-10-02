@@ -15,6 +15,7 @@ carbs: 13
 category: "Bento sides"
 scenarios:
 - Bento-friendly dishes
+- Electric pot meals
 - High-protein meals
 equipment:
 - Rice cooker

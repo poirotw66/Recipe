@@ -15,6 +15,7 @@ carbs: 52
 category: "밥·면"
 scenarios:
 - 알뜰 요리
+- 냉장고 정리 요리
 - 1인 요리
 equipment:
 - 냄비

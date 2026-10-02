@@ -15,6 +15,7 @@ category: "飯麵"
 scenarios:
 - 10 分鐘料理
 - 一人料理
+- 剩飯料理
 equipment:
 - 平底鍋
 tags:

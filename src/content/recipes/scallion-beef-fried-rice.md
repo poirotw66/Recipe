@@ -15,6 +15,7 @@ carbs: 72
 category: "飯麵"
 scenarios:
 - 一人料理
+- 剩飯料理
 equipment:
 - 平底鍋
 ingredients:

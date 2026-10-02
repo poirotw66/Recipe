@@ -46,8 +46,7 @@ steps:
     the center reaches 71°C (160°F). Turn off the heat, then scatter scallions
     and sesame seeds over the stew.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to
-  74°C (165°F) before serving.
+storage: "Refrigerate for 1 day. Seafood and seaweed are best enjoyed fresh."
 substitutions:
   - soft tofu
   - cheddar cheese slice
@@ -58,7 +57,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "When should seaweed be added to maintain its vibrant color and fresh taste?"
+    answer: "Add the seaweed during the final 30 seconds of simmering. Prolonged boiling causes seaweed to discolor and lose texture."
+  - question: "How do cheese rice cakes harmonize with seaweed and fish?"
+    answer: "The sea-fresh sweetness of the fish broth pairs nicely with the rich, chewy cheese-filled rice cakes for a balanced bowl."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-09-29"

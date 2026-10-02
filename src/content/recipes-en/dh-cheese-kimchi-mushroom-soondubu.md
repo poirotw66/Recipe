@@ -40,7 +40,7 @@ steps:
     yolk are fully set before turning off the heat.
   - Scatter scallion sections and a pinch of sesame seeds over the top. Serve hot.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to 74°C (165°F) before serving.
+storage: "Refrigerate for 1 day. Reheat gently over medium heat to a boil."
 substitutions:
   - soft tofu
   - Korean chili paste (gochujang)
@@ -52,7 +52,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "Should I use fresh or well-fermented kimchi for soondubu stew?"
+    answer: "Well-fermented, sour kimchi is ideal. Sautéing it in sesame oil first releases deep umami and tangy complexity into the broth."
+  - question: "How do cheese and kimchi complement each other in this stew?"
+    answer: "The tangy acidity of kimchi cuts through the rich creaminess of the cheese, creating a balanced, comforting flavor profile."
 featured: false
 publishedAt: 2026-06-03
 updatedAt: 2026-09-29

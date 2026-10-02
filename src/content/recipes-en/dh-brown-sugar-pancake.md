@@ -40,8 +40,7 @@ steps:
   - Cut open and enjoy while hot—watch for molten brown sugar. Best texture is
     crisp outside and chewy inside.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours. Reheat to
-  74°C (165°F) before serving.
+storage: "Cool and refrigerate in an airtight container for up to 2 days. Reheat in a dry skillet over low heat for 2 minutes or in an air fryer at 160°C for 3 minutes to restore the crispy crust and molten center."
 substitutions:
   - "all-purpose flour"
   - unsalted butter
@@ -51,7 +50,11 @@ relatedIngredients:
   - 肉桂粉
   - 綜合堅果碎
 customAdditions: []
-faqs: []
+faqs:
+  - question: "How do I prevent the brown sugar filling from leaking during frying?"
+    answer: "Pinch the dough seam tightly after filling and place it seam-side down in the pan. Let the bottom set for 30 seconds before gently pressing down."
+  - question: "What should I do if the dough is too sticky to handle?"
+    answer: "Lightly coat your hands and workspace with cooking oil instead of flour. The oil prevents sticking without drying out the soft dough."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: '2026-09-29'

@@ -14,6 +14,8 @@ fat: 16
 carbs: 58
 category: "밥·면"
 scenarios:
+- 냉장고 정리 요리
+- 남은 밥 요리
 - 1인 요리
 - 10분 요리
 equipment:

@@ -14,6 +14,7 @@ fat: 22
 carbs: 12
 category: "家庭料理"
 scenarios:
+- 冷蔵庫使い切り
 - 一人分の料理
 - 10分でできる料理
 equipment:

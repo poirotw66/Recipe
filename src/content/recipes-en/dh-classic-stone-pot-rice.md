@@ -39,8 +39,7 @@ steps:
   - Before serving, season with 1 tbsp soy sauce and a pinch of salt. Mix and
     enjoy, or eat the crispy crust with the toppings.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to
-  74°C (165°F) before serving.
+storage: "Refrigerate for up to 1 day. Reheat in a lightly oiled skillet over medium heat to bring back the crisp rice crust."
 substitutions:
   - uncooked white rice
   - toasted sesame oil
@@ -52,7 +51,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "How can I get crispy scorched rice without a traditional stone pot?"
+    answer: "Use a heavy skillet or cast iron pan brushed with sesame oil. Layer the cooked rice and cook over medium-low heat for 3-5 minutes until crackling."
+  - question: "Can I prepare the vegetable toppings ahead of time?"
+    answer: "Yes, blanch and season the spinach, bean sprouts, and mushrooms in advance. Store chilled and assemble over hot rice when ready to eat."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-09-29"

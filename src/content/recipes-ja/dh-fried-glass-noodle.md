@@ -10,8 +10,8 @@ totalTime: 65
 difficulty: 普通
 category: "韓国前菜"
 scenarios:
-- 一人分の料理
 - 夜食
+- 一人分の料理
 equipment:
 - 鍋
 - フライパン

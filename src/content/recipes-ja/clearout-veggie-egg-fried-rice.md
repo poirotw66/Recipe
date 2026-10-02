@@ -14,6 +14,8 @@ fat: 16
 carbs: 58
 category: "ご飯・麺"
 scenarios:
+- 冷蔵庫使い切り
+- 残りご飯料理
 - 一人分の料理
 - 10分でできる料理
 equipment:

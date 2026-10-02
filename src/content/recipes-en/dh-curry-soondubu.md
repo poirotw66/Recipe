@@ -42,7 +42,7 @@ steps:
     both the white and yolk are fully set before turning off the heat.
   - Scatter scallion sections and a pinch of sesame seeds over the top. Serve hot.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to 74°C (165°F) before serving.
+storage: "Refrigerate for 1 day. Stir in a splash of water or broth when reheating if the curry base has thickened."
 substitutions:
   - soft tofu
   - curry powder
@@ -54,7 +54,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "When should curry roux be dissolved into the stew?"
+    answer: "Turn heat to low after bringing the broth to a boil. Dissolve the curry roux completely in a ladle before adding soft tofu."
+  - question: "How do I help the soft tofu absorb curry flavor?"
+    answer: "Spoon the tofu in large pieces and simmer gently for 3 minutes over low heat to allow the curry sauce to infuse."
 featured: false
 publishedAt: 2026-06-03
 updatedAt: 2026-09-29

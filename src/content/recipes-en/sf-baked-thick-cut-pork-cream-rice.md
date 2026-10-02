@@ -30,7 +30,7 @@ steps:
 tips:
 - Use already cooked rice, not raw rice; add a little water if the pan becomes too dry.
 - Meat thickness changes cooking time; verify doneness with a thermometer.
-storage: Refrigerate leftovers in shallow containers at 4°C or below within 2 hours, or 1 hour above 32°C. Eat within 3 days and reheat to 74°C throughout.
+storage: "Refrigerate for 1 day. Reheat in the microwave, then broil or air-fry for 2 minutes to recrisp the melted cheese crust."
 substitutions: []
 relatedIngredients:
 - 厚切豬排
@@ -38,7 +38,11 @@ relatedIngredients:
 - 培根
 - 起司
 customAdditions: []
-faqs: []
+faqs:
+  - question: "How do I keep thick-cut pork chops juicy under the baked cheese topping?"
+    answer: "Tenderize pork and sear to 80% doneness first. Baking with the sauce and cheese finishes cooking without drying out the meat."
+  - question: "How do I prepare the rice base so it doesn't turn mushy under sauce?"
+    answer: "Sauté cold rice with butter and diced onions before layering in the baking dish with cream sauce and mozzarella."
 featured: false
 publishedAt: '2026-06-09'
 updatedAt: "2026-09-29"

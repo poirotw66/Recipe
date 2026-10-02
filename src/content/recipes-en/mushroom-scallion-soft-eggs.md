@@ -14,6 +14,7 @@ fat: 18
 carbs: 8
 category: "Home cooking"
 scenarios:
+- Use up the fridge
 - Cooking for one
 - 10-minute meals
 equipment:

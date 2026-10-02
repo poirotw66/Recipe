@@ -10,8 +10,8 @@ totalTime: 65
 difficulty: 보통
 category: "한국식 전채"
 scenarios:
-- 1인 요리
 - 야식
+- 1인 요리
 equipment:
 - 냄비
 - 볶음팬

@@ -15,6 +15,7 @@ carbs: 8
 category: "Bento sides"
 scenarios:
 - Bento-friendly dishes
+- Electric pot meals
 - Cooking for one
 equipment:
 - Rice cooker

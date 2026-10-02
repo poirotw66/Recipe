@@ -16,6 +16,7 @@ category: "Home cooking"
 scenarios:
 - Bento-friendly dishes
 - Budget-friendly meals
+- Use up the fridge
 - 10-minute meals
 equipment:
 - Skillet

@@ -42,7 +42,7 @@ steps:
     both the white and yolk are fully set before turning off the heat.
   - Scatter scallion sections and a pinch of sesame seeds over the top. Serve hot.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to 74°C (165°F) before serving.
+storage: "Refrigerate for 1 day. Seafood stews taste freshest when consumed on the day of cooking."
 substitutions:
   - soft tofu
   - Korean chili paste (gochujang)
@@ -54,7 +54,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "How do I keep fish fillets from breaking apart in the stew?"
+    answer: "Cut fillets into thick pieces and slide them into simmering broth over medium-low heat without stirring aggressively."
+  - question: "How do I eliminate fishiness from the stew broth?"
+    answer: "Sauté ginger shreds and garlic in sesame oil and add a splash of cooking wine to lift the natural sweetness of the fish."
 featured: false
 publishedAt: 2026-06-03
 updatedAt: 2026-09-29

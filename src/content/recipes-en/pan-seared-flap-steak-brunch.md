@@ -26,7 +26,11 @@ tips:
 
 substitutions:
 - Pork loin chop
-faqs: []
+faqs:
+  - question: "How do I sear flap steak to a perfect medium doneness?"
+    answer: "Bring the steak to room temperature, pat dry, and sear in a smoking hot pan for 1.5-2 minutes per side. Rest for 5 minutes before slicing."
+  - question: "What is the essential carving technique for flap steak?"
+    answer: "Always slice across the grain at a slight angle. Slicing against the long fibers makes every bite tender and easy to chew."
 relatedIngredients:
 - 牛肉
 - 雞蛋
@@ -66,7 +70,7 @@ steps:
 - Add butter 10 g; spoon melted butter over the steak 30 seconds for aroma; remove and rest 4 minutes.
 - Fry egg 1 in the same pan over medium heat until the whites are set and the yolk is runny.
 - Slice steak against the grain; plate with egg and broccoli; finish with black pepper.
-storage: Best same meal; reheated steak toughens.
+storage: "Best enjoyed fresh. Leftovers can be sliced thinly over cold salads or flash-seared for 30 seconds."
 featured: false
 publishedAt: '2026-06-03'
 updatedAt: "2026-09-30"

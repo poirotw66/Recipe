@@ -27,7 +27,7 @@ steps:
 tips:
 - Use already cooked rice, not raw rice; add a little water if the pan becomes too dry.
 - Meat thickness changes cooking time; verify doneness with a thermometer.
-storage: Refrigerate leftovers in shallow containers at 4°C or below within 2 hours, or 1 hour above 32°C. Eat within 3 days and reheat to 74°C throughout.
+storage: "Refrigerate cooked patties and sauce for 1-2 days. Raw or cooked patties freeze well for up to 1 month."
 substitutions: []
 relatedIngredients:
 - 漢堡排
@@ -35,7 +35,11 @@ relatedIngredients:
 - 荷包蛋
 - 香米
 customAdditions: []
-faqs: []
+faqs:
+  - question: "How do I keep hamburger patties juicy while cooking?"
+    answer: "Knead seasoned ground beef until sticky, slap between hands to expel air pockets, and press a slight dimple in the center before searing."
+  - question: "How do I make black pepper sauce glossy and rich?"
+    answer: "Sauté onions in butter, add cracked black pepper, stir in beef stock and Worcestershire sauce, finishing with cold butter."
 featured: false
 publishedAt: '2026-06-09'
 updatedAt: "2026-09-29"

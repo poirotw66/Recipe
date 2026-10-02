@@ -10,8 +10,8 @@ totalTime: 30
 difficulty: Medium
 category: "Korean appetizers"
 scenarios:
-- Cooking for one
 - Late-night meals
+- Cooking for one
 equipment:
 - Steamer or covered pot
 - Food thermometer

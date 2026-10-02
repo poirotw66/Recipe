@@ -10,8 +10,8 @@ totalTime: 30
 difficulty: 普通
 category: "韓国前菜"
 scenarios:
-- 一人分の料理
 - 夜食
+- 一人分の料理
 equipment:
 - 蒸し器またはふた付き鍋
 - 食品用温度計

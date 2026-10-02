@@ -16,6 +16,7 @@ category: "飯麵"
 scenarios:
 - 便當菜
 - 高蛋白料理
+- 剩飯料理
 equipment:
 - 平底鍋
 ingredients:

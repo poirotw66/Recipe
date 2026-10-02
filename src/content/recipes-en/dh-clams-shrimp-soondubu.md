@@ -42,8 +42,7 @@ steps:
     (160°F). Turn off the heat, then scatter scallions and sesame seeds over the
     stew.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to
-  74°C (165°F) before serving.
+storage: "Refrigerate for 1 day. Reheat to a full rolling boil before eating."
 substitutions:
   - soft tofu
   - soy sauce
@@ -55,7 +54,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "How do I ensure clams are completely grit-free before cooking?"
+    answer: "Soak clams in 3% saltwater for 1-2 hours in a dark spot, then rinse thoroughly and discard any open, dead clams."
+  - question: "How can I extract maximum shrimp flavor for the broth?"
+    answer: "Sear shrimp shells and heads briefly in sesame oil before adding the broth to extract rich aromatic shrimp oil."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-09-29"

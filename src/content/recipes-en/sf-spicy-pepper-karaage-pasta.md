@@ -29,7 +29,7 @@ steps:
   - "Plate in a deep dish"
 tips:
   - "Use fully cooked karaage and reheat it according to the package directions; this recipe does not cook raw chicken. Use the listed 2 tablespoons tomato sauce, 1 chili, and ¼ teaspoon black pepper."
-storage: "Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
+storage: "Store pasta and karaage chicken separately. Reheat pasta in the microwave and crisp chicken in an air fryer."
 substitutions:
   - pasta
   - jasmine rice
@@ -85,5 +85,9 @@ seasonings:
   - name: chili flakes
     amount: 1/2
     unit: tsp
-faqs: []
+faqs:
+  - question: "How do I balance spicy peppercorn flavor in pasta sauce?"
+    answer: "Emulsify Sichuan peppercorn oil with pasta water, garlic, light soy sauce, and a dash of rice vinegar for bright aromatic heat."
+  - question: "How do I keep karaage crispy when served with pasta?"
+    answer: "Plate the sauced pasta first, then nestle freshly fried hot karaage on top right before serving so the crust stays crunchy."
 ---

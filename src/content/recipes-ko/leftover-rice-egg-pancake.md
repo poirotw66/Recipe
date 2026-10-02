@@ -14,6 +14,7 @@ fat: 16
 carbs: 54
 category: "집밥"
 scenarios:
+- 남은 밥 요리
 - 1인 요리
 - 10분 요리
 equipment:

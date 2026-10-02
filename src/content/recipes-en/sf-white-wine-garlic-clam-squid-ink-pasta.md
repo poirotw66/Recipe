@@ -36,7 +36,7 @@ steps:
   - Plate and serve while warm.
 tips:
   - "Steam the clams covered until they open and discard any that remain closed. Reserve about 1 cup pasta water; add the stated 5–6 tablespoons to the broth."
-storage: "Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
+storage: "Best enjoyed immediately. Keep leftovers refrigerated and consume within 1 day."
 substitutions:
   - pasta
   - jasmine rice
@@ -79,5 +79,9 @@ seasonings:
   - name: white wine
     amount: "2"
     unit: tbsp
-faqs: []
+faqs:
+  - question: "How do I emulsify white wine clam sauce onto squid ink pasta?"
+    answer: "Remove opened clams, then vigorously swirl the pan juices with starchy pasta water and olive oil over high heat to form a glossy sauce."
+  - question: "What kind of white wine works best for clam pasta?"
+    answer: "Use an un-oaked dry white wine like Sauvignon Blanc or Pinot Grigio to lend clean acidity without overpowering the clams."
 ---

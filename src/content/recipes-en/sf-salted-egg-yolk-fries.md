@@ -26,7 +26,7 @@ steps:
   - "Mound high in a basket; sprinkle a little more basil on top; serve while sauce is still flowing and fries are crisp."
 tips:
   - "Do not thaw or blot frozen fries; follow the package cooking method. Use 1 tablespoon of each sauce and warm them together over low heat as directed."
-storage: "Serve these fries fresh. Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat to 165°F (74°C)."
+storage: "Best eaten immediately for prime sauce texture. Reheat in an air fryer at 180°C for 4 minutes if needed."
 substitutions:
   - frozen fries
   - romaine hearts
@@ -62,5 +62,9 @@ seasonings:
   - name: "chili flakes"
     amount: "1/2"
     unit: "tsp"
-faqs: []
+faqs:
+  - question: "How do I get salted egg yolks to foam into a velvety golden sauce?"
+    answer: "Mash cooked yolks thoroughly. Sauté in warm oil over low heat until rich, frothy bubbles form, then toss with hot fries immediately."
+  - question: "How do I remove raw odor from salted egg yolks?"
+    answer: "Mist yolks with rice wine and bake at 160°C (320°F) for 6-8 minutes until fragrant and glistening before mashing."
 ---

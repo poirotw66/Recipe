@@ -14,6 +14,7 @@ fat: 14
 carbs: 64
 category: "Rice & noodles"
 scenarios:
+- Use up the fridge
 - Cooking for one
 - 10-minute meals
 equipment:

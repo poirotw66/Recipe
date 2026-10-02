@@ -15,6 +15,7 @@ carbs: 52
 category: "Rice & noodles"
 scenarios:
 - Budget-friendly meals
+- Use up the fridge
 - Cooking for one
 equipment:
 - Stockpot

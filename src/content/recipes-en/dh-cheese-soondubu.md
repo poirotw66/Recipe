@@ -42,7 +42,7 @@ steps:
     yolk are fully set before turning off the heat.
   - Scatter scallion sections and a pinch of sesame seeds over the top. Serve hot.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to 74°C (165°F) before serving.
+storage: "Refrigerate for 1 day. Reheat gently over medium-low heat to prevent cheese separation."
 substitutions:
   - soft tofu
   - cheddar cheese slice
@@ -54,7 +54,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "When should the cheese be added to the tofu stew?"
+    answer: "Lay cheese slices on top right before taking the pot off the heat. Cover with a lid for 30 seconds to melt smoothly."
+  - question: "What type of cheese works best for Korean soondubu?"
+    answer: "American processed cheese slices melt seamlessly into the spicy broth, while mozzarella adds dramatic cheese pull."
 featured: false
 publishedAt: 2026-06-03
 updatedAt: 2026-09-29

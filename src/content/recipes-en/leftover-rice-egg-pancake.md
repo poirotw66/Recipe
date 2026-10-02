@@ -14,6 +14,7 @@ fat: 16
 carbs: 54
 category: "Home cooking"
 scenarios:
+- Leftover rice meals
 - Cooking for one
 - 10-minute meals
 equipment:

@@ -46,8 +46,7 @@ steps:
     into a dipping sauce. Plate hot fried tofu, sprinkle with chopped scallions
     and sesame seeds, and serve with the dipping sauce.
 tips: []
-storage: Refrigerate leftovers in shallow containers within 2 hours; reheat to
-  74°C (165°F) before serving.
+storage: "Best enjoyed immediately. To revive leftovers, air-fry at 190°C (375°F) for 4-5 minutes to restore the crisp exterior."
 substitutions:
   - soft tofu
   - soy sauce
@@ -56,7 +55,11 @@ relatedIngredients:
 customAdditions:
   - chopped scallions
   - sesame seeds
-faqs: []
+faqs:
+  - question: "How do I prevent oil splattering when frying soft tofu?"
+    answer: "Thoroughly pat tofu dry with paper towels before dredging in starch. Slide pieces gently into 170°C (340°F) oil and let set before turning."
+  - question: "How can I achieve a restaurant-style crispy tofu crust?"
+    answer: "Dredge in sweet potato starch (tapioca starch) and let rest for 1 minute to hydrate slightly before frying."
 featured: false
 publishedAt: "2026-06-03"
 updatedAt: "2026-09-29"

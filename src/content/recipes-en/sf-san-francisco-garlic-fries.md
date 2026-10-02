@@ -25,7 +25,7 @@ steps:
   - "Mound in a parchment-lined basket and serve warm."
 tips:
   - "Do not thaw or blot frozen fries; follow the package cooking method and safety directions. The listed 1 tablespoon garlic butter sauce is the total for both tosses."
-storage: "These fries are best served fresh. Refrigerate leftovers within 2 hours, use within 3–4 days, and reheat in an oven or air fryer."
+storage: "Refrigerate for up to 1 day. Reheat in an air fryer at 190°C (375°F) for 4 minutes."
 substitutions:
   - frozen fries
   - romaine hearts
@@ -47,5 +47,9 @@ seasonings:
   - name: "garlic butter sauce"
     amount: "1"
     unit: "tbsp"
-faqs: []
+faqs:
+  - question: "How do I toss garlic sauce onto fries without making them soggy?"
+    answer: "Sauté minced garlic gently in butter until fragrant but not brown. Toss lightly with the fries right out of the fryer."
+  - question: "How can I mellow out the harsh raw garlic flavor?"
+    answer: "Briefly cook the minced garlic in warm butter for 1 minute to tame the bite into sweet, mellow garlic richness."
 ---

@@ -15,6 +15,7 @@ carbs: 22
 category: "집밥"
 scenarios:
 - 알뜰 요리
+- 냉장고 정리 요리
 - 10분 요리
 equipment:
 - 프라이팬

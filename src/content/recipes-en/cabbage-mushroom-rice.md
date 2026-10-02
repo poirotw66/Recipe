@@ -16,6 +16,7 @@ category: "Rice & noodles"
 scenarios:
 - Bento-friendly dishes
 - Budget-friendly meals
+- Electric pot meals
 - 10-minute meals
 equipment:
 - Rice cooker

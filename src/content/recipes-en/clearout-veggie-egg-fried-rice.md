@@ -14,6 +14,8 @@ fat: 16
 carbs: 58
 category: "Rice & noodles"
 scenarios:
+- Use up the fridge
+- Leftover rice meals
 - Cooking for one
 - 10-minute meals
 equipment:
