@@ -20,7 +20,14 @@
 - 其他 ja、ko：暫時仍 `indexable + other`、維持 self-canonical 與 hreflang，但不主動放入新 sitemap。這是過渡狀態，不等於 `noindex`。
 - ja、ko 的食材與情境 taxonomy 頁同樣維持 indexable、self-canonical 與 hreflang，但在 GSC 顯示大量已檢索未索引後，暫不主動放入 sitemap；zh-TW、en taxonomy 繼續提交。
 - `core` 暫時為空；不得依主觀印象挑選。
-- 2026-08-27 已人工逐篇審查 128 篇餐廳還原食譜；其中 25 篇 Critical（19.5%）的四語頁暫時 `noindex, follow`，直到配方、時間或食安問題完成校正。
+- 2026-08-27 已人工逐篇審查 128 篇餐廳還原食譜；其中 25 篇 Critical（19.5%）於 2026-10-02 依站主決定解除四語 `noindex`。這不代表真人試作完成，內容 Warning 仍有效。
+
+### 2026-10-02 站主索引決定
+
+- `RESTAURANT_AUDIT_REVIEWED_SLUGS` 中的 25 篇食譜，zh-TW、en、ja、ko 四語頁均恢復 `indexable`；noindex 已不再作為真人試作前的阻擋條件。
+- zh-TW 與 en 頁依一般 `other` sitemap 分組提交；ja／ko 頁除原 15 篇 spec-018 pilot 外仍不主動列入 sitemap，沿用既有多語過渡政策。它們沒有 noindex，仍可經由內部連結與 hreflang 被發現。
+- 食譜尚未真人試作的事實、未驗證份量／時間／口感及相關 Warning 必須保留；解除索引限制不等於 Google 會收錄。
+- 程式變更部署後，先以 HTTP 抽查四語 robots meta、canonical 與 sitemap，再用 Search Console 重新檢查代表性網址；索引報表可能延遲更新。
 
 ## 變更門檻
 

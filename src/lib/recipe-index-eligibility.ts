@@ -15,13 +15,10 @@ export type RecipeIndexOverrides = Record<
 >;
 
 /**
- * First controlled restaurant-replica cleanup cohort (25/128 slugs, 19.5%).
- * Each page was manually reviewed on 2026-08-27 and has a material recipe
- * mismatch, infeasible timing/ratio, or food-safety omission. Keep the URLs
- * available to users while corrections are prepared, but do not submit them
- * for indexing in any locale.
+ * The 25-slug restaurant-replica audit cohort. The owner released this cohort
+ * from noindex on 2026-10-02 before kitchen trials; content warnings remain.
  */
-export const RESTAURANT_AUDIT_TEMPORARY_NOINDEX_SLUGS = [
+export const RESTAURANT_AUDIT_REVIEWED_SLUGS = [
   "dh-fried-glass-noodle",
   "dh-ginseng-chicken-clay-pot",
   "dh-ginseng-chicken-hot-pot",
@@ -49,27 +46,11 @@ export const RESTAURANT_AUDIT_TEMPORARY_NOINDEX_SLUGS = [
   "sf-tropical-yogurt-bowl"
 ] as const;
 
-const restaurantAuditNoindexOverrides: RecipeIndexOverrides = Object.fromEntries(
-  RESTAURANT_AUDIT_TEMPORARY_NOINDEX_SLUGS.map((slug) => [
-    slug,
-    Object.fromEntries(
-      (["zh-TW", "en", "ja", "ko"] as const).map((locale) => [
-        locale,
-        {
-          indexable: false,
-          tier: "other",
-          reason: "2026-08-27 manual restaurant-replica audit: correct material recipe or food-safety issue before reindexing."
-        }
-      ])
-    )
-  ])
-);
-
 /**
- * Evidence-backed decisions belong here. Keep this empty until a GSC export or
- * a documented content audit supports a per-slug, per-locale change.
+ * Explicit exceptions to default eligibility belong here. This cohort has no
+ * noindex overrides after the owner's 2026-10-02 indexing decision.
  */
-export const RECIPE_INDEX_OVERRIDES: RecipeIndexOverrides = restaurantAuditNoindexOverrides;
+export const RECIPE_INDEX_OVERRIDES: RecipeIndexOverrides = {};
 
 const DEFAULT_ELIGIBILITY: Record<Locale, RecipeIndexEligibility> = {
   "zh-TW": {

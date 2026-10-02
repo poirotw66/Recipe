@@ -12,13 +12,13 @@ assert.match(eligibilitySource, /indexableRecipeLocales/);
 assert.match(eligibilitySource, /"zh-TW": \{[\s\S]*?indexable: true,[\s\S]*?tier: "other"/);
 assert.match(eligibilitySource, /en: \{[\s\S]*?indexable: true,[\s\S]*?tier: "other"/);
 assert.match(eligibilitySource, /I18N_PILOT_SLUG_SET\.has\(slug\)/);
-const auditedNoindexBlock = eligibilitySource.match(
-  /RESTAURANT_AUDIT_TEMPORARY_NOINDEX_SLUGS = \[([\s\S]*?)\] as const/
+const auditedSlugBlock = eligibilitySource.match(
+  /RESTAURANT_AUDIT_REVIEWED_SLUGS = \[([\s\S]*?)\] as const/
 )?.[1] ?? "";
-const AUDITED_NOINDEX_SLUGS = [
-  ...auditedNoindexBlock.matchAll(/"([^"]+)"/g)
+const AUDITED_SLUGS = [
+  ...auditedSlugBlock.matchAll(/"([^"]+)"/g)
 ].map((match) => match[1]);
-assert.equal(AUDITED_NOINDEX_SLUGS.length, 25);
+assert.equal(AUDITED_SLUGS.length, 25);
 
 const pilotSource = read("src/lib/i18n-translated-slugs.ts");
 const pilotBlock = pilotSource.match(/I18N_PILOT_SLUGS = \[([\s\S]*?)\] as const/)?.[1] ?? "";
@@ -69,16 +69,23 @@ const enCount = readdirSync(join(root, "src/content/recipes-en")).filter((name) 
 const zhLocations = primaryLocations(xml("sitemap-other-zh-recipes.xml"));
 const enLocations = primaryLocations(xml("sitemap-en-recipes.xml"));
 const pilotLocations = primaryLocations(xml("sitemap-ja-ko-pilot.xml"));
-const auditedNoindex = new Set(AUDITED_NOINDEX_SLUGS);
-const indexablePilotSlugs = I18N_PILOT_SLUGS.filter((slug) => !auditedNoindex.has(slug));
-assert.equal(zhLocations.length, zhCount - auditedNoindex.size);
-assert.equal(enLocations.length, enCount - auditedNoindex.size);
-assert.equal(pilotLocations.length, indexablePilotSlugs.length * 2);
+assert.equal(zhLocations.length, zhCount);
+assert.equal(enLocations.length, enCount);
+assert.equal(pilotLocations.length, I18N_PILOT_SLUGS.length * 2);
 assert.ok(zhLocations.every((url) => /\/recipes\//.test(url) && !/\/(?:en|ja|ko)\/recipes\//.test(url)));
 assert.ok(enLocations.every((url) => /\/en\/recipes\//.test(url)));
 assert.ok(pilotLocations.every((url) => /\/(?:ja|ko)\/recipes\//.test(url)));
-assert.ok(indexablePilotSlugs.every((slug) => pilotLocations.some((url) => url.endsWith(`/ja/recipes/${slug}/`))));
-assert.ok(indexablePilotSlugs.every((slug) => pilotLocations.some((url) => url.endsWith(`/ko/recipes/${slug}/`))));
+assert.ok(I18N_PILOT_SLUGS.every((slug) => pilotLocations.some((url) => url.endsWith(`/ja/recipes/${slug}/`))));
+assert.ok(I18N_PILOT_SLUGS.every((slug) => pilotLocations.some((url) => url.endsWith(`/ko/recipes/${slug}/`))));
+assert.ok(AUDITED_SLUGS.every((slug) => zhLocations.some((url) => url.endsWith(`/recipes/${slug}/`))));
+assert.ok(AUDITED_SLUGS.every((slug) => enLocations.some((url) => url.endsWith(`/en/recipes/${slug}/`))));
+
+for (const slug of AUDITED_SLUGS) {
+  for (const [locale, prefix] of [["zh-TW", ""], ["en", "/en"], ["ja", "/ja"], ["ko", "/ko"]]) {
+    const html = readFileSync(join(distDir, prefix, "recipes", slug, "index.html"), "utf8");
+    assert.doesNotMatch(html, /<meta name="robots" content="[^\"]*noindex/i, `${locale} ${slug} must be indexable`);
+  }
+}
 
 const legacy = xml("sitemap-recipes.xml");
 assert.match(legacy, /<urlset/);

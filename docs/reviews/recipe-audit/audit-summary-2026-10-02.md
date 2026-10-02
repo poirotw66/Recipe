@@ -2,7 +2,7 @@
 
 ## 範圍與狀態
 
-本表以 `RESTAURANT_AUDIT_TEMPORARY_NOINDEX_SLUGS` 的 25 個 slug 為範圍，彙整繁中配方及四語一致性複核。第二輪複核再修正 3 篇可由食安來源確認的操作缺口；巴西莓優格碗則保留已足夠清楚的正文。所有仍需實作確認的項目均標明未試作，不宣稱餐廳原配方或作者親身經驗。
+本表以 `RESTAURANT_AUDIT_REVIEWED_SLUGS` 的 25 個 slug 為範圍，彙整繁中配方及四語一致性複核。第二輪複核再修正 3 篇可由食安來源確認的操作缺口；巴西莓優格碗則保留已足夠清楚的正文。所有仍需實作確認的項目均標明未試作，不宣稱餐廳原配方或作者親身經驗。
 
 | slug | 狀態 | 修正與尚待驗證事項 |
 | --- | --- | --- |
@@ -32,11 +32,11 @@
 | [`sf-sweet-savory-rice`](./reports/sf-sweet-savory-rice.json) | Warning | 四語補上冷藏熟飯、香辛料順序、豬肉測溫及生熟器具分流；單人份時間、產量與口感仍待真人試作。 |
 | [`sf-tropical-yogurt-bowl`](./reports/sf-tropical-yogurt-bowl.json) | Warning | 四語補上切水果前流動清水清洗、擦乾及乾淨刀具砧板；10 分鐘流程、份量與成品仍待試作。 |
 
-25 篇人工審查目前均維持 Warning，因為份量、實際時間與成品表現尚無真人試作證據；本批未變更 noindex。全站機械預檢共 289 篇：Pass 227、Warning 62、Critical 0。`npm run build`、`npm test`、`npm run typecheck` 與 `git diff --check` 均通過；建置仍會顯示跨語系重複 recipe ID 與 Cloudflare Sharp 警告，typecheck 有 42 個既有 hints。這些修正改善配方一致性與可操作性，不等於已證明 Google 會收錄或已補足全站原創內容深度。
+25 篇人工審查仍維持 Warning，因為份量、實際時間與成品表現尚無真人試作證據。2026-10-02 依站主決定，這 25 個 slug 的四語頁面解除 noindex；這項索引政策變更不代表完成試作，也不保證 Google 收錄。全站機械預檢共 289 篇：Pass 227、Warning 62、Critical 0。先前驗證的 build、test 與 typecheck 結果屬於本次索引政策變更之前。
 
-## 同期其他內容修正（不屬於本批 25 個暫時 noindex slug）
+## 同期其他內容修正（不屬於本批 25 個原 Critical slug）
 
-以下 7 篇另有內容複核與修正紀錄；它們不列入上表，也不改變 25 篇 noindex 批次範圍：
+以下 7 篇另有內容複核與修正紀錄；它們不列入上表，也不屬於本次解除 noindex 的 25 篇：
 
 - [`fish-and-chips`](./reports/fish-and-chips.json)：四語修正魚肉裹粉與薯條油炸流程，補上魚類熟度來源。
 - [`garlic-mushroom-tofu-rice-bowl`](./reports/garlic-mushroom-tofu-rice-bowl.json)：日韓上桌提示恢復適用於豆腐飯碗的內容；份量與蕈菇收水仍待試作。
@@ -70,6 +70,6 @@
 
 ## 下一步
 
-原 Critical 清單 25 篇均已完成文字層複核，其中有操作缺口者依可查證來源修正，巴西莓優格碗則保留既有稿件。下一個有實質價值的步驟是按清單逐篇真人試作，回寫份量、時間、熟度、口感與本次成品照；未完成試作及最新 Search Console 證據前，維持各頁 noindex。若要擴大到其他未索引頁面，先取得最新 Search Console「網頁」完整匯出作為排序依據；機械預檢或本文修訂本身不能代替 Google 收錄結果。
+原 Critical 清單 25 篇均已完成文字層複核，其中有操作缺口者依可查證來源修正，巴西莓優格碗則保留既有稿件。站主已決定不以真人試作作為解除 noindex 的前置條件；內容 Warning 與尚未驗證欄位仍照實保留。程式上線後需確認 100 個語系頁已移除 robots noindex，並檢查 sitemap 與 Search Console 的最新狀態；若提交重新檢索，Google 是否收錄仍由 Google 判定。若要擴大到其他未索引頁面，先取得最新 Search Console「網頁」完整匯出作為排序依據；機械預檢或本文修訂本身不能代替 Google 收錄結果。
 
 苦瓜家常技法：[The Woks of Life：Bitter Melon with Eggs](https://thewoksoflife.com/bitter-melon-with-eggs/)；含蛋料理溫度與多點測量：[USDA FSIS：Egg safety](https://ask.fsis.usda.gov/article/What-is-a-safe-internal-temperature-for-food-made-with-eggs)、[Food Thermometers](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers)。
