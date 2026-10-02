@@ -16,11 +16,12 @@ equipment:
   - 식품용 온도계
 tags:
   - 집밥
-intro: 다진 소고기 패티, 치즈, 할라피뇨, 신선한 채소로 만드는 매콤한 버거입니다. 색깔로 판단하지 말고 패티 중심을 71°C까지 익히세요.
+intro: 페퍼 잭 치즈와 절인 할라피뇨의 조합을 참고해 토마토와 양상추를 더한 1인분 팬 요리로 바꿨습니다. 레스토랑의 원래 레시피는 아닙니다. 다진 소고기 중심은 색이 아니라 온도로 확인해 71°C(160°F)까지 익히세요.
 steps:
-  - "다진 소고기를 번보다 약간 넓게 살짝 빚고 가운데를 얕게 눌러 줍니다. 양면에 소금, 후추, 고춧가루를 뿌립니다."
-  - "팬에 기름을 두르고 중강불에서 기름이 반짝일 때까지 달굽니다. 패티를 약 3~4분 익힌 뒤 뒤집습니다. 번의 자른 면도 팬 가장자리에서 2~3분 굽고 꺼냅니다."
-  - "패티 위에 페퍼 잭 치즈를 올리고 잠시 뚜껑을 덮어 부드럽게 녹입니다. 온도계를 옆에서 중심에 넣어 71°C에 도달하면 꺼냅니다. 덜 익었으면 더 익혀 다시 확인합니다."
+  - "양상추를 씻어 물기를 잘 닦고 토마토를 썹니다. 피클과 절인 할라페뇨의 국물을 빼고 번과 치즈를 준비합니다."
+  - "다진 소고기를 세게 치대지 말고 번보다 약간 넓고 두께 약 2cm인 패티로 빚은 뒤 가운데를 얕게 눌러 줍니다. 굽기 직전에 양면에 소금, 후추, 고춧가루를 뿌립니다."
+  - "팬에 기름을 두르고 중강불에서 기름이 반짝일 때까지 달군 다음 패티를 올립니다. 약 3~4분 익힌 뒤 뒤집습니다. 팬의 빈 공간에서 번의 자른 면도 2~3분 굽고 꺼냅니다."
+  - "뒤집은 패티 위에 페퍼 잭 치즈를 올리고 잠시 뚜껑을 덮어 녹입니다. 온도계의 감지부가 중심에 닿도록 패티 옆면에서 꽂습니다. 중심이 71°C(160°F)에 도달하면 꺼내고, 미달이면 더 익혀 다시 확인합니다. 고기 색이나 육즙으로 판단하지 마세요."
   - "번에 양상추, 토마토, 피클, 패티, 절인 할라페뇨를 올리고 따뜻할 때 냅니다."
 tips:
   - 온도계로 다진 소고기 패티 중심이 71°C인지 확인하세요. 겉면 색, 육즙, 갈색만으로는 안전한 익힘을 판단할 수 없습니다.
@@ -36,16 +37,24 @@ faqs:
     answer: 고춧가루와 할라피뇨를 빼면 됩니다. 패티 중심은 여전히 71°C까지 익혀야 합니다.
 featured: false
 publishedAt: 2026-06-09
-updatedAt: 2026-09-29
+updatedAt: 2026-10-02
 references:
   - label: 레시피 참고
     name: "Southwestern Pickled Jalapeño Burger — Food Network"
     url: https://www.foodnetwork.com/recipes/southwestern-pickled-jalape241o-burger-recipe-2131713
-    note: 페퍼 잭, 절인 할라페뇨, 팬에 구운 번의 조합을 참고하고 이 페이지의 고춧가루 양념과 생채소를 더했습니다.
+    note: 페퍼 잭과 절인 할라페뇨의 조합, 기름이 반짝일 때 패티를 굽는 순서, 번을 팬에 굽는 방법만 참고했습니다. 분량과 양념, 채소를 바꾼 가정식 응용입니다.
   - label: 식품 안전 안내
     name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
     url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
     note: 다진 소고기 패티 중심을 71°C까지 익히고 겉색이나 고기색으로 판단하지 마세요.
+  - label: 온도계 사용법
+    name: "Food Thermometers — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers
+    note: 얇은 패티는 온도계 감지부가 중심에 닿도록 옆면에서 꽂습니다. 다진 소고기는 71°C(160°F)까지 익힙니다.
+  - label: 패티 성형 참고
+    name: "How to Make Perfect Burger Patties — Food Network"
+    url: https://www.foodnetwork.com/recipes/articles/how-to-make-perfect-burger-patties
+    note: 이 가이드는 고기를 나누어 얇은 패티로 누르는 방법을 보여 줍니다. 약 2cm 두께와 가운데 홈은 이 가정식 변형에서 채택한 미검증 방법입니다.
 ingredients:
   - name: "다진 소고기"
     amount: "160"

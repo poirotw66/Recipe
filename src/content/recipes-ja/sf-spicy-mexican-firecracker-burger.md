@@ -16,11 +16,12 @@ equipment:
   - 食品用温度計
 tags:
   - 家庭料理
-intro: 牛ひき肉のパティ、チーズ、ハラペーニョ、新鮮な野菜で作る辛口バーガーです。色ではなく中心温度を確認し、71°Cまで加熱します。
+intro: ペッパージャックとハラペーニョのピクルスの組み合わせを参考に、トマトとレタスを加えた1人分のフライパン料理にアレンジしました。店のオリジナルレシピではありません。牛ひき肉の中心は色ではなく温度で確認し、71°C（160°F）まで加熱します。
 steps:
-  - "牛ひき肉をバンズより少し大きいパティに軽く整え、中央を浅くくぼませます。両面に塩、こしょう、チリパウダーを振ります。"
-  - "フライパンに油を中強火で熱し、油がきらめいたらパティを約3～4分焼いて裏返します。バンズの切り口も鍋の端で2～3分焼いて取り出します。"
-  - "パティにペッパージャックチーズをのせ、短時間ふたをして柔らかくします。温度計を横から中心に差し、71°Cに達したら取り出します。未達なら加熱して再測定します。"
+  - "レタスを洗って水気をよく拭き、トマトを薄切りにします。ピクルスとハラペーニョの余分な漬け汁を切り、バンズとチーズを用意します。"
+  - "牛ひき肉をこねすぎないように、厚さ約2cmでバンズより少し大きいパティに整え、中央を浅くくぼませます。焼く直前に両面へ塩、こしょう、チリパウダーを振ります。"
+  - "フライパンに油を中強火で熱し、油がきらめいたらパティを入れます。約3～4分焼いてから裏返します。鍋の空いた場所でバンズの切り口も2～3分焼き、取り出します。"
+  - "裏返したパティにペッパージャックをのせ、短時間ふたをして溶かします。温度計の感温部が中心に届くよう、パティの側面から差し込みます。中心が71°C（160°F）に達したら取り出し、未達なら加熱して再測定します。肉の色や肉汁では判断しません。"
   - "バンズにレタス、トマト、ピクルス、パティ、ハラペーニョのピクルスを重ね、熱いうちに食べます。"
 tips:
   - 牛ひき肉の中心が71°Cに達したことを温度計で確認します。焼き色や肉汁だけでは安全な火の通りを判断できません。
@@ -36,16 +37,24 @@ faqs:
     answer: チリパウダーとハラペーニョを省けます。パティは中心71°Cまで加熱してください。
 featured: false
 publishedAt: 2026-06-09
-updatedAt: 2026-09-29
+updatedAt: 2026-10-02
 references:
   - label: レシピの参考
     name: "Southwestern Pickled Jalapeño Burger — Food Network"
     url: https://www.foodnetwork.com/recipes/southwestern-pickled-jalape241o-burger-recipe-2131713
-    note: ペッパージャック、ハラペーニョのピクルス、フライパンで焼くバンズの組み合わせを参考にし、本ページのチリ味と野菜を合わせました。
+    note: ペッパージャックとハラペーニョのピクルス、油がきらめいてからパティを焼く手順、バンズの切り口を焼く方法のみを参考にしました。分量、味付け、野菜を変えた家庭向けアレンジです。
   - label: 食品安全の基準
     name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
     url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
     note: 牛ひき肉パティの中心は71°Cにします。焼き色や肉の色だけで判断しません。
+  - label: 温度計の差し方
+    name: "Food Thermometers — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers
+    note: 薄いパティは側面から差し、感温部を中心に合わせます。牛ひき肉は71°C（160°F）まで加熱します。
+  - label: パティ成形の参考
+    name: "How to Make Perfect Burger Patties — Food Network"
+    url: https://www.foodnetwork.com/recipes/articles/how-to-make-perfect-burger-patties
+    note: このガイドでは肉を分けて薄いパティに押し広げます。約2cmの厚さと中央のくぼみは、この家庭向けアレンジで採用した未検証の方法です。
 ingredients:
   - name: "牛ひき肉"
     amount: "160"

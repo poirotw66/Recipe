@@ -1,26 +1,43 @@
 {
   "slug": "dh-steamed-eggs-with-cheese-roe",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
-  "confidence_score": 0.8,
+  "confidence_score": 0.88,
   "locales": [
     "zh-TW",
     "en",
     "ja",
     "ko"
   ],
-  "repair_summary": "Rebalanced egg/stock ratio; specified cooked ready-to-eat roe, removed duplicate sesame oil and unrelated frying/storage copy, listed salt.",
+  "repair_summary": "Clarified the home-adaptation provenance; detailed broth cooling, straining, gentle covered steaming, multi-point temperature checks, and per-bowl toppings across four locales; corrected cheddar to two slices for two bowls.",
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "Recipe text has been corrected and cross-locale structure checked, but cooking time, yield, texture and retained cover-image consistency still need practical verification. No kitchen trial is claimed.",
-      "suggested_fix": "Run and record a kitchen trial with the listed ingredients and equipment, check the existing image against the resulting dish, and review all translations before changing index eligibility.",
+      "description": "四語家常改編的份量與溫度熟度指示已對齊，但蒸 12 分鐘後開始檢查、每次續蒸 2 分鐘的時間安排、成品份量、口感及既有封面圖是否相符，均尚未經廚房試作確認；本次未宣稱已試作。",
+      "suggested_fix": "依列出的食材與器具實際製作兩碗，記錄中心多點達 71.1°C 所需時間、成品份量與口感，並比對封面圖後再覆核四語稿。完成實作審核前維持此篇 noindex。",
       "source": "agent"
     }
   ],
   "mechanical_review": {
     "issues": [],
-    "disposition": "Reviewed against the complete ingredient list and steps. Qualified names (small whole chicken, ready-to-eat products), shortened ingredient names, and black-pepper/salt aliases account for these string-matching warnings; no missing required ingredient was identified in this parent review."
-  }
+    "disposition": "Single-slug stdout-only precheck on 2026-10-02 passed with no mechanical issues."
+  },
+  "references": [
+    {
+      "name": "Chawanmushi (Japanese steamed egg custard) — Ministry of Agriculture, Forestry and Fisheries of Japan",
+      "url": "https://www.maff.go.jp/e/policies/market/japan-cuisine/japan/19/index.html",
+      "supports": "Straining the egg mixture, covering portions, and reducing the heat before gentle steaming; used as a method reference for this explicitly identified home adaptation."
+    },
+    {
+      "name": "By what methods can you cook eggs safely? — USDA FSIS",
+      "url": "https://ask.fsis.usda.gov/article/By-what-methods-can-you-cook-eggs-safely",
+      "supports": "Egg dishes should reach 160°F (71.1°C)."
+    },
+    {
+      "name": "Food Thermometers — USDA FSIS",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers",
+      "supports": "Check egg dishes in several places and verify 160°F at the center."
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
   "slug": "sf-spicy-mexican-firecracker-burger",
-  "reviewed_at": "2026-09-29",
+  "reviewed_at": "2026-10-02",
   "status": "Warning",
   "confidence_score": 0.9,
   "issues": [
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The recipe was rewritten to align its ingredients, steps, metadata, and safety endpoints, but its recipe-specific timing, yield, and sensory result have not been verified in a kitchen. No kitchen trial or provenance is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, record actual prep and cook time and yield, confirm the expected texture and any applicable safe internal temperature, then update the recipe before reconsidering indexing.",
+      "description": "四語步驟已補上蔬菜處理、肉餅厚度、鍋面火候提示、麵包煎烤、起司融化與溫度計量測方式。標示的 25 分鐘、一人份實際產量、肉餅成形、口感及操作順序仍未經廚房試作確認；未宣稱已試作。",
+      "suggested_fix": "安排真人依配方試作，記錄實際備料與烹調時間、產量、肉餅厚度和口感，並確認中心達 71°C；取得試作紀錄並完成四語複核後，再評估索引狀態。",
       "source": "agent"
     }
   ]

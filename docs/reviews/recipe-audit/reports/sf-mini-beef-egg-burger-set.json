@@ -7,8 +7,8 @@
     {
       "type": "Logic_Error",
       "severity": "Warning",
-      "description": "The four-language instructions now make raw and cooked food separation explicit, but recipe-specific timing, children's portion size, yield, and sensory results remain unverified in a kitchen. No kitchen trial or Second Floor original formula is claimed.",
-      "suggested_fix": "Have a cook prepare the recipe as written, confirm whether two mini burgers make the intended children's meal, record actual prep and cook time and yield, and check patty temperature and texture. Update the recipe from those observations before reconsidering indexing.",
+      "description": "四語步驟已明確說明生熟食分流與生肉接觸面清潔；但兒童餐份量、實際產量、備料與烹調時間及成品口感仍未經真人試作確認，未宣稱已試作或使用貳樓原始配方。",
+      "suggested_fix": "安排真人依配方試作，確認兩個迷你漢堡是否符合預期兒童餐份量，記錄實際備料與烹調時間、產量、肉餅中心溫度和口感；依觀察更新食譜後，再評估索引狀態。",
       "source": "agent"
     }
   ]

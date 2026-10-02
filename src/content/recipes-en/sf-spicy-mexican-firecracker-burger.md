@@ -17,13 +17,15 @@ equipment:
   - Food thermometer
 tags:
   - Home cooking
-intro: Make a spicy burger with a ground-beef patty, cheese, jalapeño, and fresh
-  vegetables. Cook the ground beef to 71°C / 160°F at the center rather than
-  judging by color.
+intro: This one-serving skillet adaptation borrows the pepper Jack and pickled
+  jalapeño pairing, then adds tomato and lettuce; it is not the restaurant's
+  original recipe. Cook the ground beef to 71°C / 160°F at the center rather
+  than judging by color.
 steps:
-  - "Gently shape the beef into a patty slightly wider than the bun and press a shallow dimple in the center. Season both sides with salt, pepper, and chili powder."
-  - "Heat the oil in a skillet over medium-high until it shimmers. Cook the patty for about 3–4 minutes, then turn it. Toast the bun cut-side down at the edge of the pan for 2–3 minutes and remove."
-  - "Top the patty with pepper Jack and cover briefly to soften the cheese. Check the center from the side with a thermometer; remove only at 71°C / 160°F, continuing to cook and recheck if needed."
+  - "Wash and dry the lettuce, slice the tomato, drain excess brine from the pickles and jalapeños, and set out the bun and cheese."
+  - "Gently shape the ground beef into a patty about 2 cm thick and slightly wider than the bun; press a shallow dimple in the center. Season both sides with salt, pepper, and chili powder just before cooking."
+  - "Heat the oil in a skillet over medium-high until it shimmers, then add the patty. Cook for about 3–4 minutes before turning. Use a clear spot in the pan to toast the bun cut-side down for 2–3 minutes, then remove it."
+  - "After turning the patty, add the pepper Jack and cover briefly until melted. Insert the thermometer from the side so its sensing area reaches the center; remove the patty only at 71°C / 160°F. If it is below that temperature, keep cooking and check again; do not judge by meat color or juices."
   - "Layer lettuce, tomato, pickle, the patty, and pickled jalapeño on the bun. Serve hot."
 tips:
   - Use a thermometer to confirm 71°C / 160°F at the center of the ground-beef
@@ -42,16 +44,24 @@ faqs:
       reach 71°C / 160°F.
 featured: false
 publishedAt: 2026-06-09
-updatedAt: 2026-09-29
+updatedAt: 2026-10-02
 references:
   - label: Recipe adaptation
     name: "Southwestern Pickled Jalapeño Burger — Food Network"
     url: https://www.foodnetwork.com/recipes/southwestern-pickled-jalape241o-burger-recipe-2131713
-    note: We adapt the pepper Jack, pickled jalapeño, and pan-toasted bun combination while keeping this page’s chili seasoning and fresh vegetables.
+    note: We use only its pepper Jack and pickled jalapeño pairing, shimmering-oil skillet sequence, and pan-toasted bun method. This page changes the yield, seasoning, and vegetables as a home-cooking adaptation.
   - label: Food-safety guidance
     name: "Safe Minimum Internal Temperature Chart — USDA FSIS"
     url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
     note: The center of the ground-beef patty must reach 71°C / 160°F; do not judge by browning or color.
+  - label: Thermometer placement
+    name: "Food Thermometers — USDA FSIS"
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-thermometers
+    note: For a thin patty, insert the probe from the side so its sensing area reaches the center; ground beef must reach 71°C / 160°F.
+  - label: Patty shaping reference
+    name: "How to Make Perfect Burger Patties — Food Network"
+    url: https://www.foodnetwork.com/recipes/articles/how-to-make-perfect-burger-patties
+    note: The guide shows forming beef portions and flattening them into thin patties; the approximately 2 cm thickness and shallow center dimple here are untested choices for this home adaptation.
 ingredients:
   - name: "Ground beef"
     amount: "160"
