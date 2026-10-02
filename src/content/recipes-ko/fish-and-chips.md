@@ -1,7 +1,7 @@
 ---
 recipeId: fish-and-chips
 title: 피시 앤 칩스
-description: 대구에 튀김옷을 입혀 바삭하게 튀기고 감자튀김과 레몬을 곁들여 영국 펍 스타일을 집에서 재현합니다.
+description: 대구에 밀가루와 달걀물을 입혀 바삭하게 튀기고 두 번 튀긴 감자와 레몬을 곁들인 영국 펍 스타일 요리입니다.
 coverImage: /images/recipes/fish-and-chips.webp
 servings: 1
 prepTime: 15

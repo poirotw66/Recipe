@@ -1,7 +1,7 @@
 ---
 title: Fish and Chips
 recipeId: fish-and-chips
-description: Beer-batter-style crisp cod with double-fried chips and lemon—pub classic at home.
+description: Flour-and-egg-coated cod, fried crisp and served with double-fried chips and lemon—a pub classic at home.
 coverImage: /images/recipes/fish-and-chips.webp
 servings: 1
 prepTime: 15

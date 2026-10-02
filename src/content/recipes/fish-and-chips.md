@@ -1,6 +1,6 @@
 ---
 title: "英式炸魚薯條"
-description: "鱈魚裹炸粉酥炸，搭配現炸薯條與檸檬，重現英式小館風味。"
+description: "鱈魚沾裹麵粉與蛋液後酥炸，搭配雙重炸薯條與檸檬，重現英式小館風味。"
 coverImage: /images/recipes/fish-and-chips.webp
 servings: 1
 prepTime: 15

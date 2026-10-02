@@ -1,7 +1,7 @@
 ---
 recipeId: fish-and-chips
 title: フィッシュ・アンド・チップス
-description: タラに衣をつけて揚げ、揚げたてポテトとレモンで。英式パブ風の一品。
+description: タラを小麦粉と卵液で衣づけして揚げ、二度揚げポテトとレモンを添える英式パブ風の一皿。
 coverImage: /images/recipes/fish-and-chips.webp
 servings: 1
 prepTime: 15
