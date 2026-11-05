@@ -39,6 +39,6 @@ homeSearchForm?.addEventListener("submit", (event) => {
   homeSearchError.hidden = true;
   input.removeAttribute("aria-invalid");
   const separator = fridgePath.startsWith("/en/") || fridgePath.startsWith("/ja/") || fridgePath.startsWith("/ko/") ? "," : "、";
-  const basePath = fridgePath.endsWith("/") ? fridgePath.slice(0, -1) : fridgePath;
+  const basePath = fridgePath.endsWith("/") ? fridgePath : `${fridgePath}/`;
   window.location.href = `${basePath}?ingredients=${encodeURIComponent(tokens.join(separator))}#fridge-results`;
 });

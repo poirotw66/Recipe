@@ -1,5 +1,6 @@
 ---
 import RecipeCard from "./RecipeCard.astro";
+import DinnerPicker from "./DinnerPicker.astro";
 import { localePath, type Locale } from "../lib/i18n";
 import { getHomePage } from "../i18n/home-page";
 import { listRecipesForLocale } from "../lib/recipe-locale";
@@ -51,8 +52,9 @@ const topicHubsInlineLinks = content.topicHubsInlineLinkRefs
   .filter((link): link is NonNullable<typeof link> => Boolean(link));
 ---
 
-<section class="hero">
-  <div class="container">
+<section class="hero home-decision">
+  <div class="container home-decision__layout">
+    <div class="home-decision__search">
     <div class="hero-intro">
       <p class="eyebrow">{content.heroEyebrow}</p>
       <h1 class="page-title">{content.heroTitle}</h1>
@@ -62,6 +64,8 @@ const topicHubsInlineLinks = content.topicHubsInlineLinkRefs
     <div class="search-panel">
       <form
         class="search-form"
+        action={fridgeToolPath}
+        method="get"
         data-home-search
         data-fridge-path={fridgeToolPath}
         data-error-empty={content.searchErrorEmpty}
@@ -74,12 +78,13 @@ const topicHubsInlineLinks = content.topicHubsInlineLinkRefs
             type="search"
             placeholder={content.searchPlaceholder}
             autocomplete="off"
+            aria-describedby="home-search-error"
             data-home-search-input
           />
         </label>
         <button class="button primary" type="submit">{content.searchSubmit}</button>
       </form>
-      <p class="form-error" data-home-search-error hidden></p>
+      <p class="form-error" id="home-search-error" role="alert" data-home-search-error hidden></p>
 
       <div class="chip-row" aria-label={content.quickIngredientsAriaLabel}>
         {
@@ -94,6 +99,8 @@ const topicHubsInlineLinks = content.topicHubsInlineLinkRefs
         }
       </div>
     </div>
+    </div>
+    <DinnerPicker recipes={allRecipes} locale={locale} />
   </div>
 </section>
 
@@ -191,3 +198,28 @@ const topicHubsInlineLinks = content.topicHubsInlineLinkRefs
 </section>
 
 <script is:inline src="/scripts/home-search.js"></script>
+
+<style>
+  .home-decision { padding: 32px 0; background: var(--note); border-bottom: 1px solid var(--bran-line); }
+  .home-decision__layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, .95fr); gap: clamp(24px, 4vw, 56px); align-items: center; }
+  .home-decision__search { min-width: 0; }
+  .hero-intro { margin-bottom: 28px; border: 0; padding: 0; }
+  .hero-intro .eyebrow { color: var(--scallion-deep); }
+  .page-title { font-size: clamp(2rem, 3.3vw, 2.8rem); line-height: 1.4; text-wrap: balance; }
+  .page-copy { margin: 16px 0 0; max-width: 32em; }
+  .search-panel { padding: 24px 0 0; border: 0; border-top: 1px solid var(--caramel-line); border-radius: 0; background: transparent; box-shadow: none; }
+  .search-form { grid-template-columns: 1fr; gap: 12px; }
+  .field .eyebrow { color: var(--soy-ink); font-size: .85rem; letter-spacing: 0; font-weight: 500; }
+  .search-form input { border-radius: 6px; border-color: var(--caramel-line); background: var(--porcelain); }
+  .search-form .button { min-height: 48px; border-radius: 6px; }
+  .chip-row { margin-top: 16px; }
+  .chip.note { background: var(--porcelain); border-color: var(--caramel-line); color: var(--soy-ink); }
+  @media (max-width: 719px) {
+    .home-decision { padding: 24px 0; }
+    .home-decision__layout { grid-template-columns: 1fr; gap: 28px; }
+    .hero-intro { margin-bottom: 20px; }
+    .page-title { font-size: 1.9rem; }
+    .page-copy { font-size: .9rem; }
+    .search-panel { padding-top: 16px; }
+  }
+</style>

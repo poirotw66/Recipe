@@ -1,0 +1,146 @@
+---
+import { dinnerPickerCopy } from "../i18n/dinner-picker";
+import { localePath, type Locale } from "../lib/i18n";
+import { getRecipeCardHighlights } from "../lib/recipes";
+import type { LocalizedRecipeEntry } from "../lib/recipe-locale";
+
+interface Props {
+  recipes: LocalizedRecipeEntry[];
+  locale: Locale;
+}
+
+const { recipes, locale } = Astro.props;
+const copy = dinnerPickerCopy[locale];
+// Dinner candidates are mains and meal bowls, rather than standalone side dishes.
+const dinnerSlugs = new Set([
+  "scallion-egg-rice", "canned-tuna-rice-bowl", "tomato-egg-rice",
+  "onion-egg-rice-bowl", "egg-scallion-oil-noodles", "quick-kimchi-fried-rice",
+  "onion-tomato-egg-fried-rice", "beef-broccoli-stirfry", "garlic-mushroom-chicken",
+  "pesto-chicken-pasta", "scallion-beef-fried-rice", "carrot-chicken-rice-bowl",
+  "garlic-cream-shrimp-pasta", "air-fryer-salmon-broccoli", "mushroom-beef-rice-bowl"
+]);
+// Keep a small, varied selection across budgets, using actual totalTime metadata.
+const bySimplicity = recipes.filter((recipe) => dinnerSlugs.has(recipe.slug) && recipe.data.totalTime <= 30)
+  .sort((a, b) => Number(Boolean(b.data.featured)) - Number(Boolean(a.data.featured))
+    || a.data.ingredients.length - b.data.ingredients.length
+    || a.slug.localeCompare(b.slug));
+const choices = [[10, 20], [0, 10], [20, 30]].flatMap(([min, max]) =>
+  bySimplicity.filter((recipe) => recipe.data.totalTime > min && recipe.data.totalTime <= max).slice(0, 4)
+).map((recipe) => ({
+  slug: recipe.slug,
+  title: recipe.data.title,
+  image: recipe.data.coverImage,
+  href: localePath(locale, `/recipes/${recipe.slug}`),
+  totalTime: recipe.data.totalTime,
+  ...getRecipeCardHighlights(recipe, locale)
+}));
+const initial = choices.find((recipe) => recipe.totalTime <= 20) ?? choices[0];
+---
+
+{initial && (
+  <aside class="dinner-picker" aria-labelledby="dinner-title" data-dinner-picker data-choices={JSON.stringify(choices)}>
+    <div class="dinner-picker__heading">
+      <h2 id="dinner-title">{copy.title}</h2>
+      <p>{copy.hint}</p>
+    </div>
+    <div class="dinner-picker__controls" data-dinner-controls>
+      <span id="dinner-time-label">{copy.timeLabel}</span>
+      <div class="dinner-picker__budgets" role="group" aria-labelledby="dinner-time-label">
+        {[10, 20, 30].map((minutes) => (
+          <button type="button" data-dinner-budget={minutes} aria-pressed={minutes === 20 ? "true" : "false"} disabled>
+            <strong>{minutes}</strong> {copy.minutes}
+          </button>
+        ))}
+      </div>
+    </div>
+    <a class="dinner-picker__photo" href={initial.href} data-dinner-photo-link tabindex="-1" aria-hidden="true">
+      <img src={initial.image} alt="" width="800" height="600" fetchpriority="high" decoding="async" data-dinner-image />
+    </a>
+    <div class="dinner-picker__recipe" aria-live="polite" aria-atomic="true" aria-label={copy.suggestion}>
+      <p class="dinner-picker__facts"><span data-dinner-time>{initial.timeLabel}</span><span data-dinner-equipment>{initial.equipmentLabel}</span></p>
+      <h3 data-dinner-name>{initial.title}</h3>
+      <p class="dinner-picker__ingredients"><span>{copy.ingredients}：</span><span data-dinner-ingredients>{initial.ingredientNames.join(" · ")}</span></p>
+    </div>
+    <div class="dinner-picker__actions">
+      <a class="button primary recipe-card__link" href={initial.href} data-dinner-link>{copy.cook} <span aria-hidden="true">↗</span></a>
+      <button class="dinner-picker__another" type="button" data-dinner-another disabled>{copy.another} <span aria-hidden="true">↻</span></button>
+    </div>
+  </aside>
+)}
+
+<script>
+  import { pickNextDinner } from "../lib/dinner-picker.js";
+
+  const picker = document.querySelector<HTMLElement>("[data-dinner-picker]");
+  if (picker) {
+    const choices = JSON.parse(picker.dataset.choices ?? "[]");
+    let budget = 20;
+    let currentSlug = choices.find((recipe: { totalTime: number }) => recipe.totalTime <= budget)?.slug ?? choices[0]?.slug;
+    const another = picker.querySelector<HTMLButtonElement>("[data-dinner-another]");
+    const buttons = picker.querySelectorAll<HTMLButtonElement>("[data-dinner-budget]");
+
+    function showRecipe(next = false) {
+      const recipe = pickNextDinner(choices, budget, next ? currentSlug : undefined);
+      if (!recipe || !picker) return;
+      currentSlug = recipe.slug;
+      const image = picker.querySelector<HTMLImageElement>("[data-dinner-image]");
+      if (image) image.src = recipe.image;
+      for (const selector of ["[data-dinner-link]", "[data-dinner-photo-link]"]) {
+        picker.querySelector<HTMLAnchorElement>(selector)?.setAttribute("href", recipe.href);
+      }
+      for (const [selector, value] of [
+        ["[data-dinner-name]", recipe.title],
+        ["[data-dinner-time]", recipe.timeLabel],
+        ["[data-dinner-equipment]", recipe.equipmentLabel],
+        ["[data-dinner-ingredients]", recipe.ingredientNames.join(" · ")]
+      ]) {
+        const element = picker.querySelector(selector);
+        if (element) element.textContent = value;
+      }
+      buttons.forEach((button) => button.setAttribute("aria-pressed", String(Number(button.dataset.dinnerBudget) === budget)));
+      if (another) another.disabled = choices.filter((item: { totalTime: number }) => item.totalTime <= budget).length < 2;
+    }
+
+    buttons.forEach((button) => {
+      button.disabled = !choices.some((recipe: { totalTime: number }) => recipe.totalTime <= Number(button.dataset.dinnerBudget));
+      button.addEventListener("click", () => {
+        budget = Number(button.dataset.dinnerBudget);
+        showRecipe();
+      });
+    });
+    another?.addEventListener("click", () => showRecipe(true));
+    showRecipe();
+  }
+</script>
+
+<style>
+  .dinner-picker { min-width: 0; border: 1px solid var(--bran-line); border-radius: 8px; background: var(--porcelain); overflow: hidden; box-shadow: var(--shadow-sm); }
+  .dinner-picker__heading { padding: 16px 24px 8px; }
+  .dinner-picker__heading h2 { margin: 0; font-family: var(--font-display); font-size: 1.3rem; line-height: 1.4; }
+  .dinner-picker__heading p { margin: 4px 0 0; color: var(--mushroom); font-size: .85rem; }
+  .dinner-picker__controls { padding: 0 24px 16px; }
+  .dinner-picker__controls > span { display: block; font-size: .8rem; margin-bottom: 8px; }
+  .dinner-picker__budgets { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
+  .dinner-picker__budgets button { min-height: 44px; padding: 6px; background: transparent; color: var(--scallion-deep); border: 1px solid var(--bran-line); border-radius: 6px; cursor: pointer; font-size: .8rem; }
+  .dinner-picker__budgets button[aria-pressed="true"] { background: var(--scallion-deep); color: white; border-color: var(--scallion-deep); }
+  .dinner-picker__budgets strong { font-family: ui-monospace, monospace; font-size: 1.05rem; }
+  .dinner-picker__photo { display: block; aspect-ratio: 5 / 2; overflow: hidden; background: var(--note); }
+  .dinner-picker__photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
+  .dinner-picker__recipe { padding: 16px 24px 0; }
+  .dinner-picker__facts { display: flex; flex-wrap: wrap; gap: 16px; margin: 0 0 6px; color: var(--scallion-deep); font-size: .8rem; font-weight: 600; }
+  .dinner-picker__recipe h3 { margin: 0; font-family: var(--font-display); font-size: 1.45rem; line-height: 1.45; }
+  .dinner-picker__ingredients { margin: 8px 0 0; font-size: .85rem; color: var(--mushroom); }
+  .dinner-picker__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 20px; padding: 16px 24px 24px; }
+  .dinner-picker__actions .button { gap: 20px; border-radius: 6px; }
+  .dinner-picker__another { border: 0; background: transparent; color: var(--scallion-deep); padding: 10px 0; min-height: 44px; cursor: pointer; font-size: .85rem; text-decoration: underline; text-underline-offset: 4px; }
+  button:focus-visible, a:focus-visible { outline: 2px solid var(--scallion-deep); outline-offset: 3px; }
+  button:disabled { opacity: .5; cursor: default; }
+  [hidden] { display: none; }
+  @media (max-width: 719px) {
+    .dinner-picker__photo { aspect-ratio: 16 / 9; }
+    .dinner-picker__heading { padding: 16px 16px 12px; }
+    .dinner-picker__controls { padding-inline: 16px; }
+    .dinner-picker__recipe { padding-inline: 16px; }
+    .dinner-picker__actions { padding: 16px; }
+  }
+</style>
