@@ -3,6 +3,18 @@ const toggle = document.querySelector("[data-nav-toggle]");
 const nav = document.querySelector("[data-site-nav]");
 
 if (header instanceof HTMLElement && toggle instanceof HTMLButtonElement && nav instanceof HTMLElement) {
+  // The narrow header has two rows. Keep its menu inside the remaining viewport,
+  // including after web fonts load or the user changes text size/orientation.
+  const updateHeaderHeight = () => {
+    header.style.setProperty("--site-header-height", `${Math.ceil(header.getBoundingClientRect().height)}px`);
+  };
+  updateHeaderHeight();
+  if ("ResizeObserver" in window) {
+    new ResizeObserver(updateHeaderHeight).observe(header);
+  } else {
+    window.addEventListener("resize", updateHeaderHeight);
+  }
+
   const closeNav = () => {
     header.dataset.open = "false";
     toggle.setAttribute("aria-expanded", "false");
@@ -13,6 +25,9 @@ if (header instanceof HTMLElement && toggle instanceof HTMLButtonElement && nav 
     header.dataset.open = "true";
     toggle.setAttribute("aria-expanded", "true");
     document.body.classList.add("nav-open");
+    if (window.matchMedia("(max-width: 720px)").matches) {
+      nav.querySelector("a[href]")?.focus({ preventScroll: true });
+    }
   };
 
   toggle.addEventListener("click", () => {
@@ -57,6 +72,12 @@ if (header instanceof HTMLElement && toggle instanceof HTMLButtonElement && nav 
         toggle.focus();
       }
       closeTopicMenus();
+    }
+  });
+
+  document.addEventListener("focusin", (event) => {
+    if (header.dataset.open === "true" && event.target instanceof Node && !header.contains(event.target)) {
+      closeNav();
     }
   });
 

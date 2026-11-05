@@ -69,18 +69,40 @@ const initial = choices.find((recipe) => recipe.totalTime <= 20) ?? choices[0];
 )}
 
 <script>
-  import { pickNextDinner } from "../lib/dinner-picker.js";
+  import { dinnerSelectionStorageKey, pickNextDinner, restoreDinnerSelection } from "../lib/dinner-picker.js";
+
+  interface DinnerChoice {
+    slug: string;
+    title: string;
+    image: string;
+    href: string;
+    totalTime: number;
+    timeLabel: string;
+    equipmentLabel: string;
+    ingredientNames: string[];
+  }
 
   const picker = document.querySelector<HTMLElement>("[data-dinner-picker]");
   if (picker) {
-    const choices = JSON.parse(picker.dataset.choices ?? "[]");
+    const choices: DinnerChoice[] = JSON.parse(picker.dataset.choices ?? "[]");
     let budget = 20;
-    let currentSlug = choices.find((recipe: { totalTime: number }) => recipe.totalTime <= budget)?.slug ?? choices[0]?.slug;
+    let currentSlug = pickNextDinner(choices, budget)?.slug;
+    function restoreSelection() {
+      try {
+        const restored = restoreDinnerSelection(sessionStorage.getItem(dinnerSelectionStorageKey), choices);
+        if (restored) {
+          budget = restored.budget;
+          currentSlug = restored.slug;
+        }
+      } catch {
+        // Storage can be unavailable; the picker remains fully usable without it.
+      }
+    }
+    restoreSelection();
     const another = picker.querySelector<HTMLButtonElement>("[data-dinner-another]");
     const buttons = picker.querySelectorAll<HTMLButtonElement>("[data-dinner-budget]");
 
-    function showRecipe(next = false) {
-      const recipe = pickNextDinner(choices, budget, next ? currentSlug : undefined);
+    function showRecipe(recipe: DinnerChoice | undefined) {
       if (!recipe || !picker) return;
       currentSlug = recipe.slug;
       const image = picker.querySelector<HTMLImageElement>("[data-dinner-image]");
@@ -98,18 +120,31 @@ const initial = choices.find((recipe) => recipe.totalTime <= 20) ?? choices[0];
         if (element) element.textContent = value;
       }
       buttons.forEach((button) => button.setAttribute("aria-pressed", String(Number(button.dataset.dinnerBudget) === budget)));
-      if (another) another.disabled = choices.filter((item: { totalTime: number }) => item.totalTime <= budget).length < 2;
+      if (another) another.disabled = choices.filter((item) => item.totalTime <= budget).length < 2;
+      try {
+        sessionStorage.setItem(dinnerSelectionStorageKey, JSON.stringify({ budget, slug: recipe.slug }));
+      } catch {
+        // Rendering and navigation do not depend on storage being writable.
+      }
     }
 
     buttons.forEach((button) => {
-      button.disabled = !choices.some((recipe: { totalTime: number }) => recipe.totalTime <= Number(button.dataset.dinnerBudget));
+      button.disabled = !choices.some((recipe) => recipe.totalTime <= Number(button.dataset.dinnerBudget));
       button.addEventListener("click", () => {
-        budget = Number(button.dataset.dinnerBudget);
-        showRecipe();
+        const nextBudget = Number(button.dataset.dinnerBudget);
+        if (nextBudget === budget) return;
+        budget = nextBudget;
+        showRecipe(pickNextDinner(choices, budget));
       });
     });
-    another?.addEventListener("click", () => showRecipe(true));
-    showRecipe();
+    another?.addEventListener("click", () => showRecipe(pickNextDinner(choices, budget, currentSlug)));
+    showRecipe(choices.find((recipe) => recipe.slug === currentSlug));
+    window.addEventListener("pageshow", (event) => {
+      if (event.persisted) {
+        restoreSelection();
+        showRecipe(choices.find((recipe) => recipe.slug === currentSlug));
+      }
+    });
   }
 </script>
 

@@ -9,3 +9,21 @@ export function pickNextDinner(recipes, maxMinutes, currentSlug) {
   }
   return eligible[(currentIndex + 1) % eligible.length];
 }
+
+export const dinnerSelectionStorageKey = "bloom-dinner-picker";
+
+/** Restore only a supported budget and an eligible recipe in this locale's candidates. */
+export function restoreDinnerSelection(serialized, recipes) {
+  if (typeof serialized !== "string") return undefined;
+  try {
+    const value = JSON.parse(serialized);
+    if (!value || Array.isArray(value) || typeof value !== "object"
+      || ![10, 20, 30].includes(value.budget) || typeof value.slug !== "string") {
+      return undefined;
+    }
+    const recipe = recipes.find((item) => item.slug === value.slug && item.totalTime <= value.budget);
+    return recipe ? { budget: value.budget, slug: recipe.slug } : undefined;
+  } catch {
+    return undefined;
+  }
+}
